@@ -52,5 +52,19 @@
         ]
       }
     ]
+  },
+  {
+    "generatedAt": "2026-09-08T08:50:17.271995Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 230.36,
+        "weekAgoPrice": 217.5500030517578,
+        "percentChange": 5.89,
+        "flagged": true,
+        "news": []
+      }
+    ]
   }
 ]
