@@ -1,53 +1,40 @@
 {
-  "generatedAt": "2026-09-08T12:24:04.705352Z",
+  "generatedAt": "2026-09-08T16:16:21.984942Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 499.7,
-      "weekAgoPrice": 513.530029296875,
-      "percentChange": -2.69,
+      "currentPrice": 492.55,
+      "weekAgoPrice": 507.2900085449219,
+      "percentChange": -2.91,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 230.36,
-      "weekAgoPrice": 217.5500030517578,
-      "percentChange": 5.89,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1drQ1lPb01ETXcxcm1DWU9rRmhVVksySkF5V3JRNTlDVm1EaE9oa0xvVTdwdHBkYzRDWkczeE5tak52SHpqWU1FaXJtSTZpcHp1OW1SMUw1U3plRnBkbmF5SE8wWVl0MnMzX3Z0RDVwekc5VEdPTzNLT0gtVzJjbW8zSVdoZGplNVZxNGl2ajJMU0JxaDJUSG1DbFJ2cnlqeHk2ajNHdVV5b3JfellWTmVFS2x0UkF0ZHNhZ0x3?oc=5"
-        },
-        {
-          "title": "Nvidia Stock Price Outlook: What Technical Analysis Says Now - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGV2ek1hM3dQWThnVVZVWnB5WWpqbklxLTgwbTljZlFJaWF0ZlNWWEZMOERHY3JhSlo2T3lBcGtmSTEzS1AtU0JXc0pjZWQyQ1JVNk8zeXNJVWpHa1U1aU9NUE0xUEtlY2ZZcW94cC1Ec2FEWEtKSzVJTG9EZE5Ydk1XLUVmS0c1UG51RU9Oclh2cXM?oc=5"
-        },
-        {
-          "title": "Nvidia Insider Makes Stunning $410 Million Stock Move - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOckJrNVhlQjVTQWVaZ1VOOGdZY3hBOGo2QVpraWxVTUt4Sk1oT0tRQmxnZ01tWEtXY21Fd1p0Tkd6Q2lpZlB3Uy1LVDlDMkJRaDA2SkEyeTY1aGpkZjdWX2pGS2tCTHdORy0yMDlNd1ctMnhEZ1dSTlhmcE5kR2dQV0JiMnNEMW83ZW1MYjNaTlZYNEkwbkpkelROZDBzYkE?oc=5"
-        }
-      ]
+      "currentPrice": 225.88,
+      "weekAgoPrice": 220.77999877929688,
+      "percentChange": 2.31,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 5.0,
-      "weekAgoPrice": 4.909999847412109,
-      "percentChange": 1.83,
+      "weekAgoPrice": 4.949999809265137,
+      "percentChange": 1.01,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 8.35,
-      "weekAgoPrice": 8.34000015258789,
-      "percentChange": 0.12,
+      "weekAgoPrice": 8.680000305175781,
+      "percentChange": -3.8,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 1
+  "flaggedCount": 0
 }
