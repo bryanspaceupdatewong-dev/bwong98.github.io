@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T08:50:17.271995Z",
+  "generatedAt": "2026-09-08T08:54:56.369271Z",
   "interval": "halfhour",
   "thresholdPercent": 5.0,
   "results": [
@@ -17,21 +17,34 @@
       "weekAgoPrice": 217.5500030517578,
       "percentChange": 5.89,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1drQ1lPb01ETXcxcm1DWU9rRmhVVksySkF5V3JRNTlDVm1EaE9oa0xvVTdwdHBkYzRDWkczeE5tak52SHpqWU1FaXJtSTZpcHp1OW1SMUw1U3plRnBkbmF5SE8wWVl0MnMzX3Z0RDVwekc5VEdPTzNLT0gtVzJjbW8zSVdoZGplNVZxNGl2ajJMU0JxaDJUSG1DbFJ2cnlqeHk2ajNHdVV5b3JfellWTmVFS2x0UkF0ZHNhZ0x3?oc=5"
+        },
+        {
+          "title": "Nvidia (NVDA) Board Member Sells $410 Million of Company Stock - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUW5UckxTVW1zSGZxcUdMR3RGV2RQdUpWUTJrWWR3QzBxNXpiZ2s1RVFZUHZXQjcyQkVLa1Q2N3NmaUV4dmFyeWJDZVVkRkd3amtCaDNkR1ZJT3VsOElJdkN2SVY5WnNuOTBXUHhlcXdLT1N2TTF1a2FqbnRyMkVybHpiWWNXeTJPQ3pTU1ZuN08xTU0?oc=5"
+        },
+        {
+          "title": "Nvidia Stock: Is It Still a Good Buy at $230? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzhOODFBWC1HdDV0OXBLVGRlOE1BcHY4N1NxV1g2REpkWTFZV3hEN1U5Rm9JT25JS3I4ZUpXZ3lHd0VKdzRWUlNpS1JvLUhHME41VjVRQ3lCdlE1T3lOWEM1QWRUckZ3eWstWE1kSzRybF9POU52UW5naXV6TzNYb3pWUWRGVnZBbFhmam1VXzRGaE96Mkg4?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 5.0,
+      "currentPrice": 4.99,
       "weekAgoPrice": 4.909999847412109,
-      "percentChange": 1.83,
+      "percentChange": 1.63,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 8.36,
+      "currentPrice": 8.35,
       "weekAgoPrice": 8.34000015258789,
-      "percentChange": 0.24,
+      "percentChange": 0.12,
       "flagged": false,
       "news": []
     }
