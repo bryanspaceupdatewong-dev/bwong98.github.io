@@ -2,10 +2,11 @@ name: Finance Notification Agent
 
 on:
   schedule:
-    # Fires every 30 minutes. The script itself decides whether a check is
-    # actually "due" based on finance-agent/config.json's interval setting
-    # (halfhour / hourly / daily), so this one cron covers all three modes.
-    - cron: "*/30 * * * *"
+    # Fires every 30 minutes (at :00 and :30). The script itself decides
+    # whether a check is actually "due" based on finance-agent/config.json's
+    # interval setting (halfhour / hourly / daily), so this one cron covers
+    # all three modes.
+    - cron: "0,30 * * * *"
   workflow_dispatch: {}
 
 permissions:
