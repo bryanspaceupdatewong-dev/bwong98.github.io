@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Finance Notification Agent</title>
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 text-slate-900 font-sans">
+
+<nav class="p-6 flex justify-between items-center bg-white shadow-sm">
+  <div class="font-bold text-xl tracking-tight">Finance Notification Agent</div>
+  <a href="../index.html" class="text-sm font-medium text-slate-500 hover:text-blue-600">&larr; Back to site</a>
+</nav>
+
+<main class="max-w-5xl mx-auto px-6 py-10 space-y-10">
+
+  <!-- Alert banner -->
+  <div id="alertBanner" class="hidden rounded-2xl border border-red-200 bg-red-50 text-red-800 p-6">
+    <p class="font-bold text-lg" id="alertBannerTitle"></p>
+    <p class="text-sm mt-1">See the compilation report below for prices, % change and likely news for each.</p>
+  </div>
+
+  <!-- Intro -->
+  <section>
+    <h1 class="text-3xl font-extrabold tracking-tight mb-2">Portfolio Screener &amp; Alerts</h1>
+    <p class="text-slate-600 max-w-3xl">
+      A scheduled GitHub Actions job checks your basket of stocks/ETFs against their price from about a week ago.
+      Anything that moved more than your threshold gets flagged, bundled with recent headlines, emailed to you,
+      and logged here. This page manages the basket, the check interval and the threshold, and shows the latest
+      and historical reports.
+    </p>
+  </section>
+
+  <!-- Deployed config -->
+  <section class="bg-white rounded-2xl border border-slate-100 p-6">
+    <h2 class="text-xl font-bold mb-1">Live config</h2>
+    <p class="text-sm text-slate-500 mb-4">What the scheduled job is actually using right now (from <code>finance-agent/config.json</code>).</p>
+    <div id="liveConfig" class="text-sm text-slate-600">Loading&hellip;</div>
+  </section>
+
+  <!-- Draft editor -->
+  <section class="bg-white rounded-2xl border border-slate-100 p-6">
+    <div class="flex items-center justify-between mb-1">
+      <h2 class="text-xl font-bold">Edit basket</h2>
+      <button id="loadLiveBtn" class="text-sm text-blue-600 hover:underline">Load live config into editor</button>
+    </div>
+    <p class="text-sm text-slate-500 mb-6">
+      Changes here are draft-only, saved in this browser. GitHub Pages can't accept writes from a static page, so to
+      apply changes: generate the JSON below, then paste it into <code>finance-agent/config.json</code> in the repo
+      and commit. The next scheduled run picks it up automatically.
+    </p>
+
+    <div class="grid md:grid-cols-2 gap-8">
+      <div>
+        <h3 class="font-semibold mb-2">Basket</h3>
+        <div class="flex gap-2 mb-3">
+          <input id="tickerInput" type="text" placeholder="e.g. AAPL"
+                 class="flex-1 border border-slate-200 rounded-lg px-3 py-2 text-sm uppercase focus:outline-none focus:ring-2 focus:ring-blue-500">
+          <button id="addTickerBtn" class="bg-slate-900 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:bg-slate-800">Add</button>
+        </div>
+        <div id="tickerChips" class="flex flex-wrap gap-2"></div>
+        <p id="emptyBasketNote" class="text-sm text-slate-400 mt-2 hidden">No stocks in your basket yet &mdash; add one above.</p>
+      </div>
+
+      <div class="space-y-5">
+        <div>
+          <h3 class="font-semibold mb-2">Check interval</h3>
+          <div class="space-y-2 text-sm">
+            <label class="flex items-center gap-2">
+              <input type="radio" name="interval" value="halfhour" class="accent-blue-600"> Every 30 minutes
+            </label>
+            <label class="flex items-center gap-2">
+              <input type="radio" name="interval" value="hourly" class="accent-blue-600"> Hourly
+            </label>
+            <label class="flex items-center gap-2">
+              <input type="radio" name="interval" value="daily" class="accent-blue-600"> Daily
+            </label>
+          </div>
+          <div id="dailyHourRow" class="mt-2 text-sm flex items-center gap-2">
+            <span class="text-slate-500">at</span>
+            <select id="dailyHourSelect" class="border border-slate-200 rounded-lg px-2 py-1"></select>
+            <span class="text-slate-500">UTC</span>
+          </div>
+        </div>
+
+        <div>
+          <h3 class="font-semibold mb-2">Alert threshold</h3>
+          <div class="flex items-center gap-2 text-sm">
+            <span>&plusmn;</span>
+            <input id="thresholdInput" type="number" min="0.1" step="0.1" value="5"
+                   class="w-24 border border-slate-200 rounded-lg px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500">
+            <span>% vs. ~1 week ago</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-6 flex flex-wrap items-center gap-3">
+      <button id="generateBtn" class="bg-blue-600 text-white px-5 py-2.5 rounded-lg text-sm font-semibold hover:bg-blue-700">
+        Generate config.json
+      </button>
+      <button id="copyBtn" class="hidden bg-white border border-slate-200 px-5 py-2.5 rounded-lg text-sm font-semibold hover:bg-slate-50">
+        Copy JSON
+      </button>
+      <a id="downloadBtn" download="config.json" class="hidden bg-white border border-slate-200 px-5 py-2.5 rounded-lg text-sm font-semibold hover:bg-slate-50">
+        Download config.json
+      </a>
+      <span id="copiedNote" class="hidden text-sm text-green-600 font-medium">Copied!</span>
+    </div>
+    <textarea id="configOutput" readonly class="hidden mt-4 w-full h-48 font-mono text-xs bg-slate-900 text-slate-100 rounded-xl p-4"></textarea>
+  </section>
+
+  <!-- Latest report -->
+  <section class="bg-white rounded-2xl border border-slate-100 p-6">
+    <div class="flex items-center justify-between mb-1 flex-wrap gap-2">
+      <h2 class="text-xl font-bold">Latest compilation report</h2>
+      <button id="notifBtn" class="text-sm text-blue-600 hover:underline">Enable browser alerts</button>
+    </div>
+    <p id="reportMeta" class="text-sm text-slate-500 mb-4">Loading&hellip;</p>
+    <div id="reportTableWrap" class="overflow-x-auto"></div>
+    <div id="flaggedDetail" class="mt-6 space-y-4"></div>
+  </section>
+
+  <!-- History -->
+  <section class="bg-white rounded-2xl border border-slate-100 p-6">
+    <h2 class="text-xl font-bold mb-1">Alert history</h2>
+    <p class="text-sm text-slate-500 mb-4">Past runs where at least one stock crossed the threshold.</p>
+    <div id="historyList" class="space-y-3 text-sm">Loading&hellip;</div>
+  </section>
+
+  <!-- Setup -->
+  <section class="bg-white rounded-2xl border border-slate-100 p-6 text-sm text-slate-600 space-y-2">
+    <h2 class="text-xl font-bold text-slate-900 mb-1">One-time setup</h2>
+    <p>In this repo's Settings &rarr; Secrets and variables &rarr; Actions, add:</p>
+    <ul class="list-disc pl-6 space-y-1">
+      <li><code>SMTP_USERNAME</code> &mdash; the sending email address (e.g. a Gmail address)</li>
+      <li><code>SMTP_PASSWORD</code> &mdash; an app password for that account (not your regular password)</li>
+      <li><code>EMAIL_TO</code> &mdash; where alerts should be delivered</li>
+      <li><code>SMTP_SERVER</code> / <code>SMTP_PORT</code> &mdash; optional, default to <code>smtp.gmail.com</code> / <code>587</code></li>
+    </ul>
+    <p>Then edit <code>finance-agent/config.json</code> (using the editor above to generate it) to add tickers and set the interval. You can trigger a check immediately from the Actions tab &rarr; "Finance Notification Agent" &rarr; "Run workflow" instead of waiting for the schedule.</p>
+  </section>
+
+</main>
+
+<script>
+const STORAGE_KEY = 'financeAgentDraft';
+const SEEN_KEY = 'financeAgentLastSeenReport';
+const DEFAULT_DRAFT = { tickers: [], interval: 'daily', dailyRunHourUtc: 14, thresholdPercent: 5 };
+
+function loadDraft() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (raw) return Object.assign({}, DEFAULT_DRAFT, JSON.parse(raw));
+  } catch (e) {}
+  return Object.assign({}, DEFAULT_DRAFT);
+}
+
+let draft = loadDraft();
+
+function saveDraft() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(draft));
+}
+
+function renderChips() {
+  const wrap = document.getElementById('tickerChips');
+  const emptyNote = document.getElementById('emptyBasketNote');
+  wrap.innerHTML = '';
+  emptyNote.classList.toggle('hidden', draft.tickers.length > 0);
+  draft.tickers.forEach(t => {
+    const chip = document.createElement('span');
+    chip.className = 'inline-flex items-center gap-2 bg-slate-100 text-slate-800 px-3 py-1.5 rounded-full text-sm font-medium';
+    chip.innerHTML = `${t} <button aria-label="Remove ${t}" class="text-slate-400 hover:text-red-600 font-bold leading-none">&times;</button>`;
+    chip.querySelector('button').addEventListener('click', () => {
+      draft.tickers = draft.tickers.filter(x => x !== t);
+      saveDraft();
+      renderChips();
+    });
+    wrap.appendChild(chip);
+  });
+}
+
+function renderIntervalControls() {
+  document.querySelectorAll('input[name="interval"]').forEach(r => {
+    r.checked = r.value === draft.interval;
+    r.addEventListener('change', () => {
+      if (r.checked) { draft.interval = r.value; saveDraft(); updateDailyHourVisibility(); }
+    });
+  });
+  const sel = document.getElementById('dailyHourSelect');
+  sel.innerHTML = '';
+  for (let h = 0; h < 24; h++) {
+    const opt = document.createElement('option');
+    opt.value = h;
+    opt.textContent = String(h).padStart(2, '0') + ':00';
+    sel.appendChild(opt);
+  }
+  sel.value = draft.dailyRunHourUtc;
+  sel.addEventListener('change', () => { draft.dailyRunHourUtc = Number(sel.value); saveDraft(); });
+  updateDailyHourVisibility();
+}
+
+function updateDailyHourVisibility() {
+  document.getElementById('dailyHourRow').classList.toggle('hidden', draft.interval !== 'daily');
+}
+
+function renderThreshold() {
+  const input = document.getElementById('thresholdInput');
+  input.value = draft.thresholdPercent;
+  input.addEventListener('input', () => {
+    draft.thresholdPercent = Number(input.value) || 0;
+    saveDraft();
+  });
+}
+
+document.getElementById('addTickerBtn').addEventListener('click', addTicker);
+document.getElementById('tickerInput').addEventListener('keydown', e => { if (e.key === 'Enter') addTicker(); });
+function addTicker() {
+  const input = document.getElementById('tickerInput');
+  const t = input.value.trim().toUpperCase();
+  if (t && !draft.tickers.includes(t)) {
+    draft.tickers.push(t);
+    saveDraft();
+    renderChips();
+  }
+  input.value = '';
+  input.focus();
+}
+
+document.getElementById('loadLiveBtn').addEventListener('click', async () => {
+  try {
+    const res = await fetch('./config.json', { cache: 'no-store' });
+    const live = await res.json();
+    draft = Object.assign({}, DEFAULT_DRAFT, live);
+    saveDraft();
+    renderChips();
+    renderIntervalControls();
+    renderThreshold();
+  } catch (e) {
+    alert('Could not load live config.json: ' + e.message);
+  }
+});
+
+document.getElementById('generateBtn').addEventListener('click', () => {
+  const json = JSON.stringify(draft, null, 2) + '\n';
+  const out = document.getElementById('configOutput');
+  out.value = json;
+  out.classList.remove('hidden');
+  document.getElementById('copyBtn').classList.remove('hidden');
+  const dl = document.getElementById('downloadBtn');
+  dl.classList.remove('hidden');
+  dl.href = URL.createObjectURL(new Blob([json], { type: 'application/json' }));
+});
+
+document.getElementById('copyBtn').addEventListener('click', async () => {
+  const out = document.getElementById('configOutput');
+  await navigator.clipboard.writeText(out.value);
+  const note = document.getElementById('copiedNote');
+  note.classList.remove('hidden');
+  setTimeout(() => note.classList.add('hidden'), 1500);
+});
+
+async function loadLiveConfigSummary() {
+  const el = document.getElementById('liveConfig');
+  try {
+    const res = await fetch('./config.json', { cache: 'no-store' });
+    const cfg = await res.json();
+    const tickers = cfg.tickers && cfg.tickers.length ? cfg.tickers.join(', ') : '(empty)';
+    const intervalLabel = { halfhour: 'Every 30 minutes', hourly: 'Hourly', daily: `Daily at ${String(cfg.dailyRunHourUtc).padStart(2,'0')}:00 UTC` }[cfg.interval] || cfg.interval;
+    el.innerHTML = `
+      <p><span class="font-semibold">Basket:</span> ${tickers}</p>
+      <p><span class="font-semibold">Interval:</span> ${intervalLabel}</p>
+      <p><span class="font-semibold">Threshold:</span> &plusmn;${cfg.thresholdPercent}%</p>
+    `;
+  } catch (e) {
+    el.textContent = 'Could not load config.json.';
+  }
+}
+
+function pctClass(pct) {
+  if (pct === null || pct === undefined) return 'text-slate-400';
+  return pct >= 0 ? 'text-green-600' : 'text-red-600';
+}
+
+function fmtPct(pct) {
+  if (pct === null || pct === undefined) return '—';
+  return (pct >= 0 ? '+' : '') + pct + '%';
+}
+
+async function loadReport() {
+  const meta = document.getElementById('reportMeta');
+  const tableWrap = document.getElementById('reportTableWrap');
+  const flaggedDetail = document.getElementById('flaggedDetail');
+  const banner = document.getElementById('alertBanner');
+  const bannerTitle = document.getElementById('alertBannerTitle');
+
+  let report;
+  try {
+    const res = await fetch('./data/report.json', { cache: 'no-store' });
+    report = await res.json();
+  } catch (e) {
+    meta.textContent = 'Could not load the latest report.';
+    return;
+  }
+
+  if (!report.generatedAt) {
+    meta.textContent = 'No checks have run yet. Once the scheduled job runs (or you trigger it manually from the Actions tab), results appear here.';
+    tableWrap.innerHTML = '';
+    return;
+  }
+
+  meta.textContent = `Generated ${new Date(report.generatedAt).toLocaleString()} · interval: ${report.interval} · threshold: ±${report.thresholdPercent}%`;
+
+  if (!report.results.length) {
+    tableWrap.innerHTML = '<p class="text-sm text-slate-400">Basket is empty — add tickers above.</p>';
+    return;
+  }
+
+  const rows = report.results.map(r => `
+    <tr class="border-b border-slate-100 ${r.flagged ? 'bg-red-50' : ''}">
+      <td class="py-2 pr-4 font-semibold">${r.ticker}${r.flagged ? ' <span class=\"text-xs bg-red-600 text-white px-2 py-0.5 rounded-full align-middle\">FLAGGED</span>' : ''}</td>
+      <td class="py-2 pr-4">${r.currentPrice ?? '—'}</td>
+      <td class="py-2 pr-4">${r.weekAgoPrice ?? '—'}</td>
+      <td class="py-2 pr-4 font-semibold ${pctClass(r.percentChange)}">${fmtPct(r.percentChange)}</td>
+    </tr>
+  `).join('');
+
+  tableWrap.innerHTML = `
+    <table class="w-full text-sm text-left">
+      <thead>
+        <tr class="border-b border-slate-200 text-slate-500">
+          <th class="py-2 pr-4">Ticker</th>
+          <th class="py-2 pr-4">Current price</th>
+          <th class="py-2 pr-4">~1 week ago</th>
+          <th class="py-2 pr-4">% change</th>
+        </tr>
+      </thead>
+      <tbody>${rows}</tbody>
+    </table>
+  `;
+
+  const flagged = report.results.filter(r => r.flagged);
+  if (flagged.length) {
+    banner.classList.remove('hidden');
+    bannerTitle.textContent = `${flagged.length} stock(s) moved more than ±${report.thresholdPercent}% vs. a week ago`;
+    flaggedDetail.innerHTML = flagged.map(r => `
+      <div class="border border-red-100 bg-red-50 rounded-xl p-4">
+        <p class="font-bold ${pctClass(r.percentChange)}">${r.ticker} — ${fmtPct(r.percentChange)} (now ${r.currentPrice}, was ${r.weekAgoPrice})</p>
+        ${r.news && r.news.length ? `
+          <p class="text-sm font-semibold mt-2 mb-1">Likely related news:</p>
+          <ul class="list-disc pl-5 text-sm space-y-1">
+            ${r.news.map(n => `<li><a class="text-blue-600 hover:underline" href="${n.link}" target="_blank" rel="noopener">${n.title}</a></li>`).join('')}
+          </ul>
+        ` : '<p class="text-sm text-slate-500 mt-1">No related news found.</p>'}
+      </div>
+    `).join('');
+  } else {
+    banner.classList.add('hidden');
+    flaggedDetail.innerHTML = '';
+  }
+
+  maybeNotify(report);
+}
+
+function maybeNotify(report) {
+  if (!('Notification' in window) || Notification.permission !== 'granted') return;
+  const lastSeen = localStorage.getItem(SEEN_KEY);
+  if (lastSeen === report.generatedAt) return;
+  localStorage.setItem(SEEN_KEY, report.generatedAt);
+  if (report.flaggedCount > 0) {
+    const flagged = report.results.filter(r => r.flagged).map(r => `${r.ticker} ${fmtPct(r.percentChange)}`).join(', ');
+    new Notification('Finance Agent: drastic price move', { body: flagged });
+  }
+}
+
+document.getElementById('notifBtn').addEventListener('click', async () => {
+  if (!('Notification' in window)) { alert('Your browser does not support notifications.'); return; }
+  const perm = await Notification.requestPermission();
+  if (perm === 'granted') new Notification('Finance Agent alerts enabled', { body: "You'll be notified here when a stock moves drastically." });
+});
+
+async function loadHistory() {
+  const el = document.getElementById('historyList');
+  let history;
+  try {
+    const res = await fetch('./data/history.json', { cache: 'no-store' });
+    history = await res.json();
+  } catch (e) {
+    el.textContent = 'Could not load history.';
+    return;
+  }
+  if (!history.length) {
+    el.innerHTML = '<p class="text-slate-400">No alerts yet.</p>';
+    return;
+  }
+  el.innerHTML = history.slice().reverse().map(entry => `
+    <details class="border border-slate-100 rounded-xl p-3">
+      <summary class="cursor-pointer font-semibold">
+        ${new Date(entry.generatedAt).toLocaleString()} — ${entry.flagged.map(f => f.ticker).join(', ')}
+      </summary>
+      <div class="mt-3 space-y-3">
+        ${entry.flagged.map(r => `
+          <div>
+            <p class="font-semibold ${pctClass(r.percentChange)}">${r.ticker} ${fmtPct(r.percentChange)} (now ${r.currentPrice}, was ${r.weekAgoPrice})</p>
+            ${r.news && r.news.length ? `<ul class="list-disc pl-5 space-y-1">${r.news.map(n => `<li><a class="text-blue-600 hover:underline" href="${n.link}" target="_blank" rel="noopener">${n.title}</a></li>`).join('')}</ul>` : '<p class="text-slate-400">No related news found.</p>'}
+          </div>
+        `).join('')}
+      </div>
+    </details>
+  `).join('');
+}
+
+renderChips();
+renderIntervalControls();
+renderThreshold();
+loadLiveConfigSummary();
+loadReport();
+loadHistory();
+</script>
+
+</body>
+</html>
