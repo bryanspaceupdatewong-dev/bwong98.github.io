@@ -1,5 +1,5 @@
 {
-  "tickers": ["MSFT", "NVDA", "1295.KL", "RHBBANK.KL"],
+  "tickers": ["MSFT", "NVDA", "1295.KL", "1066.KL"],
   "interval": "halfhour",
   "dailyRunHourUtc": 14,
   "thresholdPercent": 5

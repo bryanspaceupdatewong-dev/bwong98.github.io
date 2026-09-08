@@ -229,8 +229,6 @@ def send_email(report):
     username = os.environ.get("SMTP_USERNAME")
     password = os.environ.get("SMTP_PASSWORD")
     to_addr = os.environ.get("EMAIL_TO")
-    smtp_server = os.environ.get("SMTP_SERVER", "smtp.gmail.com")
-    smtp_port = int(os.environ.get("SMTP_PORT", "587"))
 
     if not (username and password and to_addr):
         log(
@@ -238,6 +236,9 @@ def send_email(report):
             "skipping email, alerts are still written to data/report.json and data/history.json"
         )
         return
+
+    smtp_server = os.environ.get("SMTP_SERVER") or "smtp.gmail.com"
+    smtp_port = int(os.environ.get("SMTP_PORT") or "587")
 
     flagged = [r for r in report["results"] if r["flagged"]]
     subject = f"[Finance Agent] {len(flagged)} stock(s) moved sharply: " + ", ".join(
