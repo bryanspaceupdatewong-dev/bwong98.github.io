@@ -1,6 +1,6 @@
 {
   "tickers": ["MSFT", "NVDA", "1295.KL", "RHBBANK.KL"],
-  "interval": "daily",
+  "interval": "halfhour",
   "dailyRunHourUtc": 14,
   "thresholdPercent": 5
 }
