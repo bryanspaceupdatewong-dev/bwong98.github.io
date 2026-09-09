@@ -1,5 +1,5 @@
 {
-  "tickers": ["MSFT", "NVDA", "1295.KL", "1066.KL"],
+  "tickers": ["MSFT", "NVDA", "1295.KL", "1066.KL", "4715.KL", "3182.KL"],
   "interval": "hourly",
   "dailyRunHourUtc": 14,
   "thresholdPercent": 5
