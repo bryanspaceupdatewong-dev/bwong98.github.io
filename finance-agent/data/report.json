@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T09:16:11.640571Z",
+  "generatedAt": "2026-09-09T09:28:41.395912Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -34,7 +34,52 @@
       "percentChange": -0.96,
       "flagged": false,
       "news": []
+    },
+    {
+      "ticker": "4715.KL",
+      "currentPrice": 1.53,
+      "weekAgoPrice": 1.6299999952316284,
+      "percentChange": -6.13,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
+        },
+        {
+          "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
+        },
+        {
+          "title": "Top 10 High Dividend Stocks Malaysia 2026 - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0F6NGY3WlFFQTJjYmMyOFk2VjlNTTdXX2pTT0ZmZF9uSzdEcXgwSUxaVnVBMU13R2FwcHZ4THY3YXdmaFFxa0czaEx5OWw3bHNEWlNjQ3hiX1I5czRBU0hKOW1HUU1TQndSbkFhbWQ5aFozY0FzODVOb3lNYzlsSGdFeVZqTzZKWXY0Y0hmUW5GWFE?oc=5"
+        }
+      ]
+    },
+    {
+      "ticker": "3182.KL",
+      "currentPrice": 1.93,
+      "weekAgoPrice": 2.0199999809265137,
+      "percentChange": -4.46,
+      "flagged": false,
+      "news": []
+    },
+    {
+      "ticker": "5271.KL",
+      "currentPrice": 1.34,
+      "weekAgoPrice": 1.2999999523162842,
+      "percentChange": 3.08,
+      "flagged": false,
+      "news": []
+    },
+    {
+      "ticker": "5296.KL",
+      "currentPrice": 1.34,
+      "weekAgoPrice": 1.3600000143051147,
+      "percentChange": -1.47,
+      "flagged": false,
+      "news": []
     }
   ],
-  "flaggedCount": 0
+  "flaggedCount": 1
 }
