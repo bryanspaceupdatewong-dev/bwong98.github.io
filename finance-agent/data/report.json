@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T09:32:46.592807Z",
-  "interval": "halfhour",
+  "generatedAt": "2026-09-09T10:16:35.173340Z",
+  "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
