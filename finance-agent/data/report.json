@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-10T15:15:59.482681Z",
+  "generatedAt": "2026-09-10T16:15:43.191911Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 491.609,
+      "currentPrice": 492.18,
       "weekAgoPrice": 496.82000732421875,
-      "percentChange": -1.05,
+      "percentChange": -0.93,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 218.18,
+      "currentPrice": 218.425,
       "weekAgoPrice": 224.41000366210938,
-      "percentChange": -2.78,
+      "percentChange": -2.67,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.85,
-      "weekAgoPrice": 5.0,
-      "percentChange": -3.0,
+      "weekAgoPrice": 4.929999828338623,
+      "percentChange": -1.62,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 8.13,
-      "weekAgoPrice": 8.3100004196167,
-      "percentChange": -2.17,
+      "weekAgoPrice": 8.300000190734863,
+      "percentChange": -2.05,
       "flagged": false,
       "news": []
     },
@@ -59,35 +59,48 @@
     {
       "ticker": "3182.KL",
       "currentPrice": 1.97,
-      "weekAgoPrice": 2.0399999618530273,
-      "percentChange": -3.43,
+      "weekAgoPrice": 2.0199999809265137,
+      "percentChange": -2.48,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.35,
-      "weekAgoPrice": 1.309999942779541,
-      "percentChange": 3.05,
+      "weekAgoPrice": 1.2999999523162842,
+      "percentChange": 3.85,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.27,
-      "weekAgoPrice": 1.3300000429153442,
-      "percentChange": -4.51,
-      "flagged": false,
-      "news": []
+      "weekAgoPrice": 1.3600000143051147,
+      "percentChange": -6.62,
+      "flagged": true,
+      "news": [
+        {
+          "title": "It Might Not Be A Great Idea To Buy Mr D.I.Y. Group (M) Berhad (KLSE:MRDIY) For Its Next Dividend - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQm83Vkx1U2xodDlhYVFMT0otMS1TbHRLZVZUeVBVRHhnSzNKcU0zVHJFOE85QWpyNWQ5XzFrNjdtdHh1RTNscHJwX1Y5cUNKNy1ibHVIRkIxQkFuSWhxVGw5SnphdUVEc05NTEpwNllPd1Q5LVFMWVN6ejBlakgweUZNQmQxMTd2Y0xXaDFqZ3hHT1U?oc=5"
+        },
+        {
+          "title": "Why It Might Not Make Sense To Buy Mr D.I.Y. Group (M) Berhad (KLSE:MRDIY) For Its Upcoming Dividend - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWwxa1RJSlUxVzJQdkZ0TkN2S0lhSUl5dEd3c0x3R1VOU01JNUlDeUpCaDFVXzlteVR1aWZweVJxSlBHT1ZpaWRRWkEydTBoY2RQdk5sYnUzcnJGRjQ0TkF6RnlNaTA4VFRVU2pwZ2Q4QkFXUW1uLUFsXy1salh3WEJVbWx0dTBhLWlfdldPYzV5dw?oc=5"
+        },
+        {
+          "title": "MRDIY (5296): Stocks Analysis and Forecast 2025 - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UOUN0cHBZTDN3ZUtOMkJySlRHZkZkb0l6c2ZOQkw2eDdtd29sM01qbzBQS1ViS0I2S0cwUlN6MmdTdGJyTWpycVRmTV9ya3FoQllJTDVpa2xWalFJZDctQ0pYdXpYOHRyMUhiV21LVmx0WExpdXRHZw?oc=5"
+        }
+      ]
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.21,
-      "weekAgoPrice": 0.20999999344348907,
-      "percentChange": 0.0,
+      "weekAgoPrice": 0.2150000035762787,
+      "percentChange": -2.33,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 1
+  "flaggedCount": 2
 }
