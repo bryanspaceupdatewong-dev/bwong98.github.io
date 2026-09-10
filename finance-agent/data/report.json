@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-10T01:16:09.605267Z",
+  "generatedAt": "2026-09-10T02:16:32.088026Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 491.65,
-      "weekAgoPrice": 507.2900085449219,
-      "percentChange": -3.08,
+      "weekAgoPrice": 501.0199890136719,
+      "percentChange": -1.87,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 223.67,
-      "weekAgoPrice": 220.77999877929688,
-      "percentChange": 1.31,
+      "weekAgoPrice": 217.44000244140625,
+      "percentChange": 2.87,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.92,
+      "currentPrice": 4.9,
       "weekAgoPrice": 5.0,
-      "percentChange": -1.6,
+      "percentChange": -2.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 8.23,
+      "currentPrice": 8.16,
       "weekAgoPrice": 8.3100004196167,
-      "percentChange": -0.96,
+      "percentChange": -1.81,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.53,
+      "currentPrice": 1.52,
       "weekAgoPrice": 1.6299999952316284,
-      "percentChange": -6.13,
+      "percentChange": -6.75,
       "flagged": true,
       "news": [
         {
-          "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
+          "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - sg.finance.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
         },
         {
-          "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
+          "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - sg.finance.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
         },
         {
-          "title": "Top 10 High Dividend Stocks Malaysia 2026 - Moomoo",
+          "title": "Top 10 High Dividend Stocks Malaysia 2026 - moomoo.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0F6NGY3WlFFQTJjYmMyOFk2VjlNTTdXX2pTT0ZmZF9uSzdEcXgwSUxaVnVBMU13R2FwcHZ4THY3YXdmaFFxa0czaEx5OWw3bHNEWlNjQ3hiX1I5czRBU0hKOW1HUU1TQndSbkFhbWQ5aFozY0FzODVOb3lNYzlsSGdFeVZqTzZKWXY0Y0hmUW5GWFE?oc=5"
         }
       ]
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.93,
+      "currentPrice": 1.92,
       "weekAgoPrice": 2.0399999618530273,
-      "percentChange": -5.39,
+      "percentChange": -5.88,
       "flagged": true,
       "news": [
         {
-          "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
+          "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - sg.finance.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
         },
         {
-          "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
+          "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - sg.finance.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
         },
         {
@@ -79,9 +79,9 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.34,
-      "weekAgoPrice": 1.2999999523162842,
-      "percentChange": 3.08,
+      "currentPrice": 1.35,
+      "weekAgoPrice": 1.309999942779541,
+      "percentChange": 3.05,
       "flagged": false,
       "news": []
     },
