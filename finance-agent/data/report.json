@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T06:18:07.506672Z",
+  "generatedAt": "2026-09-10T07:16:47.272699Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -29,59 +29,33 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 8.11,
+      "currentPrice": 8.14,
       "weekAgoPrice": 8.3100004196167,
-      "percentChange": -2.41,
+      "percentChange": -2.05,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.53,
+      "currentPrice": 1.55,
       "weekAgoPrice": 1.6299999952316284,
-      "percentChange": -6.13,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
-        },
-        {
-          "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
-        },
-        {
-          "title": "Top 10 High Dividend Stocks Malaysia 2026 - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0F6NGY3WlFFQTJjYmMyOFk2VjlNTTdXX2pTT0ZmZF9uSzdEcXgwSUxaVnVBMU13R2FwcHZ4THY3YXdmaFFxa0czaEx5OWw3bHNEWlNjQ3hiX1I5czRBU0hKOW1HUU1TQndSbkFhbWQ5aFozY0FzODVOb3lNYzlsSGdFeVZqTzZKWXY0Y0hmUW5GWFE?oc=5"
-        }
-      ]
+      "percentChange": -4.91,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.93,
+      "currentPrice": 1.96,
       "weekAgoPrice": 2.0399999618530273,
-      "percentChange": -5.39,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
-        },
-        {
-          "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
-        },
-        {
-          "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - The Edge Malaysia",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tNXRlMjZyNkV2cEVkNGVheGVJQ0R1encyaEdFQlNDTXA4Vm1oSjFOcXVyLW9HT2V6NTRSSjNLUzFRUWZmaTctTWh6MVcyR0Nj?oc=5"
-        }
-      ]
+      "percentChange": -3.92,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.34,
+      "currentPrice": 1.35,
       "weekAgoPrice": 1.309999942779541,
-      "percentChange": 2.29,
+      "percentChange": 3.05,
       "flagged": false,
       "news": []
     },
@@ -102,5 +76,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 0
 }
