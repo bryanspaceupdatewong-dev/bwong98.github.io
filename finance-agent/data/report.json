@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T08:16:19.733752Z",
+  "generatedAt": "2026-09-10T09:15:51.155679Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,33 +21,46 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.88,
+      "currentPrice": 4.85,
       "weekAgoPrice": 5.0,
-      "percentChange": -2.4,
+      "percentChange": -3.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 8.11,
+      "currentPrice": 8.13,
       "weekAgoPrice": 8.3100004196167,
-      "percentChange": -2.41,
+      "percentChange": -2.17,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.55,
+      "currentPrice": 1.54,
       "weekAgoPrice": 1.6299999952316284,
-      "percentChange": -4.91,
-      "flagged": false,
-      "news": []
+      "percentChange": -5.52,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
+        },
+        {
+          "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
+        },
+        {
+          "title": "Top 10 High Dividend Stocks Malaysia 2026 - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0F6NGY3WlFFQTJjYmMyOFk2VjlNTTdXX2pTT0ZmZF9uSzdEcXgwSUxaVnVBMU13R2FwcHZ4THY3YXdmaFFxa0czaEx5OWw3bHNEWlNjQ3hiX1I5czRBU0hKOW1HUU1TQndSbkFhbWQ5aFozY0FzODVOb3lNYzlsSGdFeVZqTzZKWXY0Y0hmUW5GWFE?oc=5"
+        }
+      ]
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.96,
+      "currentPrice": 1.97,
       "weekAgoPrice": 2.0399999618530273,
-      "percentChange": -3.92,
+      "percentChange": -3.43,
       "flagged": false,
       "news": []
     },
@@ -61,20 +74,20 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.28,
+      "currentPrice": 1.27,
       "weekAgoPrice": 1.3300000429153442,
-      "percentChange": -3.76,
+      "percentChange": -4.51,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.205,
+      "currentPrice": 0.21,
       "weekAgoPrice": 0.20999999344348907,
-      "percentChange": -2.38,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 0
+  "flaggedCount": 1
 }
