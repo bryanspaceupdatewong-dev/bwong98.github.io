@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-09T11:18:29.809880Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.53,
-        "weekAgoPrice": 1.6299999952316284,
-        "percentChange": -6.13,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
-          },
-          {
-            "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
-          },
-          {
-            "title": "Top 10 High Dividend Stocks Malaysia 2026 - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0F6NGY3WlFFQTJjYmMyOFk2VjlNTTdXX2pTT0ZmZF9uSzdEcXgwSUxaVnVBMU13R2FwcHZ4THY3YXdmaFFxa0czaEx5OWw3bHNEWlNjQ3hiX1I5czRBU0hKOW1HUU1TQndSbkFhbWQ5aFozY0FzODVOb3lNYzlsSGdFeVZqTzZKWXY0Y0hmUW5GWFE?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-09T12:25:19.542492Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1660,6 +1633,54 @@
   },
   {
     "generatedAt": "2026-09-11T07:17:18.234927Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.53,
+        "weekAgoPrice": 1.6399999856948853,
+        "percentChange": -6.71,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
+          },
+          {
+            "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
+          },
+          {
+            "title": "Top 10 High Dividend Stocks Malaysia 2026 - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0F6NGY3WlFFQTJjYmMyOFk2VjlNTTdXX2pTT0ZmZF9uSzdEcXgwSUxaVnVBMU13R2FwcHZ4THY3YXdmaFFxa0czaEx5OWw3bHNEWlNjQ3hiX1I5czRBU0hKOW1HUU1TQndSbkFhbWQ5aFozY0FzODVOb3lNYzlsSGdFeVZqTzZKWXY0Y0hmUW5GWFE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.350000023841858,
+        "percentChange": -5.19,
+        "flagged": true,
+        "news": [
+          {
+            "title": "It Might Not Be A Great Idea To Buy Mr D.I.Y. Group (M) Berhad (KLSE:MRDIY) For Its Next Dividend - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQm83Vkx1U2xodDlhYVFMT0otMS1TbHRLZVZUeVBVRHhnSzNKcU0zVHJFOE85QWpyNWQ5XzFrNjdtdHh1RTNscHJwX1Y5cUNKNy1ibHVIRkIxQkFuSWhxVGw5SnphdUVEc05NTEpwNllPd1Q5LVFMWVN6ejBlakgweUZNQmQxMTd2Y0xXaDFqZ3hHT1U?oc=5"
+          },
+          {
+            "title": "Why It Might Not Make Sense To Buy Mr D.I.Y. Group (M) Berhad (KLSE:MRDIY) For Its Upcoming Dividend - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWwxa1RJSlUxVzJQdkZ0TkN2S0lhSUl5dEd3c0x3R1VOU01JNUlDeUpCaDFVXzlteVR1aWZweVJxSlBHT1ZpaWRRWkEydTBoY2RQdk5sYnUzcnJGRjQ0TkF6RnlNaTA4VFRVU2pwZ2Q4QkFXUW1uLUFsXy1salh3WEJVbWx0dTBhLWlfdldPYzV5dw?oc=5"
+          },
+          {
+            "title": "MRDIY (5296): Stocks Analysis and Forecast 2025 - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UOUN0cHBZTDN3ZUtOMkJySlRHZkZkb0l6c2ZOQkw2eDdtd29sM01qbzBQS1ViS0I2S0cwUlN6MmdTdGJyTWpycVRmTV9ya3FoQllJTDVpa2xWalFJZDctQ0pYdXpYOHRyMUhiV21LVmx0WExpdXRHZw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-11T08:16:14.947972Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
