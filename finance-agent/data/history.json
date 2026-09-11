@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-08T12:24:04.705352Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 230.36,
-        "weekAgoPrice": 217.5500030517578,
-        "percentChange": 5.89,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner - 24/7 Wall St.",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1drQ1lPb01ETXcxcm1DWU9rRmhVVksySkF5V3JRNTlDVm1EaE9oa0xvVTdwdHBkYzRDWkczeE5tak52SHpqWU1FaXJtSTZpcHp1OW1SMUw1U3plRnBkbmF5SE8wWVl0MnMzX3Z0RDVwekc5VEdPTzNLT0gtVzJjbW8zSVdoZGplNVZxNGl2ajJMU0JxaDJUSG1DbFJ2cnlqeHk2ajNHdVV5b3JfellWTmVFS2x0UkF0ZHNhZ0x3?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Price Outlook: What Technical Analysis Says Now - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGV2ek1hM3dQWThnVVZVWnB5WWpqbklxLTgwbTljZlFJaWF0ZlNWWEZMOERHY3JhSlo2T3lBcGtmSTEzS1AtU0JXc0pjZWQyQ1JVNk8zeXNJVWpHa1U1aU9NUE0xUEtlY2ZZcW94cC1Ec2FEWEtKSzVJTG9EZE5Ydk1XLUVmS0c1UG51RU9Oclh2cXM?oc=5"
-          },
-          {
-            "title": "Nvidia Insider Makes Stunning $410 Million Stock Move - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOckJrNVhlQjVTQWVaZ1VOOGdZY3hBOGo2QVpraWxVTUt4Sk1oT0tRQmxnZ01tWEtXY21Fd1p0Tkd6Q2lpZlB3Uy1LVDlDMkJRaDA2SkEyeTY1aGpkZjdWX2pGS2tCTHdORy0yMDlNd1ctMnhEZ1dSTlhmcE5kR2dQV0JiMnNEMW83ZW1MYjNaTlZYNEkwbkpkelROZDBzYkE?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-09T09:28:41.395912Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1583,6 +1556,54 @@
         "currentPrice": 1.54,
         "weekAgoPrice": 1.6399999856948853,
         "percentChange": -6.1,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
+          },
+          {
+            "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
+          },
+          {
+            "title": "Top 10 High Dividend Stocks Malaysia 2026 - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0F6NGY3WlFFQTJjYmMyOFk2VjlNTTdXX2pTT0ZmZF9uSzdEcXgwSUxaVnVBMU13R2FwcHZ4THY3YXdmaFFxa0czaEx5OWw3bHNEWlNjQ3hiX1I5czRBU0hKOW1HUU1TQndSbkFhbWQ5aFozY0FzODVOb3lNYzlsSGdFeVZqTzZKWXY0Y0hmUW5GWFE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.350000023841858,
+        "percentChange": -5.19,
+        "flagged": true,
+        "news": [
+          {
+            "title": "It Might Not Be A Great Idea To Buy Mr D.I.Y. Group (M) Berhad (KLSE:MRDIY) For Its Next Dividend - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQm83Vkx1U2xodDlhYVFMT0otMS1TbHRLZVZUeVBVRHhnSzNKcU0zVHJFOE85QWpyNWQ5XzFrNjdtdHh1RTNscHJwX1Y5cUNKNy1ibHVIRkIxQkFuSWhxVGw5SnphdUVEc05NTEpwNllPd1Q5LVFMWVN6ejBlakgweUZNQmQxMTd2Y0xXaDFqZ3hHT1U?oc=5"
+          },
+          {
+            "title": "Why It Might Not Make Sense To Buy Mr D.I.Y. Group (M) Berhad (KLSE:MRDIY) For Its Upcoming Dividend - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWwxa1RJSlUxVzJQdkZ0TkN2S0lhSUl5dEd3c0x3R1VOU01JNUlDeUpCaDFVXzlteVR1aWZweVJxSlBHT1ZpaWRRWkEydTBoY2RQdk5sYnUzcnJGRjQ0TkF6RnlNaTA4VFRVU2pwZ2Q4QkFXUW1uLUFsXy1salh3WEJVbWx0dTBhLWlfdldPYzV5dw?oc=5"
+          },
+          {
+            "title": "MRDIY (5296): Stocks Analysis and Forecast 2025 - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UOUN0cHBZTDN3ZUtOMkJySlRHZkZkb0l6c2ZOQkw2eDdtd29sM01qbzBQS1ViS0I2S0cwUlN6MmdTdGJyTWpycVRmTV9ya3FoQllJTDVpa2xWalFJZDctQ0pYdXpYOHRyMUhiV21LVmx0WExpdXRHZw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-11T05:00:24.531873Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.53,
+        "weekAgoPrice": 1.6399999856948853,
+        "percentChange": -6.71,
         "flagged": true,
         "news": [
           {
