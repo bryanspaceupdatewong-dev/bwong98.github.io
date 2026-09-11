@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T02:15:44.225488Z",
+  "generatedAt": "2026-09-11T03:15:58.328898Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,25 +21,25 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.81,
+      "currentPrice": 4.82,
       "weekAgoPrice": 4.980000019073486,
-      "percentChange": -3.41,
+      "percentChange": -3.21,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 8.04,
+      "currentPrice": 8.0,
       "weekAgoPrice": 8.289999961853027,
-      "percentChange": -3.02,
+      "percentChange": -3.5,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.54,
+      "currentPrice": 1.53,
       "weekAgoPrice": 1.6399999856948853,
-      "percentChange": -6.1,
+      "percentChange": -6.71,
       "flagged": true,
       "news": [
         {
@@ -66,28 +66,41 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.37,
+      "currentPrice": 1.34,
       "weekAgoPrice": 1.3300000429153442,
-      "percentChange": 3.01,
+      "percentChange": 0.75,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.28,
       "weekAgoPrice": 1.350000023841858,
-      "percentChange": -4.44,
-      "flagged": false,
-      "news": []
+      "percentChange": -5.19,
+      "flagged": true,
+      "news": [
+        {
+          "title": "It Might Not Be A Great Idea To Buy Mr D.I.Y. Group (M) Berhad (KLSE:MRDIY) For Its Next Dividend - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQm83Vkx1U2xodDlhYVFMT0otMS1TbHRLZVZUeVBVRHhnSzNKcU0zVHJFOE85QWpyNWQ5XzFrNjdtdHh1RTNscHJwX1Y5cUNKNy1ibHVIRkIxQkFuSWhxVGw5SnphdUVEc05NTEpwNllPd1Q5LVFMWVN6ejBlakgweUZNQmQxMTd2Y0xXaDFqZ3hHT1U?oc=5"
+        },
+        {
+          "title": "Why It Might Not Make Sense To Buy Mr D.I.Y. Group (M) Berhad (KLSE:MRDIY) For Its Upcoming Dividend - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWwxa1RJSlUxVzJQdkZ0TkN2S0lhSUl5dEd3c0x3R1VOU01JNUlDeUpCaDFVXzlteVR1aWZweVJxSlBHT1ZpaWRRWkEydTBoY2RQdk5sYnUzcnJGRjQ0TkF6RnlNaTA4VFRVU2pwZ2Q4QkFXUW1uLUFsXy1salh3WEJVbWx0dTBhLWlfdldPYzV5dw?oc=5"
+        },
+        {
+          "title": "MRDIY (5296): Stocks Analysis and Forecast 2025 - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UOUN0cHBZTDN3ZUtOMkJySlRHZkZkb0l6c2ZOQkw2eDdtd29sM01qbzBQS1ViS0I2S0cwUlN6MmdTdGJyTWpycVRmTV9ya3FoQllJTDVpa2xWalFJZDctQ0pYdXpYOHRyMUhiV21LVmx0WExpdXRHZw?oc=5"
+        }
+      ]
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.205,
+      "currentPrice": 0.21,
       "weekAgoPrice": 0.20999999344348907,
-      "percentChange": -2.38,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 1
+  "flaggedCount": 2
 }
