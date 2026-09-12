@@ -41,7 +41,7 @@ jobs:
         run: |
           git config user.name "finance-agent-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add finance-agent/data/report.json finance-agent/data/history.json
+          git add finance-agent/data/
           if git diff --cached --quiet; then
             echo "No data changes to commit"
           else

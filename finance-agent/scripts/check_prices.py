@@ -8,7 +8,10 @@ public chart endpoint (no API key required), flags tickers whose price has
 moved more than the configured threshold since a week ago, pulls a few
 recent headlines per flagged ticker from Google News RSS, writes the results
 to finance-agent/data/report.json (+ appends to data/history.json), and
-emails a compilation report when anything is flagged.
+emails a compilation report when anything is flagged. Skips entirely on
+weekends, since none of the watched markets are open then. Sends at most
+one alert email per ticker per calendar day, however many times it stays
+flagged that day.
 
 Uses only the Python standard library so the GitHub Actions workflow needs
 no dependency installation step.
@@ -22,13 +25,15 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.mime.text import MIMEText
+from email.utils import parsedate_to_datetime
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(REPO_ROOT, "config.json")
 REPORT_PATH = os.path.join(REPO_ROOT, "data", "report.json")
 HISTORY_PATH = os.path.join(REPO_ROOT, "data", "history.json")
+LAST_ALERTED_PATH = os.path.join(REPO_ROOT, "data", "last_alerted_news.json")
 
 MAX_HISTORY_ENTRIES = 50
 REQUEST_TIMEOUT = 10
@@ -58,6 +63,8 @@ def is_due(config, now):
     """Self-gate: the workflow fires every 30 minutes; decide whether this
     particular firing should actually run a check, based on the configured
     interval."""
+    if now.weekday() >= 5:  # Saturday/Sunday (UTC) - markets are closed, nothing to check
+        return False
     interval = config.get("interval", "daily")
     if interval == "halfhour":
         return True
@@ -120,20 +127,36 @@ def get_price_data(ticker):
     return current_price, week_ago_price
 
 
-def get_news(ticker, limit=3):
+def get_news(ticker, now, limit=3):
+    """Latest news for a ticker: only items published within the past week,
+    newest first, capped at `limit`. An item whose publish date can't be
+    parsed is skipped rather than assumed recent."""
     url = (
         "https://news.google.com/rss/search?q="
         f"{urllib.parse.quote(ticker + ' stock')}&hl=en-US&gl=US&ceid=US:en"
     )
+    cutoff = now - timedelta(days=7)
     try:
         raw = fetch_url(url)
         root = ET.fromstring(raw)
-        items = []
-        for item in root.findall("./channel/item")[:limit]:
+        dated_items = []
+        for item in root.findall("./channel/item"):
+            pub_date_raw = item.findtext("pubDate") or ""
+            try:
+                pub_date = parsedate_to_datetime(pub_date_raw)
+            except (TypeError, ValueError):
+                continue
+            if pub_date is None:
+                continue
+            if pub_date.tzinfo is None:
+                pub_date = pub_date.replace(tzinfo=timezone.utc)
+            if pub_date < cutoff:
+                continue
             title = item.findtext("title") or ""
             link = item.findtext("link") or ""
-            items.append({"title": title, "link": link})
-        return items
+            dated_items.append((pub_date, {"title": title, "link": link}))
+        dated_items.sort(key=lambda pair: pair[0], reverse=True)
+        return [entry for _, entry in dated_items[:limit]]
     except Exception as exc:  # noqa: BLE001
         log(f"WARN: could not fetch news for {ticker}: {exc}")
         return []
@@ -160,7 +183,7 @@ def build_report(config, now):
 
     for entry in results:
         if entry["flagged"]:
-            entry["news"] = get_news(entry["ticker"])
+            entry["news"] = get_news(entry["ticker"], now)
 
     flagged_count = sum(1 for r in results if r["flagged"])
     return {
@@ -200,32 +223,73 @@ def update_history(report):
         f.write("\n")
 
 
-def format_email_body(report):
+def load_last_alerted_news():
+    try:
+        with open(LAST_ALERTED_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def save_last_alerted_news(last_alerted):
+    with open(LAST_ALERTED_PATH, "w", encoding="utf-8") as f:
+        json.dump(last_alerted, f, indent=2)
+        f.write("\n")
+
+
+def news_signature(news_items):
+    """Order-independent fingerprint of a ticker's news items, used to detect
+    that a follow-up alert would be reporting the exact same news as last
+    time. Empty when there's no news, since there's nothing to compare."""
+    return sorted(n["title"] for n in news_items if n.get("title"))
+
+
+def select_candidates(flagged, last_alerted, today_str):
+    """Drops flagged tickers we've already emailed about today (at most one
+    alert per ticker per calendar day - a ticker that stays flagged all day
+    only needs to be reported once), and tickers whose news is identical to
+    what we already emailed last time. Returns (ticker_result, news_sig)
+    pairs still eligible to send; the caller decides which of those actually
+    go out (e.g. only ones with fresh news) and persists state only for
+    those, so a candidate skipped here for lack of news remains eligible
+    later the same day."""
+    candidates = []
+    for r in flagged:
+        entry = last_alerted.get(r["ticker"], {})
+        if entry.get("date") == today_str:
+            log(f"Skipping {r['ticker']}: already emailed about this ticker today")
+            continue
+        sig = news_signature(r["news"])
+        if sig and entry.get("news") == sig:
+            log(f"Skipping {r['ticker']}: already emailed this exact news - no follow-up")
+            continue
+        candidates.append((r, sig))
+    return candidates
+
+
+def format_email_body(alerts, report):
     lines = [
         "Compilation report: drastic movers in your watched basket",
         f"Generated: {report['generatedAt']}",
         f"Threshold: +/-{report['thresholdPercent']}% vs ~1 week ago",
         "",
     ]
-    for r in report["results"]:
-        if not r["flagged"]:
+    for r in alerts:
+        if not r["news"]:
             continue
         direction = "UP" if r["percentChange"] >= 0 else "DOWN"
         lines.append(f"=== {r['ticker']}: {direction} {r['percentChange']}% ===")
         lines.append(f"  Current price: {r['currentPrice']}")
         lines.append(f"  ~1 week ago:   {r['weekAgoPrice']}")
-        if r["news"]:
-            lines.append("  Likely related news:")
-            for n in r["news"]:
-                lines.append(f"    - {n['title']}")
-                lines.append(f"      {n['link']}")
-        else:
-            lines.append("  No related news found.")
+        lines.append("  Likely related news (past week):")
+        for n in r["news"]:
+            lines.append(f"    - {n['title']}")
+            lines.append(f"      {n['link']}")
         lines.append("")
     return "\n".join(lines)
 
 
-def send_email(report):
+def send_email(alerts, report):
     username = os.environ.get("SMTP_USERNAME")
     password = os.environ.get("SMTP_PASSWORD")
     to_addr = os.environ.get("EMAIL_TO")
@@ -240,11 +304,10 @@ def send_email(report):
     smtp_server = os.environ.get("SMTP_SERVER") or "smtp.gmail.com"
     smtp_port = int(os.environ.get("SMTP_PORT") or "587")
 
-    flagged = [r for r in report["results"] if r["flagged"]]
-    subject = f"[Finance Agent] {len(flagged)} stock(s) moved sharply: " + ", ".join(
-        r["ticker"] for r in flagged
+    subject = f"[Finance Agent] {len(alerts)} stock(s) moved sharply: " + ", ".join(
+        r["ticker"] for r in alerts
     )
-    body = format_email_body(report)
+    body = format_email_body(alerts, report)
 
     msg = MIMEText(body)
     msg["Subject"] = subject
@@ -290,7 +353,22 @@ def main():
 
     log(f"{report['flaggedCount']} ticker(s) flagged as drastic movers")
     if report["flaggedCount"] > 0:
-        send_email(report)
+        flagged = [r for r in report["results"] if r["flagged"]]
+        last_alerted = load_last_alerted_news()
+        today_str = now.date().isoformat()
+        candidates = select_candidates(flagged, last_alerted, today_str)
+        # Only mail candidates that actually have fresh (past-week) news to
+        # show; if none of them do, there's nothing to email at all. Only
+        # these get stamped as "alerted today", so a ticker skipped here for
+        # lack of news is still free to alert later the same day.
+        with_news = [(r, sig) for r, sig in candidates if r["news"]]
+        if with_news:
+            send_email([r for r, _ in with_news], report)
+            for r, sig in with_news:
+                last_alerted[r["ticker"]] = {"date": today_str, "news": sig}
+            save_last_alerted_news(last_alerted)
+        else:
+            log("No fresh, recent news for any flagged ticker - no email sent")
 
     return 0
 
