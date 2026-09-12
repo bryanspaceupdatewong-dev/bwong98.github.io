@@ -1,53 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-10T17:05:00.117905Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.54,
-        "weekAgoPrice": 1.6299999952316284,
-        "percentChange": -5.52,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
-          },
-          {
-            "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
-          },
-          {
-            "title": "Top 10 High Dividend Stocks Malaysia 2026 - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0F6NGY3WlFFQTJjYmMyOFk2VjlNTTdXX2pTT0ZmZF9uSzdEcXgwSUxaVnVBMU13R2FwcHZ4THY3YXdmaFFxa0czaEx5OWw3bHNEWlNjQ3hiX1I5czRBU0hKOW1HUU1TQndSbkFhbWQ5aFozY0FzODVOb3lNYzlsSGdFeVZqTzZKWXY0Y0hmUW5GWFE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.3600000143051147,
-        "percentChange": -6.62,
-        "flagged": true,
-        "news": [
-          {
-            "title": "It Might Not Be A Great Idea To Buy Mr D.I.Y. Group (M) Berhad (KLSE:MRDIY) For Its Next Dividend - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQm83Vkx1U2xodDlhYVFMT0otMS1TbHRLZVZUeVBVRHhnSzNKcU0zVHJFOE85QWpyNWQ5XzFrNjdtdHh1RTNscHJwX1Y5cUNKNy1ibHVIRkIxQkFuSWhxVGw5SnphdUVEc05NTEpwNllPd1Q5LVFMWVN6ejBlakgweUZNQmQxMTd2Y0xXaDFqZ3hHT1U?oc=5"
-          },
-          {
-            "title": "Why It Might Not Make Sense To Buy Mr D.I.Y. Group (M) Berhad (KLSE:MRDIY) For Its Upcoming Dividend - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWwxa1RJSlUxVzJQdkZ0TkN2S0lhSUl5dEd3c0x3R1VOU01JNUlDeUpCaDFVXzlteVR1aWZweVJxSlBHT1ZpaWRRWkEydTBoY2RQdk5sYnUzcnJGRjQ0TkF6RnlNaTA4VFRVU2pwZ2Q4QkFXUW1uLUFsXy1salh3WEJVbWx0dTBhLWlfdldPYzV5dw?oc=5"
-          },
-          {
-            "title": "MRDIY (5296): Stocks Analysis and Forecast 2025 - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UOUN0cHBZTDN3ZUtOMkJySlRHZkZkb0l6c2ZOQkw2eDdtd29sM01qbzBQS1ViS0I2S0cwUlN6MmdTdGJyTWpycVRmTV9ya3FoQllJTDVpa2xWalFJZDctQ0pYdXpYOHRyMUhiV21LVmx0WExpdXRHZw?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-10T17:15:54.588533Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1573,6 +1525,41 @@
           },
           {
             "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - sg.finance.yahoo.com",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
+          },
+          {
+            "title": "$GENM (4715.MY)$ - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWm9WWnQtbjQ0NjhZUldwclI2c2tudHg2eEg0YjNRQXVEdVM0ZmQ1S2w4N2V5d3NrMFFsUG5BWUZKcmMwcXg3NjFVc05WeVBmN28xU293RnlSVmlxZ0d3YmRWOHNQQms3UlF0RG10eHFoa1o1MGI1alRUTVg4RlEyVW1YVUI1T0EtVEVxbU94cXlYd1JQdGxzODQ2a2VnSG9yMEJmWWJSUEJ6T3IxNmY2MEp2OTB5ZDRZ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.14,
+        "weekAgoPrice": 1.2799999713897705,
+        "percentChange": -10.94,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-12T11:06:56.838043Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.54,
+        "weekAgoPrice": 1.6399999856948853,
+        "percentChange": -6.1,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
+          },
+          {
+            "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
           },
           {
