@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-09-12T08:08:43.363710Z",
+  "companies": [
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "earningsDate": "2026-10-28",
+      "currentQuarterEpsEstimate": "4.72",
+      "currentQuarterRevenueEstimate": "90.67B",
+      "previousQuarterLabel": "2026-06-30",
+      "previousQuarterEpsActual": "4.74",
+      "previousQuarterEpsEstimate": "4.24",
+      "reminderSent": false
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "earningsDate": "2026-11-17",
+      "currentQuarterEpsEstimate": "2.47",
+      "currentQuarterRevenueEstimate": "108.99B",
+      "previousQuarterLabel": "2026-07-31",
+      "previousQuarterEpsActual": "2.22",
+      "previousQuarterEpsEstimate": "2.09",
+      "reminderSent": false
+    },
+    {
+      "ticker": "1295.KL",
+      "name": "PBBANK",
+      "earningsDate": "2026-11-16",
+      "currentQuarterEpsEstimate": "0.1",
+      "currentQuarterRevenueEstimate": "3.85B",
+      "previousQuarterLabel": "2026-06-30",
+      "previousQuarterEpsActual": "0.09",
+      "previousQuarterEpsEstimate": "0.1",
+      "reminderSent": false
+    },
+    {
+      "ticker": "1066.KL",
+      "name": "RHBBANK",
+      "earningsDate": "2026-11-26",
+      "currentQuarterEpsEstimate": "0.22",
+      "currentQuarterRevenueEstimate": "2.37B",
+      "previousQuarterLabel": "2026-06-30",
+      "previousQuarterEpsActual": "0.18",
+      "previousQuarterEpsEstimate": "0.21",
+      "reminderSent": false
+    },
+    {
+      "ticker": "4715.KL",
+      "name": "GENM",
+      "earningsDate": null,
+      "currentQuarterEpsEstimate": null,
+      "currentQuarterRevenueEstimate": null,
+      "previousQuarterLabel": "2026-03-31",
+      "previousQuarterEpsActual": "-0",
+      "previousQuarterEpsEstimate": null,
+      "reminderSent": false
+    },
+    {
+      "ticker": "3182.KL",
+      "name": "GENTING",
+      "earningsDate": "2026-11-26",
+      "currentQuarterEpsEstimate": null,
+      "currentQuarterRevenueEstimate": null,
+      "previousQuarterLabel": "2026-06-30",
+      "previousQuarterEpsActual": "-0.01",
+      "previousQuarterEpsEstimate": null,
+      "reminderSent": false
+    },
+    {
+      "ticker": "5271.KL",
+      "name": "PECCA",
+      "earningsDate": null,
+      "currentQuarterEpsEstimate": null,
+      "currentQuarterRevenueEstimate": null,
+      "previousQuarterLabel": null,
+      "previousQuarterEpsActual": null,
+      "previousQuarterEpsEstimate": null,
+      "reminderSent": false
+    },
+    {
+      "ticker": "5296.KL",
+      "name": "MRDIY",
+      "earningsDate": "2026-11-10",
+      "currentQuarterEpsEstimate": "0.02",
+      "currentQuarterRevenueEstimate": "1.34B",
+      "previousQuarterLabel": "2026-06-30",
+      "previousQuarterEpsActual": "0.01",
+      "previousQuarterEpsEstimate": "0.02",
+      "reminderSent": false
+    },
+    {
+      "ticker": "0397.KL",
+      "name": "5ER",
+      "earningsDate": null,
+      "currentQuarterEpsEstimate": null,
+      "currentQuarterRevenueEstimate": null,
+      "previousQuarterLabel": null,
+      "previousQuarterEpsActual": null,
+      "previousQuarterEpsEstimate": null,
+      "reminderSent": false
+    },
+    {
+      "ticker": "5352.KL",
+      "name": "MTTSL",
+      "earningsDate": null,
+      "currentQuarterEpsEstimate": null,
+      "currentQuarterRevenueEstimate": null,
+      "previousQuarterLabel": null,
+      "previousQuarterEpsActual": null,
+      "previousQuarterEpsEstimate": null,
+      "reminderSent": false
+    },
+    {
+      "ticker": "5341.KL",
+      "name": "LACMED",
+      "earningsDate": null,
+      "currentQuarterEpsEstimate": null,
+      "currentQuarterRevenueEstimate": null,
+      "previousQuarterLabel": null,
+      "previousQuarterEpsActual": null,
+      "previousQuarterEpsEstimate": null,
+      "reminderSent": false
+    }
+  ]
+}
