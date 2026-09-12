@@ -22,8 +22,9 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.mime.text import MIMEText
+from email.utils import parsedate_to_datetime
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(REPO_ROOT, "config.json")
@@ -121,20 +122,36 @@ def get_price_data(ticker):
     return current_price, week_ago_price
 
 
-def get_news(ticker, limit=3):
+def get_news(ticker, now, limit=3):
+    """Latest news for a ticker: only items published within the past week,
+    newest first, capped at `limit`. An item whose publish date can't be
+    parsed is skipped rather than assumed recent."""
     url = (
         "https://news.google.com/rss/search?q="
         f"{urllib.parse.quote(ticker + ' stock')}&hl=en-US&gl=US&ceid=US:en"
     )
+    cutoff = now - timedelta(days=7)
     try:
         raw = fetch_url(url)
         root = ET.fromstring(raw)
-        items = []
-        for item in root.findall("./channel/item")[:limit]:
+        dated_items = []
+        for item in root.findall("./channel/item"):
+            pub_date_raw = item.findtext("pubDate") or ""
+            try:
+                pub_date = parsedate_to_datetime(pub_date_raw)
+            except (TypeError, ValueError):
+                continue
+            if pub_date is None:
+                continue
+            if pub_date.tzinfo is None:
+                pub_date = pub_date.replace(tzinfo=timezone.utc)
+            if pub_date < cutoff:
+                continue
             title = item.findtext("title") or ""
             link = item.findtext("link") or ""
-            items.append({"title": title, "link": link})
-        return items
+            dated_items.append((pub_date, {"title": title, "link": link}))
+        dated_items.sort(key=lambda pair: pair[0], reverse=True)
+        return [entry for _, entry in dated_items[:limit]]
     except Exception as exc:  # noqa: BLE001
         log(f"WARN: could not fetch news for {ticker}: {exc}")
         return []
@@ -161,7 +178,7 @@ def build_report(config, now):
 
     for entry in results:
         if entry["flagged"]:
-            entry["news"] = get_news(entry["ticker"])
+            entry["news"] = get_news(entry["ticker"], now)
 
     flagged_count = sum(1 for r in results if r["flagged"])
     return {
@@ -246,17 +263,16 @@ def format_email_body(alerts, report):
         "",
     ]
     for r in alerts:
+        if not r["news"]:
+            continue
         direction = "UP" if r["percentChange"] >= 0 else "DOWN"
         lines.append(f"=== {r['ticker']}: {direction} {r['percentChange']}% ===")
         lines.append(f"  Current price: {r['currentPrice']}")
         lines.append(f"  ~1 week ago:   {r['weekAgoPrice']}")
-        if r["news"]:
-            lines.append("  Likely related news:")
-            for n in r["news"]:
-                lines.append(f"    - {n['title']}")
-                lines.append(f"      {n['link']}")
-        else:
-            lines.append("  No related news found.")
+        lines.append("  Likely related news (past week):")
+        for n in r["news"]:
+            lines.append(f"    - {n['title']}")
+            lines.append(f"      {n['link']}")
         lines.append("")
     return "\n".join(lines)
 
@@ -327,12 +343,15 @@ def main():
     if report["flaggedCount"] > 0:
         flagged = [r for r in report["results"] if r["flagged"]]
         last_alerted = load_last_alerted_news()
-        new_alerts = select_new_alerts(flagged, last_alerted)
-        if new_alerts:
-            send_email(new_alerts, report)
+        deduped = select_new_alerts(flagged, last_alerted)
+        # Only mail tickers that actually have fresh (past-week) news to show;
+        # if none of them do, there's nothing to email at all.
+        with_news = [r for r in deduped if r["news"]]
+        if with_news:
+            send_email(with_news, report)
             save_last_alerted_news(last_alerted)
         else:
-            log("All flagged ticker(s) match previously emailed news - no email sent")
+            log("No fresh, recent news for any flagged ticker - no email sent")
 
     return 0
 
