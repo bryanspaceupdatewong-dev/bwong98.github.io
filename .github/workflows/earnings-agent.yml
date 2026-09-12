@@ -1,0 +1,73 @@
+name: Earnings Calendar Agent
+
+on:
+  schedule:
+    # Full recompile + compiled-table email, once a month (1st, 01:00 UTC).
+    - cron: "0 1 1 * *"
+    # Daily check: send a reminder if any watched company reports tomorrow.
+    # This also fires on the 1st (offset by 30 min from the monthly cron
+    # above) - harmless, since the reminder is deduped via reminderSent.
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Force a mode instead of auto-detecting from today's date"
+        required: false
+        type: choice
+        options:
+          - auto
+          - monthly
+          - daily
+        default: auto
+
+permissions:
+  contents: write
+
+concurrency:
+  group: earnings-agent
+  cancel-in-progress: false
+
+jobs:
+  check-earnings:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Determine mode
+        id: mode
+        run: |
+          if [ "${{ github.event.schedule }}" = "0 1 1 * *" ]; then
+            echo "mode=monthly" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "30 1 * * *" ]; then
+            echo "mode=daily" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=${{ github.event.inputs.mode || 'auto' }}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run earnings check
+        env:
+          EARNINGS_MODE: ${{ steps.mode.outputs.mode }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+        run: python3 finance-agent/scripts/check_earnings.py
+
+      - name: Commit updated earnings calendar
+        run: |
+          git config user.name "earnings-agent-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add finance-agent/data/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "Earnings agent: update calendar $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
