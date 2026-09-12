@@ -8,7 +8,10 @@ public chart endpoint (no API key required), flags tickers whose price has
 moved more than the configured threshold since a week ago, pulls a few
 recent headlines per flagged ticker from Google News RSS, writes the results
 to finance-agent/data/report.json (+ appends to data/history.json), and
-emails a compilation report when anything is flagged.
+emails a compilation report when anything is flagged. Skips entirely on
+weekends, since none of the watched markets are open then. Sends at most
+one alert email per ticker per calendar day, however many times it stays
+flagged that day.
 
 Uses only the Python standard library so the GitHub Actions workflow needs
 no dependency installation step.
@@ -60,6 +63,8 @@ def is_due(config, now):
     """Self-gate: the workflow fires every 30 minutes; decide whether this
     particular firing should actually run a check, based on the configured
     interval."""
+    if now.weekday() >= 5:  # Saturday/Sunday (UTC) - markets are closed, nothing to check
+        return False
     interval = config.get("interval", "daily")
     if interval == "halfhour":
         return True
@@ -239,20 +244,27 @@ def news_signature(news_items):
     return sorted(n["title"] for n in news_items if n.get("title"))
 
 
-def select_new_alerts(flagged, last_alerted):
-    """Drop flagged tickers whose news is identical to what we already
-    emailed about last time for that same ticker, so we don't send a
-    duplicate follow-up email about the same story."""
-    new_alerts = []
+def select_candidates(flagged, last_alerted, today_str):
+    """Drops flagged tickers we've already emailed about today (at most one
+    alert per ticker per calendar day - a ticker that stays flagged all day
+    only needs to be reported once), and tickers whose news is identical to
+    what we already emailed last time. Returns (ticker_result, news_sig)
+    pairs still eligible to send; the caller decides which of those actually
+    go out (e.g. only ones with fresh news) and persists state only for
+    those, so a candidate skipped here for lack of news remains eligible
+    later the same day."""
+    candidates = []
     for r in flagged:
+        entry = last_alerted.get(r["ticker"], {})
+        if entry.get("date") == today_str:
+            log(f"Skipping {r['ticker']}: already emailed about this ticker today")
+            continue
         sig = news_signature(r["news"])
-        if sig and last_alerted.get(r["ticker"]) == sig:
+        if sig and entry.get("news") == sig:
             log(f"Skipping {r['ticker']}: already emailed this exact news - no follow-up")
             continue
-        new_alerts.append(r)
-        if sig:
-            last_alerted[r["ticker"]] = sig
-    return new_alerts
+        candidates.append((r, sig))
+    return candidates
 
 
 def format_email_body(alerts, report):
@@ -343,12 +355,17 @@ def main():
     if report["flaggedCount"] > 0:
         flagged = [r for r in report["results"] if r["flagged"]]
         last_alerted = load_last_alerted_news()
-        deduped = select_new_alerts(flagged, last_alerted)
-        # Only mail tickers that actually have fresh (past-week) news to show;
-        # if none of them do, there's nothing to email at all.
-        with_news = [r for r in deduped if r["news"]]
+        today_str = now.date().isoformat()
+        candidates = select_candidates(flagged, last_alerted, today_str)
+        # Only mail candidates that actually have fresh (past-week) news to
+        # show; if none of them do, there's nothing to email at all. Only
+        # these get stamped as "alerted today", so a ticker skipped here for
+        # lack of news is still free to alert later the same day.
+        with_news = [(r, sig) for r, sig in candidates if r["news"]]
         if with_news:
-            send_email(with_news, report)
+            send_email([r for r, _ in with_news], report)
+            for r, sig in with_news:
+                last_alerted[r["ticker"]] = {"date": today_str, "news": sig}
             save_last_alerted_news(last_alerted)
         else:
             log("No fresh, recent news for any flagged ticker - no email sent")
