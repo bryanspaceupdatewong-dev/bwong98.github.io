@@ -29,6 +29,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(REPO_ROOT, "config.json")
 REPORT_PATH = os.path.join(REPO_ROOT, "data", "report.json")
 HISTORY_PATH = os.path.join(REPO_ROOT, "data", "history.json")
+LAST_ALERTED_PATH = os.path.join(REPO_ROOT, "data", "last_alerted_news.json")
 
 MAX_HISTORY_ENTRIES = 50
 REQUEST_TIMEOUT = 10
@@ -200,16 +201,51 @@ def update_history(report):
         f.write("\n")
 
 
-def format_email_body(report):
+def load_last_alerted_news():
+    try:
+        with open(LAST_ALERTED_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def save_last_alerted_news(last_alerted):
+    with open(LAST_ALERTED_PATH, "w", encoding="utf-8") as f:
+        json.dump(last_alerted, f, indent=2)
+        f.write("\n")
+
+
+def news_signature(news_items):
+    """Order-independent fingerprint of a ticker's news items, used to detect
+    that a follow-up alert would be reporting the exact same news as last
+    time. Empty when there's no news, since there's nothing to compare."""
+    return sorted(n["title"] for n in news_items if n.get("title"))
+
+
+def select_new_alerts(flagged, last_alerted):
+    """Drop flagged tickers whose news is identical to what we already
+    emailed about last time for that same ticker, so we don't send a
+    duplicate follow-up email about the same story."""
+    new_alerts = []
+    for r in flagged:
+        sig = news_signature(r["news"])
+        if sig and last_alerted.get(r["ticker"]) == sig:
+            log(f"Skipping {r['ticker']}: already emailed this exact news - no follow-up")
+            continue
+        new_alerts.append(r)
+        if sig:
+            last_alerted[r["ticker"]] = sig
+    return new_alerts
+
+
+def format_email_body(alerts, report):
     lines = [
         "Compilation report: drastic movers in your watched basket",
         f"Generated: {report['generatedAt']}",
         f"Threshold: +/-{report['thresholdPercent']}% vs ~1 week ago",
         "",
     ]
-    for r in report["results"]:
-        if not r["flagged"]:
-            continue
+    for r in alerts:
         direction = "UP" if r["percentChange"] >= 0 else "DOWN"
         lines.append(f"=== {r['ticker']}: {direction} {r['percentChange']}% ===")
         lines.append(f"  Current price: {r['currentPrice']}")
@@ -225,7 +261,7 @@ def format_email_body(report):
     return "\n".join(lines)
 
 
-def send_email(report):
+def send_email(alerts, report):
     username = os.environ.get("SMTP_USERNAME")
     password = os.environ.get("SMTP_PASSWORD")
     to_addr = os.environ.get("EMAIL_TO")
@@ -240,11 +276,10 @@ def send_email(report):
     smtp_server = os.environ.get("SMTP_SERVER") or "smtp.gmail.com"
     smtp_port = int(os.environ.get("SMTP_PORT") or "587")
 
-    flagged = [r for r in report["results"] if r["flagged"]]
-    subject = f"[Finance Agent] {len(flagged)} stock(s) moved sharply: " + ", ".join(
-        r["ticker"] for r in flagged
+    subject = f"[Finance Agent] {len(alerts)} stock(s) moved sharply: " + ", ".join(
+        r["ticker"] for r in alerts
     )
-    body = format_email_body(report)
+    body = format_email_body(alerts, report)
 
     msg = MIMEText(body)
     msg["Subject"] = subject
@@ -290,7 +325,14 @@ def main():
 
     log(f"{report['flaggedCount']} ticker(s) flagged as drastic movers")
     if report["flaggedCount"] > 0:
-        send_email(report)
+        flagged = [r for r in report["results"] if r["flagged"]]
+        last_alerted = load_last_alerted_news()
+        new_alerts = select_new_alerts(flagged, last_alerted)
+        if new_alerts:
+            send_email(new_alerts, report)
+            save_last_alerted_news(last_alerted)
+        else:
+            log("All flagged ticker(s) match previously emailed news - no email sent")
 
     return 0
 
