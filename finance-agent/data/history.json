@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-11T14:17:44.934703Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.54,
-        "weekAgoPrice": 1.6399999856948853,
-        "percentChange": -6.1,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
-          },
-          {
-            "title": "Top 10 High Dividend Stocks Malaysia 2026 - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0F6NGY3WlFFQTJjYmMyOFk2VjlNTTdXX2pTT0ZmZF9uSzdEcXgwSUxaVnVBMU13R2FwcHZ4THY3YXdmaFFxa0czaEx5OWw3bHNEWlNjQ3hiX1I5czRBU0hKOW1HUU1TQndSbkFhbWQ5aFozY0FzODVOb3lNYzlsSGdFeVZqTzZKWXY0Y0hmUW5GWFE?oc=5"
-          },
-          {
-            "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-11T15:15:59.091210Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1659,6 +1632,73 @@
     "generatedAt": "2026-09-14T13:17:58.884215Z",
     "thresholdPercent": 5.0,
     "flagged": [
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.83,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.23,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.52,
+        "weekAgoPrice": 1.6200000047683716,
+        "percentChange": -6.17,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.92,
+        "weekAgoPrice": 2.049999952316284,
+        "percentChange": -6.34,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.29,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -5.84,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.13,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -8.13,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-14T14:16:11.893095Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 211.26,
+        "weekAgoPrice": 230.36000061035156,
+        "percentChange": -8.29,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia stock forecast shows modest 0.49% rise b... - Pluang",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGJ1QWtrcEZEQ0djN0o3eHdoRzFzRG9qT1BKclB0NF9nazRtaHlwVFZsOWJwQWxvQTV2ZHVsYWFJZmZILVBmN28wYUpsVVRTY1cydEV4dUJpSHNiQnNscEczZ1M3TWRuV295a1JmTmZEbXVaQndlZWNNUjVwUkNpVHRZMUR3WGxEa3RSNWFuRUNNWVZwamNjTzMxSHJvR0xLZU5lMmRNbEJKWnhGSnhzRVljZU0?oc=5"
+          },
+          {
+            "title": "Nasdaq Down Over 200 Points; Cellectis Shares Plunge - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUo5c2R2akNDXy0xRmNvSFJUdk1JYWdBQmRvSjNBcGp6dU5CTXhEY1hWRU5YUmt1ZUk4Q241LVBhUFpITko0Q0tOSGNoRGRNME5OMUdKUG1wUnVTb09DMXZiVG5Td0w2a3R5M055ek1SODZUVkNDZlpRTDg2SEFFY3JDbEtuVWd2N2dkdWVBSm1TamxtaU4xTVdLMHI?oc=5"
+          },
+          {
+            "title": "Stocks to watch on Monday: GLW, KMB, NVDA & more (SPY:NYSEARCA) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakREay11MUJ5OU5fSjVWRk9zejdzRjR0cHl3b2JXekpyeVBlNFFLMUs4S1d1cUk2N2tGSmZGV1c1Wmp3MUdmdUhRSlpCNFM2QnVZSGRMdEVtUXlQMXF2c3RLOW5fS2tNNG1BeTRZdnVBcHpKcl9faXV3MEZNMFc5TTNiakdKMGFD?oc=5"
+          }
+        ]
+      },
       {
         "ticker": "1066.KL",
         "currentPrice": 7.83,
