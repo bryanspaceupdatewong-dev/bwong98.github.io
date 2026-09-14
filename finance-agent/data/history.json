@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-11T22:16:19.052888Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.54,
-        "weekAgoPrice": 1.6399999856948853,
-        "percentChange": -6.1,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
-          },
-          {
-            "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
-          },
-          {
-            "title": "Top 10 High Dividend Stocks Malaysia 2026 - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0F6NGY3WlFFQTJjYmMyOFk2VjlNTTdXX2pTT0ZmZF9uSzdEcXgwSUxaVnVBMU13R2FwcHZ4THY3YXdmaFFxa0czaEx5OWw3bHNEWlNjQ3hiX1I5czRBU0hKOW1HUU1TQndSbkFhbWQ5aFozY0FzODVOb3lNYzlsSGdFeVZqTzZKWXY0Y0hmUW5GWFE?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-11T23:02:41.460567Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1952,6 +1925,73 @@
           {
             "title": "Nvidia's AI Growth Outlook Faces New Threats as Stock Drops - FinanceBuzz",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NNVYwRHZEOFM3STZ1SWxuNzdvNWNpcEFxX0Z3X3FxeGdtc3FOSjNUeS1BSDFDVHJ1MmR4dGJRdkNIVi1OaTU3UTBEMk1FYm1SRUNhZGVxSW9Sd2Q4UHJDNTkzT3VJSFNUc01mLUotY0o5U28?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.83,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.23,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.52,
+        "weekAgoPrice": 1.6200000047683716,
+        "percentChange": -6.17,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.92,
+        "weekAgoPrice": 2.049999952316284,
+        "percentChange": -6.34,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.29,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -5.84,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.13,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -8.13,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-14T22:15:49.631569Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 210.96,
+        "weekAgoPrice": 230.36000061035156,
+        "percentChange": -8.42,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA (NASDAQ:NVDA) Stock Price Down 3.4% - Here's Why - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMXV0NHdkTmtWSFd0ZDVZQ0xOUlJmX29NVDloT1BSMm9US0ZaNjFYRFBITEdxSTBxeEctMkU3M1BxUmVPdEsxVzNkY2Z4Rnc5U0s0TmNqR3BEcWh5RGVpMVhITlZhbVRHWEhNMlUzOS1Pc0Q2eklRaE1zZ1k0d1pzaGltb1BIdVBRb0YxTHRWdzBwX09INTU3WEtwdmRoa2U5T3BMUXp2Wm1YMy1Z?oc=5"
+          },
+          {
+            "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here\u2019s what to know. - MarketWatch",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXhhNU85c0VqbERFOS02Y1Zqb2RnbDQ0QXhSejZMMGdkMUV0LTVoSi1PQkpMQnNfdm5ESHRUcUV4bWtxb21SSXFQbnYyS1VSdmV3UVh5aWNFZ29KM0l1bW9qeldkZm9CemhJYmtVOTZkS0g5cHNSV01iRFA4ZTlXTFE2cEFXeFZnTlJTRHpHSV9CYlMwSmlqM1VsV29vUDByTzIxZkQzYmEycGJGY0lzSURQMnpsSXc2Vmpud09WUWgxS19mQ3ZfMkN3?oc=5"
+          },
+          {
+            "title": "5 Top AI Stocks to Buy on the Dip as Slowdown Fears Hit Markets - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmJWdmszMDZlWjFZWW95MVF4S2FvRXZoRHoxNVpOWFVIcTBVRndRTmIyZFVIMlktTmFrVEJ0TV9lRmRuempXejNwTHdrcFRUdXZmbW80cGNvaVRzeVJxQV80aFRYelVlV0dLdjlQNm84SGFEZENMcXFDNFRvZnplQlgwaDNicEt3VjJz?oc=5"
           }
         ]
       },
