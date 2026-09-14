@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T03:16:29.595754Z",
+  "generatedAt": "2026-09-14T04:16:15.340758Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,17 +21,17 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.82,
+      "currentPrice": 4.84,
       "weekAgoPrice": 5.0,
-      "percentChange": -3.6,
+      "percentChange": -3.2,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.77,
+      "currentPrice": 7.81,
       "weekAgoPrice": 8.350000381469727,
-      "percentChange": -6.95,
+      "percentChange": -6.47,
       "flagged": true,
       "news": []
     },
@@ -53,17 +53,17 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.36,
+      "currentPrice": 1.37,
       "weekAgoPrice": 1.340000033378601,
-      "percentChange": 1.49,
+      "percentChange": 2.24,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.3,
+      "currentPrice": 1.29,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": -5.11,
+      "percentChange": -5.84,
       "flagged": true,
       "news": []
     },
@@ -77,17 +77,17 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.12,
+      "currentPrice": 1.13,
       "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -8.94,
+      "percentChange": -8.13,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.76,
+      "currentPrice": 0.755,
       "weekAgoPrice": 0.7699999809265137,
-      "percentChange": -1.3,
+      "percentChange": -1.95,
       "flagged": false,
       "news": []
     }
