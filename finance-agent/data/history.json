@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-11T17:15:49.290672Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.54,
-        "weekAgoPrice": 1.6299999952316284,
-        "percentChange": -5.52,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
-          },
-          {
-            "title": "Top 10 High Dividend Stocks Malaysia 2026 - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0F6NGY3WlFFQTJjYmMyOFk2VjlNTTdXX2pTT0ZmZF9uSzdEcXgwSUxaVnVBMU13R2FwcHZ4THY3YXdmaFFxa0czaEx5OWw3bHNEWlNjQ3hiX1I5czRBU0hKOW1HUU1TQndSbkFhbWQ5aFozY0FzODVOb3lNYzlsSGdFeVZqTzZKWXY0Y0hmUW5GWFE?oc=5"
-          },
-          {
-            "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-11T18:16:10.802440Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1776,6 +1749,65 @@
           {
             "title": "Here\u2019s how long it\u2019s taken Nvidia stock to turn \u00a310,000 into a stunning \u00a3100,000 - Yahoo Finance UK",
             "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFFvSzlFd1Z6TGM5cTI4TWRvRHpLMHhvTVN4TEtEeVRRd0hON2RYdmY5ZGJSODBUOFRQYlBvNFV2VGtXSHNyNGNZMkR2d2ZhbDhldHhGbzZrclJLdm5mak5CMkhUNnlhVC1KTHMtQ0F6MzFDZmY0Nl9kWDNTTlFyMGFYaw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.83,
+        "weekAgoPrice": 8.289999961853027,
+        "percentChange": -5.55,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.52,
+        "weekAgoPrice": 1.6399999856948853,
+        "percentChange": -7.32,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.92,
+        "weekAgoPrice": 2.0399999618530273,
+        "percentChange": -5.88,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.13,
+        "weekAgoPrice": 1.2799999713897705,
+        "percentChange": -11.72,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-14T17:15:32.428651Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 212.113,
+        "weekAgoPrice": 230.36000061035156,
+        "percentChange": -7.92,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Heads to $200 as Regulatory, Margin and Spending Risks Mount - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnU3NDRpdHNrTU5GZ2hBYTljU0ozS1hXamdtRzZTd2huMzN4elBJY2g3dlpfZ1FWVFMwQzczN1JVcDNrekhrbVhHcFJIWTRnSWVfUFNfMDNtTERVV0FjVm96WlVZcUkxVmFnYjc5b3dPU1dsRlIzUy03Qm5iWHp6SVFDdmZhWlEzN3Y2ZGhQNUFPczBvaWI1TFhzRFM5bkl2WS10aGlkZ2FNRG5GYno3RG5B?oc=5"
+          },
+          {
+            "title": "Wall St falls as AI anxiety batters Nvidia, chipmakers - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5"
+          },
+          {
+            "title": "Crude Oil Jumps 3%; Corning Shares Move Lower - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnhRUzBhN2k3ZWZCVmh6NjZEZk8xNVJNbmhuVW4xMzQ3ZF9aLUdvWjZqOGVQUFhhWGkzSHl6SGZ1ZWtnMXE3cDVQUHVjN2RJaGpXU0dzVWwtSi1KZTRuSUM5VmNwWjF5TjFTUnkyRE90Uk5EZmR6VFF4VGFOczhOTi0tMFBxb0hRVU9UcHVYdC1Nb0NrZFg3WEUwZF9JbU5xeEJ1bkhDV0hxdw?oc=5"
           }
         ]
       },

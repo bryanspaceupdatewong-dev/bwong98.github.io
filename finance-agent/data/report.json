@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-14T16:15:55.628986Z",
+  "generatedAt": "2026-09-14T17:15:32.428651Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 505.29,
+      "currentPrice": 508.12,
       "weekAgoPrice": 499.70001220703125,
-      "percentChange": 1.12,
+      "percentChange": 1.69,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 212.19,
+      "currentPrice": 212.113,
       "weekAgoPrice": 230.36000061035156,
-      "percentChange": -7.89,
+      "percentChange": -7.92,
       "flagged": true,
       "news": [
         {
+          "title": "NVDA Stock Heads to $200 as Regulatory, Margin and Spending Risks Mount - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnU3NDRpdHNrTU5GZ2hBYTljU0ozS1hXamdtRzZTd2huMzN4elBJY2g3dlpfZ1FWVFMwQzczN1JVcDNrekhrbVhHcFJIWTRnSWVfUFNfMDNtTERVV0FjVm96WlVZcUkxVmFnYjc5b3dPU1dsRlIzUy03Qm5iWHp6SVFDdmZhWlEzN3Y2ZGhQNUFPczBvaWI1TFhzRFM5bkl2WS10aGlkZ2FNRG5GYno3RG5B?oc=5"
+        },
+        {
+          "title": "Wall St falls as AI anxiety batters Nvidia, chipmakers - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5"
+        },
+        {
           "title": "Crude Oil Jumps 3%; Corning Shares Move Lower - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnhRUzBhN2k3ZWZCVmh6NjZEZk8xNVJNbmhuVW4xMzQ3ZF9aLUdvWjZqOGVQUFhhWGkzSHl6SGZ1ZWtnMXE3cDVQUHVjN2RJaGpXU0dzVWwtSi1KZTRuSUM5VmNwWjF5TjFTUnkyRE90Uk5EZmR6VFF4VGFOczhOTi0tMFBxb0hRVU9UcHVYdC1Nb0NrZFg3WEUwZF9JbU5xeEJ1bkhDV0hxdw?oc=5"
-        },
-        {
-          "title": "Why Is Nvidia (NASDAQ:NVDA) Stock Falling Today? NVDA Drops Nearly 4% as AI Slowdown Fears Hit Chip Stocks - Stocks Down Under",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40Q0czcDN3NmdwdW9xeXpVcUNIeXJ2cE12dVJxTldqRVpaN3JicndQY0lZN1ptWERiYVlPNkdPNkJfM1ZFQmhZcjZOS3RSZUU5bEVzTDlVTXlXWTRQcHJralVVZFg2UVJXRkRFLV9xaUlLeXc?oc=5"
-        },
-        {
-          "title": "Here\u2019s how long it\u2019s taken Nvidia stock to turn \u00a310,000 into a stunning \u00a3100,000 - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFFvSzlFd1Z6TGM5cTI4TWRvRHpLMHhvTVN4TEtEeVRRd0hON2RYdmY5ZGJSODBUOFRQYlBvNFV2VGtXSHNyNGNZMkR2d2ZhbDhldHhGbzZrclJLdm5mak5CMkhUNnlhVC1KTHMtQ0F6MzFDZmY0Nl9kWDNTTlFyMGFYaw?oc=5"
         }
       ]
     },
