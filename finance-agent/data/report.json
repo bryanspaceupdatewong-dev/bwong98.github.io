@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-14T19:16:14.310364Z",
+  "generatedAt": "2026-09-14T20:16:27.233400Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 506.5,
+      "currentPrice": 505.41,
       "weekAgoPrice": 499.70001220703125,
-      "percentChange": 1.36,
+      "percentChange": 1.14,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 212.159,
+      "currentPrice": 210.96,
       "weekAgoPrice": 230.36000061035156,
-      "percentChange": -7.9,
+      "percentChange": -8.42,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Stock Drops. It\u2019s Still the Best Chip Bet in an AI Slowdown. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd28zaEgxYzJOZi1kWWhWa0Y5RG5za0VEUDN5dEVXTjVPdzhnTlhLX3BIaUdTNUEtN20zRWhkandEbDlZaTNiX0VrUkQ2aFQ3Z3BvbmlDeTI5enc2RUJqaTkzV3FZZWxZUmxqMXBNZ25MNnRLMDhPYmV1aTd0WWc3MERLWQ?oc=5"
+          "title": "Nvidia Stock Could Get a Boost From CoreWeave's Latest Announcement - fool.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjJFbDJjYUg3dHNRcTVGOGVnS05ESEV5MDBpZDB1YU1PU1NNcDRaOWlkNjBRMXBIbFV1T1N6WlY1ZUxLaU4tUGlFWjg4U1NPUDVfOUFuLW9LNHlXQzVGckRTdG9HRUxpOERFRUtodlRoTUUyMkpfa2ZzenVvbmN4LWNCSGQ2MU1nVWxtQllkb0ttWGd6SlpCNQ?oc=5"
         },
         {
-          "title": "These S&P500 stocks are the most active in today's session - ChartMill",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDRhek53dy0tSVkzYW9FcmRyQ1BfeHR3UGd5Qmp5WWxUc1AtX0MtbGxnS29fZ2JjWmZPNGExR3NoMVZLcTk3OFJLLUFkNHk2aEN0WnRhMVRJd3hMOUJaQ3Vqd3QxWnEtYkxtS1B4MUk4b0xpM0kzYU5XeGNIZXh2eDM4a1JsbThZUndSekRjTS1QdVZFaV9rQkZBVjlPR2FkSlJhb2J3NG9LLXlp?oc=5"
+          "title": "Nvidia Stock (NVDA) Falls Despite a Quantum Computing Update - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNEV3RFVlb1hGNUVsdGctYTFobFU4OWgwalFCSV9iclRacDRDYkNpR2UyQ1EzZmx2Qmd0MnBIbndUdW5OSlRWQnpPNlpSbXJZeEFfWGxMenI3NWZTZFF1TnFaNTRyeTNIR244ZFNmek5ySkhwQ0FZa1VfcnIxb3ByV3V2SzJTQm5oNk4wNUN5U3FWdw?oc=5"
         },
         {
-          "title": "Elon Musk sends strong signal for SpaceX, Nvidia stocks - thestreet.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sd1ZSNXV3bEZ1dk9lcDMtVnlHVFBYWlMtSmhrNmxTRXhicnhwbHhIeVQ1Vmxua05YaDNSdmpmb1hRbTV3azZleGpLbGp5bm1qUHVhSFB6RVpieEVyek1GUGlMMVFkLXhpN2ZjNW1ncG01THdFbDdLYkZQc2NmNDg?oc=5"
+          "title": "Nvidia Stock Could Get a Boost From CoreWeave's Latest Announcement - Currently.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPandlN05fQ2w0WjJLMVpkTVF3MDR6RHVRb3Blc3F2d0E5aE4zRVVwZ1dPR3FVYW45dDhWLV8yanhlNUtOQS1xV0g1d09TT29DdmpkbHNQRzVaM21WU3YzN3BFR3NuS0l3STRDVFNGalkzOWxRcU5pTTZhel95SFhGeHVXSWV4SjdwSHFOY3hFTQ?oc=5"
         }
       ]
     },
