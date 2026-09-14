@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-14T17:15:32.428651Z",
+  "generatedAt": "2026-09-14T18:15:56.953410Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 508.12,
+      "currentPrice": 508.184,
       "weekAgoPrice": 499.70001220703125,
-      "percentChange": 1.69,
+      "percentChange": 1.7,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 212.113,
+      "currentPrice": 212.48,
       "weekAgoPrice": 230.36000061035156,
-      "percentChange": -7.92,
+      "percentChange": -7.76,
       "flagged": true,
       "news": [
         {
-          "title": "NVDA Stock Heads to $200 as Regulatory, Margin and Spending Risks Mount - FXLeaders",
+          "title": "Elon Musk sends strong signal for SpaceX, Nvidia stocks - thestreet.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sd1ZSNXV3bEZ1dk9lcDMtVnlHVFBYWlMtSmhrNmxTRXhicnhwbHhIeVQ1Vmxua05YaDNSdmpmb1hRbTV3azZleGpLbGp5bm1qUHVhSFB6RVpieEVyek1GUGlMMVFkLXhpN2ZjNW1ncG01THdFbDdLYkZQc2NmNDg?oc=5"
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq fall as Anthropic's AI warning spooks tech traders, 10-year yield hits 5% - finance.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVdLdTJrbjFlX2lQWjdXaDUtM2w0aWExVXpzMmdOeGFyRXVOaWRLS0RLUG5qcVhOd2F6bjNfR2gxSDNOMWgxOWhxcVg5b01BZWg3VXAyUkQxczZNOXFMUmU2bmh4eFNJMmRoSDI0dmRGRVpVRVk2R2FzY1RQWXVQZ1I3dURRbzZYSHZBUnNLMHUxR2ZfQWNRR0NaNlN2Nm1YUzVnWDF1a1EwOUl3SVEw?oc=5"
+        },
+        {
+          "title": "NVDA Stock Heads to $200 as Regulatory, Margin and Spending Risks Mount - fxleaders.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnU3NDRpdHNrTU5GZ2hBYTljU0ozS1hXamdtRzZTd2huMzN4elBJY2g3dlpfZ1FWVFMwQzczN1JVcDNrekhrbVhHcFJIWTRnSWVfUFNfMDNtTERVV0FjVm96WlVZcUkxVmFnYjc5b3dPU1dsRlIzUy03Qm5iWHp6SVFDdmZhWlEzN3Y2ZGhQNUFPczBvaWI1TFhzRFM5bkl2WS10aGlkZ2FNRG5GYno3RG5B?oc=5"
-        },
-        {
-          "title": "Wall St falls as AI anxiety batters Nvidia, chipmakers - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5"
-        },
-        {
-          "title": "Crude Oil Jumps 3%; Corning Shares Move Lower - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnhRUzBhN2k3ZWZCVmh6NjZEZk8xNVJNbmhuVW4xMzQ3ZF9aLUdvWjZqOGVQUFhhWGkzSHl6SGZ1ZWtnMXE3cDVQUHVjN2RJaGpXU0dzVWwtSi1KZTRuSUM5VmNwWjF5TjFTUnkyRE90Uk5EZmR6VFF4VGFOczhOTi0tMFBxb0hRVU9UcHVYdC1Nb0NrZFg3WEUwZF9JbU5xeEJ1bkhDV0hxdw?oc=5"
         }
       ]
     },
