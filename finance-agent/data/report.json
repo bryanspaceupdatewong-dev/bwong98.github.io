@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T07:15:51.161270Z",
+  "generatedAt": "2026-09-15T08:15:43.064473Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,40 +19,40 @@
       "flagged": true,
       "news": [
         {
-          "title": "Trump Calls NVDA CEO Jensen Huang Mid-Conference To Talk AI Regulation, Says Report \u2014 \u2018The Robots Are Not Going To Be Taking Over\u2019 - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWVV2ZkVSYmw2Q3pmdjFIOEU5OUFibHRGRk1laVdsc2I4YXpwd2xkUEgxZWN4Ql9vTGkzaEtNdE1LY1YyQU93Z1RhZTZpTjkwVVZXa3FnY25wX205UGxVdEprWGhJTW4zWTNad0NMWHB5ZnlhZDNjOW5nOW02dDZvemJ1TmE1dU9mU05PM1oyZTJUMVE4ZGVDR2ZWazEzczlFWUZrX08xdTdVMWRHLWtHVHhtREdsemlrWVNKazktLWNhWGlGNlZaa2E0LTlRVWo0NkN3Y281WTFzQlJKNDY4cC15clJ2ak12WHlLNGs5bXB0WElHYVJlX29SUVMxWnc2UnlJRVNYeVM1V2xyV0NlYWxpdTdCUWRW?oc=5"
+          "title": "NVIDIA Corporation $NVDA Shares Purchased by Hoertkorn Richard Charles - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGUtdzlWUmpiUU02cXZTMVEyLXpwbGsxSk5RczZaZjhYeEJwX21iYllpbi1QNnVpU1ZKTi14bVFXYWpOR04wRDhYeHhlbXZpTkczYTZaQkwwcnZ3RHRuRHloY1RiUnlhTUkwVk5ZNW9RSHJFQlZCNllJNzVMLTk3V0phYzJHNm03akMyTWtQTlFFY0pDVHdrUVlmaERyczRKdUtrNkI5T3JyNzRqdDQ1R3JJQkwzSEJ4QkVRc0NhajE0Q1VnN1E5bUpn?oc=5"
         },
         {
-          "title": "AI Stock Sell-Off: Nvidia (NVDA) and AMD Under Pressure Amid Mar - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTE5bkdMRVFuX09CSktId2tQcG9iU3hkQUs5Q0hHX2NVUUtEM25uX0RCOHNPSVA0SlBYWE9pdWZ2V0NJUUh4SGRUcmQwbTNUYVZYQXJNak50ZlRoam5BbEc4Y2w3a3c5RU80ZU1OQklRQVpNVzVDdGFQY0c2aEVqeGRPamFkaTUwd3JnZm1Ga2ZsYzg0RVVMVDhKbmFBRno0SDNmTTRCVkhIc25ieFZn?oc=5"
+          "title": "Johnson Investment Counsel Inc. Raises Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb0tYN2dUS0FMdmhpOF9pb0xDRFg2TndBcTBqZnZ4TzdTMEtabWpLRUZYS3NiQTk2VkxjWm83NkgyOEtGa3FKVTFDMFVCSXNzLVBkSEhCbExHZHFOalNucXpVd0x5dGNWVWdidFhzQ3lnbWF0bVNPdU11RTNuT3o4NnNCT2RMazVJaHNydmZUYW5NbmVaV1ZhMkpuTng1OU11cVRFUkRBekhmYXFzcWxWMWQ4MmtMUklVZ1RNcGttSXJUQlpJZ1VIbVFrdEFmbFJRcDJxQzduVQ?oc=5"
         },
         {
-          "title": "Weaker technical forecast for NVIDIA as stock downgraded to Sell Candidate - StockInvest.us",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVVUZV9tU3RZQm1nY0F6U1N5RWNyc1EySTdhM3BKUURXM0JZN3JQRzhiRmNpbDA1Z1loTmtQcFZoVzNwbmU1VjZVem9qWk9JcnZ5elpya0lVWFhqNnJjQUotNHg2REVHejBORktfV0JDMVE5aTZHTFZLZUpQNlFkXzJhRFZvbGluWi1RMTlsLVdoUy03bjNyMjlqLWsxc05ndkFPcWZ4OVk0bXluUmdoaDhmY29xLU10UW9v?oc=5"
+          "title": "Forum Financial Management LP Buys 14,205 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQem5VQzg1eWtVcTZOS1JrTU1PR1A1eEpRNVdrdVNXS3hta1UzeldxTU5qWk5qbWdvVTlZM2ZDVWRmOHJaT3V2VDIyLWdwMnVTd2NZcmFEVmtTeVVCSGR5R0w0Rm1yLTBqTVNsQUZ5RWJnOGl3VHBoVU9fN2ZublNWNkI2MWVZT2VVOTFIcUgzS0FZd2hMRUt4UzVHdXpOZkduZEdOU0Z6Z1NtN1pZb2FsTW1zWHFGVGlwQUdWUzZ6OEs0MTZtbG1GcXFEX1JmYmZ2?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.83,
+      "currentPrice": 4.82,
       "weekAgoPrice": 5.0,
-      "percentChange": -3.4,
+      "percentChange": -3.6,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.75,
+      "currentPrice": 7.78,
       "weekAgoPrice": 8.350000381469727,
-      "percentChange": -7.19,
+      "percentChange": -6.83,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.54,
+      "currentPrice": 1.55,
       "weekAgoPrice": 1.590000033378601,
-      "percentChange": -3.14,
+      "percentChange": -2.52,
       "flagged": false,
       "news": []
     },
@@ -66,17 +66,17 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.38,
+      "currentPrice": 1.37,
       "weekAgoPrice": 1.3300000429153442,
-      "percentChange": 3.76,
+      "percentChange": 3.01,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.28,
+      "currentPrice": 1.29,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": -6.57,
+      "percentChange": -5.84,
       "flagged": true,
       "news": []
     },

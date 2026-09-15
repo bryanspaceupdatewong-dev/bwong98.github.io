@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-12T06:14:02.622135Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.54,
-        "weekAgoPrice": 1.6399999856948853,
-        "percentChange": -6.1,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
-          },
-          {
-            "title": "Top 10 High Dividend Stocks Malaysia 2026 - moomoo.com",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0F6NGY3WlFFQTJjYmMyOFk2VjlNTTdXX2pTT0ZmZF9uSzdEcXgwSUxaVnVBMU13R2FwcHZ4THY3YXdmaFFxa0czaEx5OWw3bHNEWlNjQ3hiX1I5czRBU0hKOW1HUU1TQndSbkFhbWQ5aFozY0FzODVOb3lNYzlsSGdFeVZqTzZKWXY0Y0hmUW5GWFE?oc=5"
-          },
-          {
-            "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-12T06:15:56.837632Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2280,6 +2253,65 @@
         "currentPrice": 1.28,
         "weekAgoPrice": 1.3700000047683716,
         "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.11,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.93,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.74,
+        "weekAgoPrice": 0.7799999713897705,
+        "percentChange": -5.13,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-15T08:15:43.064473Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 210.96,
+        "weekAgoPrice": 230.36000061035156,
+        "percentChange": -8.42,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA Corporation $NVDA Shares Purchased by Hoertkorn Richard Charles - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGUtdzlWUmpiUU02cXZTMVEyLXpwbGsxSk5RczZaZjhYeEJwX21iYllpbi1QNnVpU1ZKTi14bVFXYWpOR04wRDhYeHhlbXZpTkczYTZaQkwwcnZ3RHRuRHloY1RiUnlhTUkwVk5ZNW9RSHJFQlZCNllJNzVMLTk3V0phYzJHNm03akMyTWtQTlFFY0pDVHdrUVlmaERyczRKdUtrNkI5T3JyNzRqdDQ1R3JJQkwzSEJ4QkVRc0NhajE0Q1VnN1E5bUpn?oc=5"
+          },
+          {
+            "title": "Johnson Investment Counsel Inc. Raises Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb0tYN2dUS0FMdmhpOF9pb0xDRFg2TndBcTBqZnZ4TzdTMEtabWpLRUZYS3NiQTk2VkxjWm83NkgyOEtGa3FKVTFDMFVCSXNzLVBkSEhCbExHZHFOalNucXpVd0x5dGNWVWdidFhzQ3lnbWF0bVNPdU11RTNuT3o4NnNCT2RMazVJaHNydmZUYW5NbmVaV1ZhMkpuTng1OU11cVRFUkRBekhmYXFzcWxWMWQ4MmtMUklVZ1RNcGttSXJUQlpJZ1VIbVFrdEFmbFJRcDJxQzduVQ?oc=5"
+          },
+          {
+            "title": "Forum Financial Management LP Buys 14,205 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQem5VQzg1eWtVcTZOS1JrTU1PR1A1eEpRNVdrdVNXS3hta1UzeldxTU5qWk5qbWdvVTlZM2ZDVWRmOHJaT3V2VDIyLWdwMnVTd2NZcmFEVmtTeVVCSGR5R0w0Rm1yLTBqTVNsQUZ5RWJnOGl3VHBoVU9fN2ZublNWNkI2MWVZT2VVOTFIcUgzS0FZd2hMRUt4UzVHdXpOZkduZEdOU0Z6Z1NtN1pZb2FsTW1zWHFGVGlwQUdWUzZ6OEs0MTZtbG1GcXFEX1JmYmZ2?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.78,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.83,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.29,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -5.84,
         "flagged": true,
         "news": []
       },
