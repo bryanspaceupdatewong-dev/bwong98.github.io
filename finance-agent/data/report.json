@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T03:16:26.242531Z",
+  "generatedAt": "2026-09-15T04:15:38.811568Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -42,33 +42,33 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.79,
+      "currentPrice": 7.76,
       "weekAgoPrice": 8.350000381469727,
-      "percentChange": -6.71,
+      "percentChange": -7.07,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.53,
+      "currentPrice": 1.54,
       "weekAgoPrice": 1.590000033378601,
-      "percentChange": -3.77,
+      "percentChange": -3.14,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.96,
+      "currentPrice": 1.97,
       "weekAgoPrice": 2.009999990463257,
-      "percentChange": -2.49,
+      "percentChange": -1.99,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.37,
+      "currentPrice": 1.38,
       "weekAgoPrice": 1.3300000429153442,
-      "percentChange": 3.01,
+      "percentChange": 3.76,
       "flagged": false,
       "news": []
     },
@@ -82,28 +82,28 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.205,
+      "currentPrice": 0.21,
       "weekAgoPrice": 0.20999999344348907,
-      "percentChange": -2.38,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.13,
+      "currentPrice": 1.11,
       "weekAgoPrice": 1.1799999475479126,
-      "percentChange": -4.24,
-      "flagged": false,
+      "percentChange": -5.93,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.735,
+      "currentPrice": 0.74,
       "weekAgoPrice": 0.7799999713897705,
-      "percentChange": -5.77,
+      "percentChange": -5.13,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 5
 }
