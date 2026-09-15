@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T04:15:38.811568Z",
+  "generatedAt": "2026-09-15T05:15:41.289540Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,12 +19,12 @@
       "flagged": true,
       "news": [
         {
-          "title": "AI Stock Sell-Off: Nvidia (NVDA) and AMD Under Pressure Amid Mar - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTE5bkdMRVFuX09CSktId2tQcG9iU3hkQUs5Q0hHX2NVUUtEM25uX0RCOHNPSVA0SlBYWE9pdWZ2V0NJUUh4SGRUcmQwbTNUYVZYQXJNak50ZlRoam5BbEc4Y2w3a3c5RU80ZU1OQklRQVpNVzVDdGFQY0c2aEVqeGRPamFkaTUwd3JnZm1Ga2ZsYzg0RVVMVDhKbmFBRno0SDNmTTRCVkhIc25ieFZn?oc=5"
+          "title": "Trump Calls NVDA CEO Jensen Huang Mid-Conference To Talk AI Regulation, Says Report \u2014 \u2018The Robots Are Not Going To Be Taking Over\u2019 - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWVV2ZkVSYmw2Q3pmdjFIOEU5OUFibHRGRk1laVdsc2I4YXpwd2xkUEgxZWN4Ql9vTGkzaEtNdE1LY1YyQU93Z1RhZTZpTjkwVVZXa3FnY25wX205UGxVdEprWGhJTW4zWTNad0NMWHB5ZnlhZDNjOW5nOW02dDZvemJ1TmE1dU9mU05PM1oyZTJUMVE4ZGVDR2ZWazEzczlFWUZrX08xdTdVMWRHLWtHVHhtREdsemlrWVNKazktLWNhWGlGNlZaa2E0LTlRVWo0NkN3Y281WTFzQlJKNDY4cC15clJ2ak12WHlLNGs5bXB0WElHYVJlX29SUVMxWnc2UnlJRVNYeVM1V2xyV0NlYWxpdTdCUWRW?oc=5"
         },
         {
-          "title": "Trump Phones Jensen Huang Live Against AI Slowdown Fears. NVIDIA Stock Reacts - Mitrade",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkgtR2dKaWhXSFhhVDRSb3VPT1hxSXN3c3h4cTZad0VrS2YyWm5fTkcwaFFXdmNXMmpkaFpESTFGalRrRWFsSWxVV3Y5WGp4U2hkRWtPcEYyajdSLTQ4OUljWmFLVEprNGNZY3Q4V0t1ZE9zQTVxR3BkY0pXUFE5NnNEUklJbGpEenJPUDBhaDd6SEk?oc=5"
+          "title": "AI Stock Sell-Off: Nvidia (NVDA) and AMD Under Pressure Amid Mar - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTE5bkdMRVFuX09CSktId2tQcG9iU3hkQUs5Q0hHX2NVUUtEM25uX0RCOHNPSVA0SlBYWE9pdWZ2V0NJUUh4SGRUcmQwbTNUYVZYQXJNak50ZlRoam5BbEc4Y2w3a3c5RU80ZU1OQklRQVpNVzVDdGFQY0c2aEVqeGRPamFkaTUwd3JnZm1Ga2ZsYzg0RVVMVDhKbmFBRno0SDNmTTRCVkhIc25ieFZn?oc=5"
         },
         {
           "title": "Weaker technical forecast for NVIDIA as stock downgraded to Sell Candidate - StockInvest.us",
@@ -42,9 +42,9 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.76,
+      "currentPrice": 7.73,
       "weekAgoPrice": 8.350000381469727,
-      "percentChange": -7.07,
+      "percentChange": -7.43,
       "flagged": true,
       "news": []
     },
@@ -58,9 +58,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.97,
+      "currentPrice": 1.96,
       "weekAgoPrice": 2.009999990463257,
-      "percentChange": -1.99,
+      "percentChange": -2.49,
       "flagged": false,
       "news": []
     },
@@ -74,17 +74,17 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.28,
+      "currentPrice": 1.29,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": -6.57,
+      "percentChange": -5.84,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.21,
+      "currentPrice": 0.205,
       "weekAgoPrice": 0.20999999344348907,
-      "percentChange": 0.0,
+      "percentChange": -2.38,
       "flagged": false,
       "news": []
     },
