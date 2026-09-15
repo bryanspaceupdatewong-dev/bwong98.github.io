@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-09-15T14:16:45.335364Z",
+  "generatedAt": "2026-09-15T14:24:42.734864Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 499.175,
+      "currentPrice": 498.535,
       "weekAgoPrice": 493.95001220703125,
-      "percentChange": 1.06,
+      "percentChange": 0.93,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 212.71,
+      "currentPrice": 212.56,
       "weekAgoPrice": 225.72999572753906,
-      "percentChange": -5.77,
+      "percentChange": -5.83,
       "flagged": true,
       "news": [
         {
@@ -27,7 +27,7 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWEQyX0xpYnRpdzBBNjJ3X1d5LVJMM3RFRW8zdTBxbVdCQzFpMkVuRW4xS2FYaS1ac3BxSFFzdlQ3WVNTMWItZ3dONkxrZTFHZTU4a1FTeGJFZUNZV2xhMGZzMnBvQkxGU1h4UDRUZE52OUFITzBNWjRCN1FHSFQyckt4a3EtMm9WZnkzSWNVNTF0d3lZRzVKeDM1NA?oc=5"
         },
         {
-          "title": "Should You Buy Micron Stock Instead of Nvidia? - fool.com",
+          "title": "Should You Buy Micron Stock Instead of Nvidia? - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSTBQYU1nUzB3XzJvRGtwZ0Y5cjJZZXFpYWJ0dXZDVWU5cTdaMHVPVzdpWW5ZQ0xRRnBaOXZLQlVHbnRkZ0poMm9DNDM0MG40OEtybURvQ1lUMFNDdlZ6bS15dk1fM213Si14VFpCTjhBTkMzZXVuajVjb0l4MFh3SjlySHBzRXBmR2M2YU9nMi1tQQ?oc=5"
         }
       ]
