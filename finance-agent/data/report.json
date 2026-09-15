@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T00:16:20.749359Z",
+  "generatedAt": "2026-09-15T01:16:10.151521Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "CoreWeave Delivers Fantastic News for Nvidia Stock Investors - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3g1YU5ESmtDaGZtbDVvTmRkRlI2cHI2eDlaTGlmZGdRMzZJOVlfQlpSNlRoUzdKRTZGMjZMb1NQNjJwNVZJWldKRmpYR3dmTlR4azRPMExFUGJSOUMwb3MxZTBZY09VYmgtYUlZRENyNnBFWXFiRm1QQk1hVExWSlk0dVd4cEZsTzZIUURGNFdWSk5DVHlRbw?oc=5"
+        },
+        {
           "title": "NVDA Stock Heads to $200 as Regulatory, Margin and Nvidia Spending Risks Mount - FXLeaders",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUFZVVVtTXdiV1pTYVVsQkt6SjEwbkhGT21DVkxKcGh1NHVIWDNIal91UHNlZGlZNERGZzA1T3NoMlBULXh2VEpfRC1GaGtCTnZITFBrTFVESWR3NWZ3Z3A3R3pkSS1ibHlKeDFuNzhCLUMydTR6QURhVGNaTzNuMFhwNUJsdEI5N0FwS2o5YjVRazdkV3FBa2FWbUVQdWZKbUNjVXd5bW8wWk12T2RySGZ3SEVPZDh1LVZz?oc=5"
         },
         {
           "title": "NVIDIA (NVDA) Stock Drops Amid AI Model Usage Concerns - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFoxZ3JlSVIxcklrYmQ4V2V3NjEyc0Z4bGZmN0xDWlJyOG9xY2c0ZHhkSzItVkRObXlidTIxVloyUUVEdGYwc0hjNUlncW5ONWlNdTJHTVZ0ck43bDJUanJuWnBvMV8xSzFGYzFKOUkwT19sc2lGZE9JUk9iUXVkQUljNnRIUURTVkk2cGxWeVZ5bkhKNHc?oc=5"
-        },
-        {
-          "title": "NVIDIA (NASDAQ:NVDA) Stock Price Down 3.4% - Here's Why - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMXV0NHdkTmtWSFd0ZDVZQ0xOUlJmX29NVDloT1BSMm9US0ZaNjFYRFBITEdxSTBxeEctMkU3M1BxUmVPdEsxVzNkY2Z4Rnc5U0s0TmNqR3BEcWh5RGVpMVhITlZhbVRHWEhNMlUzOS1Pc0Q2eklRaE1zZ1k0d1pzaGltb1BIdVBRb0YxTHRWdzBwX09INTU3WEtwdmRoa2U5T3BMUXp2Wm1YMy1Z?oc=5"
         }
       ]
     },
@@ -51,17 +51,17 @@
     {
       "ticker": "4715.KL",
       "currentPrice": 1.52,
-      "weekAgoPrice": 1.6200000047683716,
-      "percentChange": -6.17,
-      "flagged": true,
+      "weekAgoPrice": 1.590000033378601,
+      "percentChange": -4.4,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.92,
-      "weekAgoPrice": 2.049999952316284,
-      "percentChange": -6.34,
-      "flagged": true,
+      "currentPrice": 1.93,
+      "weekAgoPrice": 2.009999990463257,
+      "percentChange": -3.98,
+      "flagged": false,
       "news": []
     },
     {
@@ -90,10 +90,10 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.13,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -8.13,
-      "flagged": true,
+      "currentPrice": 1.14,
+      "weekAgoPrice": 1.1799999475479126,
+      "percentChange": -3.39,
+      "flagged": false,
       "news": []
     },
     {
@@ -105,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 6
+  "flaggedCount": 3
 }
