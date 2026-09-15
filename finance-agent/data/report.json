@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-09-15T18:23:23.693793Z",
+  "generatedAt": "2026-09-15T19:16:18.107771Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 498.35,
+      "currentPrice": 497.0,
       "weekAgoPrice": 493.95001220703125,
-      "percentChange": 0.89,
+      "percentChange": 0.62,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 211.94,
+      "currentPrice": 211.96,
       "weekAgoPrice": 225.72999572753906,
-      "percentChange": -6.11,
+      "percentChange": -6.1,
       "flagged": true,
       "news": [
         {
@@ -23,12 +23,12 @@
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdDR0c3BFdE1Hc21KakR1YnpzN3drM21SLWw0TkVSenRxWndfb1BTMzlHZHdFUUc0WG1FRWlXMlFqMHNPeG5JVEY5ekY3UVk1VjlEajUyZTFpakhMLWludlF5emh5LUxJcGpFTnF6Z3EzRVN3dDhUbTRycG9HLUxYVWlIcVFMSzdHalE?oc=5"
         },
         {
-          "title": "Nvidia vs. Micron: Which Is the Better Artificial Intelligence (AI) Semiconductor Stock to Own for the Next 5 Years? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFVlbDZwdVJlUDhMVnk1LTBmRE1lZ0tJenRlZnBGZEphQkJNR21NbWdkSk5GaU1WbDV0NExYZGNCR09Bend5NXBpMmtRRS05andlUWNGMk5XeVczY3lnUTNiRDdhVF9kdzVVWmRIS2xyTjlSVnBhNi1EVUROV1ZtbFVhNjAySFR1dmNhRHBTN1VVejBBNkVfeA?oc=5"
+          "title": "What Does Nvidia's (NVDA) $10 Billion Bet Mean As AI Slows Down? - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdmlDUXZBLVdfSmJCaVhJeldJYVZ3WjVod25SN0o5bUNaSXdUejY5NVVVQVpCNElFRC1MaWdjNktxNndIZzQyNWxpMHk0dVBMRHBYaG5HRVZjRTlkM3pKMTF5bjZqcEUwbm9FbFAzN0FRWmxOQTg1M3pHSEFPMHBDUlU4bWtaaGV1RnM5WmZKYWlvcGljWmhJdDRWc1BDNVJnZ1JPVUtwSUdYOHo4QTV5MmQ2U2JuMW5LN2t3NHdSX1IyRjFEWW9XRDFB0gHPAUFVX3lxTE8tOXZJSGVKQ1FYNlNiS1BOX2NfMHM3LTA5ZUloZ2hsSVdwRmtpRWw0ZktCcnFNd1JqQWF3NkNFMkR4Slc3aElmal9zLWJ1cWFxWGRpUk1iMHJmRDBpbnR0LTZIRTkwQjlYNUFmY3YwRGw2ckU5MHdFcTl6X3NnVkF1VXF5NmJIdlljaE9ZME5JWjJlRzBJbUdvd2QyclpwbDgzX25Bb3Azd055NTJkWHAwUUU5Sm5FV0p0SDkybk13bWE2YmctQl9iWnZsOG1ONA?oc=5"
         },
         {
-          "title": "Nvidia Just Invited a Rival Chipmaker Into Its Own Racks. Here\u2019s Why - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjRYMy02cDZ0SHZXZEdRYm1iTFBkT1FRdHdQVjEzVzhRQmczQWVjcU9ORmtfZ2FZMF9vMlROU1Qtb2NUTUNwVzRRYVFpMmdva3pWWUdZMnVCRHFBVTFkS0pITHlaVnBlTHRPN2lLMkVLWjlBUmFfU0g4M1hYS1JrdWlGRUFSWnlETzZTZFBOVTIwZThYWk1xdUV0bHRZSUphdTRSd01SSzNGamlvYTNv?oc=5"
+          "title": "Nvidia vs. Micron: Which Is the Better Artificial Intelligence (AI) Semiconductor Stock to Own for the Next 5 Years? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFVlbDZwdVJlUDhMVnk1LTBmRE1lZ0tJenRlZnBGZEphQkJNR21NbWdkSk5GaU1WbDV0NExYZGNCR09Bend5NXBpMmtRRS05andlUWNGMk5XeVczY3lnUTNiRDdhVF9kdzVVWmRIS2xyTjlSVnBhNi1EVUROV1ZtbFVhNjAySFR1dmNhRHBTN1VVejBBNkVfeA?oc=5"
         }
       ]
     },
