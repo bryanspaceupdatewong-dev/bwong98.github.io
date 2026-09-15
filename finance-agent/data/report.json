@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-15T15:16:09.695608Z",
+  "generatedAt": "2026-09-15T16:16:17.236858Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 500.87,
+      "currentPrice": 499.985,
       "weekAgoPrice": 493.95001220703125,
-      "percentChange": 1.4,
+      "percentChange": 1.22,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 212.26,
+      "currentPrice": 211.885,
       "weekAgoPrice": 225.72999572753906,
-      "percentChange": -5.97,
+      "percentChange": -6.13,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind F - GuruFocus",
+          "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHhHek92eVI1cjkwNFdHMFFYODJpZU0yMDJSZlo0V2JVQzI3MlE5cHdmaXo3QVZIUFo1VFNudXJCNXRIdi1UN3JaVTRlQmI5MC14cGdrdkhTSWpSeVQwVDdSRkp4aTEza3MycGZoMXpNMFFURzRBR29oTERUTlluR2lyeDRfQUgzaXlENnRxZnRQRUtHcEFF?oc=5"
+        },
+        {
+          "title": "Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind Fast - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjctTDlScHNnRGZ6Zmk4cXA3YnE2S3drQnQ4bUhFSzBpUkhkXzdRRTI4UEhDMDNlUlVyeDI3R3dON2wtMFdNTXpTY3FGT0lUd1NGM2ZJQjdXQTFtSnVNUzFfc2ZYQ1dZN3U4X3prWmFsZU1NMkdoYk9famcwY3RlRmdCdl9ic1ZjZ1Y1R2YtbkkwcGphNl9QSXhUcw?oc=5"
+        },
+        {
+          "title": "Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind Fast - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenNETWJZMlpIa2hNSHdvbV8xRnVZdkVEV0hHMmN5TXozcmkzZ0VuN0J2M3RYRUNXbFF2SzF6dVlaWktMMk1tVkx5Vk1hY1hWUnhtLXdvRW1uRDNlNlFDdm9oQkZHZktPVk94SFo4TDZyMHdscVN4Q1Vmek1JNkhkcEVINmJ4S0pjVzdKM3hQRHhDMGltaGhsOW1ZTEJONzhKbjlJN3N1TDVxdw?oc=5"
-        },
-        {
-          "title": "Investor doubles down on Nvidia stock despite 8% drop amid AI slowdown fears. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1R2ZUt0Umdabm5OTnRrMnhxMjVpSDZLV0YwQmtveTlOc1Z3ZXRvWmFPMjhRZHRTZkZueG9qTTVGTEV5c0tfSldzNHNwaUYwNTlSQkx3VS1xc0RaYnpuYWdhdkhTeWtyMm5RWVhteUtEa3N1MUtLQlRrNWNzNHhJQjh0ZVk2ZEk?oc=5"
-        },
-        {
-          "title": "Should You Buy Micron Stock Instead of Nvidia? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSTBQYU1nUzB3XzJvRGtwZ0Y5cjJZZXFpYWJ0dXZDVWU5cTdaMHVPVzdpWW5ZQ0xRRnBaOXZLQlVHbnRkZ0poMm9DNDM0MG40OEtybURvQ1lUMFNDdlZ6bS15dk1fM213Si14VFpCTjhBTkMzZXVuajVjb0l4MFh3SjlySHBzRXBmR2M2YU9nMi1tQQ?oc=5"
         }
       ]
     },
@@ -51,24 +51,24 @@
     {
       "ticker": "4715.KL",
       "currentPrice": 1.54,
-      "weekAgoPrice": 1.590000033378601,
-      "percentChange": -3.14,
+      "weekAgoPrice": 1.6200000047683716,
+      "percentChange": -4.94,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.93,
-      "weekAgoPrice": 2.009999990463257,
-      "percentChange": -3.98,
-      "flagged": false,
+      "weekAgoPrice": 2.049999952316284,
+      "percentChange": -5.85,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.37,
-      "weekAgoPrice": 1.3300000429153442,
-      "percentChange": 3.01,
+      "weekAgoPrice": 1.340000033378601,
+      "percentChange": 2.24,
       "flagged": false,
       "news": []
     },
@@ -83,27 +83,27 @@
     {
       "ticker": "0397.KL",
       "currentPrice": 0.205,
-      "weekAgoPrice": 0.20999999344348907,
-      "percentChange": -2.38,
+      "weekAgoPrice": 0.20499999821186066,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.1,
-      "weekAgoPrice": 1.1799999475479126,
-      "percentChange": -6.78,
+      "weekAgoPrice": 1.2300000190734863,
+      "percentChange": -10.57,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.75,
-      "weekAgoPrice": 0.7799999713897705,
-      "percentChange": -3.85,
+      "weekAgoPrice": 0.7699999809265137,
+      "percentChange": -2.6,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 5
 }
