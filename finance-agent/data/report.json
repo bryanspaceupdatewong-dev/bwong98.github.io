@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T21:16:33.757976Z",
+  "generatedAt": "2026-09-15T22:16:06.240311Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHhHek92eVI1cjkwNFdHMFFYODJpZU0yMDJSZlo0V2JVQzI3MlE5cHdmaXo3QVZIUFo1VFNudXJCNXRIdi1UN3JaVTRlQmI5MC14cGdrdkhTSWpSeVQwVDdSRkp4aTEza3MycGZoMXpNMFFURzRBR29oTERUTlluR2lyeDRfQUgzaXlENnRxZnRQRUtHcEFF?oc=5"
+        },
+        {
           "title": "NVIDIA vs. Broadcom: Which AI Stock Should You Buy After Earnings? - The Globe and Mail",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUnlvQlZQb0xuRXhjRm5iWWhQbjNZck5OeC05aE1oX2llSWNjV25OS1hnalVTeE9rMWpkRXBmQXVOMVZVREl3RDhUclJlREpZVTlKN3BCYVBka05Rd0tzWkhtX0V2RVFGLXJhZ0JEbmo3VTVXdGQtOHVyME9yb1VmckRVN3R6QVNlRGxUa1pHUkZBS0NpcDhRWjBmSUFkX2U1SVpGZFloSDJ5eXFWcnJmRzZILTh3Y0M5dTl3QkZyREZQNk1sYzB3M0Z2SXVZREdFNXhKb0E3RWVkVWFESGlNaU1B?oc=5"
         },
         {
           "title": "Prediction: Nvidia's $108 Billion Q3 Guide Will Look Conservative by December - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVB4V1FpSmgwMlA1cUtOWHZnNzRvSG5kWDRhT3I5aGdzcHhOMmJRcUQyNjNhUUlHb3JFcGZ6c1dsNnVpa0o5X2VTX3NOYTgzeXN0WF9CTWE1VHJablZJUVRxVG1aV250dk1LRUYxQk50eV9wY2ZXV0pVU0RFTkJ1UGctSE1mMkZwaURCWGxxTlFBWVVzRE51OElENUE5cHM?oc=5"
-        },
-        {
-          "title": "NVIDIA vs. Broadcom: Which AI Stock Should You Buy After Earnings? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnZkMkRyWDQ0RkZkcEg3d1BwWWd3NzhhUjhONTFxek9oOTY2TFZVVkFMNEtnUFIzUXppaUgxR3pvRTNjWGdzN3MxQUZ1dGVuOFF0RVhVWjlRanl5MlJ2b3oyeFMyTDM1WGNPcmdpMGRIbzFva2Zud2pBVWF1TVhJd2xydjhCV3VQcTB2bTJrS1c4SmZ4dGdHMDVreTBQWjRBWDdrT0s5Q2FlTnVBOU1uVkZ0ZldIWGdWRGlv?oc=5"
         }
       ]
     },
