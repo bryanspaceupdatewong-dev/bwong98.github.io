@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T02:15:53.624760Z",
+  "generatedAt": "2026-09-15T03:16:26.242531Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,32 +19,32 @@
       "flagged": true,
       "news": [
         {
+          "title": "AI Stock Sell-Off: Nvidia (NVDA) and AMD Under Pressure Amid Mar - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTE5bkdMRVFuX09CSktId2tQcG9iU3hkQUs5Q0hHX2NVUUtEM25uX0RCOHNPSVA0SlBYWE9pdWZ2V0NJUUh4SGRUcmQwbTNUYVZYQXJNak50ZlRoam5BbEc4Y2w3a3c5RU80ZU1OQklRQVpNVzVDdGFQY0c2aEVqeGRPamFkaTUwd3JnZm1Ga2ZsYzg0RVVMVDhKbmFBRno0SDNmTTRCVkhIc25ieFZn?oc=5"
+        },
+        {
+          "title": "Trump Phones Jensen Huang Live Against AI Slowdown Fears. NVIDIA Stock Reacts - Mitrade",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkgtR2dKaWhXSFhhVDRSb3VPT1hxSXN3c3h4cTZad0VrS2YyWm5fTkcwaFFXdmNXMmpkaFpESTFGalRrRWFsSWxVV3Y5WGp4U2hkRWtPcEYyajdSLTQ4OUljWmFLVEprNGNZY3Q4V0t1ZE9zQTVxR3BkY0pXUFE5NnNEUklJbGpEenJPUDBhaDd6SEk?oc=5"
+        },
+        {
           "title": "Weaker technical forecast for NVIDIA as stock downgraded to Sell Candidate - StockInvest.us",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVVUZV9tU3RZQm1nY0F6U1N5RWNyc1EySTdhM3BKUURXM0JZN3JQRzhiRmNpbDA1Z1loTmtQcFZoVzNwbmU1VjZVem9qWk9JcnZ5elpya0lVWFhqNnJjQUotNHg2REVHejBORktfV0JDMVE5aTZHTFZLZUpQNlFkXzJhRFZvbGluWi1RMTlsLVdoUy03bjNyMjlqLWsxc05ndkFPcWZ4OVk0bXluUmdoaDhmY29xLU10UW9v?oc=5"
-        },
-        {
-          "title": "CoreWeave Delivers Fantastic News for Nvidia Stock Investors - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3g1YU5ESmtDaGZtbDVvTmRkRlI2cHI2eDlaTGlmZGdRMzZJOVlfQlpSNlRoUzdKRTZGMjZMb1NQNjJwNVZJWldKRmpYR3dmTlR4azRPMExFUGJSOUMwb3MxZTBZY09VYmgtYUlZRENyNnBFWXFiRm1QQk1hVExWSlk0dVd4cEZsTzZIUURGNFdWSk5DVHlRbw?oc=5"
-        },
-        {
-          "title": "NVDA Stock Heads to $200 as Regulatory, Margin and Nvidia Spending Risks Mount - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUFZVVVtTXdiV1pTYVVsQkt6SjEwbkhGT21DVkxKcGh1NHVIWDNIal91UHNlZGlZNERGZzA1T3NoMlBULXh2VEpfRC1GaGtCTnZITFBrTFVESWR3NWZ3Z3A3R3pkSS1ibHlKeDFuNzhCLUMydTR6QURhVGNaTzNuMFhwNUJsdEI5N0FwS2o5YjVRazdkV3FBa2FWbUVQdWZKbUNjVXd5bW8wWk12T2RySGZ3SEVPZDh1LVZz?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.82,
+      "currentPrice": 4.84,
       "weekAgoPrice": 5.0,
-      "percentChange": -3.6,
+      "percentChange": -3.2,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.77,
+      "currentPrice": 7.79,
       "weekAgoPrice": 8.350000381469727,
-      "percentChange": -6.95,
+      "percentChange": -6.71,
       "flagged": true,
       "news": []
     },
@@ -58,9 +58,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.95,
+      "currentPrice": 1.96,
       "weekAgoPrice": 2.009999990463257,
-      "percentChange": -2.99,
+      "percentChange": -2.49,
       "flagged": false,
       "news": []
     },
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.28,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": -5.84,
+      "percentChange": -6.57,
       "flagged": true,
       "news": []
     },
@@ -98,12 +98,12 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.75,
-      "weekAgoPrice": 0.7699999809265137,
-      "percentChange": -2.6,
-      "flagged": false,
+      "currentPrice": 0.735,
+      "weekAgoPrice": 0.7799999713897705,
+      "percentChange": -5.77,
+      "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 4
 }
