@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T08:15:43.064473Z",
+  "generatedAt": "2026-09-15T09:15:52.216230Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,48 +19,48 @@
       "flagged": true,
       "news": [
         {
-          "title": "NVIDIA Corporation $NVDA Shares Purchased by Hoertkorn Richard Charles - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGUtdzlWUmpiUU02cXZTMVEyLXpwbGsxSk5RczZaZjhYeEJwX21iYllpbi1QNnVpU1ZKTi14bVFXYWpOR04wRDhYeHhlbXZpTkczYTZaQkwwcnZ3RHRuRHloY1RiUnlhTUkwVk5ZNW9RSHJFQlZCNllJNzVMLTk3V0phYzJHNm03akMyTWtQTlFFY0pDVHdrUVlmaERyczRKdUtrNkI5T3JyNzRqdDQ1R3JJQkwzSEJ4QkVRc0NhajE0Q1VnN1E5bUpn?oc=5"
+          "title": "This Unassuming Stock is Trouncing Nvidia in 2026. Here\u2019s Why It\u2019s a No-Brainer Buy. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1ZkU3kwUmpJd05DZThuTnYzLW5hTHFYak1nQWgwYXBGUFQ2NU9Lb0R4RF8zeVlsNV93VDMwM3ZaYjM2elp6X2p0bmE1VVAyZVJVWGo0WUtYajdIUzIzVjB6eHJ5cVNRaTM3bmJsNm5aQWxPS0VNaW41c0o5R3ppQ3ZzRkpVUzZJYmRvaWpMc1hXY1lxbC0yYkhsTjFnQ2dVcHRiR0NOY3paVWVzT05yaDk2WmZ6Y2xtWXRicUhHdmUtTDA?oc=5"
         },
         {
-          "title": "Johnson Investment Counsel Inc. Raises Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb0tYN2dUS0FMdmhpOF9pb0xDRFg2TndBcTBqZnZ4TzdTMEtabWpLRUZYS3NiQTk2VkxjWm83NkgyOEtGa3FKVTFDMFVCSXNzLVBkSEhCbExHZHFOalNucXpVd0x5dGNWVWdidFhzQ3lnbWF0bVNPdU11RTNuT3o4NnNCT2RMazVJaHNydmZUYW5NbmVaV1ZhMkpuTng1OU11cVRFUkRBekhmYXFzcWxWMWQ4MmtMUklVZ1RNcGttSXJUQlpJZ1VIbVFrdEFmbFJRcDJxQzduVQ?oc=5"
+          "title": "This Unassuming Stock is Trouncing Nvidia in 2026. Here\u2019s Why It\u2019s a No-Brainer Buy. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWmcwQnBNZ0YtQkR1RW1ZTm9RSHNubldSVVZocUp0MVRnQXNRNk01anA1NnJDajJfTEV5ekh4VUJXOHlwZXg2ZWFRc2ZkX0tXekx5cmJqcXduek50MjAwRUowaVlqVmNVQ05zeGVpejNTellPN3ltSDZsMmFxamZRVzRwX0hyNi12OGNjSm42a0g4ZEVKR0NuSmJLNkdCYTlHeXQxdlFn?oc=5"
         },
         {
-          "title": "Forum Financial Management LP Buys 14,205 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQem5VQzg1eWtVcTZOS1JrTU1PR1A1eEpRNVdrdVNXS3hta1UzeldxTU5qWk5qbWdvVTlZM2ZDVWRmOHJaT3V2VDIyLWdwMnVTd2NZcmFEVmtTeVVCSGR5R0w0Rm1yLTBqTVNsQUZ5RWJnOGl3VHBoVU9fN2ZublNWNkI2MWVZT2VVOTFIcUgzS0FZd2hMRUt4UzVHdXpOZkduZEdOU0Z6Z1NtN1pZb2FsTW1zWHFGVGlwQUdWUzZ6OEs0MTZtbG1GcXFEX1JmYmZ2?oc=5"
+          "title": "This Unassuming Stock is Trouncing Nvidia in 2026. Here\u2019s Why It\u2019s a No-Brainer Buy. - AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlRxYjZ5aWl6SDlXX3FpTm1qaGloTnNFYW9mRTVYUlJvYmF1YkczZ29aeXkwemlMM1lVNTJDallDSU91ZElyODVVSDREUERyZHR4aGozWDllSzBvUlpsaE9Rcms2OVpBTGJ2aDJHeV9iQUZmMUkybTg2LXUyeGNFTEdzeXUycmlFYWc?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.82,
+      "currentPrice": 4.8,
       "weekAgoPrice": 5.0,
-      "percentChange": -3.6,
+      "percentChange": -4.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.78,
+      "currentPrice": 7.77,
       "weekAgoPrice": 8.350000381469727,
-      "percentChange": -6.83,
+      "percentChange": -6.95,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.55,
+      "currentPrice": 1.54,
       "weekAgoPrice": 1.590000033378601,
-      "percentChange": -2.52,
+      "percentChange": -3.14,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.96,
+      "currentPrice": 1.93,
       "weekAgoPrice": 2.009999990463257,
-      "percentChange": -2.49,
+      "percentChange": -3.98,
       "flagged": false,
       "news": []
     },
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.28,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": -5.84,
+      "percentChange": -6.57,
       "flagged": true,
       "news": []
     },
@@ -90,20 +90,20 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.11,
+      "currentPrice": 1.1,
       "weekAgoPrice": 1.1799999475479126,
-      "percentChange": -5.93,
+      "percentChange": -6.78,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.74,
+      "currentPrice": 0.75,
       "weekAgoPrice": 0.7799999713897705,
-      "percentChange": -5.13,
-      "flagged": true,
+      "percentChange": -3.85,
+      "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 4
 }
