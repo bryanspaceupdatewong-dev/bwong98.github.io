@@ -1,23 +1,27 @@
 {
-  "generatedAt": "2026-09-15T16:16:17.236858Z",
+  "generatedAt": "2026-09-15T17:15:44.090327Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 499.985,
+      "currentPrice": 499.85,
       "weekAgoPrice": 493.95001220703125,
-      "percentChange": 1.22,
+      "percentChange": 1.19,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 211.885,
+      "currentPrice": 211.41,
       "weekAgoPrice": 225.72999572753906,
-      "percentChange": -6.13,
+      "percentChange": -6.34,
       "flagged": true,
       "news": [
+        {
+          "title": "Cashing in on the Qubit: NVIDIA Takes the Quantum Leap - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1dqNEExbnFfMlVvNGFaLWVHZ0xyMWVHUUNRTXlmS1hYNFRqX1lBUlM0TlhKY0RZcnA3Z29zaURIMjdwbWYyQURWVHpGTWJYRzdpYWZ4Z2FUaDRlM3EtQklmX3Q0U3BKbERpMVQyZTRoYzFTdnNJaEZBa2xDVERUeWFhZlRjbDVFWXN4T2dfZGtQRzhO?oc=5"
+        },
         {
           "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off - Investor's Business Daily",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHhHek92eVI1cjkwNFdHMFFYODJpZU0yMDJSZlo0V2JVQzI3MlE5cHdmaXo3QVZIUFo1VFNudXJCNXRIdi1UN3JaVTRlQmI5MC14cGdrdkhTSWpSeVQwVDdSRkp4aTEza3MycGZoMXpNMFFURzRBR29oTERUTlluR2lyeDRfQUgzaXlENnRxZnRQRUtHcEFF?oc=5"
@@ -25,10 +29,6 @@
         {
           "title": "Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind Fast - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjctTDlScHNnRGZ6Zmk4cXA3YnE2S3drQnQ4bUhFSzBpUkhkXzdRRTI4UEhDMDNlUlVyeDI3R3dON2wtMFdNTXpTY3FGT0lUd1NGM2ZJQjdXQTFtSnVNUzFfc2ZYQ1dZN3U4X3prWmFsZU1NMkdoYk9famcwY3RlRmdCdl9ic1ZjZ1Y1R2YtbkkwcGphNl9QSXhUcw?oc=5"
-        },
-        {
-          "title": "Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind Fast - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenNETWJZMlpIa2hNSHdvbV8xRnVZdkVEV0hHMmN5TXozcmkzZ0VuN0J2M3RYRUNXbFF2SzF6dVlaWktMMk1tVkx5Vk1hY1hWUnhtLXdvRW1uRDNlNlFDdm9oQkZHZktPVk94SFo4TDZyMHdscVN4Q1Vmek1JNkhkcEVINmJ4S0pjVzdKM3hQRHhDMGltaGhsOW1ZTEJONzhKbjlJN3N1TDVxdw?oc=5"
         }
       ]
     },

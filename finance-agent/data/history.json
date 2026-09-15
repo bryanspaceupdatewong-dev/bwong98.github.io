@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-12T14:17:17.681103Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.54,
-        "weekAgoPrice": 1.6399999856948853,
-        "percentChange": -6.1,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
-          },
-          {
-            "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
-          },
-          {
-            "title": "$GENM (4715.MY)$ - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWm9WWnQtbjQ0NjhZUldwclI2c2tudHg2eEg0YjNRQXVEdVM0ZmQ1S2w4N2V5d3NrMFFsUG5BWUZKcmMwcXg3NjFVc05WeVBmN28xU293RnlSVmlxZ0d3YmRWOHNQQms3UlF0RG10eHFoa1o1MGI1alRUTVg4RlEyVW1YVUI1T0EtVEVxbU94cXlYd1JQdGxzODQ2a2VnSG9yMEJmWWJSUEJ6T3IxNmY2MEp2OTB5ZDRZ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2799999713897705,
-        "percentChange": -10.94,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-12T15:15:41.940824Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2480,6 +2445,65 @@
           {
             "title": "Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind Fast - GuruFocus",
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenNETWJZMlpIa2hNSHdvbV8xRnVZdkVEV0hHMmN5TXozcmkzZ0VuN0J2M3RYRUNXbFF2SzF6dVlaWktMMk1tVkx5Vk1hY1hWUnhtLXdvRW1uRDNlNlFDdm9oQkZHZktPVk94SFo4TDZyMHdscVN4Q1Vmek1JNkhkcEVINmJ4S0pjVzdKM3hQRHhDMGltaGhsOW1ZTEJONzhKbjlJN3N1TDVxdw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.93,
+        "weekAgoPrice": 2.049999952316284,
+        "percentChange": -5.85,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -10.57,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-15T17:15:44.090327Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 211.41,
+        "weekAgoPrice": 225.72999572753906,
+        "percentChange": -6.34,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Cashing in on the Qubit: NVIDIA Takes the Quantum Leap - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1dqNEExbnFfMlVvNGFaLWVHZ0xyMWVHUUNRTXlmS1hYNFRqX1lBUlM0TlhKY0RZcnA3Z29zaURIMjdwbWYyQURWVHpGTWJYRzdpYWZ4Z2FUaDRlM3EtQklmX3Q0U3BKbERpMVQyZTRoYzFTdnNJaEZBa2xDVERUeWFhZlRjbDVFWXN4T2dfZGtQRzhO?oc=5"
+          },
+          {
+            "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHhHek92eVI1cjkwNFdHMFFYODJpZU0yMDJSZlo0V2JVQzI3MlE5cHdmaXo3QVZIUFo1VFNudXJCNXRIdi1UN3JaVTRlQmI5MC14cGdrdkhTSWpSeVQwVDdSRkp4aTEza3MycGZoMXpNMFFURzRBR29oTERUTlluR2lyeDRfQUgzaXlENnRxZnRQRUtHcEFF?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind Fast - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjctTDlScHNnRGZ6Zmk4cXA3YnE2S3drQnQ4bUhFSzBpUkhkXzdRRTI4UEhDMDNlUlVyeDI3R3dON2wtMFdNTXpTY3FGT0lUd1NGM2ZJQjdXQTFtSnVNUzFfc2ZYQ1dZN3U4X3prWmFsZU1NMkdoYk9famcwY3RlRmdCdl9ic1ZjZ1Y1R2YtbkkwcGphNl9QSXhUcw?oc=5"
           }
         ]
       },
