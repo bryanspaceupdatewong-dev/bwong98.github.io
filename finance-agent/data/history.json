@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-12T17:21:59.124105Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.54,
-        "weekAgoPrice": 1.6399999856948853,
-        "percentChange": -6.1,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
-          },
-          {
-            "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
-          },
-          {
-            "title": "$GENM (4715.MY)$ - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWm9WWnQtbjQ0NjhZUldwclI2c2tudHg2eEg0YjNRQXVEdVM0ZmQ1S2w4N2V5d3NrMFFsUG5BWUZKcmMwcXg3NjFVc05WeVBmN28xU293RnlSVmlxZ0d3YmRWOHNQQms3UlF0RG10eHFoa1o1MGI1alRUTVg4RlEyVW1YVUI1T0EtVEVxbU94cXlYd1JQdGxzODQ2a2VnSG9yMEJmWWJSUEJ6T3IxNmY2MEp2OTB5ZDRZ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2799999713897705,
-        "percentChange": -10.94,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-14T00:16:06.757068Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2608,6 +2573,57 @@
         "currentPrice": 1.1,
         "weekAgoPrice": 1.2300000190734863,
         "percentChange": -10.57,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-15T20:16:00.717556Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 212.17,
+        "weekAgoPrice": 225.72999572753906,
+        "percentChange": -6.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Is Nvidia Stock a Buy in September 2026? - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2R2MXZ1dk5RbnJYMWhBUG1LQnNaMks1UXNoN21Cdzl3dWZKMldjVWRJWUt1RVV1OVVzVlZTVnNla3hOUzFHR1YtRkgyV1FqVUJBVnhaWGFRbkxuSmtWLThUV3BqYXpMbWVHTXZ4aDF4R1I1Q1F2Y3Yzd2hNbzVIMUlRU05sR1dsTG5XYTNJdzZXd1VCOUwzNWdPLUIyRGM3MEJ0cmFJY2xNWDFqalRhNU40bWVxWW5obXRHMEZGZUpjQQ?oc=5"
+          },
+          {
+            "title": "Prediction: Nvidia's $108 Billion Q3 Guide Will Look Conservative by December - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVB4V1FpSmgwMlA1cUtOWHZnNzRvSG5kWDRhT3I5aGdzcHhOMmJRcUQyNjNhUUlHb3JFcGZ6c1dsNnVpa0o5X2VTX3NOYTgzeXN0WF9CTWE1VHJablZJUVRxVG1aV250dk1LRUYxQk50eV9wY2ZXV0pVU0RFTkJ1UGctSE1mMkZwaURCWGxxTlFBWVVzRE51OElENUE5cHM?oc=5"
+          },
+          {
+            "title": "NVIDIA vs. Broadcom: Which AI Stock Should You Buy After Earnings? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnN4YTdpT1o3LUdKakhTLVdiUmowbU5GbzZxYlpUSHJ4LVVOWmZBTGpuWnh0ZnVUZ3V4dVEyUFVKUFNoTzk3R2xMV3IxYVgyNDVwb1lRcjhrejd1WHJRZEVkU08ySVdSaWxLcFFDN1U1RVhWVFd2WjVXb29XenBPOUthQ3gxa0hfSFJIem02Zy04ZlJtaTJN?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
         "flagged": true,
         "news": []
       }

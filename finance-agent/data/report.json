@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-15T19:16:18.107771Z",
+  "generatedAt": "2026-09-15T20:16:00.717556Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 497.0,
+      "currentPrice": 497.12,
       "weekAgoPrice": 493.95001220703125,
-      "percentChange": 0.62,
+      "percentChange": 0.64,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 211.96,
+      "currentPrice": 212.17,
       "weekAgoPrice": 225.72999572753906,
-      "percentChange": -6.1,
+      "percentChange": -6.01,
       "flagged": true,
       "news": [
         {
-          "title": "Is Nvidia Stock a Buy in September 2026? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdDR0c3BFdE1Hc21KakR1YnpzN3drM21SLWw0TkVSenRxWndfb1BTMzlHZHdFUUc0WG1FRWlXMlFqMHNPeG5JVEY5ekY3UVk1VjlEajUyZTFpakhMLWludlF5emh5LUxJcGpFTnF6Z3EzRVN3dDhUbTRycG9HLUxYVWlIcVFMSzdHalE?oc=5"
+          "title": "Is Nvidia Stock a Buy in September 2026? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2R2MXZ1dk5RbnJYMWhBUG1LQnNaMks1UXNoN21Cdzl3dWZKMldjVWRJWUt1RVV1OVVzVlZTVnNla3hOUzFHR1YtRkgyV1FqVUJBVnhaWGFRbkxuSmtWLThUV3BqYXpMbWVHTXZ4aDF4R1I1Q1F2Y3Yzd2hNbzVIMUlRU05sR1dsTG5XYTNJdzZXd1VCOUwzNWdPLUIyRGM3MEJ0cmFJY2xNWDFqalRhNU40bWVxWW5obXRHMEZGZUpjQQ?oc=5"
         },
         {
-          "title": "What Does Nvidia's (NVDA) $10 Billion Bet Mean As AI Slows Down? - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdmlDUXZBLVdfSmJCaVhJeldJYVZ3WjVod25SN0o5bUNaSXdUejY5NVVVQVpCNElFRC1MaWdjNktxNndIZzQyNWxpMHk0dVBMRHBYaG5HRVZjRTlkM3pKMTF5bjZqcEUwbm9FbFAzN0FRWmxOQTg1M3pHSEFPMHBDUlU4bWtaaGV1RnM5WmZKYWlvcGljWmhJdDRWc1BDNVJnZ1JPVUtwSUdYOHo4QTV5MmQ2U2JuMW5LN2t3NHdSX1IyRjFEWW9XRDFB0gHPAUFVX3lxTE8tOXZJSGVKQ1FYNlNiS1BOX2NfMHM3LTA5ZUloZ2hsSVdwRmtpRWw0ZktCcnFNd1JqQWF3NkNFMkR4Slc3aElmal9zLWJ1cWFxWGRpUk1iMHJmRDBpbnR0LTZIRTkwQjlYNUFmY3YwRGw2ckU5MHdFcTl6X3NnVkF1VXF5NmJIdlljaE9ZME5JWjJlRzBJbUdvd2QyclpwbDgzX25Bb3Azd055NTJkWHAwUUU5Sm5FV0p0SDkybk13bWE2YmctQl9iWnZsOG1ONA?oc=5"
+          "title": "Prediction: Nvidia's $108 Billion Q3 Guide Will Look Conservative by December - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVB4V1FpSmgwMlA1cUtOWHZnNzRvSG5kWDRhT3I5aGdzcHhOMmJRcUQyNjNhUUlHb3JFcGZ6c1dsNnVpa0o5X2VTX3NOYTgzeXN0WF9CTWE1VHJablZJUVRxVG1aV250dk1LRUYxQk50eV9wY2ZXV0pVU0RFTkJ1UGctSE1mMkZwaURCWGxxTlFBWVVzRE51OElENUE5cHM?oc=5"
         },
         {
-          "title": "Nvidia vs. Micron: Which Is the Better Artificial Intelligence (AI) Semiconductor Stock to Own for the Next 5 Years? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFVlbDZwdVJlUDhMVnk1LTBmRE1lZ0tJenRlZnBGZEphQkJNR21NbWdkSk5GaU1WbDV0NExYZGNCR09Bend5NXBpMmtRRS05andlUWNGMk5XeVczY3lnUTNiRDdhVF9kdzVVWmRIS2xyTjlSVnBhNi1EVUROV1ZtbFVhNjAySFR1dmNhRHBTN1VVejBBNkVfeA?oc=5"
+          "title": "NVIDIA vs. Broadcom: Which AI Stock Should You Buy After Earnings? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnN4YTdpT1o3LUdKakhTLVdiUmowbU5GbzZxYlpUSHJ4LVVOWmZBTGpuWnh0ZnVUZ3V4dVEyUFVKUFNoTzk3R2xMV3IxYVgyNDVwb1lRcjhrejd1WHJRZEVkU08ySVdSaWxLcFFDN1U1RVhWVFd2WjVXb29XenBPOUthQ3gxa0hfSFJIem02Zy04ZlJtaTJN?oc=5"
         }
       ]
     },
@@ -51,24 +51,24 @@
     {
       "ticker": "4715.KL",
       "currentPrice": 1.54,
-      "weekAgoPrice": 1.6200000047683716,
-      "percentChange": -4.94,
+      "weekAgoPrice": 1.590000033378601,
+      "percentChange": -3.14,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.93,
-      "weekAgoPrice": 2.049999952316284,
-      "percentChange": -5.85,
-      "flagged": true,
+      "weekAgoPrice": 2.009999990463257,
+      "percentChange": -3.98,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.37,
-      "weekAgoPrice": 1.340000033378601,
-      "percentChange": 2.24,
+      "weekAgoPrice": 1.3300000429153442,
+      "percentChange": 3.01,
       "flagged": false,
       "news": []
     },
@@ -83,27 +83,27 @@
     {
       "ticker": "0397.KL",
       "currentPrice": 0.205,
-      "weekAgoPrice": 0.20499999821186066,
-      "percentChange": 0.0,
+      "weekAgoPrice": 0.20999999344348907,
+      "percentChange": -2.38,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.1,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -10.57,
+      "weekAgoPrice": 1.1799999475479126,
+      "percentChange": -6.78,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.75,
-      "weekAgoPrice": 0.7699999809265137,
-      "percentChange": -2.6,
+      "weekAgoPrice": 0.7799999713897705,
+      "percentChange": -3.85,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 4
 }
