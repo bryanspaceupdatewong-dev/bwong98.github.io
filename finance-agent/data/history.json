@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-12T11:06:56.838043Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.54,
-        "weekAgoPrice": 1.6399999856948853,
-        "percentChange": -6.1,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
-          },
-          {
-            "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
-          },
-          {
-            "title": "$GENM (4715.MY)$ - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWm9WWnQtbjQ0NjhZUldwclI2c2tudHg2eEg0YjNRQXVEdVM0ZmQ1S2w4N2V5d3NrMFFsUG5BWUZKcmMwcXg3NjFVc05WeVBmN28xU293RnlSVmlxZ0d3YmRWOHNQQms3UlF0RG10eHFoa1o1MGI1alRUTVg4RlEyVW1YVUI1T0EtVEVxbU94cXlYd1JQdGxzODQ2a2VnSG9yMEJmWWJSUEJ6T3IxNmY2MEp2OTB5ZDRZ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2799999713897705,
-        "percentChange": -10.94,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-12T11:16:09.382139Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2400,6 +2365,57 @@
           {
             "title": "What's Going On With NVIDIA Stock Tuesday? - NVIDIA (NASDAQ:NVDA) - Benzinga",
             "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNejJIcXN3aDhpOU5CbVNvalRyblotbGYwSlJQcjV2UEFPRjQySmVMWFV1OEJMZ3F3NDNHREpIWGhWRVlRWlpMQ2NFelQ4WUs0Wjd0OGFaSHdMdlVoVGEtVWNIMHh6R0F3QUU2d29CQ0dFQm1VYkNMNTkxc1J6V0VaUy1kd3ZUZEE2QzFFcVVkVDlYTFFYTFN0MVJWMktTQk90LU83eXROSllaRnBxQWZDT1ZsX1ZUQjdwa3hzeWJuc3lqYXh4UExobUZ3bGlpZWFUcE9COA?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-15T13:16:35.819414Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 210.96,
+        "weekAgoPrice": 230.36000061035156,
+        "percentChange": -8.42,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Should You Buy Micron Stock Instead of Nvidia? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSTBQYU1nUzB3XzJvRGtwZ0Y5cjJZZXFpYWJ0dXZDVWU5cTdaMHVPVzdpWW5ZQ0xRRnBaOXZLQlVHbnRkZ0poMm9DNDM0MG40OEtybURvQ1lUMFNDdlZ6bS15dk1fM213Si14VFpCTjhBTkMzZXVuajVjb0l4MFh3SjlySHBzRXBmR2M2YU9nMi1tQQ?oc=5"
+          },
+          {
+            "title": "$5,000 in Nvidia stock could grow to $12,199 in 5 years amid AI boom and strong growth forecasts. - Pluang",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNTNzVkxTWFdQZktDV2w4bFY1MUwxQ3hkdTVwZGpvRWcyLTRYWUlwRGtEbm9WWWRWbDVtNXdTQzNBbkx2b3Z5NEIxUjVIUUw3dEJmR0JMOVNWcENLMm5ZVGoydXYyNnhFNmF1Q1g2VkFZLXh1ejJkTkdJOUF1Z19hOEh5QVFsNVk4UFlESm12SXVRTmY4X3c?oc=5"
+          },
+          {
+            "title": "What Will $5,000 Invested in Nvidia Stock Be Worth in 5 Years? - AOL.com",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zc3BKNTc2X0JIOV9rNG4tRFhabU16dkwtdVdZNFRkdVJLRUNla2VZMDg4N0dKam1OendwZGtfM3JuOFNIcklEQ2ZzZ2VzUWtqYXBJYi1GYjlZbVRTdmJoMHozbml0eWszelNmZEdOaU9ZYkFDMkFrMEl1cw?oc=5"
           }
         ]
       },
