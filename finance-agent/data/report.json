@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-15T17:15:44.090327Z",
+  "generatedAt": "2026-09-15T18:15:44.592612Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 499.85,
+      "currentPrice": 498.58,
       "weekAgoPrice": 493.95001220703125,
-      "percentChange": 1.19,
+      "percentChange": 0.94,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 211.41,
+      "currentPrice": 211.682,
       "weekAgoPrice": 225.72999572753906,
-      "percentChange": -6.34,
+      "percentChange": -6.22,
       "flagged": true,
       "news": [
         {
-          "title": "Cashing in on the Qubit: NVIDIA Takes the Quantum Leap - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1dqNEExbnFfMlVvNGFaLWVHZ0xyMWVHUUNRTXlmS1hYNFRqX1lBUlM0TlhKY0RZcnA3Z29zaURIMjdwbWYyQURWVHpGTWJYRzdpYWZ4Z2FUaDRlM3EtQklmX3Q0U3BKbERpMVQyZTRoYzFTdnNJaEZBa2xDVERUeWFhZlRjbDVFWXN4T2dfZGtQRzhO?oc=5"
+          "title": "Signal Says 'Buy the Dip' After Nvidia Stock Pullback - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnpHckRPUGFBcEFRanUyeXpUZGtORnc0SjlMZE5JRHFkWHg1Q3U0dFJ4al80cWEzMnZGVW56M2JPMkNYdjhTR0JMQmNRR0thVUd1RXFheGVFcmY5VzdySFNsRVRkeDJnRGVjUkJwemxaTkQwLWhEUkloR3FRMVZuOUVUaWFIbnIzcUpvRG5TLWplU3ZBWkE?oc=5"
         },
         {
-          "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHhHek92eVI1cjkwNFdHMFFYODJpZU0yMDJSZlo0V2JVQzI3MlE5cHdmaXo3QVZIUFo1VFNudXJCNXRIdi1UN3JaVTRlQmI5MC14cGdrdkhTSWpSeVQwVDdSRkp4aTEza3MycGZoMXpNMFFURzRBR29oTERUTlluR2lyeDRfQUgzaXlENnRxZnRQRUtHcEFF?oc=5"
+          "title": "Nvidia vs. Micron: Which Is the Better Artificial Intelligence (AI) Semiconductor Stock to Own for the Next 5 Years? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFVlbDZwdVJlUDhMVnk1LTBmRE1lZ0tJenRlZnBGZEphQkJNR21NbWdkSk5GaU1WbDV0NExYZGNCR09Bend5NXBpMmtRRS05andlUWNGMk5XeVczY3lnUTNiRDdhVF9kdzVVWmRIS2xyTjlSVnBhNi1EVUROV1ZtbFVhNjAySFR1dmNhRHBTN1VVejBBNkVfeA?oc=5"
         },
         {
-          "title": "Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind Fast - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjctTDlScHNnRGZ6Zmk4cXA3YnE2S3drQnQ4bUhFSzBpUkhkXzdRRTI4UEhDMDNlUlVyeDI3R3dON2wtMFdNTXpTY3FGT0lUd1NGM2ZJQjdXQTFtSnVNUzFfc2ZYQ1dZN3U4X3prWmFsZU1NMkdoYk9famcwY3RlRmdCdl9ic1ZjZ1Y1R2YtbkkwcGphNl9QSXhUcw?oc=5"
+          "title": "Nvidia Just Invited a Rival Chipmaker Into Its Own Racks. Here\u2019s Why - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjRYMy02cDZ0SHZXZEdRYm1iTFBkT1FRdHdQVjEzVzhRQmczQWVjcU9ORmtfZ2FZMF9vMlROU1Qtb2NUTUNwVzRRYVFpMmdva3pWWUdZMnVCRHFBVTFkS0pITHlaVnBlTHRPN2lLMkVLWjlBUmFfU0g4M1hYS1JrdWlGRUFSWnlETzZTZFBOVTIwZThYWk1xdUV0bHRZSUphdTRSd01SSzNGamlvYTNv?oc=5"
         }
       ]
     },
