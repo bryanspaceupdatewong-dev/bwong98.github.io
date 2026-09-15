@@ -1,23 +1,27 @@
 {
-  "generatedAt": "2026-09-15T01:16:10.151521Z",
+  "generatedAt": "2026-09-15T02:15:53.624760Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 505.41,
-      "weekAgoPrice": 510.1199951171875,
-      "percentChange": -0.92,
+      "weekAgoPrice": 499.70001220703125,
+      "percentChange": 1.14,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 210.96,
-      "weekAgoPrice": 228.4499969482422,
-      "percentChange": -7.66,
+      "weekAgoPrice": 230.36000061035156,
+      "percentChange": -8.42,
       "flagged": true,
       "news": [
+        {
+          "title": "Weaker technical forecast for NVIDIA as stock downgraded to Sell Candidate - StockInvest.us",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVVUZV9tU3RZQm1nY0F6U1N5RWNyc1EySTdhM3BKUURXM0JZN3JQRzhiRmNpbDA1Z1loTmtQcFZoVzNwbmU1VjZVem9qWk9JcnZ5elpya0lVWFhqNnJjQUotNHg2REVHejBORktfV0JDMVE5aTZHTFZLZUpQNlFkXzJhRFZvbGluWi1RMTlsLVdoUy03bjNyMjlqLWsxc05ndkFPcWZ4OVk0bXluUmdoaDhmY29xLU10UW9v?oc=5"
+        },
         {
           "title": "CoreWeave Delivers Fantastic News for Nvidia Stock Investors - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3g1YU5ESmtDaGZtbDVvTmRkRlI2cHI2eDlaTGlmZGdRMzZJOVlfQlpSNlRoUzdKRTZGMjZMb1NQNjJwNVZJWldKRmpYR3dmTlR4azRPMExFUGJSOUMwb3MxZTBZY09VYmgtYUlZRENyNnBFWXFiRm1QQk1hVExWSlk0dVd4cEZsTzZIUURGNFdWSk5DVHlRbw?oc=5"
@@ -25,50 +29,46 @@
         {
           "title": "NVDA Stock Heads to $200 as Regulatory, Margin and Nvidia Spending Risks Mount - FXLeaders",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUFZVVVtTXdiV1pTYVVsQkt6SjEwbkhGT21DVkxKcGh1NHVIWDNIal91UHNlZGlZNERGZzA1T3NoMlBULXh2VEpfRC1GaGtCTnZITFBrTFVESWR3NWZ3Z3A3R3pkSS1ibHlKeDFuNzhCLUMydTR6QURhVGNaTzNuMFhwNUJsdEI5N0FwS2o5YjVRazdkV3FBa2FWbUVQdWZKbUNjVXd5bW8wWk12T2RySGZ3SEVPZDh1LVZz?oc=5"
-        },
-        {
-          "title": "NVIDIA (NVDA) Stock Drops Amid AI Model Usage Concerns - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFoxZ3JlSVIxcklrYmQ4V2V3NjEyc0Z4bGZmN0xDWlJyOG9xY2c0ZHhkSzItVkRObXlidTIxVloyUUVEdGYwc0hjNUlncW5ONWlNdTJHTVZ0ck43bDJUanJuWnBvMV8xSzFGYzFKOUkwT19sc2lGZE9JUk9iUXVkQUljNnRIUURTVkk2cGxWeVZ5bkhKNHc?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.85,
+      "currentPrice": 4.82,
       "weekAgoPrice": 5.0,
-      "percentChange": -3.0,
+      "percentChange": -3.6,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.83,
+      "currentPrice": 7.77,
       "weekAgoPrice": 8.350000381469727,
-      "percentChange": -6.23,
+      "percentChange": -6.95,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.52,
+      "currentPrice": 1.53,
       "weekAgoPrice": 1.590000033378601,
-      "percentChange": -4.4,
+      "percentChange": -3.77,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.93,
+      "currentPrice": 1.95,
       "weekAgoPrice": 2.009999990463257,
-      "percentChange": -3.98,
+      "percentChange": -2.99,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.37,
-      "weekAgoPrice": 1.340000033378601,
-      "percentChange": 2.24,
+      "weekAgoPrice": 1.3300000429153442,
+      "percentChange": 3.01,
       "flagged": false,
       "news": []
     },
@@ -83,16 +83,16 @@
     {
       "ticker": "0397.KL",
       "currentPrice": 0.205,
-      "weekAgoPrice": 0.20499999821186066,
-      "percentChange": 0.0,
+      "weekAgoPrice": 0.20999999344348907,
+      "percentChange": -2.38,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.14,
+      "currentPrice": 1.13,
       "weekAgoPrice": 1.1799999475479126,
-      "percentChange": -3.39,
+      "percentChange": -4.24,
       "flagged": false,
       "news": []
     },
