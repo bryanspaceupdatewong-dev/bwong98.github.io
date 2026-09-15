@@ -1,43 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-14T01:16:13.112278Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.83,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.23,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.93,
-        "weekAgoPrice": 2.049999952316284,
-        "percentChange": -5.85,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.3,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -5.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": -7.32,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-14T02:15:38.798433Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2658,6 +2620,57 @@
           {
             "title": "Prediction: Nvidia's $108 Billion Q3 Guide Will Look Conservative by December - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVB4V1FpSmgwMlA1cUtOWHZnNzRvSG5kWDRhT3I5aGdzcHhOMmJRcUQyNjNhUUlHb3JFcGZ6c1dsNnVpa0o5X2VTX3NOYTgzeXN0WF9CTWE1VHJablZJUVRxVG1aV250dk1LRUYxQk50eV9wY2ZXV0pVU0RFTkJ1UGctSE1mMkZwaURCWGxxTlFBWVVzRE51OElENUE5cHM?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-15T23:15:38.812725Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 212.17,
+        "weekAgoPrice": 225.72999572753906,
+        "percentChange": -6.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHhHek92eVI1cjkwNFdHMFFYODJpZU0yMDJSZlo0V2JVQzI3MlE5cHdmaXo3QVZIUFo1VFNudXJCNXRIdi1UN3JaVTRlQmI5MC14cGdrdkhTSWpSeVQwVDdSRkp4aTEza3MycGZoMXpNMFFURzRBR29oTERUTlluR2lyeDRfQUgzaXlENnRxZnRQRUtHcEFF?oc=5"
+          },
+          {
+            "title": "Prediction: Nvidia's $108 Billion Q3 Guide Will Look Conservative by December - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVB4V1FpSmgwMlA1cUtOWHZnNzRvSG5kWDRhT3I5aGdzcHhOMmJRcUQyNjNhUUlHb3JFcGZ6c1dsNnVpa0o5X2VTX3NOYTgzeXN0WF9CTWE1VHJablZJUVRxVG1aV250dk1LRUYxQk50eV9wY2ZXV0pVU0RFTkJ1UGctSE1mMkZwaURCWGxxTlFBWVVzRE51OElENUE5cHM?oc=5"
+          },
+          {
+            "title": "NVIDIA vs. Broadcom: Which AI Stock Should You Buy After Earnings? - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnZkMkRyWDQ0RkZkcEg3d1BwWWd3NzhhUjhONTFxek9oOTY2TFZVVkFMNEtnUFIzUXppaUgxR3pvRTNjWGdzN3MxQUZ1dGVuOFF0RVhVWjlRanl5MlJ2b3oyeFMyTDM1WGNPcmdpMGRIbzFva2Zud2pBVWF1TVhJd2xydjhCV3VQcTB2bTJrS1c4SmZ4dGdHMDVreTBQWjRBWDdrT0s5Q2FlTnVBOU1uVkZ0ZldIWGdWRGlv?oc=5"
           }
         ]
       },
