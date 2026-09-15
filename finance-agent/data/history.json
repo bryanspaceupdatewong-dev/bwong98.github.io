@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-12T08:15:57.251577Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.54,
-        "weekAgoPrice": 1.6399999856948853,
-        "percentChange": -6.1,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Top Stock Market Highlights of the Week: Genting Malaysia, Gold Prices and SGX-IDX Partnership - sg.finance.yahoo.com",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHNSTmJCa0gxejNOdFJlTGhwMXZnUG9zNHlfNUVuSHBXbVNLVmUxR2JaNGFJUUd0WTRVbVJnUUhSQmowRm9TQ1I3dXdjNlQ4Sl8yTWw0WlA2WWVRQVE3cURldVk3X0hLNlh1RGppa0lFUjlFZ01WdWR3TDEyNTh5OWpKb2NxcGdf?oc=5"
-          },
-          {
-            "title": "Genting to privatise Genting Malaysia in RM2.35-per-share buyout - sg.finance.yahoo.com",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVZHSDFQYS0wUER2eXphMkVOMkdNMW9zd0NISXZZdHFHZ0dhcGRrcWFlM2kycl9rdkw3OFo4Q2F6eXQ0QWFtaXNMTzFiOUU2eXNwR2tjaGNUQWh1WVBrSDZnV0ozUnhvY0ZobDN1eHVfOHdjY29mTHQxTGp2VG5JSTlBbDc4ajl3OHoxT2hZckI?oc=5"
-          },
-          {
-            "title": "$GENM (4715.MY)$ - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWm9WWnQtbjQ0NjhZUldwclI2c2tudHg2eEg0YjNRQXVEdVM0ZmQ1S2w4N2V5d3NrMFFsUG5BWUZKcmMwcXg3NjFVc05WeVBmN28xU293RnlSVmlxZ0d3YmRWOHNQQms3UlF0RG10eHFoa1o1MGI1alRUTVg4RlEyVW1YVUI1T0EtVEVxbU94cXlYd1JQdGxzODQ2a2VnSG9yMEJmWWJSUEJ6T3IxNmY2MEp2OTB5ZDRZ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2799999713897705,
-        "percentChange": -10.94,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-12T09:16:04.712003Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2352,6 +2317,57 @@
           {
             "title": "This Unassuming Stock is Trouncing Nvidia in 2026. Here\u2019s Why It\u2019s a No-Brainer Buy. - AOL.com",
             "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlRxYjZ5aWl6SDlXX3FpTm1qaGloTnNFYW9mRTVYUlJvYmF1YkczZ29aeXkwemlMM1lVNTJDallDSU91ZElyODVVSDREUERyZHR4aGozWDllSzBvUlpsaE9Rcms2OVpBTGJ2aDJHeV9iQUZmMUkybTg2LXUyeGNFTEdzeXUycmlFYWc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-15T10:16:05.348382Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 210.96,
+        "weekAgoPrice": 230.36000061035156,
+        "percentChange": -8.42,
+        "flagged": true,
+        "news": [
+          {
+            "title": "What's Going On With NVIDIA Stock Tuesday? - NVIDIA (NASDAQ:NVDA) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNejJIcXN3aDhpOU5CbVNvalRyblotbGYwSlJQcjV2UEFPRjQySmVMWFV1OEJMZ3F3NDNHREpIWGhWRVlRWlpMQ2NFelQ4WUs0Wjd0OGFaSHdMdlVoVGEtVWNIMHh6R0F3QUU2d29CQ0dFQm1VYkNMNTkxc1J6V0VaUy1kd3ZUZEE2QzFFcVVkVDlYTFFYTFN0MVJWMktTQk90LU83eXROSllaRnBxQWZDT1ZsX1ZUQjdwa3hzeWJuc3lqYXh4UExobUZ3bGlpZWFUcE9COA?oc=5"
+          },
+          {
+            "title": "This Unassuming Stock is Trouncing Nvidia in 2026. Here\u2019s Why It\u2019s a No-Brainer Buy. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1ZkU3kwUmpJd05DZThuTnYzLW5hTHFYak1nQWgwYXBGUFQ2NU9Lb0R4RF8zeVlsNV93VDMwM3ZaYjM2elp6X2p0bmE1VVAyZVJVWGo0WUtYajdIUzIzVjB6eHJ5cVNRaTM3bmJsNm5aQWxPS0VNaW41c0o5R3ppQ3ZzRkpVUzZJYmRvaWpMc1hXY1lxbC0yYkhsTjFnQ2dVcHRiR0NOY3paVWVzT05yaDk2WmZ6Y2xtWXRicUhHdmUtTDA?oc=5"
+          },
+          {
+            "title": "This Unassuming Stock is Trouncing Nvidia in 2026. Here\u2019s Why It\u2019s a No-Brainer Buy. - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWmcwQnBNZ0YtQkR1RW1ZTm9RSHNubldSVVZocUp0MVRnQXNRNk01anA1NnJDajJfTEV5ekh4VUJXOHlwZXg2ZWFRc2ZkX0tXekx5cmJqcXduek50MjAwRUowaVlqVmNVQ05zeGVpejNTellPN3ltSDZsMmFxamZRVzRwX0hyNi12OGNjSm42a0g4ZEVKR0NuSmJLNkdCYTlHeXQxdlFn?oc=5"
           }
         ]
       },
