@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-09-15T14:24:42.734864Z",
+  "generatedAt": "2026-09-15T15:16:09.695608Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 498.535,
+      "currentPrice": 500.87,
       "weekAgoPrice": 493.95001220703125,
-      "percentChange": 0.93,
+      "percentChange": 1.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 212.56,
+      "currentPrice": 212.26,
       "weekAgoPrice": 225.72999572753906,
-      "percentChange": -5.83,
+      "percentChange": -5.97,
       "flagged": true,
       "news": [
         {
-          "title": "Investor doubles down on Nvidia stock despite 8% drop amid AI slowdown fears. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1R2ZUt0Umdabm5OTnRrMnhxMjVpSDZLV0YwQmtveTlOc1Z3ZXRvWmFPMjhRZHRTZkZueG9qTTVGTEV5c0tfSldzNHNwaUYwNTlSQkx3VS1xc0RaYnpuYWdhdkhTeWtyMm5RWVhteUtEa3N1MUtLQlRrNWNzNHhJQjh0ZVk2ZEk?oc=5"
+          "title": "Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind F - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenNETWJZMlpIa2hNSHdvbV8xRnVZdkVEV0hHMmN5TXozcmkzZ0VuN0J2M3RYRUNXbFF2SzF6dVlaWktMMk1tVkx5Vk1hY1hWUnhtLXdvRW1uRDNlNlFDdm9oQkZHZktPVk94SFo4TDZyMHdscVN4Q1Vmek1JNkhkcEVINmJ4S0pjVzdKM3hQRHhDMGltaGhsOW1ZTEJONzhKbjlJN3N1TDVxdw?oc=5"
         },
         {
-          "title": "Why I\u2019m Doubling Down on Nvidia Stock Hand Over Fist - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWEQyX0xpYnRpdzBBNjJ3X1d5LVJMM3RFRW8zdTBxbVdCQzFpMkVuRW4xS2FYaS1ac3BxSFFzdlQ3WVNTMWItZ3dONkxrZTFHZTU4a1FTeGJFZUNZV2xhMGZzMnBvQkxGU1h4UDRUZE52OUFITzBNWjRCN1FHSFQyckt4a3EtMm9WZnkzSWNVNTF0d3lZRzVKeDM1NA?oc=5"
+          "title": "Investor doubles down on Nvidia stock despite 8% drop amid AI slowdown fears. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1R2ZUt0Umdabm5OTnRrMnhxMjVpSDZLV0YwQmtveTlOc1Z3ZXRvWmFPMjhRZHRTZkZueG9qTTVGTEV5c0tfSldzNHNwaUYwNTlSQkx3VS1xc0RaYnpuYWdhdkhTeWtyMm5RWVhteUtEa3N1MUtLQlRrNWNzNHhJQjh0ZVk2ZEk?oc=5"
         },
         {
           "title": "Should You Buy Micron Stock Instead of Nvidia? - The Motley Fool",
