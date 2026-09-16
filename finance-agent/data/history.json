@@ -1,51 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-14T13:17:58.884215Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.83,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.23,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.52,
-        "weekAgoPrice": 1.6200000047683716,
-        "percentChange": -6.17,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.92,
-        "weekAgoPrice": 2.049999952316284,
-        "percentChange": -6.34,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.29,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -5.84,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.13,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": -8.13,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-14T14:16:11.893095Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2731,6 +2685,57 @@
           {
             "title": "Essex LLC Sells 7,198 Shares of NVIDIA Corporation $NVDA - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnNoVmpKNEVIUlhNQlNsWWtFdWR1VGYyTUFqb0VucmpSUTFQd2ZmRVNKb3A2V3lMVkJZS0pRNkcyNXh4aDhvVVE4dHA4a1hTYjdPM3NqWmNoeDhKa2RCaEk3bldmajFsOVRLRUlVMkdyUU5aUFJNTEtoNkYwb3d3TkVqekh4YVdqTFFkY01kV1QyRGRjYmgzX1J4WUExQUFEUFg3SGxDVVFUeHd1R2twSzgzZlQxdw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-16T10:12:30.016733Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 212.17,
+        "weekAgoPrice": 225.72999572753906,
+        "percentChange": -6.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA CEO Says AI Spending Flywheel Is \u2018Really, Really Flying\u2019 - benzinga.com",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2l4Y3Q4VS1veXk3Sk1QTTU5WFI2anlpdE1Wc0hOLVdSYUp6elptYzVMTnRXS3lOY3VoZDc0LXpvZmxTMU9HS3RnTzlMWVVJQVpiYjhQQ3NnOVg3dVY4eElYSnJyU2RfNXdwdktseFd1UERBRDI3anVMTnpDbjZpcnowYTlhRFZoY1hmcWtQOFE4RGJoWFJBNHhqRGpVNGdGUjQtOGd0NnZaSkd6eW95UUxjTQ?oc=5"
+          },
+          {
+            "title": "Why Jensen Huang Doesn't Appear Sold on Cybersecurity Stocks - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGhRc18tRUZManR3c2ZfM3pWTWVkQUxpVHZVZnFMT1U4dlhxaFNvN09ocW1LTDdyTXRIejZFS2hsdUszYzNwTFJXaURjOGZNR3dkSEE5RjZqMEVMWVVOTmVCSDNaRkpBZE1Jd2FyZTluMTRnRWNva0JicDRrSkF0anJ0Wi1VMV92Q2FYYnVYSG1CbEN6S3J4aDBqWWdYRTNFUnpVaTR3?oc=5"
+          },
+          {
+            "title": "NVDA Stock Rises Premarket: Vera Rubin AI Accelerator Delivers 2X Profit Per GW Than Blackwell, Semianalysis Says - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ293di1DU0Q0OXBJcmdSRmR3Y2lzVU5JcDY0cmdFY3RFcTB2b051a25aWS1ZM3dyTHJVWjB1TnY5VEJ6ZVkySzRzeVFtekdxY1RkTUotb2pFQnltMUhvaVlac1VESGtpODhQTEhycElYaGhYb0U1ODhaOXU5SEd0azBxTm5LLUNrSENMNlpuM1FPQXBkZG53cDRyZE8?oc=5"
           }
         ]
       },
