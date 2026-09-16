@@ -1,51 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-14T03:16:29.595754Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.77,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.95,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.52,
-        "weekAgoPrice": 1.6200000047683716,
-        "percentChange": -6.17,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.91,
-        "weekAgoPrice": 2.049999952316284,
-        "percentChange": -6.83,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.3,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -5.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": -8.94,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-14T04:16:15.340758Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2656,6 +2610,57 @@
   },
   {
     "generatedAt": "2026-09-16T00:01:00.227161Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 212.17,
+        "weekAgoPrice": 230.36000061035156,
+        "percentChange": -7.9,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia's AI Inference Market Potential is Huge - Intellectia AI",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1hLamo5OF90WTFMWU9oSlZnZ0dUbzNQcndCUGV1dThIV0JGblFmQ3JhTUpBNVIwYW5EUHNUd1NKTlhKZUpoNmxjSVR2OWU2MFQwV0pnRmk3MTdzVU5Wdlp6RG42Z2ROSTVhZFFaSmM1M3BwVy00SU5iSE9Qa1ktUlRYVTc4QQ?oc=5"
+          },
+          {
+            "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHhHek92eVI1cjkwNFdHMFFYODJpZU0yMDJSZlo0V2JVQzI3MlE5cHdmaXo3QVZIUFo1VFNudXJCNXRIdi1UN3JaVTRlQmI5MC14cGdrdkhTSWpSeVQwVDdSRkp4aTEza3MycGZoMXpNMFFURzRBR29oTERUTlluR2lyeDRfQUgzaXlENnRxZnRQRUtHcEFF?oc=5"
+          },
+          {
+            "title": "Prediction: Nvidia's $108 Billion Q3 Guide Will Look Conservative by December - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVB4V1FpSmgwMlA1cUtOWHZnNzRvSG5kWDRhT3I5aGdzcHhOMmJRcUQyNjNhUUlHb3JFcGZ6c1dsNnVpa0o5X2VTX3NOYTgzeXN0WF9CTWE1VHJablZJUVRxVG1aV250dk1LRUYxQk50eV9wY2ZXV0pVU0RFTkJ1UGctSE1mMkZwaURCWGxxTlFBWVVzRE51OElENUE5cHM?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-16T00:16:29.058731Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
