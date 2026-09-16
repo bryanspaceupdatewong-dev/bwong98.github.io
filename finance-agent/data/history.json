@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-14T17:15:32.428651Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 212.113,
-        "weekAgoPrice": 230.36000061035156,
-        "percentChange": -7.92,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVDA Stock Heads to $200 as Regulatory, Margin and Spending Risks Mount - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObnU3NDRpdHNrTU5GZ2hBYTljU0ozS1hXamdtRzZTd2huMzN4elBJY2g3dlpfZ1FWVFMwQzczN1JVcDNrekhrbVhHcFJIWTRnSWVfUFNfMDNtTERVV0FjVm96WlVZcUkxVmFnYjc5b3dPU1dsRlIzUy03Qm5iWHp6SVFDdmZhWlEzN3Y2ZGhQNUFPczBvaWI1TFhzRFM5bkl2WS10aGlkZ2FNRG5GYno3RG5B?oc=5"
-          },
-          {
-            "title": "Wall St falls as AI anxiety batters Nvidia, chipmakers - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5"
-          },
-          {
-            "title": "Crude Oil Jumps 3%; Corning Shares Move Lower - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnhRUzBhN2k3ZWZCVmh6NjZEZk8xNVJNbmhuVW4xMzQ3ZF9aLUdvWjZqOGVQUFhhWGkzSHl6SGZ1ZWtnMXE3cDVQUHVjN2RJaGpXU0dzVWwtSi1KZTRuSUM5VmNwWjF5TjFTUnkyRE90Uk5EZmR6VFF4VGFOczhOTi0tMFBxb0hRVU9UcHVYdC1Nb0NrZFg3WEUwZF9JbU5xeEJ1bkhDV0hxdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.83,
-        "weekAgoPrice": 8.289999961853027,
-        "percentChange": -5.55,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.52,
-        "weekAgoPrice": 1.6399999856948853,
-        "percentChange": -7.32,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.92,
-        "weekAgoPrice": 2.0399999618530273,
-        "percentChange": -5.88,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.13,
-        "weekAgoPrice": 1.2799999713897705,
-        "percentChange": -11.72,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-14T18:15:56.953410Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2696,6 +2637,57 @@
           {
             "title": "NVIDIA CEO Says AI Spending Flywheel Is \u2018Really, Really Flying\u2019 - Benzinga",
             "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2l4Y3Q4VS1veXk3Sk1QTTU5WFI2anlpdE1Wc0hOLVdSYUp6elptYzVMTnRXS3lOY3VoZDc0LXpvZmxTMU9HS3RnTzlMWVVJQVpiYjhQQ3NnOVg3dVY4eElYSnJyU2RfNXdwdktseFd1UERBRDI3anVMTnpDbjZpcnowYTlhRFZoY1hmcWtQOFE4RGJoWFJBNHhqRGpVNGdGUjQtOGd0NnZaSkd6eW95UUxjTQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-16T13:15:54.499050Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 212.17,
+        "weekAgoPrice": 225.72999572753906,
+        "percentChange": -6.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "The AI Stock That Could Beat NVIDIA by 2027 - 247wallst.com",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDhRYjg1eVp4MTdDM2N4REtMTUhSNU9tVVF3cV9rNDNaTnhEUHREcTdTSWtldTJEazNtVkNzWW5aRTJkTUQtSXFMeWxXbEN2OWsxZzBxZUhQMXVSQXM3MDZxMXZrVGh6Q3cwa01MRk1oTDZ2NHVPWldSNW5iTFdaZXM4SUw3MENoV2tqQVE2ZlE?oc=5"
+          },
+          {
+            "title": "Nvidia CEO Jensen Huang Slams Proposed AI Antitrust Exemptions and Slowdown Plans - tikr.com",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fQ0dFYzlJaVFlNW9keWl4c1dlM1BCa3JlT1Z3TTlwdDNjQTE4YllMeDk1NFp6Sl9OUEgxX0lzcHhmc1VlODBqWjBSSEdQVkN5TzlTXy04dFdYQjJNVF91dTVkakdEeWFZeDZabTdmRDNkTzFIYTZGb054eVNrZw?oc=5"
+          },
+          {
+            "title": "Is It Too Late to Buy Nvidia Stock? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUlhGdVFRUlByQmQ2b1NQaURNLU9LUTNKZ0ZFVzgzSWFfMzdiVlBiMzJuS2NONEdoM01pUHVkQUVlMi1iTko3ZFJEQlRWbEp0NDJFV2FzVjlXM1o2X2J6aEV2T3pES3ZxWllqUmM1QkxHQmdvX2JOMVBNMkM3TzNSWTliUQ?oc=5"
           }
         ]
       },
