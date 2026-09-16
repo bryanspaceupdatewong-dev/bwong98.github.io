@@ -1,72 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-14T21:15:56.478607Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 210.96,
-        "weekAgoPrice": 230.36000061035156,
-        "percentChange": -8.42,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock Could Get a Boost From CoreWeave's Latest Announcement - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjJFbDJjYUg3dHNRcTVGOGVnS05ESEV5MDBpZDB1YU1PU1NNcDRaOWlkNjBRMXBIbFV1T1N6WlY1ZUxLaU4tUGlFWjg4U1NPUDVfOUFuLW9LNHlXQzVGckRTdG9HRUxpOERFRUtodlRoTUUyMkpfa2ZzenVvbmN4LWNCSGQ2MU1nVWxtQllkb0ttWGd6SlpCNQ?oc=5"
-          },
-          {
-            "title": "Nvidia Stock (NVDA) Falls Despite a Quantum Computing Update - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNEV3RFVlb1hGNUVsdGctYTFobFU4OWgwalFCSV9iclRacDRDYkNpR2UyQ1EzZmx2Qmd0MnBIbndUdW5OSlRWQnpPNlpSbXJZeEFfWGxMenI3NWZTZFF1TnFaNTRyeTNIR244ZFNmek5ySkhwQ0FZa1VfcnIxb3ByV3V2SzJTQm5oNk4wNUN5U3FWdw?oc=5"
-          },
-          {
-            "title": "Nvidia's AI Growth Outlook Faces New Threats as Stock Drops - FinanceBuzz",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NNVYwRHZEOFM3STZ1SWxuNzdvNWNpcEFxX0Z3X3FxeGdtc3FOSjNUeS1BSDFDVHJ1MmR4dGJRdkNIVi1OaTU3UTBEMk1FYm1SRUNhZGVxSW9Sd2Q4UHJDNTkzT3VJSFNUc01mLUotY0o5U28?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.83,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.23,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.52,
-        "weekAgoPrice": 1.6200000047683716,
-        "percentChange": -6.17,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.92,
-        "weekAgoPrice": 2.049999952316284,
-        "percentChange": -6.34,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.29,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -5.84,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.13,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": -8.13,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-14T22:15:49.631569Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2586,6 +2519,36 @@
   },
   {
     "generatedAt": "2026-09-16T15:15:39.554055Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-16T16:16:11.181251Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
