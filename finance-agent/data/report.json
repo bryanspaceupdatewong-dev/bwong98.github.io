@@ -1,36 +1,23 @@
 {
-  "generatedAt": "2026-09-16T13:15:54.499050Z",
+  "generatedAt": "2026-09-16T14:16:12.541665Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 497.12,
-      "weekAgoPrice": 493.95001220703125,
-      "percentChange": 0.64,
+      "currentPrice": 492.605,
+      "weekAgoPrice": 491.6499938964844,
+      "percentChange": 0.19,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 212.17,
-      "weekAgoPrice": 225.72999572753906,
-      "percentChange": -6.01,
-      "flagged": true,
-      "news": [
-        {
-          "title": "The AI Stock That Could Beat NVIDIA by 2027 - 247wallst.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDhRYjg1eVp4MTdDM2N4REtMTUhSNU9tVVF3cV9rNDNaTnhEUHREcTdTSWtldTJEazNtVkNzWW5aRTJkTUQtSXFMeWxXbEN2OWsxZzBxZUhQMXVSQXM3MDZxMXZrVGh6Q3cwa01MRk1oTDZ2NHVPWldSNW5iTFdaZXM4SUw3MENoV2tqQVE2ZlE?oc=5"
-        },
-        {
-          "title": "Nvidia CEO Jensen Huang Slams Proposed AI Antitrust Exemptions and Slowdown Plans - tikr.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fQ0dFYzlJaVFlNW9keWl4c1dlM1BCa3JlT1Z3TTlwdDNjQTE4YllMeDk1NFp6Sl9OUEgxX0lzcHhmc1VlODBqWjBSSEdQVkN5TzlTXy04dFdYQjJNVF91dTVkakdEeWFZeDZabTdmRDNkTzFIYTZGb054eVNrZw?oc=5"
-        },
-        {
-          "title": "Is It Too Late to Buy Nvidia Stock? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUlhGdVFRUlByQmQ2b1NQaURNLU9LUTNKZ0ZFVzgzSWFfMzdiVlBiMzJuS2NONEdoM01pUHVkQUVlMi1iTko3ZFJEQlRWbEp0NDJFV2FzVjlXM1o2X2J6aEV2T3pES3ZxWllqUmM1QkxHQmdvX2JOMVBNMkM3TzNSWTliUQ?oc=5"
-        }
-      ]
+      "currentPrice": 214.96,
+      "weekAgoPrice": 223.6699981689453,
+      "percentChange": -3.89,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "1295.KL",
@@ -105,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 3
 }
