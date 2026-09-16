@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T03:15:49.020323Z",
+  "generatedAt": "2026-09-16T04:16:30.144096Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,12 +19,12 @@
       "flagged": true,
       "news": [
         {
-          "title": "Green day on Tuesday for NVIDIA - StockInvest.us",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmRGQUdwenU5dnU0SkplaUE0SS14RlY2RVRkcGxodWUzVVJWSVB5NTNTX1NXYXlPa1BPRTdES3p5SjJWRzB1cXhfdndpd0RyVzROMW9zcUlnUjRMczM3aXRIZjZnNUI3QTZ4YWNHYzNwRzJYZzJfdFNjQjBPekcwNnF3?oc=5"
-        },
-        {
           "title": "Nvidia Just Reshuffled Its $99 Billion Portfolio, and 1 Stock Moved Up the Ranks - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHZNMmtJdVNndy0xS1JqdUs4azl3d2pSNVI0Y1JldnRJMTNtd2tQSDZvc1I5MEp1RWpCNTNxS2t1UlBIYzhPOW9Xd1VQVkEteG9xUWdWS2UyRlk4X0lKUmZ1T25fMUFqTU9lMmtIOUg0YWNwSXRIVEV4OVJBTGlybG9GRm00dmt5a0tyMVJLS2dGSy00Z1pCSQ?oc=5"
+        },
+        {
+          "title": "Green day on Tuesday for NVIDIA - StockInvest.us",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmRGQUdwenU5dnU0SkplaUE0SS14RlY2RVRkcGxodWUzVVJWSVB5NTNTX1NXYXlPa1BPRTdES3p5SjJWRzB1cXhfdndpd0RyVzROMW9zcUlnUjRMczM3aXRIZjZnNUI3QTZ4YWNHYzNwRzJYZzJfdFNjQjBPekcwNnF3?oc=5"
         },
         {
           "title": "Nvidia Just Reshuffled Its $99 Billion Portfolio, and 1 Stock Moved Up the Ranks - The Globe and Mail",
