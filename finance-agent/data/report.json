@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T10:12:30.016733Z",
+  "generatedAt": "2026-09-16T10:16:17.156395Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,7 +19,7 @@
       "flagged": true,
       "news": [
         {
-          "title": "NVIDIA CEO Says AI Spending Flywheel Is \u2018Really, Really Flying\u2019 - benzinga.com",
+          "title": "NVIDIA CEO Says AI Spending Flywheel Is \u2018Really, Really Flying\u2019 - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2l4Y3Q4VS1veXk3Sk1QTTU5WFI2anlpdE1Wc0hOLVdSYUp6elptYzVMTnRXS3lOY3VoZDc0LXpvZmxTMU9HS3RnTzlMWVVJQVpiYjhQQ3NnOVg3dVY4eElYSnJyU2RfNXdwdktseFd1UERBRDI3anVMTnpDbjZpcnowYTlhRFZoY1hmcWtQOFE4RGJoWFJBNHhqRGpVNGdGUjQtOGd0NnZaSkd6eW95UUxjTQ?oc=5"
         },
         {
