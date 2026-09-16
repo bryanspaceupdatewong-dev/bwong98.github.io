@@ -1,72 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-14T22:15:49.631569Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 210.96,
-        "weekAgoPrice": 230.36000061035156,
-        "percentChange": -8.42,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA (NASDAQ:NVDA) Stock Price Down 3.4% - Here's Why - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMXV0NHdkTmtWSFd0ZDVZQ0xOUlJmX29NVDloT1BSMm9US0ZaNjFYRFBITEdxSTBxeEctMkU3M1BxUmVPdEsxVzNkY2Z4Rnc5U0s0TmNqR3BEcWh5RGVpMVhITlZhbVRHWEhNMlUzOS1Pc0Q2eklRaE1zZ1k0d1pzaGltb1BIdVBRb0YxTHRWdzBwX09INTU3WEtwdmRoa2U5T3BMUXp2Wm1YMy1Z?oc=5"
-          },
-          {
-            "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here\u2019s what to know. - MarketWatch",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXhhNU85c0VqbERFOS02Y1Zqb2RnbDQ0QXhSejZMMGdkMUV0LTVoSi1PQkpMQnNfdm5ESHRUcUV4bWtxb21SSXFQbnYyS1VSdmV3UVh5aWNFZ29KM0l1bW9qeldkZm9CemhJYmtVOTZkS0g5cHNSV01iRFA4ZTlXTFE2cEFXeFZnTlJTRHpHSV9CYlMwSmlqM1VsV29vUDByTzIxZkQzYmEycGJGY0lzSURQMnpsSXc2Vmpud09WUWgxS19mQ3ZfMkN3?oc=5"
-          },
-          {
-            "title": "5 Top AI Stocks to Buy on the Dip as Slowdown Fears Hit Markets - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmJWdmszMDZlWjFZWW95MVF4S2FvRXZoRHoxNVpOWFVIcTBVRndRTmIyZFVIMlktTmFrVEJ0TV9lRmRuempXejNwTHdrcFRUdXZmbW80cGNvaVRzeVJxQV80aFRYelVlV0dLdjlQNm84SGFEZENMcXFDNFRvZnplQlgwaDNicEt3VjJz?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.83,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.23,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.52,
-        "weekAgoPrice": 1.6200000047683716,
-        "percentChange": -6.17,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.92,
-        "weekAgoPrice": 2.049999952316284,
-        "percentChange": -6.34,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.29,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -5.84,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.13,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": -8.13,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-14T23:15:52.306511Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2549,6 +2482,36 @@
   },
   {
     "generatedAt": "2026-09-16T16:16:11.181251Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-16T17:15:46.506596Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
