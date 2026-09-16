@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-14T16:15:55.628986Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 212.19,
-        "weekAgoPrice": 230.36000061035156,
-        "percentChange": -7.89,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Crude Oil Jumps 3%; Corning Shares Move Lower - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnhRUzBhN2k3ZWZCVmh6NjZEZk8xNVJNbmhuVW4xMzQ3ZF9aLUdvWjZqOGVQUFhhWGkzSHl6SGZ1ZWtnMXE3cDVQUHVjN2RJaGpXU0dzVWwtSi1KZTRuSUM5VmNwWjF5TjFTUnkyRE90Uk5EZmR6VFF4VGFOczhOTi0tMFBxb0hRVU9UcHVYdC1Nb0NrZFg3WEUwZF9JbU5xeEJ1bkhDV0hxdw?oc=5"
-          },
-          {
-            "title": "Why Is Nvidia (NASDAQ:NVDA) Stock Falling Today? NVDA Drops Nearly 4% as AI Slowdown Fears Hit Chip Stocks - Stocks Down Under",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40Q0czcDN3NmdwdW9xeXpVcUNIeXJ2cE12dVJxTldqRVpaN3JicndQY0lZN1ptWERiYVlPNkdPNkJfM1ZFQmhZcjZOS3RSZUU5bEVzTDlVTXlXWTRQcHJralVVZFg2UVJXRkRFLV9xaUlLeXc?oc=5"
-          },
-          {
-            "title": "Here\u2019s how long it\u2019s taken Nvidia stock to turn \u00a310,000 into a stunning \u00a3100,000 - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFFvSzlFd1Z6TGM5cTI4TWRvRHpLMHhvTVN4TEtEeVRRd0hON2RYdmY5ZGJSODBUOFRQYlBvNFV2VGtXSHNyNGNZMkR2d2ZhbDhldHhGbzZrclJLdm5mak5CMkhUNnlhVC1KTHMtQ0F6MzFDZmY0Nl9kWDNTTlFyMGFYaw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.83,
-        "weekAgoPrice": 8.289999961853027,
-        "percentChange": -5.55,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.52,
-        "weekAgoPrice": 1.6399999856948853,
-        "percentChange": -7.32,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.92,
-        "weekAgoPrice": 2.0399999618530273,
-        "percentChange": -5.88,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.13,
-        "weekAgoPrice": 1.2799999713897705,
-        "percentChange": -11.72,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-14T17:15:32.428651Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2704,6 +2645,57 @@
           {
             "title": "Nvidia Stock: CEO Huang Is Trump\u2019s AI Whisperer. Meta's Zuckerberg Talks Safety. - Barron's",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FbHAwcnlPcmtPbVZMLTVLTWZXaFk0bnlUcG4zR1Y4U0Y1QUdnV3BtcUJCWVdPekdYZ2dFV2xvTEdwc3RCUzZPMGRRdDJmci16ZUJzQjlsN1QweDBlLXQ3OHRsVGlFRjFWNWV1RWtmYWpjeTZKU2gxaEFadUk0c28?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-16T12:17:39.664908Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 212.17,
+        "weekAgoPrice": 225.72999572753906,
+        "percentChange": -6.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Is It Too Late to Buy Nvidia Stock? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUlhGdVFRUlByQmQ2b1NQaURNLU9LUTNKZ0ZFVzgzSWFfMzdiVlBiMzJuS2NONEdoM01pUHVkQUVlMi1iTko3ZFJEQlRWbEp0NDJFV2FzVjlXM1o2X2J6aEV2T3pES3ZxWllqUmM1QkxHQmdvX2JOMVBNMkM3TzNSWTliUQ?oc=5"
+          },
+          {
+            "title": "Is It Too Late to Buy Nvidia Stock? - Currently.com",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84S1N6eDJ1aGRzdk1iT01saGtjZjJqZWt4MXJjVDRpRlNZY2ozTXhNbXpOaE5Xek5Qdy1BYlRvV040Nm5DTjQ3d3poQ2VLX0tBWGhJRXZLbFhHcXRJVHJ4RGNVMXI3emdaOXVxeUppeGhJcFdDWFFydER4bw?oc=5"
+          },
+          {
+            "title": "NVIDIA CEO Says AI Spending Flywheel Is \u2018Really, Really Flying\u2019 - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2l4Y3Q4VS1veXk3Sk1QTTU5WFI2anlpdE1Wc0hOLVdSYUp6elptYzVMTnRXS3lOY3VoZDc0LXpvZmxTMU9HS3RnTzlMWVVJQVpiYjhQQ3NnOVg3dVY4eElYSnJyU2RfNXdwdktseFd1UERBRDI3anVMTnpDbjZpcnowYTlhRFZoY1hmcWtQOFE4RGJoWFJBNHhqRGpVNGdGUjQtOGd0NnZaSkd6eW95UUxjTQ?oc=5"
           }
         ]
       },
