@@ -1,72 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-14T19:16:14.310364Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 212.159,
-        "weekAgoPrice": 230.36000061035156,
-        "percentChange": -7.9,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock Drops. It\u2019s Still the Best Chip Bet in an AI Slowdown. - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd28zaEgxYzJOZi1kWWhWa0Y5RG5za0VEUDN5dEVXTjVPdzhnTlhLX3BIaUdTNUEtN20zRWhkandEbDlZaTNiX0VrUkQ2aFQ3Z3BvbmlDeTI5enc2RUJqaTkzV3FZZWxZUmxqMXBNZ25MNnRLMDhPYmV1aTd0WWc3MERLWQ?oc=5"
-          },
-          {
-            "title": "These S&P500 stocks are the most active in today's session - ChartMill",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDRhek53dy0tSVkzYW9FcmRyQ1BfeHR3UGd5Qmp5WWxUc1AtX0MtbGxnS29fZ2JjWmZPNGExR3NoMVZLcTk3OFJLLUFkNHk2aEN0WnRhMVRJd3hMOUJaQ3Vqd3QxWnEtYkxtS1B4MUk4b0xpM0kzYU5XeGNIZXh2eDM4a1JsbThZUndSekRjTS1QdVZFaV9rQkZBVjlPR2FkSlJhb2J3NG9LLXlp?oc=5"
-          },
-          {
-            "title": "Elon Musk sends strong signal for SpaceX, Nvidia stocks - thestreet.com",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sd1ZSNXV3bEZ1dk9lcDMtVnlHVFBYWlMtSmhrNmxTRXhicnhwbHhIeVQ1Vmxua05YaDNSdmpmb1hRbTV3azZleGpLbGp5bm1qUHVhSFB6RVpieEVyek1GUGlMMVFkLXhpN2ZjNW1ncG01THdFbDdLYkZQc2NmNDg?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.83,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.23,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.52,
-        "weekAgoPrice": 1.6200000047683716,
-        "percentChange": -6.17,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.92,
-        "weekAgoPrice": 2.049999952316284,
-        "percentChange": -6.34,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.29,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -5.84,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.13,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": -8.13,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-14T20:16:27.233400Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2660,6 +2593,36 @@
   },
   {
     "generatedAt": "2026-09-16T14:16:12.541665Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-16T15:07:26.939781Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
