@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-15T02:15:53.624760Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 210.96,
-        "weekAgoPrice": 230.36000061035156,
-        "percentChange": -8.42,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Weaker technical forecast for NVIDIA as stock downgraded to Sell Candidate - StockInvest.us",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVVUZV9tU3RZQm1nY0F6U1N5RWNyc1EySTdhM3BKUURXM0JZN3JQRzhiRmNpbDA1Z1loTmtQcFZoVzNwbmU1VjZVem9qWk9JcnZ5elpya0lVWFhqNnJjQUotNHg2REVHejBORktfV0JDMVE5aTZHTFZLZUpQNlFkXzJhRFZvbGluWi1RMTlsLVdoUy03bjNyMjlqLWsxc05ndkFPcWZ4OVk0bXluUmdoaDhmY29xLU10UW9v?oc=5"
-          },
-          {
-            "title": "CoreWeave Delivers Fantastic News for Nvidia Stock Investors - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3g1YU5ESmtDaGZtbDVvTmRkRlI2cHI2eDlaTGlmZGdRMzZJOVlfQlpSNlRoUzdKRTZGMjZMb1NQNjJwNVZJWldKRmpYR3dmTlR4azRPMExFUGJSOUMwb3MxZTBZY09VYmgtYUlZRENyNnBFWXFiRm1QQk1hVExWSlk0dVd4cEZsTzZIUURGNFdWSk5DVHlRbw?oc=5"
-          },
-          {
-            "title": "NVDA Stock Heads to $200 as Regulatory, Margin and Nvidia Spending Risks Mount - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUFZVVVtTXdiV1pTYVVsQkt6SjEwbkhGT21DVkxKcGh1NHVIWDNIal91UHNlZGlZNERGZzA1T3NoMlBULXh2VEpfRC1GaGtCTnZITFBrTFVESWR3NWZ3Z3A3R3pkSS1ibHlKeDFuNzhCLUMydTR6QURhVGNaTzNuMFhwNUJsdEI5N0FwS2o5YjVRazdkV3FBa2FWbUVQdWZKbUNjVXd5bW8wWk12T2RySGZ3SEVPZDh1LVZz?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.77,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.95,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.29,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -5.84,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-15T03:16:26.242531Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2425,6 +2382,36 @@
   },
   {
     "generatedAt": "2026-09-16T19:16:00.754177Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-16T20:16:14.652560Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
