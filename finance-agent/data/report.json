@@ -1,23 +1,27 @@
 {
-  "generatedAt": "2026-09-15T23:15:38.812725Z",
+  "generatedAt": "2026-09-16T00:01:00.227161Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 497.12,
-      "weekAgoPrice": 493.95001220703125,
-      "percentChange": 0.64,
+      "weekAgoPrice": 499.70001220703125,
+      "percentChange": -0.52,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 212.17,
-      "weekAgoPrice": 225.72999572753906,
-      "percentChange": -6.01,
+      "weekAgoPrice": 230.36000061035156,
+      "percentChange": -7.9,
       "flagged": true,
       "news": [
+        {
+          "title": "Nvidia's AI Inference Market Potential is Huge - Intellectia AI",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1hLamo5OF90WTFMWU9oSlZnZ0dUbzNQcndCUGV1dThIV0JGblFmQ3JhTUpBNVIwYW5EUHNUd1NKTlhKZUpoNmxjSVR2OWU2MFQwV0pnRmk3MTdzVU5Wdlp6RG42Z2ROSTVhZFFaSmM1M3BwVy00SU5iSE9Qa1ktUlRYVTc4QQ?oc=5"
+        },
         {
           "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off - Investor's Business Daily",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHhHek92eVI1cjkwNFdHMFFYODJpZU0yMDJSZlo0V2JVQzI3MlE5cHdmaXo3QVZIUFo1VFNudXJCNXRIdi1UN3JaVTRlQmI5MC14cGdrdkhTSWpSeVQwVDdSRkp4aTEza3MycGZoMXpNMFFURzRBR29oTERUTlluR2lyeDRfQUgzaXlENnRxZnRQRUtHcEFF?oc=5"
@@ -25,10 +29,6 @@
         {
           "title": "Prediction: Nvidia's $108 Billion Q3 Guide Will Look Conservative by December - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVB4V1FpSmgwMlA1cUtOWHZnNzRvSG5kWDRhT3I5aGdzcHhOMmJRcUQyNjNhUUlHb3JFcGZ6c1dsNnVpa0o5X2VTX3NOYTgzeXN0WF9CTWE1VHJablZJUVRxVG1aV250dk1LRUYxQk50eV9wY2ZXV0pVU0RFTkJ1UGctSE1mMkZwaURCWGxxTlFBWVVzRE51OElENUE5cHM?oc=5"
-        },
-        {
-          "title": "NVIDIA vs. Broadcom: Which AI Stock Should You Buy After Earnings? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnZkMkRyWDQ0RkZkcEg3d1BwWWd3NzhhUjhONTFxek9oOTY2TFZVVkFMNEtnUFIzUXppaUgxR3pvRTNjWGdzN3MxQUZ1dGVuOFF0RVhVWjlRanl5MlJ2b3oyeFMyTDM1WGNPcmdpMGRIbzFva2Zud2pBVWF1TVhJd2xydjhCV3VQcTB2bTJrS1c4SmZ4dGdHMDVreTBQWjRBWDdrT0s5Q2FlTnVBOU1uVkZ0ZldIWGdWRGlv?oc=5"
         }
       ]
     },
