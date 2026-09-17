@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-15T15:16:09.695608Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 212.26,
-        "weekAgoPrice": 225.72999572753906,
-        "percentChange": -5.97,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind F - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenNETWJZMlpIa2hNSHdvbV8xRnVZdkVEV0hHMmN5TXozcmkzZ0VuN0J2M3RYRUNXbFF2SzF6dVlaWktMMk1tVkx5Vk1hY1hWUnhtLXdvRW1uRDNlNlFDdm9oQkZHZktPVk94SFo4TDZyMHdscVN4Q1Vmek1JNkhkcEVINmJ4S0pjVzdKM3hQRHhDMGltaGhsOW1ZTEJONzhKbjlJN3N1TDVxdw?oc=5"
-          },
-          {
-            "title": "Investor doubles down on Nvidia stock despite 8% drop amid AI slowdown fears. - Pluang",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1R2ZUt0Umdabm5OTnRrMnhxMjVpSDZLV0YwQmtveTlOc1Z3ZXRvWmFPMjhRZHRTZkZueG9qTTVGTEV5c0tfSldzNHNwaUYwNTlSQkx3VS1xc0RaYnpuYWdhdkhTeWtyMm5RWVhteUtEa3N1MUtLQlRrNWNzNHhJQjh0ZVk2ZEk?oc=5"
-          },
-          {
-            "title": "Should You Buy Micron Stock Instead of Nvidia? - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSTBQYU1nUzB3XzJvRGtwZ0Y5cjJZZXFpYWJ0dXZDVWU5cTdaMHVPVzdpWW5ZQ0xRRnBaOXZLQlVHbnRkZ0poMm9DNDM0MG40OEtybURvQ1lUMFNDdlZ6bS15dk1fM213Si14VFpCTjhBTkMzZXVuajVjb0l4MFh3SjlySHBzRXBmR2M2YU9nMi1tQQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.77,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.95,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -6.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -6.78,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-15T16:16:17.236858Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2075,6 +2024,28 @@
   },
   {
     "generatedAt": "2026-09-17T09:15:32.114979Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -8.94,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.735,
+        "weekAgoPrice": 0.7900000214576721,
+        "percentChange": -6.96,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-17T10:16:17.620522Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
