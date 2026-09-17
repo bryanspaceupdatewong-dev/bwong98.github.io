@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-16T23:15:45.105544Z",
+  "generatedAt": "2026-09-17T00:15:49.599554Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 490.3,
-      "weekAgoPrice": 491.6499938964844,
-      "percentChange": -0.27,
+      "weekAgoPrice": 493.95001220703125,
+      "percentChange": -0.74,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 213.9,
-      "weekAgoPrice": 223.6699981689453,
-      "percentChange": -4.37,
-      "flagged": false,
-      "news": []
+      "weekAgoPrice": 225.72999572753906,
+      "percentChange": -5.24,
+      "flagged": true,
+      "news": [
+        {
+          "title": "SpaceX vs. Nvidia: 1 Stock Has More Upside After Elon Musk\u2019s Orbital AI Bet - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORS1peXFRdThCU0tOLUZ5bGJ4emxkZWVFcjZibnJiNF8zV1M2MzJDTWJlWWE0SWF6b0xmaDZkOE9WdFY1MEVieTlvUnN2blU0cEpTYTltVDFjdTg4RXk5Nmw5MlZEMzBWc0tCSFI4czlNcnVRcS1BNVdtdWQtQ0ZKamwtTXp5bzh1MVdnblhvbkpqSTZ5eVpkNzAzaHZZWW0wUlVtS0ZoWFA5TnV2OUUtZUdkTmppZ1k?oc=5"
+        },
+        {
+          "title": "Forget Nvidia's Chips: Hugging Face Is the Real Reason to Own This Stock Now - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEZGcURzUk41X1VsRGswT3NmZFdycExZOG1ZSjQxTmZSZTZlS0ZoeUtKck15dUI1MGxzZjNaMzFrRzJ4UklOdFV1SlVSTnduclNvWXZwZFI0RDJwMUxoQkczM2hFWlJ6ckt0RE8tZjhMOHZ4MVJFd0N2SHo4bmRMVUVNakxjV2F3Q3NVT1V1a2hmdGw1bWtF?oc=5"
+        },
+        {
+          "title": "Jim Cramer drops 5-word verdict on Nvidia stock - thestreet.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wRFFTeE5sT2pVdlh2b2t2YmdWTXN2el9ZZnpjUjhuLTBscEg4TGhXZlFka2RyblhTSW5sT3BXdWthcmpmY0JIN3paMWRzSVJ3dVlFb2hVR251eFFDOVFRTFptc3NhajdfS2k0VkxJMGlWSGhoM2hiaVMzaG1Pclk?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
@@ -92,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 4
 }

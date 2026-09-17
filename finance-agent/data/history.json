@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-15T07:15:51.161270Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 210.96,
-        "weekAgoPrice": 230.36000061035156,
-        "percentChange": -8.42,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Trump Calls NVDA CEO Jensen Huang Mid-Conference To Talk AI Regulation, Says Report \u2014 \u2018The Robots Are Not Going To Be Taking Over\u2019 - Stocktwits",
-            "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWVV2ZkVSYmw2Q3pmdjFIOEU5OUFibHRGRk1laVdsc2I4YXpwd2xkUEgxZWN4Ql9vTGkzaEtNdE1LY1YyQU93Z1RhZTZpTjkwVVZXa3FnY25wX205UGxVdEprWGhJTW4zWTNad0NMWHB5ZnlhZDNjOW5nOW02dDZvemJ1TmE1dU9mU05PM1oyZTJUMVE4ZGVDR2ZWazEzczlFWUZrX08xdTdVMWRHLWtHVHhtREdsemlrWVNKazktLWNhWGlGNlZaa2E0LTlRVWo0NkN3Y281WTFzQlJKNDY4cC15clJ2ak12WHlLNGs5bXB0WElHYVJlX29SUVMxWnc2UnlJRVNYeVM1V2xyV0NlYWxpdTdCUWRW?oc=5"
-          },
-          {
-            "title": "AI Stock Sell-Off: Nvidia (NVDA) and AMD Under Pressure Amid Mar - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTE5bkdMRVFuX09CSktId2tQcG9iU3hkQUs5Q0hHX2NVUUtEM25uX0RCOHNPSVA0SlBYWE9pdWZ2V0NJUUh4SGRUcmQwbTNUYVZYQXJNak50ZlRoam5BbEc4Y2w3a3c5RU80ZU1OQklRQVpNVzVDdGFQY0c2aEVqeGRPamFkaTUwd3JnZm1Ga2ZsYzg0RVVMVDhKbmFBRno0SDNmTTRCVkhIc25ieFZn?oc=5"
-          },
-          {
-            "title": "Weaker technical forecast for NVIDIA as stock downgraded to Sell Candidate - StockInvest.us",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVVUZV9tU3RZQm1nY0F6U1N5RWNyc1EySTdhM3BKUURXM0JZN3JQRzhiRmNpbDA1Z1loTmtQcFZoVzNwbmU1VjZVem9qWk9JcnZ5elpya0lVWFhqNnJjQUotNHg2REVHejBORktfV0JDMVE5aTZHTFZLZUpQNlFkXzJhRFZvbGluWi1RMTlsLVdoUy03bjNyMjlqLWsxc05ndkFPcWZ4OVk0bXluUmdoaDhmY29xLU10UW9v?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.75,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -7.19,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -6.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.11,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -5.93,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.74,
-        "weekAgoPrice": 0.7799999713897705,
-        "percentChange": -5.13,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-15T08:15:43.064473Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2306,6 +2247,57 @@
     "generatedAt": "2026-09-16T23:15:45.105544Z",
     "thresholdPercent": 5.0,
     "flagged": [
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.77,
+        "weekAgoPrice": 8.350000381469727,
+        "percentChange": -6.95,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.3700000047683716,
+        "percentChange": -6.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-17T00:15:49.599554Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 213.9,
+        "weekAgoPrice": 225.72999572753906,
+        "percentChange": -5.24,
+        "flagged": true,
+        "news": [
+          {
+            "title": "SpaceX vs. Nvidia: 1 Stock Has More Upside After Elon Musk\u2019s Orbital AI Bet - Barchart.com",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORS1peXFRdThCU0tOLUZ5bGJ4emxkZWVFcjZibnJiNF8zV1M2MzJDTWJlWWE0SWF6b0xmaDZkOE9WdFY1MEVieTlvUnN2blU0cEpTYTltVDFjdTg4RXk5Nmw5MlZEMzBWc0tCSFI4czlNcnVRcS1BNVdtdWQtQ0ZKamwtTXp5bzh1MVdnblhvbkpqSTZ5eVpkNzAzaHZZWW0wUlVtS0ZoWFA5TnV2OUUtZUdkTmppZ1k?oc=5"
+          },
+          {
+            "title": "Forget Nvidia's Chips: Hugging Face Is the Real Reason to Own This Stock Now - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEZGcURzUk41X1VsRGswT3NmZFdycExZOG1ZSjQxTmZSZTZlS0ZoeUtKck15dUI1MGxzZjNaMzFrRzJ4UklOdFV1SlVSTnduclNvWXZwZFI0RDJwMUxoQkczM2hFWlJ6ckt0RE8tZjhMOHZ4MVJFd0N2SHo4bmRMVUVNakxjV2F3Q3NVT1V1a2hmdGw1bWtF?oc=5"
+          },
+          {
+            "title": "Jim Cramer drops 5-word verdict on Nvidia stock - thestreet.com",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wRFFTeE5sT2pVdlh2b2t2YmdWTXN2el9ZZnpjUjhuLTBscEg4TGhXZlFka2RyblhTSW5sT3BXdWthcmpmY0JIN3paMWRzSVJ3dVlFb2hVR251eFFDOVFRTFptc3NhajdfS2k0VkxJMGlWSGhoM2hiaVMzaG1Pclk?oc=5"
+          }
+        ]
+      },
       {
         "ticker": "1066.KL",
         "currentPrice": 7.77,
