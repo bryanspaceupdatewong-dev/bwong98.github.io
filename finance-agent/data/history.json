@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-15T20:16:00.717556Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 212.17,
-        "weekAgoPrice": 225.72999572753906,
-        "percentChange": -6.01,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Is Nvidia Stock a Buy in September 2026? - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2R2MXZ1dk5RbnJYMWhBUG1LQnNaMks1UXNoN21Cdzl3dWZKMldjVWRJWUt1RVV1OVVzVlZTVnNla3hOUzFHR1YtRkgyV1FqVUJBVnhaWGFRbkxuSmtWLThUV3BqYXpMbWVHTXZ4aDF4R1I1Q1F2Y3Yzd2hNbzVIMUlRU05sR1dsTG5XYTNJdzZXd1VCOUwzNWdPLUIyRGM3MEJ0cmFJY2xNWDFqalRhNU40bWVxWW5obXRHMEZGZUpjQQ?oc=5"
-          },
-          {
-            "title": "Prediction: Nvidia's $108 Billion Q3 Guide Will Look Conservative by December - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVB4V1FpSmgwMlA1cUtOWHZnNzRvSG5kWDRhT3I5aGdzcHhOMmJRcUQyNjNhUUlHb3JFcGZ6c1dsNnVpa0o5X2VTX3NOYTgzeXN0WF9CTWE1VHJablZJUVRxVG1aV250dk1LRUYxQk50eV9wY2ZXV0pVU0RFTkJ1UGctSE1mMkZwaURCWGxxTlFBWVVzRE51OElENUE5cHM?oc=5"
-          },
-          {
-            "title": "NVIDIA vs. Broadcom: Which AI Stock Should You Buy After Earnings? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnN4YTdpT1o3LUdKakhTLVdiUmowbU5GbzZxYlpUSHJ4LVVOWmZBTGpuWnh0ZnVUZ3V4dVEyUFVKUFNoTzk3R2xMV3IxYVgyNDVwb1lRcjhrejd1WHJRZEVkU08ySVdSaWxLcFFDN1U1RVhWVFd2WjVXb29XenBPOUthQ3gxa0hfSFJIem02Zy04ZlJtaTJN?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.77,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.95,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -6.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -6.78,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-15T21:16:33.757976Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1861,6 +1810,28 @@
   },
   {
     "generatedAt": "2026-09-17T14:15:43.231460Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -8.94,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.735,
+        "weekAgoPrice": 0.7900000214576721,
+        "percentChange": -6.96,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-17T15:16:08.645513Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
