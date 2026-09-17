@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-15T18:15:44.592612Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 211.682,
-        "weekAgoPrice": 225.72999572753906,
-        "percentChange": -6.22,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Signal Says 'Buy the Dip' After Nvidia Stock Pullback - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnpHckRPUGFBcEFRanUyeXpUZGtORnc0SjlMZE5JRHFkWHg1Q3U0dFJ4al80cWEzMnZGVW56M2JPMkNYdjhTR0JMQmNRR0thVUd1RXFheGVFcmY5VzdySFNsRVRkeDJnRGVjUkJwemxaTkQwLWhEUkloR3FRMVZuOUVUaWFIbnIzcUpvRG5TLWplU3ZBWkE?oc=5"
-          },
-          {
-            "title": "Nvidia vs. Micron: Which Is the Better Artificial Intelligence (AI) Semiconductor Stock to Own for the Next 5 Years? - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFVlbDZwdVJlUDhMVnk1LTBmRE1lZ0tJenRlZnBGZEphQkJNR21NbWdkSk5GaU1WbDV0NExYZGNCR09Bend5NXBpMmtRRS05andlUWNGMk5XeVczY3lnUTNiRDdhVF9kdzVVWmRIS2xyTjlSVnBhNi1EVUROV1ZtbFVhNjAySFR1dmNhRHBTN1VVejBBNkVfeA?oc=5"
-          },
-          {
-            "title": "Nvidia Just Invited a Rival Chipmaker Into Its Own Racks. Here\u2019s Why - 24/7 Wall St.",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjRYMy02cDZ0SHZXZEdRYm1iTFBkT1FRdHdQVjEzVzhRQmczQWVjcU9ORmtfZ2FZMF9vMlROU1Qtb2NUTUNwVzRRYVFpMmdva3pWWUdZMnVCRHFBVTFkS0pITHlaVnBlTHRPN2lLMkVLWjlBUmFfU0g4M1hYS1JrdWlGRUFSWnlETzZTZFBOVTIwZThYWk1xdUV0bHRZSUphdTRSd01SSzNGamlvYTNv?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.77,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.95,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.93,
-        "weekAgoPrice": 2.049999952316284,
-        "percentChange": -5.85,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -6.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": -10.57,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-15T18:23:23.693793Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1972,6 +1913,28 @@
   },
   {
     "generatedAt": "2026-09-17T11:16:28.263139Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -8.94,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.735,
+        "weekAgoPrice": 0.7900000214576721,
+        "percentChange": -6.96,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-17T12:16:17.466003Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
