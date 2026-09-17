@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-16T02:15:54.821723Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 212.17,
-        "weekAgoPrice": 230.36000061035156,
-        "percentChange": -7.9,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Green day on Tuesday for NVIDIA - StockInvest.us",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmRGQUdwenU5dnU0SkplaUE0SS14RlY2RVRkcGxodWUzVVJWSVB5NTNTX1NXYXlPa1BPRTdES3p5SjJWRzB1cXhfdndpd0RyVzROMW9zcUlnUjRMczM3aXRIZjZnNUI3QTZ4YWNHYzNwRzJYZzJfdFNjQjBPekcwNnF3?oc=5"
-          },
-          {
-            "title": "Nvidia Just Reshuffled Its $99 Billion Portfolio, and 1 Stock Moved Up the Ranks - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHZNMmtJdVNndy0xS1JqdUs4azl3d2pSNVI0Y1JldnRJMTNtd2tQSDZvc1I5MEp1RWpCNTNxS2t1UlBIYzhPOW9Xd1VQVkEteG9xUWdWS2UyRlk4X0lKUmZ1T25fMUFqTU9lMmtIOUg0YWNwSXRIVEV4OVJBTGlybG9GRm00dmt5a0tyMVJLS2dGSy00Z1pCSQ?oc=5"
-          },
-          {
-            "title": "Nvidia Just Reshuffled Its $99 Billion Portfolio, and 1 Stock Moved Up the Ranks - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQd1A0czZ0cXQxeXl0Ul94emdFR3VpVFBrTkRwdVpPRExTSFBPaFdKVVJ0N3BQYm12ZXltbUNpOG8zcWN2c3dxanNFWVltT3NNVXBzYlhJSjFUTi1FQ29YeG9iU3B4eGhQNWxBc3pGZkJjR3dxUC1rb2tWN1RyTXZSc2tCSi1kRGJ3MjV6MVdwdzdBdWhqek9Sb28tWEF4bnl2YXN3aG96Yk1aUGVjZGh4dXZwVjhBVHBiZXRSd1d0QUh0d1dBU2QtUTRMVVJOekh1cF8yN2loUjVENlJfU1Y5QU9hOG9WV3BFNEJKbTN4Q201WjFqcUE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.77,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.95,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -6.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -6.78,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-16T03:15:49.020323Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1786,6 +1735,28 @@
   },
   {
     "generatedAt": "2026-09-17T21:16:16.924811Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -8.94,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.735,
+        "weekAgoPrice": 0.7900000214576721,
+        "percentChange": -6.96,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-17T22:16:12.697796Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
