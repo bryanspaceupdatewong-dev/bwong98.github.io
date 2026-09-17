@@ -1,83 +1,70 @@
 {
-  "generatedAt": "2026-09-17T00:15:49.599554Z",
+  "generatedAt": "2026-09-17T01:15:40.030609Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 490.3,
-      "weekAgoPrice": 493.95001220703125,
-      "percentChange": -0.74,
+      "weekAgoPrice": 491.6499938964844,
+      "percentChange": -0.27,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 213.9,
-      "weekAgoPrice": 225.72999572753906,
-      "percentChange": -5.24,
-      "flagged": true,
-      "news": [
-        {
-          "title": "SpaceX vs. Nvidia: 1 Stock Has More Upside After Elon Musk\u2019s Orbital AI Bet - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORS1peXFRdThCU0tOLUZ5bGJ4emxkZWVFcjZibnJiNF8zV1M2MzJDTWJlWWE0SWF6b0xmaDZkOE9WdFY1MEVieTlvUnN2blU0cEpTYTltVDFjdTg4RXk5Nmw5MlZEMzBWc0tCSFI4czlNcnVRcS1BNVdtdWQtQ0ZKamwtTXp5bzh1MVdnblhvbkpqSTZ5eVpkNzAzaHZZWW0wUlVtS0ZoWFA5TnV2OUUtZUdkTmppZ1k?oc=5"
-        },
-        {
-          "title": "Forget Nvidia's Chips: Hugging Face Is the Real Reason to Own This Stock Now - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEZGcURzUk41X1VsRGswT3NmZFdycExZOG1ZSjQxTmZSZTZlS0ZoeUtKck15dUI1MGxzZjNaMzFrRzJ4UklOdFV1SlVSTnduclNvWXZwZFI0RDJwMUxoQkczM2hFWlJ6ckt0RE8tZjhMOHZ4MVJFd0N2SHo4bmRMVUVNakxjV2F3Q3NVT1V1a2hmdGw1bWtF?oc=5"
-        },
-        {
-          "title": "Jim Cramer drops 5-word verdict on Nvidia stock - thestreet.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wRFFTeE5sT2pVdlh2b2t2YmdWTXN2el9ZZnpjUjhuLTBscEg4TGhXZlFka2RyblhTSW5sT3BXdWthcmpmY0JIN3paMWRzSVJ3dVlFb2hVR251eFFDOVFRTFptc3NhajdfS2k0VkxJMGlWSGhoM2hiaVMzaG1Pclk?oc=5"
-        }
-      ]
+      "weekAgoPrice": 223.6699981689453,
+      "percentChange": -4.37,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.8,
+      "currentPrice": 4.81,
       "weekAgoPrice": 5.0,
-      "percentChange": -4.0,
+      "percentChange": -3.8,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.77,
-      "weekAgoPrice": 8.350000381469727,
-      "percentChange": -6.95,
+      "currentPrice": 7.76,
+      "weekAgoPrice": 8.220000267028809,
+      "percentChange": -5.6,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.54,
-      "weekAgoPrice": 1.590000033378601,
-      "percentChange": -3.14,
+      "currentPrice": 1.52,
+      "weekAgoPrice": 1.5299999713897705,
+      "percentChange": -0.65,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.93,
-      "weekAgoPrice": 2.009999990463257,
-      "percentChange": -3.98,
+      "currentPrice": 1.92,
+      "weekAgoPrice": 1.9299999475479126,
+      "percentChange": -0.52,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.37,
-      "weekAgoPrice": 1.3300000429153442,
-      "percentChange": 3.01,
+      "weekAgoPrice": 1.340000033378601,
+      "percentChange": 2.24,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.28,
-      "weekAgoPrice": 1.3700000047683716,
-      "percentChange": -6.57,
-      "flagged": true,
+      "currentPrice": 1.29,
+      "weekAgoPrice": 1.340000033378601,
+      "percentChange": -3.73,
+      "flagged": false,
       "news": []
     },
     {
@@ -90,9 +77,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.1,
-      "weekAgoPrice": 1.1799999475479126,
-      "percentChange": -6.78,
+      "currentPrice": 1.11,
+      "weekAgoPrice": 1.2300000190734863,
+      "percentChange": -9.76,
       "flagged": true,
       "news": []
     },
@@ -105,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 2
 }
