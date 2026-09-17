@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-15T17:15:44.090327Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 211.41,
-        "weekAgoPrice": 225.72999572753906,
-        "percentChange": -6.34,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Cashing in on the Qubit: NVIDIA Takes the Quantum Leap - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1dqNEExbnFfMlVvNGFaLWVHZ0xyMWVHUUNRTXlmS1hYNFRqX1lBUlM0TlhKY0RZcnA3Z29zaURIMjdwbWYyQURWVHpGTWJYRzdpYWZ4Z2FUaDRlM3EtQklmX3Q0U3BKbERpMVQyZTRoYzFTdnNJaEZBa2xDVERUeWFhZlRjbDVFWXN4T2dfZGtQRzhO?oc=5"
-          },
-          {
-            "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHhHek92eVI1cjkwNFdHMFFYODJpZU0yMDJSZlo0V2JVQzI3MlE5cHdmaXo3QVZIUFo1VFNudXJCNXRIdi1UN3JaVTRlQmI5MC14cGdrdkhTSWpSeVQwVDdSRkp4aTEza3MycGZoMXpNMFFURzRBR29oTERUTlluR2lyeDRfQUgzaXlENnRxZnRQRUtHcEFF?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Gains as Fund Manager Warns AI Trade Could Unwind Fast - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjctTDlScHNnRGZ6Zmk4cXA3YnE2S3drQnQ4bUhFSzBpUkhkXzdRRTI4UEhDMDNlUlVyeDI3R3dON2wtMFdNTXpTY3FGT0lUd1NGM2ZJQjdXQTFtSnVNUzFfc2ZYQ1dZN3U4X3prWmFsZU1NMkdoYk9famcwY3RlRmdCdl9ic1ZjZ1Y1R2YtbkkwcGphNl9QSXhUcw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.77,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.95,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.93,
-        "weekAgoPrice": 2.049999952316284,
-        "percentChange": -5.85,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -6.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": -10.57,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-15T18:15:44.592612Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2009,6 +1950,28 @@
   },
   {
     "generatedAt": "2026-09-17T11:10:45.475607Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -8.94,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.735,
+        "weekAgoPrice": 0.7900000214576721,
+        "percentChange": -6.96,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-17T11:16:28.263139Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
