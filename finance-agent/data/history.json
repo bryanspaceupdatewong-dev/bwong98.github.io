@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-16T13:15:54.499050Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 212.17,
-        "weekAgoPrice": 225.72999572753906,
-        "percentChange": -6.01,
-        "flagged": true,
-        "news": [
-          {
-            "title": "The AI Stock That Could Beat NVIDIA by 2027 - 247wallst.com",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDhRYjg1eVp4MTdDM2N4REtMTUhSNU9tVVF3cV9rNDNaTnhEUHREcTdTSWtldTJEazNtVkNzWW5aRTJkTUQtSXFMeWxXbEN2OWsxZzBxZUhQMXVSQXM3MDZxMXZrVGh6Q3cwa01MRk1oTDZ2NHVPWldSNW5iTFdaZXM4SUw3MENoV2tqQVE2ZlE?oc=5"
-          },
-          {
-            "title": "Nvidia CEO Jensen Huang Slams Proposed AI Antitrust Exemptions and Slowdown Plans - tikr.com",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fQ0dFYzlJaVFlNW9keWl4c1dlM1BCa3JlT1Z3TTlwdDNjQTE4YllMeDk1NFp6Sl9OUEgxX0lzcHhmc1VlODBqWjBSSEdQVkN5TzlTXy04dFdYQjJNVF91dTVkakdEeWFZeDZabTdmRDNkTzFIYTZGb054eVNrZw?oc=5"
-          },
-          {
-            "title": "Is It Too Late to Buy Nvidia Stock? - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUlhGdVFRUlByQmQ2b1NQaURNLU9LUTNKZ0ZFVzgzSWFfMzdiVlBiMzJuS2NONEdoM01pUHVkQUVlMi1iTko3ZFJEQlRWbEp0NDJFV2FzVjlXM1o2X2J6aEV2T3pES3ZxWllqUmM1QkxHQmdvX2JOMVBNMkM3TzNSWTliUQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.77,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.95,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -6.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -6.78,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-16T14:16:12.541665Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1400,6 +1349,20 @@
         "currentPrice": 0.725,
         "weekAgoPrice": 0.7850000262260437,
         "percentChange": -7.64,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-18T09:16:11.495945Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.72,
+        "weekAgoPrice": 0.7850000262260437,
+        "percentChange": -8.28,
         "flagged": true,
         "news": []
       }
