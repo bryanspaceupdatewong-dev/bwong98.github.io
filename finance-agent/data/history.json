@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-16T05:15:50.429974Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 212.17,
-        "weekAgoPrice": 225.72999572753906,
-        "percentChange": -6.01,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Just Reshuffled Its $99 Billion Portfolio, and 1 Stock Moved Up the Ranks - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHZNMmtJdVNndy0xS1JqdUs4azl3d2pSNVI0Y1JldnRJMTNtd2tQSDZvc1I5MEp1RWpCNTNxS2t1UlBIYzhPOW9Xd1VQVkEteG9xUWdWS2UyRlk4X0lKUmZ1T25fMUFqTU9lMmtIOUg0YWNwSXRIVEV4OVJBTGlybG9GRm00dmt5a0tyMVJLS2dGSy00Z1pCSQ?oc=5"
-          },
-          {
-            "title": "Green day on Tuesday for NVIDIA - StockInvest.us",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmRGQUdwenU5dnU0SkplaUE0SS14RlY2RVRkcGxodWUzVVJWSVB5NTNTX1NXYXlPa1BPRTdES3p5SjJWRzB1cXhfdndpd0RyVzROMW9zcUlnUjRMczM3aXRIZjZnNUI3QTZ4YWNHYzNwRzJYZzJfdFNjQjBPekcwNnF3?oc=5"
-          },
-          {
-            "title": "Nvidia's AI Inference Market Potential is Huge - Intellectia AI",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1hLamo5OF90WTFMWU9oSlZnZ0dUbzNQcndCUGV1dThIV0JGblFmQ3JhTUpBNVIwYW5EUHNUd1NKTlhKZUpoNmxjSVR2OWU2MFQwV0pnRmk3MTdzVU5Wdlp6RG42Z2ROSTVhZFFaSmM1M3BwVy00SU5iSE9Qa1ktUlRYVTc4QQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.77,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.95,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -6.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -6.78,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-16T06:16:27.672994Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1680,6 +1629,20 @@
         "flagged": true,
         "news": []
       },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.735,
+        "weekAgoPrice": 0.7900000214576721,
+        "percentChange": -6.96,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-18T01:16:05.446561Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
       {
         "ticker": "5341.KL",
         "currentPrice": 0.735,
