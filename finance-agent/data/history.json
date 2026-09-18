@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-16T09:16:17.109926Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 212.17,
-        "weekAgoPrice": 225.72999572753906,
-        "percentChange": -6.01,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVDA Stock Rises Premarket: Vera Rubin AI Accelerator Delivers 2X Profit Per GW Than Blackwell, Semianalysis Says - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ293di1DU0Q0OXBJcmdSRmR3Y2lzVU5JcDY0cmdFY3RFcTB2b051a25aWS1ZM3dyTHJVWjB1TnY5VEJ6ZVkySzRzeVFtekdxY1RkTUotb2pFQnltMUhvaVlac1VESGtpODhQTEhycElYaGhYb0U1ODhaOXU5SEd0azBxTm5LLUNrSENMNlpuM1FPQXBkZG53cDRyZE8?oc=5"
-          },
-          {
-            "title": "NVDA Stock Rises Premarket: Vera Rubin AI Accelerator Delivers 2X Profit Per GW Than Blackwell, Semianalysis Says - Stocktwits",
-            "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWW1TQTl5M3JPRlBkc2hIdU5lRGZvMUJPTjlOeEJUMWtVYm14Tkh5cXhQSGUyTFdYSlhUMzdjWEh1a0NRN3ZnazRiMElfcGo4c2VsRXRnbi1ROXVDakNvNVBSdGVySU0tSElyd3lBU3VzVnBORUk0blhoeDFpbDV6dWtQNm1LUmYzX2ItV3pEdjFZRXNmalY4ekVkUkJWdS1Rbi1EU3RZdnpFakhFSTB2XzZGZVFxS1BXUzZJTWRsRkthaXdkQTdJd25VSDVMdURTbVEzemxGX2xMQjYyMmFrNGlsWFZNeC1oUlpGLUh2QXh0WEhWLU1ycUxKaldLenlhWWJwUTZpOA?oc=5"
-          },
-          {
-            "title": "Essex LLC Sells 7,198 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnNoVmpKNEVIUlhNQlNsWWtFdWR1VGYyTUFqb0VucmpSUTFQd2ZmRVNKb3A2V3lMVkJZS0pRNkcyNXh4aDhvVVE4dHA4a1hTYjdPM3NqWmNoeDhKa2RCaEk3bldmajFsOVRLRUlVMkdyUU5aUFJNTEtoNkYwb3d3TkVqekh4YVdqTFFkY01kV1QyRGRjYmgzX1J4WUExQUFEUFg3SGxDVVFUeHd1R2twSzgzZlQxdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.77,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.95,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -6.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -6.78,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-16T10:12:30.016733Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1545,6 +1494,28 @@
         "currentPrice": 0.73,
         "weekAgoPrice": 0.7850000262260437,
         "percentChange": -7.01,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-18T05:16:04.833946Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.195,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.725,
+        "weekAgoPrice": 0.7850000262260437,
+        "percentChange": -7.64,
         "flagged": true,
         "news": []
       }
