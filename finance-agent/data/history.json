@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-16T08:16:25.849863Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 212.17,
-        "weekAgoPrice": 225.72999572753906,
-        "percentChange": -6.01,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Essex LLC Sells 7,198 Shares of NVIDIA Corporation $NVDA - marketbeat.com",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnNoVmpKNEVIUlhNQlNsWWtFdWR1VGYyTUFqb0VucmpSUTFQd2ZmRVNKb3A2V3lMVkJZS0pRNkcyNXh4aDhvVVE4dHA4a1hTYjdPM3NqWmNoeDhKa2RCaEk3bldmajFsOVRLRUlVMkdyUU5aUFJNTEtoNkYwb3d3TkVqekh4YVdqTFFkY01kV1QyRGRjYmgzX1J4WUExQUFEUFg3SGxDVVFUeHd1R2twSzgzZlQxdw?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Shares Acquired by Naples Global Advisors LLC - marketbeat.com",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd0I5QnAwU0Z4bXQ4MlRIVVA4TkRoR1ZUNnNvUjFtRl9uSk42VnNDOUJOZVNPNFRoeEMtbFlKVU5DZWozR0pJUFJTWjZmcDhKQWNvczNLdGZFM05CRS1laWVlRmxTTDJYeVBZajZrb1UyVjVST1dJMzFFR290ZVNLeTRaM05SOVByS2oyTlpaX2M3YzI5WnlobkNMdUJkSk15Z3NFN2U0S3B5M2xQUFdrREpJeUhmWENHVkVLMEg0d3pHU0dhVTQybHV3?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Shares Sold by Nan Fung Trinity HK Ltd. - marketbeat.com",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS05QZmh5bE0xeHMxOFotR0VnNjVlTWdZTVBobUZ3Zy1TTGxsaGdnT01wcTh5cVBjSVhCcnVQZmw4YUp6RUhwXy13Yy01RWVnaWFidy1sUEU1TzhyQkszZVhXUDBGazExRnlGN2hiUTFHYXByVHp1ZlR0QWRCaHFrYXVsenBoS19peTJ4N0dGWjFCa2Q0Ykc3Y3F3SDZmNnZtWWVqUERGQVdRWGVqWEQxemFZT2lwenB4dEMwSEQydms?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.77,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.95,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -6.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -6.78,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-16T09:16:17.109926Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1574,6 +1523,28 @@
         "currentPrice": 0.725,
         "weekAgoPrice": 0.7850000262260437,
         "percentChange": -7.64,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-18T04:15:36.677509Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.195,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.73,
+        "weekAgoPrice": 0.7850000262260437,
+        "percentChange": -7.01,
         "flagged": true,
         "news": []
       }
