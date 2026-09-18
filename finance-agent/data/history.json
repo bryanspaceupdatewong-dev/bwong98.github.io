@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-17T00:15:49.599554Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 213.9,
-        "weekAgoPrice": 225.72999572753906,
-        "percentChange": -5.24,
-        "flagged": true,
-        "news": [
-          {
-            "title": "SpaceX vs. Nvidia: 1 Stock Has More Upside After Elon Musk\u2019s Orbital AI Bet - Barchart.com",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORS1peXFRdThCU0tOLUZ5bGJ4emxkZWVFcjZibnJiNF8zV1M2MzJDTWJlWWE0SWF6b0xmaDZkOE9WdFY1MEVieTlvUnN2blU0cEpTYTltVDFjdTg4RXk5Nmw5MlZEMzBWc0tCSFI4czlNcnVRcS1BNVdtdWQtQ0ZKamwtTXp5bzh1MVdnblhvbkpqSTZ5eVpkNzAzaHZZWW0wUlVtS0ZoWFA5TnV2OUUtZUdkTmppZ1k?oc=5"
-          },
-          {
-            "title": "Forget Nvidia's Chips: Hugging Face Is the Real Reason to Own This Stock Now - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEZGcURzUk41X1VsRGswT3NmZFdycExZOG1ZSjQxTmZSZTZlS0ZoeUtKck15dUI1MGxzZjNaMzFrRzJ4UklOdFV1SlVSTnduclNvWXZwZFI0RDJwMUxoQkczM2hFWlJ6ckt0RE8tZjhMOHZ4MVJFd0N2SHo4bmRMVUVNakxjV2F3Q3NVT1V1a2hmdGw1bWtF?oc=5"
-          },
-          {
-            "title": "Jim Cramer drops 5-word verdict on Nvidia stock - thestreet.com",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wRFFTeE5sT2pVdlh2b2t2YmdWTXN2el9ZZnpjUjhuLTBscEg4TGhXZlFka2RyblhTSW5sT3BXdWthcmpmY0JIN3paMWRzSVJ3dVlFb2hVR251eFFDOVFRTFptc3NhajdfS2k0VkxJMGlWSGhoM2hiaVMzaG1Pclk?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.77,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.95,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -6.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -6.78,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-17T01:15:40.030609Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1148,6 +1097,20 @@
   },
   {
     "generatedAt": "2026-09-18T22:16:11.792730Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.72,
+        "weekAgoPrice": 0.7850000262260437,
+        "percentChange": -8.28,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-18T23:16:02.067057Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
