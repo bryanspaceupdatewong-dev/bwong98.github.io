@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T01:23:09.865136Z",
+  "generatedAt": "2026-09-21T02:15:40.243530Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,66 +21,66 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.76,
+      "currentPrice": 4.8,
       "weekAgoPrice": 4.800000190734863,
-      "percentChange": -0.83,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.85,
+      "currentPrice": 7.81,
       "weekAgoPrice": 7.900000095367432,
-      "percentChange": -0.63,
+      "percentChange": -1.14,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.49,
+      "currentPrice": 1.5,
       "weekAgoPrice": 1.5399999618530273,
-      "percentChange": -3.25,
+      "percentChange": -2.6,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.9,
+      "currentPrice": 1.89,
       "weekAgoPrice": 1.940000057220459,
-      "percentChange": -2.06,
+      "percentChange": -2.58,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.36,
+      "currentPrice": 1.37,
       "weekAgoPrice": 1.340000033378601,
-      "percentChange": 1.49,
+      "percentChange": 2.24,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.31,
       "weekAgoPrice": 1.2899999618530273,
-      "percentChange": 0.0,
+      "percentChange": 1.55,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.2,
+      "currentPrice": 0.195,
       "weekAgoPrice": 0.20999999344348907,
-      "percentChange": -4.76,
-      "flagged": false,
+      "percentChange": -7.14,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.19,
+      "currentPrice": 1.2,
       "weekAgoPrice": 1.1399999856948853,
-      "percentChange": 4.39,
-      "flagged": false,
+      "percentChange": 5.26,
+      "flagged": true,
       "news": []
     },
     {
@@ -92,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 1
+  "flaggedCount": 3
 }
