@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-21T16:16:01.750751Z",
+  "generatedAt": "2026-09-21T17:15:58.140702Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 493.81,
+      "currentPrice": 497.313,
       "weekAgoPrice": 505.4100036621094,
-      "percentChange": -2.3,
+      "percentChange": -1.6,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 225.373,
+      "currentPrice": 226.975,
       "weekAgoPrice": 210.9600067138672,
-      "percentChange": 6.83,
+      "percentChange": 7.59,
       "flagged": true,
       "news": [
         {
+          "title": "Better Artificial Intelligence Stock: Arm Holdings vs. NVIDIA - theglobeandmail.com",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeVQ4N2VrTjJZTWI0RThMN1QwM3RLaE1qVS02X2d4dTQyNS1WTFNSdUVQSEVoWDdBMXpqbDBTYnJwV0lORVhlSkQzaE1YOTZyNlc5VTVqZWJtNk1yY1NhQlZRZXZrYlZOVWpGREFZdDl3eHZoNmZnb0ZVc3dIaklZRzBjaTVaUDNnQ0Y1WXdudlpreFlTeG52YzBsV2M0V1BxN0Q0Yy10ZVc5a1g3ZHNvOEhrSmQtSUxjMkFfMXA0MXBETGMwSm1fV1Y2bzlqUG1ueTNMV3BQbzhURDJES2o0?oc=5"
+        },
+        {
+          "title": "Nvidia: One Of 5 AI Stocks Down Big (Relative To Earnings) (NASDAQ:NVDA) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkFzZnNYM1lkbEY0NmhobjRZaDdXMXlaUjZrS3gxMk1fUnVGM2RxWlFfQmtTaFlsSEc4bW1WOVBJZ2xJM2dEakpYOTJCMm1DN0o1RldsX2hadDFqZlVZU3U2TkpxQTJINzhTdmJoZGhpQVVsakFsM3MwTUhkWXFqdE9YQ1dqemNWUEVwc1dYSkxTNzlvdHBzbE5Jdm8?oc=5"
+        },
+        {
           "title": "Nvidia Just Sent This Trucking Stock Surging - TradingView",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUZJdFQ2dElULVZxdE5UZWJDRlg2b2Y4ZmF4bWZkWWdqZllEZEUxZkpUcEMyYlh6QlQ1Uk5vQnpDdnZRLWRkc1hvb0tHampub1gxSkJSQ0hHdXBVcFZwS1pQMzV0VmRkMFRnWGpXMWxVYkgtb2p5dmlWd1lURTBCdHYzMEJjVDNIYmZpbWFCNlhjMVpmelZuRWlhdEFEczZkb2NvanBjOA?oc=5"
-        },
-        {
-          "title": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage) - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcmo0ekw5d2RwR0RpRXVxV3FtVy0xczc5N2JvT2dCR1pVcXNXS016dnVMZl9pVHlRUUxrWkdhaDdKTlJaWGxRa2lPYVRHRHBMS2Q3NjlaaXEzWG9TNU1FcGVRT0FCR29nbEJEYlpFcFN4ZmNhSWRuaWk5XzltR0NVSGRudEpuV1BhbUotLUlwRzlKSDV3ckM0cFJJaG5oMUgybDM3SEYyZ3BvbFNLYW0tYWc2ZC1YYk54WkFNZzBIR3V0dzZCOERpZndXREtPZElGcUE?oc=5"
-        },
-        {
-          "title": "Meet the Quantum Computing Stock Growing Faster Than Nvidia - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3dqQnltY1RFOVhPTURRWVZmYWMzUUhHWWpvR0FscTE2MkhGYlRsSzNveDBxVDNaeHlQRklyVXZ6bk11QzN3OFhKWkFPSHMweFFQWHlZd1Qya0tLQXRUTmhqNHlSNFFoNkRnVDlEREtYSno3MndlNFdjLU1Xbm8tUmFYaXlFUFQwc2RNZ2FvNVRRT1ZWSVQzSw?oc=5"
         }
       ]
     },
