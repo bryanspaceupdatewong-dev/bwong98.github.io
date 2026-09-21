@@ -1,59 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-17T16:16:15.161198Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.81,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.47,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.5,
-        "weekAgoPrice": 1.590000033378601,
-        "percentChange": -5.66,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.9,
-        "weekAgoPrice": 2.009999990463257,
-        "percentChange": -5.47,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -6.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -5.08,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.735,
-        "weekAgoPrice": 0.7799999713897705,
-        "percentChange": -5.77,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-17T17:15:43.601264Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1067,6 +1013,49 @@
           {
             "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - The Globe and Mail",
             "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZHNXa0FOc1d3bmd6NTk0SDN6bEpxd0RUWGFFYnMtSU51dUFQWk5nTlVNQnU5N0dHenI5M2VJZm9hN3A3NF96dmYwUXBVUk9vZnZaWVJaNlpOdVVTREN1Rkp3YzJzSkM3RXl0LUlBaHhZOExvR0EwR1FlV1dxVkdvZlJrSGZYc0g4RENJQ0x2SXdwSnNScENTN1loNk1VdXFxT3NsZC1naEl4MmZzVHQtcVJXZ09tRXpiQkVvcXg0dkxvNlBla09mUm5iNXhCbnV2d2duQ29kTnozbUxmZ3RHbWRSN0NkZjhhbUtELTF3?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.195,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.72,
+        "weekAgoPrice": 0.7699999809265137,
+        "percentChange": -6.49,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-21T15:16:28.361992Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.242,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 6.77,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia vs. Eli Lilly: I\u2019d Choose This Stock for the Next Decade - AOL.com",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vLXpNZVVRNjIxRXJBTDNKRUQ0dGkxZkJJRWt6dkI1V1o4SXU5akM5X2hwOWtoQXg0RmJYSlhTMEFfenFTeUR1UHBVeDRfN0lPRk9FWDREd1ptbVo2RmhDQllURXdLdGNyVXVhYTVITldzSUU?oc=5"
+          },
+          {
+            "title": "Nvidia vs. Eli Lilly: I\u2019d Choose This Stock for the Next Decade - 247wallst.com",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmtfMHgzTlVrYU5Xb0tHZkEyUHZLNVNwRTc1cnJGeERMTERwNk5zdk9QcXF1RnQyV3NLYjhQdlBVaXpBTE00RkRpMGRVSEFtTWRCbnNuVkV6WHhjSDVtb2NIT1NPVEQtMEEwWFdrVk9iYXdLRWNnb0xYdE51dU9uNjhYb2dzTm9zdDNDMllyUWdfZklmUTlURVIyVktpQjZFVVpBNkYwZw?oc=5"
+          },
+          {
+            "title": "MU vs. Nvidia: Which AI Chip Stock Offers More Upside Ahead of MU\u2019s Sept. 30 Earnings? - TipRanks",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HaHlhUFVxaE1QRUdpb0VpOVY1MDRFMjFwbE5fR1JWb281czBRSjB2Y0Zqa25SRHJ5ME9NcVFuSjhQZjBRZWVrcFhPVE9OYkJE?oc=5"
           }
         ]
       },
