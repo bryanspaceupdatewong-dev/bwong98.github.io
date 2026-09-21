@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-17T22:16:12.697796Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": -8.94,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.735,
-        "weekAgoPrice": 0.7900000214576721,
-        "percentChange": -6.96,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-17T23:15:32.933854Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1065,6 +1043,49 @@
           {
             "title": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - The Motley Fool",
             "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0dPOG9jbF9JRlo3Q0xSeFFiRUM3R0F3b1JrNURoZmlodEFPT2JfSFZGTGFLNE9KM1p4ZTVRTkQwVG1pcE00amRFRk1LOHRGeWlFRUtIaGo0dExmblV1V25kX1hFNVVJUnh4WklkUW56MzFDS20wUVM2cGQxYkZVWTZsdmI1eFhTdTJEQXJBdjRERHJPTjdPSFZmZU1LZGlBWTFXRTRsNXlmT1pWRlk3SVRwNWJMT2EtVkV6QzZSZW1JU3B0akZ0ak1mdw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.195,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.72,
+        "weekAgoPrice": 0.7699999809265137,
+        "percentChange": -6.49,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-21T20:16:16.387357Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 227.38,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 7.78,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Nears $230 as Nvidia CEO Jensen Huang Sees Chip Sales Doubling - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjV2Vjhxbjc3WmJ3VHYxTVpMbzBjSEpQQUFadDZWNTlHeHRJZUF2TDByYU9QUnp1TWdSNzhlQzVhbzBvaS1hbkd2S1liUVV0eFN6UWhTOGZPZGFZQlh3ZUhfeGdzUHM3SWxhMGRBVUREN0FSYV9va2xPNVZuaHBINTdyem5IUHozdnRCTTY3dktOTkFsNkZtalRhOE0yeVhNbUJJNEkweks3NXBPM2lOV19DZnd6UQ?oc=5"
+          },
+          {
+            "title": "Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why the Stock May Continue Surging in 2027 - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeUhLSV9lUEp6bUIzLVpGVEJKNWlOT0xKbGNxZW85RUZXdkd0SU5WNk9CVnYzeVFvb0NiVWNRM1pLZS03YjIwaV9QUy1TNHRYLXdoWjQ5YklOQXlJUVRIVFFSNENJNUxjdkpPLTI4Q091M0s4Z20tSHBNOTF1bUdRWjB5NWdjbkRTV3ZTaVJpUjM4djdwMFdHeE5MMi1zSUxPR2swNTg1aGRlNGh2YWllNzVVamk1UDJZeHdsSHR2SEU5ajVVTERrSXRTMnFuMXBZUUVJdV9zS0R4S0prY3BLQ0xwSS1Ha2g0LXcwbXQtUF82Z2gxWng0X0hJTHc3NU5kMl92VllocHVjcTh4RFFLVUNhZHdOSW9iaXdxbXpB?oc=5"
+          },
+          {
+            "title": "Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why the Stock May Continue Surging in 2027 - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeF9hQ0F2UU5Rc3hVRmpaTXZYR0J4aS1za0JTd1lIQVNkMG1tcXpRTGJ2OThZTHdQWjJXWU05RWV3ajBqQWFJaU82MlhzM1E4V0l1TnlybDd5SzhKYm9kclZrYnh0WE0xNXJQTEhQaGdtU19aNHNjbktET0FWMkFycHJTa0t1RTRieFhqUVRkYThzZDViVktfT1ZxUW1oSkZCVlRfazBWeW11aTRWN2oyV2RvVVctMmdLa0lZZElJSGp0eUN3TXNjMjh4RE9QZUxHUkJLRUdTT3NBbGQ2Rzl5QmVnTQ?oc=5"
           }
         ]
       },
