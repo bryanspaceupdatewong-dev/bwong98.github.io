@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T21:15:50.752920Z",
+  "generatedAt": "2026-09-21T22:16:06.469068Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High (Live Coverage) - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcmo0ekw5d2RwR0RpRXVxV3FtVy0xczc5N2JvT2dCR1pVcXNXS016dnVMZl9pVHlRUUxrWkdhaDdKTlJaWGxRa2lPYVRHRHBMS2Q3NjlaaXEzWG9TNU1FcGVRT0FCR29nbEJEYlpFcFN4ZmNhSWRuaWk5XzltR0NVSGRudEpuV1BhbUotLUlwRzlKSDV3ckM0cFJJaG5oMUgybDM3SEYyZ3BvbFNLYW0tYWc2ZC1YYk54WkFNZzBIR3V0dzZCOERpZndXREtPZElGcUE?oc=5"
+        },
+        {
+          "title": "NVIDIA Or Micron: Which Gets Paid More Safely For The AI Shortage? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnJzZU94dG5NT0otS2JMU1VEVGVXa2lIbjA0d2c4R09aRlRuVzU1S1gxSmhOdU9Wdy15elhRNUdpNG15emJiZHFZTFp6SjIyVTVxQ09BUkZHbFJkTEg5UzZkV3ZVaHg2dlhOdGg3WWJzMUdQaEZQaW9JaFFXWWV4WG5nTktFNGFqc1p5NVVTeGRrbVRyMDJXTmFWTFRldGJDT25SNXc2VE5FZHFhYWtKc0NKOVFlTWRES3MzcEdGdmFxWTg?oc=5"
+        },
+        {
           "title": "Nvidia Stock: Are Trump Talks With China's Xi the AI Chips Catalyst It Needs? - Barron's",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWIzWXFnQ3VTZjVDUXRCcm5OeUx5Q094XzI4alVVaUNFZWc4T285YWo2Y0phRm8xSDVBS0gycU56VlJ2emw2SUQwdGpCS0J3bjc0NGJFT1ZYZUY0YlJ5RkJ3bVFHQkhZVHNPQnd4VXZPYmxXOGVwajdlZnQ2OS1vWDN1Y0dESjk1ZktGUw?oc=5"
-        },
-        {
-          "title": "NVDA Stock Nears $230 as Nvidia CEO Jensen Huang Sees Chip Sales Doubling - fxleaders.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjV2Vjhxbjc3WmJ3VHYxTVpMbzBjSEpQQUFadDZWNTlHeHRJZUF2TDByYU9QUnp1TWdSNzhlQzVhbzBvaS1hbkd2S1liUVV0eFN6UWhTOGZPZGFZQlh3ZUhfeGdzUHM3SWxhMGRBVUREN0FSYV9va2xPNVZuaHBINTdyem5IUHozdnRCTTY3dktOTkFsNkZtalRhOE0yeVhNbUJJNEkweks3NXBPM2lOV19DZnd6UQ?oc=5"
-        },
-        {
-          "title": "Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why the Stock May Continue Surging in 2027 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeF9hQ0F2UU5Rc3hVRmpaTXZYR0J4aS1za0JTd1lIQVNkMG1tcXpRTGJ2OThZTHdQWjJXWU05RWV3ajBqQWFJaU82MlhzM1E4V0l1TnlybDd5SzhKYm9kclZrYnh0WE0xNXJQTEhQaGdtU19aNHNjbktET0FWMkFycHJTa0t1RTRieFhqUVRkYThzZDViVktfT1ZxUW1oSkZCVlRfazBWeW11aTRWN2oyV2RvVVctMmdLa0lZZElJSGp0eUN3TXNjMjh4RE9QZUxHUkJLRUdTT3NBbGQ2Rzl5QmVnTQ?oc=5"
         }
       ]
     },
