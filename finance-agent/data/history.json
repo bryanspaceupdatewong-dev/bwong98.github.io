@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-18T01:05:13.792909Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": -8.94,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.735,
-        "weekAgoPrice": 0.7900000214576721,
-        "percentChange": -6.96,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-18T01:16:05.446561Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1128,6 +1106,49 @@
           {
             "title": "Nvidia Stock: Are Trump Talks With China's Xi the AI Chips Catalyst It Needs? - Barron's",
             "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWIzWXFnQ3VTZjVDUXRCcm5OeUx5Q094XzI4alVVaUNFZWc4T285YWo2Y0phRm8xSDVBS0gycU56VlJ2emw2SUQwdGpCS0J3bjc0NGJFT1ZYZUY0YlJ5RkJ3bVFHQkhZVHNPQnd4VXZPYmxXOGVwajdlZnQ2OS1vWDN1Y0dESjk1ZktGUw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.195,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.72,
+        "weekAgoPrice": 0.7699999809265137,
+        "percentChange": -6.49,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-21T23:16:19.755816Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 227.38,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 7.78,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Nears $230 as Nvidia CEO Huang Sees Chip Sales Doubling - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTDlOdl9WSTBDSU4wZVpEVFdoOUdtQTdOY2FHa1YxVzVQUDZYRTluN2xRb0poN1NTclZiRW1YY1FPeWgwWnpxN1BibFB0TmlHMW1aSFF1cFFFYTAwS1JfWVMta0VLZjJud2tkbmtnOTNfSzJnd2ZYS2VkdFlYVktkWm5ZckVLT2lMODNUXy1lazg3ZVpfV2d2Y0hXSThPa2tEQ1ZjRnEzNnRWa0Qt?oc=5"
+          },
+          {
+            "title": "Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High (Live Coverage) - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcmo0ekw5d2RwR0RpRXVxV3FtVy0xczc5N2JvT2dCR1pVcXNXS016dnVMZl9pVHlRUUxrWkdhaDdKTlJaWGxRa2lPYVRHRHBMS2Q3NjlaaXEzWG9TNU1FcGVRT0FCR29nbEJEYlpFcFN4ZmNhSWRuaWk5XzltR0NVSGRudEpuV1BhbUotLUlwRzlKSDV3ckM0cFJJaG5oMUgybDM3SEYyZ3BvbFNLYW0tYWc2ZC1YYk54WkFNZzBIR3V0dzZCOERpZndXREtPZElGcUE?oc=5"
+          },
+          {
+            "title": "NVIDIA Or Micron: Which Gets Paid More Safely For The AI Shortage? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnJzZU94dG5NT0otS2JMU1VEVGVXa2lIbjA0d2c4R09aRlRuVzU1S1gxSmhOdU9Wdy15elhRNUdpNG15emJiZHFZTFp6SjIyVTVxQ09BUkZHbFJkTEg5UzZkV3ZVaHg2dlhOdGg3WWJzMUdQaEZQaW9JaFFXWWV4WG5nTktFNGFqc1p5NVVTeGRrbVRyMDJXTmFWTFRldGJDT25SNXc2VE5FZHFhYWtKc0NKOVFlTWRES3MzcEdGdmFxWTg?oc=5"
           }
         ]
       },
