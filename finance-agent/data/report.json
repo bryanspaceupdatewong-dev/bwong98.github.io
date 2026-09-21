@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-09-21T18:16:11.755788Z",
+  "generatedAt": "2026-09-21T19:06:49.965501Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 498.49,
+      "currentPrice": 498.715,
       "weekAgoPrice": 505.4100036621094,
-      "percentChange": -1.37,
+      "percentChange": -1.32,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 227.19,
+      "currentPrice": 227.526,
       "weekAgoPrice": 210.9600067138672,
-      "percentChange": 7.69,
+      "percentChange": 7.85,
       "flagged": true,
       "news": [
         {
-          "title": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMXlzWWd6WUFkem1pbmJFMFZkM1lTVXp4alUyS2s5eHBiTWNPRG1HVnVKbGViTl8tY1ctSWJQU1dhRW1Cb2JZTkRobDlZSDhNVWRDVFpGaFluYm9JeVRONHczZGJzVnVPTl9GMG9FVVp0S3ZLd29HcUtjUkgwSi03VnRrbGktMDRHRHd4VENrZlBhOEZqdDAtOWhQMGVSWVFqZkZPVkZSQ1FzR1VKNDBqLTBVd0wwc2M5bTFHUDFIaHVyS3F3ZDNpcW9Oc1pnWEJYbWF6SHlaQlo5eF9NRlBHZVB1MkFtX0FjeV9wcUJPanE0OGhCdnpOQjExdDhEcUIxVURXVmdR?oc=5"
+          "title": "Here's How Much $1,000 Invested in Nvidia Stock Could Be Worth by 2027 - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdHI2UGV2RXV4bTFfLWR2VFhXN1ZsZ0hVM1l3SzI0SWNfdHhLb2VuekVVcm5IclZBcnd4OWJGa1ZxWHJsSHluVHNQVjhNUUNLdm1FLXJyYVNLX1AzR21KZzNWeXpOQ0JtNXlhOENESHlzdGl3dGt0c09TbE1YbGZod2tzeG1CLXFPX0tjUF9wUEJmQklPaDhSWXpfOGlZZmNkUnJFdVV4QUNyMndQQXJhMjlHQl9pTDJlSVBxTzNzNUp6YzM5ZWd3V2hNUHktaDhKdzNQb1ZkbTEzM1lwWWZyNl9uWUNsdGh6X1VzXw?oc=5"
+        },
+        {
+          "title": "Here's How Much $1,000 Invested in Nvidia Stock Could Be Worth by 2027 - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX1NoLWsxQzdEWWc1LUpfUzMxR3pHWGZoNDNnaVRNbXJIN2h3UzA5Y05VQ1FIRXpldF9ocE5SUC03dDUtRFJYVFZ0ZkZsX25IckxldHNHQkNKd1lkTXQwQTQ2dFlLUTY0d294M1EzNThTUE55dzhNc3BYeTNHRTJ1NTE0UXJuNXkwbmZnNU9kOEgwVWVvZ0dmdg?oc=5"
         },
         {
           "title": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0dPOG9jbF9JRlo3Q0xSeFFiRUM3R0F3b1JrNURoZmlodEFPT2JfSFZGTGFLNE9KM1p4ZTVRTkQwVG1pcE00amRFRk1LOHRGeWlFRUtIaGo0dExmblV1V25kX1hFNVVJUnh4WklkUW56MzFDS20wUVM2cGQxYkZVWTZsdmI1eFhTdTJEQXJBdjRERHJPTjdPSFZmZU1LZGlBWTFXRTRsNXlmT1pWRlk3SVRwNWJMT2EtVkV6QzZSZW1JU3B0akZ0ak1mdw?oc=5"
-        },
-        {
-          "title": "10 Information Technology Stocks Whale Activity In Today\u2019s Session - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjZvb2NpSzFJd1dKeTBhSG52N3VYVmJ4SDFzbWxzRWZwZDJqbGhkY1R5VE9DYU9VNWQ3eVFUMFlVNFo4WkYxTDNNRnhNQ3JYRkRxNXRiRnlvWklIQ3VZMklMbG1oeGtxaURTTnAxbGtFQnh4bFdlSFQ5bTc4TW50U3hSSkU4RlQ0NktIQmdjcjJTS3BQVHA1aC1SU2JGX0QxYU15NGVhTmpHRW1IOXdRZkF2clBwMXJ3cXBB?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.79,
-      "weekAgoPrice": 4.849999904632568,
-      "percentChange": -1.24,
+      "weekAgoPrice": 4.800000190734863,
+      "percentChange": -0.21,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.82,
-      "weekAgoPrice": 8.130000114440918,
-      "percentChange": -3.81,
+      "weekAgoPrice": 7.900000095367432,
+      "percentChange": -1.01,
       "flagged": false,
       "news": []
     },
@@ -59,24 +59,24 @@
     {
       "ticker": "3182.KL",
       "currentPrice": 1.88,
-      "weekAgoPrice": 1.9700000286102295,
-      "percentChange": -4.57,
+      "weekAgoPrice": 1.940000057220459,
+      "percentChange": -3.09,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.37,
-      "weekAgoPrice": 1.350000023841858,
-      "percentChange": 1.48,
+      "weekAgoPrice": 1.340000033378601,
+      "percentChange": 2.24,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.31,
-      "weekAgoPrice": 1.2699999809265137,
-      "percentChange": 3.15,
+      "weekAgoPrice": 1.2899999618530273,
+      "percentChange": 1.55,
       "flagged": false,
       "news": []
     },
@@ -91,16 +91,16 @@
     {
       "ticker": "5352.KL",
       "currentPrice": 1.19,
-      "weekAgoPrice": 1.1799999475479126,
-      "percentChange": 0.85,
+      "weekAgoPrice": 1.1399999856948853,
+      "percentChange": 4.39,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.72,
-      "weekAgoPrice": 0.7850000262260437,
-      "percentChange": -8.28,
+      "weekAgoPrice": 0.7699999809265137,
+      "percentChange": -6.49,
       "flagged": true,
       "news": []
     }

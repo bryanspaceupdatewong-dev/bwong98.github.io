@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-17T20:16:26.204594Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": -8.94,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.735,
-        "weekAgoPrice": 0.7900000214576721,
-        "percentChange": -6.96,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-17T21:16:16.924811Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1039,6 +1017,49 @@
         "currentPrice": 0.72,
         "weekAgoPrice": 0.7850000262260437,
         "percentChange": -8.28,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-21T19:06:49.965501Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 227.526,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 7.85,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Here's How Much $1,000 Invested in Nvidia Stock Could Be Worth by 2027 - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdHI2UGV2RXV4bTFfLWR2VFhXN1ZsZ0hVM1l3SzI0SWNfdHhLb2VuekVVcm5IclZBcnd4OWJGa1ZxWHJsSHluVHNQVjhNUUNLdm1FLXJyYVNLX1AzR21KZzNWeXpOQ0JtNXlhOENESHlzdGl3dGt0c09TbE1YbGZod2tzeG1CLXFPX0tjUF9wUEJmQklPaDhSWXpfOGlZZmNkUnJFdVV4QUNyMndQQXJhMjlHQl9pTDJlSVBxTzNzNUp6YzM5ZWd3V2hNUHktaDhKdzNQb1ZkbTEzM1lwWWZyNl9uWUNsdGh6X1VzXw?oc=5"
+          },
+          {
+            "title": "Here's How Much $1,000 Invested in Nvidia Stock Could Be Worth by 2027 - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX1NoLWsxQzdEWWc1LUpfUzMxR3pHWGZoNDNnaVRNbXJIN2h3UzA5Y05VQ1FIRXpldF9ocE5SUC03dDUtRFJYVFZ0ZkZsX25IckxldHNHQkNKd1lkTXQwQTQ2dFlLUTY0d294M1EzNThTUE55dzhNc3BYeTNHRTJ1NTE0UXJuNXkwbmZnNU9kOEgwVWVvZ0dmdg?oc=5"
+          },
+          {
+            "title": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0dPOG9jbF9JRlo3Q0xSeFFiRUM3R0F3b1JrNURoZmlodEFPT2JfSFZGTGFLNE9KM1p4ZTVRTkQwVG1pcE00amRFRk1LOHRGeWlFRUtIaGo0dExmblV1V25kX1hFNVVJUnh4WklkUW56MzFDS20wUVM2cGQxYkZVWTZsdmI1eFhTdTJEQXJBdjRERHJPTjdPSFZmZU1LZGlBWTFXRTRsNXlmT1pWRlk3SVRwNWJMT2EtVkV6QzZSZW1JU3B0akZ0ak1mdw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.195,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.72,
+        "weekAgoPrice": 0.7699999809265137,
+        "percentChange": -6.49,
         "flagged": true,
         "news": []
       }
