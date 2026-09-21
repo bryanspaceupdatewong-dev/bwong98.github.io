@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-21T13:19:02.313601Z",
+  "generatedAt": "2026-09-21T14:16:40.193284Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 493.78,
-      "weekAgoPrice": 495.6300048828125,
-      "percentChange": -0.37,
+      "currentPrice": 494.755,
+      "weekAgoPrice": 505.4100036621094,
+      "percentChange": -2.11,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 222.27,
-      "weekAgoPrice": 218.2899932861328,
-      "percentChange": 1.82,
-      "flagged": false,
-      "news": []
+      "currentPrice": 223.41,
+      "weekAgoPrice": 210.9600067138672,
+      "percentChange": 5.9,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWdGNlhDdEZWYjkwMEVGUGhNVWxMcjVaUEJOOG1uZldjSDZyNDVfUHRSMnltanVXekRnekV6endpanJVMWF0NmVtOUNkNW9lX2dEQTBwcXJEN1o5aXJOMHE4ejFTSlp1cFg3WjdjcW1FUlplbThEQTlQd1U1TmxMeGtlWlpJS0RQUHJUWFU1Rmx6T192dW1BMw?oc=5"
+        },
+        {
+          "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - Longbridge",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPeWRmeWthb21FeEFEWURnb1FKNktFeC1ueHR1NV81bEtrcGl6c2xESkxJampZN25wanJpN3FfbDdaZjJMbkZSSmItSWtJMFYxa0E?oc=5"
+        },
+        {
+          "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZHNXa0FOc1d3bmd6NTk0SDN6bEpxd0RUWGFFYnMtSU51dUFQWk5nTlVNQnU5N0dHenI5M2VJZm9hN3A3NF96dmYwUXBVUk9vZnZaWVJaNlpOdVVTREN1Rkp3YzJzSkM3RXl0LUlBaHhZOExvR0EwR1FlV1dxVkdvZlJrSGZYc0g4RENJQ0x2SXdwSnNScENTN1loNk1VdXFxT3NsZC1naEl4MmZzVHQtcVJXZ09tRXpiQkVvcXg0dkxvNlBla09mUm5iNXhCbnV2d2duQ29kTnozbUxmZ3RHbWRSN0NkZjhhbUtELTF3?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
@@ -92,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 3
 }

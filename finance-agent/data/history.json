@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-17T15:16:08.645513Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": -8.94,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.735,
-        "weekAgoPrice": 0.7900000214576721,
-        "percentChange": -6.96,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-17T16:16:15.161198Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1049,6 +1027,49 @@
     "generatedAt": "2026-09-21T13:19:02.313601Z",
     "thresholdPercent": 5.0,
     "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.195,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.72,
+        "weekAgoPrice": 0.7699999809265137,
+        "percentChange": -6.49,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-21T14:16:40.193284Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 223.41,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 5.9,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWdGNlhDdEZWYjkwMEVGUGhNVWxMcjVaUEJOOG1uZldjSDZyNDVfUHRSMnltanVXekRnekV6endpanJVMWF0NmVtOUNkNW9lX2dEQTBwcXJEN1o5aXJOMHE4ejFTSlp1cFg3WjdjcW1FUlplbThEQTlQd1U1TmxMeGtlWlpJS0RQUHJUWFU1Rmx6T192dW1BMw?oc=5"
+          },
+          {
+            "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - Longbridge",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPeWRmeWthb21FeEFEWURnb1FKNktFeC1ueHR1NV81bEtrcGl6c2xESkxJampZN25wanJpN3FfbDdaZjJMbkZSSmItSWtJMFYxa0E?oc=5"
+          },
+          {
+            "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZHNXa0FOc1d3bmd6NTk0SDN6bEpxd0RUWGFFYnMtSU51dUFQWk5nTlVNQnU5N0dHenI5M2VJZm9hN3A3NF96dmYwUXBVUk9vZnZaWVJaNlpOdVVTREN1Rkp3YzJzSkM3RXl0LUlBaHhZOExvR0EwR1FlV1dxVkdvZlJrSGZYc0g4RENJQ0x2SXdwSnNScENTN1loNk1VdXFxT3NsZC1naEl4MmZzVHQtcVJXZ09tRXpiQkVvcXg0dkxvNlBla09mUm5iNXhCbnV2d2duQ29kTnozbUxmZ3RHbWRSN0NkZjhhbUtELTF3?oc=5"
+          }
+        ]
+      },
       {
         "ticker": "0397.KL",
         "currentPrice": 0.195,
