@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-21T17:15:58.140702Z",
+  "generatedAt": "2026-09-21T18:16:11.755788Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 497.313,
+      "currentPrice": 498.49,
       "weekAgoPrice": 505.4100036621094,
-      "percentChange": -1.6,
+      "percentChange": -1.37,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 226.975,
+      "currentPrice": 227.19,
       "weekAgoPrice": 210.9600067138672,
-      "percentChange": 7.59,
+      "percentChange": 7.69,
       "flagged": true,
       "news": [
         {
-          "title": "Better Artificial Intelligence Stock: Arm Holdings vs. NVIDIA - theglobeandmail.com",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeVQ4N2VrTjJZTWI0RThMN1QwM3RLaE1qVS02X2d4dTQyNS1WTFNSdUVQSEVoWDdBMXpqbDBTYnJwV0lORVhlSkQzaE1YOTZyNlc5VTVqZWJtNk1yY1NhQlZRZXZrYlZOVWpGREFZdDl3eHZoNmZnb0ZVc3dIaklZRzBjaTVaUDNnQ0Y1WXdudlpreFlTeG52YzBsV2M0V1BxN0Q0Yy10ZVc5a1g3ZHNvOEhrSmQtSUxjMkFfMXA0MXBETGMwSm1fV1Y2bzlqUG1ueTNMV3BQbzhURDJES2o0?oc=5"
+          "title": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMXlzWWd6WUFkem1pbmJFMFZkM1lTVXp4alUyS2s5eHBiTWNPRG1HVnVKbGViTl8tY1ctSWJQU1dhRW1Cb2JZTkRobDlZSDhNVWRDVFpGaFluYm9JeVRONHczZGJzVnVPTl9GMG9FVVp0S3ZLd29HcUtjUkgwSi03VnRrbGktMDRHRHd4VENrZlBhOEZqdDAtOWhQMGVSWVFqZkZPVkZSQ1FzR1VKNDBqLTBVd0wwc2M5bTFHUDFIaHVyS3F3ZDNpcW9Oc1pnWEJYbWF6SHlaQlo5eF9NRlBHZVB1MkFtX0FjeV9wcUJPanE0OGhCdnpOQjExdDhEcUIxVURXVmdR?oc=5"
         },
         {
-          "title": "Nvidia: One Of 5 AI Stocks Down Big (Relative To Earnings) (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkFzZnNYM1lkbEY0NmhobjRZaDdXMXlaUjZrS3gxMk1fUnVGM2RxWlFfQmtTaFlsSEc4bW1WOVBJZ2xJM2dEakpYOTJCMm1DN0o1RldsX2hadDFqZlVZU3U2TkpxQTJINzhTdmJoZGhpQVVsakFsM3MwTUhkWXFqdE9YQ1dqemNWUEVwc1dYSkxTNzlvdHBzbE5Jdm8?oc=5"
+          "title": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0dPOG9jbF9JRlo3Q0xSeFFiRUM3R0F3b1JrNURoZmlodEFPT2JfSFZGTGFLNE9KM1p4ZTVRTkQwVG1pcE00amRFRk1LOHRGeWlFRUtIaGo0dExmblV1V25kX1hFNVVJUnh4WklkUW56MzFDS20wUVM2cGQxYkZVWTZsdmI1eFhTdTJEQXJBdjRERHJPTjdPSFZmZU1LZGlBWTFXRTRsNXlmT1pWRlk3SVRwNWJMT2EtVkV6QzZSZW1JU3B0akZ0ak1mdw?oc=5"
         },
         {
-          "title": "Nvidia Just Sent This Trucking Stock Surging - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUZJdFQ2dElULVZxdE5UZWJDRlg2b2Y4ZmF4bWZkWWdqZllEZEUxZkpUcEMyYlh6QlQ1Uk5vQnpDdnZRLWRkc1hvb0tHampub1gxSkJSQ0hHdXBVcFZwS1pQMzV0VmRkMFRnWGpXMWxVYkgtb2p5dmlWd1lURTBCdHYzMEJjVDNIYmZpbWFCNlhjMVpmelZuRWlhdEFEczZkb2NvanBjOA?oc=5"
+          "title": "10 Information Technology Stocks Whale Activity In Today\u2019s Session - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjZvb2NpSzFJd1dKeTBhSG52N3VYVmJ4SDFzbWxzRWZwZDJqbGhkY1R5VE9DYU9VNWQ3eVFUMFlVNFo4WkYxTDNNRnhNQ3JYRkRxNXRiRnlvWklIQ3VZMklMbG1oeGtxaURTTnAxbGtFQnh4bFdlSFQ5bTc4TW50U3hSSkU4RlQ0NktIQmdjcjJTS3BQVHA1aC1SU2JGX0QxYU15NGVhTmpHRW1IOXdRZkF2clBwMXJ3cXBB?oc=5"
         }
       ]
     },

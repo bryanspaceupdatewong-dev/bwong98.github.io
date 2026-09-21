@@ -1,59 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-17T19:16:02.469825Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.81,
-        "weekAgoPrice": 8.350000381469727,
-        "percentChange": -6.47,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.5,
-        "weekAgoPrice": 1.590000033378601,
-        "percentChange": -5.66,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.9,
-        "weekAgoPrice": 2.009999990463257,
-        "percentChange": -5.47,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": -6.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -5.08,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.735,
-        "weekAgoPrice": 0.7799999713897705,
-        "percentChange": -5.77,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-17T20:16:26.204594Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1034,6 +980,49 @@
           {
             "title": "Nvidia Just Sent This Trucking Stock Surging - TradingView",
             "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUZJdFQ2dElULVZxdE5UZWJDRlg2b2Y4ZmF4bWZkWWdqZllEZEUxZkpUcEMyYlh6QlQ1Uk5vQnpDdnZRLWRkc1hvb0tHampub1gxSkJSQ0hHdXBVcFZwS1pQMzV0VmRkMFRnWGpXMWxVYkgtb2p5dmlWd1lURTBCdHYzMEJjVDNIYmZpbWFCNlhjMVpmelZuRWlhdEFEczZkb2NvanBjOA?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.195,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.72,
+        "weekAgoPrice": 0.7850000262260437,
+        "percentChange": -8.28,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-21T18:16:11.755788Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 227.19,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 7.69,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMXlzWWd6WUFkem1pbmJFMFZkM1lTVXp4alUyS2s5eHBiTWNPRG1HVnVKbGViTl8tY1ctSWJQU1dhRW1Cb2JZTkRobDlZSDhNVWRDVFpGaFluYm9JeVRONHczZGJzVnVPTl9GMG9FVVp0S3ZLd29HcUtjUkgwSi03VnRrbGktMDRHRHd4VENrZlBhOEZqdDAtOWhQMGVSWVFqZkZPVkZSQ1FzR1VKNDBqLTBVd0wwc2M5bTFHUDFIaHVyS3F3ZDNpcW9Oc1pnWEJYbWF6SHlaQlo5eF9NRlBHZVB1MkFtX0FjeV9wcUJPanE0OGhCdnpOQjExdDhEcUIxVURXVmdR?oc=5"
+          },
+          {
+            "title": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0dPOG9jbF9JRlo3Q0xSeFFiRUM3R0F3b1JrNURoZmlodEFPT2JfSFZGTGFLNE9KM1p4ZTVRTkQwVG1pcE00amRFRk1LOHRGeWlFRUtIaGo0dExmblV1V25kX1hFNVVJUnh4WklkUW56MzFDS20wUVM2cGQxYkZVWTZsdmI1eFhTdTJEQXJBdjRERHJPTjdPSFZmZU1LZGlBWTFXRTRsNXlmT1pWRlk3SVRwNWJMT2EtVkV6QzZSZW1JU3B0akZ0ak1mdw?oc=5"
+          },
+          {
+            "title": "10 Information Technology Stocks Whale Activity In Today\u2019s Session - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjZvb2NpSzFJd1dKeTBhSG52N3VYVmJ4SDFzbWxzRWZwZDJqbGhkY1R5VE9DYU9VNWQ3eVFUMFlVNFo4WkYxTDNNRnhNQ3JYRkRxNXRiRnlvWklIQ3VZMklMbG1oeGtxaURTTnAxbGtFQnh4bFdlSFQ5bTc4TW50U3hSSkU4RlQ0NktIQmdjcjJTS3BQVHA1aC1SU2JGX0QxYU15NGVhTmpHRW1IOXdRZkF2clBwMXJ3cXBB?oc=5"
           }
         ]
       },
