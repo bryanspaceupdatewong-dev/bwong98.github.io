@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-09-21T15:16:28.361992Z",
+  "generatedAt": "2026-09-21T16:16:01.750751Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 492.835,
+      "currentPrice": 493.81,
       "weekAgoPrice": 505.4100036621094,
-      "percentChange": -2.49,
+      "percentChange": -2.3,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 225.242,
+      "currentPrice": 225.373,
       "weekAgoPrice": 210.9600067138672,
-      "percentChange": 6.77,
+      "percentChange": 6.83,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia vs. Eli Lilly: I\u2019d Choose This Stock for the Next Decade - AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vLXpNZVVRNjIxRXJBTDNKRUQ0dGkxZkJJRWt6dkI1V1o4SXU5akM5X2hwOWtoQXg0RmJYSlhTMEFfenFTeUR1UHBVeDRfN0lPRk9FWDREd1ptbVo2RmhDQllURXdLdGNyVXVhYTVITldzSUU?oc=5"
+          "title": "Nvidia Just Sent This Trucking Stock Surging - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUZJdFQ2dElULVZxdE5UZWJDRlg2b2Y4ZmF4bWZkWWdqZllEZEUxZkpUcEMyYlh6QlQ1Uk5vQnpDdnZRLWRkc1hvb0tHampub1gxSkJSQ0hHdXBVcFZwS1pQMzV0VmRkMFRnWGpXMWxVYkgtb2p5dmlWd1lURTBCdHYzMEJjVDNIYmZpbWFCNlhjMVpmelZuRWlhdEFEczZkb2NvanBjOA?oc=5"
         },
         {
-          "title": "Nvidia vs. Eli Lilly: I\u2019d Choose This Stock for the Next Decade - 247wallst.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmtfMHgzTlVrYU5Xb0tHZkEyUHZLNVNwRTc1cnJGeERMTERwNk5zdk9QcXF1RnQyV3NLYjhQdlBVaXpBTE00RkRpMGRVSEFtTWRCbnNuVkV6WHhjSDVtb2NIT1NPVEQtMEEwWFdrVk9iYXdLRWNnb0xYdE51dU9uNjhYb2dzTm9zdDNDMllyUWdfZklmUTlURVIyVktpQjZFVVpBNkYwZw?oc=5"
+          "title": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage) - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcmo0ekw5d2RwR0RpRXVxV3FtVy0xczc5N2JvT2dCR1pVcXNXS016dnVMZl9pVHlRUUxrWkdhaDdKTlJaWGxRa2lPYVRHRHBMS2Q3NjlaaXEzWG9TNU1FcGVRT0FCR29nbEJEYlpFcFN4ZmNhSWRuaWk5XzltR0NVSGRudEpuV1BhbUotLUlwRzlKSDV3ckM0cFJJaG5oMUgybDM3SEYyZ3BvbFNLYW0tYWc2ZC1YYk54WkFNZzBIR3V0dzZCOERpZndXREtPZElGcUE?oc=5"
         },
         {
-          "title": "MU vs. Nvidia: Which AI Chip Stock Offers More Upside Ahead of MU\u2019s Sept. 30 Earnings? - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HaHlhUFVxaE1QRUdpb0VpOVY1MDRFMjFwbE5fR1JWb281czBRSjB2Y0Zqa25SRHJ5ME9NcVFuSjhQZjBRZWVrcFhPVE9OYkJE?oc=5"
+          "title": "Meet the Quantum Computing Stock Growing Faster Than Nvidia - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3dqQnltY1RFOVhPTURRWVZmYWMzUUhHWWpvR0FscTE2MkhGYlRsSzNveDBxVDNaeHlQRklyVXZ6bk11QzN3OFhKWkFPSHMweFFQWHlZd1Qya0tLQXRUTmhqNHlSNFFoNkRnVDlEREtYSno3MndlNFdjLU1Xbm8tUmFYaXlFUFQwc2RNZ2FvNVRRT1ZWSVQzSw?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.79,
-      "weekAgoPrice": 4.800000190734863,
-      "percentChange": -0.21,
+      "weekAgoPrice": 4.849999904632568,
+      "percentChange": -1.24,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.82,
-      "weekAgoPrice": 7.900000095367432,
-      "percentChange": -1.01,
+      "weekAgoPrice": 8.130000114440918,
+      "percentChange": -3.81,
       "flagged": false,
       "news": []
     },
@@ -59,24 +59,24 @@
     {
       "ticker": "3182.KL",
       "currentPrice": 1.88,
-      "weekAgoPrice": 1.940000057220459,
-      "percentChange": -3.09,
+      "weekAgoPrice": 1.9700000286102295,
+      "percentChange": -4.57,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.37,
-      "weekAgoPrice": 1.340000033378601,
-      "percentChange": 2.24,
+      "weekAgoPrice": 1.350000023841858,
+      "percentChange": 1.48,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.31,
-      "weekAgoPrice": 1.2899999618530273,
-      "percentChange": 1.55,
+      "weekAgoPrice": 1.2699999809265137,
+      "percentChange": 3.15,
       "flagged": false,
       "news": []
     },
@@ -91,16 +91,16 @@
     {
       "ticker": "5352.KL",
       "currentPrice": 1.19,
-      "weekAgoPrice": 1.1399999856948853,
-      "percentChange": 4.39,
+      "weekAgoPrice": 1.1799999475479126,
+      "percentChange": 0.85,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.72,
-      "weekAgoPrice": 0.7699999809265137,
-      "percentChange": -6.49,
+      "weekAgoPrice": 0.7850000262260437,
+      "percentChange": -8.28,
       "flagged": true,
       "news": []
     }
