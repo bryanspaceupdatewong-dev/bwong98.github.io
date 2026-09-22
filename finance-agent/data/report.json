@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-22T13:17:04.099221Z",
+  "generatedAt": "2026-09-22T14:16:34.469774Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 501.61,
-      "weekAgoPrice": 505.4100036621094,
-      "percentChange": -0.75,
+      "currentPrice": 498.94,
+      "weekAgoPrice": 497.1199951171875,
+      "percentChange": 0.37,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 227.38,
-      "weekAgoPrice": 210.9600067138672,
-      "percentChange": 7.78,
+      "currentPrice": 228.415,
+      "weekAgoPrice": 212.1699981689453,
+      "percentChange": 7.66,
       "flagged": true,
       "news": [
         {
-          "title": "Chip Trillionaires Club: Only One Clear Buy Among NVDA, AVGO, MU, AMD - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTG5rRUdvZGNScmVtbldISzMwbGN0MmNXRXE1dVJlanhlb2lDVmI0eXlqUU10Zmp1WXAzUEVGVklZd0N5N2pxSEpHd2NsdENPVmxhQTBfemFmc3l0X1U3UFBKTDNXWTJGMVBPU2FDN0hQd01OYjhsc25DenpoMF9sQUVGY0oxN0ozZnBMRnFuT2tDQnVXRldnQm45WV9jUQ?oc=5"
+          "title": "Nvidia stock valuation hits decade low despite profit boom - qz.com",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wTU9NWm9vVEdIODRhQVVkc0c0bjVnVF9BWENqY25YTUZOSDQzS1ZvdV8yTi1MMnlGdi10X09kY0lEZmphV3QyblZmVlEzQ2ZTWk9JcjlLdWVQMFZWUVFYQ2RPWlIwM2VqSE9HVm9PVzdXdw?oc=5"
         },
         {
-          "title": "Nvidia Stock: Trucks, Tokens, And A 28x Multiple (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFZxYkJmbU5UcDBQbG9QMkFrNWRqZkFmRDFBV2JjRXVibVp4dlYxTFQtcUNTaTh1dGM2dmxSZTdsdHpQQjUtbDNGLU5NTFY1dWlQWTUzZFE0SmlOWGxqbmliOU1FbzJBdnZQdG1ETHJNN1pvVWNYaVNuNFVvMldfY3Iydy1YQlU?oc=5"
+          "title": "QUICK SPARK: Wall Street Is Moving Nvidia Onto Crypto Rails. 24/7 Trading Is Next - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPekUtOVNkcnZIRmlFRkN4Q3JIcDVZU05vMWZGVTVUYTA2NUVOVTA3ZkZfbUNiM0ExU0pCVTB6WTZJMHRsWEY1NDhvOGVUN2lPZ2M1c3NudkJSRWxOQ0VqNmdIVURHSWFEOFA3WlVUN3N6WnBCUnA0WGk4T2pnUWpqb3hndmE1eHAxLXRQUjBuMFc5LWM?oc=5"
         },
         {
-          "title": "Nvidia Stock Is Building An AI Empire Rivals Cannot Replicate (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVppbVJudldxbVJYaDR3b21lcmp6YTFKeFNuM1NNTVUxcldzZXFrUWVFUGdwZDFXY2pZNVdQb2lmanlWRmJJZjFkSFFVbXp2ZGpFSFRsQlpqMXZ5SHg2RjdEY3VHYjJReTExZ1BoYnlnQkpJYkRmQkZFY1VSd3hfeTNaaUhsWkMtMjJhOVRtbEExUHk5eWotRzRLSE8?oc=5"
+          "title": "NVIDIA Corporation (NVDA) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmNsenBBenpZNXJtYjNib244NXF2NnpRZ2dGb0F2UGNBeldqZjlidTd5VFFQMDdIMU9QQUcxUFdRWkEwMFk2MXAtc0I2WHJYWVhyd0FNWExSLVVDN05kN241SEY2VTMybkdxMjAyV01PYTFsNThYWjFrMkpXWmlUcUlISTRDTDlKTTVTZFVNSEs1U0dkc19jLVpfM0JpclhYaVl6U3pn?oc=5"
         }
       ]
     },

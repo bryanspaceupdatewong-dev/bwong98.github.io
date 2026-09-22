@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-18T16:16:30.052264Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7900000214576721,
-        "percentChange": -8.86,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-18T17:15:49.714921Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1433,6 +1419,41 @@
           {
             "title": "Nvidia Stock Is Building An AI Empire Rivals Cannot Replicate (NASDAQ:NVDA) - Seeking Alpha",
             "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVppbVJudldxbVJYaDR3b21lcmp6YTFKeFNuM1NNTVUxcldzZXFrUWVFUGdwZDFXY2pZNVdQb2lmanlWRmJJZjFkSFFVbXp2ZGpFSFRsQlpqMXZ5SHg2RjdEY3VHYjJReTExZ1BoYnlnQkpJYkRmQkZFY1VSd3hfeTNaaUhsWkMtMjJhOVRtbEExUHk5eWotRzRLSE8?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.21,
+        "weekAgoPrice": 1.1299999952316284,
+        "percentChange": 7.08,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-22T14:16:34.469774Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.415,
+        "weekAgoPrice": 212.1699981689453,
+        "percentChange": 7.66,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia stock valuation hits decade low despite profit boom - qz.com",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wTU9NWm9vVEdIODRhQVVkc0c0bjVnVF9BWENqY25YTUZOSDQzS1ZvdV8yTi1MMnlGdi10X09kY0lEZmphV3QyblZmVlEzQ2ZTWk9JcjlLdWVQMFZWUVFYQ2RPWlIwM2VqSE9HVm9PVzdXdw?oc=5"
+          },
+          {
+            "title": "QUICK SPARK: Wall Street Is Moving Nvidia Onto Crypto Rails. 24/7 Trading Is Next - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPekUtOVNkcnZIRmlFRkN4Q3JIcDVZU05vMWZGVTVUYTA2NUVOVTA3ZkZfbUNiM0ExU0pCVTB6WTZJMHRsWEY1NDhvOGVUN2lPZ2M1c3NudkJSRWxOQ0VqNmdIVURHSWFEOFA3WlVUN3N6WnBCUnA0WGk4T2pnUWpqb3hndmE1eHAxLXRQUjBuMFc5LWM?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation (NVDA) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmNsenBBenpZNXJtYjNib244NXF2NnpRZ2dGb0F2UGNBeldqZjlidTd5VFFQMDdIMU9QQUcxUFdRWkEwMFk2MXAtc0I2WHJYWVhyd0FNWExSLVVDN05kN241SEY2VTMybkdxMjAyV01PYTFsNThYWjFrMkpXWmlUcUlISTRDTDlKTTVTZFVNSEs1U0dkc19jLVpfM0JpclhYaVl6U3pn?oc=5"
           }
         ]
       },
