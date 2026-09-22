@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T01:16:01.564682Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7850000262260437,
-        "percentChange": -8.28,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-21T01:23:09.865136Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1654,6 +1640,41 @@
           {
             "title": "Nvidia's Falling Stock Price is Raising Worries About Profit Growth Prospects - marketscreener.com",
             "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd3hrZXRmbkRsd2RiZjY2LXMtVzk0bGlodkJqVDQ5dDdGNDMzTGpzcDBGNHBBMzZzcTF6X2tyc3FhbDBEX1E4Q2JwU05xR05xME5QSkVEam9YT3JBeDM2QVJvUVB6MjhaN3UyVFg3dkVLQm94Z3BTOFZYT2ItZm82MHBDZHVBRFFCaG5GSHdKUzRSMUhHNFlkakJIQXVrcDVNNEJtMk9TVVFWc0R2TjRidmRwa1NrUFl4Uk1XTExiQmZlTmlGWVlYVXJ3?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.21,
+        "weekAgoPrice": 1.1299999952316284,
+        "percentChange": 7.08,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-22T21:16:13.454356Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.87,
+        "weekAgoPrice": 212.1699981689453,
+        "percentChange": 7.87,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy? - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaHl2Z203cWxhVVFjNE9aT19vQkx4bmYwR0lPVW40Z0UtcmZKZFN1eGI4cjlaWGNIX05VQTlPSVBpZEV5d0YzODB3ekRJdnpaMTdKd091UmVBT05qWC1QRnpHV21yYkpKaHhwMHJtVWpuZUJmQnlNc0ktcm5BZ3dWREEzZ3lNd3NiNlllZG9SMlU1SHR2LTgxU3AyakRPcVQ2cmlMaW96TG1xSlFvMThWbFQ4dF9Ub2JkQ25YekpxeG5Fdkh6ZDA3SXhfMVdySkN6dkdkVFZjQWVWZE0xeEhkZGxjMEZhSTJ3?oc=5"
+          },
+          {
+            "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0p2eFY5bmR3aWttNFRYRHk0N2tjSkRBeHE4Y2JJLTNVZ1FWRkJueWkzbXR5c3VNNG9tcmlxWEZNQlR1SEZEei0wLVVSSkVXZHA1YUVoYnVSV1JYSDlpb2s3TjB4ckFZX2JIOG1oSEhUQkU5aFNURkU3UnhWQk9RWUVBUnBPd0ZrNW4wYXc0RWhKYmRST3h5RjJVSGxnM1ZjbF8yVy1wS2J6Vm5yTWFldw?oc=5"
+          },
+          {
+            "title": "NVDA Stock Eyes $236 Record High as 2027 NVIDIA Growth Forecasts Rise - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2tMNGJnT3oxY05PWW5qWUI4emFseXluUjdyUXRBUWlaRGJYMVh6cWVQZVdOYWhFbW5RXzlJM2p5YmhHUlRZQkxCbVNYWm1oaUxzbmc1VjkxWnYxNW5fLU45eHd4UVhMNXl0YlE3Y1A1WDVScWFEcE9oT1RUcUNwX291Y2dVWWUwR3dkN2NodTBaMTVDb0g2YlliZ3Y1Mjdha21iYkVxd1l6bUZlYVViVA?oc=5"
           }
         ]
       },
