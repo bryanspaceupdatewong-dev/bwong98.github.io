@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-18T08:16:33.117499Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.725,
-        "weekAgoPrice": 0.7850000262260437,
-        "percentChange": -7.64,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-18T09:16:11.495945Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1270,6 +1248,49 @@
           {
             "title": "3 AI Stocks With P E Up To 29 - simplywall.st",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1RTZHozMlV5VkhZZlRyTlZEOUhLRU8tYkM0Ym5RQXFFTzJPakh3Yk1zLVZvU0NpLThNM0kySjlZeWUzSFF3STNsb2ZmTVlpNUw5cmhXN09UbHhoblFONllsWnl4WDR2ZFFjdTlqdy1PbkR4M0tnNi1Tc1Z0M0pPbVpVeXhOM0d6NXRKMWxIWmhiM3pKNjROV0VuLTZYMDNTWEHSAacBQVVfeXFMUEpXTjR0eFBYSlNKVDA2R19ibGYza2s1Y1RHaVVqSTF5RHpKUHVUN3pXNE55UEMzZUFuRzhoQ0xTMDFFNEpDQzhDcjdOV1FwNkotWk52MDFndEJKN2tZcUR3ZGVZSVl4Y1lfQWE3NW80dFFReFd0SEJhZUlxbUVFYllNelZhMktkenlHLUZKaWxxR3czMTgyR1dTaGxEbU9qaEZjN0s1RG8?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.21,
+        "weekAgoPrice": 1.1299999952316284,
+        "percentChange": 7.08,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-22T07:16:19.924332Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 227.38,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 7.78,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Choreo LLC Has $187.10 Million Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc29qX1FzbTB0WnRMYml4QjdMNFFrdUtLUFZDU0oyeFRzZjB3cmpIdU1sdUprQkZBNHJZVHJxcW9nYWlwZk41c1NLcUtBNFZLVGs4VGd0c0JoMjhJbHVvNkZJdXBGVUxpQk1jdUQzZnhJU2s0TXlvTHk5blpQT2tWbkpZYjdTU3lPSmpuckJrUVdzeFVXMnlkVGtLcTdWYTFZQjZDR290UjE0RW9FWVppQTJZWTNMaTRrcWRJSnQ2VlZzSk9TcXk0TzdSdw?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Shares Acquired by Ascent Group LLC - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdjhONVpiaW1aSWZDaVhHcTJ4MlI2R0VvNkRsQUhCbW9UMllnWm53b1pmQ1g1c0VHcDY2SzFDM09xUHJ4a0U2bGt3X0hPTW9QbkV4YXdoU1lrWWx5YmM5YldEalp4RGxReVdkTlhmM2ZxeG9IdFZ5cmZXc0hPTWUzWWVFNzk4RlZmRGJ0V19pWHBxNHhTQkJKZWVmUXQwanNyQkxMcHhfZWpHRDBRNHNQNHlTcEUzbXFHUjZGbg?oc=5"
+          },
+          {
+            "title": "Not Micron. Not Alphabet. Here's My Top Artificial Intelligence (AI) Stock Pick for the Next 3 Years. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGdURXFrNW1oN0pRM0Z6Z3Y3YmpFaXEyaHFiRDVCS1lYSFR0Y0MtSGJoeUk4Zmdud3ZUNzY4QUNEQTJkV1VJT2dVMGpDd2FEMndwVmxKVzJVVTkzVE05dkNRam9KMFlCOXh6S0VLN0hEaWM3ODUxamJuTUplS3hWUGNWMVlwVENiaHFpN2pRbnFjeVpISWg5VA?oc=5"
           }
         ]
       },
