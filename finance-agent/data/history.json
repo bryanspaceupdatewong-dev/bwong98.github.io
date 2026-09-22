@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-18T11:15:59.065685Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7850000262260437,
-        "percentChange": -8.28,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-18T12:17:38.941577Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1343,6 +1329,28 @@
             "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNlh4ZUFTa0xKMWRzcV9RcFpjdEVfSFJ2ZWhWU2RyQlAzNVh6bUdnQi1ySVoxZm9MbTd1M2JUZ3YwSVhxLWQ4SVM1WFdVLXZFOEpSMng2U3dya2dTalpwS0dSUEtSdGdxcEhkR2k1VXNpbmRVbW9BUkxHTk9HMnV2czZ4QUt1cFNCS0paUUQ0SmhBZG5ETnNsZXd5eG9SaFdYczJ4ZWp3UlZ6dzA5SDNMRFVpM1N4TmNOM0lZLWw4MlBhSzhkMlBUcA?oc=5"
           }
         ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.21,
+        "weekAgoPrice": 1.1299999952316284,
+        "percentChange": 7.08,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-22T10:15:52.243682Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 227.38,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 7.78,
+        "flagged": true,
+        "news": []
       },
       {
         "ticker": "5352.KL",
