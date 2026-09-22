@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T07:16:19.924332Z",
+  "generatedAt": "2026-09-22T08:15:51.806960Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Choreo LLC Has $187.10 Million Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc29qX1FzbTB0WnRMYml4QjdMNFFrdUtLUFZDU0oyeFRzZjB3cmpIdU1sdUprQkZBNHJZVHJxcW9nYWlwZk41c1NLcUtBNFZLVGs4VGd0c0JoMjhJbHVvNkZJdXBGVUxpQk1jdUQzZnhJU2s0TXlvTHk5blpQT2tWbkpZYjdTU3lPSmpuckJrUVdzeFVXMnlkVGtLcTdWYTFZQjZDR290UjE0RW9FWVppQTJZWTNMaTRrcWRJSnQ2VlZzSk9TcXk0TzdSdw?oc=5"
+          "title": "Suncoast Equity Management Trims Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNFkxSjJKMnAyRDhEa3JfRnl6RXV6bkZpelpWR2ZuUlB3WGlWMWp4aVJpRVJMTXFnXzZITl8wVy1TLUhSWDRXbGNCbmt1TGR4UzBNMTN3b3B2WjUzQ0ZkNzFveEZESDZCSDFSZkU2dnJEUURxX0lHak1uOS1mc2NCaVc0Q1I3eE9oUEtOcnZuV2xjemNDekR0MWpZeWJBNUJoNXc4MHFMZGFpY1R2bC1wR2ViZWlVeEs4elF3cHotVl95Q0dNM0tLeHR6UU5aTnZk?oc=5"
         },
         {
-          "title": "NVIDIA Corporation $NVDA Shares Acquired by Ascent Group LLC - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdjhONVpiaW1aSWZDaVhHcTJ4MlI2R0VvNkRsQUhCbW9UMllnWm53b1pmQ1g1c0VHcDY2SzFDM09xUHJ4a0U2bGt3X0hPTW9QbkV4YXdoU1lrWWx5YmM5YldEalp4RGxReVdkTlhmM2ZxeG9IdFZ5cmZXc0hPTWUzWWVFNzk4RlZmRGJ0V19pWHBxNHhTQkJKZWVmUXQwanNyQkxMcHhfZWpHRDBRNHNQNHlTcEUzbXFHUjZGbg?oc=5"
+          "title": "NVIDIA Corporation $NVDA Shares Sold by Old Peak Finance LLC - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWS13WXllTHBqSHE4RDZHZTBpRkVLLW9kRkZOa0tZVmdEcTVXLS1CS1RCc0pWUWpLaVByZS1jVE5ueWxfZTdwMkI3c2tZclROMTI2VVhYUHVfa1ZuSnRYdmF3T3RUZ3hZT2UwM3ZyWmlQTldXWDRLVzllN194V3QtVHp3RXdmSVlaNk5hNTR3dHFLMVBzTy1oQkNlelBqWkVnaHNSUXBUMEp0aTRiM3AwUjkwWkhwWFh0TnVuTQ?oc=5"
         },
         {
-          "title": "Not Micron. Not Alphabet. Here's My Top Artificial Intelligence (AI) Stock Pick for the Next 3 Years. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGdURXFrNW1oN0pRM0Z6Z3Y3YmpFaXEyaHFiRDVCS1lYSFR0Y0MtSGJoeUk4Zmdud3ZUNzY4QUNEQTJkV1VJT2dVMGpDd2FEMndwVmxKVzJVVTkzVE05dkNRam9KMFlCOXh6S0VLN0hEaWM3ODUxamJuTUplS3hWUGNWMVlwVENiaHFpN2pRbnFjeVpISWg5VA?oc=5"
+          "title": "NVIDIA Corporation $NVDA Shares Acquired by Willis Investment Counsel - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNlh4ZUFTa0xKMWRzcV9RcFpjdEVfSFJ2ZWhWU2RyQlAzNVh6bUdnQi1ySVoxZm9MbTd1M2JUZ3YwSVhxLWQ4SVM1WFdVLXZFOEpSMng2U3dya2dTalpwS0dSUEtSdGdxcEhkR2k1VXNpbmRVbW9BUkxHTk9HMnV2czZ4QUt1cFNCS0paUUQ0SmhBZG5ETnNsZXd5eG9SaFdYczJ4ZWp3UlZ6dzA5SDNMRFVpM1N4TmNOM0lZLWw4MlBhSzhkMlBUcA?oc=5"
         }
       ]
     },
@@ -42,17 +42,17 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.91,
+      "currentPrice": 7.9,
       "weekAgoPrice": 7.829999923706055,
-      "percentChange": 1.02,
+      "percentChange": 0.89,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.52,
+      "currentPrice": 1.51,
       "weekAgoPrice": 1.5199999809265137,
-      "percentChange": 0.0,
+      "percentChange": -0.66,
       "flagged": false,
       "news": []
     },
@@ -66,9 +66,9 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.38,
+      "currentPrice": 1.39,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": 0.73,
+      "percentChange": 1.46,
       "flagged": false,
       "news": []
     },
@@ -90,20 +90,20 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.21,
+      "currentPrice": 1.22,
       "weekAgoPrice": 1.1299999952316284,
-      "percentChange": 7.08,
+      "percentChange": 7.96,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.71,
+      "currentPrice": 0.715,
       "weekAgoPrice": 0.75,
-      "percentChange": -5.33,
-      "flagged": true,
+      "percentChange": -4.67,
+      "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 2
 }
