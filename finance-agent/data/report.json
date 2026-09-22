@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T04:16:02.701145Z",
+  "generatedAt": "2026-09-22T05:15:55.565972Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "BABA Stock Spikes Overnight: Alibaba Takes On Nvidia With China's Most Powerful AI Chip Yet - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWtmNDd1X1RIQ2Q1ZE05NFVFT0R0Q21mYmlZS2dhOTg2NHRrTUhvOURxR24yQVBET1U2eTZzc0lXMUVPbkkzbkRlTVZXbTN3NHNvRkcxQVJ1TXZweGNWeDJ6S0N4NVpDZzliTF9FYXplZU1yQkFTOVpiMkFpWFRCWkk0VV9ZYmZIX3paUDRaUVNXQlBmT0RQbXRSS1lwMktJ?oc=5"
+        },
+        {
           "title": "3 AI Stocks With P E Up To 29 - simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1RTZHozMlV5VkhZZlRyTlZEOUhLRU8tYkM0Ym5RQXFFTzJPakh3Yk1zLVZvU0NpLThNM0kySjlZeWUzSFF3STNsb2ZmTVlpNUw5cmhXN09UbHhoblFONllsWnl4WDR2ZFFjdTlqdy1PbkR4M0tnNi1Tc1Z0M0pPbVpVeXhOM0d6NXRKMWxIWmhiM3pKNjROV0VuLTZYMDNTWEHSAacBQVVfeXFMUEpXTjR0eFBYSlNKVDA2R19ibGYza2s1Y1RHaVVqSTF5RHpKUHVUN3pXNE55UEMzZUFuRzhoQ0xTMDFFNEpDQzhDcjdOV1FwNkotWk52MDFndEJKN2tZcUR3ZGVZSVl4Y1lfQWE3NW80dFFReFd0SEJhZUlxbUVFYllNelZhMktkenlHLUZKaWxxR3czMTgyR1dTaGxEbU9qaEZjN0s1RG8?oc=5"
         },
         {
-          "title": "Nvidia's Forecast Assumes No Data Center Chip Sales to China. The Sept. 24 U.S.-China Summit Could Change That. - The Globe and Mail",
+          "title": "Nvidia's Forecast Assumes No Data Center Chip Sales to China. The Sept. 24 U.S.-China Summit Could Change That. - theglobeandmail.com",
           "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOcFNSU3I2d2FfbmFTeThnQnUwaVZQSEVRbmNiU0hhUUNJRXpneGhoZnFad1JKYmFMbDg3amRYUVBucGczcm5TSXBhNlo2VzRMdG42cnRCclJFbTYyUU5iR2xGUjJMVVByTXlZNE9LbDhPM0pwVHZRamVmWnh5ZjVOcFB4UVU0YkZfZGI2ODZGRmNuRWtxTnBLV2dDRWNWaktvbEpOYndvT0tISVhneDJ4SV9jQmhTZGplYnJ6MGhzLWRpeFF2MjBGOTlYRWRNal9RdDktZjdGQVVfa1NYdEZYTEY5Q2hpWlhjRm5adnBVYmtJVl80ZVRlbDVGNXFLUzRmeXkzeTFOeWpaRU1rak1mVDcyYlo0SklBemp5NElJNA?oc=5"
-        },
-        {
-          "title": "TSLA Stock Hits Nearly 3-Week High: Nvidia Win Adds Muscle To \u2018Physical AI\u2019 Pivot Despite Optimus Delays - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUDRkaTF0OVFVNGtvd1pqektkY2c0aUtLZWpKdURFek5wWFNfMFJHd3NVLUl4SnppM3A5c0U4bEpvWE5USW4ySjdsTnFpd2dpOUhqb1JlaEF3UnhlQ3Btbi1qOE5SZHJPSy0zaU9LWDRKNTN3UmFlWEQ3eTF1OEVkRHhQQUpRX05XNk5kaTVaMU56QXNnWDV4b2Q1TFhqN1BzQ0UwaUM2UWdoc2Y5Zl9tUjk5aE9LeERQSGQyZTZfQ1ZzS3FhaktZUGItMjFsNGkzN1RoU2VIMFIzS01tY1hnUVBiMDc0bVUtMFNaMnhxcEptYlVl?oc=5"
         }
       ]
     },
@@ -42,9 +42,9 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.89,
+      "currentPrice": 7.91,
       "weekAgoPrice": 7.829999923706055,
-      "percentChange": 0.77,
+      "percentChange": 1.02,
       "flagged": false,
       "news": []
     },
@@ -58,17 +58,17 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.92,
+      "currentPrice": 1.93,
       "weekAgoPrice": 1.9199999570846558,
-      "percentChange": 0.0,
+      "percentChange": 0.52,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.38,
+      "currentPrice": 1.39,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": 0.73,
+      "percentChange": 1.46,
       "flagged": false,
       "news": []
     },
@@ -82,17 +82,17 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.2,
+      "currentPrice": 0.195,
       "weekAgoPrice": 0.20499999821186066,
-      "percentChange": -2.44,
+      "percentChange": -4.88,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.19,
+      "currentPrice": 1.21,
       "weekAgoPrice": 1.1299999952316284,
-      "percentChange": 5.31,
+      "percentChange": 7.08,
       "flagged": true,
       "news": []
     },
