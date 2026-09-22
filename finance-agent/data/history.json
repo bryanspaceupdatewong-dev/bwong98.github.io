@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-18T17:15:49.714921Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7900000214576721,
-        "percentChange": -8.86,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-18T18:19:35.196814Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1454,6 +1440,41 @@
           {
             "title": "NVIDIA Corporation (NVDA) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmNsenBBenpZNXJtYjNib244NXF2NnpRZ2dGb0F2UGNBeldqZjlidTd5VFFQMDdIMU9QQUcxUFdRWkEwMFk2MXAtc0I2WHJYWVhyd0FNWExSLVVDN05kN241SEY2VTMybkdxMjAyV01PYTFsNThYWjFrMkpXWmlUcUlISTRDTDlKTTVTZFVNSEs1U0dkc19jLVpfM0JpclhYaVl6U3pn?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.21,
+        "weekAgoPrice": 1.1299999952316284,
+        "percentChange": 7.08,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-22T15:16:09.895256Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.6,
+        "weekAgoPrice": 212.1699981689453,
+        "percentChange": 7.74,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Huawei Is Ramping Up to New Chips in 2027. What That Means for Nvidia Stock Now. - Barchart.com",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0tQNl9iNXNranZ5N1NsWjJiTjhQcG5QWXhDdV9fekZTNl9aaEZrbWF0SER5Y3ZkbDhMcDdMX3owVF9WalNlYUVVREdvbGI0Vk5yRjlDQkFuWXdrUlhnaEpTSDA0RGlBTEl2dUZfYk9ET1lkTlNmRmNaWlFIN2dtcmFkQ2xiT2drRmRfLUs4MUdqOHZtaHE0d21tT3BDU2l5THRWeUI3Sk1DbVNuUk9IbFk4blNQOGoyU2ZKdHEzSQ?oc=5"
+          },
+          {
+            "title": "Can Apple Overtake NVIDIA as the World's Most Valuable Company? - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUTBEOHJpbTBXN2ttZWpHcDFDSnc1ZVlENEF2b1J4SXhZVW43LXMxeGtWOGtUZktaUl9VcnExeGxNTUNTZjRiZ1NlaEE2bWllZzg4TldvSlpidE04RG9YdFdnR05pVXBqNjBUWFhXN2h4UXFBTXZUTnZlQnZGd2ZlYlJaT0JDRDlzOGM0VGxnX1BXWF9XSUhKQ2x2WTQyYWM?oc=5"
+          },
+          {
+            "title": "Nvidia stock valuation hits decade low despite profit boom - qz.com",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wTU9NWm9vVEdIODRhQVVkc0c0bjVnVF9BWENqY25YTUZOSDQzS1ZvdV8yTi1MMnlGdi10X09kY0lEZmphV3QyblZmVlEzQ2ZTWk9JcjlLdWVQMFZWUVFYQ2RPWlIwM2VqSE9HVm9PVzdXdw?oc=5"
           }
         ]
       },
