@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:15:52.243682Z",
+  "generatedAt": "2026-09-22T11:16:43.212859Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -17,7 +17,20 @@
       "weekAgoPrice": 210.9600067138672,
       "percentChange": 7.78,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Why Nvidia Stock Didn\u2019t Get a Meta Boost - barrons.com",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtQnRkVGpuNWs0d2s5WnpaOW1TUTBMMHd2Q0thbF90R1dKZ1FJcFVqZUw5WmNYNnUxN2dsU1ZtcnRlX1JrLWlSOFluMlZWS0FpRlBOcVUtYTd4N0FLcXp4eUwxUXlfQkhkTmh6Z0R3ZTAxOWo2aTU3eg?oc=5"
+        },
+        {
+          "title": "Bull of the Day: NVIDIA Corp. (NVDA) - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZFVqNlJXMTRoemItb2luSFNIcXlacllnZDlqdkhjS1lrVS1KcDRLWEo5QnlhdEpGMzAyQ2N3VGZ3YllKU2FISkZzVEItRzFENDFodWNiMHJRaW9taThHRG9uZ3JLa2d5MU9wZGJFMm9qVUFQWkRSRmtjeTJIdmlxYU9BMmcxck9ycGZuZlAyUXFqcy1O?oc=5"
+        },
+        {
+          "title": "Nvidia\u2019s Stock Is Flashing a Warning Sign as Valuation Falls - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVB0djBZRHItdW9ub3BCOEFrUGtQZlhfNmEwXzdhR1dVU3BuX0ZFRmNvOXcxMUlBMUtEb3dxWVd6cURqbkV3dXcxMWR3WUo2MTBkZDdETWJWWGNnWk0wNk9ZVGw5N2VRVTQ2ZWVtSUJBeWpGXzZsOUJSbzNsX1lJZ1g5dDRKS3JFb29UX0JwSWs4a3FxVlJmd21pSE9nRHB2?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
