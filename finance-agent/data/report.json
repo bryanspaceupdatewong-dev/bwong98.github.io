@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T02:15:55.434606Z",
+  "generatedAt": "2026-09-22T03:16:08.214943Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -27,32 +27,32 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GaVMwUUxRVjJNSnVkLVVOM0NQN2lmQlZraUpCU3JQRTFlN3BGdTRVUXZXck5DeDM0RmpvbS1IcktTcUFjVHdDOHdZNUp2cmh4MUQ2MUtBV3Y0U3EtUENyRUVwaUZ2dkg3dHZVR1Bicm1PM291YnZ1MkFfODVDRVE?oc=5"
         },
         {
-          "title": "$500 a Month in Nvidia Stock Since ChatGPT Launched Is Now Worth About $79,000 - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYTFfWjJNUDltOGJ2S0U1NU1ZTktFUnVpSmhESlhWZUNWbUNSLXVja0hvQUJPcF9IS0Mwa3dsRHoyeHNtanBYaExKeTdkbkdWZGZ2TlJUU1BMdVdMMElkMzZ5YWd1cDdVOGZCR0tVaXFfTUlhUUpxMEVEVG1xTlB4NWVENEczWWlaWUFvaWFwMGxKYXl0MDY5ckM0bjRWQ2poLVlDUkxWRXRjczUyRENuV0s0emVYdkpiMGFMRkw4eTZmNGJKTTJ5elFrZllNdGdtV2Z5eGlaWHU1TTdZUEcwOHg0a2Jha2o2UW82cDJiUXl0UQ?oc=5"
+          "title": "$500 a Month in Nvidia Stock Since ChatGPT Launched Is Now Worth About $79,000 - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa0p4NEpTSHhYaXU4QXpYemlqX2VmTTB2NE1ZQ0d5NGhzSmRBcGlnRmFQWUpoVU90YjQtWkZ1Z19DdnkzX29McjFwVkgzUTYzNHh5V3FJX1pSNjdIVlNNN0s1SFNUa1Y4RzIteERfYm9FQnFDTjdCbllSRE5vVjhiWTBubkpnc2daWmI3T01MZGNKeTFuSUlwaXVGMnMzXzVfb1JNcTFxcmlKU001Tk5hbk1jNDlqWmpwRzdHeGhITFIycEE?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.82,
+      "currentPrice": 4.83,
       "weekAgoPrice": 4.849999904632568,
-      "percentChange": -0.62,
+      "percentChange": -0.41,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.83,
+      "currentPrice": 7.85,
       "weekAgoPrice": 7.829999923706055,
-      "percentChange": 0.0,
+      "percentChange": 0.26,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.48,
+      "currentPrice": 1.49,
       "weekAgoPrice": 1.5199999809265137,
-      "percentChange": -2.63,
+      "percentChange": -1.97,
       "flagged": false,
       "news": []
     },
@@ -66,25 +66,25 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.39,
+      "currentPrice": 1.38,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": 1.46,
+      "percentChange": 0.73,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.31,
+      "currentPrice": 1.29,
       "weekAgoPrice": 1.2899999618530273,
-      "percentChange": 1.55,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.2,
+      "currentPrice": 0.195,
       "weekAgoPrice": 0.20499999821186066,
-      "percentChange": -2.44,
+      "percentChange": -4.88,
       "flagged": false,
       "news": []
     },
@@ -98,9 +98,9 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.72,
+      "currentPrice": 0.715,
       "weekAgoPrice": 0.75,
-      "percentChange": -4.0,
+      "percentChange": -4.67,
       "flagged": false,
       "news": []
     }
