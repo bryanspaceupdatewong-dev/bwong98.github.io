@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-18T21:16:04.393218Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7850000262260437,
-        "percentChange": -8.28,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-18T22:16:11.792730Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1554,6 +1540,49 @@
           {
             "title": "Nvidia Price Prediction: Wall Street and Our Model Finally Agree - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejVaUG9xcTAzRTNWbWp2cHcyMW42RnphUHphMFZqR05GZkZ4YXEwTEM5d1dxX1N3VTRBenhmd0xVLXhuSXFEVGxzS3RUaG5sR1dOVXVjWktuN3NYQXlJRFBfeUdGV3dNVTB5UGdVOGNNTVQ2eGNxN29JVHdPd2pqQ1ZfUm5FMmRsQ3NhVVJTUHVRd1c2akxXbFR2MnBsTEYzdGc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.21,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 6.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.715,
+        "weekAgoPrice": 0.7699999809265137,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-22T18:15:48.491358Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 229.17,
+        "weekAgoPrice": 212.1699981689453,
+        "percentChange": 8.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Is NVIDIA Funding Its Own Stock Rally? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQlBBYkJmQkVtLUU4WXpYMDUxV25hOXgwTlBrV2thVWw2dG5SRW80Ukg2R3luUERmOTMwVUtnM2p1U2tObHc3em9mRV9QajJjUGxGN1RrdFQ1ZXpaUkRJbUhVS2lvUmp0d2hTby1QWlJPcHBxbEFIamJuT0YwZ21LbWZpUi1fakE0ZnBZMXZVdHN3LVR2NVRiZmc1b1VsVHc?oc=5"
+          },
+          {
+            "title": "AMD Stock Vs Nvidia: Biggest 2026 Lead Of The AI Boom - Meta Platforms (NASDAQ:META), Advanced Micro Devi - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmgwako3RjFpV0k3a3M5YWs5Z1VWQXpSbUZRVTdwZmtuMFlCQWZQYWxPV1lDMzZ2bldQLUZVRng5aWQtRVZJVkppMGRuUllBQ0tpcHNJWVpTTG9pZGI0VE4xZU95QXZpWDVMb0VjckRBSkplLVhGbTJKYVdiMHJUc0hmbHdzNkw0eExONUlJOW80bjBlUjRpTXprYnViYkwxUm5Jd0lnU3AtSE0?oc=5"
+          },
+          {
+            "title": "Nvidia\u2019s stock is flashing a warning sign as valuation falls - The Edge Malaysia",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IZ2w3dk5PVDNrSGdESnN3MFFjb0wzWC00X2pnMm1veHRzM2JQWUVnbVJLNFpmaVFhTS03OG44Nl9JbUJXbk1vWW44SmNtVmZX?oc=5"
           }
         ]
       },
