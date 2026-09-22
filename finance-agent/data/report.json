@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-22T19:16:09.293440Z",
+  "generatedAt": "2026-09-22T20:16:05.177095Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 498.07,
+      "currentPrice": 498.0,
       "weekAgoPrice": 497.1199951171875,
-      "percentChange": 0.19,
+      "percentChange": 0.18,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 229.65,
+      "currentPrice": 228.87,
       "weekAgoPrice": 212.1699981689453,
-      "percentChange": 8.24,
+      "percentChange": 7.87,
       "flagged": true,
       "news": [
         {
-          "title": "EXCLUSIVE: Nvidia Is a Stock And a Token \u2014 When \u2018Retail No Longer Distinguishes Between Ticker and Rail\u2019 - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0pnNEwtVDloT2hsdjNtUWxpVTJUMjlZaWhxMGlHS2h5Q2NLWjlRaEI3U2ZsRlNyUHBBTTE3V1RaTFI3TTZDc254NmdoR3FrbzRJRjlkUDQxZXdnVTc1X3JMZW5FMTNUeFRTOFpzTDdYWXc2MWNEWGRZNHZBWXFKcHpDZi1sdFJxUUk2Z0RLOEI?oc=5"
+          "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy? - fool.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0p2eFY5bmR3aWttNFRYRHk0N2tjSkRBeHE4Y2JJLTNVZ1FWRkJueWkzbXR5c3VNNG9tcmlxWEZNQlR1SEZEei0wLVVSSkVXZHA1YUVoYnVSV1JYSDlpb2s3TjB4ckFZX2JIOG1oSEhUQkU5aFNURkU3UnhWQk9RWUVBUnBPd0ZrNW4wYXc0RWhKYmRST3h5RjJVSGxnM1ZjbF8yVy1wS2J6Vm5yTWFldw?oc=5"
         },
         {
-          "title": "Nvidia Stock Missed the Meta Muse AI Rally that Boosted AMD. Here's Why. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1puN0F6SWNzblBfNE9nR2VPVzc0MEl3SlUySVRUTjFuTUtzdEo4RVRYbkIzcy1SdjluYk9HUFdjTXBjekc5UG5UZUZZVHVxM1hrVlByRXp3NVJGbUswVnpmYndCLWljQmh1OGoyUzlpNHFuYUN6LUZxU3RTdGhnRjJ5ZWRXcUU?oc=5"
+          "title": "NVDA Stock Eyes $236 Record High as 2027 NVIDIA Growth Forecasts Rise - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2tMNGJnT3oxY05PWW5qWUI4emFseXluUjdyUXRBUWlaRGJYMVh6cWVQZVdOYWhFbW5RXzlJM2p5YmhHUlRZQkxCbVNYWm1oaUxzbmc1VjkxWnYxNW5fLU45eHd4UVhMNXl0YlE3Y1A1WDVScWFEcE9oT1RUcUNwX291Y2dVWWUwR3dkN2NodTBaMTVDb0g2YlliZ3Y1Mjdha21iYkVxd1l6bUZlYVViVA?oc=5"
         },
         {
-          "title": "Is NVIDIA Funding Its Own Stock Rally? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQlBBYkJmQkVtLUU4WXpYMDUxV25hOXgwTlBrV2thVWw2dG5SRW80Ukg2R3luUERmOTMwVUtnM2p1U2tObHc3em9mRV9QajJjUGxGN1RrdFQ1ZXpaUkRJbUhVS2lvUmp0d2hTby1QWlJPcHBxbEFIamJuT0YwZ21LbWZpUi1fakE0ZnBZMXZVdHN3LVR2NVRiZmc1b1VsVHc?oc=5"
+          "title": "Nvidia's Falling Stock Price is Raising Worries About Profit Growth Prospects - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd3hrZXRmbkRsd2RiZjY2LXMtVzk0bGlodkJqVDQ5dDdGNDMzTGpzcDBGNHBBMzZzcTF6X2tyc3FhbDBEX1E4Q2JwU05xR05xME5QSkVEam9YT3JBeDM2QVJvUVB6MjhaN3UyVFg3dkVLQm94Z3BTOFZYT2ItZm82MHBDZHVBRFFCaG5GSHdKUzRSMUhHNFlkakJIQXVrcDVNNEJtMk9TVVFWc0R2TjRidmRwa1NrUFl4Uk1XTExiQmZlTmlGWVlYVXJ3?oc=5"
         }
       ]
     },
