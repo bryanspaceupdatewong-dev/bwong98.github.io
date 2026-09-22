@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-18T04:15:36.677509Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.73,
-        "weekAgoPrice": 0.7850000262260437,
-        "percentChange": -7.01,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-18T05:16:04.833946Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1197,6 +1175,41 @@
         "currentPrice": 0.72,
         "weekAgoPrice": 0.7699999809265137,
         "percentChange": -6.49,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-22T02:15:55.434606Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 227.38,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 7.78,
+        "flagged": true,
+        "news": [
+          {
+            "title": "TSLA Stock Hits Nearly 3-Week High: Nvidia Win Adds Muscle To \u2018Physical AI\u2019 Pivot Despite Optimus Delays - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUDRkaTF0OVFVNGtvd1pqektkY2c0aUtLZWpKdURFek5wWFNfMFJHd3NVLUl4SnppM3A5c0U4bEpvWE5USW4ySjdsTnFpd2dpOUhqb1JlaEF3UnhlQ3Btbi1qOE5SZHJPSy0zaU9LWDRKNTN3UmFlWEQ3eTF1OEVkRHhQQUpRX05XNk5kaTVaMU56QXNnWDV4b2Q1TFhqN1BzQ0UwaUM2UWdoc2Y5Zl9tUjk5aE9LeERQSGQyZTZfQ1ZzS3FhaktZUGItMjFsNGkzN1RoU2VIMFIzS01tY1hnUVBiMDc0bVUtMFNaMnhxcEptYlVl?oc=5"
+          },
+          {
+            "title": "NVDA THE STOCK TO GO - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GaVMwUUxRVjJNSnVkLVVOM0NQN2lmQlZraUpCU3JQRTFlN3BGdTRVUXZXck5DeDM0RmpvbS1IcktTcUFjVHdDOHdZNUp2cmh4MUQ2MUtBV3Y0U3EtUENyRUVwaUZ2dkg3dHZVR1Bicm1PM291YnZ1MkFfODVDRVE?oc=5"
+          },
+          {
+            "title": "$500 a Month in Nvidia Stock Since ChatGPT Launched Is Now Worth About $79,000 - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYTFfWjJNUDltOGJ2S0U1NU1ZTktFUnVpSmhESlhWZUNWbUNSLXVja0hvQUJPcF9IS0Mwa3dsRHoyeHNtanBYaExKeTdkbkdWZGZ2TlJUU1BMdVdMMElkMzZ5YWd1cDdVOGZCR0tVaXFfTUlhUUpxMEVEVG1xTlB4NWVENEczWWlaWUFvaWFwMGxKYXl0MDY5ckM0bjRWQ2poLVlDUkxWRXRjczUyRENuV0s0emVYdkpiMGFMRkw4eTZmNGJKTTJ5elFrZllNdGdtV2Z5eGlaWHU1TTdZUEcwOHg0a2Jha2o2UW82cDJiUXl0UQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.1299999952316284,
+        "percentChange": 6.19,
         "flagged": true,
         "news": []
       }
