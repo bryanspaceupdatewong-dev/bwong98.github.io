@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-22T18:15:48.491358Z",
+  "generatedAt": "2026-09-22T19:16:09.293440Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 497.03,
+      "currentPrice": 498.07,
       "weekAgoPrice": 497.1199951171875,
-      "percentChange": -0.02,
+      "percentChange": 0.19,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 229.17,
+      "currentPrice": 229.65,
       "weekAgoPrice": 212.1699981689453,
-      "percentChange": 8.01,
+      "percentChange": 8.24,
       "flagged": true,
       "news": [
         {
+          "title": "EXCLUSIVE: Nvidia Is a Stock And a Token \u2014 When \u2018Retail No Longer Distinguishes Between Ticker and Rail\u2019 - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0pnNEwtVDloT2hsdjNtUWxpVTJUMjlZaWhxMGlHS2h5Q2NLWjlRaEI3U2ZsRlNyUHBBTTE3V1RaTFI3TTZDc254NmdoR3FrbzRJRjlkUDQxZXdnVTc1X3JMZW5FMTNUeFRTOFpzTDdYWXc2MWNEWGRZNHZBWXFKcHpDZi1sdFJxUUk2Z0RLOEI?oc=5"
+        },
+        {
+          "title": "Nvidia Stock Missed the Meta Muse AI Rally that Boosted AMD. Here's Why. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1puN0F6SWNzblBfNE9nR2VPVzc0MEl3SlUySVRUTjFuTUtzdEo4RVRYbkIzcy1SdjluYk9HUFdjTXBjekc5UG5UZUZZVHVxM1hrVlByRXp3NVJGbUswVnpmYndCLWljQmh1OGoyUzlpNHFuYUN6LUZxU3RTdGhnRjJ5ZWRXcUU?oc=5"
+        },
+        {
           "title": "Is NVIDIA Funding Its Own Stock Rally? - Trefis",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQlBBYkJmQkVtLUU4WXpYMDUxV25hOXgwTlBrV2thVWw2dG5SRW80Ukg2R3luUERmOTMwVUtnM2p1U2tObHc3em9mRV9QajJjUGxGN1RrdFQ1ZXpaUkRJbUhVS2lvUmp0d2hTby1QWlJPcHBxbEFIamJuT0YwZ21LbWZpUi1fakE0ZnBZMXZVdHN3LVR2NVRiZmc1b1VsVHc?oc=5"
-        },
-        {
-          "title": "AMD Stock Vs Nvidia: Biggest 2026 Lead Of The AI Boom - Meta Platforms (NASDAQ:META), Advanced Micro Devi - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmgwako3RjFpV0k3a3M5YWs5Z1VWQXpSbUZRVTdwZmtuMFlCQWZQYWxPV1lDMzZ2bldQLUZVRng5aWQtRVZJVkppMGRuUllBQ0tpcHNJWVpTTG9pZGI0VE4xZU95QXZpWDVMb0VjckRBSkplLVhGbTJKYVdiMHJUc0hmbHdzNkw0eExONUlJOW80bjBlUjRpTXprYnViYkwxUm5Jd0lnU3AtSE0?oc=5"
-        },
-        {
-          "title": "Nvidia\u2019s stock is flashing a warning sign as valuation falls - The Edge Malaysia",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IZ2w3dk5PVDNrSGdESnN3MFFjb0wzWC00X2pnMm1veHRzM2JQWUVnbVJLNFpmaVFhTS03OG44Nl9JbUJXbk1vWW44SmNtVmZX?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.84,
-      "weekAgoPrice": 4.800000190734863,
-      "percentChange": 0.83,
+      "weekAgoPrice": 4.849999904632568,
+      "percentChange": -0.21,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.9,
-      "weekAgoPrice": 7.900000095367432,
-      "percentChange": -0.0,
+      "weekAgoPrice": 7.829999923706055,
+      "percentChange": 0.89,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.53,
-      "weekAgoPrice": 1.5399999618530273,
-      "percentChange": -0.65,
+      "weekAgoPrice": 1.5199999809265137,
+      "percentChange": 0.66,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.92,
-      "weekAgoPrice": 1.940000057220459,
-      "percentChange": -1.03,
+      "weekAgoPrice": 1.9199999570846558,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.38,
-      "weekAgoPrice": 1.340000033378601,
-      "percentChange": 2.99,
+      "weekAgoPrice": 1.3700000047683716,
+      "percentChange": 0.73,
       "flagged": false,
       "news": []
     },
@@ -83,27 +83,27 @@
     {
       "ticker": "0397.KL",
       "currentPrice": 0.2,
-      "weekAgoPrice": 0.20999999344348907,
-      "percentChange": -4.76,
+      "weekAgoPrice": 0.20499999821186066,
+      "percentChange": -2.44,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.21,
-      "weekAgoPrice": 1.1399999856948853,
-      "percentChange": 6.14,
+      "weekAgoPrice": 1.1299999952316284,
+      "percentChange": 7.08,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.715,
-      "weekAgoPrice": 0.7699999809265137,
-      "percentChange": -7.14,
-      "flagged": true,
+      "weekAgoPrice": 0.75,
+      "percentChange": -4.67,
+      "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 2
 }

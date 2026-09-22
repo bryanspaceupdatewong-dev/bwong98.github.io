@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-18T22:16:11.792730Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7850000262260437,
-        "percentChange": -8.28,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-18T23:16:02.067057Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1599,6 +1585,41 @@
         "currentPrice": 0.715,
         "weekAgoPrice": 0.7699999809265137,
         "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-22T19:16:09.293440Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 229.65,
+        "weekAgoPrice": 212.1699981689453,
+        "percentChange": 8.24,
+        "flagged": true,
+        "news": [
+          {
+            "title": "EXCLUSIVE: Nvidia Is a Stock And a Token \u2014 When \u2018Retail No Longer Distinguishes Between Ticker and Rail\u2019 - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0pnNEwtVDloT2hsdjNtUWxpVTJUMjlZaWhxMGlHS2h5Q2NLWjlRaEI3U2ZsRlNyUHBBTTE3V1RaTFI3TTZDc254NmdoR3FrbzRJRjlkUDQxZXdnVTc1X3JMZW5FMTNUeFRTOFpzTDdYWXc2MWNEWGRZNHZBWXFKcHpDZi1sdFJxUUk2Z0RLOEI?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Missed the Meta Muse AI Rally that Boosted AMD. Here's Why. - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1puN0F6SWNzblBfNE9nR2VPVzc0MEl3SlUySVRUTjFuTUtzdEo4RVRYbkIzcy1SdjluYk9HUFdjTXBjekc5UG5UZUZZVHVxM1hrVlByRXp3NVJGbUswVnpmYndCLWljQmh1OGoyUzlpNHFuYUN6LUZxU3RTdGhnRjJ5ZWRXcUU?oc=5"
+          },
+          {
+            "title": "Is NVIDIA Funding Its Own Stock Rally? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQlBBYkJmQkVtLUU4WXpYMDUxV25hOXgwTlBrV2thVWw2dG5SRW80Ukg2R3luUERmOTMwVUtnM2p1U2tObHc3em9mRV9QajJjUGxGN1RrdFQ1ZXpaUkRJbUhVS2lvUmp0d2hTby1QWlJPcHBxbEFIamJuT0YwZ21LbWZpUi1fakE0ZnBZMXZVdHN3LVR2NVRiZmc1b1VsVHc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.21,
+        "weekAgoPrice": 1.1299999952316284,
+        "percentChange": 7.08,
         "flagged": true,
         "news": []
       }
