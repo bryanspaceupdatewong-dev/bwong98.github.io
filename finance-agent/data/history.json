@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-18T18:19:35.196814Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7900000214576721,
-        "percentChange": -8.86,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-18T19:19:03.172388Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1483,6 +1469,49 @@
         "currentPrice": 1.21,
         "weekAgoPrice": 1.1299999952316284,
         "percentChange": 7.08,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-22T16:16:08.769511Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.7,
+        "weekAgoPrice": 212.1699981689453,
+        "percentChange": 7.79,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AMD Stock Vs Nvidia: Biggest 2026 Lead Of The AI Boom - Meta Platforms (NASDAQ:META), Advanced Micro Devi - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmgwako3RjFpV0k3a3M5YWs5Z1VWQXpSbUZRVTdwZmtuMFlCQWZQYWxPV1lDMzZ2bldQLUZVRng5aWQtRVZJVkppMGRuUllBQ0tpcHNJWVpTTG9pZGI0VE4xZU95QXZpWDVMb0VjckRBSkplLVhGbTJKYVdiMHJUc0hmbHdzNkw0eExONUlJOW80bjBlUjRpTXprYnViYkwxUm5Jd0lnU3AtSE0?oc=5"
+          },
+          {
+            "title": "Huawei Is Ramping Up to New Chips in 2027. What That Means for Nvidia Stock Now. - Barchart.com",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0tQNl9iNXNranZ5N1NsWjJiTjhQcG5QWXhDdV9fekZTNl9aaEZrbWF0SER5Y3ZkbDhMcDdMX3owVF9WalNlYUVVREdvbGI0Vk5yRjlDQkFuWXdrUlhnaEpTSDA0RGlBTEl2dUZfYk9ET1lkTlNmRmNaWlFIN2dtcmFkQ2xiT2drRmRfLUs4MUdqOHZtaHE0d21tT3BDU2l5THRWeUI3Sk1DbVNuUk9IbFk4blNQOGoyU2ZKdHEzSQ?oc=5"
+          },
+          {
+            "title": "Nvidia Price Prediction: Wall Street and Our Model Finally Agree - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejVaUG9xcTAzRTNWbWp2cHcyMW42RnphUHphMFZqR05GZkZ4YXEwTEM5d1dxX1N3VTRBenhmd0xVLXhuSXFEVGxzS3RUaG5sR1dOVXVjWktuN3NYQXlJRFBfeUdGV3dNVTB5UGdVOGNNTVQ2eGNxN29JVHdPd2pqQ1ZfUm5FMmRsQ3NhVVJTUHVRd1c2akxXbFR2MnBsTEYzdGc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.21,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 6.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.715,
+        "weekAgoPrice": 0.7699999809265137,
+        "percentChange": -7.14,
         "flagged": true,
         "news": []
       }
