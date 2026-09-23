@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-23T13:17:06.903961Z",
+  "generatedAt": "2026-09-23T14:16:52.683966Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 498.0,
-      "weekAgoPrice": 505.4100036621094,
-      "percentChange": -1.47,
+      "currentPrice": 498.5,
+      "weekAgoPrice": 497.1199951171875,
+      "percentChange": 0.28,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 228.87,
-      "weekAgoPrice": 210.9600067138672,
-      "percentChange": 8.49,
+      "currentPrice": 226.092,
+      "weekAgoPrice": 212.1699981689453,
+      "percentChange": 6.56,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Stock Set For 40% Surge: 3 Catalysts That Could Drive the Next Big Move - AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQa21GSUNyeVoyVmNhTEJGLXBlcFE0czlHZmVqMjdsV1JJa3RLZVJXeGhyOVprSFpHM0JJc1JJanMzN3RhdHFfT3QwazB5aUxVcDI5YktCNGtrMzJSdUl3S0lhMnpZbjQ3YlZuRFdGTnl3Y2o2cGI2TQ?oc=5"
+          "title": "Not Palantir. Not Micron. The $325 Billion Nvidia Partner That Jim Cramer Just Called a \"Must Buy\" Stock - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0xreURrWnpiUzdiMVdINVZEXzZmYVE1cTVnNlB5S0k5WXprcWJXZ04tZnlNNXBMakJTcUVXa05Qb3h2YWZ1RzhHc2JjVFY5VGxxb3R4bVpOYlFOU1d3OUkzMWYzaHk3WHVhZ0gtRnF5X3VVZFJxZjRIUjIxbE5nLXdzRXAxQklYT0lra0VuYWxCMksyX1dkQQ?oc=5"
         },
         {
-          "title": "Nvidia Stock Set For 40% Surge: 3 Catalysts That Could Drive the Next Big Move - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGh0WlNVdkw1LVBnV3ZRYXU4ZGhpbWF1WXRHbm1ramZGd3lNYV9VX0lGMFFfYV9mRlFNdUZyUy1nMVhwa05vb085T01IWGhRbnBfdlZCOU1zSlFySlowZEpWaWowb1RubGRNZ0hUWEFoZlpNM21uamRpaFZlLWVPLTVLTjNmdW9fa200RDdNcXV0QjY4TjAyWmZPZ2RFMUhjdHlZMXRnZzBkMVVrOUVqaXBLc1ptS203cFB4VA?oc=5"
+          "title": "Nvidia stock may drop to $135 by early 2027 des... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3NRbnh3TG5IN1M5Q045cHJYTlVLNUI1R0ItT29ZMU01bWFXNDlsR08zMUEyX29FZTZ4U00weDBuYnZIRUVCc3BGdEJOSGZ4ekNDSzVNZkpLRXpPdlBMRE9fNWVoeXNadzRyUUtLTDhCa3RBR0llbWw1cDNJckl6dEtZcnNxbVJjRUlz?oc=5"
         },
         {
-          "title": "Rigetti Stock Rises as IonQ-NVIDIA Deal Lifts Quantum Computing Sector - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWURNQjN5YVp3cTFXUTlYa01ib204VEhNRGpwaHVRSmVHYW5FT2Uxdnk5ODRVYmdfbUN6SzdLeXlNd3dXWUJQVk5wMkJOMkstamkxZ0pac3hWLTBqeXlLRWlxQWdXXzctNWpsRmZNODYyT2RCVUNLNWczcjBka19TenZISXJ4d1BFOFlaSWVLT0l2TFJ4S0pvOGNnODJTbWI2M0xEaDJMUFZWN182WFphNC1WTWJkZ0x0VG5jcFItcEpwV2ZTMlZWU1hpRQ?oc=5"
+          "title": "IONQ Stock On Track To Hit Over 1-Month High On Nvidia Superion 256 Deployment, Quantum Error Decoder Breakthrough - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlZ6RWdzb3kxX1R5SXdydG16LVdsSjg5Y3dMN0V0RjNQVTNya05DSnM5Z0lKWmJLVTVubmh5X1hINWVkMzdSN0hVVndhQWxhVUhLUXF2QWRoS1ZWOTRpb1piTHFDejc4X1FER2Q3NnlqQ0YtckJ5TU93TExIOVpvQ2RHb2tCQ0p2MW16QzUxTlRLaE9P?oc=5"
         }
       ]
     },
