@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T03:15:48.970063Z",
+  "generatedAt": "2026-09-23T04:16:07.014002Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,24 +19,24 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - fool.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnMtSlBuUGQxc1U2SmtSTnR4ZUhUMXJoazVZckU3UnBvWU1HVzlPLUlqQzZKcTA0Z1AwSVNjRFVCN1VQT05yX3BHcjJZSGFCOWlfQWV3a0otdWtmQ3VsRFAyWlEtbGk0RkhmNW51SXFXb3hnc1VuMUthNUpzVFlkWkgzeUVnWGdZNVJjTFBzektyQ3BYYVIzaA?oc=5"
+        },
+        {
           "title": "NVDA Stock Eyes the $236 Record High as 2027 NVIDIA Growth Forecasts Rise - FXLeaders",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckNScjQ5OFdXRDc5Yi1kV25QNHlqcUp4d2JCUW5yY1owbkJyV1Fwcndvb0xFTWl1ZHU4VGZSd0pINE9uVGEyaWhtNlpQbF83dXU2Q2dUX0ppSnBhUkUyYWdWdnRYOTI4eXMyS19YSzZMaldrS2dnTEppeERULThTdW15QWVWMnpvMXdSZGpfeGR1ZlZldzVfV3J3ekJjbW5aNGlSMkowVmducGRRVlV1RDhKdWxxQQ?oc=5"
         },
         {
-          "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0p2eFY5bmR3aWttNFRYRHk0N2tjSkRBeHE4Y2JJLTNVZ1FWRkJueWkzbXR5c3VNNG9tcmlxWEZNQlR1SEZEei0wLVVSSkVXZHA1YUVoYnVSV1JYSDlpb2s3TjB4ckFZX2JIOG1oSEhUQkU5aFNURkU3UnhWQk9RWUVBUnBPd0ZrNW4wYXc0RWhKYmRST3h5RjJVSGxnM1ZjbF8yVy1wS2J6Vm5yTWFldw?oc=5"
-        },
-        {
-          "title": "NVIDIA (NASDAQ: NVDA) director sells 1.37M shares through trusts - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVFUelNwWWN6SF85Q3NhcC1DYXp4Ymh4dUNaYVNUeW41aHYtTVgzbWNwQVBHQmdMcm5yNm1FTENRRTFhcGZRb0UzZlZILUFkMEJTOUExRDg1Z0pNSGhsakp1YjZPQ2xpZW5zRnR3X0kxYUxjQkZ6NGxnTmdaZnBpdFpFV1JfeEdxYktldDdYMjluOFQzOGU0aFU2TmdMSVNJaFdjdDA2YVQ?oc=5"
+          "title": "Nvidia\u2019s Cooling Stock Valuations Are Being Looked At As A Warning Signal - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzk2NnpzanJKcXlRNnJJMTBEcVljQ05VbXBvcUtjbm1zUUZXcWxNOUU2UXh3OGVsSVVoNEFFYTA0U212ZU9aeUtUcFBxVGdDQ3NUdHZwNVl0VG5zR1FCeWV1VnpQS05zcmRMTzVwdm5EbGMtMTd5WU5LQlNnVndkN3hxZ1U0ZWRGVW5scU0wcmtobXZubGNnb1VIUDNaSnI3UnpvTQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.83,
+      "currentPrice": 4.84,
       "weekAgoPrice": 4.800000190734863,
-      "percentChange": 0.62,
+      "percentChange": 0.83,
       "flagged": false,
       "news": []
     },
@@ -50,25 +50,25 @@
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.52,
+      "currentPrice": 1.51,
       "weekAgoPrice": 1.5399999618530273,
-      "percentChange": -1.3,
+      "percentChange": -1.95,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.91,
+      "currentPrice": 1.9,
       "weekAgoPrice": 1.9299999475479126,
-      "percentChange": -1.04,
+      "percentChange": -1.55,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.38,
+      "currentPrice": 1.39,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": 0.73,
+      "percentChange": 1.46,
       "flagged": false,
       "news": []
     },
@@ -90,17 +90,17 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.19,
+      "currentPrice": 1.2,
       "weekAgoPrice": 1.100000023841858,
-      "percentChange": 8.18,
+      "percentChange": 9.09,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.705,
+      "currentPrice": 0.71,
       "weekAgoPrice": 0.75,
-      "percentChange": -6.0,
+      "percentChange": -5.33,
       "flagged": true,
       "news": []
     }

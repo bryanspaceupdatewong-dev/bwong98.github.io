@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T08:16:23.207358Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.725,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -5.84,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-21T09:16:24.144866Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1790,6 +1768,49 @@
         "currentPrice": 0.705,
         "weekAgoPrice": 0.75,
         "percentChange": -6.0,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T04:16:07.014002Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.87,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - fool.com",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnMtSlBuUGQxc1U2SmtSTnR4ZUhUMXJoazVZckU3UnBvWU1HVzlPLUlqQzZKcTA0Z1AwSVNjRFVCN1VQT05yX3BHcjJZSGFCOWlfQWV3a0otdWtmQ3VsRFAyWlEtbGk0RkhmNW51SXFXb3hnc1VuMUthNUpzVFlkWkgzeUVnWGdZNVJjTFBzektyQ3BYYVIzaA?oc=5"
+          },
+          {
+            "title": "NVDA Stock Eyes the $236 Record High as 2027 NVIDIA Growth Forecasts Rise - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckNScjQ5OFdXRDc5Yi1kV25QNHlqcUp4d2JCUW5yY1owbkJyV1Fwcndvb0xFTWl1ZHU4VGZSd0pINE9uVGEyaWhtNlpQbF83dXU2Q2dUX0ppSnBhUkUyYWdWdnRYOTI4eXMyS19YSzZMaldrS2dnTEppeERULThTdW15QWVWMnpvMXdSZGpfeGR1ZlZldzVfV3J3ekJjbW5aNGlSMkowVmducGRRVlV1RDhKdWxxQQ?oc=5"
+          },
+          {
+            "title": "Nvidia\u2019s Cooling Stock Valuations Are Being Looked At As A Warning Signal - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzk2NnpzanJKcXlRNnJJMTBEcVljQ05VbXBvcUtjbm1zUUZXcWxNOUU2UXh3OGVsSVVoNEFFYTA0U212ZU9aeUtUcFBxVGdDQ3NUdHZwNVl0VG5zR1FCeWV1VnpQS05zcmRMTzVwdm5EbGMtMTd5WU5LQlNnVndkN3hxZ1U0ZWRGVW5scU0wcmtobXZubGNnb1VIUDNaSnI3UnpvTQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 9.09,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
         "flagged": true,
         "news": []
       }
