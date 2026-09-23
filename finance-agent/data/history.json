@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T10:15:46.899043Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -6.49,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-21T11:17:00.876834Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1816,6 +1794,49 @@
           {
             "title": "NVDA Edges Down Overnight After 6-Day Winning Streak \u2014 Director Mark Stevens Sells Another $300M In Stock - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWVveGFvdE1feHB0SUp0ZU1Ha0VKUWlIMHRGSndGaUdWTHNmZUdVLWdBbEdzbGxla0Q0eksyZUxIWmRnS0dKeDJ3SE5xUzFFSU90cTlzakRtWkp0MElUaWRtZnFEbVJZZklIZWFzM2pZeVZCMm41ZEhhemdkUVRUcDJlQlQwa2otQ0dfdTJrUW1JdDNDeGIw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 9.09,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T06:17:02.592482Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.87,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia director Mark Stevens sells another $300M in shares (NVDA:NASDAQ) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzI1dWx0RVVuQ3BaZ01HNmRiZ1k2MmNqTjZ5QUxySlNZQlMxLXYyUjNmTWM1N2VzdkxfLUN2a3l5Q05EWk5qdlgyUUdfWmRKRW9DalBHWWw1bVF0Y3BDY0p3NUY5SkNiXzFoVWFXN2NwLV9WcUUxWFJEeWxNdF8yUU1zVEpXcHdQSzlZaHVNUmVQVkFWN2VibGFQMA?oc=5"
+          },
+          {
+            "title": "Elon Musk Is Going All In on Nvidia, but Are These Two Chip Stocks Better Buys? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHc1Tk0xSGd2WFFyLU51aFBRdWJnRy1Lb0FVdmJZSFZEUHp1U256TEFBUVhvdUxERzVvOTNMWUlSOWV5QTdSZHhIZW94by15RS12cUZRM3ZobXNjLVFMQS0tclNZT04xRFVteDhtOHNtbllBWVpmdlB3X0FGOVctc2hLVlE0RDRIcXNFNnV3MkdITGh1d0xv?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - aol.com",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02Rno1eTlSTTlIOFlDSFhUYjFQTi1FT3NlTmphNnM2M1E5VDJzNWFheDFiRmpyeERabnlPd3g5cUpHMmplYnMtTFAydWZDajhCdWh1Z3NzaVZQSnpGYUtwLTZ4TklZc0VDUUR6R1FlX3ZWUVJ2cFpCTEhxY3lyZw?oc=5"
           }
         ]
       },
