@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-22T01:16:14.608997Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.1299999952316284,
-        "percentChange": 6.19,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -6.49,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-22T01:28:31.300491Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1921,6 +1891,49 @@
           {
             "title": "Nvidia Stock Falls. It Has a Google AI Chip Conundrum. - barrons.com",
             "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONFNKSXh1cWdKdlk1LVQ2WjZ5UUZrN0Npak92YkZRd2xfTlhZdTc3UkFNTXM1S05SMVJzdDBidmlqLTlCXy10TDZ3OUg2ckE4ZHhDT1BlVXYtWXBkaFlmNndrY2FRaWNlX0VKLWwxZE5Za0VEN19vQkROUVV5eGxzX3pB?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 8.18,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T21:13:04.331327Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.51,
+        "weekAgoPrice": 213.89999389648438,
+        "percentChange": 5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Trump-Xi meeting could sway Nvidia and Boeing s... - Pluang",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNk5yNFo4X0tLNC12b0V4UUJxT2NVWk54S09HcmozMnlpVU5WTnBTUi1JMnNieVJXR3d0V2NoVVVDeUNPRmpSa3RLR3FWT0lSLTFOS1RWTU4ycWVpQXBVc0NJVHVVUnZOcm8tR1JFSDVBOFV5dDF6M2tCa1ZQMU4yLUR3WDIxS2hNc091ZmRMZFQ3NnBETDRGc2h6YlptLVVJT09TSVZ2aWFJdw?oc=5"
+          },
+          {
+            "title": "Forget Waiting for a Dip: Nvidia (NVDA) Is Worth Buying Today Based on The Motley Fool's Long-Term Conviction Ratings - theglobeandmail.com",
+            "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNTmxOalJGcXRjcU5ZVmdGbFRGY2JoZXN3YlkydEExU29Xc21Bekx5d0E0WFpPRkRkSGk4dGdKRlMzdjJLVXVydVB0S0NNcEhDdXpMOF9OaHI4UzNQWld3bHpjUnNkSHdScjdhLWEzcV81Smw5OGZVZEVpSC1DREM2czdsN3hLR3VHbHhIckttMTNtZVA5N0tmXzJvaWFvb01TQThTM1pWcHVwVXhQai1YeEJVQlZtbGh5dDNuMUE0aG5YQ2p0OGZlWTBMSExGMHdvanFaMjR4dnk5RDJ1MHZfeDRBc3ZmMUVjT1JfOTFBc0VWZVN6SF9tbGxaUVZVRmRaaE9sUWRPZjE5czlvMjNlNFZLR2Foa1habFFuaEt2U1RQcDh6?oc=5"
+          },
+          {
+            "title": "Sandisk vs. NVIDIA: Which AI Stock Is the Better Buy Now? - tradingview.com",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEt6YmFLSDJMWndabU1tbkFkdE93bTZTLUdpNkZPRkNBN0wxMnlZNlp0Uk40cVhCLVRHNkt5NmxhMjVoQURjaUtjQXdwVFBQamREQW9mTEVhc29UUnVkckhLajZja2hnNXd0YzJVbTNZN1Q5NW5naURVRDR3NHZ4ZnhyV1ZYS0VGRmhKZHVqQXJJT296azJ4T1ZnNmhmaGhsQzlKSzU4X0taemY5Vzg0?oc=5"
           }
         ]
       },
