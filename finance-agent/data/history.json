@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T09:16:24.144866Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -6.49,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-21T10:15:46.899043Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1795,6 +1773,49 @@
           {
             "title": "Nvidia\u2019s Cooling Stock Valuations Are Being Looked At As A Warning Signal - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzk2NnpzanJKcXlRNnJJMTBEcVljQ05VbXBvcUtjbm1zUUZXcWxNOUU2UXh3OGVsSVVoNEFFYTA0U212ZU9aeUtUcFBxVGdDQ3NUdHZwNVl0VG5zR1FCeWV1VnpQS05zcmRMTzVwdm5EbGMtMTd5WU5LQlNnVndkN3hxZ1U0ZWRGVW5scU0wcmtobXZubGNnb1VIUDNaSnI3UnpvTQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 9.09,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T05:17:33.984239Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.87,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - AOL.com",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02Rno1eTlSTTlIOFlDSFhUYjFQTi1FT3NlTmphNnM2M1E5VDJzNWFheDFiRmpyeERabnlPd3g5cUpHMmplYnMtTFAydWZDajhCdWh1Z3NzaVZQSnpGYUtwLTZ4TklZc0VDUUR6R1FlX3ZWUVJ2cFpCTEhxY3lyZw?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnMtSlBuUGQxc1U2SmtSTnR4ZUhUMXJoazVZckU3UnBvWU1HVzlPLUlqQzZKcTA0Z1AwSVNjRFVCN1VQT05yX3BHcjJZSGFCOWlfQWV3a0otdWtmQ3VsRFAyWlEtbGk0RkhmNW51SXFXb3hnc1VuMUthNUpzVFlkWkgzeUVnWGdZNVJjTFBzektyQ3BYYVIzaA?oc=5"
+          },
+          {
+            "title": "NVDA Edges Down Overnight After 6-Day Winning Streak \u2014 Director Mark Stevens Sells Another $300M In Stock - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWVveGFvdE1feHB0SUp0ZU1Ha0VKUWlIMHRGSndGaUdWTHNmZUdVLWdBbEdzbGxla0Q0eksyZUxIWmRnS0dKeDJ3SE5xUzFFSU90cTlzakRtWkp0MElUaWRtZnFEbVJZZklIZWFzM2pZeVZCMm41ZEhhemdkUVRUcDJlQlQwa2otQ0dfdTJrUW1JdDNDeGIw?oc=5"
           }
         ]
       },

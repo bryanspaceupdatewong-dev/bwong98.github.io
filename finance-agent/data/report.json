@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T04:16:07.014002Z",
+  "generatedAt": "2026-09-23T05:17:33.984239Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - fool.com",
+          "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02Rno1eTlSTTlIOFlDSFhUYjFQTi1FT3NlTmphNnM2M1E5VDJzNWFheDFiRmpyeERabnlPd3g5cUpHMmplYnMtTFAydWZDajhCdWh1Z3NzaVZQSnpGYUtwLTZ4TklZc0VDUUR6R1FlX3ZWUVJ2cFpCTEhxY3lyZw?oc=5"
+        },
+        {
+          "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnMtSlBuUGQxc1U2SmtSTnR4ZUhUMXJoazVZckU3UnBvWU1HVzlPLUlqQzZKcTA0Z1AwSVNjRFVCN1VQT05yX3BHcjJZSGFCOWlfQWV3a0otdWtmQ3VsRFAyWlEtbGk0RkhmNW51SXFXb3hnc1VuMUthNUpzVFlkWkgzeUVnWGdZNVJjTFBzektyQ3BYYVIzaA?oc=5"
         },
         {
-          "title": "NVDA Stock Eyes the $236 Record High as 2027 NVIDIA Growth Forecasts Rise - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckNScjQ5OFdXRDc5Yi1kV25QNHlqcUp4d2JCUW5yY1owbkJyV1Fwcndvb0xFTWl1ZHU4VGZSd0pINE9uVGEyaWhtNlpQbF83dXU2Q2dUX0ppSnBhUkUyYWdWdnRYOTI4eXMyS19YSzZMaldrS2dnTEppeERULThTdW15QWVWMnpvMXdSZGpfeGR1ZlZldzVfV3J3ekJjbW5aNGlSMkowVmducGRRVlV1RDhKdWxxQQ?oc=5"
-        },
-        {
-          "title": "Nvidia\u2019s Cooling Stock Valuations Are Being Looked At As A Warning Signal - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzk2NnpzanJKcXlRNnJJMTBEcVljQ05VbXBvcUtjbm1zUUZXcWxNOUU2UXh3OGVsSVVoNEFFYTA0U212ZU9aeUtUcFBxVGdDQ3NUdHZwNVl0VG5zR1FCeWV1VnpQS05zcmRMTzVwdm5EbGMtMTd5WU5LQlNnVndkN3hxZ1U0ZWRGVW5scU0wcmtobXZubGNnb1VIUDNaSnI3UnpvTQ?oc=5"
+          "title": "NVDA Edges Down Overnight After 6-Day Winning Streak \u2014 Director Mark Stevens Sells Another $300M In Stock - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWVveGFvdE1feHB0SUp0ZU1Ha0VKUWlIMHRGSndGaUdWTHNmZUdVLWdBbEdzbGxla0Q0eksyZUxIWmRnS0dKeDJ3SE5xUzFFSU90cTlzakRtWkp0MElUaWRtZnFEbVJZZklIZWFzM2pZeVZCMm41ZEhhemdkUVRUcDJlQlQwa2otQ0dfdTJrUW1JdDNDeGIw?oc=5"
         }
       ]
     },
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.3,
+      "currentPrice": 1.29,
       "weekAgoPrice": 1.2799999713897705,
-      "percentChange": 1.56,
+      "percentChange": 0.78,
       "flagged": false,
       "news": []
     },
