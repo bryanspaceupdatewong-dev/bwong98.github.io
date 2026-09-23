@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T19:16:05.393857Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 227.325,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 7.76,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Here's How Much $1,000 Invested in Nvidia Stock Could Be Worth by 2027 - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdHI2UGV2RXV4bTFfLWR2VFhXN1ZsZ0hVM1l3SzI0SWNfdHhLb2VuekVVcm5IclZBcnd4OWJGa1ZxWHJsSHluVHNQVjhNUUNLdm1FLXJyYVNLX1AzR21KZzNWeXpOQ0JtNXlhOENESHlzdGl3dGt0c09TbE1YbGZod2tzeG1CLXFPX0tjUF9wUEJmQklPaDhSWXpfOGlZZmNkUnJFdVV4QUNyMndQQXJhMjlHQl9pTDJlSVBxTzNzNUp6YzM5ZWd3V2hNUHktaDhKdzNQb1ZkbTEzM1lwWWZyNl9uWUNsdGh6X1VzXw?oc=5"
-          },
-          {
-            "title": "Here's How Much $1,000 Invested in Nvidia Stock Could Be Worth by 2027 - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX1NoLWsxQzdEWWc1LUpfUzMxR3pHWGZoNDNnaVRNbXJIN2h3UzA5Y05VQ1FIRXpldF9ocE5SUC03dDUtRFJYVFZ0ZkZsX25IckxldHNHQkNKd1lkTXQwQTQ2dFlLUTY0d294M1EzNThTUE55dzhNc3BYeTNHRTJ1NTE0UXJuNXkwbmZnNU9kOEgwVWVvZ0dmdg?oc=5"
-          },
-          {
-            "title": "Not Nvidia. Not Micron. Meet the AI Infrastructure Stock That Could Triple in Just 3 Years - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0dPOG9jbF9JRlo3Q0xSeFFiRUM3R0F3b1JrNURoZmlodEFPT2JfSFZGTGFLNE9KM1p4ZTVRTkQwVG1pcE00amRFRk1LOHRGeWlFRUtIaGo0dExmblV1V25kX1hFNVVJUnh4WklkUW56MzFDS20wUVM2cGQxYkZVWTZsdmI1eFhTdTJEQXJBdjRERHJPTjdPSFZmZU1LZGlBWTFXRTRsNXlmT1pWRlk3SVRwNWJMT2EtVkV6QzZSZW1JU3B0akZ0ak1mdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -6.49,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-21T20:16:16.387357Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1900,6 +1857,49 @@
           {
             "title": "IONQ Stock On Track To Hit Over 1-Month High On Nvidia Superion 256 Deployment, Quantum Error Decoder Breakthrough - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlZ6RWdzb3kxX1R5SXdydG16LVdsSjg5Y3dMN0V0RjNQVTNya05DSnM5Z0lKWmJLVTVubmh5X1hINWVkMzdSN0hVVndhQWxhVUhLUXF2QWRoS1ZWOTRpb1piTHFDejc4X1FER2Q3NnlqQ0YtckJ5TU93TExIOVpvQ2RHb2tCQ0p2MW16QzUxTlRLaE9P?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 8.18,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T15:16:50.027996Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.7,
+        "weekAgoPrice": 212.1699981689453,
+        "percentChange": 6.38,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA Board Member Trades $300.15M In Company Stock - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONldxdUtBclM3RDJjMWVOaHYtRlpWSUV6YzQwZEhHdjZ6UjJsOFNJbDlwS1lLZ3dPNzFpclVyVDhiNjJZdHVpMjBUXzlIcFZBTzhBSVBYMnNyelp4dGJvWWZ2Mm1lNzlwM1lhUmtPeFZueC1HRk5IQWxmMzdQRFl5b2pwRVUtWExhVTE1cngzY1hzSFYyWmlRVQ?oc=5"
+          },
+          {
+            "title": "Not Palantir. Not Micron. The $325 Billion Nvidia Partner That Jim Cramer Just Called a \"Must Buy\" Stock - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0xreURrWnpiUzdiMVdINVZEXzZmYVE1cTVnNlB5S0k5WXprcWJXZ04tZnlNNXBMakJTcUVXa05Qb3h2YWZ1RzhHc2JjVFY5VGxxb3R4bVpOYlFOU1d3OUkzMWYzaHk3WHVhZ0gtRnF5X3VVZFJxZjRIUjIxbE5nLXdzRXAxQklYT0lra0VuYWxCMksyX1dkQQ?oc=5"
+          },
+          {
+            "title": "Dear Nvidia Stock Fans, Mark Your Calendars for September 24 - Barchart.com",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQejJkX1BranFGZEozZmNZODhQX1VyV0FEVDhqcGRlMkEwdmVpLXZoMFRjemhJUVdfSGtFWHdFWldETi1WMnRKWWZkX0ZrcDJTNlFtMVppVWJ6Q3NqVkdCXzBjanRxZ1RoaHJuLW8yYjViZXpGb01IblVTNk9ydVJwTGg4OHI5ZXB3LXZteGlvaGdQVVpIYkkxR2lHalh6Z3Y5SmhLVlVR?oc=5"
           }
         ]
       },

@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-23T14:16:52.683966Z",
+  "generatedAt": "2026-09-23T15:16:50.027996Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 498.5,
+      "currentPrice": 497.77,
       "weekAgoPrice": 497.1199951171875,
-      "percentChange": 0.28,
+      "percentChange": 0.13,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 226.092,
+      "currentPrice": 225.7,
       "weekAgoPrice": 212.1699981689453,
-      "percentChange": 6.56,
+      "percentChange": 6.38,
       "flagged": true,
       "news": [
+        {
+          "title": "NVIDIA Board Member Trades $300.15M In Company Stock - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONldxdUtBclM3RDJjMWVOaHYtRlpWSUV6YzQwZEhHdjZ6UjJsOFNJbDlwS1lLZ3dPNzFpclVyVDhiNjJZdHVpMjBUXzlIcFZBTzhBSVBYMnNyelp4dGJvWWZ2Mm1lNzlwM1lhUmtPeFZueC1HRk5IQWxmMzdQRFl5b2pwRVUtWExhVTE1cngzY1hzSFYyWmlRVQ?oc=5"
+        },
         {
           "title": "Not Palantir. Not Micron. The $325 Billion Nvidia Partner That Jim Cramer Just Called a \"Must Buy\" Stock - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0xreURrWnpiUzdiMVdINVZEXzZmYVE1cTVnNlB5S0k5WXprcWJXZ04tZnlNNXBMakJTcUVXa05Qb3h2YWZ1RzhHc2JjVFY5VGxxb3R4bVpOYlFOU1d3OUkzMWYzaHk3WHVhZ0gtRnF5X3VVZFJxZjRIUjIxbE5nLXdzRXAxQklYT0lra0VuYWxCMksyX1dkQQ?oc=5"
         },
         {
-          "title": "Nvidia stock may drop to $135 by early 2027 des... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3NRbnh3TG5IN1M5Q045cHJYTlVLNUI1R0ItT29ZMU01bWFXNDlsR08zMUEyX29FZTZ4U00weDBuYnZIRUVCc3BGdEJOSGZ4ekNDSzVNZkpLRXpPdlBMRE9fNWVoeXNadzRyUUtLTDhCa3RBR0llbWw1cDNJckl6dEtZcnNxbVJjRUlz?oc=5"
-        },
-        {
-          "title": "IONQ Stock On Track To Hit Over 1-Month High On Nvidia Superion 256 Deployment, Quantum Error Decoder Breakthrough - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlZ6RWdzb3kxX1R5SXdydG16LVdsSjg5Y3dMN0V0RjNQVTNya05DSnM5Z0lKWmJLVTVubmh5X1hINWVkMzdSN0hVVndhQWxhVUhLUXF2QWRoS1ZWOTRpb1piTHFDejc4X1FER2Q3NnlqQ0YtckJ5TU93TExIOVpvQ2RHb2tCQ0p2MW16QzUxTlRLaE9P?oc=5"
+          "title": "Dear Nvidia Stock Fans, Mark Your Calendars for September 24 - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQejJkX1BranFGZEozZmNZODhQX1VyV0FEVDhqcGRlMkEwdmVpLXZoMFRjemhJUVdfSGtFWHdFWldETi1WMnRKWWZkX0ZrcDJTNlFtMVppVWJ6Q3NqVkdCXzBjanRxZ1RoaHJuLW8yYjViZXpGb01IblVTNk9ydVJwTGg4OHI5ZXB3LXZteGlvaGdQVVpIYkkxR2lHalh6Z3Y5SmhLVlVR?oc=5"
         }
       ]
     },
