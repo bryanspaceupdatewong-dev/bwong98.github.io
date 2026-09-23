@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-22T02:15:55.434606Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 227.38,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 7.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "TSLA Stock Hits Nearly 3-Week High: Nvidia Win Adds Muscle To \u2018Physical AI\u2019 Pivot Despite Optimus Delays - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUDRkaTF0OVFVNGtvd1pqektkY2c0aUtLZWpKdURFek5wWFNfMFJHd3NVLUl4SnppM3A5c0U4bEpvWE5USW4ySjdsTnFpd2dpOUhqb1JlaEF3UnhlQ3Btbi1qOE5SZHJPSy0zaU9LWDRKNTN3UmFlWEQ3eTF1OEVkRHhQQUpRX05XNk5kaTVaMU56QXNnWDV4b2Q1TFhqN1BzQ0UwaUM2UWdoc2Y5Zl9tUjk5aE9LeERQSGQyZTZfQ1ZzS3FhaktZUGItMjFsNGkzN1RoU2VIMFIzS01tY1hnUVBiMDc0bVUtMFNaMnhxcEptYlVl?oc=5"
-          },
-          {
-            "title": "NVDA THE STOCK TO GO - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GaVMwUUxRVjJNSnVkLVVOM0NQN2lmQlZraUpCU3JQRTFlN3BGdTRVUXZXck5DeDM0RmpvbS1IcktTcUFjVHdDOHdZNUp2cmh4MUQ2MUtBV3Y0U3EtUENyRUVwaUZ2dkg3dHZVR1Bicm1PM291YnZ1MkFfODVDRVE?oc=5"
-          },
-          {
-            "title": "$500 a Month in Nvidia Stock Since ChatGPT Launched Is Now Worth About $79,000 - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYTFfWjJNUDltOGJ2S0U1NU1ZTktFUnVpSmhESlhWZUNWbUNSLXVja0hvQUJPcF9IS0Mwa3dsRHoyeHNtanBYaExKeTdkbkdWZGZ2TlJUU1BMdVdMMElkMzZ5YWd1cDdVOGZCR0tVaXFfTUlhUUpxMEVEVG1xTlB4NWVENEczWWlaWUFvaWFwMGxKYXl0MDY5ckM0bjRWQ2poLVlDUkxWRXRjczUyRENuV0s0emVYdkpiMGFMRkw4eTZmNGJKTTJ5elFrZllNdGdtV2Z5eGlaWHU1TTdZUEcwOHg0a2Jha2o2UW82cDJiUXl0UQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.1299999952316284,
-        "percentChange": 6.19,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-22T03:16:08.214943Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1955,6 +1920,49 @@
           {
             "title": "Trump-Xi meeting could sway Nvidia and Boeing s... - Pluang",
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNk5yNFo4X0tLNC12b0V4UUJxT2NVWk54S09HcmozMnlpVU5WTnBTUi1JMnNieVJXR3d0V2NoVVVDeUNPRmpSa3RLR3FWT0lSLTFOS1RWTU4ycWVpQXBVc0NJVHVVUnZOcm8tR1JFSDVBOFV5dDF6M2tCa1ZQMU4yLUR3WDIxS2hNc091ZmRMZFQ3NnBETDRGc2h6YlptLVVJT09TSVZ2aWFJdw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 8.18,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T22:16:15.958370Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.51,
+        "weekAgoPrice": 213.89999389648438,
+        "percentChange": 5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSlF4T0lCLXhJb1kyRVdmZWF5bTIzU2ZtMDhNbkJUVlBqN3YtRUVHQ1RDTlNqM2lzdlVoYXdRdkR6WHJDYnpsMnNXaDE5X2xuQ01HVURkc1g4b1FZaWpIQ1lMeW0wZHNaWk94TGUtNDdBUHctQWtaWVVGVEtnLWQ1dllYYW5LTnNMcmNEX1lnSmNSOEpRLWxNREx2QlBnWUFHMFdKalMzbHo4VG11VWZ2dTN4NHZUc3FpMHZnOE1mZ0FraGNIWGF5SUxXRm1pV3VCcDZ6RVBFUGF6Z1pvV0xtS2xLSUVLb3dnekhzZTNJYjBjSHZpaXVNRTM3YVo3LWpYN3c?oc=5"
+          },
+          {
+            "title": "NVIDIA (NASDAQ:NVDA) Shares Down 1.5% After Insider Selling - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkM1eUpBSzdBM0tKYldxSVdaMFg4TG5xZGFCbDB3QW1jX3dXc3JDVGVwbllkVERMT1E0NTl1RHRHaXlKRUgzVG5NSzlWc2RIYTZoUWhYYWs0QXVUSVRmSHhTZzluOFh3aWdfam1CUUNaaDQ2X3dkSWhMTGFreTVkMk8waDVHcTZDNGtaeUdSTnFvWlRWNHFvajRqOWpaVFRtazEtbmg3X0ZYOFNjeUdxdUJ0XzVQUQ?oc=5"
+          },
+          {
+            "title": "Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMlh0VGh5Ulg4cVc3RkZGcTVaWmRLanBVdjZFWEF0Ui1nTkFDMkhVc3p4eTZHQVVnZTh1dDdLOGhScUxiTDNVakpUMFNGcUZUYkdUWkFNVG9kWWF1WUk0dUNHVWNIQnN2UG9lWkJMSzNCT05TZjAyMzVuMVZKVW9BZ01mNkJOSjdjaTJ6QWZ0bW9mU3BXYTdwQmh0c0VpeEJrZWVtRVdkTk8yNU5RTmpVUWlONmJnNVlMSGFhZ1ZLLTVxNktwVXBzTGhVakFZcGlKY3hES1A3WFkyNmZmSUhj?oc=5"
           }
         ]
       },
