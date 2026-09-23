@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T06:18:28.816238Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -6.49,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-21T07:16:49.259500Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1748,6 +1726,49 @@
         "currentPrice": 1.21,
         "weekAgoPrice": 1.1299999952316284,
         "percentChange": 7.08,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T02:16:27.676230Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.87,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Eyes the $236 Record Highs as 2027 NVIDIA Growth Forecasts Rise - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmRKaGFHc1NQRmY4czJaWER3ekdDcHhwbW9BVmhPT1RTRGR0UHZTejI3Xzd5Y0VrbGNSZlFvYVFRQ1lhSS12eHppSlpLemxtX0l5Q3o2RUpyM3FGeERRWXFfLWRORUVhWFJZcmRHbzllck5KR2h6V0J6SHN2bGZIME1mMC1hV2xIZEl0ZGtJZWVSUW1RdTZIVUdYWjVReVhNdEh0QlpJUHVMYjcxemlUXzUwZmIxQzg?oc=5"
+          },
+          {
+            "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0p2eFY5bmR3aWttNFRYRHk0N2tjSkRBeHE4Y2JJLTNVZ1FWRkJueWkzbXR5c3VNNG9tcmlxWEZNQlR1SEZEei0wLVVSSkVXZHA1YUVoYnVSV1JYSDlpb2s3TjB4ckFZX2JIOG1oSEhUQkU5aFNURkU3UnhWQk9RWUVBUnBPd0ZrNW4wYXc0RWhKYmRST3h5RjJVSGxnM1ZjbF8yVy1wS2J6Vm5yTWFldw?oc=5"
+          },
+          {
+            "title": "NVIDIA (NASDAQ: NVDA) director sells 1.37M shares through trusts - Stock Titan",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVFUelNwWWN6SF85Q3NhcC1DYXp4Ymh4dUNaYVNUeW41aHYtTVgzbWNwQVBHQmdMcm5yNm1FTENRRTFhcGZRb0UzZlZILUFkMEJTOUExRDg1Z0pNSGhsakp1YjZPQ2xpZW5zRnR3X0kxYUxjQkZ6NGxnTmdaZnBpdFpFV1JfeEdxYktldDdYMjluOFQzOGU0aFU2TmdMSVNJaFdjdDA2YVQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 9.09,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
         "flagged": true,
         "news": []
       }

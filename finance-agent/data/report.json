@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T01:16:26.910874Z",
+  "generatedAt": "2026-09-23T02:16:27.676230Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -23,12 +23,12 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmRKaGFHc1NQRmY4czJaWER3ekdDcHhwbW9BVmhPT1RTRGR0UHZTejI3Xzd5Y0VrbGNSZlFvYVFRQ1lhSS12eHppSlpLemxtX0l5Q3o2RUpyM3FGeERRWXFfLWRORUVhWFJZcmRHbzllck5KR2h6V0J6SHN2bGZIME1mMC1hV2xIZEl0ZGtJZWVSUW1RdTZIVUdYWjVReVhNdEh0QlpJUHVMYjcxemlUXzUwZmIxQzg?oc=5"
         },
         {
-          "title": "Nvidia\u2019s Cooling Stock Valuations Are Being Looked At As A Warning Signal - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOVNPYzZQdFdhZktUd2VRcnFCSGtnUjZ5dnp6ZFh5MVlLZVR2eGhRdE1TV1JnYlh2NFdVZDBGTHFjTnVIN2N3RWF3bXQ3ZDgxTTAzOE1oZFhpdXVVVDRJWEhPeDZEOHBwNk53azBnRWxCa1hUd0NmTFNibklfRTZtSUkzQk9GSEEtRTZqUVg5VVVVbEUxWkQ4OHZHcVJIRk1hUDFzMnRmWEJmem9aRGpQOFdxMldIWXlUY25nNndXT0dFMzE3cTRPN0l0WUNkUG8?oc=5"
-        },
-        {
           "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy? - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0p2eFY5bmR3aWttNFRYRHk0N2tjSkRBeHE4Y2JJLTNVZ1FWRkJueWkzbXR5c3VNNG9tcmlxWEZNQlR1SEZEei0wLVVSSkVXZHA1YUVoYnVSV1JYSDlpb2s3TjB4ckFZX2JIOG1oSEhUQkU5aFNURkU3UnhWQk9RWUVBUnBPd0ZrNW4wYXc0RWhKYmRST3h5RjJVSGxnM1ZjbF8yVy1wS2J6Vm5yTWFldw?oc=5"
+        },
+        {
+          "title": "NVIDIA (NASDAQ: NVDA) director sells 1.37M shares through trusts - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVFUelNwWWN6SF85Q3NhcC1DYXp4Ymh4dUNaYVNUeW41aHYtTVgzbWNwQVBHQmdMcm5yNm1FTENRRTFhcGZRb0UzZlZILUFkMEJTOUExRDg1Z0pNSGhsakp1YjZPQ2xpZW5zRnR3X0kxYUxjQkZ6NGxnTmdaZnBpdFpFV1JfeEdxYktldDdYMjluOFQzOGU0aFU2TmdMSVNJaFdjdDA2YVQ?oc=5"
         }
       ]
     },
@@ -58,25 +58,25 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.92,
+      "currentPrice": 1.91,
       "weekAgoPrice": 1.9299999475479126,
-      "percentChange": -0.52,
+      "percentChange": -1.04,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.38,
+      "currentPrice": 1.37,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": 0.73,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.31,
       "weekAgoPrice": 1.2799999713897705,
-      "percentChange": 0.78,
+      "percentChange": 2.34,
       "flagged": false,
       "news": []
     },
@@ -90,20 +90,20 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.21,
-      "weekAgoPrice": 1.1299999952316284,
-      "percentChange": 7.08,
+      "currentPrice": 1.2,
+      "weekAgoPrice": 1.100000023841858,
+      "percentChange": 9.09,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.715,
+      "currentPrice": 0.71,
       "weekAgoPrice": 0.75,
-      "percentChange": -4.67,
-      "flagged": false,
+      "percentChange": -5.33,
+      "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 3
 }
