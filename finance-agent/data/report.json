@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-23T16:16:00.935723Z",
+  "generatedAt": "2026-09-23T17:16:00.668899Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 498.645,
+      "currentPrice": 499.7,
       "weekAgoPrice": 497.1199951171875,
-      "percentChange": 0.31,
+      "percentChange": 0.52,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 224.9,
+      "currentPrice": 224.42,
       "weekAgoPrice": 212.1699981689453,
-      "percentChange": 6.0,
+      "percentChange": 5.77,
       "flagged": true,
       "news": [
         {
-          "title": "NVDA Stock Fails at $230 Again as Huang\u2019s NVIDIA Growth Outlook Meets Rising Risks - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ1FEYkVldGRnaXd6eWo5YXp4a0JTVm9SbkFwVFJsUzczWHV0aGlXNHloRjc5OXlTaWZtMU5CNnBoUmNJdlJFU2lSd0pVY3djSkEzTU41MWd6WXIycUcwTlBLdEk1VFhfVThBUWRyX3ZDZVBfR0xGRE5DTExzYUJMTDB0SU5CcFlRTmJra2RuamJJdmdvU3dQNkF4bTcyWDR4NGgzTFFfbkk5VDJWQmhVQlpwN0JoVWVjTFBsOUs3UDA?oc=5"
+          "title": "Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OaEllOUdaN01GNGFudFRQLWV3Wk9RNDd3SHJ2R1RRby13S0tMeS1NZ2Vic21oZjJkVGtEUG9DcTBwRHVIeUF5V2F1RHc0RE04SER2Z0dTNkZIRktLNVEzaTZMRjFCN0dmbGQ2YVJMVlNSVkUzYm5GSVN1bWtNQQ?oc=5"
         },
         {
-          "title": "NVIDIA Board Member Trades $300.15M In Company Stock - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONldxdUtBclM3RDJjMWVOaHYtRlpWSUV6YzQwZEhHdjZ6UjJsOFNJbDlwS1lLZ3dPNzFpclVyVDhiNjJZdHVpMjBUXzlIcFZBTzhBSVBYMnNyelp4dGJvWWZ2Mm1lNzlwM1lhUmtPeFZueC1HRk5IQWxmMzdQRFl5b2pwRVUtWExhVTE1cngzY1hzSFYyWmlRVQ?oc=5"
+          "title": "Nvidia director sells $300M in stock amid stron... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjRsYnpoNExrTTlNOXpxWS04Tmtnamozd29SZ215cE1xZGdVWEtLa2E5OV84bGR2VGpLN3RJaElWdmY2VWRQaTM4SnBlWE1kOWNhQzJETFlVZ3ZybFJmMzM5ck9JUnhRUURsRldVTHpDM0ZVa0VxVDNGOHk4c19lazJGRkJOelJDaDdOY3Vhbw?oc=5"
         },
         {
-          "title": "Not Palantir. Not Micron. The $325 Billion Nvidia Partner That Jim Cramer Just Called a \"Must Buy\" Stock - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0xreURrWnpiUzdiMVdINVZEXzZmYVE1cTVnNlB5S0k5WXprcWJXZ04tZnlNNXBMakJTcUVXa05Qb3h2YWZ1RzhHc2JjVFY5VGxxb3R4bVpOYlFOU1d3OUkzMWYzaHk3WHVhZ0gtRnF5X3VVZFJxZjRIUjIxbE5nLXdzRXAxQklYT0lra0VuYWxCMksyX1dkQQ?oc=5"
+          "title": "Nvidia Director Is Cashing Out $300M. Should You Be Worried? - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdEM2Rm9EY01LU21OdDNZUG1HY1VDMmh5bTlOMTZmVGxrRU8tWTJ6Y1p5UGJrNW5PSFlNQUgyM3ZfeFZrQnJPVktYZ2ZjU19tVEQteEkyZTVpNDJzaHdzd1FCR1lyUG43dGFJWVlQb0NMQ2tZcWZxbGwyWE9heVNqdW5QZGhoeHN0SHdKdVhjakd0R0hIVk9tMFZsQ3l6NE9aa0Nz?oc=5"
         }
       ]
     },
