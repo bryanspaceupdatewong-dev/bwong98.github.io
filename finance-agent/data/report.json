@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T08:16:42.036108Z",
+  "generatedAt": "2026-09-23T09:16:07.745489Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Monster insider trading alert for Nvidia stock - Finbold",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tempDLWxQbmM5S29YSnpnU0pRSEN4WGpxU3UwUVkzY1BlLUFKWmRSbkNVSnFTMVd2NFVfd3FLQ3c0LXdCajh3MmdPMFAyT0p5WGwzeHFTVkpZUVpiNDlwMlRMTUpITnNTZXFHYTBjLXdlMy1MRkEyRGVn?oc=5"
+        },
+        {
+          "title": "Is NVIDIA (NVDA.US) facing renewed resistance as its stock price hits new highs? Amid surging demand for both GPUs and Vera CPUs, a director has cashed out $300 million in a major sell-off. - \u5bcc\u9014\u725b\u725b",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHZ3eXAtNWRfSnpYS0JYQ25mRDNSTTZvZFRPeHpfeU5NUlc4ZnI2cThIR0E1c041MWg0bDN4SWNhdm5hZWRUdWs1N2hpTTF2RE1faktmbFFhblZqS2ZzU1A2c19ISW95NUJrUUxDWTNveFhEVllMZEEycDJSYjZoLWxwSHJMZUJOQ3JqZ0h0ZEdwNzBpMGY1X3dmV1ctX0lkRzgwakdnbw?oc=5"
+        },
+        {
           "title": "Principal Financial Group Inc. Sells 1,192,149 Shares of NVIDIA Corporation $NVDA - MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNW9pbndMM0cwZUtURERpWEhYeFlSRWkxdnhzLXg2eWlrY3VoSkNFZkg3U0hNYUJiQnVhdF9JT1lVNFVwN0FPRjVHYXVRcFdQNVZEaWRLLWg0T2JuM2VTaHV4MTZoVUxNYXVraG9KRkNwdG04bDdSWkRDZTBFSHZOVm1KSmpBcHVRbXlKUERRTDUwcTFza19fdExRREdVSzVqdFc3aXBzR3VjT2o1UTYtOG5FQTZ1b3FMTGY5UTN5NkdaTmhOejh5U1FXUjhlWUdhODV5RQ?oc=5"
-        },
-        {
-          "title": "TD Asset Management Inc Has $5.07 Billion Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM2hDbU4zQUsyN3IwTU42T0JVRDRmU0dvbTI2NnRRSGVaamNfMk1nN1drUEpoQ1lUVXgtMnlmdWJRT1BGQ3ZPS3NXbmJzQk1QWUNFSlBCMXJIZEhXaUo1cnBfMVBsVWF0bDdRRWI0YldhcFczTXJ3eThTSlFWODRMTGFGVmRvUzRLUUJkQjB3NW1kZTVJTkxIekRZakFzY0dOLTZLNFBBWWZuZkE1ZlB2c0ZXbU9UdVNRRjFndHhPSnpQWlpYWVZ5ZnVfc0syU3EtSXY2ODRzSGNoQQ?oc=5"
-        },
-        {
-          "title": "SYM FINANCIAL Corp Cuts Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVlHRGRDRHN5OVJEQjh1bUFmbTEtXzBLeWhzaDRTbUtieE9mcGRSYVZSS3E2UU1CbWdhTkZpZzVGUklzSzQ4Q1dWb0U1SUdZX2ZWa2k0M2l2bTk4Q1IyZVRzUFl1TEhfSWZONGxmMUhjNDZQc2lyTDhMV2NWRDl1TUJnRVRpWk9ESVVpeWpMdHBsNHV5cGNtRFpxSlNoc3MxMmZBb0k2YUZQY3d4M2xSQ0xyOTJ5SjlPdDRZRW5rM1dUajVy?oc=5"
         }
       ]
     },
@@ -42,9 +42,9 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.9,
+      "currentPrice": 7.86,
       "weekAgoPrice": 7.769999980926514,
-      "percentChange": 1.67,
+      "percentChange": 1.16,
       "flagged": false,
       "news": []
     },
@@ -66,9 +66,9 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.38,
+      "currentPrice": 1.37,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": 0.73,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },

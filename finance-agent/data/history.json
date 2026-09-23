@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T14:16:40.193284Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 223.41,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 5.9,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWdGNlhDdEZWYjkwMEVGUGhNVWxMcjVaUEJOOG1uZldjSDZyNDVfUHRSMnltanVXekRnekV6endpanJVMWF0NmVtOUNkNW9lX2dEQTBwcXJEN1o5aXJOMHE4ejFTSlp1cFg3WjdjcW1FUlplbThEQTlQd1U1TmxMeGtlWlpJS0RQUHJUWFU1Rmx6T192dW1BMw?oc=5"
-          },
-          {
-            "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - Longbridge",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPeWRmeWthb21FeEFEWURnb1FKNktFeC1ueHR1NV81bEtrcGl6c2xESkxJampZN25wanJpN3FfbDdaZjJMbkZSSmItSWtJMFYxa0E?oc=5"
-          },
-          {
-            "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZHNXa0FOc1d3bmd6NTk0SDN6bEpxd0RUWGFFYnMtSU51dUFQWk5nTlVNQnU5N0dHenI5M2VJZm9hN3A3NF96dmYwUXBVUk9vZnZaWVJaNlpOdVVTREN1Rkp3YzJzSkM3RXl0LUlBaHhZOExvR0EwR1FlV1dxVkdvZlJrSGZYc0g4RENJQ0x2SXdwSnNScENTN1loNk1VdXFxT3NsZC1naEl4MmZzVHQtcVJXZ09tRXpiQkVvcXg0dkxvNlBla09mUm5iNXhCbnV2d2duQ29kTnozbUxmZ3RHbWRSN0NkZjhhbUtELTF3?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -6.49,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-21T15:16:28.361992Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1900,6 +1857,49 @@
           {
             "title": "SYM FINANCIAL Corp Cuts Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVlHRGRDRHN5OVJEQjh1bUFmbTEtXzBLeWhzaDRTbUtieE9mcGRSYVZSS3E2UU1CbWdhTkZpZzVGUklzSzQ4Q1dWb0U1SUdZX2ZWa2k0M2l2bTk4Q1IyZVRzUFl1TEhfSWZONGxmMUhjNDZQc2lyTDhMV2NWRDl1TUJnRVRpWk9ESVVpeWpMdHBsNHV5cGNtRFpxSlNoc3MxMmZBb0k2YUZQY3d4M2xSQ0xyOTJ5SjlPdDRZRW5rM1dUajVy?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 8.18,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T09:16:07.745489Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.87,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Monster insider trading alert for Nvidia stock - Finbold",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tempDLWxQbmM5S29YSnpnU0pRSEN4WGpxU3UwUVkzY1BlLUFKWmRSbkNVSnFTMVd2NFVfd3FLQ3c0LXdCajh3MmdPMFAyT0p5WGwzeHFTVkpZUVpiNDlwMlRMTUpITnNTZXFHYTBjLXdlMy1MRkEyRGVn?oc=5"
+          },
+          {
+            "title": "Is NVIDIA (NVDA.US) facing renewed resistance as its stock price hits new highs? Amid surging demand for both GPUs and Vera CPUs, a director has cashed out $300 million in a major sell-off. - \u5bcc\u9014\u725b\u725b",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHZ3eXAtNWRfSnpYS0JYQ25mRDNSTTZvZFRPeHpfeU5NUlc4ZnI2cThIR0E1c041MWg0bDN4SWNhdm5hZWRUdWs1N2hpTTF2RE1faktmbFFhblZqS2ZzU1A2c19ISW95NUJrUUxDWTNveFhEVllMZEEycDJSYjZoLWxwSHJMZUJOQ3JqZ0h0ZEdwNzBpMGY1X3dmV1ctX0lkRzgwakdnbw?oc=5"
+          },
+          {
+            "title": "Principal Financial Group Inc. Sells 1,192,149 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNW9pbndMM0cwZUtURERpWEhYeFlSRWkxdnhzLXg2eWlrY3VoSkNFZkg3U0hNYUJiQnVhdF9JT1lVNFVwN0FPRjVHYXVRcFdQNVZEaWRLLWg0T2JuM2VTaHV4MTZoVUxNYXVraG9KRkNwdG04bDdSWkRDZTBFSHZOVm1KSmpBcHVRbXlKUERRTDUwcTFza19fdExRREdVSzVqdFc3aXBzR3VjT2o1UTYtOG5FQTZ1b3FMTGY5UTN5NkdaTmhOejh5U1FXUjhlWUdhODV5RQ?oc=5"
           }
         ]
       },
