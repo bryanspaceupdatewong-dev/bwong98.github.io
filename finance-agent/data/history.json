@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T17:15:58.140702Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 226.975,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 7.59,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Better Artificial Intelligence Stock: Arm Holdings vs. NVIDIA - theglobeandmail.com",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeVQ4N2VrTjJZTWI0RThMN1QwM3RLaE1qVS02X2d4dTQyNS1WTFNSdUVQSEVoWDdBMXpqbDBTYnJwV0lORVhlSkQzaE1YOTZyNlc5VTVqZWJtNk1yY1NhQlZRZXZrYlZOVWpGREFZdDl3eHZoNmZnb0ZVc3dIaklZRzBjaTVaUDNnQ0Y1WXdudlpreFlTeG52YzBsV2M0V1BxN0Q0Yy10ZVc5a1g3ZHNvOEhrSmQtSUxjMkFfMXA0MXBETGMwSm1fV1Y2bzlqUG1ueTNMV3BQbzhURDJES2o0?oc=5"
-          },
-          {
-            "title": "Nvidia: One Of 5 AI Stocks Down Big (Relative To Earnings) (NASDAQ:NVDA) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkFzZnNYM1lkbEY0NmhobjRZaDdXMXlaUjZrS3gxMk1fUnVGM2RxWlFfQmtTaFlsSEc4bW1WOVBJZ2xJM2dEakpYOTJCMm1DN0o1RldsX2hadDFqZlVZU3U2TkpxQTJINzhTdmJoZGhpQVVsakFsM3MwTUhkWXFqdE9YQ1dqemNWUEVwc1dYSkxTNzlvdHBzbE5Jdm8?oc=5"
-          },
-          {
-            "title": "Nvidia Just Sent This Trucking Stock Surging - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUZJdFQ2dElULVZxdE5UZWJDRlg2b2Y4ZmF4bWZkWWdqZllEZEUxZkpUcEMyYlh6QlQ1Uk5vQnpDdnZRLWRkc1hvb0tHampub1gxSkJSQ0hHdXBVcFZwS1pQMzV0VmRkMFRnWGpXMWxVYkgtb2p5dmlWd1lURTBCdHYzMEJjVDNIYmZpbWFCNlhjMVpmelZuRWlhdEFEczZkb2NvanBjOA?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7850000262260437,
-        "percentChange": -8.28,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-21T18:16:11.755788Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1900,6 +1857,49 @@
           {
             "title": "NVDA Strong Buy: Consensus $324 Target Implies 50%+ Upside on NVIDIA's Data Center Dominance - FXLeaders",
             "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNGZWNmI4cjU2bThJdGhlTVVPNnBhOFFKcl9jYTQ3TEJYcGViTWRwX09BTHdBWDE3TGEwR21fNGNCZWdaZmpfMF9zc2hRSTlTT1kta3VrMklKMHRmdzVXNmVSV3U3M19EYnB1d3RBLTVhT25Tc0VBU2xDQ2UwYXEwQW5yQnBjb1p0OTJDLXdNc2ZUR0dnTWdhN2t5dndzNExVZG9vaHNDaUkwQjIxVW5NVjktM2FOaTFRVXFyY3IydlF4ZEthX3pkT0pR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 8.18,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T12:19:15.955580Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.87,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AI Chips Update - Rising AI Sentiment Drives Industry Shift and Efficiency Gains - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU05EbFdjeFYtcXh0cWJhOE1EQ29HbmdtRnRiM1dzdklvYjhudzVqYUxhSnBiSkJERjJtVkJVcWhENDFjUFBLUW4wX2RBM1pvSFBheWdHOGxtalJlbjNVOEhPc1lGeDBMVnNpcW5Kd1BGb0R3dFVVcjA4QzY4eW5kSU5DOHlLLUd2Vkc0aEpHNDJ5dU1JWk1lMmJnQkRNSTNSZUFKZC1tQTNQRE02eXpxTDlGbHlPUm5MQndBOFhtNDRlaW5QOHE1SE91UdIB0AFBVV95cUxNTlpFRUxSWWFJTXJpVDZ1U1hiWnNQeUtQbnpwTWV1S0hVdkYzbFV2ZXRfa0R2YUdLRjduNVh6RU9Qem9EMjlhMjVKMXdhbno5elZHMENidUktbWpwdHZvci1MUzBQeTgwVTVJM2I4R1N2YkdIUEotZzVXLWJnNmMzeEU4cVhUZmQycmh1YjJZMU9CRTdZS1hZd1pLNTBtdTFzTXRDdkdTWE8wTlFOT0FpVGY0cWNQVVEta3ktLUNFVEI2WkVqZjZVd2V6d3ZiT0pq?oc=5"
+          },
+          {
+            "title": "Insider Alert: Nvidia Director Dumps $300 Million in Stock - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWJNRmxkN0lSZlN1U2ZSNmlDcE9wWS1wcXVSWVpoRnlfVzk1WGVWbkxKOFBESm14RV9lMGJwWUplLUdzald6RE55b190Rmh1SnV1eXVaUUdreDg3bjd6bzNfeUdoZGFWTFlua2tKV1IyTXJmT2RyOTFpSzByMHdFOF8yS2IwZHE3cUNpOThXRWJXYVZLY0luZHZ0cw?oc=5"
+          },
+          {
+            "title": "Nvidia (NVDA) Stock Could Be A Bargain After AI Expansion - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWdhQzNaX2NqeFAzV2ZpX1Babl9FemJWenQ3c2oxamxPNkFzN1Awc05YWTRDM1VWOVlhd0xxRkJqR0R2N3Z5dlJxR25HY0FGWklFTVoyM0NWZjRRQWtIdDdrNTRSOW5MNjFqbzlmZS1fT2JndGJKUzAxTndkQ3U4V3NYakNNZDB4dUN1TDNLOURWWHVjRjFQVldDQ0pwMlRyc21VbDhISTZRVnI3MlY5NmpZSThiN3hvdUpVc2FTODI1aGRl0gHKAUFVX3lxTE1oTHV4RmpnQ242OUNZZVg5QVpmZXAtcDJ1ZEI4VG1vOUdEV05XU0UtWTFuZVNpN3FyR2tRUktjMV9OWC1HczNhNVkzQ3lTN2l4S3YzczFqdTVrUW1RYVRlYW56dS1fYU1IazdROG82N2FGV09IakhMaHV6RDFVSWhQOWp3ajlXMHFDbDN0by1uTEVYTzg1c3Iyd05BSGk3OFlDUTJNM1oxdVJTT2Y0bGtVd0ZFdS0ya1NsSURWZmk2MWgycWk1VURmdlE?oc=5"
           }
         ]
       },

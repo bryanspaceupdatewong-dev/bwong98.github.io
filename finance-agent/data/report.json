@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:17:27.492613Z",
+  "generatedAt": "2026-09-23T12:19:15.955580Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "AI Chips Update - Rising AI Sentiment Drives Industry Shift and Efficiency Gains - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU05EbFdjeFYtcXh0cWJhOE1EQ29HbmdtRnRiM1dzdklvYjhudzVqYUxhSnBiSkJERjJtVkJVcWhENDFjUFBLUW4wX2RBM1pvSFBheWdHOGxtalJlbjNVOEhPc1lGeDBMVnNpcW5Kd1BGb0R3dFVVcjA4QzY4eW5kSU5DOHlLLUd2Vkc0aEpHNDJ5dU1JWk1lMmJnQkRNSTNSZUFKZC1tQTNQRE02eXpxTDlGbHlPUm5MQndBOFhtNDRlaW5QOHE1SE91UdIB0AFBVV95cUxNTlpFRUxSWWFJTXJpVDZ1U1hiWnNQeUtQbnpwTWV1S0hVdkYzbFV2ZXRfa0R2YUdLRjduNVh6RU9Qem9EMjlhMjVKMXdhbno5elZHMENidUktbWpwdHZvci1MUzBQeTgwVTVJM2I4R1N2YkdIUEotZzVXLWJnNmMzeEU4cVhUZmQycmh1YjJZMU9CRTdZS1hZd1pLNTBtdTFzTXRDdkdTWE8wTlFOT0FpVGY0cWNQVVEta3ktLUNFVEI2WkVqZjZVd2V6d3ZiT0pq?oc=5"
+        },
+        {
+          "title": "Insider Alert: Nvidia Director Dumps $300 Million in Stock - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWJNRmxkN0lSZlN1U2ZSNmlDcE9wWS1wcXVSWVpoRnlfVzk1WGVWbkxKOFBESm14RV9lMGJwWUplLUdzald6RE55b190Rmh1SnV1eXVaUUdreDg3bjd6bzNfeUdoZGFWTFlua2tKV1IyTXJmT2RyOTFpSzByMHdFOF8yS2IwZHE3cUNpOThXRWJXYVZLY0luZHZ0cw?oc=5"
+        },
+        {
           "title": "Nvidia (NVDA) Stock Could Be A Bargain After AI Expansion - simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWdhQzNaX2NqeFAzV2ZpX1Babl9FemJWenQ3c2oxamxPNkFzN1Awc05YWTRDM1VWOVlhd0xxRkJqR0R2N3Z5dlJxR25HY0FGWklFTVoyM0NWZjRRQWtIdDdrNTRSOW5MNjFqbzlmZS1fT2JndGJKUzAxTndkQ3U4V3NYakNNZDB4dUN1TDNLOURWWHVjRjFQVldDQ0pwMlRyc21VbDhISTZRVnI3MlY5NmpZSThiN3hvdUpVc2FTODI1aGRl0gHKAUFVX3lxTE1oTHV4RmpnQ242OUNZZVg5QVpmZXAtcDJ1ZEI4VG1vOUdEV05XU0UtWTFuZVNpN3FyR2tRUktjMV9OWC1HczNhNVkzQ3lTN2l4S3YzczFqdTVrUW1RYVRlYW56dS1fYU1IazdROG82N2FGV09IakhMaHV6RDFVSWhQOWp3ajlXMHFDbDN0by1uTEVYTzg1c3Iyd05BSGk3OFlDUTJNM1oxdVJTT2Y0bGtVd0ZFdS0ya1NsSURWZmk2MWgycWk1VURmdlE?oc=5"
-        },
-        {
-          "title": "Is Chime Stock a Buy, Sell, or Hold After Nearly Doubling From Its 52-Week Low? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSUFGS0FkM0xfSE15ZEZCVkJuU1NMa1cwUW96bklnVjF3UkxicThVTDh5S2dZV0JUTUx0bExlMGZNazZLMGh0YnQ2WTRnY3duRUJ4d2UybG1RbTM3SGROZDNtR200UEtBYmlGOXFpRmhHWG1MWVNjZHhPQ3ZIN1hqYzB4ZHY0Q1RpeTVZMFlGS0ZJbEhiTGxVSWFWd1Rob1Y4TUkxOXJ4dGx2ekszVE1rb2lmNUlYa0NBNmZYQjdrdlROaHhuWmNIajJnTkw0Zk00NEU1WkowTl9OZ0tzTVRRcy1RQUdZUlV5OEZHSEFuQnBLTm8?oc=5"
-        },
-        {
-          "title": "NVDA Strong Buy: Consensus $324 Target Implies 50%+ Upside on NVIDIA's Data Center Dominance - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNGZWNmI4cjU2bThJdGhlTVVPNnBhOFFKcl9jYTQ3TEJYcGViTWRwX09BTHdBWDE3TGEwR21fNGNCZWdaZmpfMF9zc2hRSTlTT1kta3VrMklKMHRmdzVXNmVSV3U3M19EYnB1d3RBLTVhT25Tc0VBU2xDQ2UwYXEwQW5yQnBjb1p0OTJDLXdNc2ZUR0dnTWdhN2t5dndzNExVZG9vaHNDaUkwQjIxVW5NVjktM2FOaTFRVXFyY3IydlF4ZEthX3pkT0pR?oc=5"
         }
       ]
     },
