@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T06:17:02.592482Z",
+  "generatedAt": "2026-09-23T07:16:47.003285Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -23,12 +23,12 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzI1dWx0RVVuQ3BaZ01HNmRiZ1k2MmNqTjZ5QUxySlNZQlMxLXYyUjNmTWM1N2VzdkxfLUN2a3l5Q05EWk5qdlgyUUdfWmRKRW9DalBHWWw1bVF0Y3BDY0p3NUY5SkNiXzFoVWFXN2NwLV9WcUUxWFJEeWxNdF8yUU1zVEpXcHdQSzlZaHVNUmVQVkFWN2VibGFQMA?oc=5"
         },
         {
-          "title": "Elon Musk Is Going All In on Nvidia, but Are These Two Chip Stocks Better Buys? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHc1Tk0xSGd2WFFyLU51aFBRdWJnRy1Lb0FVdmJZSFZEUHp1U256TEFBUVhvdUxERzVvOTNMWUlSOWV5QTdSZHhIZW94by15RS12cUZRM3ZobXNjLVFMQS0tclNZT04xRFVteDhtOHNtbllBWVpmdlB3X0FGOVctc2hLVlE0RDRIcXNFNnV3MkdITGh1d0xv?oc=5"
+          "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02Rno1eTlSTTlIOFlDSFhUYjFQTi1FT3NlTmphNnM2M1E5VDJzNWFheDFiRmpyeERabnlPd3g5cUpHMmplYnMtTFAydWZDajhCdWh1Z3NzaVZQSnpGYUtwLTZ4TklZc0VDUUR6R1FlX3ZWUVJ2cFpCTEhxY3lyZw?oc=5"
         },
         {
-          "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - aol.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02Rno1eTlSTTlIOFlDSFhUYjFQTi1FT3NlTmphNnM2M1E5VDJzNWFheDFiRmpyeERabnlPd3g5cUpHMmplYnMtTFAydWZDajhCdWh1Z3NzaVZQSnpGYUtwLTZ4TklZc0VDUUR6R1FlX3ZWUVJ2cFpCTEhxY3lyZw?oc=5"
+          "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnMtSlBuUGQxc1U2SmtSTnR4ZUhUMXJoazVZckU3UnBvWU1HVzlPLUlqQzZKcTA0Z1AwSVNjRFVCN1VQT05yX3BHcjJZSGFCOWlfQWV3a0otdWtmQ3VsRFAyWlEtbGk0RkhmNW51SXFXb3hnc1VuMUthNUpzVFlkWkgzeUVnWGdZNVJjTFBzektyQ3BYYVIzaA?oc=5"
         }
       ]
     },
@@ -66,17 +66,17 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.39,
+      "currentPrice": 1.38,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": 1.46,
+      "percentChange": 0.73,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.3,
       "weekAgoPrice": 1.2799999713897705,
-      "percentChange": 0.78,
+      "percentChange": 1.56,
       "flagged": false,
       "news": []
     },
