@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T07:16:47.003285Z",
+  "generatedAt": "2026-09-23T07:28:36.188136Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia director Mark Stevens sells another $300M in shares (NVDA:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzI1dWx0RVVuQ3BaZ01HNmRiZ1k2MmNqTjZ5QUxySlNZQlMxLXYyUjNmTWM1N2VzdkxfLUN2a3l5Q05EWk5qdlgyUUdfWmRKRW9DalBHWWw1bVF0Y3BDY0p3NUY5SkNiXzFoVWFXN2NwLV9WcUUxWFJEeWxNdF8yUU1zVEpXcHdQSzlZaHVNUmVQVkFWN2VibGFQMA?oc=5"
+          "title": "Boomfish Wealth Group LLC Purchases 9,825 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU3RTZ1BPcmF6UGVFSF9CNXV1V3JZMlV1TWE0NXdwR0pKb3V1R3FrZEdYbDRrUjVhODNFUVN6N1JYVFN5M0RqMFltbFVUOWt5X2JzaHB1SWVWU21IUVE2c21Ma0Q0UUxub0VidlUwcmRoT096YjFvUXBfUFgwaEZHcF8teFhNMW4tX0Q3NkVlbFV3WlpJanUtWE1kcjZreEsyMmxCMkVITUNXZHlYZ0o5WjlrMUM3U1d0UU9QYTI4RmVwOG1vUnBTSm8tcHB3SEpt?oc=5"
         },
         {
-          "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02Rno1eTlSTTlIOFlDSFhUYjFQTi1FT3NlTmphNnM2M1E5VDJzNWFheDFiRmpyeERabnlPd3g5cUpHMmplYnMtTFAydWZDajhCdWh1Z3NzaVZQSnpGYUtwLTZ4TklZc0VDUUR6R1FlX3ZWUVJ2cFpCTEhxY3lyZw?oc=5"
+          "title": "NVIDIA Corporation $NVDA Shares Bought by Journey Advisory Group LLC - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOazI5c2VqZHBHSUpRYzdtNUZCZW9OQ29WTlFaY0RtbEU4YjJrb1lJUHZFWU5QaEdxM0FsdDJ5QjRwUEhtMFlQdWNNV1RfMm1BZDY3S1F0THkyc2Y0YjE3RTh6MTg5cDVpemZ4VEpYbjV1YkZNLWFkVVlnRmlLal8wMTNmckdhM2FZcWhFR0YzdlN2MUEwcV84YTFaM0dCUFlmclcyNXdYV2xzRWU5SFE4cGFLajNDUVNzekpjeVNoRWk3dlFTX25J?oc=5"
         },
         {
-          "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnMtSlBuUGQxc1U2SmtSTnR4ZUhUMXJoazVZckU3UnBvWU1HVzlPLUlqQzZKcTA0Z1AwSVNjRFVCN1VQT05yX3BHcjJZSGFCOWlfQWV3a0otdWtmQ3VsRFAyWlEtbGk0RkhmNW51SXFXb3hnc1VuMUthNUpzVFlkWkgzeUVnWGdZNVJjTFBzektyQ3BYYVIzaA?oc=5"
+          "title": "Hilton Capital Management LLC Raises Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU3lFLVdWS0xoVGxDMHhfMEdzMjZEc21JSlVmN3l3VlplUjFlOU40VzVLdGNfYWhVZVMyZTMtOVFTYlpubUxPdHhubGVzNnNjV09RRkQ0WGxLYlJtRDY3Qldyc2F4a1d2UFFjdFlnNkhTSEwwQ3Y5XzcwNGY4TG80VTNZellEak85cFd5eXpOQ2tpelFmMVJ4V0JYOHJwUW51MkxmcjFFZlRqaFhRcVhDLUlEQkpOdmtOdUFrcjdEM2RQN1Y2LWxsclFVc1RzeXAxenVUeWdR?oc=5"
         }
       ]
     },
@@ -50,33 +50,33 @@
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.51,
+      "currentPrice": 1.52,
       "weekAgoPrice": 1.5399999618530273,
-      "percentChange": -1.95,
+      "percentChange": -1.3,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.9,
+      "currentPrice": 1.91,
       "weekAgoPrice": 1.9299999475479126,
-      "percentChange": -1.55,
+      "percentChange": -1.04,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.38,
+      "currentPrice": 1.39,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": 0.73,
+      "percentChange": 1.46,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.3,
+      "currentPrice": 1.29,
       "weekAgoPrice": 1.2799999713897705,
-      "percentChange": 1.56,
+      "percentChange": 0.78,
       "flagged": false,
       "news": []
     },
@@ -90,9 +90,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.2,
+      "currentPrice": 1.19,
       "weekAgoPrice": 1.100000023841858,
-      "percentChange": 9.09,
+      "percentChange": 8.18,
       "flagged": true,
       "news": []
     },
