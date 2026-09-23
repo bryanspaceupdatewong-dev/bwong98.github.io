@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T22:16:06.469068Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 227.38,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 7.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High (Live Coverage) - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcmo0ekw5d2RwR0RpRXVxV3FtVy0xczc5N2JvT2dCR1pVcXNXS016dnVMZl9pVHlRUUxrWkdhaDdKTlJaWGxRa2lPYVRHRHBMS2Q3NjlaaXEzWG9TNU1FcGVRT0FCR29nbEJEYlpFcFN4ZmNhSWRuaWk5XzltR0NVSGRudEpuV1BhbUotLUlwRzlKSDV3ckM0cFJJaG5oMUgybDM3SEYyZ3BvbFNLYW0tYWc2ZC1YYk54WkFNZzBIR3V0dzZCOERpZndXREtPZElGcUE?oc=5"
-          },
-          {
-            "title": "NVIDIA Or Micron: Which Gets Paid More Safely For The AI Shortage? - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnJzZU94dG5NT0otS2JMU1VEVGVXa2lIbjA0d2c4R09aRlRuVzU1S1gxSmhOdU9Wdy15elhRNUdpNG15emJiZHFZTFp6SjIyVTVxQ09BUkZHbFJkTEg5UzZkV3ZVaHg2dlhOdGg3WWJzMUdQaEZQaW9JaFFXWWV4WG5nTktFNGFqc1p5NVVTeGRrbVRyMDJXTmFWTFRldGJDT25SNXc2VE5FZHFhYWtKc0NKOVFlTWRES3MzcEdGdmFxWTg?oc=5"
-          },
-          {
-            "title": "Nvidia Stock: Are Trump Talks With China's Xi the AI Chips Catalyst It Needs? - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWIzWXFnQ3VTZjVDUXRCcm5OeUx5Q094XzI4alVVaUNFZWc4T285YWo2Y0phRm8xSDVBS0gycU56VlJ2emw2SUQwdGpCS0J3bjc0NGJFT1ZYZUY0YlJ5RkJ3bVFHQkhZVHNPQnd4VXZPYmxXOGVwajdlZnQ2OS1vWDN1Y0dESjk1ZktGUw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -6.49,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-21T23:16:19.755816Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1900,6 +1857,49 @@
           {
             "title": "Nvidia Director Is Cashing Out $300M. Should You Be Worried? - 24/7 Wall St.",
             "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdEM2Rm9EY01LU21OdDNZUG1HY1VDMmh5bTlOMTZmVGxrRU8tWTJ6Y1p5UGJrNW5PSFlNQUgyM3ZfeFZrQnJPVktYZ2ZjU19tVEQteEkyZTVpNDJzaHdzd1FCR1lyUG43dGFJWVlQb0NMQ2tZcWZxbGwyWE9heVNqdW5QZGhoeHN0SHdKdVhjakd0R0hIVk9tMFZsQ3l6NE9aa0Nz?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.1299999952316284,
+        "percentChange": 5.31,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T18:16:02.395720Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.36,
+        "weekAgoPrice": 212.1699981689453,
+        "percentChange": 6.22,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OaEllOUdaN01GNGFudFRQLWV3Wk9RNDd3SHJ2R1RRby13S0tMeS1NZ2Vic21oZjJkVGtEUG9DcTBwRHVIeUF5V2F1RHc0RE04SER2Z0dTNkZIRktLNVEzaTZMRjFCN0dmbGQ2YVJMVlNSVkUzYm5GSVN1bWtNQQ?oc=5"
+          },
+          {
+            "title": "Nvidia director sells $300M in stock amid stron... - Pluang",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjRsYnpoNExrTTlNOXpxWS04Tmtnamozd29SZ215cE1xZGdVWEtLa2E5OV84bGR2VGpLN3RJaElWdmY2VWRQaTM4SnBlWE1kOWNhQzJETFlVZ3ZybFJmMzM5ck9JUnhRUURsRldVTHpDM0ZVa0VxVDNGOHk4c19lazJGRkJOelJDaDdOY3Vhbw?oc=5"
+          },
+          {
+            "title": "Nvidia Director Is Cashing Out $300M. Should You Be Worried? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkczWnNEUGxxLUhYdE5WbGl2WE9RWDlEZUpxSEJnZG9sYXo0Wm5ObE5QcDFPblAya0lGTlJKRjJteF9OUVVmQXBMZ1REVktCRnVDT1NJSG02ckVwYVRGc1Z3Zm5La19QZHF2d3Z3TGpwcURKRU5xaFlPb0tJYmk5eXZXQXA4ZmppVlJRMFlha29OX1lZMkc4NVhhV2U1c2Z5d0JB?oc=5"
           }
         ]
       },

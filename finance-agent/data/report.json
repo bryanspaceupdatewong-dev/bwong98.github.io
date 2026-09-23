@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-09-23T17:16:00.668899Z",
+  "generatedAt": "2026-09-23T18:16:02.395720Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 499.7,
+      "currentPrice": 499.545,
       "weekAgoPrice": 497.1199951171875,
-      "percentChange": 0.52,
+      "percentChange": 0.49,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 224.42,
+      "currentPrice": 225.36,
       "weekAgoPrice": 212.1699981689453,
-      "percentChange": 5.77,
+      "percentChange": 6.22,
       "flagged": true,
       "news": [
         {
@@ -27,8 +27,8 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjRsYnpoNExrTTlNOXpxWS04Tmtnamozd29SZ215cE1xZGdVWEtLa2E5OV84bGR2VGpLN3RJaElWdmY2VWRQaTM4SnBlWE1kOWNhQzJETFlVZ3ZybFJmMzM5ck9JUnhRUURsRldVTHpDM0ZVa0VxVDNGOHk4c19lazJGRkJOelJDaDdOY3Vhbw?oc=5"
         },
         {
-          "title": "Nvidia Director Is Cashing Out $300M. Should You Be Worried? - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdEM2Rm9EY01LU21OdDNZUG1HY1VDMmh5bTlOMTZmVGxrRU8tWTJ6Y1p5UGJrNW5PSFlNQUgyM3ZfeFZrQnJPVktYZ2ZjU19tVEQteEkyZTVpNDJzaHdzd1FCR1lyUG43dGFJWVlQb0NMQ2tZcWZxbGwyWE9heVNqdW5QZGhoeHN0SHdKdVhjakd0R0hIVk9tMFZsQ3l6NE9aa0Nz?oc=5"
+          "title": "Nvidia Director Is Cashing Out $300M. Should You Be Worried? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkczWnNEUGxxLUhYdE5WbGl2WE9RWDlEZUpxSEJnZG9sYXo0Wm5ObE5QcDFPblAya0lGTlJKRjJteF9OUVVmQXBMZ1REVktCRnVDT1NJSG02ckVwYVRGc1Z3Zm5La19QZHF2d3Z3TGpwcURKRU5xaFlPb0tJYmk5eXZXQXA4ZmppVlJRMFlha29OX1lZMkc4NVhhV2U1c2Z5d0JB?oc=5"
         }
       ]
     },
