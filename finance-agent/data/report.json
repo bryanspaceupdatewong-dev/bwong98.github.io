@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T02:16:27.676230Z",
+  "generatedAt": "2026-09-23T03:15:48.970063Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,8 +19,8 @@
       "flagged": true,
       "news": [
         {
-          "title": "NVDA Stock Eyes the $236 Record Highs as 2027 NVIDIA Growth Forecasts Rise - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmRKaGFHc1NQRmY4czJaWER3ekdDcHhwbW9BVmhPT1RTRGR0UHZTejI3Xzd5Y0VrbGNSZlFvYVFRQ1lhSS12eHppSlpLemxtX0l5Q3o2RUpyM3FGeERRWXFfLWRORUVhWFJZcmRHbzllck5KR2h6V0J6SHN2bGZIME1mMC1hV2xIZEl0ZGtJZWVSUW1RdTZIVUdYWjVReVhNdEh0QlpJUHVMYjcxemlUXzUwZmIxQzg?oc=5"
+          "title": "NVDA Stock Eyes the $236 Record High as 2027 NVIDIA Growth Forecasts Rise - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQckNScjQ5OFdXRDc5Yi1kV25QNHlqcUp4d2JCUW5yY1owbkJyV1Fwcndvb0xFTWl1ZHU4VGZSd0pINE9uVGEyaWhtNlpQbF83dXU2Q2dUX0ppSnBhUkUyYWdWdnRYOTI4eXMyS19YSzZMaldrS2dnTEppeERULThTdW15QWVWMnpvMXdSZGpfeGR1ZlZldzVfV3J3ekJjbW5aNGlSMkowVmducGRRVlV1RDhKdWxxQQ?oc=5"
         },
         {
           "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy? - The Motley Fool",
@@ -34,9 +34,9 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.84,
+      "currentPrice": 4.83,
       "weekAgoPrice": 4.800000190734863,
-      "percentChange": 0.83,
+      "percentChange": 0.62,
       "flagged": false,
       "news": []
     },
@@ -50,9 +50,9 @@
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.53,
+      "currentPrice": 1.52,
       "weekAgoPrice": 1.5399999618530273,
-      "percentChange": -0.65,
+      "percentChange": -1.3,
       "flagged": false,
       "news": []
     },
@@ -66,17 +66,17 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.37,
+      "currentPrice": 1.38,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": -0.0,
+      "percentChange": 0.73,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.31,
+      "currentPrice": 1.3,
       "weekAgoPrice": 1.2799999713897705,
-      "percentChange": 2.34,
+      "percentChange": 1.56,
       "flagged": false,
       "news": []
     },
@@ -90,17 +90,17 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.2,
+      "currentPrice": 1.19,
       "weekAgoPrice": 1.100000023841858,
-      "percentChange": 9.09,
+      "percentChange": 8.18,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.71,
+      "currentPrice": 0.705,
       "weekAgoPrice": 0.75,
-      "percentChange": -5.33,
+      "percentChange": -6.0,
       "flagged": true,
       "news": []
     }
