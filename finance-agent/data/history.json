@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T13:19:02.313601Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -6.49,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-21T14:16:40.193284Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1879,6 +1857,49 @@
           {
             "title": "Hilton Capital Management LLC Raises Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU3lFLVdWS0xoVGxDMHhfMEdzMjZEc21JSlVmN3l3VlplUjFlOU40VzVLdGNfYWhVZVMyZTMtOVFTYlpubUxPdHhubGVzNnNjV09RRkQ0WGxLYlJtRDY3Qldyc2F4a1d2UFFjdFlnNkhTSEwwQ3Y5XzcwNGY4TG80VTNZellEak85cFd5eXpOQ2tpelFmMVJ4V0JYOHJwUW51MkxmcjFFZlRqaFhRcVhDLUlEQkpOdmtOdUFrcjdEM2RQN1Y2LWxsclFVc1RzeXAxenVUeWdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 8.18,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T08:16:42.036108Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.87,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Principal Financial Group Inc. Sells 1,192,149 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNW9pbndMM0cwZUtURERpWEhYeFlSRWkxdnhzLXg2eWlrY3VoSkNFZkg3U0hNYUJiQnVhdF9JT1lVNFVwN0FPRjVHYXVRcFdQNVZEaWRLLWg0T2JuM2VTaHV4MTZoVUxNYXVraG9KRkNwdG04bDdSWkRDZTBFSHZOVm1KSmpBcHVRbXlKUERRTDUwcTFza19fdExRREdVSzVqdFc3aXBzR3VjT2o1UTYtOG5FQTZ1b3FMTGY5UTN5NkdaTmhOejh5U1FXUjhlWUdhODV5RQ?oc=5"
+          },
+          {
+            "title": "TD Asset Management Inc Has $5.07 Billion Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM2hDbU4zQUsyN3IwTU42T0JVRDRmU0dvbTI2NnRRSGVaamNfMk1nN1drUEpoQ1lUVXgtMnlmdWJRT1BGQ3ZPS3NXbmJzQk1QWUNFSlBCMXJIZEhXaUo1cnBfMVBsVWF0bDdRRWI0YldhcFczTXJ3eThTSlFWODRMTGFGVmRvUzRLUUJkQjB3NW1kZTVJTkxIekRZakFzY0dOLTZLNFBBWWZuZkE1ZlB2c0ZXbU9UdVNRRjFndHhPSnpQWlpYWVZ5ZnVfc0syU3EtSXY2ODRzSGNoQQ?oc=5"
+          },
+          {
+            "title": "SYM FINANCIAL Corp Cuts Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVlHRGRDRHN5OVJEQjh1bUFmbTEtXzBLeWhzaDRTbUtieE9mcGRSYVZSS3E2UU1CbWdhTkZpZzVGUklzSzQ4Q1dWb0U1SUdZX2ZWa2k0M2l2bTk4Q1IyZVRzUFl1TEhfSWZONGxmMUhjNDZQc2lyTDhMV2NWRDl1TUJnRVRpWk9ESVVpeWpMdHBsNHV5cGNtRFpxSlNoc3MxMmZBb0k2YUZQY3d4M2xSQ0xyOTJ5SjlPdDRZRW5rM1dUajVy?oc=5"
           }
         ]
       },
