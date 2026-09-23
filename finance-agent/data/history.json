@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T05:16:29.713432Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -6.49,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-21T06:18:28.816238Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1723,6 +1701,41 @@
           {
             "title": "NVDA Stock Eyes $236 Record Highs as 2027 NVIDIA Growth Forecasts Rise - FXLeaders",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWRHN3MySkFWb2FPUzFQbVdtSXJINVR3UU9iNnRPU1VhZzRHbi1zcnRjbE42Z1QteGlSa3NkbFBPT3p1ekRtMVZqS3BEVW9hRnhGdFFCR0VHV2ZDYVBMVEg4UXBMSGFpd05LakdjUzc0cW00cmRqby1XalVWclVZSUtjdHo3dHhRT05TQ1JJZVJ6RHQyVk56Nm9ya09Yb0VmbjJqdUN6UE15Wlk5SWVxa01R?oc=5"
+          },
+          {
+            "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0p2eFY5bmR3aWttNFRYRHk0N2tjSkRBeHE4Y2JJLTNVZ1FWRkJueWkzbXR5c3VNNG9tcmlxWEZNQlR1SEZEei0wLVVSSkVXZHA1YUVoYnVSV1JYSDlpb2s3TjB4ckFZX2JIOG1oSEhUQkU5aFNURkU3UnhWQk9RWUVBUnBPd0ZrNW4wYXc0RWhKYmRST3h5RjJVSGxnM1ZjbF8yVy1wS2J6Vm5yTWFldw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.21,
+        "weekAgoPrice": 1.1299999952316284,
+        "percentChange": 7.08,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T01:16:26.910874Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.87,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Eyes the $236 Record Highs as 2027 NVIDIA Growth Forecasts Rise - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmRKaGFHc1NQRmY4czJaWER3ekdDcHhwbW9BVmhPT1RTRGR0UHZTejI3Xzd5Y0VrbGNSZlFvYVFRQ1lhSS12eHppSlpLemxtX0l5Q3o2RUpyM3FGeERRWXFfLWRORUVhWFJZcmRHbzllck5KR2h6V0J6SHN2bGZIME1mMC1hV2xIZEl0ZGtJZWVSUW1RdTZIVUdYWjVReVhNdEh0QlpJUHVMYjcxemlUXzUwZmIxQzg?oc=5"
+          },
+          {
+            "title": "Nvidia\u2019s Cooling Stock Valuations Are Being Looked At As A Warning Signal - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOVNPYzZQdFdhZktUd2VRcnFCSGtnUjZ5dnp6ZFh5MVlLZVR2eGhRdE1TV1JnYlh2NFdVZDBGTHFjTnVIN2N3RWF3bXQ3ZDgxTTAzOE1oZFhpdXVVVDRJWEhPeDZEOHBwNk53azBnRWxCa1hUd0NmTFNibklfRTZtSUkzQk9GSEEtRTZqUVg5VVVVbEUxWkQ4OHZHcVJIRk1hUDFzMnRmWEJmem9aRGpQOFdxMldIWXlUY25nNndXT0dFMzE3cTRPN0l0WUNkUG8?oc=5"
           },
           {
             "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy? - The Motley Fool",
