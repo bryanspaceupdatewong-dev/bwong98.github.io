@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T16:16:01.750751Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 225.373,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 6.83,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Just Sent This Trucking Stock Surging - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUZJdFQ2dElULVZxdE5UZWJDRlg2b2Y4ZmF4bWZkWWdqZllEZEUxZkpUcEMyYlh6QlQ1Uk5vQnpDdnZRLWRkc1hvb0tHampub1gxSkJSQ0hHdXBVcFZwS1pQMzV0VmRkMFRnWGpXMWxVYkgtb2p5dmlWd1lURTBCdHYzMEJjVDNIYmZpbWFCNlhjMVpmelZuRWlhdEFEczZkb2NvanBjOA?oc=5"
-          },
-          {
-            "title": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage) - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcmo0ekw5d2RwR0RpRXVxV3FtVy0xczc5N2JvT2dCR1pVcXNXS016dnVMZl9pVHlRUUxrWkdhaDdKTlJaWGxRa2lPYVRHRHBMS2Q3NjlaaXEzWG9TNU1FcGVRT0FCR29nbEJEYlpFcFN4ZmNhSWRuaWk5XzltR0NVSGRudEpuV1BhbUotLUlwRzlKSDV3ckM0cFJJaG5oMUgybDM3SEYyZ3BvbFNLYW0tYWc2ZC1YYk54WkFNZzBIR3V0dzZCOERpZndXREtPZElGcUE?oc=5"
-          },
-          {
-            "title": "Meet the Quantum Computing Stock Growing Faster Than Nvidia - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3dqQnltY1RFOVhPTURRWVZmYWMzUUhHWWpvR0FscTE2MkhGYlRsSzNveDBxVDNaeHlQRklyVXZ6bk11QzN3OFhKWkFPSHMweFFQWHlZd1Qya0tLQXRUTmhqNHlSNFFoNkRnVDlEREtYSno3MndlNFdjLU1Xbm8tUmFYaXlFUFQwc2RNZ2FvNVRRT1ZWSVQzSw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7850000262260437,
-        "percentChange": -8.28,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-21T17:15:58.140702Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1880,6 +1837,49 @@
   },
   {
     "generatedAt": "2026-09-23T10:16:13.456219Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.87,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia (NVDA) Stock Could Be A Bargain After AI Expansion - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWdhQzNaX2NqeFAzV2ZpX1Babl9FemJWenQ3c2oxamxPNkFzN1Awc05YWTRDM1VWOVlhd0xxRkJqR0R2N3Z5dlJxR25HY0FGWklFTVoyM0NWZjRRQWtIdDdrNTRSOW5MNjFqbzlmZS1fT2JndGJKUzAxTndkQ3U4V3NYakNNZDB4dUN1TDNLOURWWHVjRjFQVldDQ0pwMlRyc21VbDhISTZRVnI3MlY5NmpZSThiN3hvdUpVc2FTODI1aGRl0gHKAUFVX3lxTE1oTHV4RmpnQ242OUNZZVg5QVpmZXAtcDJ1ZEI4VG1vOUdEV05XU0UtWTFuZVNpN3FyR2tRUktjMV9OWC1HczNhNVkzQ3lTN2l4S3YzczFqdTVrUW1RYVRlYW56dS1fYU1IazdROG82N2FGV09IakhMaHV6RDFVSWhQOWp3ajlXMHFDbDN0by1uTEVYTzg1c3Iyd05BSGk3OFlDUTJNM1oxdVJTT2Y0bGtVd0ZFdS0ya1NsSURWZmk2MWgycWk1VURmdlE?oc=5"
+          },
+          {
+            "title": "Is Chime Stock a Buy, Sell, or Hold After Nearly Doubling From Its 52-Week Low? - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSUFGS0FkM0xfSE15ZEZCVkJuU1NMa1cwUW96bklnVjF3UkxicThVTDh5S2dZV0JUTUx0bExlMGZNazZLMGh0YnQ2WTRnY3duRUJ4d2UybG1RbTM3SGROZDNtR200UEtBYmlGOXFpRmhHWG1MWVNjZHhPQ3ZIN1hqYzB4ZHY0Q1RpeTVZMFlGS0ZJbEhiTGxVSWFWd1Rob1Y4TUkxOXJ4dGx2ekszVE1rb2lmNUlYa0NBNmZYQjdrdlROaHhuWmNIajJnTkw0Zk00NEU1WkowTl9OZ0tzTVRRcy1RQUdZUlV5OEZHSEFuQnBLTm8?oc=5"
+          },
+          {
+            "title": "NVDA Strong Buy: Consensus $324 Target Implies 50%+ Upside on NVIDIA's Data Center Dominance - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNGZWNmI4cjU2bThJdGhlTVVPNnBhOFFKcl9jYTQ3TEJYcGViTWRwX09BTHdBWDE3TGEwR21fNGNCZWdaZmpfMF9zc2hRSTlTT1kta3VrMklKMHRmdzVXNmVSV3U3M19EYnB1d3RBLTVhT25Tc0VBU2xDQ2UwYXEwQW5yQnBjb1p0OTJDLXdNc2ZUR0dnTWdhN2t5dndzNExVZG9vaHNDaUkwQjIxVW5NVjktM2FOaTFRVXFyY3IydlF4ZEthX3pkT0pR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 8.18,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T11:17:27.492613Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
