@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-22T00:16:02.922082Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -6.49,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-22T01:16:14.608997Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1900,6 +1878,49 @@
           {
             "title": "Nvidia director sells $300M in stock amid stron... - Pluang",
             "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjRsYnpoNExrTTlNOXpxWS04Tmtnamozd29SZ215cE1xZGdVWEtLa2E5OV84bGR2VGpLN3RJaElWdmY2VWRQaTM4SnBlWE1kOWNhQzJETFlVZ3ZybFJmMzM5ck9JUnhRUURsRldVTHpDM0ZVa0VxVDNGOHk4c19lazJGRkJOelJDaDdOY3Vhbw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 8.18,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T20:16:34.099758Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.51,
+        "weekAgoPrice": 213.89999389648438,
+        "percentChange": 5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Sandisk vs. NVIDIA: Which AI Stock Is the Better Buy Now? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTlJNSzFwcDhsMGhjXzA2ZmFTdHc4ekwyYTNPVlB2b2lyS2ZpVUt3UkswMUtkNWtyWWgxcXFXbG03aWdqN3k1Q1Vmd2NqRXAyeVRpd3VVZ1lXdE03aGVITjg0ZUhXYVNOREZ6aWJYLUhvYk1DYmFqakQ0cVRONHpuc1FObnFjNllPRXZ6cUloN1gtMEhQSmc?oc=5"
+          },
+          {
+            "title": "Why 1 Nvidia Insider Just Sold Another $300 Million in Shares - Barchart.com",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzhTZzlfX3pyM2xWekN4OTdhQy1RdkpWYktSVDlVdFZWd2t2RTJkbnBmMFRuemVjUmJhV0EtT1B1T0RJUEhSUU5MWGZiZHlnT3h3TVJnejVxZUs2TFU3SWV2R0dzclAybURPeFFDNkZfVUFWWFZYMDR4YnJHZ05LWlNvVU9yOVYtUWR6WDVuTGxLeFh2NG5WODVEYTBTRm9rVE5RYnRJbw?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Falls. It Has a Google AI Chip Conundrum. - barrons.com",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONFNKSXh1cWdKdlk1LVQ2WjZ5UUZrN0Npak92YkZRd2xfTlhZdTc3UkFNTXM1S05SMVJzdDBidmlqLTlCXy10TDZ3OUg2ckE4ZHhDT1BlVXYtWXBkaFlmNndrY2FRaWNlX0VKLWwxZE5Za0VEN19vQkROUVV5eGxzX3pB?oc=5"
           }
         ]
       },

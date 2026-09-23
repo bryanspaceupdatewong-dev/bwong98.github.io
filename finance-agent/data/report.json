@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-09-23T19:15:49.030785Z",
+  "generatedAt": "2026-09-23T20:16:34.099758Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 500.27,
-      "weekAgoPrice": 497.1199951171875,
-      "percentChange": 0.63,
+      "currentPrice": 500.59,
+      "weekAgoPrice": 490.29998779296875,
+      "percentChange": 2.1,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 225.25,
-      "weekAgoPrice": 212.1699981689453,
-      "percentChange": 6.16,
+      "currentPrice": 225.51,
+      "weekAgoPrice": 213.89999389648438,
+      "percentChange": 5.43,
       "flagged": true,
       "news": [
+        {
+          "title": "Sandisk vs. NVIDIA: Which AI Stock Is the Better Buy Now? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTlJNSzFwcDhsMGhjXzA2ZmFTdHc4ekwyYTNPVlB2b2lyS2ZpVUt3UkswMUtkNWtyWWgxcXFXbG03aWdqN3k1Q1Vmd2NqRXAyeVRpd3VVZ1lXdE03aGVITjg0ZUhXYVNOREZ6aWJYLUhvYk1DYmFqakQ0cVRONHpuc1FObnFjNllPRXZ6cUloN1gtMEhQSmc?oc=5"
+        },
         {
           "title": "Why 1 Nvidia Insider Just Sold Another $300 Million in Shares - Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzhTZzlfX3pyM2xWekN4OTdhQy1RdkpWYktSVDlVdFZWd2t2RTJkbnBmMFRuemVjUmJhV0EtT1B1T0RJUEhSUU5MWGZiZHlnT3h3TVJnejVxZUs2TFU3SWV2R0dzclAybURPeFFDNkZfVUFWWFZYMDR4YnJHZ05LWlNvVU9yOVYtUWR6WDVuTGxLeFh2NG5WODVEYTBTRm9rVE5RYnRJbw?oc=5"
         },
         {
-          "title": "Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OaEllOUdaN01GNGFudFRQLWV3Wk9RNDd3SHJ2R1RRby13S0tMeS1NZ2Vic21oZjJkVGtEUG9DcTBwRHVIeUF5V2F1RHc0RE04SER2Z0dTNkZIRktLNVEzaTZMRjFCN0dmbGQ2YVJMVlNSVkUzYm5GSVN1bWtNQQ?oc=5"
-        },
-        {
-          "title": "Nvidia director sells $300M in stock amid stron... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjRsYnpoNExrTTlNOXpxWS04Tmtnamozd29SZ215cE1xZGdVWEtLa2E5OV84bGR2VGpLN3RJaElWdmY2VWRQaTM4SnBlWE1kOWNhQzJETFlVZ3ZybFJmMzM5ck9JUnhRUURsRldVTHpDM0ZVa0VxVDNGOHk4c19lazJGRkJOelJDaDdOY3Vhbw?oc=5"
+          "title": "Nvidia Stock Falls. It Has a Google AI Chip Conundrum. - barrons.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONFNKSXh1cWdKdlk1LVQ2WjZ5UUZrN0Npak92YkZRd2xfTlhZdTc3UkFNTXM1S05SMVJzdDBidmlqLTlCXy10TDZ3OUg2ckE4ZHhDT1BlVXYtWXBkaFlmNndrY2FRaWNlX0VKLWwxZE5Za0VEN19vQkROUVV5eGxzX3pB?oc=5"
         }
       ]
     },
