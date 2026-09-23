@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T23:16:19.755816Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 227.38,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 7.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVDA Stock Nears $230 as Nvidia CEO Huang Sees Chip Sales Doubling - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTDlOdl9WSTBDSU4wZVpEVFdoOUdtQTdOY2FHa1YxVzVQUDZYRTluN2xRb0poN1NTclZiRW1YY1FPeWgwWnpxN1BibFB0TmlHMW1aSFF1cFFFYTAwS1JfWVMta0VLZjJud2tkbmtnOTNfSzJnd2ZYS2VkdFlYVktkWm5ZckVLT2lMODNUXy1lazg3ZVpfV2d2Y0hXSThPa2tEQ1ZjRnEzNnRWa0Qt?oc=5"
-          },
-          {
-            "title": "Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High (Live Coverage) - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcmo0ekw5d2RwR0RpRXVxV3FtVy0xczc5N2JvT2dCR1pVcXNXS016dnVMZl9pVHlRUUxrWkdhaDdKTlJaWGxRa2lPYVRHRHBMS2Q3NjlaaXEzWG9TNU1FcGVRT0FCR29nbEJEYlpFcFN4ZmNhSWRuaWk5XzltR0NVSGRudEpuV1BhbUotLUlwRzlKSDV3ckM0cFJJaG5oMUgybDM3SEYyZ3BvbFNLYW0tYWc2ZC1YYk54WkFNZzBIR3V0dzZCOERpZndXREtPZElGcUE?oc=5"
-          },
-          {
-            "title": "NVIDIA Or Micron: Which Gets Paid More Safely For The AI Shortage? - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnJzZU94dG5NT0otS2JMU1VEVGVXa2lIbjA0d2c4R09aRlRuVzU1S1gxSmhOdU9Wdy15elhRNUdpNG15emJiZHFZTFp6SjIyVTVxQ09BUkZHbFJkTEg5UzZkV3ZVaHg2dlhOdGg3WWJzMUdQaEZQaW9JaFFXWWV4WG5nTktFNGFqc1p5NVVTeGRrbVRyMDJXTmFWTFRldGJDT25SNXc2VE5FZHFhYWtKc0NKOVFlTWRES3MzcEdGdmFxWTg?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -6.49,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-22T00:16:02.922082Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1908,6 +1865,49 @@
         "currentPrice": 1.19,
         "weekAgoPrice": 1.1299999952316284,
         "percentChange": 5.31,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T19:15:49.030785Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.25,
+        "weekAgoPrice": 212.1699981689453,
+        "percentChange": 6.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Why 1 Nvidia Insider Just Sold Another $300 Million in Shares - Barchart.com",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzhTZzlfX3pyM2xWekN4OTdhQy1RdkpWYktSVDlVdFZWd2t2RTJkbnBmMFRuemVjUmJhV0EtT1B1T0RJUEhSUU5MWGZiZHlnT3h3TVJnejVxZUs2TFU3SWV2R0dzclAybURPeFFDNkZfVUFWWFZYMDR4YnJHZ05LWlNvVU9yOVYtUWR6WDVuTGxLeFh2NG5WODVEYTBTRm9rVE5RYnRJbw?oc=5"
+          },
+          {
+            "title": "Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OaEllOUdaN01GNGFudFRQLWV3Wk9RNDd3SHJ2R1RRby13S0tMeS1NZ2Vic21oZjJkVGtEUG9DcTBwRHVIeUF5V2F1RHc0RE04SER2Z0dTNkZIRktLNVEzaTZMRjFCN0dmbGQ2YVJMVlNSVkUzYm5GSVN1bWtNQQ?oc=5"
+          },
+          {
+            "title": "Nvidia director sells $300M in stock amid stron... - Pluang",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjRsYnpoNExrTTlNOXpxWS04Tmtnamozd29SZ215cE1xZGdVWEtLa2E5OV84bGR2VGpLN3RJaElWdmY2VWRQaTM4SnBlWE1kOWNhQzJETFlVZ3ZybFJmMzM5ck9JUnhRUURsRldVTHpDM0ZVa0VxVDNGOHk4c19lazJGRkJOelJDaDdOY3Vhbw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 8.18,
         "flagged": true,
         "news": []
       },

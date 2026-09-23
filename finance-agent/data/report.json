@@ -1,23 +1,27 @@
 {
-  "generatedAt": "2026-09-23T18:16:02.395720Z",
+  "generatedAt": "2026-09-23T19:15:49.030785Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 499.545,
+      "currentPrice": 500.27,
       "weekAgoPrice": 497.1199951171875,
-      "percentChange": 0.49,
+      "percentChange": 0.63,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 225.36,
+      "currentPrice": 225.25,
       "weekAgoPrice": 212.1699981689453,
-      "percentChange": 6.22,
+      "percentChange": 6.16,
       "flagged": true,
       "news": [
+        {
+          "title": "Why 1 Nvidia Insider Just Sold Another $300 Million in Shares - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzhTZzlfX3pyM2xWekN4OTdhQy1RdkpWYktSVDlVdFZWd2t2RTJkbnBmMFRuemVjUmJhV0EtT1B1T0RJUEhSUU5MWGZiZHlnT3h3TVJnejVxZUs2TFU3SWV2R0dzclAybURPeFFDNkZfVUFWWFZYMDR4YnJHZ05LWlNvVU9yOVYtUWR6WDVuTGxLeFh2NG5WODVEYTBTRm9rVE5RYnRJbw?oc=5"
+        },
         {
           "title": "Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus - Investor's Business Daily",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OaEllOUdaN01GNGFudFRQLWV3Wk9RNDd3SHJ2R1RRby13S0tMeS1NZ2Vic21oZjJkVGtEUG9DcTBwRHVIeUF5V2F1RHc0RE04SER2Z0dTNkZIRktLNVEzaTZMRjFCN0dmbGQ2YVJMVlNSVkUzYm5GSVN1bWtNQQ?oc=5"
@@ -25,42 +29,38 @@
         {
           "title": "Nvidia director sells $300M in stock amid stron... - Pluang",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjRsYnpoNExrTTlNOXpxWS04Tmtnamozd29SZ215cE1xZGdVWEtLa2E5OV84bGR2VGpLN3RJaElWdmY2VWRQaTM4SnBlWE1kOWNhQzJETFlVZ3ZybFJmMzM5ck9JUnhRUURsRldVTHpDM0ZVa0VxVDNGOHk4c19lazJGRkJOelJDaDdOY3Vhbw?oc=5"
-        },
-        {
-          "title": "Nvidia Director Is Cashing Out $300M. Should You Be Worried? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkczWnNEUGxxLUhYdE5WbGl2WE9RWDlEZUpxSEJnZG9sYXo0Wm5ObE5QcDFPblAya0lGTlJKRjJteF9OUVVmQXBMZ1REVktCRnVDT1NJSG02ckVwYVRGc1Z3Zm5La19QZHF2d3Z3TGpwcURKRU5xaFlPb0tJYmk5eXZXQXA4ZmppVlJRMFlha29OX1lZMkc4NVhhV2U1c2Z5d0JB?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.83,
-      "weekAgoPrice": 4.849999904632568,
-      "percentChange": -0.41,
+      "weekAgoPrice": 4.800000190734863,
+      "percentChange": 0.62,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.86,
-      "weekAgoPrice": 7.829999923706055,
-      "percentChange": 0.38,
+      "weekAgoPrice": 7.769999980926514,
+      "percentChange": 1.16,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.52,
-      "weekAgoPrice": 1.5199999809265137,
-      "percentChange": 0.0,
+      "weekAgoPrice": 1.5399999618530273,
+      "percentChange": -1.3,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.9,
-      "weekAgoPrice": 1.9199999570846558,
-      "percentChange": -1.04,
+      "weekAgoPrice": 1.9299999475479126,
+      "percentChange": -1.55,
       "flagged": false,
       "news": []
     },
@@ -75,8 +75,8 @@
     {
       "ticker": "5296.KL",
       "currentPrice": 1.29,
-      "weekAgoPrice": 1.2899999618530273,
-      "percentChange": 0.0,
+      "weekAgoPrice": 1.2799999713897705,
+      "percentChange": 0.78,
       "flagged": false,
       "news": []
     },
@@ -91,8 +91,8 @@
     {
       "ticker": "5352.KL",
       "currentPrice": 1.19,
-      "weekAgoPrice": 1.1299999952316284,
-      "percentChange": 5.31,
+      "weekAgoPrice": 1.100000023841858,
+      "percentChange": 8.18,
       "flagged": true,
       "news": []
     },
