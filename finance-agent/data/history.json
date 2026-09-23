@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-21T15:16:28.361992Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 225.242,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 6.77,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia vs. Eli Lilly: I\u2019d Choose This Stock for the Next Decade - AOL.com",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vLXpNZVVRNjIxRXJBTDNKRUQ0dGkxZkJJRWt6dkI1V1o4SXU5akM5X2hwOWtoQXg0RmJYSlhTMEFfenFTeUR1UHBVeDRfN0lPRk9FWDREd1ptbVo2RmhDQllURXdLdGNyVXVhYTVITldzSUU?oc=5"
-          },
-          {
-            "title": "Nvidia vs. Eli Lilly: I\u2019d Choose This Stock for the Next Decade - 247wallst.com",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmtfMHgzTlVrYU5Xb0tHZkEyUHZLNVNwRTc1cnJGeERMTERwNk5zdk9QcXF1RnQyV3NLYjhQdlBVaXpBTE00RkRpMGRVSEFtTWRCbnNuVkV6WHhjSDVtb2NIT1NPVEQtMEEwWFdrVk9iYXdLRWNnb0xYdE51dU9uNjhYb2dzTm9zdDNDMllyUWdfZklmUTlURVIyVktpQjZFVVpBNkYwZw?oc=5"
-          },
-          {
-            "title": "MU vs. Nvidia: Which AI Chip Stock Offers More Upside Ahead of MU\u2019s Sept. 30 Earnings? - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HaHlhUFVxaE1QRUdpb0VpOVY1MDRFMjFwbE5fR1JWb281czBRSjB2Y0Zqa25SRHJ5ME9NcVFuSjhQZjBRZWVrcFhPVE9OYkJE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.195,
-        "weekAgoPrice": 0.20999999344348907,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -6.49,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-21T16:16:01.750751Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1900,6 +1857,49 @@
           {
             "title": "Principal Financial Group Inc. Sells 1,192,149 Shares of NVIDIA Corporation $NVDA - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNW9pbndMM0cwZUtURERpWEhYeFlSRWkxdnhzLXg2eWlrY3VoSkNFZkg3U0hNYUJiQnVhdF9JT1lVNFVwN0FPRjVHYXVRcFdQNVZEaWRLLWg0T2JuM2VTaHV4MTZoVUxNYXVraG9KRkNwdG04bDdSWkRDZTBFSHZOVm1KSmpBcHVRbXlKUERRTDUwcTFza19fdExRREdVSzVqdFc3aXBzR3VjT2o1UTYtOG5FQTZ1b3FMTGY5UTN5NkdaTmhOejh5U1FXUjhlWUdhODV5RQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": 8.18,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-23T10:16:13.456219Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 228.87,
+        "weekAgoPrice": 210.9600067138672,
+        "percentChange": 8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia (NVDA) Stock Could Be A Bargain After AI Expansion - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWdhQzNaX2NqeFAzV2ZpX1Babl9FemJWenQ3c2oxamxPNkFzN1Awc05YWTRDM1VWOVlhd0xxRkJqR0R2N3Z5dlJxR25HY0FGWklFTVoyM0NWZjRRQWtIdDdrNTRSOW5MNjFqbzlmZS1fT2JndGJKUzAxTndkQ3U4V3NYakNNZDB4dUN1TDNLOURWWHVjRjFQVldDQ0pwMlRyc21VbDhISTZRVnI3MlY5NmpZSThiN3hvdUpVc2FTODI1aGRl0gHKAUFVX3lxTE1oTHV4RmpnQ242OUNZZVg5QVpmZXAtcDJ1ZEI4VG1vOUdEV05XU0UtWTFuZVNpN3FyR2tRUktjMV9OWC1HczNhNVkzQ3lTN2l4S3YzczFqdTVrUW1RYVRlYW56dS1fYU1IazdROG82N2FGV09IakhMaHV6RDFVSWhQOWp3ajlXMHFDbDN0by1uTEVYTzg1c3Iyd05BSGk3OFlDUTJNM1oxdVJTT2Y0bGtVd0ZFdS0ya1NsSURWZmk2MWgycWk1VURmdlE?oc=5"
+          },
+          {
+            "title": "Is Chime Stock a Buy, Sell, or Hold After Nearly Doubling From Its 52-Week Low? - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSUFGS0FkM0xfSE15ZEZCVkJuU1NMa1cwUW96bklnVjF3UkxicThVTDh5S2dZV0JUTUx0bExlMGZNazZLMGh0YnQ2WTRnY3duRUJ4d2UybG1RbTM3SGROZDNtR200UEtBYmlGOXFpRmhHWG1MWVNjZHhPQ3ZIN1hqYzB4ZHY0Q1RpeTVZMFlGS0ZJbEhiTGxVSWFWd1Rob1Y4TUkxOXJ4dGx2ekszVE1rb2lmNUlYa0NBNmZYQjdrdlROaHhuWmNIajJnTkw0Zk00NEU1WkowTl9OZ0tzTVRRcy1RQUdZUlV5OEZHSEFuQnBLTm8?oc=5"
+          },
+          {
+            "title": "NVDA Strong Buy: Consensus $324 Target Implies 50%+ Upside on NVIDIA's Data Center Dominance - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNGZWNmI4cjU2bThJdGhlTVVPNnBhOFFKcl9jYTQ3TEJYcGViTWRwX09BTHdBWDE3TGEwR21fNGNCZWdaZmpfMF9zc2hRSTlTT1kta3VrMklKMHRmdzVXNmVSV3U3M19EYnB1d3RBLTVhT25Tc0VBU2xDQ2UwYXEwQW5yQnBjb1p0OTJDLXdNc2ZUR0dnTWdhN2t5dndzNExVZG9vaHNDaUkwQjIxVW5NVjktM2FOaTFRVXFyY3IydlF4ZEthX3pkT0pR?oc=5"
           }
         ]
       },
