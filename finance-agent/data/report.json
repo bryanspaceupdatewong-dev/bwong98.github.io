@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T06:17:08.086477Z",
+  "generatedAt": "2026-09-24T07:17:14.481574Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,24 +19,24 @@
       "flagged": true,
       "news": [
         {
-          "title": "NVDA Stock Posts Biggest Jump In 14 Months On $12 Trillion Valuation Call From Raymond James \u2013 \u2018Supply Is The Primary Constraint\u2019 - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHYtamF4MTFQWEkzTjlQLWFwWTgzSXNsai02bXNfZDhpcnAxVkdDcy1qampmb2FQYlBWVXFnNTdydHhMWUNOX2RwSUpBWktFbENycTBkQU1xaU50R3ZvbXM2RGw5aGVQNnpFXzVGMFRndGRibmlHV1RoWFU0V1h4MU1rQzFBS29GR0VGWmNDZlRtSGFjNWx6TUo1ZUNoVGc4VHZ4TGwtRV9QZFdkTHZOQ3hnQVpRbHlXSHFaeWNLNllIQXAzMjJaMw?oc=5"
+          "title": "NVIDIA Corporation $NVDA Shares Bought by 71 West Capital Partners - marketbeat.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkVDRGlFcmZ6eVVjOGZIRTE3WHpPR1Nob3U4a1FxSzhUeDRPcnRJYnRUZE5RSzVLcU9jZmtOcjhnWkFiWnc2TFR2SUxGVHFvVDhfel9DU01kZDd4V2Jva1gzTFNaMVczM0NGQzFLWGtQdktwNUFId00tZW0tazg2eldxWDFoTDBjT19fUEFYemktelpVQkV4WjBGb2RzSHJ0aFEzSTlqUUJ2WXhoNnZXdXhEM3BPVDRXUFZxYVFxajlxZWpW?oc=5"
         },
         {
-          "title": "Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMlh0VGh5Ulg4cVc3RkZGcTVaWmRLanBVdjZFWEF0Ui1nTkFDMkhVc3p4eTZHQVVnZTh1dDdLOGhScUxiTDNVakpUMFNGcUZUYkdUWkFNVG9kWWF1WUk0dUNHVWNIQnN2UG9lWkJMSzNCT05TZjAyMzVuMVZKVW9BZ01mNkJOSjdjaTJ6QWZ0bW9mU3BXYTdwQmh0c0VpeEJrZWVtRVdkTk8yNU5RTmpVUWlONmJnNVlMSGFhZ1ZLLTVxNktwVXBzTGhVakFZcGlKY3hES1A3WFkyNmZmSUhj?oc=5"
+          "title": "NVIDIA Corporation $NVDA Shares Acquired by 111 Capital - marketbeat.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQXpfSURIQzhjb042Q3lkN2hlckZzWmRmYjhDenRZbHNoNVYxeFBpOXpPWWFLRlNFaE9FWVgzYlNZeks0aGpLUVJxb2VkVThCWEdLa3hkWnhoU3p1OVlBM256R2RiakRmLUtOTTFEN1BpTmFuSnhtdUdRd3RMNWFtdExGdDRUUll3NURzYW1MY2hOUXJXbkxPbERVZWdzUl9OUlFwUktxR1k1MnhFMUpUY0t0dU1lZw?oc=5"
         },
         {
-          "title": "IonQ Stock Surges After Inking Quantum Computing Deal With Nvidia - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRldVcFU5d2RFRUpmV3RyU19qRHVhOGxHUjM3UURzRXAxdWtmdVFZTGg5V082UTlSSjRFVTNSN0xwU3VwTHlBcW4zcXh0d0FtVGhCNy0tMm5Bd0tPTHpZc1I3b1g2a2duRGRxaTVDV0pNUXhLTXZEbV9yREdieklvRC11QTVPR2ZtOEk0Qm1jaVF5VGs?oc=5"
+          "title": "Advisors Management Group Inc. ADV Sells 2,361 Shares of NVIDIA Corporation $NVDA - marketbeat.com",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdVFkdnM3cFdmQ2xCcDdFUDlwZkNCYnV6ZXpURHM0UWstRTZsWTdkN0o1enhMVUwtSjNaUEptZkdTNGdfaHRxX19oOXo4d2J1QlRQWDd2VEhjTVo3Z1hkdmtLN3pmcjRkYWpHeU9hM1dDZEJwN1lfMHd5VER2TzRCWTl1bXZhQ3pwS2F6b2Q4R1FYNlVfQzJFb2VqLTRSYVRsclhWZmtMc1Q4M3pvQ3h5SE1Db08zcl9iZ3RySF9US0VLb0NvS0gyRVdfMmUwNy01c3N2Nzdn?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.84,
+      "currentPrice": 4.83,
       "weekAgoPrice": 4.800000190734863,
-      "percentChange": 0.83,
+      "percentChange": 0.62,
       "flagged": false,
       "news": []
     },
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.3,
+      "currentPrice": 1.29,
       "weekAgoPrice": 1.2799999713897705,
-      "percentChange": 1.56,
+      "percentChange": 0.78,
       "flagged": false,
       "news": []
     },
@@ -90,9 +90,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.16,
+      "currentPrice": 1.15,
       "weekAgoPrice": 1.1200000047683716,
-      "percentChange": 3.57,
+      "percentChange": 2.68,
       "flagged": false,
       "news": []
     },

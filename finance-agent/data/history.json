@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-22T11:16:43.212859Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 227.38,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 7.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Why Nvidia Stock Didn\u2019t Get a Meta Boost - barrons.com",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtQnRkVGpuNWs0d2s5WnpaOW1TUTBMMHd2Q0thbF90R1dKZ1FJcFVqZUw5WmNYNnUxN2dsU1ZtcnRlX1JrLWlSOFluMlZWS0FpRlBOcVUtYTd4N0FLcXp4eUwxUXlfQkhkTmh6Z0R3ZTAxOWo2aTU3eg?oc=5"
-          },
-          {
-            "title": "Bull of the Day: NVIDIA Corp. (NVDA) - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZFVqNlJXMTRoemItb2luSFNIcXlacllnZDlqdkhjS1lrVS1KcDRLWEo5QnlhdEpGMzAyQ2N3VGZ3YllKU2FISkZzVEItRzFENDFodWNiMHJRaW9taThHRG9uZ3JLa2d5MU9wZGJFMm9qVUFQWkRSRmtjeTJIdmlxYU9BMmcxck9ycGZuZlAyUXFqcy1O?oc=5"
-          },
-          {
-            "title": "Nvidia\u2019s Stock Is Flashing a Warning Sign as Valuation Falls - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVB0djBZRHItdW9ub3BCOEFrUGtQZlhfNmEwXzdhR1dVU3BuX0ZFRmNvOXcxMUlBMUtEb3dxWVd6cURqbkV3dXcxMWR3WUo2MTBkZDdETWJWWGNnWk0wNk9ZVGw5N2VRVTQ2ZWVtSUJBeWpGXzZsOUJSbzNsX1lJZ1g5dDRKS3JFb29UX0JwSWs4a3FxVlJmd21pSE9nRHB2?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.21,
-        "weekAgoPrice": 1.1299999952316284,
-        "percentChange": 7.08,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-22T12:16:50.591975Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1944,6 +1909,33 @@
           {
             "title": "IonQ Stock Surges After Inking Quantum Computing Deal With Nvidia - Barron's",
             "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRldVcFU5d2RFRUpmV3RyU19qRHVhOGxHUjM3UURzRXAxdWtmdVFZTGg5V082UTlSSjRFVTNSN0xwU3VwTHlBcW4zcXh0d0FtVGhCNy0tMm5Bd0tPTHpZc1I3b1g2a2duRGRxaTVDV0pNUXhLTXZEbV9yREdieklvRC11QTVPR2ZtOEk0Qm1jaVF5VGs?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-24T07:17:14.481574Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.51,
+        "weekAgoPrice": 213.89999389648438,
+        "percentChange": 5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA Corporation $NVDA Shares Bought by 71 West Capital Partners - marketbeat.com",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkVDRGlFcmZ6eVVjOGZIRTE3WHpPR1Nob3U4a1FxSzhUeDRPcnRJYnRUZE5RSzVLcU9jZmtOcjhnWkFiWnc2TFR2SUxGVHFvVDhfel9DU01kZDd4V2Jva1gzTFNaMVczM0NGQzFLWGtQdktwNUFId00tZW0tazg2eldxWDFoTDBjT19fUEFYemktelpVQkV4WjBGb2RzSHJ0aFEzSTlqUUJ2WXhoNnZXdXhEM3BPVDRXUFZxYVFxajlxZWpW?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Shares Acquired by 111 Capital - marketbeat.com",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQXpfSURIQzhjb042Q3lkN2hlckZzWmRmYjhDenRZbHNoNVYxeFBpOXpPWWFLRlNFaE9FWVgzYlNZeks0aGpLUVJxb2VkVThCWEdLa3hkWnhoU3p1OVlBM256R2RiakRmLUtOTTFEN1BpTmFuSnhtdUdRd3RMNWFtdExGdDRUUll3NURzYW1MY2hOUXJXbkxPbERVZWdzUl9OUlFwUktxR1k1MnhFMUpUY0t0dU1lZw?oc=5"
+          },
+          {
+            "title": "Advisors Management Group Inc. ADV Sells 2,361 Shares of NVIDIA Corporation $NVDA - marketbeat.com",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdVFkdnM3cFdmQ2xCcDdFUDlwZkNCYnV6ZXpURHM0UWstRTZsWTdkN0o1enhMVUwtSjNaUEptZkdTNGdfaHRxX19oOXo4d2J1QlRQWDd2VEhjTVo3Z1hkdmtLN3pmcjRkYWpHeU9hM1dDZEJwN1lfMHd5VER2TzRCWTl1bXZhQ3pwS2F6b2Q4R1FYNlVfQzJFb2VqLTRSYVRsclhWZmtMc1Q4M3pvQ3h5SE1Db08zcl9iZ3RySF9US0VLb0NvS0gyRVdfMmUwNy01c3N2Nzdn?oc=5"
           }
         ]
       }
