@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-22T05:15:55.565972Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 227.38,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 7.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "BABA Stock Spikes Overnight: Alibaba Takes On Nvidia With China's Most Powerful AI Chip Yet - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWtmNDd1X1RIQ2Q1ZE05NFVFT0R0Q21mYmlZS2dhOTg2NHRrTUhvOURxR24yQVBET1U2eTZzc0lXMUVPbkkzbkRlTVZXbTN3NHNvRkcxQVJ1TXZweGNWeDJ6S0N4NVpDZzliTF9FYXplZU1yQkFTOVpiMkFpWFRCWkk0VV9ZYmZIX3paUDRaUVNXQlBmT0RQbXRSS1lwMktJ?oc=5"
-          },
-          {
-            "title": "3 AI Stocks With P E Up To 29 - simplywall.st",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1RTZHozMlV5VkhZZlRyTlZEOUhLRU8tYkM0Ym5RQXFFTzJPakh3Yk1zLVZvU0NpLThNM0kySjlZeWUzSFF3STNsb2ZmTVlpNUw5cmhXN09UbHhoblFONllsWnl4WDR2ZFFjdTlqdy1PbkR4M0tnNi1Tc1Z0M0pPbVpVeXhOM0d6NXRKMWxIWmhiM3pKNjROV0VuLTZYMDNTWEHSAacBQVVfeXFMUEpXTjR0eFBYSlNKVDA2R19ibGYza2s1Y1RHaVVqSTF5RHpKUHVUN3pXNE55UEMzZUFuRzhoQ0xTMDFFNEpDQzhDcjdOV1FwNkotWk52MDFndEJKN2tZcUR3ZGVZSVl4Y1lfQWE3NW80dFFReFd0SEJhZUlxbUVFYllNelZhMktkenlHLUZKaWxxR3czMTgyR1dTaGxEbU9qaEZjN0s1RG8?oc=5"
-          },
-          {
-            "title": "Nvidia's Forecast Assumes No Data Center Chip Sales to China. The Sept. 24 U.S.-China Summit Could Change That. - theglobeandmail.com",
-            "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOcFNSU3I2d2FfbmFTeThnQnUwaVZQSEVRbmNiU0hhUUNJRXpneGhoZnFad1JKYmFMbDg3amRYUVBucGczcm5TSXBhNlo2VzRMdG42cnRCclJFbTYyUU5iR2xGUjJMVVByTXlZNE9LbDhPM0pwVHZRamVmWnh5ZjVOcFB4UVU0YkZfZGI2ODZGRmNuRWtxTnBLV2dDRWNWaktvbEpOYndvT0tISVhneDJ4SV9jQmhTZGplYnJ6MGhzLWRpeFF2MjBGOTlYRWRNal9RdDktZjdGQVVfa1NYdEZYTEY5Q2hpWlhjRm5adnBVYmtJVl80ZVRlbDVGNXFLUzRmeXkzeTFOeWpaRU1rak1mVDcyYlo0SklBemp5NElJNA?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.21,
-        "weekAgoPrice": 1.1299999952316284,
-        "percentChange": 7.08,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.71,
-        "weekAgoPrice": 0.75,
-        "percentChange": -5.33,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-22T06:16:31.961498Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1979,6 +1936,49 @@
         "currentPrice": 1.19,
         "weekAgoPrice": 1.100000023841858,
         "percentChange": 8.18,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.71,
+        "weekAgoPrice": 0.75,
+        "percentChange": -5.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-24T01:16:16.959342Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.51,
+        "weekAgoPrice": 212.1699981689453,
+        "percentChange": 6.29,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AMD Is Up 187% This Year and Nvidia Is Up 22%. Prediction: Nvidia Wins the Next 12 Months. - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSUVTTVV2UktJSEhFc2txTjl1aUhyb3lEZktDaFhQWkFtWVZSV3JVbUJBN3M1Y0lVaFY2Qm1GUEQyWkVGOEx2TUx5a2ctRklUek8wZHZJaXpQam5jdkhNMTVnbVpVNGZEQTBFZ3JEbC1GMTJUM0lHc01lU1JSRXNwUDk2eThmcDI0YVNrRmMwZlRfcVNFSjRSZEFkYzYtLTdLdDZBX2tIbER3M0xoX3pDRjh3SEhWU0lKMEQxek1taGlWUjljamJKbmJod2xvTVhJMGowbGxfNzBpbmNHLWp3Wngyb3JpWU54Qnc5bzdiVEl5N1h6c19BMlRtZ3lwTTA?oc=5"
+          },
+          {
+            "title": "Nvidia once rattled IonQ stock. Now it plans to install IonQ tech - thestreet.com",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcDBoLWZWRkptcXVoLV9xRkZ4WHAwam00N3NweFd2UW51YUpYenZqWnkzRzRKb1ExOUdPUWZfQi1udUdCcHdJRkpsX1g1aGQ2Rk4xaF9VdDFvMk5zc3hEY0ZmcW1hSlRJUlREemtqNEhWbjdaNXVuRFRNSnhBazJZOUVveXRTLVpjUlE?oc=5"
+          },
+          {
+            "title": "NVIDIA (NASDAQ:NVDA) Shares Down 1.5% After Insider Selling - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkM1eUpBSzdBM0tKYldxSVdaMFg4TG5xZGFCbDB3QW1jX3dXc3JDVGVwbllkVERMT1E0NTl1RHRHaXlKRUgzVG5NSzlWc2RIYTZoUWhYYWs0QXVUSVRmSHhTZzluOFh3aWdfam1CUUNaaDQ2X3dkSWhMTGFreTVkMk8waDVHcTZDNGtaeUdSTnFvWlRWNHFvajRqOWpaVFRtazEtbmg3X0ZYOFNjeUdxdUJ0XzVQUQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.18,
+        "weekAgoPrice": 1.1200000047683716,
+        "percentChange": 5.36,
         "flagged": true,
         "news": []
       },
