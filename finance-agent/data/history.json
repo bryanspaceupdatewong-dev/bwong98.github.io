@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-22T06:16:31.961498Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 227.38,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 7.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "BABA Stock Spikes Overnight: Alibaba Takes On Nvidia With China's Most Powerful AI Chip Yet - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWtmNDd1X1RIQ2Q1ZE05NFVFT0R0Q21mYmlZS2dhOTg2NHRrTUhvOURxR24yQVBET1U2eTZzc0lXMUVPbkkzbkRlTVZXbTN3NHNvRkcxQVJ1TXZweGNWeDJ6S0N4NVpDZzliTF9FYXplZU1yQkFTOVpiMkFpWFRCWkk0VV9ZYmZIX3paUDRaUVNXQlBmT0RQbXRSS1lwMktJ?oc=5"
-          },
-          {
-            "title": "BABA Stock Spikes Overnight: Alibaba Takes On Nvidia With China's Most Powerful AI Chip Yet - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUGRPRW9PNE9qMC1UNm8tYXUycWRsZXQxUk5Td2RGMUxOV0NmeVl1b29lMWxtNzlsakQ4d2FnYlRYLU96ZXVVLWhGSzcwWlFPUTZ0NWFyWlMzNTFWNFVqR0NnSFRJTnV1VDhWXzlvOTBZZU1nSWdaZEZIc215Wi00SjFkRHdrVmlEWTJSV2p4NVJfNUxSdHF0c1NVYVVmVEdoUTRrZFBCTU56NDNFODVNMnI4RjJ1MHYtOEs2ckdGZTZyclFRR2pDVXE5TWY1ZWdySWl4Y1A2TzZrNlo0TGwxSjM2YkU1UQ?oc=5"
-          },
-          {
-            "title": "3 AI Stocks With P E Up To 29 - simplywall.st",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1RTZHozMlV5VkhZZlRyTlZEOUhLRU8tYkM0Ym5RQXFFTzJPakh3Yk1zLVZvU0NpLThNM0kySjlZeWUzSFF3STNsb2ZmTVlpNUw5cmhXN09UbHhoblFONllsWnl4WDR2ZFFjdTlqdy1PbkR4M0tnNi1Tc1Z0M0pPbVpVeXhOM0d6NXRKMWxIWmhiM3pKNjROV0VuLTZYMDNTWEHSAacBQVVfeXFMUEpXTjR0eFBYSlNKVDA2R19ibGYza2s1Y1RHaVVqSTF5RHpKUHVUN3pXNE55UEMzZUFuRzhoQ0xTMDFFNEpDQzhDcjdOV1FwNkotWk52MDFndEJKN2tZcUR3ZGVZSVl4Y1lfQWE3NW80dFFReFd0SEJhZUlxbUVFYllNelZhMktkenlHLUZKaWxxR3czMTgyR1dTaGxEbU9qaEZjN0s1RG8?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.21,
-        "weekAgoPrice": 1.1299999952316284,
-        "percentChange": 7.08,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.71,
-        "weekAgoPrice": 0.75,
-        "percentChange": -5.33,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-22T07:16:19.924332Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1989,6 +1946,33 @@
         "percentChange": -5.33,
         "flagged": true,
         "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-24T02:16:08.775975Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.51,
+        "weekAgoPrice": 213.89999389648438,
+        "percentChange": 5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AMD Is Up 187% This Year and Nvidia Is Up 22%. Prediction: Nvidia Wins the Next 12 Months. - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRmIxRm5MZFZjeEVYMXVmYVRZWTBQVGR6dEwySVI0VmpUcWRuUHRYWDR0aDNxckZfMXpIdzRoVUQ3TzdFTmpmNERqRFd2N2JBQ1hHYS1VTVFzVFpnbFYwYk1xNTduVTN6bmp4MmpOZW5pdkhETkRFRi1nT1BhUXRpMy14ckMwZ2RYeHZMN0d0UVZadzU2RFVCYTh3ak4xTTNXRzk2VHliV2xJcEZIT2RfMmwzOHQ3WHByM0t2eTFXZ0hGQkt4VUhXUkExRkVsdkN5MW5mb2NMRENjMXpJQWNFTzVmSmE2QndocEdyV2VLQUROR0tKNGVQVi1DSnhDS3EydEE?oc=5"
+          },
+          {
+            "title": "Nvidia once rattled IonQ stock. Now it plans to install IonQ tech - thestreet.com",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcDBoLWZWRkptcXVoLV9xRkZ4WHAwam00N3NweFd2UW51YUpYenZqWnkzRzRKb1ExOUdPUWZfQi1udUdCcHdJRkpsX1g1aGQ2Rk4xaF9VdDFvMk5zc3hEY0ZmcW1hSlRJUlREemtqNEhWbjdaNXVuRFRNSnhBazJZOUVveXRTLVpjUlE?oc=5"
+          },
+          {
+            "title": "IonQ Stock Surges After Inking Quantum Computing Deal With Nvidia - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRldVcFU5d2RFRUpmV3RyU19qRHVhOGxHUjM3UURzRXAxdWtmdVFZTGg5V082UTlSSjRFVTNSN0xwU3VwTHlBcW4zcXh0d0FtVGhCNy0tMm5Bd0tPTHpZc1I3b1g2a2duRGRxaTVDV0pNUXhLTXZEbV9yREdieklvRC11QTVPR2ZtOEk0Qm1jaVF5VGs?oc=5"
+          }
+        ]
       }
     ]
   }
