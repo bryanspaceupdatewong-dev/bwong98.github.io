@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T12:21:29.843052Z",
+  "generatedAt": "2026-09-24T13:17:21.067164Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia CEO Huang Has a Dramatic Alternative to AI Regulation - barrons.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjd6OU5hSXN5TW9nRnB0OGhIWG1jNU9FNk5iQ2RhNkhRbl9nSVc3RXBxcnJWZGhpUzU2Um8ta0NzOU5XV2lGNUZ3STBncXpBNlk2QnRhbDVXYXRzNGs1Sl9RRnNmSlpMb3FoVWNxMDV6VUt2VklXbFN3ZVl5SzF4eTRLRXpXbmJEaVpXNUFKNUtUbmRfSEE?oc=5"
+        },
+        {
+          "title": "Nvidia Snaps 5-Day Winning Streak After $300 Million Insider Sale - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSy1rTHFGZlFSVzJBaXdrVjY3REpjbTdaQUFTX0hTV1RMTHFGbk1jQXNKc2Fwd0FLZElVRUdVM3FsZ1l3Tm5wVlFaVTVpMjhFZERhanpPaGNUMzBEQkxGdHBsS0ZsV0Rab0tXT3VSWkswelE4aUpjX3EzeVpSdDdZVg?oc=5"
+        },
+        {
           "title": "$1,000 in Nvidia stock outperformed S&P 500 by 54x over 10 years, driven by AI growth. - Pluang",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDJqSEllOUYxRndMb3VLMDdPUlQxSW5xN1Z2V1NnVHJUUkp5dGpYSjlUUEI4WU9wT0lrWGE0bFU4TnVqRHd3M2c3SkotMlh3U1JRNWVJMXVGVzQ5RnItbU9GMXdzdXk4TGtHR3ZIWWtHeVo2S2w3clBWOWZsZ1lXUE9TdUQtc2JrbWNZWmw4amZTSGd0bmZuZmw0aU1iVU5fS2tnODM2RmFoblhIblBZ?oc=5"
-        },
-        {
-          "title": "Nvidia\u2019s Immense Dividend Hike Puts Dividend Growth Stocks in the Spotlight - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdVV4dEg1UDVVUEUtcU91WXRCZFI3Zm5pQU5tMTF2Q0tqZThjQjV6Nk5QdEt1NGJHMzBhRmpUV0lQS093MVVXOTdPNHdvRTE3RWFTMGM4Y21VNmhfQ0gtREdkeW9ES3BhMDh3UDJxcFV4aE16M0hNZmtSb0x4RnVKdC0xZmEyZjAzMV9ud0xMcXlGSktJZnRENGpmVmtJeURFVFFGRA?oc=5"
-        },
-        {
-          "title": "NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV3ZnckJKYllweGtHNFVDWUlsY2xmY2MzZXA3Vmw5bXFoRGRQQ1dUVzBXODR5cG5XeXFoQWFuVnhTN05CVGVhdTRLQ2J0cldrRnk4VGJmMVA5eXltV25EUm03ZG1GclBJeTVNOFoxU2JEWkdrdUNjLW1NdThHMjlfUEE2eVN2cGpJZFVCVGVrNkpKeGJWcF9oN0pvbHR4ZGtyU09IVXM5SFB5RlA5bGV4aGl0dnlOOFB2dDNwZ1E5aDltTngwQzhmS2FOVnBodWs?oc=5"
         }
       ]
     },

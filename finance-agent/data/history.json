@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-22T17:10:20.328634Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 229.885,
-        "weekAgoPrice": 212.1699981689453,
-        "percentChange": 8.35,
-        "flagged": true,
-        "news": [
-          {
-            "title": "AMD Stock Vs Nvidia: Biggest 2026 Lead Of The AI Boom - Meta Platforms (NASDAQ:META), Advanced Micro Devi - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmgwako3RjFpV0k3a3M5YWs5Z1VWQXpSbUZRVTdwZmtuMFlCQWZQYWxPV1lDMzZ2bldQLUZVRng5aWQtRVZJVkppMGRuUllBQ0tpcHNJWVpTTG9pZGI0VE4xZU95QXZpWDVMb0VjckRBSkplLVhGbTJKYVdiMHJUc0hmbHdzNkw0eExONUlJOW80bjBlUjRpTXprYnViYkwxUm5Jd0lnU3AtSE0?oc=5"
-          },
-          {
-            "title": "Huawei Is Ramping Up to New Chips in 2027. What That Means for Nvidia Stock Now. - barchart.com",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0tQNl9iNXNranZ5N1NsWjJiTjhQcG5QWXhDdV9fekZTNl9aaEZrbWF0SER5Y3ZkbDhMcDdMX3owVF9WalNlYUVVREdvbGI0Vk5yRjlDQkFuWXdrUlhnaEpTSDA0RGlBTEl2dUZfYk9ET1lkTlNmRmNaWlFIN2dtcmFkQ2xiT2drRmRfLUs4MUdqOHZtaHE0d21tT3BDU2l5THRWeUI3Sk1DbVNuUk9IbFk4blNQOGoyU2ZKdHEzSQ?oc=5"
-          },
-          {
-            "title": "Nvidia Price Prediction: Wall Street and Our Model Finally Agree - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejVaUG9xcTAzRTNWbWp2cHcyMW42RnphUHphMFZqR05GZkZ4YXEwTEM5d1dxX1N3VTRBenhmd0xVLXhuSXFEVGxzS3RUaG5sR1dOVXVjWktuN3NYQXlJRFBfeUdGV3dNVTB5UGdVOGNNTVQ2eGNxN29JVHdPd2pqQ1ZfUm5FMmRsQ3NhVVJTUHVRd1c2akxXbFR2MnBsTEYzdGc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.21,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 6.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.715,
-        "weekAgoPrice": 0.7699999809265137,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-22T17:16:28.096819Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1880,6 +1837,33 @@
           {
             "title": "NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp - Trefis",
             "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV3ZnckJKYllweGtHNFVDWUlsY2xmY2MzZXA3Vmw5bXFoRGRQQ1dUVzBXODR5cG5XeXFoQWFuVnhTN05CVGVhdTRLQ2J0cldrRnk4VGJmMVA5eXltV25EUm03ZG1GclBJeTVNOFoxU2JEWkdrdUNjLW1NdThHMjlfUEE2eVN2cGpJZFVCVGVrNkpKeGJWcF9oN0pvbHR4ZGtyU09IVXM5SFB5RlA5bGV4aGl0dnlOOFB2dDNwZ1E5aDltTngwQzhmS2FOVnBodWs?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-24T13:17:21.067164Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.51,
+        "weekAgoPrice": 213.89999389648438,
+        "percentChange": 5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia CEO Huang Has a Dramatic Alternative to AI Regulation - barrons.com",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjd6OU5hSXN5TW9nRnB0OGhIWG1jNU9FNk5iQ2RhNkhRbl9nSVc3RXBxcnJWZGhpUzU2Um8ta0NzOU5XV2lGNUZ3STBncXpBNlk2QnRhbDVXYXRzNGs1Sl9RRnNmSlpMb3FoVWNxMDV6VUt2VklXbFN3ZVl5SzF4eTRLRXpXbmJEaVpXNUFKNUtUbmRfSEE?oc=5"
+          },
+          {
+            "title": "Nvidia Snaps 5-Day Winning Streak After $300 Million Insider Sale - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSy1rTHFGZlFSVzJBaXdrVjY3REpjbTdaQUFTX0hTV1RMTHFGbk1jQXNKc2Fwd0FLZElVRUdVM3FsZ1l3Tm5wVlFaVTVpMjhFZERhanpPaGNUMzBEQkxGdHBsS0ZsV0Rab0tXT3VSWkswelE4aUpjX3EzeVpSdDdZVg?oc=5"
+          },
+          {
+            "title": "$1,000 in Nvidia stock outperformed S&P 500 by 54x over 10 years, driven by AI growth. - Pluang",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDJqSEllOUYxRndMb3VLMDdPUlQxSW5xN1Z2V1NnVHJUUkp5dGpYSjlUUEI4WU9wT0lrWGE0bFU4TnVqRHd3M2c3SkotMlh3U1JRNWVJMXVGVzQ5RnItbU9GMXdzdXk4TGtHR3ZIWWtHeVo2S2w3clBWOWZsZ1lXUE9TdUQtc2JrbWNZWmw4amZTSGd0bmZuZmw0aU1iVU5fS2tnODM2RmFoblhIblBZ?oc=5"
           }
         ]
       }
