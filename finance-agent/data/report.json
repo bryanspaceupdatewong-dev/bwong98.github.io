@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T09:04:20.753271Z",
+  "generatedAt": "2026-09-24T09:16:30.897680Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -23,7 +23,7 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdVV4dEg1UDVVUEUtcU91WXRCZFI3Zm5pQU5tMTF2Q0tqZThjQjV6Nk5QdEt1NGJHMzBhRmpUV0lQS093MVVXOTdPNHdvRTE3RWFTMGM4Y21VNmhfQ0gtREdkeW9ES3BhMDh3UDJxcFV4aE16M0hNZmtSb0x4RnVKdC0xZmEyZjAzMV9ud0xMcXlGSktJZnRENGpmVmtJeURFVFFGRA?oc=5"
         },
         {
-          "title": "1 Volatile Stock to Own for Decades and 2 That Underwhelm - stockstory.org",
+          "title": "1 Volatile Stock to Own for Decades and 2 That Underwhelm - StockStory",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVl0dHZjNi1wT2FRWVZFQUk5dHhCMXQyZlp1WGtuY3d3bk9pblpMR2RTUUVTdDljVGFSVFB2ZUJuY3NhYmFRbVRYRXJpS0NQRURWeXdHWVJwdThjcU4wUjEwYUlWU3VqWFJ2NkdsdUtCSkszU0l2MU53N1U2dlNpamtCMVZWaERNYmJnRTc5U1RSY2Q4bjhfbjhhNTBibjJDNDc4c3AyUUdFOHJRUm5rNHpXZl81RXlCSFZ3?oc=5"
         },
         {
@@ -42,9 +42,9 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.85,
+      "currentPrice": 7.83,
       "weekAgoPrice": 7.809999942779541,
-      "percentChange": 0.51,
+      "percentChange": 0.26,
       "flagged": false,
       "news": []
     },
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.3,
       "weekAgoPrice": 1.2799999713897705,
-      "percentChange": 0.78,
+      "percentChange": 1.56,
       "flagged": false,
       "news": []
     },
