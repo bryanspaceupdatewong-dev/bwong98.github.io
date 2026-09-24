@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-22T12:16:50.591975Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 227.38,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 7.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Bull of the Day: NVIDIA Corp. (NVDA) - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY3NJZ1U4T2dYQ0R0Rkl0WnZEcXVXSWdoeGlQN0pnSTVCMHpiUW5pTm5vSHRSVnk3ZkdyOGJhelpBMkpJUTE4MUllMXVoMFQ5VGdWRTJNa19ZOU1HS0VMZndMTFQ1eWtwZ1RWQk01ZlNYZEx2MEdObVpWZW02TWJhZFBwaXlxU2xSMHlGNkd6TjdwVS1fY0tLUVA1TWdiUXdDMTJ1ZEt5YnZzc1NqZUxGdTJGeEFGLTZO?oc=5"
-          },
-          {
-            "title": "NVIDIA (NVDA.US) Stock Flashes a \"Warning Signal\": Valuation Hits Lowest Level in Over a Decade, What Is the Market Worried About? - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMXU0OWtrQm9KQlVlTHhWRmVibW5CUC13UnZHWVVxNzhheUlHTE1EckRDczViV1l6QlM5ejhkVXhIQnBTWE5ZSy1FNm1YV3NvWjRuaktYVHFJOXR6QVhfc2J2akxWMFVGREVGeHJWMTZtYW0wZ2YzT3AzZE9SZU5CZkY3eGw2ZVc5U3JrRFVvRTZvbmNSRmZiMjNQOGx5dzBEMjQ4YWg1bTMyTjNEdXRz?oc=5"
-          },
-          {
-            "title": "Why Nvidia Stock Didn\u2019t Get a Meta Boost - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtQnRkVGpuNWs0d2s5WnpaOW1TUTBMMHd2Q0thbF90R1dKZ1FJcFVqZUw5WmNYNnUxN2dsU1ZtcnRlX1JrLWlSOFluMlZWS0FpRlBOcVUtYTd4N0FLcXp4eUwxUXlfQkhkTmh6Z0R3ZTAxOWo2aTU3eg?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.21,
-        "weekAgoPrice": 1.1299999952316284,
-        "percentChange": 7.08,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-22T12:25:24.230092Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1936,6 +1901,33 @@
           {
             "title": "Advisors Management Group Inc. ADV Sells 2,361 Shares of NVIDIA Corporation $NVDA - marketbeat.com",
             "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdVFkdnM3cFdmQ2xCcDdFUDlwZkNCYnV6ZXpURHM0UWstRTZsWTdkN0o1enhMVUwtSjNaUEptZkdTNGdfaHRxX19oOXo4d2J1QlRQWDd2VEhjTVo3Z1hkdmtLN3pmcjRkYWpHeU9hM1dDZEJwN1lfMHd5VER2TzRCWTl1bXZhQ3pwS2F6b2Q4R1FYNlVfQzJFb2VqLTRSYVRsclhWZmtMc1Q4M3pvQ3h5SE1Db08zcl9iZ3RySF9US0VLb0NvS0gyRVdfMmUwNy01c3N2Nzdn?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-24T08:15:58.933960Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.51,
+        "weekAgoPrice": 213.89999389648438,
+        "percentChange": 5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA Corporation $NVDA Shares Sold by Summit Wealth Group LLC - marketbeat.com",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1ZJR2g4V3RiZ0NMa3BsLW50dEN5SldleXNENWNxekJOQWh4cHZCdm5kSXp4OWhjeDBROUdJSld5NGdCdko0YVB5cGdfQ2NlOFkzR0QwT25OdXVpZkc5RE8ybm5hUkl2SEVWVVNkYkJZNU02aTVjcVMxMldYVktzM1VFaml5VjZnVEJCVkNkUExoR3lVeHNwMFpCV3pEMGlDd0FNd25BVjR5OEpuZFhOellnbWdqRldCS19Sd0xXVzA?oc=5"
+          },
+          {
+            "title": "Kranot Hishtalmut Le Morim Ve Gananot Havera Menahelet LTD Cuts Stock Holdings in NVIDIA Corporation $NVDA - marketbeat.com",
+            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbVFrdndrNkstN1pvVWRfbmVxLWZ0MlMwaWI0OXFFeG5lY3dFelY1TTNUNHJXRlVIeU11NlRYSWItdWc5eEVLVVEzbFN1VTg2SS1EYW5NSVBmVk1Kb0hNVUlJUEJNRTdhNXJ6dFZBZlBjcm01bkNwcHdOVVhPNHgwTnBmZm1fUjl1VzlFV0hiemY2NWJVSUNTalRSNlVHdm9sTlZqTml6R3VTcXVnT2tlbko1cGxWUUlQZVBSdHlwZ0NjRzBPWEJTVmJGbFpQd1pUd0NsS3M5U3E4MUJrWTdWcjVKZHE2TDVMc1dEYkU0WTRPQldsLUNZaGNB?oc=5"
+          },
+          {
+            "title": "Kranot Hishtalmut Le Morim Tichoniim Havera Menahelet LTD Sells 16,125 Shares of NVIDIA Corporation $NVDA - marketbeat.com",
+            "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTEVYek5BQWxOWGwtQThYMkYtODJQMV9KamlVdGRYLU0xbk9pZTlTTTNfZVJ1MlQxSzgzV3NLLTN3S1NrZldaTWY2Smx3VXZFVDEwR2NGdTFheEw5RkZ5RFZCVkxBM3lKaWZFZ1ExaEszeE5DN3BKeENKWWNfVTJSRGMzNGctSF9ZQ2hTN2Nja3N6ckRuWGtUblhMNEFUcnFtbVFHTzBjb1Bvc1p1anpsT0F2ckJsM0FtOHZNaVg1REZYNDVVOV93OWZXVVhySFlBclJnX2w4T1RzVGZVUHZvOHJDVVpKS2hmcVBuY01PWFhBYjFBbHpZ?oc=5"
           }
         ]
       }
