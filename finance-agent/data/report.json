@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T03:15:59.109436Z",
+  "generatedAt": "2026-09-24T04:16:13.101903Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,56 +19,56 @@
       "flagged": true,
       "news": [
         {
+          "title": "NVDA Stock Posts Biggest Jump In 14 Months On $12 Trillion Valuation Call From Raymond James \u2013 \u2018Supply Is The Primary Constraint\u2019 - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHYtamF4MTFQWEkzTjlQLWFwWTgzSXNsai02bXNfZDhpcnAxVkdDcy1qampmb2FQYlBWVXFnNTdydHhMWUNOX2RwSUpBWktFbENycTBkQU1xaU50R3ZvbXM2RGw5aGVQNnpFXzVGMFRndGRibmlHV1RoWFU0V1h4MU1rQzFBS29GR0VGWmNDZlRtSGFjNWx6TUo1ZUNoVGc4VHZ4TGwtRV9QZFdkTHZOQ3hnQVpRbHlXSHFaeWNLNllIQXAzMjJaMw?oc=5"
+        },
+        {
           "title": "Nvidia once rattled IonQ stock. Now it plans to install IonQ tech - thestreet.com",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcDBoLWZWRkptcXVoLV9xRkZ4WHAwam00N3NweFd2UW51YUpYenZqWnkzRzRKb1ExOUdPUWZfQi1udUdCcHdJRkpsX1g1aGQ2Rk4xaF9VdDFvMk5zc3hEY0ZmcW1hSlRJUlREemtqNEhWbjdaNXVuRFRNSnhBazJZOUVveXRTLVpjUlE?oc=5"
         },
         {
           "title": "Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMlh0VGh5Ulg4cVc3RkZGcTVaWmRLanBVdjZFWEF0Ui1nTkFDMkhVc3p4eTZHQVVnZTh1dDdLOGhScUxiTDNVakpUMFNGcUZUYkdUWkFNVG9kWWF1WUk0dUNHVWNIQnN2UG9lWkJMSzNCT05TZjAyMzVuMVZKVW9BZ01mNkJOSjdjaTJ6QWZ0bW9mU3BXYTdwQmh0c0VpeEJrZWVtRVdkTk8yNU5RTmpVUWlONmJnNVlMSGFhZ1ZLLTVxNktwVXBzTGhVakFZcGlKY3hES1A3WFkyNmZmSUhj?oc=5"
-        },
-        {
-          "title": "IonQ Stock Surges After Inking Quantum Computing Deal With Nvidia - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRldVcFU5d2RFRUpmV3RyU19qRHVhOGxHUjM3UURzRXAxdWtmdVFZTGg5V082UTlSSjRFVTNSN0xwU3VwTHlBcW4zcXh0d0FtVGhCNy0tMm5Bd0tPTHpZc1I3b1g2a2duRGRxaTVDV0pNUXhLTXZEbV9yREdieklvRC11QTVPR2ZtOEk0Qm1jaVF5VGs?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.82,
+      "currentPrice": 4.84,
       "weekAgoPrice": 4.800000190734863,
-      "percentChange": 0.42,
+      "percentChange": 0.83,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.86,
+      "currentPrice": 7.84,
       "weekAgoPrice": 7.809999942779541,
-      "percentChange": 0.64,
+      "percentChange": 0.38,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.51,
+      "currentPrice": 1.5,
       "weekAgoPrice": 1.5,
-      "percentChange": 0.67,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.88,
+      "currentPrice": 1.87,
       "weekAgoPrice": 1.899999976158142,
-      "percentChange": -1.05,
+      "percentChange": -1.58,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.37,
+      "currentPrice": 1.38,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": -0.0,
+      "percentChange": 0.73,
       "flagged": false,
       "news": []
     },
