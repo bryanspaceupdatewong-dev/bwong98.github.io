@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-22T07:16:19.924332Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 227.38,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 7.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Choreo LLC Has $187.10 Million Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc29qX1FzbTB0WnRMYml4QjdMNFFrdUtLUFZDU0oyeFRzZjB3cmpIdU1sdUprQkZBNHJZVHJxcW9nYWlwZk41c1NLcUtBNFZLVGs4VGd0c0JoMjhJbHVvNkZJdXBGVUxpQk1jdUQzZnhJU2s0TXlvTHk5blpQT2tWbkpZYjdTU3lPSmpuckJrUVdzeFVXMnlkVGtLcTdWYTFZQjZDR290UjE0RW9FWVppQTJZWTNMaTRrcWRJSnQ2VlZzSk9TcXk0TzdSdw?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Shares Acquired by Ascent Group LLC - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdjhONVpiaW1aSWZDaVhHcTJ4MlI2R0VvNkRsQUhCbW9UMllnWm53b1pmQ1g1c0VHcDY2SzFDM09xUHJ4a0U2bGt3X0hPTW9QbkV4YXdoU1lrWWx5YmM5YldEalp4RGxReVdkTlhmM2ZxeG9IdFZ5cmZXc0hPTWUzWWVFNzk4RlZmRGJ0V19pWHBxNHhTQkJKZWVmUXQwanNyQkxMcHhfZWpHRDBRNHNQNHlTcEUzbXFHUjZGbg?oc=5"
-          },
-          {
-            "title": "Not Micron. Not Alphabet. Here's My Top Artificial Intelligence (AI) Stock Pick for the Next 3 Years. - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGdURXFrNW1oN0pRM0Z6Z3Y3YmpFaXEyaHFiRDVCS1lYSFR0Y0MtSGJoeUk4Zmdud3ZUNzY4QUNEQTJkV1VJT2dVMGpDd2FEMndwVmxKVzJVVTkzVE05dkNRam9KMFlCOXh6S0VLN0hEaWM3ODUxamJuTUplS3hWUGNWMVlwVENiaHFpN2pRbnFjeVpISWg5VA?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.21,
-        "weekAgoPrice": 1.1299999952316284,
-        "percentChange": 7.08,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.71,
-        "weekAgoPrice": 0.75,
-        "percentChange": -5.33,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-22T08:15:51.806960Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1967,6 +1924,33 @@
           {
             "title": "Nvidia once rattled IonQ stock. Now it plans to install IonQ tech - thestreet.com",
             "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcDBoLWZWRkptcXVoLV9xRkZ4WHAwam00N3NweFd2UW51YUpYenZqWnkzRzRKb1ExOUdPUWZfQi1udUdCcHdJRkpsX1g1aGQ2Rk4xaF9VdDFvMk5zc3hEY0ZmcW1hSlRJUlREemtqNEhWbjdaNXVuRFRNSnhBazJZOUVveXRTLVpjUlE?oc=5"
+          },
+          {
+            "title": "IonQ Stock Surges After Inking Quantum Computing Deal With Nvidia - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRldVcFU5d2RFRUpmV3RyU19qRHVhOGxHUjM3UURzRXAxdWtmdVFZTGg5V082UTlSSjRFVTNSN0xwU3VwTHlBcW4zcXh0d0FtVGhCNy0tMm5Bd0tPTHpZc1I3b1g2a2duRGRxaTVDV0pNUXhLTXZEbV9yREdieklvRC11QTVPR2ZtOEk0Qm1jaVF5VGs?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-24T03:15:59.109436Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.51,
+        "weekAgoPrice": 213.89999389648438,
+        "percentChange": 5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia once rattled IonQ stock. Now it plans to install IonQ tech - thestreet.com",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcDBoLWZWRkptcXVoLV9xRkZ4WHAwam00N3NweFd2UW51YUpYenZqWnkzRzRKb1ExOUdPUWZfQi1udUdCcHdJRkpsX1g1aGQ2Rk4xaF9VdDFvMk5zc3hEY0ZmcW1hSlRJUlREemtqNEhWbjdaNXVuRFRNSnhBazJZOUVveXRTLVpjUlE?oc=5"
+          },
+          {
+            "title": "Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMlh0VGh5Ulg4cVc3RkZGcTVaWmRLanBVdjZFWEF0Ui1nTkFDMkhVc3p4eTZHQVVnZTh1dDdLOGhScUxiTDNVakpUMFNGcUZUYkdUWkFNVG9kWWF1WUk0dUNHVWNIQnN2UG9lWkJMSzNCT05TZjAyMzVuMVZKVW9BZ01mNkJOSjdjaTJ6QWZ0bW9mU3BXYTdwQmh0c0VpeEJrZWVtRVdkTk8yNU5RTmpVUWlONmJnNVlMSGFhZ1ZLLTVxNktwVXBzTGhVakFZcGlKY3hES1A3WFkyNmZmSUhj?oc=5"
           },
           {
             "title": "IonQ Stock Surges After Inking Quantum Computing Deal With Nvidia - Barron's",
