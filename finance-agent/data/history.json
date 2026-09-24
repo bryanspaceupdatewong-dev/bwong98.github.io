@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-22T14:16:34.469774Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 228.415,
-        "weekAgoPrice": 212.1699981689453,
-        "percentChange": 7.66,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia stock valuation hits decade low despite profit boom - qz.com",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wTU9NWm9vVEdIODRhQVVkc0c0bjVnVF9BWENqY25YTUZOSDQzS1ZvdV8yTi1MMnlGdi10X09kY0lEZmphV3QyblZmVlEzQ2ZTWk9JcjlLdWVQMFZWUVFYQ2RPWlIwM2VqSE9HVm9PVzdXdw?oc=5"
-          },
-          {
-            "title": "QUICK SPARK: Wall Street Is Moving Nvidia Onto Crypto Rails. 24/7 Trading Is Next - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPekUtOVNkcnZIRmlFRkN4Q3JIcDVZU05vMWZGVTVUYTA2NUVOVTA3ZkZfbUNiM0ExU0pCVTB6WTZJMHRsWEY1NDhvOGVUN2lPZ2M1c3NudkJSRWxOQ0VqNmdIVURHSWFEOFA3WlVUN3N6WnBCUnA0WGk4T2pnUWpqb3hndmE1eHAxLXRQUjBuMFc5LWM?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation (NVDA) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmNsenBBenpZNXJtYjNib244NXF2NnpRZ2dGb0F2UGNBeldqZjlidTd5VFFQMDdIMU9QQUcxUFdRWkEwMFk2MXAtc0I2WHJYWVhyd0FNWExSLVVDN05kN241SEY2VTMybkdxMjAyV01PYTFsNThYWjFrMkpXWmlUcUlISTRDTDlKTTVTZFVNSEs1U0dkc19jLVpfM0JpclhYaVl6U3pn?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.21,
-        "weekAgoPrice": 1.1299999952316284,
-        "percentChange": 7.08,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-22T15:16:09.895256Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1912,6 +1877,33 @@
           {
             "title": "McAdam LLC Grows Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQThYTFFXX05udE0tTlQwRWwxZHJCSFNRUjVPU0F4SGdFNktDOUQyUlpQMjZGb29KMWRxc0ZMT2NNdTVPMDJWSEo3TkZTOHB5M0c1djhhcTAtVjNaUjdBYVNubjRlY3JiQ25jYVNORFZXWG1EcVJDM092ODZwNnNsMF8yc1BVYV9nbzVBRkhPRU1xSGh5clNjSUk5NmNMTzh0d2p4RldBUGNZeFJDdEhtU19kU3pNWnVuYjhF?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-24T10:16:17.012995Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.51,
+        "weekAgoPrice": 213.89999389648438,
+        "percentChange": 5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "SpaceX and Nvidia Just Deepened Their Compute Alliance. 1 Stock Offers Far Greater Upside Before 2028. - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUTZYMk5Tb2JVcy1JNDEyZHU2dDNsT3VyZkkydXhuVWlHZjJVVUNSS0FsNDBZOUoxdTB3cXVuQTZ0cmQzNXF3bWhZOUNBeVF1QV9HbGh3aFFhZkF0ZHQ3Mmo1dnlHSnFTZFJwYVFWUThrc1ZKZk51Q3lnVGhicmRXekZ6a2tRaXFSUW5VNWw5bTBxOU1zVE9xcjU0VTlpZmNYQmZqNkdqdmRkLS0wbVRYbGdNR2RYajFobDlGdWxkQmVFVnZSZWNEX0YwZW03a2diYl92TG8tZV9Lanl3bG1VSEljOXRQbWpZRl9SUGRaVFNFVzc0d0dFdVloYXpWRm5nWnUzQ2hzalQ2TnRlLWhfYWJabw?oc=5"
+          },
+          {
+            "title": "SpaceX and Nvidia Just Deepened Their Compute Alliance. 1 Stock Offers Far Greater Upside Before 2028. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVE5WdWpZVDk5WjE3R2pYRFBSeUtlNXFWNGY4d1YyaUx5V1U2QW9oODJLUHpPMmVtdXU0UnFzLVl3S2pzcnF4b0QxTGpZdWpMYWlBQ2oyb1NvMlEzSkNpUjZFWi1LSDNLdHV5ZTQtNmN0LTQyTEVicmNSV0hCams3TEF4dGtoXzZ5MVY1TERERy16eGJ6UTN2RQ?oc=5"
+          },
+          {
+            "title": "Nvidia\u2019s Immense Dividend Hike Puts Dividend Growth Stocks in the Spotlight - Morningstar",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdVV4dEg1UDVVUEUtcU91WXRCZFI3Zm5pQU5tMTF2Q0tqZThjQjV6Nk5QdEt1NGJHMzBhRmpUV0lQS093MVVXOTdPNHdvRTE3RWFTMGM4Y21VNmhfQ0gtREdkeW9ES3BhMDh3UDJxcFV4aE16M0hNZmtSb0x4RnVKdC0xZmEyZjAzMV9ud0xMcXlGSktJZnRENGpmVmtJeURFVFFGRA?oc=5"
           }
         ]
       }
