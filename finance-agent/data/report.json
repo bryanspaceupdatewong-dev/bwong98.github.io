@@ -1,36 +1,23 @@
 {
-  "generatedAt": "2026-09-24T13:17:21.067164Z",
+  "generatedAt": "2026-09-24T14:18:24.883035Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 500.59,
-      "weekAgoPrice": 490.29998779296875,
-      "percentChange": 2.1,
+      "currentPrice": 493.15,
+      "weekAgoPrice": 497.75,
+      "percentChange": -0.92,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 225.51,
-      "weekAgoPrice": 213.89999389648438,
-      "percentChange": 5.43,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Nvidia CEO Huang Has a Dramatic Alternative to AI Regulation - barrons.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQjd6OU5hSXN5TW9nRnB0OGhIWG1jNU9FNk5iQ2RhNkhRbl9nSVc3RXBxcnJWZGhpUzU2Um8ta0NzOU5XV2lGNUZ3STBncXpBNlk2QnRhbDVXYXRzNGs1Sl9RRnNmSlpMb3FoVWNxMDV6VUt2VklXbFN3ZVl5SzF4eTRLRXpXbmJEaVpXNUFKNUtUbmRfSEE?oc=5"
-        },
-        {
-          "title": "Nvidia Snaps 5-Day Winning Streak After $300 Million Insider Sale - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSy1rTHFGZlFSVzJBaXdrVjY3REpjbTdaQUFTX0hTV1RMTHFGbk1jQXNKc2Fwd0FLZElVRUdVM3FsZ1l3Tm5wVlFaVTVpMjhFZERhanpPaGNUMzBEQkxGdHBsS0ZsV0Rab0tXT3VSWkswelE4aUpjX3EzeVpSdDdZVg?oc=5"
-        },
-        {
-          "title": "$1,000 in Nvidia stock outperformed S&P 500 by 54x over 10 years, driven by AI growth. - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDJqSEllOUYxRndMb3VLMDdPUlQxSW5xN1Z2V1NnVHJUUkp5dGpYSjlUUEI4WU9wT0lrWGE0bFU4TnVqRHd3M2c3SkotMlh3U1JRNWVJMXVGVzQ5RnItbU9GMXdzdXk4TGtHR3ZIWWtHeVo2S2w3clBWOWZsZ1lXUE9TdUQtc2JrbWNZWmw4amZTSGd0bmZuZmw0aU1iVU5fS2tnODM2RmFoblhIblBZ?oc=5"
-        }
-      ]
+      "currentPrice": 222.118,
+      "weekAgoPrice": 219.33999633789062,
+      "percentChange": 1.27,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "1295.KL",
@@ -105,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 1
+  "flaggedCount": 0
 }
