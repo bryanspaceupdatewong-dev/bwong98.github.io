@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-22T09:16:02.156416Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 227.38,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 7.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Suncoast Equity Management Trims Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNFkxSjJKMnAyRDhEa3JfRnl6RXV6bkZpelpWR2ZuUlB3WGlWMWp4aVJpRVJMTXFnXzZITl8wVy1TLUhSWDRXbGNCbmt1TGR4UzBNMTN3b3B2WjUzQ0ZkNzFveEZESDZCSDFSZkU2dnJEUURxX0lHak1uOS1mc2NCaVc0Q1I3eE9oUEtOcnZuV2xjemNDekR0MWpZeWJBNUJoNXc4MHFMZGFpY1R2bC1wR2ViZWlVeEs4elF3cHotVl95Q0dNM0tLeHR6UU5aTnZk?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Shares Sold by Old Peak Finance LLC - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWS13WXllTHBqSHE4RDZHZTBpRkVLLW9kRkZOa0tZVmdEcTVXLS1CS1RCc0pWUWpLaVByZS1jVE5ueWxfZTdwMkI3c2tZclROMTI2VVhYUHVfa1ZuSnRYdmF3T3RUZ3hZT2UwM3ZyWmlQTldXWDRLVzllN194V3QtVHp3RXdmSVlaNk5hNTR3dHFLMVBzTy1oQkNlelBqWkVnaHNSUXBUMEp0aTRiM3AwUjkwWkhwWFh0TnVuTQ?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Shares Acquired by Willis Investment Counsel - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNlh4ZUFTa0xKMWRzcV9RcFpjdEVfSFJ2ZWhWU2RyQlAzNVh6bUdnQi1ySVoxZm9MbTd1M2JUZ3YwSVhxLWQ4SVM1WFdVLXZFOEpSMng2U3dya2dTalpwS0dSUEtSdGdxcEhkR2k1VXNpbmRVbW9BUkxHTk9HMnV2czZ4QUt1cFNCS0paUUQ0SmhBZG5ETnNsZXd5eG9SaFdYczJ4ZWp3UlZ6dzA5SDNMRFVpM1N4TmNOM0lZLWw4MlBhSzhkMlBUcA?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.21,
-        "weekAgoPrice": 1.1299999952316284,
-        "percentChange": 7.08,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-22T10:15:52.243682Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1947,6 +1912,33 @@
           {
             "title": "Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership - The Motley Fool",
             "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMlh0VGh5Ulg4cVc3RkZGcTVaWmRLanBVdjZFWEF0Ui1nTkFDMkhVc3p4eTZHQVVnZTh1dDdLOGhScUxiTDNVakpUMFNGcUZUYkdUWkFNVG9kWWF1WUk0dUNHVWNIQnN2UG9lWkJMSzNCT05TZjAyMzVuMVZKVW9BZ01mNkJOSjdjaTJ6QWZ0bW9mU3BXYTdwQmh0c0VpeEJrZWVtRVdkTk8yNU5RTmpVUWlONmJnNVlMSGFhZ1ZLLTVxNktwVXBzTGhVakFZcGlKY3hES1A3WFkyNmZmSUhj?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-24T05:16:41.407600Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.51,
+        "weekAgoPrice": 213.89999389648438,
+        "percentChange": 5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "I've Held Nvidia for Nearly 3 Years. Here's Whether I'd Still Buy Today. - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMFlmNkFGcDFsUWg4T3piNlpYSjI4cFBCaWhYU0ZTa21YbWpKNmtsXzVUOU9kSHhJWmNKZmp5U3NpYWk4U3FDeFB1aUFqQ2M0VWplWFRsNDJqZnlvOEVia0VFY2JmWUlpSnhqNm14cWJwanlQOGdyS185Vnc3bFNfM1F1MWRXZWpKWG0wV3BsLTlkeWc?oc=5"
+          },
+          {
+            "title": "Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMlh0VGh5Ulg4cVc3RkZGcTVaWmRLanBVdjZFWEF0Ui1nTkFDMkhVc3p4eTZHQVVnZTh1dDdLOGhScUxiTDNVakpUMFNGcUZUYkdUWkFNVG9kWWF1WUk0dUNHVWNIQnN2UG9lWkJMSzNCT05TZjAyMzVuMVZKVW9BZ01mNkJOSjdjaTJ6QWZ0bW9mU3BXYTdwQmh0c0VpeEJrZWVtRVdkTk8yNU5RTmpVUWlONmJnNVlMSGFhZ1ZLLTVxNktwVXBzTGhVakFZcGlKY3hES1A3WFkyNmZmSUhj?oc=5"
+          },
+          {
+            "title": "IonQ Stock Surges After Inking Quantum Computing Deal With Nvidia - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRldVcFU5d2RFRUpmV3RyU19qRHVhOGxHUjM3UURzRXAxdWtmdVFZTGg5V082UTlSSjRFVTNSN0xwU3VwTHlBcW4zcXh0d0FtVGhCNy0tMm5Bd0tPTHpZc1I3b1g2a2duRGRxaTVDV0pNUXhLTXZEbV9yREdieklvRC11QTVPR2ZtOEk0Qm1jaVF5VGs?oc=5"
           }
         ]
       }
