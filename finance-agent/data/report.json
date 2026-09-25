@@ -1,74 +1,61 @@
 {
-  "generatedAt": "2026-09-25T18:17:06.719749Z",
+  "generatedAt": "2026-09-25T19:16:01.256326Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 518.715,
+      "currentPrice": 516.39,
       "weekAgoPrice": 493.7799987792969,
-      "percentChange": 5.05,
-      "flagged": true,
-      "news": [
-        {
-          "title": "What's Going On With Microsoft Stock Friday? - Microsoft (NASDAQ:MSFT) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSTlqREx0R0NNdl9wR3JwOFItYnZPV3VxaG1hV3IyQXR0ZEQwRmFzWHNYZHRLSlBlQmVzSTJ1ZHZnSVRuTi1zSl8xZHBYU0l4Ry1lLUNYYTNZQ3FHdDFlTkxiaHJuRXlfUnBfNHUtOWFqeDgzUFlnNjM3Ums2WmN5UzVvdnR3Q0FsaFowQ0JLNy1oc3cwU01ta3NsNzc?oc=5"
-        },
-        {
-          "title": "U.S. Stock Market Moves | New Version of Copilot Introduces Three Major AI Features; Microsoft (MSFT.US) Rises Approximately 2.6% - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3ZHdW4tVHJJTDMxUG90VFFIRm5yUElFRkEyYXdpWlloUkVuX25KcnZRSU9GRnhTQzVqeENaaEVFSE9YWWZQcldvelZIS3J5a0pyZE82WW5fa0hCTWZCMVEtRVdpbkJZMzZYemRIZklLTHNwdTZfaTAtSEo1SklJc01naDdCUFIwMTZUNzZEeUNxRmtJeVhBaFZKRWlUR1NsWmNYYlk2S18?oc=5"
-        },
-        {
-          "title": "Microsoft Corp Stock (MSFT) Opened Up by 3.21% on Sep 25: What Investors Need To Know - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVl3OG9Yb0N3dHlOWVZrbkxnVjNDck1pZnNYSnZ1RTU5cEZQS0ZOVnB6UEZjNTZDUlNOYmlCWDNiTFdVbnVZTTNDVXA2SWN3b3NFRHQ3dmNVVnlmYjdoaVN4Umhja2dfTV93c3pCYzdRdXVlVFluQzNFbEd3TjU4OUNjTUNObVhHaG8w?oc=5"
-        }
-      ]
+      "percentChange": 4.58,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 224.965,
+      "currentPrice": 224.12,
       "weekAgoPrice": 222.27000427246094,
-      "percentChange": 1.21,
+      "percentChange": 0.83,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.8,
-      "weekAgoPrice": 4.800000190734863,
-      "percentChange": -0.0,
+      "weekAgoPrice": 4.769999980926514,
+      "percentChange": 0.63,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.79,
-      "weekAgoPrice": 7.809999942779541,
-      "percentChange": -0.26,
+      "weekAgoPrice": 7.860000133514404,
+      "percentChange": -0.89,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.51,
-      "weekAgoPrice": 1.5,
-      "percentChange": 0.67,
+      "weekAgoPrice": 1.4900000095367432,
+      "percentChange": 1.34,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.88,
-      "weekAgoPrice": 1.899999976158142,
-      "percentChange": -1.05,
+      "weekAgoPrice": 1.9299999475479126,
+      "percentChange": -2.59,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.39,
-      "weekAgoPrice": 1.3700000047683716,
-      "percentChange": 1.46,
+      "weekAgoPrice": 1.3600000143051147,
+      "percentChange": 2.21,
       "flagged": false,
       "news": []
     },
@@ -91,19 +78,19 @@
     {
       "ticker": "5352.KL",
       "currentPrice": 1.16,
-      "weekAgoPrice": 1.1200000047683716,
-      "percentChange": 3.57,
+      "weekAgoPrice": 1.190000057220459,
+      "percentChange": -2.52,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.715,
-      "weekAgoPrice": 0.7350000143051147,
-      "percentChange": -2.72,
+      "weekAgoPrice": 0.7200000286102295,
+      "percentChange": -0.69,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 1
+  "flaggedCount": 0
 }
