@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-22T20:16:05.177095Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 228.87,
-        "weekAgoPrice": 212.1699981689453,
-        "percentChange": 7.87,
-        "flagged": true,
-        "news": [
-          {
-            "title": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy? - fool.com",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0p2eFY5bmR3aWttNFRYRHk0N2tjSkRBeHE4Y2JJLTNVZ1FWRkJueWkzbXR5c3VNNG9tcmlxWEZNQlR1SEZEei0wLVVSSkVXZHA1YUVoYnVSV1JYSDlpb2s3TjB4ckFZX2JIOG1oSEhUQkU5aFNURkU3UnhWQk9RWUVBUnBPd0ZrNW4wYXc0RWhKYmRST3h5RjJVSGxnM1ZjbF8yVy1wS2J6Vm5yTWFldw?oc=5"
-          },
-          {
-            "title": "NVDA Stock Eyes $236 Record High as 2027 NVIDIA Growth Forecasts Rise - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2tMNGJnT3oxY05PWW5qWUI4emFseXluUjdyUXRBUWlaRGJYMVh6cWVQZVdOYWhFbW5RXzlJM2p5YmhHUlRZQkxCbVNYWm1oaUxzbmc1VjkxWnYxNW5fLU45eHd4UVhMNXl0YlE3Y1A1WDVScWFEcE9oT1RUcUNwX291Y2dVWWUwR3dkN2NodTBaMTVDb0g2YlliZ3Y1Mjdha21iYkVxd1l6bUZlYVViVA?oc=5"
-          },
-          {
-            "title": "Nvidia's Falling Stock Price is Raising Worries About Profit Growth Prospects - marketscreener.com",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd3hrZXRmbkRsd2RiZjY2LXMtVzk0bGlodkJqVDQ5dDdGNDMzTGpzcDBGNHBBMzZzcTF6X2tyc3FhbDBEX1E4Q2JwU05xR05xME5QSkVEam9YT3JBeDM2QVJvUVB6MjhaN3UyVFg3dkVLQm94Z3BTOFZYT2ItZm82MHBDZHVBRFFCaG5GSHdKUzRSMUhHNFlkakJIQXVrcDVNNEJtMk9TVVFWc0R2TjRidmRwa1NrUFl4Uk1XTExiQmZlTmlGWVlYVXJ3?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.21,
-        "weekAgoPrice": 1.1299999952316284,
-        "percentChange": 7.08,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-22T20:23:48.394614Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1811,6 +1776,33 @@
         "percentChange": -6.0,
         "flagged": true,
         "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-25T18:17:06.719749Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 518.715,
+        "weekAgoPrice": 493.7799987792969,
+        "percentChange": 5.05,
+        "flagged": true,
+        "news": [
+          {
+            "title": "What's Going On With Microsoft Stock Friday? - Microsoft (NASDAQ:MSFT) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSTlqREx0R0NNdl9wR3JwOFItYnZPV3VxaG1hV3IyQXR0ZEQwRmFzWHNYZHRLSlBlQmVzSTJ1ZHZnSVRuTi1zSl8xZHBYU0l4Ry1lLUNYYTNZQ3FHdDFlTkxiaHJuRXlfUnBfNHUtOWFqeDgzUFlnNjM3Ums2WmN5UzVvdnR3Q0FsaFowQ0JLNy1oc3cwU01ta3NsNzc?oc=5"
+          },
+          {
+            "title": "U.S. Stock Market Moves | New Version of Copilot Introduces Three Major AI Features; Microsoft (MSFT.US) Rises Approximately 2.6% - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3ZHdW4tVHJJTDMxUG90VFFIRm5yUElFRkEyYXdpWlloUkVuX25KcnZRSU9GRnhTQzVqeENaaEVFSE9YWWZQcldvelZIS3J5a0pyZE82WW5fa0hCTWZCMVEtRVdpbkJZMzZYemRIZklLTHNwdTZfaTAtSEo1SklJc01naDdCUFIwMTZUNzZEeUNxRmtJeVhBaFZKRWlUR1NsWmNYYlk2S18?oc=5"
+          },
+          {
+            "title": "Microsoft Corp Stock (MSFT) Opened Up by 3.21% on Sep 25: What Investors Need To Know - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVl3OG9Yb0N3dHlOWVZrbkxnVjNDck1pZnNYSnZ1RTU5cEZQS0ZOVnB6UEZjNTZDUlNOYmlCWDNiTFdVbnVZTTNDVXA2SWN3b3NFRHQ3dmNVVnlmYjdoaVN4Umhja2dfTV93c3pCYzdRdXVlVFluQzNFbEd3TjU4OUNjTUNObVhHaG8w?oc=5"
+          }
+        ]
       }
     ]
   }

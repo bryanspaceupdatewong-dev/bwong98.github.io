@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-25T17:16:37.412406Z",
+  "generatedAt": "2026-09-25T18:17:06.719749Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 517.69,
+      "currentPrice": 518.715,
       "weekAgoPrice": 493.7799987792969,
-      "percentChange": 4.84,
-      "flagged": false,
-      "news": []
+      "percentChange": 5.05,
+      "flagged": true,
+      "news": [
+        {
+          "title": "What's Going On With Microsoft Stock Friday? - Microsoft (NASDAQ:MSFT) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSTlqREx0R0NNdl9wR3JwOFItYnZPV3VxaG1hV3IyQXR0ZEQwRmFzWHNYZHRLSlBlQmVzSTJ1ZHZnSVRuTi1zSl8xZHBYU0l4Ry1lLUNYYTNZQ3FHdDFlTkxiaHJuRXlfUnBfNHUtOWFqeDgzUFlnNjM3Ums2WmN5UzVvdnR3Q0FsaFowQ0JLNy1oc3cwU01ta3NsNzc?oc=5"
+        },
+        {
+          "title": "U.S. Stock Market Moves | New Version of Copilot Introduces Three Major AI Features; Microsoft (MSFT.US) Rises Approximately 2.6% - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3ZHdW4tVHJJTDMxUG90VFFIRm5yUElFRkEyYXdpWlloUkVuX25KcnZRSU9GRnhTQzVqeENaaEVFSE9YWWZQcldvelZIS3J5a0pyZE82WW5fa0hCTWZCMVEtRVdpbkJZMzZYemRIZklLTHNwdTZfaTAtSEo1SklJc01naDdCUFIwMTZUNzZEeUNxRmtJeVhBaFZKRWlUR1NsWmNYYlk2S18?oc=5"
+        },
+        {
+          "title": "Microsoft Corp Stock (MSFT) Opened Up by 3.21% on Sep 25: What Investors Need To Know - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVl3OG9Yb0N3dHlOWVZrbkxnVjNDck1pZnNYSnZ1RTU5cEZQS0ZOVnB6UEZjNTZDUlNOYmlCWDNiTFdVbnVZTTNDVXA2SWN3b3NFRHQ3dmNVVnlmYjdoaVN4Umhja2dfTV93c3pCYzdRdXVlVFluQzNFbEd3TjU4OUNjTUNObVhHaG8w?oc=5"
+        }
+      ]
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 225.23,
+      "currentPrice": 224.965,
       "weekAgoPrice": 222.27000427246094,
-      "percentChange": 1.33,
+      "percentChange": 1.21,
       "flagged": false,
       "news": []
     },
@@ -92,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 0
+  "flaggedCount": 1
 }
