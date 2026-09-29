@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-23T07:16:47.003285Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 228.87,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 8.49,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia director Mark Stevens sells another $300M in shares (NVDA:NASDAQ) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzI1dWx0RVVuQ3BaZ01HNmRiZ1k2MmNqTjZ5QUxySlNZQlMxLXYyUjNmTWM1N2VzdkxfLUN2a3l5Q05EWk5qdlgyUUdfWmRKRW9DalBHWWw1bVF0Y3BDY0p3NUY5SkNiXzFoVWFXN2NwLV9WcUUxWFJEeWxNdF8yUU1zVEpXcHdQSzlZaHVNUmVQVkFWN2VibGFQMA?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - AOL.com",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02Rno1eTlSTTlIOFlDSFhUYjFQTi1FT3NlTmphNnM2M1E5VDJzNWFheDFiRmpyeERabnlPd3g5cUpHMmplYnMtTFAydWZDajhCdWh1Z3NzaVZQSnpGYUtwLTZ4TklZc0VDUUR6R1FlX3ZWUVJ2cFpCTEhxY3lyZw?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Could Surge by 2028: Here's How Beginners Can Get In Now According to Motley Fool's Price Estimates - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnMtSlBuUGQxc1U2SmtSTnR4ZUhUMXJoazVZckU3UnBvWU1HVzlPLUlqQzZKcTA0Z1AwSVNjRFVCN1VQT05yX3BHcjJZSGFCOWlfQWV3a0otdWtmQ3VsRFAyWlEtbGk0RkhmNW51SXFXb3hnc1VuMUthNUpzVFlkWkgzeUVnWGdZNVJjTFBzektyQ3BYYVIzaA?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.100000023841858,
-        "percentChange": 9.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.71,
-        "weekAgoPrice": 0.75,
-        "percentChange": -5.33,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-23T07:28:36.188136Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1509,6 +1466,20 @@
         "currentPrice": 1.12,
         "weekAgoPrice": 1.190000057220459,
         "percentChange": -5.88,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-29T19:16:30.614795Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.2100000381469727,
+        "percentChange": -7.44,
         "flagged": true,
         "news": []
       }
