@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-09-30T16:16:25.788676Z",
+  "generatedAt": "2026-09-30T17:16:23.180819Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 518.2,
+      "currentPrice": 517.125,
       "weekAgoPrice": 500.5899963378906,
-      "percentChange": 3.52,
+      "percentChange": 3.3,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 230.91,
+      "currentPrice": 230.435,
       "weekAgoPrice": 225.50999450683594,
-      "percentChange": 2.39,
+      "percentChange": 2.18,
       "flagged": false,
       "news": []
     },
@@ -35,8 +35,8 @@
       "flagged": true,
       "news": [
         {
-          "title": "United Overseas Bank Limited (U11.SI) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kUUZUcjZOa25UMHVuenFLbUtLT011MkJER1BzUzZRRjRTRmtxWmtoUjVrYzU1Y29qRWtrVnVrRjlJR2UyR2JFMTQzc2FtOFBsbmRSUw?oc=5"
+          "title": "United Overseas Bank Limited (U11.SI) stock price, news, quote and history - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IaERYLVZfeEd5UFdUMVpsa3VDTWY4WE5vQTNsQW5rTXlNRGhzYXJmeTkyX29PUVVQZWhjWm5zOGw1UkRWWmJvQUE2eDJYbjhITi1DSw?oc=5"
         }
       ]
     },
