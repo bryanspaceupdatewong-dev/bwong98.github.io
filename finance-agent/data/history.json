@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-23T16:16:00.935723Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 224.9,
-        "weekAgoPrice": 212.1699981689453,
-        "percentChange": 6.0,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVDA Stock Fails at $230 Again as Huang\u2019s NVIDIA Growth Outlook Meets Rising Risks - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ1FEYkVldGRnaXd6eWo5YXp4a0JTVm9SbkFwVFJsUzczWHV0aGlXNHloRjc5OXlTaWZtMU5CNnBoUmNJdlJFU2lSd0pVY3djSkEzTU41MWd6WXIycUcwTlBLdEk1VFhfVThBUWRyX3ZDZVBfR0xGRE5DTExzYUJMTDB0SU5CcFlRTmJra2RuamJJdmdvU3dQNkF4bTcyWDR4NGgzTFFfbkk5VDJWQmhVQlpwN0JoVWVjTFBsOUs3UDA?oc=5"
-          },
-          {
-            "title": "NVIDIA Board Member Trades $300.15M In Company Stock - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONldxdUtBclM3RDJjMWVOaHYtRlpWSUV6YzQwZEhHdjZ6UjJsOFNJbDlwS1lLZ3dPNzFpclVyVDhiNjJZdHVpMjBUXzlIcFZBTzhBSVBYMnNyelp4dGJvWWZ2Mm1lNzlwM1lhUmtPeFZueC1HRk5IQWxmMzdQRFl5b2pwRVUtWExhVTE1cngzY1hzSFYyWmlRVQ?oc=5"
-          },
-          {
-            "title": "Not Palantir. Not Micron. The $325 Billion Nvidia Partner That Jim Cramer Just Called a \"Must Buy\" Stock - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0xreURrWnpiUzdiMVdINVZEXzZmYVE1cTVnNlB5S0k5WXprcWJXZ04tZnlNNXBMakJTcUVXa05Qb3h2YWZ1RzhHc2JjVFY5VGxxb3R4bVpOYlFOU1d3OUkzMWYzaHk3WHVhZ0gtRnF5X3VVZFJxZjRIUjIxbE5nLXdzRXAxQklYT0lra0VuYWxCMksyX1dkQQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.1299999952316284,
-        "percentChange": 5.31,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.71,
-        "weekAgoPrice": 0.75,
-        "percentChange": -5.33,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-23T17:16:00.668899Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1212,6 +1169,20 @@
   },
   {
     "generatedAt": "2026-09-30T03:15:50.733078Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.13,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": -5.04,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-30T04:16:03.631810Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
