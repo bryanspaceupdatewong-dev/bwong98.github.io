@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-23T12:19:15.955580Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 228.87,
-        "weekAgoPrice": 210.9600067138672,
-        "percentChange": 8.49,
-        "flagged": true,
-        "news": [
-          {
-            "title": "AI Chips Update - Rising AI Sentiment Drives Industry Shift and Efficiency Gains - simplywall.st",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU05EbFdjeFYtcXh0cWJhOE1EQ29HbmdtRnRiM1dzdklvYjhudzVqYUxhSnBiSkJERjJtVkJVcWhENDFjUFBLUW4wX2RBM1pvSFBheWdHOGxtalJlbjNVOEhPc1lGeDBMVnNpcW5Kd1BGb0R3dFVVcjA4QzY4eW5kSU5DOHlLLUd2Vkc0aEpHNDJ5dU1JWk1lMmJnQkRNSTNSZUFKZC1tQTNQRE02eXpxTDlGbHlPUm5MQndBOFhtNDRlaW5QOHE1SE91UdIB0AFBVV95cUxNTlpFRUxSWWFJTXJpVDZ1U1hiWnNQeUtQbnpwTWV1S0hVdkYzbFV2ZXRfa0R2YUdLRjduNVh6RU9Qem9EMjlhMjVKMXdhbno5elZHMENidUktbWpwdHZvci1MUzBQeTgwVTVJM2I4R1N2YkdIUEotZzVXLWJnNmMzeEU4cVhUZmQycmh1YjJZMU9CRTdZS1hZd1pLNTBtdTFzTXRDdkdTWE8wTlFOT0FpVGY0cWNQVVEta3ktLUNFVEI2WkVqZjZVd2V6d3ZiT0pq?oc=5"
-          },
-          {
-            "title": "Insider Alert: Nvidia Director Dumps $300 Million in Stock - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWJNRmxkN0lSZlN1U2ZSNmlDcE9wWS1wcXVSWVpoRnlfVzk1WGVWbkxKOFBESm14RV9lMGJwWUplLUdzald6RE55b190Rmh1SnV1eXVaUUdreDg3bjd6bzNfeUdoZGFWTFlua2tKV1IyTXJmT2RyOTFpSzByMHdFOF8yS2IwZHE3cUNpOThXRWJXYVZLY0luZHZ0cw?oc=5"
-          },
-          {
-            "title": "Nvidia (NVDA) Stock Could Be A Bargain After AI Expansion - simplywall.st",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWdhQzNaX2NqeFAzV2ZpX1Babl9FemJWenQ3c2oxamxPNkFzN1Awc05YWTRDM1VWOVlhd0xxRkJqR0R2N3Z5dlJxR25HY0FGWklFTVoyM0NWZjRRQWtIdDdrNTRSOW5MNjFqbzlmZS1fT2JndGJKUzAxTndkQ3U4V3NYakNNZDB4dUN1TDNLOURWWHVjRjFQVldDQ0pwMlRyc21VbDhISTZRVnI3MlY5NmpZSThiN3hvdUpVc2FTODI1aGRl0gHKAUFVX3lxTE1oTHV4RmpnQ242OUNZZVg5QVpmZXAtcDJ1ZEI4VG1vOUdEV05XU0UtWTFuZVNpN3FyR2tRUktjMV9OWC1HczNhNVkzQ3lTN2l4S3YzczFqdTVrUW1RYVRlYW56dS1fYU1IazdROG82N2FGV09IakhMaHV6RDFVSWhQOWp3ajlXMHFDbDN0by1uTEVYTzg1c3Iyd05BSGk3OFlDUTJNM1oxdVJTT2Y0bGtVd0ZFdS0ya1NsSURWZmk2MWgycWk1VURmdlE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.100000023841858,
-        "percentChange": 8.18,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.71,
-        "weekAgoPrice": 0.75,
-        "percentChange": -5.33,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-23T13:17:06.903961Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1328,6 +1285,20 @@
   },
   {
     "generatedAt": "2026-09-29T23:17:08.397842Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.2100000381469727,
+        "percentChange": -7.44,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-30T00:16:48.999585Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
