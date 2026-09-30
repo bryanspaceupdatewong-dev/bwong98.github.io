@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-23T14:16:52.683966Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 226.092,
-        "weekAgoPrice": 212.1699981689453,
-        "percentChange": 6.56,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Not Palantir. Not Micron. The $325 Billion Nvidia Partner That Jim Cramer Just Called a \"Must Buy\" Stock - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0xreURrWnpiUzdiMVdINVZEXzZmYVE1cTVnNlB5S0k5WXprcWJXZ04tZnlNNXBMakJTcUVXa05Qb3h2YWZ1RzhHc2JjVFY5VGxxb3R4bVpOYlFOU1d3OUkzMWYzaHk3WHVhZ0gtRnF5X3VVZFJxZjRIUjIxbE5nLXdzRXAxQklYT0lra0VuYWxCMksyX1dkQQ?oc=5"
-          },
-          {
-            "title": "Nvidia stock may drop to $135 by early 2027 des... - Pluang",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS3NRbnh3TG5IN1M5Q045cHJYTlVLNUI1R0ItT29ZMU01bWFXNDlsR08zMUEyX29FZTZ4U00weDBuYnZIRUVCc3BGdEJOSGZ4ekNDSzVNZkpLRXpPdlBMRE9fNWVoeXNadzRyUUtLTDhCa3RBR0llbWw1cDNJckl6dEtZcnNxbVJjRUlz?oc=5"
-          },
-          {
-            "title": "IONQ Stock On Track To Hit Over 1-Month High On Nvidia Superion 256 Deployment, Quantum Error Decoder Breakthrough - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlZ6RWdzb3kxX1R5SXdydG16LVdsSjg5Y3dMN0V0RjNQVTNya05DSnM5Z0lKWmJLVTVubmh5X1hINWVkMzdSN0hVVndhQWxhVUhLUXF2QWRoS1ZWOTRpb1piTHFDejc4X1FER2Q3NnlqQ0YtckJ5TU93TExIOVpvQ2RHb2tCQ0p2MW16QzUxTlRLaE9P?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.100000023841858,
-        "percentChange": 8.18,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.71,
-        "weekAgoPrice": 0.75,
-        "percentChange": -5.33,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-23T15:16:50.027996Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1277,6 +1234,20 @@
         "currentPrice": 1.12,
         "weekAgoPrice": 1.190000057220459,
         "percentChange": -5.88,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-30T02:16:16.172562Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.13,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": -5.04,
         "flagged": true,
         "news": []
       }
