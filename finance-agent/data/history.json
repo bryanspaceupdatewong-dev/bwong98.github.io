@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-23T19:15:49.030785Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 225.25,
-        "weekAgoPrice": 212.1699981689453,
-        "percentChange": 6.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Why 1 Nvidia Insider Just Sold Another $300 Million in Shares - Barchart.com",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzhTZzlfX3pyM2xWekN4OTdhQy1RdkpWYktSVDlVdFZWd2t2RTJkbnBmMFRuemVjUmJhV0EtT1B1T0RJUEhSUU5MWGZiZHlnT3h3TVJnejVxZUs2TFU3SWV2R0dzclAybURPeFFDNkZfVUFWWFZYMDR4YnJHZ05LWlNvVU9yOVYtUWR6WDVuTGxLeFh2NG5WODVEYTBTRm9rVE5RYnRJbw?oc=5"
-          },
-          {
-            "title": "Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OaEllOUdaN01GNGFudFRQLWV3Wk9RNDd3SHJ2R1RRby13S0tMeS1NZ2Vic21oZjJkVGtEUG9DcTBwRHVIeUF5V2F1RHc0RE04SER2Z0dTNkZIRktLNVEzaTZMRjFCN0dmbGQ2YVJMVlNSVkUzYm5GSVN1bWtNQQ?oc=5"
-          },
-          {
-            "title": "Nvidia director sells $300M in stock amid stron... - Pluang",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjRsYnpoNExrTTlNOXpxWS04Tmtnamozd29SZ215cE1xZGdVWEtLa2E5OV84bGR2VGpLN3RJaElWdmY2VWRQaTM4SnBlWE1kOWNhQzJETFlVZ3ZybFJmMzM5ck9JUnhRUURsRldVTHpDM0ZVa0VxVDNGOHk4c19lazJGRkJOelJDaDdOY3Vhbw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.100000023841858,
-        "percentChange": 8.18,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.71,
-        "weekAgoPrice": 0.75,
-        "percentChange": -5.33,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-23T20:16:34.099758Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1125,6 +1082,20 @@
   },
   {
     "generatedAt": "2026-09-30T06:20:37.233339Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.13,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": -5.04,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-30T07:17:16.831277Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
