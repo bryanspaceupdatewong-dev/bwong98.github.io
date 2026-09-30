@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-24T05:16:41.407600Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 225.51,
-        "weekAgoPrice": 213.89999389648438,
-        "percentChange": 5.43,
-        "flagged": true,
-        "news": [
-          {
-            "title": "I've Held Nvidia for Nearly 3 Years. Here's Whether I'd Still Buy Today. - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMFlmNkFGcDFsUWg4T3piNlpYSjI4cFBCaWhYU0ZTa21YbWpKNmtsXzVUOU9kSHhJWmNKZmp5U3NpYWk4U3FDeFB1aUFqQ2M0VWplWFRsNDJqZnlvOEVia0VFY2JmWUlpSnhqNm14cWJwanlQOGdyS185Vnc3bFNfM1F1MWRXZWpKWG0wV3BsLTlkeWc?oc=5"
-          },
-          {
-            "title": "Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMlh0VGh5Ulg4cVc3RkZGcTVaWmRLanBVdjZFWEF0Ui1nTkFDMkhVc3p4eTZHQVVnZTh1dDdLOGhScUxiTDNVakpUMFNGcUZUYkdUWkFNVG9kWWF1WUk0dUNHVWNIQnN2UG9lWkJMSzNCT05TZjAyMzVuMVZKVW9BZ01mNkJOSjdjaTJ6QWZ0bW9mU3BXYTdwQmh0c0VpeEJrZWVtRVdkTk8yNU5RTmpVUWlONmJnNVlMSGFhZ1ZLLTVxNktwVXBzTGhVakFZcGlKY3hES1A3WFkyNmZmSUhj?oc=5"
-          },
-          {
-            "title": "IonQ Stock Surges After Inking Quantum Computing Deal With Nvidia - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRldVcFU5d2RFRUpmV3RyU19qRHVhOGxHUjM3UURzRXAxdWtmdVFZTGg5V082UTlSSjRFVTNSN0xwU3VwTHlBcW4zcXh0d0FtVGhCNy0tMm5Bd0tPTHpZc1I3b1g2a2duRGRxaTVDV0pNUXhLTXZEbV9yREdieklvRC11QTVPR2ZtOEk0Qm1jaVF5VGs?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-24T06:17:08.086477Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -900,6 +873,20 @@
         "currentPrice": 1.11,
         "weekAgoPrice": 1.2100000381469727,
         "percentChange": -8.26,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-09-30T19:16:24.281254Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.11,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": -6.72,
         "flagged": true,
         "news": []
       }
