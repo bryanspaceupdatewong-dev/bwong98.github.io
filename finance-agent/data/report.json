@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T06:20:34.044356Z",
+  "generatedAt": "2026-10-01T07:16:59.783458Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,38 +21,33 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.66,
+      "currentPrice": 4.65,
       "weekAgoPrice": 4.820000171661377,
-      "percentChange": -3.32,
+      "percentChange": -3.53,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.43,
+      "currentPrice": 7.44,
       "weekAgoPrice": 7.829999923706055,
-      "percentChange": -5.11,
-      "flagged": true,
-      "news": [
-        {
-          "title": "United Overseas Bank Limited (U11.SI) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IaERYLVZfeEd5UFdUMVpsa3VDTWY4WE5vQTNsQW5rTXlNRGhzYXJmeTkyX29PUVVQZWhjWm5zOGw1UkRWWmJvQUE2eDJYbjhITi1DSw?oc=5"
-        }
-      ]
+      "percentChange": -4.98,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.48,
+      "currentPrice": 1.47,
       "weekAgoPrice": 1.5,
-      "percentChange": -1.33,
+      "percentChange": -2.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.89,
+      "currentPrice": 1.9,
       "weekAgoPrice": 1.8799999952316284,
-      "percentChange": 0.53,
+      "percentChange": 1.06,
       "flagged": false,
       "news": []
     },
@@ -66,9 +61,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.27,
       "weekAgoPrice": 1.2999999523162842,
-      "percentChange": -0.77,
+      "percentChange": -2.31,
       "flagged": false,
       "news": []
     },
@@ -82,9 +77,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.09,
+      "currentPrice": 1.07,
       "weekAgoPrice": 1.159999966621399,
-      "percentChange": -6.03,
+      "percentChange": -7.76,
       "flagged": true,
       "news": []
     },
@@ -97,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 1
 }

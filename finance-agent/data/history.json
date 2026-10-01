@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-25T18:17:06.719749Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 518.715,
-        "weekAgoPrice": 493.7799987792969,
-        "percentChange": 5.05,
-        "flagged": true,
-        "news": [
-          {
-            "title": "What's Going On With Microsoft Stock Friday? - Microsoft (NASDAQ:MSFT) - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSTlqREx0R0NNdl9wR3JwOFItYnZPV3VxaG1hV3IyQXR0ZEQwRmFzWHNYZHRLSlBlQmVzSTJ1ZHZnSVRuTi1zSl8xZHBYU0l4Ry1lLUNYYTNZQ3FHdDFlTkxiaHJuRXlfUnBfNHUtOWFqeDgzUFlnNjM3Ums2WmN5UzVvdnR3Q0FsaFowQ0JLNy1oc3cwU01ta3NsNzc?oc=5"
-          },
-          {
-            "title": "U.S. Stock Market Moves | New Version of Copilot Introduces Three Major AI Features; Microsoft (MSFT.US) Rises Approximately 2.6% - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3ZHdW4tVHJJTDMxUG90VFFIRm5yUElFRkEyYXdpWlloUkVuX25KcnZRSU9GRnhTQzVqeENaaEVFSE9YWWZQcldvelZIS3J5a0pyZE82WW5fa0hCTWZCMVEtRVdpbkJZMzZYemRIZklLTHNwdTZfaTAtSEo1SklJc01naDdCUFIwMTZUNzZEeUNxRmtJeVhBaFZKRWlUR1NsWmNYYlk2S18?oc=5"
-          },
-          {
-            "title": "Microsoft Corp Stock (MSFT) Opened Up by 3.21% on Sep 25: What Investors Need To Know - TradingKey",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVl3OG9Yb0N3dHlOWVZrbkxnVjNDck1pZnNYSnZ1RTU5cEZQS0ZOVnB6UEZjNTZDUlNOYmlCWDNiTFdVbnVZTTNDVXA2SWN3b3NFRHQ3dmNVVnlmYjdoaVN4Umhja2dfTV93c3pCYzdRdXVlVFluQzNFbEd3TjU4OUNjTUNObVhHaG8w?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-29T04:17:15.305566Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -785,6 +758,20 @@
         "currentPrice": 1.09,
         "weekAgoPrice": 1.159999966621399,
         "percentChange": -6.03,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-01T07:16:59.783458Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.07,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": -7.76,
         "flagged": true,
         "news": []
       }
