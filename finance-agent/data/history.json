@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-24T11:18:53.566441Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 225.51,
-        "weekAgoPrice": 213.89999389648438,
-        "percentChange": 5.43,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV3ZnckJKYllweGtHNFVDWUlsY2xmY2MzZXA3Vmw5bXFoRGRQQ1dUVzBXODR5cG5XeXFoQWFuVnhTN05CVGVhdTRLQ2J0cldrRnk4VGJmMVA5eXltV25EUm03ZG1GclBJeTVNOFoxU2JEWkdrdUNjLW1NdThHMjlfUEE2eVN2cGpJZFVCVGVrNkpKeGJWcF9oN0pvbHR4ZGtyU09IVXM5SFB5RlA5bGV4aGl0dnlOOFB2dDNwZ1E5aDltTngwQzhmS2FOVnBodWs?oc=5"
-          },
-          {
-            "title": "Nvidia to pay dividends next week; Here\u2019s how much 100 NVDA shares will earn - finbold.com",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY1ExMVZUdjVjVmxaTkpsZjRJa0ZMT2psNHRkWVZsUDlIS3J0OV9MQ0l1dERhQWFGTmR4V3NxRll1RXYyRG5MTEwxN21JVG9lSXc1djFNNFE2RHZJdjhZWktCM0VaZElvd041aW5lcTlCR2xhWnR0NFBEbFR1aXg4dHU1SjNmb2JCcDhSN2tUTXdYT2k4Y2VoSGZZZHktZw?oc=5"
-          },
-          {
-            "title": "Investment Outlook for SpaceX and Nvidia - Intellectia AI",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55VnA2eDJ0RmphdFFSaFRSY09fdVR4Q1FSRGJ2czhGSGdYUE56akVqc2E0Y3VWVlduaG9yQ2RGVXF3SFY1cHZPODVIMWhhbWFPaU1XNkNDVXE5YV96YmgtVExHQk9OLUtNT0dTT1NEemY2YVRhbXE1RlF6blh6aTQ?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-24T12:21:29.843052Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -809,6 +782,20 @@
         "currentPrice": 1.11,
         "weekAgoPrice": 1.190000057220459,
         "percentChange": -6.72,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-01T01:16:04.891159Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.09,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": -6.03,
         "flagged": true,
         "news": []
       }
