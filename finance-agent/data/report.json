@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T03:15:59.470073Z",
+  "generatedAt": "2026-10-01T04:16:15.627761Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,38 +21,33 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.66,
+      "currentPrice": 4.67,
       "weekAgoPrice": 4.820000171661377,
-      "percentChange": -3.32,
+      "percentChange": -3.11,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.43,
+      "currentPrice": 7.44,
       "weekAgoPrice": 7.829999923706055,
-      "percentChange": -5.11,
-      "flagged": true,
-      "news": [
-        {
-          "title": "United Overseas Bank Limited (U11.SI) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IaERYLVZfeEd5UFdUMVpsa3VDTWY4WE5vQTNsQW5rTXlNRGhzYXJmeTkyX29PUVVQZWhjWm5zOGw1UkRWWmJvQUE2eDJYbjhITi1DSw?oc=5"
-        }
-      ]
+      "percentChange": -4.98,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.47,
+      "currentPrice": 1.48,
       "weekAgoPrice": 1.5,
-      "percentChange": -2.0,
+      "percentChange": -1.33,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.89,
+      "currentPrice": 1.9,
       "weekAgoPrice": 1.8799999952316284,
-      "percentChange": 0.53,
+      "percentChange": 1.06,
       "flagged": false,
       "news": []
     },
@@ -66,25 +61,25 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.28,
+      "currentPrice": 1.29,
       "weekAgoPrice": 1.2999999523162842,
-      "percentChange": -1.54,
+      "percentChange": -0.77,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.195,
+      "currentPrice": 0.2,
       "weekAgoPrice": 0.20000000298023224,
-      "percentChange": -2.5,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.08,
+      "currentPrice": 1.09,
       "weekAgoPrice": 1.159999966621399,
-      "percentChange": -6.9,
+      "percentChange": -6.03,
       "flagged": true,
       "news": []
     },
@@ -97,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 1
 }
