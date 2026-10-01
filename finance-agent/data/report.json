@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T02:16:30.650606Z",
+  "generatedAt": "2026-10-01T03:15:59.470073Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -29,11 +29,16 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.47,
+      "currentPrice": 7.43,
       "weekAgoPrice": 7.829999923706055,
-      "percentChange": -4.6,
-      "flagged": false,
-      "news": []
+      "percentChange": -5.11,
+      "flagged": true,
+      "news": [
+        {
+          "title": "United Overseas Bank Limited (U11.SI) stock price, news, quote and history - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IaERYLVZfeEd5UFdUMVpsa3VDTWY4WE5vQTNsQW5rTXlNRGhzYXJmeTkyX29PUVVQZWhjWm5zOGw1UkRWWmJvQUE2eDJYbjhITi1DSw?oc=5"
+        }
+      ]
     },
     {
       "ticker": "4715.KL",
@@ -61,9 +66,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.28,
       "weekAgoPrice": 1.2999999523162842,
-      "percentChange": -0.77,
+      "percentChange": -1.54,
       "flagged": false,
       "news": []
     },
@@ -85,12 +90,12 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.695,
-      "weekAgoPrice": 0.7099999785423279,
-      "percentChange": -2.11,
+      "currentPrice": 0.69,
+      "weekAgoPrice": 0.7049999833106995,
+      "percentChange": -2.13,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 1
+  "flaggedCount": 2
 }
