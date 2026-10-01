@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-24T12:21:29.843052Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 225.51,
-        "weekAgoPrice": 213.89999389648438,
-        "percentChange": 5.43,
-        "flagged": true,
-        "news": [
-          {
-            "title": "$1,000 in Nvidia stock outperformed S&P 500 by 54x over 10 years, driven by AI growth. - Pluang",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDJqSEllOUYxRndMb3VLMDdPUlQxSW5xN1Z2V1NnVHJUUkp5dGpYSjlUUEI4WU9wT0lrWGE0bFU4TnVqRHd3M2c3SkotMlh3U1JRNWVJMXVGVzQ5RnItbU9GMXdzdXk4TGtHR3ZIWWtHeVo2S2w3clBWOWZsZ1lXUE9TdUQtc2JrbWNZWmw4amZTSGd0bmZuZmw0aU1iVU5fS2tnODM2RmFoblhIblBZ?oc=5"
-          },
-          {
-            "title": "Nvidia\u2019s Immense Dividend Hike Puts Dividend Growth Stocks in the Spotlight - Morningstar",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdVV4dEg1UDVVUEUtcU91WXRCZFI3Zm5pQU5tMTF2Q0tqZThjQjV6Nk5QdEt1NGJHMzBhRmpUV0lQS093MVVXOTdPNHdvRTE3RWFTMGM4Y21VNmhfQ0gtREdkeW9ES3BhMDh3UDJxcFV4aE16M0hNZmtSb0x4RnVKdC0xZmEyZjAzMV9ud0xMcXlGSktJZnRENGpmVmtJeURFVFFGRA?oc=5"
-          },
-          {
-            "title": "NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV3ZnckJKYllweGtHNFVDWUlsY2xmY2MzZXA3Vmw5bXFoRGRQQ1dUVzBXODR5cG5XeXFoQWFuVnhTN05CVGVhdTRLQ2J0cldrRnk4VGJmMVA5eXltV25EUm03ZG1GclBJeTVNOFoxU2JEWkdrdUNjLW1NdThHMjlfUEE2eVN2cGpJZFVCVGVrNkpKeGJWcF9oN0pvbHR4ZGtyU09IVXM5SFB5RlA5bGV4aGl0dnlOOFB2dDNwZ1E5aDltTngwQzhmS2FOVnBodWs?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-24T13:17:21.067164Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -796,6 +769,20 @@
         "currentPrice": 1.09,
         "weekAgoPrice": 1.159999966621399,
         "percentChange": -6.03,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-01T02:16:30.650606Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.08,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": -6.9,
         "flagged": true,
         "news": []
       }
