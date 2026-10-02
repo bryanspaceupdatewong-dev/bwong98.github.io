@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-30T03:15:50.733078Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.13,
-        "weekAgoPrice": 1.190000057220459,
-        "percentChange": -5.04,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-30T04:16:03.631810Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -774,6 +760,33 @@
         "percentChange": -6.9,
         "flagged": true,
         "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-02T14:17:54.709930Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 236.845,
+        "weekAgoPrice": 225.07000732421875,
+        "percentChange": 5.23,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stock Gains After Morgan Stanley Names It a 'Top Semicond - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ01RS1k4Sk41SHlaOU54WTRaUExubkNfdGJYVjh0QUdfckxlb2piV0pHSmVHU3dLMVlLRXdHeVllSWlIOVljSVpZNHVZN3N0aE9qSTdzNzdwY1pwbnU4b25KMU5nWDBfQnlLUVJvdDQxOURXRG14RXZfODlPWk1WSDBxYzgzVzQzRUtqWWZaV0phTTBrVVV1X3oxZGJFenNLQkt5NU9JMDUyYUJyTnFIemJB?oc=5"
+          },
+          {
+            "title": "Nvidia (NVDA) Shares Rise Premarket as Morgan Stanley Names It T - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXktU29xc1VzQUw2NV9pZmpIMjJGZVp2TUNWcF9EV040QU1GTTh4RnBUal9VS05mRlFKanZFTTF3WExsX2pIOTNyOGN1Z2tXUmRrMjJ4ZGtFVDRpZk1uYVN6bU5WYmFHNjJqZHRKS2phY1doZjNPWk0yR3F5clQta3FXOGpLOWRlbUgtX0pNWnZDRG1URG5GSndXd0U3R1RiT25kcGxFelBuZUp0Wm1vRTNHd3VTTHpBb3dpUjJOaw?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Regains \u2018Top Pick\u2019 Status At Morgan Stanley - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNG1MN0FXN1JDYm1OUU1OWnpvcE9qXy00RGUwNnJVN3FqcmtSRi1Nd1JQUFAzd3BoMF9WRWUwNURMV2tSN0RvUk5paXpmY1NZSG1GdElENTYtUzZQdkJfLWNDU1VxaFhLZ2g3cXQ0cUliMGt2NXJ0X0phMFRCSkRxbTB6aFBWWk1GU2ZGZlJNV2tYeEFYc3Z5M3I4T0FtQQ?oc=5"
+          }
+        ]
       }
     ]
   }
