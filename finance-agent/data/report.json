@@ -1,45 +1,58 @@
 {
-  "generatedAt": "2026-10-02T15:17:15.377377Z",
+  "generatedAt": "2026-10-02T16:16:34.084782Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 514.585,
+      "currentPrice": 514.735,
       "weekAgoPrice": 516.1699829101562,
-      "percentChange": -0.31,
+      "percentChange": -0.28,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 234.801,
+      "currentPrice": 236.44,
       "weekAgoPrice": 225.07000732421875,
-      "percentChange": 4.32,
-      "flagged": false,
-      "news": []
+      "percentChange": 5.05,
+      "flagged": true,
+      "news": [
+        {
+          "title": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTFI0T2JmY3NJSUVxRnEyQndVaWQ5MDBIU3IyT2tOd3FDdnF2NWpHQlB1TWhBak1qQk1xN2Rla1FrLXp2TUlhZzJqOUw1eEl2U1U1NlQ2a2I3WWtQUFFqS09HX2lEa3g2UlMwVGp6a0toT2lpZldkU20yTzgyRUNsMXRQaHE3STVrQXdENmQ2SmtvSUE?oc=5"
+        },
+        {
+          "title": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2% - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUVMNnlzM3F6SjRudU9qR25WZnl1bklOSVozNWJJVVhZSTE4dUZDTDdxc3RyaDd1djVwYmdnV1dyS2hITnJ4REtGMmVJeC0xN1REMXVGOGp5dTU0RHNacERQYW1wMzZ0M0ZzZTNJWmZKeDl5b19PQmNzRjBCSS1wWVkwRFFNOFJJNlFfVUFBYlNJVnd1NndsZG5jcmFHYTJHVVl1QWcyTS1ueVo2bEJCZ1hKd2F2Zw?oc=5"
+        },
+        {
+          "title": "Jim Cramer: \u201cNVIDIA Literally Can\u2019t Make Their Own Chips Fast Enough.\u201d Here\u2019s My 45% Upside Scenario: - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWXN5LVl0d1FuckJiT2Y2X2t0dHdwY1NONV9lWDNvQW0xUzdGRHlzNlRwVkhSa1FLd2wwS0lsNXdoYWg4SGhteklQRmgxcE9vd2paMG5nMG13MVN0ZGhFMVo3UzRGandvYmFLSHZVUVppYWpJQndxNUUzUmwybXA4QS1SMThSNEJ4WlI2Ti1Ba0tQa1NkOUpXc3Rn?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.66,
-      "weekAgoPrice": 4.800000190734863,
-      "percentChange": -2.92,
+      "weekAgoPrice": 4.820000171661377,
+      "percentChange": -3.32,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.43,
-      "weekAgoPrice": 7.789999961853027,
-      "percentChange": -4.62,
-      "flagged": false,
+      "weekAgoPrice": 7.829999923706055,
+      "percentChange": -5.11,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.47,
-      "weekAgoPrice": 1.5099999904632568,
-      "percentChange": -2.65,
+      "weekAgoPrice": 1.5,
+      "percentChange": -2.0,
       "flagged": false,
       "news": []
     },
@@ -54,16 +67,16 @@
     {
       "ticker": "5271.KL",
       "currentPrice": 1.4,
-      "weekAgoPrice": 1.3899999856948853,
-      "percentChange": 0.72,
+      "weekAgoPrice": 1.3799999952316284,
+      "percentChange": 1.45,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.27,
-      "weekAgoPrice": 1.2899999618530273,
-      "percentChange": -1.55,
+      "weekAgoPrice": 1.2999999523162842,
+      "percentChange": -2.31,
       "flagged": false,
       "news": []
     },
@@ -86,11 +99,11 @@
     {
       "ticker": "5341.KL",
       "currentPrice": 0.71,
-      "weekAgoPrice": 0.7149999737739563,
-      "percentChange": -0.7,
+      "weekAgoPrice": 0.7049999833106995,
+      "percentChange": 0.71,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 0
+  "flaggedCount": 2
 }

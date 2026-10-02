@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-30T04:16:03.631810Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.13,
-        "weekAgoPrice": 1.190000057220459,
-        "percentChange": -5.04,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-30T05:16:58.668483Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -787,6 +773,41 @@
             "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNG1MN0FXN1JDYm1OUU1OWnpvcE9qXy00RGUwNnJVN3FqcmtSRi1Nd1JQUFAzd3BoMF9WRWUwNURMV2tSN0RvUk5paXpmY1NZSG1GdElENTYtUzZQdkJfLWNDU1VxaFhLZ2g3cXQ0cUliMGt2NXJ0X0phMFRCSkRxbTB6aFBWWk1GU2ZGZlJNV2tYeEFYc3Z5M3I4T0FtQQ?oc=5"
           }
         ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-02T16:16:34.084782Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 236.44,
+        "weekAgoPrice": 225.07000732421875,
+        "percentChange": 5.05,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2% - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTFI0T2JmY3NJSUVxRnEyQndVaWQ5MDBIU3IyT2tOd3FDdnF2NWpHQlB1TWhBak1qQk1xN2Rla1FrLXp2TUlhZzJqOUw1eEl2U1U1NlQ2a2I3WWtQUFFqS09HX2lEa3g2UlMwVGp6a0toT2lpZldkU20yTzgyRUNsMXRQaHE3STVrQXdENmQ2SmtvSUE?oc=5"
+          },
+          {
+            "title": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2% - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUVMNnlzM3F6SjRudU9qR25WZnl1bklOSVozNWJJVVhZSTE4dUZDTDdxc3RyaDd1djVwYmdnV1dyS2hITnJ4REtGMmVJeC0xN1REMXVGOGp5dTU0RHNacERQYW1wMzZ0M0ZzZTNJWmZKeDl5b19PQmNzRjBCSS1wWVkwRFFNOFJJNlFfVUFBYlNJVnd1NndsZG5jcmFHYTJHVVl1QWcyTS1ueVo2bEJCZ1hKd2F2Zw?oc=5"
+          },
+          {
+            "title": "Jim Cramer: \u201cNVIDIA Literally Can\u2019t Make Their Own Chips Fast Enough.\u201d Here\u2019s My 45% Upside Scenario: - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWXN5LVl0d1FuckJiT2Y2X2t0dHdwY1NONV9lWDNvQW0xUzdGRHlzNlRwVkhSa1FLd2wwS0lsNXdoYWg4SGhteklQRmgxcE9vd2paMG5nMG13MVN0ZGhFMVo3UzRGandvYmFLSHZVUVppYWpJQndxNUUzUmwybXA4QS1SMThSNEJ4WlI2Ti1Ba0tQa1NkOUpXc3Rn?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.43,
+        "weekAgoPrice": 7.829999923706055,
+        "percentChange": -5.11,
+        "flagged": true,
+        "news": []
       }
     ]
   }
