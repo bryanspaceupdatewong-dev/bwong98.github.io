@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T00:16:35.749766Z",
+  "generatedAt": "2026-10-05T01:16:46.358240Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,33 +21,33 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.66,
-      "weekAgoPrice": 4.800000190734863,
-      "percentChange": -2.92,
+      "currentPrice": 4.69,
+      "weekAgoPrice": 4.789999961853027,
+      "percentChange": -2.09,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.43,
-      "weekAgoPrice": 7.789999961853027,
-      "percentChange": -4.62,
+      "currentPrice": 7.45,
+      "weekAgoPrice": 7.840000152587891,
+      "percentChange": -4.97,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.47,
+      "currentPrice": 1.48,
       "weekAgoPrice": 1.5099999904632568,
-      "percentChange": -2.65,
+      "percentChange": -1.99,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.86,
-      "weekAgoPrice": 1.8799999952316284,
-      "percentChange": -1.06,
+      "currentPrice": 1.88,
+      "weekAgoPrice": 1.899999976158142,
+      "percentChange": -1.05,
       "flagged": false,
       "news": []
     },
@@ -62,8 +62,8 @@
     {
       "ticker": "5296.KL",
       "currentPrice": 1.27,
-      "weekAgoPrice": 1.2899999618530273,
-      "percentChange": -1.55,
+      "weekAgoPrice": 1.3200000524520874,
+      "percentChange": -3.79,
       "flagged": false,
       "news": []
     },
@@ -77,10 +77,10 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.11,
-      "weekAgoPrice": 1.159999966621399,
-      "percentChange": -4.31,
-      "flagged": false,
+      "currentPrice": 1.12,
+      "weekAgoPrice": 1.1799999475479126,
+      "percentChange": -5.08,
+      "flagged": true,
       "news": []
     },
     {
@@ -92,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 0
+  "flaggedCount": 1
 }
