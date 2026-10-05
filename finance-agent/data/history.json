@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-09-30T16:16:25.788676Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.5,
-        "weekAgoPrice": 7.900000095367432,
-        "percentChange": -5.06,
-        "flagged": true,
-        "news": [
-          {
-            "title": "United Overseas Bank Limited (U11.SI) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kUUZUcjZOa25UMHVuenFLbUtLT011MkJER1BzUzZRRjRTRmtxWmtoUjVrYzU1Y29qRWtrVnVrRjlJR2UyR2JFMTQzc2FtOFBsbmRSUw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.11,
-        "weekAgoPrice": 1.2100000381469727,
-        "percentChange": -8.26,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-09-30T17:16:23.180819Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -799,6 +772,20 @@
   },
   {
     "generatedAt": "2026-10-05T08:16:35.344276Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.11,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.93,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-05T09:17:13.625859Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
