@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-10-06T18:16:34.155235Z",
+  "generatedAt": "2026-10-06T19:16:50.351155Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 531.48,
+      "currentPrice": 531.095,
       "weekAgoPrice": 508.9599914550781,
-      "percentChange": 4.42,
+      "percentChange": 4.35,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 240.22,
+      "currentPrice": 239.89,
       "weekAgoPrice": 227.2100067138672,
-      "percentChange": 5.73,
+      "percentChange": 5.58,
       "flagged": true,
       "news": [
         {
-          "title": "The World\u2019s Largest Stock Has Lagged. If Nvidia Runs, Tech and Markets Will Follow. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaEhnSzY2NmZ1cTRXYlBBXzRmQ1Nlcld5OVhFSUpUdlEwdzVyOHZySk9nZ2tDNDFILTR4b1p2QVprZTl5UnN5N2F2bUJPWUxTNG1pajZ1UjAtbjRiWWJJdVNncWJhTkk0dUxzdUJ6UEQ4N2R2ZzExUEhEQmwtcHhmb0k1dGFGbzQ?oc=5"
-        },
-        {
           "title": "Stock market today: S&P 500, Nasdaq touch all-time highs as stocks power higher, bond yields retreat - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVA4dXZfTlMzdGNsZDZOM19oNng1YzJqNl9wTDE2RmhKblJZOURISlRVbEVldE1MV0huXzZUUWROdlFRRl9OWllPN2VZbmNSem5YU251WlBESy05c3lpR25hdjl2NzJ5U1BVMHBSWnBfdjlxMEdRV3o4UFNDTXVXV01HU0FXSmtMOE9DWDBsVTdYNVJkUGlpS0NpR2JrSE1SZVRkMG9SMGFxZEQ4?oc=5"
+        },
+        {
+          "title": "The World\u2019s Largest Stock Has Lagged. If Nvidia Runs, Tech and Markets Will Follow. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaEhnSzY2NmZ1cTRXYlBBXzRmQ1Nlcld5OVhFSUpUdlEwdzVyOHZySk9nZ2tDNDFILTR4b1p2QVprZTl5UnN5N2F2bUJPWUxTNG1pajZ1UjAtbjRiWWJJdVNncWJhTkk0dUxzdUJ6UEQ4N2R2ZzExUEhEQmwtcHhmb0k1dGFGbzQ?oc=5"
         },
         {
           "title": "Marvell, Nvidia, AMD, Seagate, Constellation Energy, and More Stocks That Explain Today\u2019s Market - Barron's",
@@ -35,75 +35,75 @@
     {
       "ticker": "1295.KL",
       "currentPrice": 4.67,
-      "weekAgoPrice": 4.789999961853027,
-      "percentChange": -2.51,
+      "weekAgoPrice": 4.71999979019165,
+      "percentChange": -1.06,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.43,
-      "weekAgoPrice": 7.840000152587891,
-      "percentChange": -5.23,
-      "flagged": true,
+      "weekAgoPrice": 7.539999961853027,
+      "percentChange": -1.46,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.47,
-      "weekAgoPrice": 1.5099999904632568,
-      "percentChange": -2.65,
+      "weekAgoPrice": 1.4900000095367432,
+      "percentChange": -1.34,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.84,
-      "weekAgoPrice": 1.899999976158142,
-      "percentChange": -3.16,
+      "weekAgoPrice": 1.8799999952316284,
+      "percentChange": -2.13,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.37,
-      "weekAgoPrice": 1.3899999856948853,
-      "percentChange": -1.44,
+      "weekAgoPrice": 1.399999976158142,
+      "percentChange": -2.14,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.25,
-      "weekAgoPrice": 1.3200000524520874,
-      "percentChange": -5.3,
-      "flagged": true,
+      "weekAgoPrice": 1.2799999713897705,
+      "percentChange": -2.34,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.2,
-      "weekAgoPrice": 0.20000000298023224,
-      "percentChange": -0.0,
+      "weekAgoPrice": 0.19499999284744263,
+      "percentChange": 2.56,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.14,
-      "weekAgoPrice": 1.1799999475479126,
-      "percentChange": -3.39,
+      "weekAgoPrice": 1.1200000047683716,
+      "percentChange": 1.79,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.66,
-      "weekAgoPrice": 0.7099999785423279,
-      "percentChange": -7.04,
+      "weekAgoPrice": 0.699999988079071,
+      "percentChange": -5.71,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 2
 }
