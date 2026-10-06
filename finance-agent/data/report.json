@@ -1,109 +1,114 @@
 {
-  "generatedAt": "2026-10-06T15:17:32.914401Z",
+  "generatedAt": "2026-10-06T16:08:44.516721Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 532.83,
+      "currentPrice": 532.29,
       "weekAgoPrice": 508.9599914550781,
-      "percentChange": 4.69,
+      "percentChange": 4.58,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 241.94,
+      "currentPrice": 241.52,
       "weekAgoPrice": 227.2100067138672,
-      "percentChange": 6.48,
+      "percentChange": 6.3,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia (NVDA) Shares Hit New High Amid Strong ETF Presence and M - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLTdITVZkbzNxem9ZbUdKSTNQVzB5Mk1VVWpzakxJYkpHX29BZHdncFNiQnZ5Vkk4a3BqUmFsbEVqSEJOa0JtQ1lwYmw1TVVWODBONGpWUHhaWHljTVhSYjdiYmZIZS1WLW1FM28wY082WDNDZGQtWENfVmFUR3JXcHN0MlNTQWNBSmJueHFobWc5MWRwcElBQnhPVWcyZDZlR2ltQTZSNmVMUVZkVmRUN3g3NGQtQjBScWVtMWM0c0c?oc=5"
+          "title": "Nvidia Stock Hits All-Time Highs, CEO Jensen Huang Now Worth This Much Money - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHdhMWR6VkhPMndmVVM2RW9IWjNHVk1zX3doelFJZUJIRU5naGstZ1dlTml6UnB2bFVuNmJxWVFQbzktREYyaDE1WV9mZ3g3aFNtbVFXNTg1VjlxYVROOXEyUGxtQmtxOHItRVVEWVA2NVNfNThwdHUtUGY4aUJfVVZ6T19KRHVPVlRaTHFidGMyV200RkZ0eU1YeVFaUE9YQmZLcXZrR0g3THFvSXNoZnFqYktqS1pOcDd2S3hPRXRTYW1wSi1md2M2NA?oc=5"
         },
         {
-          "title": "Nvidia stock approaches $6 trillion market cap milestone - qz.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uQUVYX2hlTkRtSGtpVVBhRkppcklFTHZFb1RKdk5MOUhVWnhrWWtRUmYxVl9oQ2NrWGxUTzVwVFJlVVNyMEZBVDFHUFpLQUZPTkRlRVJSZ29yakYxcnI1NmNJTG80MW1WN3c?oc=5"
+          "title": "Nvidia Stock Climbs Toward Historic $6 Trillion Market Cap - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDhucXVWTjBzWFBMd2txVHZYa2Ffc0NHR0NHZS1GZDVzZEVSTXZnYjliWFh0V3k3OG5iczVZd0xpMmdyU2hUQzk3MDhSUXEwY3FFNUsya2RoLWI4eHl0TTI5TWpPV0lkOUMwWWlsZnE5bkZvdjlYZU5idkRtOG1ieGxYdlV2dkl1Z3FuN2NqdlFxbkM2eGk3czdnLUs?oc=5"
         },
         {
-          "title": "NVIDIA Tokenized Shares Flash Overbought Signals - TradingPedia",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0xUV1diWkVDaXNxMjRhWWdjLVlKLWRYVmlMZ0FRQ0IxZVd5NG5wOF9CN1F4UWFiMEsybDdVNVF4R0JqdXNoN3F2bjBYemJLeHVQUFNQVmF4SFpYVDBCcmlEYXNpUXFWTkhfTUliMXlWWGx6NFhodTd6aVNCbllYOXNwWklXSkNrcGtzcWJNOUdhc2M?oc=5"
+          "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHkzQk8wX3dkc1ItZ1VvTGNzRndHSVhUVV9aVXI3bFktNHhHOWRLd2I1elg3am55M3cwV2NrTUhwOHgyeGpxdFBPVUs1ZUlyNC1CT0g4QjVsYjRIYVhaLWtEVWJwMFc5YWNFeV9NR3VUUHR0eVUzWjlieTZVMnAxNmowcjZPeml5bUwzaG9qTjZ0Vk9UN3V2OQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.67,
-      "weekAgoPrice": 4.71999979019165,
-      "percentChange": -1.06,
+      "weekAgoPrice": 4.789999961853027,
+      "percentChange": -2.51,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.43,
-      "weekAgoPrice": 7.539999961853027,
-      "percentChange": -1.46,
-      "flagged": false,
-      "news": []
+      "weekAgoPrice": 7.840000152587891,
+      "percentChange": -5.23,
+      "flagged": true,
+      "news": [
+        {
+          "title": "United Overseas Bank Limited (U11.SI) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kUUZUcjZOa25UMHVuenFLbUtLT011MkJER1BzUzZRRjRTRmtxWmtoUjVrYzU1Y29qRWtrVnVrRjlJR2UyR2JFMTQzc2FtOFBsbmRSUw?oc=5"
+        }
+      ]
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.47,
-      "weekAgoPrice": 1.4900000095367432,
-      "percentChange": -1.34,
+      "weekAgoPrice": 1.5099999904632568,
+      "percentChange": -2.65,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.84,
-      "weekAgoPrice": 1.8799999952316284,
-      "percentChange": -2.13,
+      "weekAgoPrice": 1.899999976158142,
+      "percentChange": -3.16,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.37,
-      "weekAgoPrice": 1.399999976158142,
-      "percentChange": -2.14,
+      "weekAgoPrice": 1.3899999856948853,
+      "percentChange": -1.44,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.25,
-      "weekAgoPrice": 1.2799999713897705,
-      "percentChange": -2.34,
-      "flagged": false,
+      "weekAgoPrice": 1.3200000524520874,
+      "percentChange": -5.3,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.2,
-      "weekAgoPrice": 0.19499999284744263,
-      "percentChange": 2.56,
+      "weekAgoPrice": 0.20000000298023224,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.14,
-      "weekAgoPrice": 1.1200000047683716,
-      "percentChange": 1.79,
+      "weekAgoPrice": 1.1799999475479126,
+      "percentChange": -3.39,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.66,
-      "weekAgoPrice": 0.699999988079071,
-      "percentChange": -5.71,
+      "weekAgoPrice": 0.7099999785423279,
+      "percentChange": -7.04,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 4
 }
