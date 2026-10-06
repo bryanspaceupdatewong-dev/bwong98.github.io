@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-06T19:16:50.351155Z",
+  "generatedAt": "2026-10-06T20:17:12.700126Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 531.095,
+      "currentPrice": 529.3,
       "weekAgoPrice": 508.9599914550781,
-      "percentChange": 4.35,
+      "percentChange": 4.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 239.89,
+      "currentPrice": 239.24,
       "weekAgoPrice": 227.2100067138672,
-      "percentChange": 5.58,
+      "percentChange": 5.29,
       "flagged": true,
       "news": [
         {
-          "title": "Stock market today: S&P 500, Nasdaq touch all-time highs as stocks power higher, bond yields retreat - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVA4dXZfTlMzdGNsZDZOM19oNng1YzJqNl9wTDE2RmhKblJZOURISlRVbEVldE1MV0huXzZUUWROdlFRRl9OWllPN2VZbmNSem5YU251WlBESy05c3lpR25hdjl2NzJ5U1BVMHBSWnBfdjlxMEdRV3o4UFNDTXVXV01HU0FXSmtMOE9DWDBsVTdYNVJkUGlpS0NpR2JrSE1SZVRkMG9SMGFxZEQ4?oc=5"
+          "title": "Nvidia stock flashes massive signal as Wall Street leans in - TheStreet",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJcGxnVGN3YXVGSzNTTmY0RDdDLWpVbFlyOU9oQXhxOE9ha0d5ZFdLYXplZGZkS2hIcV9na001RzRkSzZrQ3pvVkpHUTl1clNndVlKeTRoME0ydFg3VzY4SzNidU1mY21jSG42X1p3VFY3dDdsSnRfbTZqQjB1Zw?oc=5"
         },
         {
-          "title": "The World\u2019s Largest Stock Has Lagged. If Nvidia Runs, Tech and Markets Will Follow. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaEhnSzY2NmZ1cTRXYlBBXzRmQ1Nlcld5OVhFSUpUdlEwdzVyOHZySk9nZ2tDNDFILTR4b1p2QVprZTl5UnN5N2F2bUJPWUxTNG1pajZ1UjAtbjRiWWJJdVNncWJhTkk0dUxzdUJ6UEQ4N2R2ZzExUEhEQmwtcHhmb0k1dGFGbzQ?oc=5"
+          "title": "Nvidia Stock Nears Six Trillion Dollar Valuation as Wall Street Upgrade Lifts Chip Sector and NVDA - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMGJXaVRLMnAzeEtsejNxMnJ4Wm1zaW5BS2pjSzhMOHVqM1E2VEcwLTJpaGV0VEltQWZYd243Y3kwVHNxMmJtT2ctX3NqZENZVjk1bHFLaDV2VlYwUGt2OWpJQTdsaEthRUlveG45b2JEY0tzZThvZEszT1JCVHN6NmZzOXQ0dnhQQldFc3VUa2o5ZnYtb0hYX0ZhblJ1LVJGVEZDaEVkTVVFbkhnQXZwVENuZlNwdzhpQkltLWdwcGRycExWaEI4SjE1ZzV1QTlMOGk0c045am4?oc=5"
         },
         {
-          "title": "Marvell, Nvidia, AMD, Seagate, Constellation Energy, and More Stocks That Explain Today\u2019s Market - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQZUQ1MzBIN0NFZ3FzTFZodU84NnlYNUgwWWV3OWVaSUZ4d1RiRkhwd0tNRkZmaXNTa1ZCS1FRa2tvUFZicEtGRWZDdWlsczNMdF9TZmRoVlhIX0d6dkhZUndtdzU?oc=5"
+          "title": "Only Four Trillion-Dollar Stocks Are Beating the S&P 500. What\u2019s Next for the Megacaps? - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYU80bG1teVRKdXp1MXJac1hQS0dkemIybmo3cXh2WHlLZWh2NDlYTFpjMDI3SW1YdU0xdG1MQzZXYW0tVWZmSEhfYWYzT0ZEX2RWZlZVQWxrSG05YUV6WElsVHE3NF9mcEowc0hZSjdkeU9aRE5GRmFQRnpDMXRCNjQxMEp0MmJZZDVwWA?oc=5"
         }
       ]
     },
