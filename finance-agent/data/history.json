@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-02T01:16:02.787532Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.09,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": -6.03,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-02T02:15:53.669813Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1064,6 +1050,41 @@
         "percentChange": 5.29,
         "flagged": true,
         "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.66,
+        "weekAgoPrice": 0.699999988079071,
+        "percentChange": -5.71,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-06T23:16:15.624941Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 239.24,
+        "weekAgoPrice": 227.2100067138672,
+        "percentChange": 5.29,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia stock flashes massive signal as Wall Street leans in - TheStreet",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJcGxnVGN3YXVGSzNTTmY0RDdDLWpVbFlyOU9oQXhxOE9ha0d5ZFdLYXplZGZkS2hIcV9na001RzRkSzZrQ3pvVkpHUTl1clNndVlKeTRoME0ydFg3VzY4SzNidU1mY21jSG42X1p3VFY3dDdsSnRfbTZqQjB1Zw?oc=5"
+          },
+          {
+            "title": "Buy These Top AI Stocks for Higher Highs: HPE, NVDA, TSM - Zacks Investment Research",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbnJkVmlnQWZGVTVMeHVuR0JYNlZNSU5EZVU0STNKOXVfUHB1RzRTZlVYT3RPSWJnZVR0WE9yU3RkZVRuNTBJTFNZa0M1Q250Mk9HcTc1SmluRVdFTnpka0o0OVNOczZVWTllMEZvOURSUmdiR0M4T3lpNGc2Y0F6M0sxakhZdUlBVm56MlJxMmZ6bHcyX0xsclJ3?oc=5"
+          },
+          {
+            "title": "Buy These Top AI Stocks for Higher Highs: HPE, NVDA, TSM - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LU3JNMkJibVo0MDJBQUhBeUpxVjFEYmwyc3B4eVAzUm5sVjhlOV94b1c0eWJVZHpKbWoxQ0EtUTVvOU9IQlUtOThEektCRjlmelVMX0lYYlJlVEY4NG15WVkxbFdueklVVEZ2eGlxVlJ1TlZDUVJTZGkwaXpBQQ?oc=5"
+          }
+        ]
       },
       {
         "ticker": "5341.KL",
