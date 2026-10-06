@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-01T19:16:08.139769Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.09,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": -6.03,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-01T20:16:27.384157Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -917,6 +903,57 @@
           {
             "title": "Nvidia Stock Climbs Toward Historic $6 Trillion Market Cap - TradingView",
             "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOE8ybHB5QW1QY2VyTzY1ZC1qUVdtY0NXZ3ZZUU9HRGVnV01Ta2dCRkZpZWlkekluUVh2MXdGN0k1eXkyVXVkNmZwal9POGJDNHVZZGRoZ0I4VEQycXZDYmpDeUFEVHR0OUFmWS1CT09GdEF3UzNMZjh6OGZjSmZCRUkxMDlUNTZVaGZvZllVZ3drdm01Y0pLbnUxNF9oMmNZWG9Vd3FyV3Y0YlVMS1lweWcta19hMDNw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.43,
+        "weekAgoPrice": 7.840000152587891,
+        "percentChange": -5.23,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.25,
+        "weekAgoPrice": 1.3200000524520874,
+        "percentChange": -5.3,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.66,
+        "weekAgoPrice": 0.7099999785423279,
+        "percentChange": -7.04,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-06T18:16:34.155235Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 240.22,
+        "weekAgoPrice": 227.2100067138672,
+        "percentChange": 5.73,
+        "flagged": true,
+        "news": [
+          {
+            "title": "The World\u2019s Largest Stock Has Lagged. If Nvidia Runs, Tech and Markets Will Follow. - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaEhnSzY2NmZ1cTRXYlBBXzRmQ1Nlcld5OVhFSUpUdlEwdzVyOHZySk9nZ2tDNDFILTR4b1p2QVprZTl5UnN5N2F2bUJPWUxTNG1pajZ1UjAtbjRiWWJJdVNncWJhTkk0dUxzdUJ6UEQ4N2R2ZzExUEhEQmwtcHhmb0k1dGFGbzQ?oc=5"
+          },
+          {
+            "title": "Stock market today: S&P 500, Nasdaq touch all-time highs as stocks power higher, bond yields retreat - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVA4dXZfTlMzdGNsZDZOM19oNng1YzJqNl9wTDE2RmhKblJZOURISlRVbEVldE1MV0huXzZUUWROdlFRRl9OWllPN2VZbmNSem5YU251WlBESy05c3lpR25hdjl2NzJ5U1BVMHBSWnBfdjlxMEdRV3o4UFNDTXVXV01HU0FXSmtMOE9DWDBsVTdYNVJkUGlpS0NpR2JrSE1SZVRkMG9SMGFxZEQ4?oc=5"
+          },
+          {
+            "title": "Marvell, Nvidia, AMD, Seagate, Constellation Energy, and More Stocks That Explain Today\u2019s Market - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQZUQ1MzBIN0NFZ3FzTFZodU84NnlYNUgwWWV3OWVaSUZ4d1RiRkhwd0tNRkZmaXNTa1ZCS1FRa2tvUFZicEtGRWZDdWlsczNMdF9TZmRoVlhIX0d6dkhZUndtdzU?oc=5"
           }
         ]
       },
