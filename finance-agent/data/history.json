@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-01T18:16:37.623700Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.09,
-        "weekAgoPrice": 1.190000057220459,
-        "percentChange": -8.4,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-01T19:16:08.139769Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -880,6 +866,57 @@
           {
             "title": "Nvidia Stock Climbs Toward Historic $6 Trillion Market Cap - GuruFocus",
             "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDhucXVWTjBzWFBMd2txVHZYa2Ffc0NHR0NHZS1GZDVzZEVSTXZnYjliWFh0V3k3OG5iczVZd0xpMmdyU2hUQzk3MDhSUXEwY3FFNUsya2RoLWI4eHl0TTI5TWpPV0lkOUMwWWlsZnE5bkZvdjlYZU5idkRtOG1ieGxYdlV2dkl1Z3FuN2NqdlFxbkM2eGk3czdnLUs?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.43,
+        "weekAgoPrice": 7.840000152587891,
+        "percentChange": -5.23,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.25,
+        "weekAgoPrice": 1.3200000524520874,
+        "percentChange": -5.3,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.66,
+        "weekAgoPrice": 0.7099999785423279,
+        "percentChange": -7.04,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-06T17:16:14.302796Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 239.96,
+        "weekAgoPrice": 227.2100067138672,
+        "percentChange": 5.61,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock market today: S&P 500, Nasdaq touch all-time highs as stocks power higher, bond yields retreat - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVA4dXZfTlMzdGNsZDZOM19oNng1YzJqNl9wTDE2RmhKblJZOURISlRVbEVldE1MV0huXzZUUWROdlFRRl9OWllPN2VZbmNSem5YU251WlBESy05c3lpR25hdjl2NzJ5U1BVMHBSWnBfdjlxMEdRV3o4UFNDTXVXV01HU0FXSmtMOE9DWDBsVTdYNVJkUGlpS0NpR2JrSE1SZVRkMG9SMGFxZEQ4?oc=5"
+          },
+          {
+            "title": "Prediction: $500 a Month Invested in Nvidia Stock Will Be Worth This Much by Year-end 2030 - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVXJRWG52WWdwcUVfdU1WcWRidnEzczVxM0g1QnAySmlYby0wel9waVkzNy1yOEt2RmxobWU5bnRadHpuV2UxMTVzcXNMSzMtYWxVZHk2NUw5cVl3N2E3eWFqUWluYWJRdUdjc0ZzeVhlYm13R192MkdrXzY0cFhpbkRVVW1IZjJfMlppOGVVQm1xVmZTa3N5TGM2S0t1MVRyXzBSMXRBbDhfV3JUOF84NU5NWDhUQjJnQ183M0lVMDlRTzl5STV6Ym92aU1mblJaSTBRUklBZ3M4VDBrSEE3NFg1Q3NsR18wbzRJRVdicEZoZTZxdGZLcC1PRQ?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Climbs Toward Historic $6 Trillion Market Cap - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOE8ybHB5QW1QY2VyTzY1ZC1qUVdtY0NXZ3ZZUU9HRGVnV01Ta2dCRkZpZWlkekluUVh2MXdGN0k1eXkyVXVkNmZwal9POGJDNHVZZGRoZ0I4VEQycXZDYmpDeUFEVHR0OUFmWS1CT09GdEF3UzNMZjh6OGZjSmZCRUkxMDlUNTZVaGZvZllVZ3drdm01Y0pLbnUxNF9oMmNZWG9Vd3FyV3Y0YlVMS1lweWcta19hMDNw?oc=5"
           }
         ]
       },

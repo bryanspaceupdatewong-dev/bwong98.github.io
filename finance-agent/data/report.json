@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-06T16:17:31.192674Z",
+  "generatedAt": "2026-10-06T17:16:14.302796Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 532.04,
+      "currentPrice": 532.29,
       "weekAgoPrice": 508.9599914550781,
-      "percentChange": 4.53,
+      "percentChange": 4.58,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 241.195,
+      "currentPrice": 239.96,
       "weekAgoPrice": 227.2100067138672,
-      "percentChange": 6.16,
+      "percentChange": 5.61,
       "flagged": true,
       "news": [
         {
-          "title": "Applied Materials vs. Nvidia: Which Chip Stock Is a Better Buy in 2026? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTN2Nmk0UnlJaXh6Y2Z1YjhablVCZll3Z2g0NVhwY2treVBGVm9TU0cwYTloLW1QV3VyMDQ3LUcwa0ZfOTNOVlB4anpOLXBLWDRlbzhuTmNhTzlreDVRcXdtZ1lwbGQzemw0dFpTb1dseldQTVdOY2hUZGhwOGRmOXgxclVxTzRFYVJ1V2JIZDBZUUdFakQ2Ulp5NGNYYkptcHkzTVd1bDl1eU9GWVlFODVsZw?oc=5"
+          "title": "Stock market today: S&P 500, Nasdaq touch all-time highs as stocks power higher, bond yields retreat - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVA4dXZfTlMzdGNsZDZOM19oNng1YzJqNl9wTDE2RmhKblJZOURISlRVbEVldE1MV0huXzZUUWROdlFRRl9OWllPN2VZbmNSem5YU251WlBESy05c3lpR25hdjl2NzJ5U1BVMHBSWnBfdjlxMEdRV3o4UFNDTXVXV01HU0FXSmtMOE9DWDBsVTdYNVJkUGlpS0NpR2JrSE1SZVRkMG9SMGFxZEQ4?oc=5"
         },
         {
-          "title": "Nvidia Stock Hits All-Time Highs, CEO Jensen Huang Now Worth This Much Money - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHdhMWR6VkhPMndmVVM2RW9IWjNHVk1zX3doelFJZUJIRU5naGstZ1dlTml6UnB2bFVuNmJxWVFQbzktREYyaDE1WV9mZ3g3aFNtbVFXNTg1VjlxYVROOXEyUGxtQmtxOHItRVVEWVA2NVNfNThwdHUtUGY4aUJfVVZ6T19KRHVPVlRaTHFidGMyV200RkZ0eU1YeVFaUE9YQmZLcXZrR0g3THFvSXNoZnFqYktqS1pOcDd2S3hPRXRTYW1wSi1md2M2NA?oc=5"
+          "title": "Prediction: $500 a Month Invested in Nvidia Stock Will Be Worth This Much by Year-end 2030 - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVXJRWG52WWdwcUVfdU1WcWRidnEzczVxM0g1QnAySmlYby0wel9waVkzNy1yOEt2RmxobWU5bnRadHpuV2UxMTVzcXNMSzMtYWxVZHk2NUw5cVl3N2E3eWFqUWluYWJRdUdjc0ZzeVhlYm13R192MkdrXzY0cFhpbkRVVW1IZjJfMlppOGVVQm1xVmZTa3N5TGM2S0t1MVRyXzBSMXRBbDhfV3JUOF84NU5NWDhUQjJnQ183M0lVMDlRTzl5STV6Ym92aU1mblJaSTBRUklBZ3M4VDBrSEE3NFg1Q3NsR18wbzRJRVdicEZoZTZxdGZLcC1PRQ?oc=5"
         },
         {
-          "title": "Nvidia Stock Climbs Toward Historic $6 Trillion Market Cap - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDhucXVWTjBzWFBMd2txVHZYa2Ffc0NHR0NHZS1GZDVzZEVSTXZnYjliWFh0V3k3OG5iczVZd0xpMmdyU2hUQzk3MDhSUXEwY3FFNUsya2RoLWI4eHl0TTI5TWpPV0lkOUMwWWlsZnE5bkZvdjlYZU5idkRtOG1ieGxYdlV2dkl1Z3FuN2NqdlFxbkM2eGk3czdnLUs?oc=5"
+          "title": "Nvidia Stock Climbs Toward Historic $6 Trillion Market Cap - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOE8ybHB5QW1QY2VyTzY1ZC1qUVdtY0NXZ3ZZUU9HRGVnV01Ta2dCRkZpZWlkekluUVh2MXdGN0k1eXkyVXVkNmZwal9POGJDNHVZZGRoZ0I4VEQycXZDYmpDeUFEVHR0OUFmWS1CT09GdEF3UzNMZjh6OGZjSmZCRUkxMDlUNTZVaGZvZllVZ3drdm01Y0pLbnUxNF9oMmNZWG9Vd3FyV3Y0YlVMS1lweWcta19hMDNw?oc=5"
         }
       ]
     },
