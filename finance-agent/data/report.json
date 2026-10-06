@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T21:16:51.013796Z",
+  "generatedAt": "2026-10-06T22:16:06.941579Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -17,20 +17,7 @@
       "weekAgoPrice": 227.2100067138672,
       "percentChange": 5.29,
       "flagged": true,
-      "news": [
-        {
-          "title": "U.S. Analyst Updates: (ABNB) (BAC) (ORCL) (HOOD) (NVDA) (USB) (WFC) - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMkI3RzNxcUtlaEpMazEtd0t2WVU5dU1WREExTThzTm9VbmN2UGhZN1VlNUFwWkwtNGxtLVY0cEhvdFJMRDU0Ri1BZVRDc2s4clRyYnUzMC1nX2V6bng3ZnpqMUY3QWZPdlRDYmpzNGl3bGxJcXVJaEF2NUdWSTZlbzB3MnFUejg4X2hRMEttb0pHREFMRXdRcVZiQzNpcjBRdFY3R1B4SHlUYWprNkp4MU5Zc0ZGeGw5MVVDUnp6LUVkeENkd0RpbEZmbktpaVk?oc=5"
-        },
-        {
-          "title": "Buy These Top AI Stocks for Higher Highs: HPE, NVDA, TSM - Zacks Investment Research",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbnJkVmlnQWZGVTVMeHVuR0JYNlZNSU5EZVU0STNKOXVfUHB1RzRTZlVYT3RPSWJnZVR0WE9yU3RkZVRuNTBJTFNZa0M1Q250Mk9HcTc1SmluRVdFTnpka0o0OVNOczZVWTllMEZvOURSUmdiR0M4T3lpNGc2Y0F6M0sxakhZdUlBVm56MlJxMmZ6bHcyX0xsclJ3?oc=5"
-        },
-        {
-          "title": "The World\u2019s Largest Stock Has Lagged. If Nvidia Runs, Tech and Markets Will Follow. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaEhnSzY2NmZ1cTRXYlBBXzRmQ1Nlcld5OVhFSUpUdlEwdzVyOHZySk9nZ2tDNDFILTR4b1p2QVprZTl5UnN5N2F2bUJPWUxTNG1pajZ1UjAtbjRiWWJJdVNncWJhTkk0dUxzdUJ6UEQ4N2R2ZzExUEhEQmwtcHhmb0k1dGFGbzQ?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "1295.KL",
