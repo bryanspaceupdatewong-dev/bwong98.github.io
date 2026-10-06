@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T00:17:36.048921Z",
+  "generatedAt": "2026-10-06T01:16:49.288181Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -27,40 +27,40 @@
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMGotYUtDclZMcDdOQ1ZtNTNWdElvM3NERHppRGhzTVIwbTlpcDJHelR4WjNKSFFVaVYtRXJ1ZEJVNF9YWWZnVlhuWVJFLU16N0lIWXpyRkJDVDhRaTBTb1NfMEFjYW10clhlQ3hwWmRvSUVQWHBuMGZOS0Jlekt4MGg5SkhGZDkxOE1DeUFGQnJ0UWNNSEJrSWEwdkc3aFhfZHNtck40ZFN5OWFGLW01YlRmbENfa1oyXzBOdVZzNmF0Qm1oV1VoV2NFNktNVmFDcVNYUUZyamV0V0d1Yk1qNWpJaVNGbGoyQWxROENVd05HYUdtNXQzd285bTlRZUk0dnBYVlpqWGxtdw?oc=5"
         },
         {
-          "title": "The case for Nvidia\u2019s stock to march even higher after clinching its first record high in months - marketwatch.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNnE1ZVh1NDBVSlYyZ21pR3VfNTFaaGpqMVN1aTBIUzgzalZZTDVwZkZ1ekZ2cTZfaTdKWURBOUEteTRPSDVnV2hCWUEtTUhXZl96cVVmUlVqN1pkQ2xyT0ZGbkw1NzJwa1ZZZmhBQ2FYcDZoSi1QUGc1Y1BkZXVXT29IcUZscjhXWk02RHlHOWtFRGh5eDBzZHlXYV9XYnR5eEh2YjhfcnZvMGF1LWdHNE94SG9PT0FxbWJQMlcySW5zaWlFTUdHQmZIck1uMVZrZUZxeg?oc=5"
+          "title": "NVIDIA\u2019s Record High Raises a Bigger Question About How Far the Rally Can Run - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlJtX2hoSzhCb1hRMjY2V2hyZ3ZlMF93dTNfbXMwcVpwanVNZ1NqV0l3dTI5MHh5MHBHSWl1S1pIMTI0dHNyVVQwRU5lM2tyWXl4VS1XVDFyOGtmcjJUQUk2U0ktOTN5RXJtZ1FfQVI1MFdHWUVVUHRXcFlGOElaamEzUHpzZVhXREFYeXV4dWRaZUVlZm9mbVNaSlF6WG9qWHJodXJZV3g1UjZaamUxa09FWQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.71,
-      "weekAgoPrice": 4.789999961853027,
-      "percentChange": -1.67,
+      "weekAgoPrice": 4.71999979019165,
+      "percentChange": -0.21,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.46,
-      "weekAgoPrice": 7.840000152587891,
-      "percentChange": -4.85,
+      "currentPrice": 7.47,
+      "weekAgoPrice": 7.539999961853027,
+      "percentChange": -0.93,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.47,
-      "weekAgoPrice": 1.5099999904632568,
-      "percentChange": -2.65,
+      "currentPrice": 1.46,
+      "weekAgoPrice": 1.4900000095367432,
+      "percentChange": -2.01,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.86,
-      "weekAgoPrice": 1.899999976158142,
-      "percentChange": -2.11,
+      "currentPrice": 1.85,
+      "weekAgoPrice": 1.8799999952316284,
+      "percentChange": -1.6,
       "flagged": false,
       "news": []
     },
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.26,
-      "weekAgoPrice": 1.3200000524520874,
-      "percentChange": -4.55,
+      "currentPrice": 1.27,
+      "weekAgoPrice": 1.2799999713897705,
+      "percentChange": -0.78,
       "flagged": false,
       "news": []
     },
@@ -90,10 +90,10 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.11,
-      "weekAgoPrice": 1.1799999475479126,
-      "percentChange": -5.93,
-      "flagged": true,
+      "currentPrice": 1.14,
+      "weekAgoPrice": 1.1200000047683716,
+      "percentChange": 1.79,
+      "flagged": false,
       "news": []
     },
     {
@@ -105,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 1
 }
