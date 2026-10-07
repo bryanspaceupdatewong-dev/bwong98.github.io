@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-05T06:26:23.033201Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.11,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -5.93,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-05T07:23:11.455381Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1198,6 +1184,33 @@
           {
             "title": "NVIDIA Corporation $NVDA Shares Newly Purchased by De Lisle Partners LLP - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS19SU285UWVheUF2Q18xSlNiWjFUMnE4WVRIa1NsQWdUWFBMMVdVYXZJUlh2TXV1VEpRTmlGdUlHaUVjRzJIZXRaV3I1TTY1VkZzcEZpVmZIblZ5M0lNdW9BWk5hdHN5aHF1bTlpbWF6SFp3LXFxTVhvU1hyallIenBvNkNvQ1RIZVE3eHVSbTZ6M3hWWlRHdHhVbEpWWmtEZGRDTklBMUk1U3l4U1RqLWR2dVdDeTBuRTVOWmNDMlZYc0hubWtJMUotLUo?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-07T11:19:38.164076Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 239.24,
+        "weekAgoPrice": 227.2100067138672,
+        "percentChange": 5.29,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Dan Ives Highlights Nvidia (NVDA) as Top Tech Stock Amid $4T Spe - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQkJIRENTSHg5aDltVjh0eUVEUEx4WVp0S3EybV9yTUxwaG83aFlwZ2xQaE8zT2xJMGtIWG5YZHhzNzd1Yi00bGdRZTR0LXN3dktST3BaSGZKY2owRUduU3B5YkdIbnQxRHhlUnRpNUFqT3V3bWQtWlJBTGY2b045RzVJVU5XUmJIdmVJRXVjLWlvaEZIanhTdjNUNFh3RUdRdWpnUWZLV25OZGFLeU5fQQ?oc=5"
+          },
+          {
+            "title": "Should You Buy Nvidia Stock in October? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjdVYWtPNVJKVjNxRFNhdTlseHdsTDVYcnRmMTRmQ1ZxSnBoVmt2YldnVGZ5bUJPNGFTRDdwTEMtcTJZQm1xelU3RXVIZ1d5bjVHR2ZuYm9LNjBDdkdJVTdBNkFDeWtKVXdxSlY1V0VYdkZyaVNUVGttdU9hcW1GVDZ2ZEE5ZGgz?oc=5"
+          },
+          {
+            "title": "Nvidia Is Betting These Start-Ups Will Lift Its Stock - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fQ2FfSUx3dFc1Nkp2SXBiLXZXU0k4WnA4cldzQkdNdTR4Z1ltNEhiSzRMZjl0eDlHVTNGdVBYUUFQYVMyMnVxOHJrRWsyZEdXaHNvWS1SLXEzamRJWWVIN2JuSUxOdlNveTBiOWRnUk9BaS1kc0JhOTFxQ28?oc=5"
           }
         ]
       }
