@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:16:34.542474Z",
+  "generatedAt": "2026-10-07T02:16:04.160153Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,40 +19,40 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy? - AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCNy1pbmVhbjdvZ0g0d3ZIYm1hTDRzcEF1V2JHcXdYa2F3UlAydWhPaHc2VHJVTlpIcUlaVHZFSmxBOXJHNk5qRzFYbm95b2ItNWtzbjhSOVRlS1JFM2NFb0RPSUdEWmI3VmxIZEVWVjRqMkhTanVB?oc=5"
+        },
+        {
+          "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWZfYmxiU3pxbHhoSWYzNDJyaHlyR1pxUDdyTDNVMEJxVlV6RjRMTDBNcHBJZzVMZnRMYjZPTTlvQUxZR1dqQVdXdlRnaTUybFlDdnF2TUNSRUc0QTBETXM2VUEtYVFBMFFfT0ZkSlE2djJGXzZkakRFckFEd045dlctMXZYcEJNTE1Xb1lwZkpnWW5xdmc?oc=5"
+        },
+        {
           "title": "SpaceX seeks to raise $40 bln to buy Nvidia chips- FT - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUpQMTgyUVo4dU5OREUwVm9udlUzTHhvYjk0ZnJ6T04tTWk5ejRXQl9fUXd6UTVfSmlXSVg3SThRdllRV3RNeFVaY2txTGNkSjU0eGl3a2d1M2RVNy1NV0pCTUJoS2Z5X25RN0hacENNNU96VjNabmxqQi15M1NVenBEY0pLRTV3TVA1UWNyLURDcnM?oc=5"
-        },
-        {
-          "title": "SPCX Stock Slips After-Hours As SpaceX Reportedly Seeks $40B For Nvidia Chips - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXBBWFdGdERkRHZ5WHRaU3I0S3NYaWVzejBJYWtaU1Z4UjJiVl8tdm05cU5tSzVLUzRETGtVZ2oxbHdVa3l6QmtrVG1ZczMycmZhc0NUV1pMbnQ4WVBTTXk2NlExVjRLQzhTZGFheHZ5YzRBck4xT3djVTRoenhOaGoyOFE0WWlYbUU0djI3VEoxYXdjVXBDMWtR?oc=5"
-        },
-        {
-          "title": "Nvidia stock flashes massive signal as Wall Street leans in - TheStreet",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJcGxnVGN3YXVGSzNTTmY0RDdDLWpVbFlyOU9oQXhxOE9ha0d5ZFdLYXplZGZkS2hIcV9na001RzRkSzZrQ3pvVkpHUTl1clNndVlKeTRoME0ydFg3VzY4SzNidU1mY21jSG42X1p3VFY3dDdsSnRfbTZqQjB1Zw?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.68,
+      "currentPrice": 4.61,
       "weekAgoPrice": 4.699999809265137,
-      "percentChange": -0.43,
+      "percentChange": -1.91,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.43,
+      "currentPrice": 7.27,
       "weekAgoPrice": 7.5,
-      "percentChange": -0.93,
+      "percentChange": -3.07,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.46,
+      "currentPrice": 1.47,
       "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -0.68,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
@@ -74,34 +74,34 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.26,
+      "currentPrice": 1.24,
       "weekAgoPrice": 1.2799999713897705,
-      "percentChange": -1.56,
+      "percentChange": -3.12,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.2,
+      "currentPrice": 0.205,
       "weekAgoPrice": 0.19499999284744263,
-      "percentChange": 2.56,
-      "flagged": false,
+      "percentChange": 5.13,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.14,
+      "currentPrice": 1.15,
       "weekAgoPrice": 1.1100000143051147,
-      "percentChange": 2.7,
+      "percentChange": 3.6,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.66,
-      "weekAgoPrice": 0.699999988079071,
-      "percentChange": -5.71,
-      "flagged": true,
+      "currentPrice": 0.675,
+      "weekAgoPrice": 0.6949999928474426,
+      "percentChange": -2.88,
+      "flagged": false,
       "news": []
     }
   ],
