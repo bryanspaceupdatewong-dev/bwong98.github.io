@@ -1,36 +1,23 @@
 {
-  "generatedAt": "2026-10-07T13:23:29.744672Z",
+  "generatedAt": "2026-10-07T14:18:17.612971Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 529.3,
-      "weekAgoPrice": 508.9599914550781,
-      "percentChange": 4.0,
+      "currentPrice": 526.74,
+      "weekAgoPrice": 512.9000244140625,
+      "percentChange": 2.7,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 239.24,
-      "weekAgoPrice": 227.2100067138672,
-      "percentChange": 5.29,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Wall Street Analysts Think Nvidia (NVDA) Could Surge 36.64%: Read This Before Placing a Bet - Zacks Investment Research",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQzI0M1pDY0V3S2VFbWFYUTVlZVktMWt4X0JTVkZwMXQxdlk0NUVsczVMWDI5MnVLZ1Fib1p1ZHJRWUhVaU11NFlyQkhVQ1dJV1YwV0dfVmJLZ2d5dDNaekJvVDB2SUJCZ3ZsMlBTNF93Tk1HR2w0Y25oTTZ1THRyeEc0elRmUzU1WWNOeW5lV0lFaTdXWTJMX1ljeXZNMmN1NGRNM3piUk9HNV9hOENhQU03aTkzRHp0ckFiTkl0eDlHWXdzY0E?oc=5"
-        },
-        {
-          "title": "SpaceX Stock Falls as Musk Doubles Down on Nvidia. Why It\u2019s a Big Deal. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSm13R2hwRzRwR0t1RjVaMkxZOURtcTltTFBaMG16WkE1ZEdlS1cwSGNHSDJOMDlkNUxGLW5wMUZBSW1ibnc0VnZWLURHN1Q3TTY5SUZWRjVTa0Nsc0gwc2FvM2lqZGZfLVR1eFhGRUEzUEZXbDZ0dHNLbXI1WFR6WW5SWkZRQ1l1?oc=5"
-        },
-        {
-          "title": "Nvidia-Backed Lambda Seeks Major Funding Round Ahead of Planned IPO - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mNy1kU3UxTXdITm5OWjJFbEpMZ0VTOC1iMmdQZ2tmTS11WUY2YkRfOE90OWFmS01Ya3QyWkdfSVprNDQ4eXJYSTFaeV9XMXZDQl9fX0VZOUk2SHUyS2I1TmsxdkRTZGlpZFRWSXVDYW5IQmtRR1R3?oc=5"
-        }
-      ]
+      "currentPrice": 238.27,
+      "weekAgoPrice": 228.3800048828125,
+      "percentChange": 4.33,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "1295.KL",
@@ -105,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 1
+  "flaggedCount": 0
 }
