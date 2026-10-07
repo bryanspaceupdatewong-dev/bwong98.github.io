@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-05T01:16:46.358240Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -5.08,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-05T02:16:08.895537Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1146,6 +1132,33 @@
           {
             "title": "Nvidia Stock Price Target Splits Crypto Punters: Here's Where They See the Chip Giant Going in October - Benzinga",
             "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa09mNmpXU1JxbmYxakhKZ3dfZFc3WWJPOU16NlJlVEprMk4yY0hackpSZE5XMGtLWjB1TEpseldiV2RYWDhtNkFoUUdJbFBjVVlkR2xkd2h3OU9TOG5IY09KNWRBSWRjS0pnT0RJMnBHeTdiNGFnZTU5QzBGMFV0Z2Y5Y2VsTVpXekRuU0dKbjNhSWtlLUh3OG13OFZfM3AyZE5pM1dvYkF3d29IVjJ5dEVIemV2ZlJMR3paNg?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-07T06:22:17.166127Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 239.24,
+        "weekAgoPrice": 227.2100067138672,
+        "percentChange": 5.29,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Why NVDA, AMD, CRWD Stocks Surged To 52-Week Highs Today - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTDFfQkY4a3JFWTk1Q09NTGJIeU9OMENHUG9VZU02RHZGdk5QVjhabHl0eE4xZU9ZSGdHVG85ZUdnMGNPLXdGRzdpS1NmVDdsZWxFMFN2NUM2ME80bmVHUEtnZFFBa2FRTnNOT1k5Y1FWVEJBYXdOekVaakpidmZRanpPVzVvTnhrOHdjSE9TVGF3Ujg?oc=5"
+          },
+          {
+            "title": "Why NVDA, AMD, CRWD Stocks Surged To 52-Week Highs Today - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdlE3eGxxR1I0YUg3R3JsdmdTNjRDR01RSDk1TGJ4UnBfc1NYQi0xMkE0NGpQTmkxS1hfWmlOSVhIMjJ0OXRzdnFrcEdyY2NHakRvMkhmdDBCZ0JFTWR5aTdSZ09wRC0yU2xyRFNnakN2TGNjNDZoSDNfQXhJZVZLcm50cU9ManprZWR2dm9VR2NYY1dTQnJ2WVE4NldDQ2p4N2xPSTU0YmdtMjVkZlRzejNuUXgxYWYyd3c?oc=5"
+          },
+          {
+            "title": "Will SpaceX's $40B Nvidia Bet Help or Hurt the Stock After a 16% Run? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTBwbUxnelp0cWVaWnBvVFZ1VXVfN21fNDhPdmZJMURuX0pydnpWQVlmSW5jY1VoM0pVUTF5LWpFMmhkVTIyaGdQWXBOTk9KVFM1bGhVRWJ3M1FWZGU4MFRSMDFvVnJVU3NSN3FONGs0VjcxeW43eEpaSW4zVWVkNTdjWU1ieDZQNGRPeW53UXdpY0tVNXdF?oc=5"
           }
         ]
       }
