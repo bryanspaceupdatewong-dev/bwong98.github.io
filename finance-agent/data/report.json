@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T06:22:17.166127Z",
+  "generatedAt": "2026-10-07T07:18:34.625387Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,48 +19,48 @@
       "flagged": true,
       "news": [
         {
-          "title": "Why NVDA, AMD, CRWD Stocks Surged To 52-Week Highs Today - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTDFfQkY4a3JFWTk1Q09NTGJIeU9OMENHUG9VZU02RHZGdk5QVjhabHl0eE4xZU9ZSGdHVG85ZUdnMGNPLXdGRzdpS1NmVDdsZWxFMFN2NUM2ME80bmVHUEtnZFFBa2FRTnNOT1k5Y1FWVEJBYXdOekVaakpidmZRanpPVzVvTnhrOHdjSE9TVGF3Ujg?oc=5"
+          "title": "NVIDIA Corporation $NVDA Stock Purchased by Avanda Investment Management Pte. Ltd. - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcEQzeVFjdXA5MUNJQVZtb0Vaa2hwSThUekYwV1J3ek5yS0lPUEdicFhXcXgyUWNGMjd6SG9aR2NwVFBFR1RPSDlZR3hDUWNTSkFGOEdQaENnTld1Zk1yMG5JV25DcXQtRHFmakV1Sjl6UVhDQWhMSkQ1Q3A3WG1yN3hMODBpM0FKYk9nWGpnaUVla2xuRDF5RGpzRFlvcTZoYWdiVHNoZnIxNUV0aXpUdEhvTVltejFJUG9GTDB2ejB4bzAwUzRoWkNyNzVfZ0hpVDRrQ2pkOA?oc=5"
         },
         {
-          "title": "Why NVDA, AMD, CRWD Stocks Surged To 52-Week Highs Today - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdlE3eGxxR1I0YUg3R3JsdmdTNjRDR01RSDk1TGJ4UnBfc1NYQi0xMkE0NGpQTmkxS1hfWmlOSVhIMjJ0OXRzdnFrcEdyY2NHakRvMkhmdDBCZ0JFTWR5aTdSZ09wRC0yU2xyRFNnakN2TGNjNDZoSDNfQXhJZVZLcm50cU9ManprZWR2dm9VR2NYY1dTQnJ2WVE4NldDQ2p4N2xPSTU0YmdtMjVkZlRzejNuUXgxYWYyd3c?oc=5"
+          "title": "5,525 NVIDIA Corporation $NVDA Shares Sold by AI Squared Management Ltd - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNmY1cGg2WWVKTnlWMDRpVGY4RUY1Y2NtdG9uQU5GNTA2X0ZFdGtuTDRBd180a1hVOVBreWdTdWo2Nmd4TEVwX2Q3RllPenMyN19xU092UWh1bk5EWk1oU1VqZWRmQkxuTUMzdmFfck1kYW5CakczdW5ZYWhqY0dDb0dPeXdBWXpnODk4ZVB2c1Vxckd4ZkFlVFE2bGg4Y2U2aGRla2E0Q1JuTkFTTU13dmZuVS1nWXB4M281LV9BbVBlVVZSalJjMVh3?oc=5"
         },
         {
-          "title": "Will SpaceX's $40B Nvidia Bet Help or Hurt the Stock After a 16% Run? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTBwbUxnelp0cWVaWnBvVFZ1VXVfN21fNDhPdmZJMURuX0pydnpWQVlmSW5jY1VoM0pVUTF5LWpFMmhkVTIyaGdQWXBOTk9KVFM1bGhVRWJ3M1FWZGU4MFRSMDFvVnJVU3NSN3FONGs0VjcxeW43eEpaSW4zVWVkNTdjWU1ieDZQNGRPeW53UXdpY0tVNXdF?oc=5"
+          "title": "Nvidia Is About 4% From Becoming the First $6 Trillion Company. History Says the Milestone Itself Tells You Little. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbnB4ZGhuSnZtZDJQaF9FWTNUNDZsSjFLRVd5SlZoY3FFSS1UeEx1bzlOaDc0SElwbDFoMUlKVWZoMUFuR0NsSmYyV1Q3NWluQzVtakNrWTNoaE5ILUZaNDNhU2FwSG5PeURoQ2ljb3NyM1ZYZDhfN3BmS3laOW9RQjkyZmUyd3pCZ1RDdi1BOEQ1bkVOdFZ1QlBLSkFfbW44RFBIcWZ4a3hWTm9lUUlRbFJMSFJBbTJQb05aXzVuQ3R5Wi1qWDA3UTUxVEExaWViMmFkcGw0d2JvNFRRZ0d4ZUg5NGtUNm53WS0xRG9R?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.59,
+      "currentPrice": 4.58,
       "weekAgoPrice": 4.699999809265137,
-      "percentChange": -2.34,
+      "percentChange": -2.55,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.29,
+      "currentPrice": 7.3,
       "weekAgoPrice": 7.5,
-      "percentChange": -2.8,
+      "percentChange": -2.67,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.47,
+      "currentPrice": 1.46,
       "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -0.0,
+      "percentChange": -0.68,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.82,
+      "currentPrice": 1.81,
       "weekAgoPrice": 1.8899999856948853,
-      "percentChange": -3.7,
+      "percentChange": -4.23,
       "flagged": false,
       "news": []
     },
@@ -90,9 +90,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.15,
+      "currentPrice": 1.14,
       "weekAgoPrice": 1.1100000143051147,
-      "percentChange": 3.6,
+      "percentChange": 2.7,
       "flagged": false,
       "news": []
     },
