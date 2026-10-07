@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-05T07:23:11.455381Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -5.08,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-05T08:16:35.344276Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1211,6 +1197,33 @@
           {
             "title": "Nvidia Is Betting These Start-Ups Will Lift Its Stock - Barron's",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fQ2FfSUx3dFc1Nkp2SXBiLXZXU0k4WnA4cldzQkdNdTR4Z1ltNEhiSzRMZjl0eDlHVTNGdVBYUUFQYVMyMnVxOHJrRWsyZEdXaHNvWS1SLXEzamRJWWVIN2JuSUxOdlNveTBiOWRnUk9BaS1kc0JhOTFxQ28?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-07T12:26:50.496146Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 239.24,
+        "weekAgoPrice": 227.2100067138672,
+        "percentChange": 5.29,
+        "flagged": true,
+        "news": [
+          {
+            "title": "A $40 Billion Reason Why SpaceX and Nvidia Stocks Are in the News - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSFRBS1AwMHNjbnFQaWlzNFFCdkItUVcteTBfM3FQNjQydGtjaEFhbjVNZWlDS25XcWNvUHJqa2ZTSlRHcFNkOHMtbFZrajd5RkVmeEVkYWRPTWRHZ0NLVnBJSW0tUEgwUEl0ODRCTl9WampZSmt2SU15VmFER2E0cTRoSkxSV3RPb1JCb3A5V0UzWGc2OF9hbGxaamczdnJpbTVscGtrSGJULVNrTW5zSF96ZGhlZ3Z3bnZpYnNtQ19iQQ?oc=5"
+          },
+          {
+            "title": "Should You Buy Nvidia Stock in October? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQk9adTBhNlhFUjdhQzd5b3VieEF4UDEtb0IxOURoTVpxazVURzRWU2x3a2NNZUJvSHYyWkZyUkhfMWpkWlIzWU9taGNId1FsemdvYmEyVlp3bHRMU3B0TTBESGRVYlhKVGdfQTRCeDVWU1lxcHRSS3J4dnAybHRMZ1VoVU1kcTlYMGtPOWQybmcwTHc?oc=5"
+          },
+          {
+            "title": "Nvidia stock forecast: Can SpaceX\u2019s $40B chip financing push NVDA toward $250? - Traders Union",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZOHNuN1ZMMWtWR1RnU3B2UWd1OXNsSE9ha1dFY3V5cEo3UVBiWk91ZXB4SXoxM2xCLXNpTTFSMWQtbUN3b25SVXY5LThTOU8zRk1WOG1xeHZSdndHQUV6WnBGNXo5NzZJeTFuLWVBUnZrUlQ1QWJBQUpGVDd1UQ?oc=5"
           }
         ]
       }
