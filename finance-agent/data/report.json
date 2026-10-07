@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T08:17:17.821407Z",
+  "generatedAt": "2026-10-07T09:16:33.757969Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -17,20 +17,7 @@
       "weekAgoPrice": 227.2100067138672,
       "percentChange": 5.29,
       "flagged": true,
-      "news": [
-        {
-          "title": "NVIDIA Corporation $NVDA Shares Newly Purchased by De Lisle Partners LLP - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS19SU285UWVheUF2Q18xSlNiWjFUMnE4WVRIa1NsQWdUWFBMMVdVYXZJUlh2TXV1VEpRTmlGdUlHaUVjRzJIZXRaV3I1TTY1VkZzcEZpVmZIblZ5M0lNdW9BWk5hdHN5aHF1bTlpbWF6SFp3LXFxTVhvU1hyallIenBvNkNvQ1RIZVE3eHVSbTZ6M3hWWlRHdHhVbEpWWmtEZGRDTklBMUk1U3l4U1RqLWR2dVdDeTBuRTVOWmNDMlZYc0hubWtJMUotLUo?oc=5"
-        },
-        {
-          "title": "NVIDIA Corporation $NVDA Shares Acquired by George Kaiser Family Foundation - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNURPRTVlZDBPLUV0cHNraHhuMHZlbVRpd0RoWmVhbEYyRldoN0ViazhfQkM3Vm5Sd3ZvT1hoSG4tWG5OUm9nX3NZeTNMdVJ4WnNTclhSRjRNODlpS1ZpeXZnLWZQX3BfOEdaQUE0U19Vc21UM082aUhzaGhfdnFGV3NmNE1ITng2S3hEekwxQy1xUWh2NzUzTzQxcFFBWDJGRlhHN0FIWERhX2ZOT3YyRGU0SWlqbEhMaFgxTzlqVW15dXgtSXh4MFI2cmNxemVS?oc=5"
-        },
-        {
-          "title": "12,999 NVIDIA Corporation $NVDA Shares Sold by TRB Wealth Management LLC - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUURpRkswTmE3LU8tZVNwQ2F1QlQ3ZF9QVzhzVlBHVEhPQmxKQmc5MTVPMTVQUGI0OFRUNkg2NlRpcFpMOG1XM2pTSEl5dGNXaE80Uzk3cFlWNHdicVR5RTlCaDVsTW52VE9tcFBQaHZ4WDJjS25PM2lyZ1dvX2p3X3htNlUzVEtpV2ZtMkZNa203MldjYm5NdEg3dWdvMEphWjZIaXpqUE1uTnhUWjdLVTRSOTZZS0pQTU5sZ2c0d0FUeWJEVUFxRm80dw?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "1295.KL",
@@ -42,33 +29,33 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.27,
+      "currentPrice": 7.25,
       "weekAgoPrice": 7.5,
-      "percentChange": -3.07,
+      "percentChange": -3.33,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.46,
+      "currentPrice": 1.45,
       "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -0.68,
+      "percentChange": -1.36,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.81,
+      "currentPrice": 1.8,
       "weekAgoPrice": 1.8899999856948853,
-      "percentChange": -4.23,
+      "percentChange": -4.76,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.38,
+      "currentPrice": 1.37,
       "weekAgoPrice": 1.3899999856948853,
-      "percentChange": -0.72,
+      "percentChange": -1.44,
       "flagged": false,
       "news": []
     },
@@ -98,9 +85,9 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.695,
+      "currentPrice": 0.7,
       "weekAgoPrice": 0.6949999928474426,
-      "percentChange": 0.0,
+      "percentChange": 0.72,
       "flagged": false,
       "news": []
     }
