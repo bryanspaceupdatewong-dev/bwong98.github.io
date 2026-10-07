@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:16:46.818615Z",
+  "generatedAt": "2026-10-07T05:17:29.263058Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,8 +19,8 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Is About 4% From Becoming the First $6 Trillion Company. History Says the Milestone Itself Tells You Little. - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOdVBzNDZxYkRuODZpckVkMG5mR0tUcV9BT05MQThSYXlDa0s5cm1YX1BuREloalpyWFhFRVBOZWY2U3pScXJfbDFrN3BZZXF1cjU0UGhBM0lJYVhBczJxczBpX1RmS3hFRFh4LTlzWVJFbjdGZGE0UGduQjlMdFFESm1pbTZaeUFsSm9VeGFZdF9GT1hndElLMENYVnNLM1Q5UzZWRGM1UXROOW8wZzVfOWYyY1lNWXNHX19WU1VwSV8xekp5V0lha05LdVdpOUNmc3JiZURGZGc1Y2tkbkc3VjRxcmYwdzk4NkQ1UWVIUjNweEtxZFp0dUFLTkdpZWtoajVyQU9Hc3lySXM1RlZFTG1BRUwwYWs1YUZhSzZ2c2xCRm9Z?oc=5"
+          "title": "Why NVDA, AMD, CRWD Stocks Surged To 52-Week Highs Today - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHhDMkI0emNTQUUzQ0tiUnRkN2VPLUhCbEd0QTA4VHBROWJMdFN2X09mMlRpZTFRcVVYWm1uRmIwNklXRVpmNmpnQ1VVQ3F6Zmt4Nlh1ZnVZZHM1OGZURTNOX0Y0U3hQX1BzV1l2RUl4YjA1TlRmYVloak44Q21RNEU5aVVqbk04N3ZZU3lWY2kxOUY3cTI1MFFJN0hTS1RuZElfR2ZGZm9TUWtGcXA1OGtRY3pmUQ?oc=5"
         },
         {
           "title": "Will SpaceX's $40B Nvidia Bet Help or Hurt the Stock After a 16% Run? - Yahoo Finance",
@@ -34,9 +34,9 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.61,
+      "currentPrice": 4.59,
       "weekAgoPrice": 4.699999809265137,
-      "percentChange": -1.91,
+      "percentChange": -2.34,
       "flagged": false,
       "news": []
     },
@@ -58,9 +58,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.81,
+      "currentPrice": 1.82,
       "weekAgoPrice": 1.8899999856948853,
-      "percentChange": -4.23,
+      "percentChange": -3.7,
       "flagged": false,
       "news": []
     },
