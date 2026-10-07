@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T09:16:33.757969Z",
+  "generatedAt": "2026-10-07T10:16:44.316010Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -17,7 +17,20 @@
       "weekAgoPrice": 227.2100067138672,
       "percentChange": 5.29,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Nvidia's AI-driven stock soars, with $1,000 in 2023 growing to $16,765 amid bullish outlook and some caution. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLWp3d2wtclVyM1QyOXQ5ZHVfTGR4bnJoeHRNSnF3U3hoMm1DS3VhYm9OOFVBckR4X0lFUTFPWUZMeEJ1UktSaUk1WEtONi1rZ2IybGhVS0o0bW9sdWZRZHFoeElfT0NoNEVRcTZlSzVUMGU5OWtKVTVveHVEb2lnaU44UGFrN2hDcTBj?oc=5"
+        },
+        {
+          "title": "Top 10 Q3 insider stock sellers led by Nvidia\u2019s Stevens, Jeff Bezos (NVDA:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGRqblRQSXBfVEpxWTZCQWppakx0Ry1FeW4xTGRZZ2xOTmlPeVo3QzN6OFRkNWRtdlZoZ0ZWX2d3TVhsY2diZzhCYXBWMWRqMEpDQXBPRC1WbXJIb2EtZnpZa2JoZi1OVGJVQTE4bW85ZVVrYUFtY1hXSFBIcnJ3VmloVkJ5a2ZmVGk4bGFnbS1NOURKNllORkltWGZIdjFJeW9qVmtR?oc=5"
+        },
+        {
+          "title": "NVIDIA Corporation $NVDA Shares Newly Purchased by De Lisle Partners LLP - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS19SU285UWVheUF2Q18xSlNiWjFUMnE4WVRIa1NsQWdUWFBMMVdVYXZJUlh2TXV1VEpRTmlGdUlHaUVjRzJIZXRaV3I1TTY1VkZzcEZpVmZIblZ5M0lNdW9BWk5hdHN5aHF1bTlpbWF6SFp3LXFxTVhvU1hyallIenBvNkNvQ1RIZVE3eHVSbTZ6M3hWWlRHdHhVbEpWWmtEZGRDTklBMUk1U3l4U1RqLWR2dVdDeTBuRTVOWmNDMlZYc0hubWtJMUotLUo?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
