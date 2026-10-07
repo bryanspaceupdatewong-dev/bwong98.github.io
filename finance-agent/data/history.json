@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-02T16:16:34.084782Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 236.44,
-        "weekAgoPrice": 225.07000732421875,
-        "percentChange": 5.05,
-        "flagged": true,
-        "news": [
-          {
-            "title": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2% - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTFI0T2JmY3NJSUVxRnEyQndVaWQ5MDBIU3IyT2tOd3FDdnF2NWpHQlB1TWhBak1qQk1xN2Rla1FrLXp2TUlhZzJqOUw1eEl2U1U1NlQ2a2I3WWtQUFFqS09HX2lEa3g2UlMwVGp6a0toT2lpZldkU20yTzgyRUNsMXRQaHE3STVrQXdENmQ2SmtvSUE?oc=5"
-          },
-          {
-            "title": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2% - 24/7 Wall St.",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUVMNnlzM3F6SjRudU9qR25WZnl1bklOSVozNWJJVVhZSTE4dUZDTDdxc3RyaDd1djVwYmdnV1dyS2hITnJ4REtGMmVJeC0xN1REMXVGOGp5dTU0RHNacERQYW1wMzZ0M0ZzZTNJWmZKeDl5b19PQmNzRjBCSS1wWVkwRFFNOFJJNlFfVUFBYlNJVnd1NndsZG5jcmFHYTJHVVl1QWcyTS1ueVo2bEJCZ1hKd2F2Zw?oc=5"
-          },
-          {
-            "title": "Jim Cramer: \u201cNVIDIA Literally Can\u2019t Make Their Own Chips Fast Enough.\u201d Here\u2019s My 45% Upside Scenario: - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWXN5LVl0d1FuckJiT2Y2X2t0dHdwY1NONV9lWDNvQW0xUzdGRHlzNlRwVkhSa1FLd2wwS0lsNXdoYWg4SGhteklQRmgxcE9vd2paMG5nMG13MVN0ZGhFMVo3UzRGandvYmFLSHZVUVppYWpJQndxNUUzUmwybXA4QS1SMThSNEJ4WlI2Ti1Ba0tQa1NkOUpXc3Rn?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.43,
-        "weekAgoPrice": 7.829999923706055,
-        "percentChange": -5.11,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-02T17:16:47.743687Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1092,6 +1057,41 @@
   },
   {
     "generatedAt": "2026-10-07T02:16:04.160153Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 239.24,
+        "weekAgoPrice": 227.2100067138672,
+        "percentChange": 5.29,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy? - AOL.com",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCNy1pbmVhbjdvZ0g0d3ZIYm1hTDRzcEF1V2JHcXdYa2F3UlAydWhPaHc2VHJVTlpIcUlaVHZFSmxBOXJHNk5qRzFYbm95b2ItNWtzbjhSOVRlS1JFM2NFb0RPSUdEWmI3VmxIZEVWVjRqMkhTanVB?oc=5"
+          },
+          {
+            "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWZfYmxiU3pxbHhoSWYzNDJyaHlyR1pxUDdyTDNVMEJxVlV6RjRMTDBNcHBJZzVMZnRMYjZPTTlvQUxZR1dqQVdXdlRnaTUybFlDdnF2TUNSRUc0QTBETXM2VUEtYVFBMFFfT0ZkSlE2djJGXzZkakRFckFEd045dlctMXZYcEJNTE1Xb1lwZkpnWW5xdmc?oc=5"
+          },
+          {
+            "title": "SpaceX seeks to raise $40 bln to buy Nvidia chips- FT - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUpQMTgyUVo4dU5OREUwVm9udlUzTHhvYjk0ZnJ6T04tTWk5ejRXQl9fUXd6UTVfSmlXSVg3SThRdllRV3RNeFVaY2txTGNkSjU0eGl3a2d1M2RVNy1NV0pCTUJoS2Z5X25RN0hacENNNU96VjNabmxqQi15M1NVenBEY0pLRTV3TVA1UWNyLURDcnM?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.205,
+        "weekAgoPrice": 0.19499999284744263,
+        "percentChange": 5.13,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-07T03:16:01.540308Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
