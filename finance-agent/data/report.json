@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T03:16:01.540308Z",
+  "generatedAt": "2026-10-07T04:16:46.818615Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,32 +19,32 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy? - AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCNy1pbmVhbjdvZ0g0d3ZIYm1hTDRzcEF1V2JHcXdYa2F3UlAydWhPaHc2VHJVTlpIcUlaVHZFSmxBOXJHNk5qRzFYbm95b2ItNWtzbjhSOVRlS1JFM2NFb0RPSUdEWmI3VmxIZEVWVjRqMkhTanVB?oc=5"
+          "title": "Nvidia Is About 4% From Becoming the First $6 Trillion Company. History Says the Milestone Itself Tells You Little. - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOdVBzNDZxYkRuODZpckVkMG5mR0tUcV9BT05MQThSYXlDa0s5cm1YX1BuREloalpyWFhFRVBOZWY2U3pScXJfbDFrN3BZZXF1cjU0UGhBM0lJYVhBczJxczBpX1RmS3hFRFh4LTlzWVJFbjdGZGE0UGduQjlMdFFESm1pbTZaeUFsSm9VeGFZdF9GT1hndElLMENYVnNLM1Q5UzZWRGM1UXROOW8wZzVfOWYyY1lNWXNHX19WU1VwSV8xekp5V0lha05LdVdpOUNmc3JiZURGZGc1Y2tkbkc3VjRxcmYwdzk4NkQ1UWVIUjNweEtxZFp0dUFLTkdpZWtoajVyQU9Hc3lySXM1RlZFTG1BRUwwYWs1YUZhSzZ2c2xCRm9Z?oc=5"
         },
         {
-          "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWZfYmxiU3pxbHhoSWYzNDJyaHlyR1pxUDdyTDNVMEJxVlV6RjRMTDBNcHBJZzVMZnRMYjZPTTlvQUxZR1dqQVdXdlRnaTUybFlDdnF2TUNSRUc0QTBETXM2VUEtYVFBMFFfT0ZkSlE2djJGXzZkakRFckFEd045dlctMXZYcEJNTE1Xb1lwZkpnWW5xdmc?oc=5"
+          "title": "Will SpaceX's $40B Nvidia Bet Help or Hurt the Stock After a 16% Run? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTBwbUxnelp0cWVaWnBvVFZ1VXVfN21fNDhPdmZJMURuX0pydnpWQVlmSW5jY1VoM0pVUTF5LWpFMmhkVTIyaGdQWXBOTk9KVFM1bGhVRWJ3M1FWZGU4MFRSMDFvVnJVU3NSN3FONGs0VjcxeW43eEpaSW4zVWVkNTdjWU1ieDZQNGRPeW53UXdpY0tVNXdF?oc=5"
         },
         {
-          "title": "SpaceX seeks to raise $40 bln to buy Nvidia chips- FT - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUpQMTgyUVo4dU5OREUwVm9udlUzTHhvYjk0ZnJ6T04tTWk5ejRXQl9fUXd6UTVfSmlXSVg3SThRdllRV3RNeFVaY2txTGNkSjU0eGl3a2d1M2RVNy1NV0pCTUJoS2Z5X25RN0hacENNNU96VjNabmxqQi15M1NVenBEY0pLRTV3TVA1UWNyLURDcnM?oc=5"
+          "title": "Nvidia Stock Price Target Splits Crypto Punters: Here's Where They See the Chip Giant Going in October - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa09mNmpXU1JxbmYxakhKZ3dfZFc3WWJPOU16NlJlVEprMk4yY0hackpSZE5XMGtLWjB1TEpseldiV2RYWDhtNkFoUUdJbFBjVVlkR2xkd2h3OU9TOG5IY09KNWRBSWRjS0pnT0RJMnBHeTdiNGFnZTU5QzBGMFV0Z2Y5Y2VsTVpXekRuU0dKbjNhSWtlLUh3OG13OFZfM3AyZE5pM1dvYkF3d29IVjJ5dEVIemV2ZlJMR3paNg?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.62,
+      "currentPrice": 4.61,
       "weekAgoPrice": 4.699999809265137,
-      "percentChange": -1.7,
+      "percentChange": -1.91,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.3,
+      "currentPrice": 7.29,
       "weekAgoPrice": 7.5,
-      "percentChange": -2.67,
+      "percentChange": -2.8,
       "flagged": false,
       "news": []
     },
@@ -58,9 +58,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.83,
+      "currentPrice": 1.81,
       "weekAgoPrice": 1.8899999856948853,
-      "percentChange": -3.17,
+      "percentChange": -4.23,
       "flagged": false,
       "news": []
     },
@@ -82,28 +82,28 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.205,
+      "currentPrice": 0.2,
       "weekAgoPrice": 0.19499999284744263,
-      "percentChange": 5.13,
-      "flagged": true,
+      "percentChange": 2.56,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.13,
+      "currentPrice": 1.15,
       "weekAgoPrice": 1.1100000143051147,
-      "percentChange": 1.8,
+      "percentChange": 3.6,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.7,
+      "currentPrice": 0.695,
       "weekAgoPrice": 0.6949999928474426,
-      "percentChange": 0.72,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 1
 }

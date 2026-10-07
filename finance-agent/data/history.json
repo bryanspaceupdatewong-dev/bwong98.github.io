@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-02T17:16:47.743687Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.43,
-        "weekAgoPrice": 7.829999923706055,
-        "percentChange": -5.11,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-02T18:16:25.864310Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1122,6 +1108,33 @@
         "percentChange": 5.13,
         "flagged": true,
         "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-07T04:16:46.818615Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 239.24,
+        "weekAgoPrice": 227.2100067138672,
+        "percentChange": 5.29,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Is About 4% From Becoming the First $6 Trillion Company. History Says the Milestone Itself Tells You Little. - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOdVBzNDZxYkRuODZpckVkMG5mR0tUcV9BT05MQThSYXlDa0s5cm1YX1BuREloalpyWFhFRVBOZWY2U3pScXJfbDFrN3BZZXF1cjU0UGhBM0lJYVhBczJxczBpX1RmS3hFRFh4LTlzWVJFbjdGZGE0UGduQjlMdFFESm1pbTZaeUFsSm9VeGFZdF9GT1hndElLMENYVnNLM1Q5UzZWRGM1UXROOW8wZzVfOWYyY1lNWXNHX19WU1VwSV8xekp5V0lha05LdVdpOUNmc3JiZURGZGc1Y2tkbkc3VjRxcmYwdzk4NkQ1UWVIUjNweEtxZFp0dUFLTkdpZWtoajVyQU9Hc3lySXM1RlZFTG1BRUwwYWs1YUZhSzZ2c2xCRm9Z?oc=5"
+          },
+          {
+            "title": "Will SpaceX's $40B Nvidia Bet Help or Hurt the Stock After a 16% Run? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTBwbUxnelp0cWVaWnBvVFZ1VXVfN21fNDhPdmZJMURuX0pydnpWQVlmSW5jY1VoM0pVUTF5LWpFMmhkVTIyaGdQWXBOTk9KVFM1bGhVRWJ3M1FWZGU4MFRSMDFvVnJVU3NSN3FONGs0VjcxeW43eEpaSW4zVWVkNTdjWU1ieDZQNGRPeW53UXdpY0tVNXdF?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Price Target Splits Crypto Punters: Here's Where They See the Chip Giant Going in October - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa09mNmpXU1JxbmYxakhKZ3dfZFc3WWJPOU16NlJlVEprMk4yY0hackpSZE5XMGtLWjB1TEpseldiV2RYWDhtNkFoUUdJbFBjVVlkR2xkd2h3OU9TOG5IY09KNWRBSWRjS0pnT0RJMnBHeTdiNGFnZTU5QzBGMFV0Z2Y5Y2VsTVpXekRuU0dKbjNhSWtlLUh3OG13OFZfM3AyZE5pM1dvYkF3d29IVjJ5dEVIemV2ZlJMR3paNg?oc=5"
+          }
+        ]
       }
     ]
   }
