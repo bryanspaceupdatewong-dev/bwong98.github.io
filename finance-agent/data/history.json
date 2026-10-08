@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-06T01:16:49.288181Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 238.9,
-        "weekAgoPrice": 225.07000732421875,
-        "percentChange": 6.14,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia NVDA Stock Hits New $240 Record as Chip Demand Meets Rising Costs - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHFaeVJVT3Z3MTd4Mjc3VnVLU0tyeGloS0NWeXlERjVreVlQVEtfQm4yR3BSTDM4S1RLVllkS0dTanQzR2J1Tm5nUmZseGlYaXdONGVSYzA0SmVUSGxuMU9Ha0puLVZsV25NdjEydldPUVF2NmpyR1dURDZxemp6c1A0aklzU3A4OWUyYWhGOUFBUVdOM2FmU1p0YjU0VHFfWXA1alJGdF9KWXNYLWRUQ2I2TjU?oc=5"
-          },
-          {
-            "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields \u2014 NVDA, SPCX, CRML, TSLA, QCOM In Focus - Stocktwits",
-            "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMGotYUtDclZMcDdOQ1ZtNTNWdElvM3NERHppRGhzTVIwbTlpcDJHelR4WjNKSFFVaVYtRXJ1ZEJVNF9YWWZnVlhuWVJFLU16N0lIWXpyRkJDVDhRaTBTb1NfMEFjYW10clhlQ3hwWmRvSUVQWHBuMGZOS0Jlekt4MGg5SkhGZDkxOE1DeUFGQnJ0UWNNSEJrSWEwdkc3aFhfZHNtck40ZFN5OWFGLW01YlRmbENfa1oyXzBOdVZzNmF0Qm1oV1VoV2NFNktNVmFDcVNYUUZyamV0V0d1Yk1qNWpJaVNGbGoyQWxROENVd05HYUdtNXQzd285bTlRZUk0dnBYVlpqWGxtdw?oc=5"
-          },
-          {
-            "title": "NVIDIA\u2019s Record High Raises a Bigger Question About How Far the Rally Can Run - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlJtX2hoSzhCb1hRMjY2V2hyZ3ZlMF93dTNfbXMwcVpwanVNZ1NqV0l3dTI5MHh5MHBHSWl1S1pIMTI0dHNyVVQwRU5lM2tyWXl4VS1XVDFyOGtmcjJUQUk2U0ktOTN5RXJtZ1FfQVI1MFdHWUVVUHRXcFlGOElaamEzUHpzZVhXREFYeXV4dWRaZUVlZm9mbVNaSlF6WG9qWHJodXJZV3g1UjZaamUxa09FWQ?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-06T09:14:53.447382Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1278,6 +1251,28 @@
   },
   {
     "generatedAt": "2026-10-08T19:15:52.907318Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.205,
+        "weekAgoPrice": 0.19499999284744263,
+        "percentChange": 5.13,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.16,
+        "weekAgoPrice": 1.090000033378601,
+        "percentChange": 6.42,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-08T20:16:44.394658Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
