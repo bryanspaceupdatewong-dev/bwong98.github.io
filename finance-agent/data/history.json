@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-05T09:17:13.625859Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.11,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -5.93,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-05T10:16:59.398215Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1239,6 +1225,33 @@
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mNy1kU3UxTXdITm5OWjJFbEpMZ0VTOC1iMmdQZ2tmTS11WUY2YkRfOE90OWFmS01Ya3QyWkdfSVprNDQ4eXJYSTFaeV9XMXZDQl9fX0VZOUk2SHUyS2I1TmsxdkRTZGlpZFRWSXVDYW5IQmtRR1R3?oc=5"
           }
         ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-08T01:16:53.746775Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.8,
+        "weekAgoPrice": 1.899999976158142,
+        "percentChange": -5.26,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Genting Berhad (3182.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.15,
+        "weekAgoPrice": 1.090000033378601,
+        "percentChange": 5.5,
+        "flagged": true,
+        "news": []
       }
     ]
   }
