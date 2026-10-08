@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-10-08T01:16:53.746775Z",
+  "generatedAt": "2026-10-08T02:16:38.195996Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 529.76,
-      "weekAgoPrice": 508.9599914550781,
-      "percentChange": 4.09,
+      "weekAgoPrice": 512.9000244140625,
+      "percentChange": 3.29,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 237.47,
-      "weekAgoPrice": 227.2100067138672,
-      "percentChange": 4.52,
+      "weekAgoPrice": 228.3800048828125,
+      "percentChange": 3.98,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.59,
+      "currentPrice": 4.58,
       "weekAgoPrice": 4.670000076293945,
-      "percentChange": -1.71,
+      "percentChange": -1.93,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.21,
+      "currentPrice": 7.15,
       "weekAgoPrice": 7.46999979019165,
-      "percentChange": -3.48,
+      "percentChange": -4.28,
       "flagged": false,
       "news": []
     },
@@ -45,16 +45,11 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.8,
+      "currentPrice": 1.83,
       "weekAgoPrice": 1.899999976158142,
-      "percentChange": -5.26,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Genting Berhad (3182.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
-        }
-      ]
+      "percentChange": -3.68,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5271.KL",
@@ -66,9 +61,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.24,
+      "currentPrice": 1.23,
       "weekAgoPrice": 1.25,
-      "percentChange": -0.8,
+      "percentChange": -1.6,
       "flagged": false,
       "news": []
     },
@@ -82,20 +77,20 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.15,
+      "currentPrice": 1.13,
       "weekAgoPrice": 1.090000033378601,
-      "percentChange": 5.5,
-      "flagged": true,
+      "percentChange": 3.67,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.7,
+      "currentPrice": 0.71,
       "weekAgoPrice": 0.6949999928474426,
-      "percentChange": 0.72,
+      "percentChange": 2.16,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 0
 }
