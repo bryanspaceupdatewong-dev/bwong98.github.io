@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T00:16:26.809602Z",
+  "generatedAt": "2026-10-09T01:16:38.699050Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,58 +21,58 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.55,
-      "weekAgoPrice": 4.670000076293945,
-      "percentChange": -2.57,
+      "currentPrice": 4.57,
+      "weekAgoPrice": 4.659999847412109,
+      "percentChange": -1.93,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.15,
-      "weekAgoPrice": 7.46999979019165,
-      "percentChange": -4.28,
+      "weekAgoPrice": 7.429999828338623,
+      "percentChange": -3.77,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.46,
-      "weekAgoPrice": 1.4900000095367432,
-      "percentChange": -2.01,
+      "weekAgoPrice": 1.4700000286102295,
+      "percentChange": -0.68,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.84,
-      "weekAgoPrice": 1.899999976158142,
-      "percentChange": -3.16,
+      "currentPrice": 1.83,
+      "weekAgoPrice": 1.8600000143051147,
+      "percentChange": -1.61,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.37,
-      "weekAgoPrice": 1.3899999856948853,
-      "percentChange": -1.44,
+      "weekAgoPrice": 1.399999976158142,
+      "percentChange": -2.14,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.24,
-      "weekAgoPrice": 1.25,
-      "percentChange": -0.8,
+      "currentPrice": 1.23,
+      "weekAgoPrice": 1.2699999809265137,
+      "percentChange": -3.15,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.205,
-      "weekAgoPrice": 0.19499999284744263,
-      "percentChange": 5.13,
-      "flagged": true,
+      "weekAgoPrice": 0.20000000298023224,
+      "percentChange": 2.5,
+      "flagged": false,
       "news": []
     },
     {
@@ -92,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 1
 }
