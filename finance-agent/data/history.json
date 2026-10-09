@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-07T01:16:34.542474Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 239.24,
-        "weekAgoPrice": 227.2100067138672,
-        "percentChange": 5.29,
-        "flagged": true,
-        "news": [
-          {
-            "title": "SpaceX seeks to raise $40 bln to buy Nvidia chips- FT - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUpQMTgyUVo4dU5OREUwVm9udlUzTHhvYjk0ZnJ6T04tTWk5ejRXQl9fUXd6UTVfSmlXSVg3SThRdllRV3RNeFVaY2txTGNkSjU0eGl3a2d1M2RVNy1NV0pCTUJoS2Z5X25RN0hacENNNU96VjNabmxqQi15M1NVenBEY0pLRTV3TVA1UWNyLURDcnM?oc=5"
-          },
-          {
-            "title": "SPCX Stock Slips After-Hours As SpaceX Reportedly Seeks $40B For Nvidia Chips - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXBBWFdGdERkRHZ5WHRaU3I0S3NYaWVzejBJYWtaU1Z4UjJiVl8tdm05cU5tSzVLUzRETGtVZ2oxbHdVa3l6QmtrVG1ZczMycmZhc0NUV1pMbnQ4WVBTTXk2NlExVjRLQzhTZGFheHZ5YzRBck4xT3djVTRoenhOaGoyOFE0WWlYbUU0djI3VEoxYXdjVXBDMWtR?oc=5"
-          },
-          {
-            "title": "Nvidia stock flashes massive signal as Wall Street leans in - TheStreet",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJcGxnVGN3YXVGSzNTTmY0RDdDLWpVbFlyOU9oQXhxOE9ha0d5ZFdLYXplZGZkS2hIcV9na001RzRkSzZrQ3pvVkpHUTl1clNndVlKeTRoME0ydFg3VzY4SzNidU1mY21jSG42X1p3VFY3dDdsSnRfbTZqQjB1Zw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.66,
-        "weekAgoPrice": 0.699999988079071,
-        "percentChange": -5.71,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-07T02:16:04.160153Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -992,6 +957,20 @@
   },
   {
     "generatedAt": "2026-10-09T14:11:25.519004Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.24,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 11.71,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-09T14:21:24.858942Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
