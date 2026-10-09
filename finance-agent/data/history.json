@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-07T05:17:29.263058Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 239.24,
-        "weekAgoPrice": 227.2100067138672,
-        "percentChange": 5.29,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Why NVDA, AMD, CRWD Stocks Surged To 52-Week Highs Today - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHhDMkI0emNTQUUzQ0tiUnRkN2VPLUhCbEd0QTA4VHBROWJMdFN2X09mMlRpZTFRcVVYWm1uRmIwNklXRVpmNmpnQ1VVQ3F6Zmt4Nlh1ZnVZZHM1OGZURTNOX0Y0U3hQX1BzV1l2RUl4YjA1TlRmYVloak44Q21RNEU5aVVqbk04N3ZZU3lWY2kxOUY3cTI1MFFJN0hTS1RuZElfR2ZGZm9TUWtGcXA1OGtRY3pmUQ?oc=5"
-          },
-          {
-            "title": "Will SpaceX's $40B Nvidia Bet Help or Hurt the Stock After a 16% Run? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRTBwbUxnelp0cWVaWnBvVFZ1VXVfN21fNDhPdmZJMURuX0pydnpWQVlmSW5jY1VoM0pVUTF5LWpFMmhkVTIyaGdQWXBOTk9KVFM1bGhVRWJ3M1FWZGU4MFRSMDFvVnJVU3NSN3FONGs0VjcxeW43eEpaSW4zVWVkNTdjWU1ieDZQNGRPeW53UXdpY0tVNXdF?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Price Target Splits Crypto Punters: Here's Where They See the Chip Giant Going in October - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa09mNmpXU1JxbmYxakhKZ3dfZFc3WWJPOU16NlJlVEprMk4yY0hackpSZE5XMGtLWjB1TEpseldiV2RYWDhtNkFoUUdJbFBjVVlkR2xkd2h3OU9TOG5IY09KNWRBSWRjS0pnT0RJMnBHeTdiNGFnZTU5QzBGMFV0Z2Y5Y2VsTVpXekRuU0dKbjNhSWtlLUh3OG13OFZfM3AyZE5pM1dvYkF3d29IVjJ5dEVIemV2ZlJMR3paNg?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-07T06:22:17.166127Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -924,6 +897,28 @@
   },
   {
     "generatedAt": "2026-10-09T17:16:40.586621Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.205,
+        "weekAgoPrice": 0.19499999284744263,
+        "percentChange": 5.13,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.24,
+        "weekAgoPrice": 1.090000033378601,
+        "percentChange": 13.76,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-09T18:16:19.948336Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
