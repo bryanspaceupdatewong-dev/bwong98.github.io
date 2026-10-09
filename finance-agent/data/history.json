@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-06T15:17:32.914401Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 241.94,
-        "weekAgoPrice": 227.2100067138672,
-        "percentChange": 6.48,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia (NVDA) Shares Hit New High Amid Strong ETF Presence and M - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLTdITVZkbzNxem9ZbUdKSTNQVzB5Mk1VVWpzakxJYkpHX29BZHdncFNiQnZ5Vkk4a3BqUmFsbEVqSEJOa0JtQ1lwYmw1TVVWODBONGpWUHhaWHljTVhSYjdiYmZIZS1WLW1FM28wY082WDNDZGQtWENfVmFUR3JXcHN0MlNTQWNBSmJueHFobWc5MWRwcElBQnhPVWcyZDZlR2ltQTZSNmVMUVZkVmRUN3g3NGQtQjBScWVtMWM0c0c?oc=5"
-          },
-          {
-            "title": "Nvidia stock approaches $6 trillion market cap milestone - qz.com",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uQUVYX2hlTkRtSGtpVVBhRkppcklFTHZFb1RKdk5MOUhVWnhrWWtRUmYxVl9oQ2NrWGxUTzVwVFJlVVNyMEZBVDFHUFpLQUZPTkRlRVJSZ29yakYxcnI1NmNJTG80MW1WN3c?oc=5"
-          },
-          {
-            "title": "NVIDIA Tokenized Shares Flash Overbought Signals - TradingPedia",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0xUV1diWkVDaXNxMjRhWWdjLVlKLWRYVmlMZ0FRQ0IxZVd5NG5wOF9CN1F4UWFiMEsybDdVNVF4R0JqdXNoN3F2bjBYemJLeHVQUFNQVmF4SFpYVDBCcmlEYXNpUXFWTkhfTUliMXlWWGx6NFhodTd6aVNCbllYOXNwWklXSkNrcGtzcWJNOUdhc2M?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.66,
-        "weekAgoPrice": 0.699999988079071,
-        "percentChange": -5.71,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-06T16:08:44.516721Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1279,6 +1244,20 @@
   },
   {
     "generatedAt": "2026-10-09T02:15:54.404944Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 7.21,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-09T03:15:56.993951Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
