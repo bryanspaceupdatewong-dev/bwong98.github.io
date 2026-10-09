@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-07T03:16:01.540308Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 239.24,
-        "weekAgoPrice": 227.2100067138672,
-        "percentChange": 5.29,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy? - AOL.com",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCNy1pbmVhbjdvZ0g0d3ZIYm1hTDRzcEF1V2JHcXdYa2F3UlAydWhPaHc2VHJVTlpIcUlaVHZFSmxBOXJHNk5qRzFYbm95b2ItNWtzbjhSOVRlS1JFM2NFb0RPSUdEWmI3VmxIZEVWVjRqMkhTanVB?oc=5"
-          },
-          {
-            "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy? - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWZfYmxiU3pxbHhoSWYzNDJyaHlyR1pxUDdyTDNVMEJxVlV6RjRMTDBNcHBJZzVMZnRMYjZPTTlvQUxZR1dqQVdXdlRnaTUybFlDdnF2TUNSRUc0QTBETXM2VUEtYVFBMFFfT0ZkSlE2djJGXzZkakRFckFEd045dlctMXZYcEJNTE1Xb1lwZkpnWW5xdmc?oc=5"
-          },
-          {
-            "title": "SpaceX seeks to raise $40 bln to buy Nvidia chips- FT - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUpQMTgyUVo4dU5OREUwVm9udlUzTHhvYjk0ZnJ6T04tTWk5ejRXQl9fUXd6UTVfSmlXSVg3SThRdllRV3RNeFVaY2txTGNkSjU0eGl3a2d1M2RVNy1NV0pCTUJoS2Z5X25RN0hacENNNU96VjNabmxqQi15M1NVenBEY0pLRTV3TVA1UWNyLURDcnM?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.205,
-        "weekAgoPrice": 0.19499999284744263,
-        "percentChange": 5.13,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-07T04:16:46.818615Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -957,6 +922,28 @@
         "currentPrice": 1.24,
         "weekAgoPrice": 1.1100000143051147,
         "percentChange": 11.71,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-09T16:16:24.839638Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.205,
+        "weekAgoPrice": 0.19499999284744263,
+        "percentChange": 5.13,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.24,
+        "weekAgoPrice": 1.090000033378601,
+        "percentChange": 13.76,
         "flagged": true,
         "news": []
       }
