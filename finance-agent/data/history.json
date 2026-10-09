@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-06T19:16:50.351155Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 239.89,
-        "weekAgoPrice": 227.2100067138672,
-        "percentChange": 5.58,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stock market today: S&P 500, Nasdaq touch all-time highs as stocks power higher, bond yields retreat - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVA4dXZfTlMzdGNsZDZOM19oNng1YzJqNl9wTDE2RmhKblJZOURISlRVbEVldE1MV0huXzZUUWROdlFRRl9OWllPN2VZbmNSem5YU251WlBESy05c3lpR25hdjl2NzJ5U1BVMHBSWnBfdjlxMEdRV3o4UFNDTXVXV01HU0FXSmtMOE9DWDBsVTdYNVJkUGlpS0NpR2JrSE1SZVRkMG9SMGFxZEQ4?oc=5"
-          },
-          {
-            "title": "The World\u2019s Largest Stock Has Lagged. If Nvidia Runs, Tech and Markets Will Follow. - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaEhnSzY2NmZ1cTRXYlBBXzRmQ1Nlcld5OVhFSUpUdlEwdzVyOHZySk9nZ2tDNDFILTR4b1p2QVprZTl5UnN5N2F2bUJPWUxTNG1pajZ1UjAtbjRiWWJJdVNncWJhTkk0dUxzdUJ6UEQ4N2R2ZzExUEhEQmwtcHhmb0k1dGFGbzQ?oc=5"
-          },
-          {
-            "title": "Marvell, Nvidia, AMD, Seagate, Constellation Energy, and More Stocks That Explain Today\u2019s Market - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQZUQ1MzBIN0NFZ3FzTFZodU84NnlYNUgwWWV3OWVaSUZ4d1RiRkhwd0tNRkZmaXNTa1ZCS1FRa2tvUFZicEtGRWZDdWlsczNMdF9TZmRoVlhIX0d6dkhZUndtdzU?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.66,
-        "weekAgoPrice": 0.699999988079071,
-        "percentChange": -5.71,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-06T20:17:12.700126Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1112,6 +1077,20 @@
         "currentPrice": 1.22,
         "weekAgoPrice": 1.1100000143051147,
         "percentChange": 9.91,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-09T08:17:34.562935Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.23,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 10.81,
         "flagged": true,
         "news": []
       }
