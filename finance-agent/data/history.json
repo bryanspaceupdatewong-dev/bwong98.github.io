@@ -1,61 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-06T14:22:18.846959Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 534.98,
-        "weekAgoPrice": 508.9599914550781,
-        "percentChange": 5.11,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Are Copilot and Azure Driving the Latest Climb in Microsoft (NASDAQ:MSFT)? - Kalkine Media",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNU91dnJiczJ2aGVNdXFpQWRKOUJmanZxUXpKeEg5b2lJZm1fT2hjeDMxWEdCX3psckhYV1prXzBoZ2tBNFBnSEVLdDViZVBIN01ETmg3bElYTm9HWnBhQ3hKSmd3REd5VEdRY2Y1ZnR5OUloTnRRQzFfdmpqSTNBRHg2UE1wUE9HZ2xXZWxfeGxkM2piOVdMSzVDZ0d1UEd1YzNkdkxGS3o5dk5LN2xSRGZYQ3o?oc=5"
-          },
-          {
-            "title": "Microsoft Stock (MSFT) Opinions on AI Model Shifts - Quiver Quantitative",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONFJSbkowTERQOGhfYUJBOHo2TExiZE1pWEpJdkhIWmZ6WFkycTRWaEFqcHJENWZJZ3Y1UEwyNFBxV05UcngwZ2ZtYXlxM3BOX1djRHdvcGtRWmt4WkhvRzBHbkIwcEkxZWNZckJmcGR3aVlUcXdGZE8zY3ZEUmljMHV3ekh3SHFqcUhXLUdYeFo?oc=5"
-          },
-          {
-            "title": "Latest News In Cloud AI - Applied Digital Expands Into Finland With AI Campus Development - Simply Wall Street",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQVVyUWNoV0dsVFVCTDVLeWJtN0JfR3U1YUwwd3dpMlFyV2szRVhMQklRUEhTaUhLV0s1cUVyUkp6enF1TjJhR0lIUkJreFJWYmI1ajdnaDFINnpiMGxPd25BbkxscHJkYzkxVXJfZDBMX1g0SldOTkJvRjFtTFRLVW56YU4ybzJyaXF2NDR3M3VEb0xrY0pWZnFkcHVMQkhMM2pUUHRPTW5abWt3ZkhSa09WRkFNamo4aDliWWdJUjc2NkdMX0JF0gHMAUFVX3lxTFBhTXJJV092VXNLZjdJM0poQ2lhNmNUZDBTRFk5eWZWc25ZazhyWDVoRmhsNThiT243ak4xWmI3end6QUFGSEpjcTZoTFdDY19zXzFJQlQwVkZCb1ktMmR2WFAtY3ZYVEprLVhLUFF2RG9mS2tPNTNpU0c4cUFwUl9ZR19nNVFuRWx6OVZOUlh1VUNtUEdZMm0ySl9YS012WW50YVRnTzNfWEh3X3ZjLTZJR0RTYXV5RkVKeS1kRk5HaGJBWUw0cXMzNmVQTg?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 242.08,
-        "weekAgoPrice": 227.2100067138672,
-        "percentChange": 6.54,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia's stock could rise 17.5% in 12 months, b... - Pluang",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1lQR0xhd2xGbl9JazJpN1RWX2ItV0FjbE9XVmxIRzhhcUpiWU5TdklfaUlEM0FKb2NBWnBYMkJxa0ptUmt5ODFjZ3hxaG1TRlZrMUlPNU1IbXFSdlBPMEpSTW9rNjBtYll0UFVaZ0d3c29EeXlqQ2ZQd2JsWHBOanZQQUlOWmQyVkE?oc=5"
-          },
-          {
-            "title": "Nvidia Backed Reflection AI Launches Its New Beam Model To Compete With Chinese tech rivals - TIKR.com",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVzJKSE1SZzMzU01iTkdQM1p2d1VLUmg0WEltOVE0SjA4cDBsaTFJZEdkX0R3bW1oLUhRQk9tMWxEQ0wzU1lCcllEZjNyNW9Bb3EwRW9OeDZYSW5sVWFtVXNzR3ZuZUN3WkptRkI0dkpXdFBYMnJhWEs4dDFXTVU0cA?oc=5"
-          },
-          {
-            "title": "Nvidia Turned $10,000 Into More Than $1.3 Million. Can It Happen Again? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEZGZ2FVVlhreU1UVUFvSk9ETTR6ZFdtYkZqSy1Wd0JqMkRsX1BxbFR5SW54VWRLOE9xQTNWWmJCaDc3eDZQY0EtOUVQNlkyd1cxWnIzcFZobWRsSWpMM002dnF6SFpody1jd01SdkotdkxFamUzT3l5U0xwaGhZNEgteUhYaGw5RzY1MXdodTdZRFph?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.66,
-        "weekAgoPrice": 0.699999988079071,
-        "percentChange": -5.71,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-06T15:17:32.914401Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1328,6 +1272,20 @@
         "currentPrice": 1.16,
         "weekAgoPrice": 1.090000033378601,
         "percentChange": 6.42,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-09T02:15:54.404944Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 7.21,
         "flagged": true,
         "news": []
       }
