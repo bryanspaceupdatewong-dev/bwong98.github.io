@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-06T16:17:31.192674Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 241.195,
-        "weekAgoPrice": 227.2100067138672,
-        "percentChange": 6.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Applied Materials vs. Nvidia: Which Chip Stock Is a Better Buy in 2026? - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTN2Nmk0UnlJaXh6Y2Z1YjhablVCZll3Z2g0NVhwY2treVBGVm9TU0cwYTloLW1QV3VyMDQ3LUcwa0ZfOTNOVlB4anpOLXBLWDRlbzhuTmNhTzlreDVRcXdtZ1lwbGQzemw0dFpTb1dseldQTVdOY2hUZGhwOGRmOXgxclVxTzRFYVJ1V2JIZDBZUUdFakQ2Ulp5NGNYYkptcHkzTVd1bDl1eU9GWVlFODVsZw?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Hits All-Time Highs, CEO Jensen Huang Now Worth This Much Money - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHdhMWR6VkhPMndmVVM2RW9IWjNHVk1zX3doelFJZUJIRU5naGstZ1dlTml6UnB2bFVuNmJxWVFQbzktREYyaDE1WV9mZ3g3aFNtbVFXNTg1VjlxYVROOXEyUGxtQmtxOHItRVVEWVA2NVNfNThwdHUtUGY4aUJfVVZ6T19KRHVPVlRaTHFidGMyV200RkZ0eU1YeVFaUE9YQmZLcXZrR0g3THFvSXNoZnFqYktqS1pOcDd2S3hPRXRTYW1wSi1md2M2NA?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Climbs Toward Historic $6 Trillion Market Cap - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDhucXVWTjBzWFBMd2txVHZYa2Ffc0NHR0NHZS1GZDVzZEVSTXZnYjliWFh0V3k3OG5iczVZd0xpMmdyU2hUQzk3MDhSUXEwY3FFNUsya2RoLWI4eHl0TTI5TWpPV0lkOUMwWWlsZnE5bkZvdjlYZU5idkRtOG1ieGxYdlV2dkl1Z3FuN2NqdlFxbkM2eGk3czdnLUs?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.43,
-        "weekAgoPrice": 7.840000152587891,
-        "percentChange": -5.23,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.3200000524520874,
-        "percentChange": -5.3,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.66,
-        "weekAgoPrice": 0.7099999785423279,
-        "percentChange": -7.04,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-06T17:16:14.302796Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1223,6 +1172,20 @@
         "currentPrice": 1.22,
         "weekAgoPrice": 1.1100000143051147,
         "percentChange": 9.91,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-09T05:16:45.107459Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.23,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 10.81,
         "flagged": true,
         "news": []
       }
