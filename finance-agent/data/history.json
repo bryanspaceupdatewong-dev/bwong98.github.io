@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-07T07:18:34.625387Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 239.24,
-        "weekAgoPrice": 227.2100067138672,
-        "percentChange": 5.29,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA Corporation $NVDA Stock Purchased by Avanda Investment Management Pte. Ltd. - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcEQzeVFjdXA5MUNJQVZtb0Vaa2hwSThUekYwV1J3ek5yS0lPUEdicFhXcXgyUWNGMjd6SG9aR2NwVFBFR1RPSDlZR3hDUWNTSkFGOEdQaENnTld1Zk1yMG5JV25DcXQtRHFmakV1Sjl6UVhDQWhMSkQ1Q3A3WG1yN3hMODBpM0FKYk9nWGpnaUVla2xuRDF5RGpzRFlvcTZoYWdiVHNoZnIxNUV0aXpUdEhvTVltejFJUG9GTDB2ejB4bzAwUzRoWkNyNzVfZ0hpVDRrQ2pkOA?oc=5"
-          },
-          {
-            "title": "5,525 NVIDIA Corporation $NVDA Shares Sold by AI Squared Management Ltd - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNmY1cGg2WWVKTnlWMDRpVGY4RUY1Y2NtdG9uQU5GNTA2X0ZFdGtuTDRBd180a1hVOVBreWdTdWo2Nmd4TEVwX2Q3RllPenMyN19xU092UWh1bk5EWk1oU1VqZWRmQkxuTUMzdmFfck1kYW5CakczdW5ZYWhqY0dDb0dPeXdBWXpnODk4ZVB2c1Vxckd4ZkFlVFE2bGg4Y2U2aGRla2E0Q1JuTkFTTU13dmZuVS1nWXB4M281LV9BbVBlVVZSalJjMVh3?oc=5"
-          },
-          {
-            "title": "Nvidia Is About 4% From Becoming the First $6 Trillion Company. History Says the Milestone Itself Tells You Little. - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbnB4ZGhuSnZtZDJQaF9FWTNUNDZsSjFLRVd5SlZoY3FFSS1UeEx1bzlOaDc0SElwbDFoMUlKVWZoMUFuR0NsSmYyV1Q3NWluQzVtakNrWTNoaE5ILUZaNDNhU2FwSG5PeURoQ2ljb3NyM1ZYZDhfN3BmS3laOW9RQjkyZmUyd3pCZ1RDdi1BOEQ1bkVOdFZ1QlBLSkFfbW44RFBIcWZ4a3hWTm9lUUlRbFJMSFJBbTJQb05aXzVuQ3R5Wi1qWDA3UTUxVEExaWViMmFkcGw0d2JvNFRRZ0d4ZUg5NGtUNm53WS0xRG9R?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-07T08:17:17.821407Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -914,6 +887,20 @@
   },
   {
     "generatedAt": "2026-10-09T19:17:00.089962Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.24,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 11.71,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-09T20:16:54.279278Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
