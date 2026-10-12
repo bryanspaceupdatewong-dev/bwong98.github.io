@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-08T17:16:04.170554Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.205,
-        "weekAgoPrice": 0.19499999284744263,
-        "percentChange": 5.13,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-08T18:17:04.109676Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1101,6 +1087,65 @@
           {
             "title": "NVIDIA teeters at $225 support with fading momentum: Live levels - Investing.com",
             "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVZkYnJrNU5tZlRXdUxuREg0OUdGUjNkU2Z0c0NsazNaWDRicVNoMnE2TmxrZDBMY2VtejdOaUZoa3JXdWE3LWFKSHhLM2JQZk1NVVVCMlVUX1pWWHA1NmJNTXpOeXE2NEI3Y1RSY1FiVXFHWFBvc01oWWg0WTNYR1lTQmNlcGJ3aEx1MUMxbndIZ1BUanNGM2UtMWhsMUJsUEwtTXZTMUQxY0FjM0o4cVBBTlNCY3p3czZyampGNnpEdw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.23,
+        "weekAgoPrice": 1.4700000286102295,
+        "percentChange": -16.33,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.8600000143051147,
+        "percentChange": -22.04,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.2699999809265137,
+        "percentChange": -6.3,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 7.21,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-12T18:16:31.944124Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 226.55,
+        "weekAgoPrice": 238.89999389648438,
+        "percentChange": -5.17,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Why Are Nvidia, AMD and Intel Stocks Falling Today? AI Chip Selloff Deepens - Stocks Down Under",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwQjkyMXh0YndVRlJhS3FBSll4dVB4akV2TWoyclpKWEE3RXEzODUwYWxtczdwdV9PUFFLUnVfenNtSWpZWnlGRUMzbGJiVHpaOVA0WEVmQ3RzSHFOalAzWENZWFVJeW1QMWtPRDh2YnRKNkdGYzFfN2hR?oc=5"
+          },
+          {
+            "title": "NVDA Stock Falls to $225 as Microsoft Chip and Talks to Invest in Reflection AI Raise Debt Fears - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQi1kRFM2TlhPWllzeE9LeGdRNGF0V1VROGNqOEtCM2JraDB4N2xta1czaE1ZeE9MRzljZlpfaUdSTFdFV05vM0JodkZibGh1MktvcHBhdkR0VWRjZEVaeUN4QVFydzhVdFJmYmlsM3Vsb3RFS21qTHhvdmFDUGJYTEpuNVRFV1Eza0l5Qk9MVF82eEozb2N1dk02dGdSRVU5NElMd183SzNKQjlYSXF1amFXaWdyZWxQcXh1Y0xZVy1vdjlKUUxaNFNEdmhvcEw4TVRseA?oc=5"
+          },
+          {
+            "title": "AMD Vs. Nvidia: If You Can Only Own One to Finish 2026, It\u2019s This One - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVFaZWZDaFZUTGhVMkVnV0ZtRnZVcmptbHJxbUtzRjFWSEpvLTdoVnZsSUoyRGtWdU91a2t0VlU0czBtaEdueWwyYWF5U0NtWnlxWGJWc0JYc3BFVlhBMVppTzM1c2p5SlpjSTNnbDR4SF8zaHFOaVZZbmFfc1FXcEFtNk1TYjdYbEdOdmxBcHNLQVZocUpQYk1JZUNfcW1ZZ0NWajU3NWljdWN6amc?oc=5"
           }
         ]
       },

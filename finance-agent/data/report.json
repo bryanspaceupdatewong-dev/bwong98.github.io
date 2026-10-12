@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-12T17:16:17.944713Z",
+  "generatedAt": "2026-10-12T18:16:31.944124Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 540.08,
+      "currentPrice": 539.62,
       "weekAgoPrice": 525.1799926757812,
-      "percentChange": 2.84,
+      "percentChange": 2.75,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 226.45,
+      "currentPrice": 226.55,
       "weekAgoPrice": 238.89999389648438,
-      "percentChange": -5.21,
+      "percentChange": -5.17,
       "flagged": true,
       "news": [
+        {
+          "title": "Why Are Nvidia, AMD and Intel Stocks Falling Today? AI Chip Selloff Deepens - Stocks Down Under",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwQjkyMXh0YndVRlJhS3FBSll4dVB4akV2TWoyclpKWEE3RXEzODUwYWxtczdwdV9PUFFLUnVfenNtSWpZWnlGRUMzbGJiVHpaOVA0WEVmQ3RzSHFOalAzWENZWFVJeW1QMWtPRDh2YnRKNkdGYzFfN2hR?oc=5"
+        },
         {
           "title": "NVDA Stock Falls to $225 as Microsoft Chip and Talks to Invest in Reflection AI Raise Debt Fears - FXLeaders",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQi1kRFM2TlhPWllzeE9LeGdRNGF0V1VROGNqOEtCM2JraDB4N2xta1czaE1ZeE9MRzljZlpfaUdSTFdFV05vM0JodkZibGh1MktvcHBhdkR0VWRjZEVaeUN4QVFydzhVdFJmYmlsM3Vsb3RFS21qTHhvdmFDUGJYTEpuNVRFV1Eza0l5Qk9MVF82eEozb2N1dk02dGdSRVU5NElMd183SzNKQjlYSXF1amFXaWdyZWxQcXh1Y0xZVy1vdjlKUUxaNFNEdmhvcEw4TVRseA?oc=5"
         },
         {
-          "title": "Nvidia Falls Back From Record High. Its Stock Chart Offers a Warning. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ?oc=5"
-        },
-        {
-          "title": "NVIDIA teeters at $225 support with fading momentum: Live levels - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVZkYnJrNU5tZlRXdUxuREg0OUdGUjNkU2Z0c0NsazNaWDRicVNoMnE2TmxrZDBMY2VtejdOaUZoa3JXdWE3LWFKSHhLM2JQZk1NVVVCMlVUX1pWWHA1NmJNTXpOeXE2NEI3Y1RSY1FiVXFHWFBvc01oWWg0WTNYR1lTQmNlcGJ3aEx1MUMxbndIZ1BUanNGM2UtMWhsMUJsUEwtTXZTMUQxY0FjM0o4cVBBTlNCY3p3czZyampGNnpEdw?oc=5"
+          "title": "AMD Vs. Nvidia: If You Can Only Own One to Finish 2026, It\u2019s This One - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVFaZWZDaFZUTGhVMkVnV0ZtRnZVcmptbHJxbUtzRjFWSEpvLTdoVnZsSUoyRGtWdU91a2t0VlU0czBtaEdueWwyYWF5U0NtWnlxWGJWc0JYc3BFVlhBMVppTzM1c2p5SlpjSTNnbDR4SF8zaHFOaVZZbmFfc1FXcEFtNk1TYjdYbEdOdmxBcHNLQVZocUpQYk1JZUNfcW1ZZ0NWajU3NWljdWN6amc?oc=5"
         }
       ]
     },
