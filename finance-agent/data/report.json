@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-12T11:24:47.601528Z",
+  "generatedAt": "2026-10-12T15:18:00.567014Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 535.07,
-      "weekAgoPrice": 517.530029296875,
-      "percentChange": 3.39,
+      "currentPrice": 541.705,
+      "weekAgoPrice": 525.1799926757812,
+      "percentChange": 3.15,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 229.28,
-      "weekAgoPrice": 233.9499969482422,
-      "percentChange": -2.0,
-      "flagged": false,
-      "news": []
+      "currentPrice": 225.965,
+      "weekAgoPrice": 238.89999389648438,
+      "percentChange": -5.41,
+      "flagged": true,
+      "news": [
+        {
+          "title": "NVIDIA teeters at $225 support with fading momentum: Live levels - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVZkYnJrNU5tZlRXdUxuREg0OUdGUjNkU2Z0c0NsazNaWDRicVNoMnE2TmxrZDBMY2VtejdOaUZoa3JXdWE3LWFKSHhLM2JQZk1NVVVCMlVUX1pWWHA1NmJNTXpOeXE2NEI3Y1RSY1FiVXFHWFBvc01oWWg0WTNYR1lTQmNlcGJ3aEx1MUMxbndIZ1BUanNGM2UtMWhsMUJsUEwtTXZTMUQxY0FjM0o4cVBBTlNCY3p3czZyampGNnpEdw?oc=5"
+        },
+        {
+          "title": "Nvidia Stock Surges, But Technicals Warn of a Sharp Drop Ahead - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ?oc=5"
+        },
+        {
+          "title": "AI sets date when Nvidia stock will hit $10 trillion market cap - Finbold",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2RTVUJGOU9kdXE1aFZxVkJhM2hVRVlmNUpVYXdHdm5CdGpqRGtSb0pYRlRnUlhUZlN4SHF4TmxyRDlUU1Z4TVFNYy1rR2g0V0ZPeGYtcGFtdmMxeDA4b3pVOGtvNWFiOTJQZ2hLcUxkQUZhMm1NUXRRN3VTUEtudnVIYWc1bGNmODhuWmpR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
@@ -92,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 5
 }

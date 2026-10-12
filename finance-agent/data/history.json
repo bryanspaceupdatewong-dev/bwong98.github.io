@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-08T14:17:50.529056Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.205,
-        "weekAgoPrice": 0.19499999284744263,
-        "percentChange": 5.13,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.16,
-        "weekAgoPrice": 1.090000033378601,
-        "percentChange": 6.42,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-08T15:17:01.160809Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -985,6 +963,65 @@
     "generatedAt": "2026-10-12T11:24:47.601528Z",
     "thresholdPercent": 5.0,
     "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.23,
+        "weekAgoPrice": 1.4700000286102295,
+        "percentChange": -16.33,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.8600000143051147,
+        "percentChange": -22.04,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.2599999904632568,
+        "percentChange": -5.56,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 7.21,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-12T15:18:00.567014Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.965,
+        "weekAgoPrice": 238.89999389648438,
+        "percentChange": -5.41,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA teeters at $225 support with fading momentum: Live levels - Investing.com",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVZkYnJrNU5tZlRXdUxuREg0OUdGUjNkU2Z0c0NsazNaWDRicVNoMnE2TmxrZDBMY2VtejdOaUZoa3JXdWE3LWFKSHhLM2JQZk1NVVVCMlVUX1pWWHA1NmJNTXpOeXE2NEI3Y1RSY1FiVXFHWFBvc01oWWg0WTNYR1lTQmNlcGJ3aEx1MUMxbndIZ1BUanNGM2UtMWhsMUJsUEwtTXZTMUQxY0FjM0o4cVBBTlNCY3p3czZyampGNnpEdw?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Surges, But Technicals Warn of a Sharp Drop Ahead - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ?oc=5"
+          },
+          {
+            "title": "AI sets date when Nvidia stock will hit $10 trillion market cap - Finbold",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2RTVUJGOU9kdXE1aFZxVkJhM2hVRVlmNUpVYXdHdm5CdGpqRGtSb0pYRlRnUlhUZlN4SHF4TmxyRDlUU1Z4TVFNYy1rR2g0V0ZPeGYtcGFtdmMxeDA4b3pVOGtvNWFiOTJQZ2hLcUxkQUZhMm1NUXRRN3VTUEtudnVIYWc1bGNmODhuWmpR?oc=5"
+          }
+        ]
+      },
       {
         "ticker": "4715.KL",
         "currentPrice": 1.23,
