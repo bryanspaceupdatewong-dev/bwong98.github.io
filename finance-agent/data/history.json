@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-08T16:16:35.916638Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.205,
-        "weekAgoPrice": 0.19499999284744263,
-        "percentChange": 5.13,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-08T17:16:04.170554Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1052,6 +1038,65 @@
           {
             "title": "Steve Eisman Warns S&P 500 Is One Giant AI Bet: 'I Own NVDA and I Worry' - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ1JDdFpHZC1qSVJEMVpteGVQOHE3Mmo3dVFMZlNpeWNjdDhkN2ZVaVY3Y003VGVHaFpkdWt0WEItM2NHOHQwR1VCOGt0eUEtUzl6UE1YNVZYbHg1WlpOR0NJaEwyVENMZG9BSHd2clFmMVdYRGR5RUx0X0E3TlZaeFdiTEdFQnRadzZtSUsxY3lweU0?oc=5"
+          },
+          {
+            "title": "NVIDIA teeters at $225 support with fading momentum: Live levels - Investing.com",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVZkYnJrNU5tZlRXdUxuREg0OUdGUjNkU2Z0c0NsazNaWDRicVNoMnE2TmxrZDBMY2VtejdOaUZoa3JXdWE3LWFKSHhLM2JQZk1NVVVCMlVUX1pWWHA1NmJNTXpOeXE2NEI3Y1RSY1FiVXFHWFBvc01oWWg0WTNYR1lTQmNlcGJ3aEx1MUMxbndIZ1BUanNGM2UtMWhsMUJsUEwtTXZTMUQxY0FjM0o4cVBBTlNCY3p3czZyampGNnpEdw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.23,
+        "weekAgoPrice": 1.4700000286102295,
+        "percentChange": -16.33,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.8600000143051147,
+        "percentChange": -22.04,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.2699999809265137,
+        "percentChange": -6.3,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 7.21,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-12T17:16:17.944713Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 226.45,
+        "weekAgoPrice": 238.89999389648438,
+        "percentChange": -5.21,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Falls to $225 as Microsoft Chip and Talks to Invest in Reflection AI Raise Debt Fears - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQi1kRFM2TlhPWllzeE9LeGdRNGF0V1VROGNqOEtCM2JraDB4N2xta1czaE1ZeE9MRzljZlpfaUdSTFdFV05vM0JodkZibGh1MktvcHBhdkR0VWRjZEVaeUN4QVFydzhVdFJmYmlsM3Vsb3RFS21qTHhvdmFDUGJYTEpuNVRFV1Eza0l5Qk9MVF82eEozb2N1dk02dGdSRVU5NElMd183SzNKQjlYSXF1amFXaWdyZWxQcXh1Y0xZVy1vdjlKUUxaNFNEdmhvcEw4TVRseA?oc=5"
+          },
+          {
+            "title": "Nvidia Falls Back From Record High. Its Stock Chart Offers a Warning. - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ?oc=5"
           },
           {
             "title": "NVIDIA teeters at $225 support with fading momentum: Live levels - Investing.com",
