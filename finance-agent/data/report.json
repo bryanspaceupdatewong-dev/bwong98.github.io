@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-10-12T15:18:00.567014Z",
+  "generatedAt": "2026-10-12T16:16:42.047349Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 541.705,
+      "currentPrice": 541.768,
       "weekAgoPrice": 525.1799926757812,
-      "percentChange": 3.15,
+      "percentChange": 3.16,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 225.965,
+      "currentPrice": 226.698,
       "weekAgoPrice": 238.89999389648438,
-      "percentChange": -5.41,
+      "percentChange": -5.11,
       "flagged": true,
       "news": [
         {
-          "title": "NVIDIA teeters at $225 support with fading momentum: Live levels - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVZkYnJrNU5tZlRXdUxuREg0OUdGUjNkU2Z0c0NsazNaWDRicVNoMnE2TmxrZDBMY2VtejdOaUZoa3JXdWE3LWFKSHhLM2JQZk1NVVVCMlVUX1pWWHA1NmJNTXpOeXE2NEI3Y1RSY1FiVXFHWFBvc01oWWg0WTNYR1lTQmNlcGJ3aEx1MUMxbndIZ1BUanNGM2UtMWhsMUJsUEwtTXZTMUQxY0FjM0o4cVBBTlNCY3p3czZyampGNnpEdw?oc=5"
-        },
-        {
-          "title": "Nvidia Stock Surges, But Technicals Warn of a Sharp Drop Ahead - Barron's",
+          "title": "Nvidia Stock Falls and Technicals Warn of a Sharper Drop Ahead - Barron's",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ?oc=5"
         },
         {
-          "title": "AI sets date when Nvidia stock will hit $10 trillion market cap - Finbold",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2RTVUJGOU9kdXE1aFZxVkJhM2hVRVlmNUpVYXdHdm5CdGpqRGtSb0pYRlRnUlhUZlN4SHF4TmxyRDlUU1Z4TVFNYy1rR2g0V0ZPeGYtcGFtdmMxeDA4b3pVOGtvNWFiOTJQZ2hLcUxkQUZhMm1NUXRRN3VTUEtudnVIYWc1bGNmODhuWmpR?oc=5"
+          "title": "Steve Eisman Warns S&P 500 Is One Giant AI Bet: 'I Own NVDA and I Worry' - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ1JDdFpHZC1qSVJEMVpteGVQOHE3Mmo3dVFMZlNpeWNjdDhkN2ZVaVY3Y003VGVHaFpkdWt0WEItM2NHOHQwR1VCOGt0eUEtUzl6UE1YNVZYbHg1WlpOR0NJaEwyVENMZG9BSHd2clFmMVdYRGR5RUx0X0E3TlZaeFdiTEdFQnRadzZtSUsxY3lweU0?oc=5"
+        },
+        {
+          "title": "NVIDIA teeters at $225 support with fading momentum: Live levels - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVZkYnJrNU5tZlRXdUxuREg0OUdGUjNkU2Z0c0NsazNaWDRicVNoMnE2TmxrZDBMY2VtejdOaUZoa3JXdWE3LWFKSHhLM2JQZk1NVVVCMlVUX1pWWHA1NmJNTXpOeXE2NEI3Y1RSY1FiVXFHWFBvc01oWWg0WTNYR1lTQmNlcGJ3aEx1MUMxbndIZ1BUanNGM2UtMWhsMUJsUEwtTXZTMUQxY0FjM0o4cVBBTlNCY3p3czZyampGNnpEdw?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.66,
-      "weekAgoPrice": 4.710000038146973,
-      "percentChange": -1.06,
+      "weekAgoPrice": 4.659999847412109,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.19,
-      "weekAgoPrice": 7.460000038146973,
-      "percentChange": -3.62,
+      "weekAgoPrice": 7.429999828338623,
+      "percentChange": -3.23,
       "flagged": false,
       "news": []
     },
@@ -67,16 +67,16 @@
     {
       "ticker": "5271.KL",
       "currentPrice": 1.37,
-      "weekAgoPrice": 1.3700000047683716,
-      "percentChange": -0.0,
+      "weekAgoPrice": 1.399999976158142,
+      "percentChange": -2.14,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.19,
-      "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -5.56,
+      "weekAgoPrice": 1.2699999809265137,
+      "percentChange": -6.3,
       "flagged": true,
       "news": []
     },
@@ -99,8 +99,8 @@
     {
       "ticker": "5341.KL",
       "currentPrice": 0.69,
-      "weekAgoPrice": 0.675000011920929,
-      "percentChange": 2.22,
+      "weekAgoPrice": 0.7099999785423279,
+      "percentChange": -2.82,
       "flagged": false,
       "news": []
     }
