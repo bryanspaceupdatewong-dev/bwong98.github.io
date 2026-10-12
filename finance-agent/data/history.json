@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-08T19:15:52.907318Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.205,
-        "weekAgoPrice": 0.19499999284744263,
-        "percentChange": 5.13,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.16,
-        "weekAgoPrice": 1.090000033378601,
-        "percentChange": 6.42,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-08T20:16:44.394658Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1191,6 +1169,65 @@
           {
             "title": "AMD Vs. Nvidia: If You Can Only Own One to Finish 2026, It\u2019s This One - 24/7 Wall St.",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVFaZWZDaFZUTGhVMkVnV0ZtRnZVcmptbHJxbUtzRjFWSEpvLTdoVnZsSUoyRGtWdU91a2t0VlU0czBtaEdueWwyYWF5U0NtWnlxWGJWc0JYc3BFVlhBMVppTzM1c2p5SlpjSTNnbDR4SF8zaHFOaVZZbmFfc1FXcEFtNk1TYjdYbEdOdmxBcHNLQVZocUpQYk1JZUNfcW1ZZ0NWajU3NWljdWN6amc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.23,
+        "weekAgoPrice": 1.4700000286102295,
+        "percentChange": -16.33,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.8600000143051147,
+        "percentChange": -22.04,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.2699999809265137,
+        "percentChange": -6.3,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 7.21,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-12T20:16:54.940470Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 226.32,
+        "weekAgoPrice": 238.89999389648438,
+        "percentChange": -5.27,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Falls to $225 as Microsoft Chip and Investment in Reflection AI Raise Debt Concerns - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFJtRzRMbU03dTFuNlNnMGoxU1ZuQm03di01THhRWjNwWGJGUml6SGh3OGtrc2EycEdrVHdRck93clM1VkgtQUk2bTBMQllZMEF0TTVBdDlwWUlBMU92RjF2SkJ3Q1V3UzdYeGhqUWhISWdRbnd6cFd1R2J1cU01S1ltallFMHR1TXBOS0FNZjNKbTJzaWx5Z2wyR2ZwRUZINmlhYjF2UU94cUNCb21LdHZTUllVOWctLXZjZFl0MjdJTE5hTGs1UDJ1YUtMam1KMGc?oc=5"
+          },
+          {
+            "title": "Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnBXbzZNNjl2alg4RnNpb0VtS3pRQjdNWmdmeEpLc0RPODdqa0t5aWl0YUhpVUhtcWJaQ0ZsUWZVT056d3YzT1B6aVlsLTlCTlhraWN0eEtuSUpIcHZTbzBhNkNxUGZXMFYwTk1UVVA2OG0wWE1YbVBwZjJLR2U3ZVRkYlViRG5GNDJrQkVTN3lNeV9kVWVJ?oc=5"
+          },
+          {
+            "title": "This Private AI Chip Startup Has Crushed NVIDIA's Stock Gains With 3.6X Returns - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLTZENXlyeDZ1WHlmczh2SmVsVzYyQTNnNTJXYVNwRlZVbHFBX3c2LTJRRk5WWTRFX0FLZVFoY0ZtWDA5MTZyWU5rc0FuV3BtZUtSX05BeVhweTJGdXM2VjFLWGU2OFg2N2xUby1QMmFjLWN5ZHdVd05XYUwxVWNZN1g2cjM1X1d1WGlYcC1DQ2xSd2Q4TDB6QXg4R0lsT2ZyTGlNZ3p0Z0pnYzYtODJFUmkwV1NtdVV4TFB0ajJXbVU5dmMyelFmT2Y5bEpFMy1hUzJaN1Z3UG9pQQ?oc=5"
           }
         ]
       },

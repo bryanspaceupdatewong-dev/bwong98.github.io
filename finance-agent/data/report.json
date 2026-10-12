@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-12T19:16:43.300941Z",
+  "generatedAt": "2026-10-12T20:16:54.940470Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 540.21,
+      "currentPrice": 541.15,
       "weekAgoPrice": 525.1799926757812,
-      "percentChange": 2.86,
+      "percentChange": 3.04,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 226.405,
+      "currentPrice": 226.32,
       "weekAgoPrice": 238.89999389648438,
-      "percentChange": -5.23,
+      "percentChange": -5.27,
       "flagged": true,
       "news": [
         {
-          "title": "NVDA Stock Falls to $225 as Microsoft Chip and Talks to Invest in Reflection AI Raise Debt Concerns - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUW93M2xqckdrUXFJV1lIdUNRNjY0UlQyVlBtQk9iYUd4bjRXUGhxaW1ZWGI5eEtiSkU1THU1amE1aHZQRFdXY3JzbTRKVFpXUFlyMjJHd25HcFVIZjRFR094cUpjSUxFRTNfZ3d6cG4xdmt5UGhwZlFrc0F3a2Jpdnp3eHlwVjZrdTR2U0hqODFlRTE5ZUZtY2ZzTENucGUzaVJqbUhsRURMSXRIRFhJTlRNLTZ0aGlMblhyV2ROR201WE1CdjV0YS1ubkRwbnR1ZGVvUkV2ZU0?oc=5"
+          "title": "NVDA Stock Falls to $225 as Microsoft Chip and Investment in Reflection AI Raise Debt Concerns - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFJtRzRMbU03dTFuNlNnMGoxU1ZuQm03di01THhRWjNwWGJGUml6SGh3OGtrc2EycEdrVHdRck93clM1VkgtQUk2bTBMQllZMEF0TTVBdDlwWUlBMU92RjF2SkJ3Q1V3UzdYeGhqUWhISWdRbnd6cFd1R2J1cU01S1ltallFMHR1TXBOS0FNZjNKbTJzaWx5Z2wyR2ZwRUZINmlhYjF2UU94cUNCb21LdHZTUllVOWctLXZjZFl0MjdJTE5hTGs1UDJ1YUtMam1KMGc?oc=5"
         },
         {
-          "title": "Why Are Nvidia, AMD and Intel Stocks Falling Today? AI Chip Selloff Deepens - Stocks Down Under",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwQjkyMXh0YndVRlJhS3FBSll4dVB4akV2TWoyclpKWEE3RXEzODUwYWxtczdwdV9PUFFLUnVfenNtSWpZWnlGRUMzbGJiVHpaOVA0WEVmQ3RzSHFOalAzWENZWFVJeW1QMWtPRDh2YnRKNkdGYzFfN2hR?oc=5"
+          "title": "Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnBXbzZNNjl2alg4RnNpb0VtS3pRQjdNWmdmeEpLc0RPODdqa0t5aWl0YUhpVUhtcWJaQ0ZsUWZVT056d3YzT1B6aVlsLTlCTlhraWN0eEtuSUpIcHZTbzBhNkNxUGZXMFYwTk1UVVA2OG0wWE1YbVBwZjJLR2U3ZVRkYlViRG5GNDJrQkVTN3lNeV9kVWVJ?oc=5"
         },
         {
-          "title": "AMD Vs. Nvidia: If You Can Only Own One to Finish 2026, It\u2019s This One - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVFaZWZDaFZUTGhVMkVnV0ZtRnZVcmptbHJxbUtzRjFWSEpvLTdoVnZsSUoyRGtWdU91a2t0VlU0czBtaEdueWwyYWF5U0NtWnlxWGJWc0JYc3BFVlhBMVppTzM1c2p5SlpjSTNnbDR4SF8zaHFOaVZZbmFfc1FXcEFtNk1TYjdYbEdOdmxBcHNLQVZocUpQYk1JZUNfcW1ZZ0NWajU3NWljdWN6amc?oc=5"
+          "title": "This Private AI Chip Startup Has Crushed NVIDIA's Stock Gains With 3.6X Returns - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLTZENXlyeDZ1WHlmczh2SmVsVzYyQTNnNTJXYVNwRlZVbHFBX3c2LTJRRk5WWTRFX0FLZVFoY0ZtWDA5MTZyWU5rc0FuV3BtZUtSX05BeVhweTJGdXM2VjFLWGU2OFg2N2xUby1QMmFjLWN5ZHdVd05XYUwxVWNZN1g2cjM1X1d1WGlYcC1DQ2xSd2Q4TDB6QXg4R0lsT2ZyTGlNZ3p0Z0pnYzYtODJFUmkwV1NtdVV4TFB0ajJXbVU5dmMyelFmT2Y5bEpFMy1hUzJaN1Z3UG9pQQ?oc=5"
         }
       ]
     },
