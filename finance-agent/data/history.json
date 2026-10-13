@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-09T06:24:05.459965Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 10.81,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-09T07:19:59.356658Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1718,6 +1704,65 @@
         "currentPrice": 1.21,
         "weekAgoPrice": 1.1100000143051147,
         "percentChange": 9.01,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-13T07:19:33.380649Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 226.32,
+        "weekAgoPrice": 238.89999389648438,
+        "percentChange": -5.27,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Coastal Bridge Advisors LLC Buys 5,088 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ2dua3dlaGFHdU9aenRWaFhhTHJhY1V4Ym40MlpEZzdtRUFuLU5GOU9ycFNXelpGalFpZ2tsSjVISGlYTmxLcFNCUWJzLWlCcGo5RUh1NkhlWDVMUTN1dGNpMjZxTGhRNnZqVkVlTjFtV0xpODVXelNmVTduaHgxMk9acU1qemllUWM1UEo2V2hPdDB2U0pWYjh5RXZnV0plNVFxTTFrakhXU2NlRmZVSnZjWENvRnlSSGNlVWMwUk9WckZpMVoxa0JOaDM?oc=5"
+          },
+          {
+            "title": "NVTS Stock Rises Overnight: Navitas Unveils 24 kW Nvidia AI Power Board Targeting 97% Efficiency - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa0E5ODFfR0dVQ0todG1XTEF1Yi1xazljM3VtMDVxOFBTOWpEYUdVcDgzVnYxTFB5SUkwY2lHQkQ1MTdvRlQ4dGIwUURtSTJMdjBaRUdrM3ZpcE1XYU5aYzVmZG9SdVpQYjFmLW9SOHNoS29NUDRwTjlPeGFScUo5OER0eklRMjhpcGNxSkJ3Tl9laG5BNEdIMUJ2SXpmSFIxSkhPU3JaT1N3LWpLaU1NSHlyV0tIeHJjZFo2VVN2UlhjcjgwVkxJTlpwOGFENmgwMDl6QnVEc3FxNmc?oc=5"
+          },
+          {
+            "title": "NVTS Stock Rises Overnight: Navitas Unveils 24 kW Nvidia AI Power Board Targeting 97% Efficiency - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOUxZWTl3XzVaWklTbjNyZnhGbVc4aDBIaDNMMnZCNldaelpoV0VqdlVuN29FdVU3bWJDOUdGNGFDNkszS2xGSEdsdWJ1dUFvblUyVERUSlFib3d1b183ZlpFVzg2M0V4SFZwa2tQQTFxRjU2azRHejNoaUFiMF9fRnJZcnYzTmxRdUlxcUdVOHIyb2M0VURneHN6OGxMd1d1YU1peUhSSklrZ3pHaU5jdFRkSjZ0b0dsSDVOcFZvUjUxM3FJZWJWMWM3UU80dU1UV3I4T0xBYURwOXp5SVctc1JFMHVnb2M4Q0pB?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.4700000286102295,
+        "percentChange": -12.93,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.46,
+        "weekAgoPrice": 1.8600000143051147,
+        "percentChange": -21.51,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.20000000298023224,
+        "percentChange": 7.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 8.11,
         "flagged": true,
         "news": []
       }
