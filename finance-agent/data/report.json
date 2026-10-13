@@ -1,23 +1,27 @@
 {
-  "generatedAt": "2026-10-13T15:17:00.748865Z",
+  "generatedAt": "2026-10-13T16:18:17.842686Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 547.665,
+      "currentPrice": 545.865,
       "weekAgoPrice": 529.2999877929688,
-      "percentChange": 3.47,
+      "percentChange": 3.13,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 224.85,
+      "currentPrice": 226.061,
       "weekAgoPrice": 239.24000549316406,
-      "percentChange": -6.01,
+      "percentChange": -5.51,
       "flagged": true,
       "news": [
+        {
+          "title": "Why Did 113.9M Nvidia (NASDAQ:NVDA) Shares Trade in a Chip Rout? - kalkine.ca",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXM1UkI2RW5ZeGgtaXdVSi1wMU1OeGFITGR2cTdoc3dfdlBhTUtSUUZYY2EwbG4wU3dWRjBHbHpVSFdpa1FxSTcxUHB6OGVQQlZaMjNYaUtVaVZYU2RmaThiN2xQWU1ZeDNpVU9FX0VvbFdmQ1MxaFVHMC14cTdQNE1pR21vcnVnM0R5X01ocV81TzBULV9GeU5tY1Bxbjlna2NDSVZvTUhVQTQ?oc=5"
+        },
         {
           "title": "Nvidia Stock Falls as China AI-Chip Share Drops to 34% and Huawe - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWF9wZzZpV203OTB3ekdyZDQyaUc3REtiRWo4WG05ZWZ2d2UzbnNLNHJMdjN3QWRzcktMZDlScXQ5ejluSk9odHJYbDRNcS1oaXVHUDdGcEZlZzBqTGhJR3RrUGdkQkRUb3FBTjl3b2YxWHhPMXJ6X0Y5SDI0SGFLNlNMYy1OdXYxQVFCVUtHWTl3T3NYYmtfaEFjc04xNC1rRFhKaVU5Nzl6X3hv?oc=5"
@@ -25,26 +29,22 @@
         {
           "title": "Nvidia Stock Slips. How Broadcom and Microsoft Are Shaking the Chip Sector. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXVla2g5SlhMWnc4QkQ4LUl3U2ZvU09mcXVQQXFORlQ4Mk55VXFKNG9UVkFiYzI1TVhZbGVnMUtxc1BBM0pfVnQzU1B3ZkJTQlctMDZweG1FSUczWnp1NTlGd0p4aFk1SWZ5c0JCbzV1RXdJN0xzejZIZEx6RlN0ZlJ2cktzdXNCcGY2eDhB?oc=5"
-        },
-        {
-          "title": "Nvidia (NVDA) Was Among Claude AI\u2019s Top Picks This Year. Can The Stock Keep Rising? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelBUb2tTdXZWdUdLeGQ3MF9HVnhNMGg5bkFKWXJ0Nm9aX1B4T2JzalJpbEJOSEZBM1RUQTc3dk82dkpRZTJVM3ZPeGZCQm5WSUJ4NlpRbTExRDEwOXBRNTdrUGU4Q3h2bm8yb3hSX2dMSW1GRzFnbjJFZzlrNHpMZkdTYzc3R19tWFRJbDBYMmRvVVFTWjkw?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.7,
-      "weekAgoPrice": 4.710000038146973,
-      "percentChange": -0.21,
+      "weekAgoPrice": 4.659999847412109,
+      "percentChange": 0.86,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.3,
-      "weekAgoPrice": 7.460000038146973,
-      "percentChange": -2.14,
+      "weekAgoPrice": 7.429999828338623,
+      "percentChange": -1.75,
       "flagged": false,
       "news": []
     },
@@ -67,16 +67,16 @@
     {
       "ticker": "5271.KL",
       "currentPrice": 1.39,
-      "weekAgoPrice": 1.3700000047683716,
-      "percentChange": 1.46,
+      "weekAgoPrice": 1.399999976158142,
+      "percentChange": -0.71,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.23,
-      "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -2.38,
+      "weekAgoPrice": 1.2699999809265137,
+      "percentChange": -3.15,
       "flagged": false,
       "news": []
     },
@@ -99,8 +99,8 @@
     {
       "ticker": "5341.KL",
       "currentPrice": 0.69,
-      "weekAgoPrice": 0.675000011920929,
-      "percentChange": 2.22,
+      "weekAgoPrice": 0.7099999785423279,
+      "percentChange": -2.82,
       "flagged": false,
       "news": []
     }
