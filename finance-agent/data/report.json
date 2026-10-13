@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:19:33.380649Z",
+  "generatedAt": "2026-10-13T08:17:02.241440Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,40 +19,40 @@
       "flagged": true,
       "news": [
         {
-          "title": "Coastal Bridge Advisors LLC Buys 5,088 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ2dua3dlaGFHdU9aenRWaFhhTHJhY1V4Ym40MlpEZzdtRUFuLU5GOU9ycFNXelpGalFpZ2tsSjVISGlYTmxLcFNCUWJzLWlCcGo5RUh1NkhlWDVMUTN1dGNpMjZxTGhRNnZqVkVlTjFtV0xpODVXelNmVTduaHgxMk9acU1qemllUWM1UEo2V2hPdDB2U0pWYjh5RXZnV0plNVFxTTFrakhXU2NlRmZVSnZjWENvRnlSSGNlVWMwUk9WckZpMVoxa0JOaDM?oc=5"
+          "title": "Momentum Weakens, NVDA Stock Drops 1.29%: What to Know - JournalArta",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTTU1dklPTVZmQjdVdEhsX014aU5zVjJPRXZrNUloa29KRXNac2p6Rk8tWVA2bk1uZlV3SHBQczhvUkRWQkItdUxZRmVHVjVOeWVsWjEzV21kRm5KZGx5ZFU0V3EzWE93cEtTU1JzS0hDck1Vc2lQdzBaUjBwRU0ybGpMcFY0czNaYzhzb3FRREE?oc=5"
         },
         {
-          "title": "NVTS Stock Rises Overnight: Navitas Unveils 24 kW Nvidia AI Power Board Targeting 97% Efficiency - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa0E5ODFfR0dVQ0todG1XTEF1Yi1xazljM3VtMDVxOFBTOWpEYUdVcDgzVnYxTFB5SUkwY2lHQkQ1MTdvRlQ4dGIwUURtSTJMdjBaRUdrM3ZpcE1XYU5aYzVmZG9SdVpQYjFmLW9SOHNoS29NUDRwTjlPeGFScUo5OER0eklRMjhpcGNxSkJ3Tl9laG5BNEdIMUJ2SXpmSFIxSkhPU3JaT1N3LWpLaU1NSHlyV0tIeHJjZFo2VVN2UlhjcjgwVkxJTlpwOGFENmgwMDl6QnVEc3FxNmc?oc=5"
+          "title": "NVIDIA Corporation $NVDA Stock Sold by Parkwood LLC - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRTltY3hUUm1uNHRXRlAwQ0tERXdnWmFPYTJ0VUhjczh5Q29UeTRxUHpjMlVBU3ZPODczNndFZlQxMUtLQ3VLSVIwVkdEMzU1WDFBYzdhU3FFeF9ZbVpwMXhWTlhJUFVERXc4dUdZXzU2TUxRTDNOZGdNdmVJODZpdUhtcEV4WFBQc0hsOVZpV0NZZ1kxcVBEN1I0WVpPdldIVzBsWUZfTlVDVmxta0E4Sg?oc=5"
         },
         {
-          "title": "NVTS Stock Rises Overnight: Navitas Unveils 24 kW Nvidia AI Power Board Targeting 97% Efficiency - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOUxZWTl3XzVaWklTbjNyZnhGbVc4aDBIaDNMMnZCNldaelpoV0VqdlVuN29FdVU3bWJDOUdGNGFDNkszS2xGSEdsdWJ1dUFvblUyVERUSlFib3d1b183ZlpFVzg2M0V4SFZwa2tQQTFxRjU2azRHejNoaUFiMF9fRnJZcnYzTmxRdUlxcUdVOHIyb2M0VURneHN6OGxMd1d1YU1peUhSSklrZ3pHaU5jdFRkSjZ0b0dsSDVOcFZvUjUxM3FJZWJWMWM3UU80dU1UV3I4T0xBYURwOXp5SVctc1JFMHVnb2M4Q0pB?oc=5"
+          "title": "NVIDIA Corporation $NVDA Stock: Ma Investment Partnership LP Boosts Holdings - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcXktclJybUdrN0NQSzBCRUYzYUVObzIyZDRYMXRjTWtrbllRMEgzM2pZNEZXWjhHLTBicWh4UzBWN21PRDVsRFVXdXJMNmdaWWFpWHZ3RlZ4SGFmMlFSbUY5T0xpdExvOUZrdEY2YTRjamY1TmtjME5nMURadjNaRm5ZLXU4LTRiVzFDaEM2RGxqNHdRSHJSbW5vS2NpMWFWY0RnOFc2X1NqVXhFT19GRW5nTkVjNEgxY3BhdnM3V3U4Wkd6cloyS2lYVFVtNXpK?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.72,
+      "currentPrice": 4.71,
       "weekAgoPrice": 4.710000038146973,
-      "percentChange": 0.21,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.34,
+      "currentPrice": 7.32,
       "weekAgoPrice": 7.460000038146973,
-      "percentChange": -1.61,
+      "percentChange": -1.88,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.28,
+      "currentPrice": 1.27,
       "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -12.93,
+      "percentChange": -13.61,
       "flagged": true,
       "news": []
     },
@@ -74,18 +74,18 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.23,
+      "currentPrice": 1.21,
       "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -2.38,
+      "percentChange": -3.97,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.215,
+      "currentPrice": 0.21,
       "weekAgoPrice": 0.20000000298023224,
-      "percentChange": 7.5,
-      "flagged": true,
+      "percentChange": 5.0,
+      "flagged": false,
       "news": []
     },
     {
@@ -105,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 4
 }
