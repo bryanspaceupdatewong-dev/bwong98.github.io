@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-09T13:25:54.116939Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.24,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 11.71,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-09T14:11:25.519004Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1961,6 +1947,57 @@
           {
             "title": "U.S. Export Restrictions Drive Nvidia China AI Chip Market Share Down to 34% - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQUpNWndGWWhqc3pMbkV0SEFkb3N4REVSQmpRZEsxdHlZZTIwVktsLXBjSTBxWDlrSjhNalJmakRzdFlmQm9TQlhhMXVWSjZ6UHNlY2RybldidkRaZHBKNk5NY3ZIUzdYcTVyZ2hpb3loaEkyUldsX2Nsb0xkWk43d3NwVWZkelMxMDRnUUpQaDNyUkxFUGFXY3VHeGFkeUU?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.25,
+        "weekAgoPrice": 1.4700000286102295,
+        "percentChange": -14.97,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.44,
+        "weekAgoPrice": 1.8600000143051147,
+        "percentChange": -22.58,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 8.11,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-13T14:19:12.890164Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 225.78,
+        "weekAgoPrice": 239.24000549316406,
+        "percentChange": -5.63,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia (NVDA) Was Among Claude AI\u2019s Top Picks This Year. Can The Stock Keep Rising? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelBUb2tTdXZWdUdLeGQ3MF9HVnhNMGg5bkFKWXJ0Nm9aX1B4T2JzalJpbEJOSEZBM1RUQTc3dk82dkpRZTJVM3ZPeGZCQm5WSUJ4NlpRbTExRDEwOXBRNTdrUGU4Q3h2bm8yb3hSX2dMSW1GRzFnbjJFZzlrNHpMZkdTYzc3R19tWFRJbDBYMmRvVVFTWjkw?oc=5"
+          },
+          {
+            "title": "Nvidia: The Share Price Already Assumes No China Data Center Sales (NASDAQ:NVDA) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXpVZ1JyZ1ZHeGhlMzNsRWFIZTY0bDhUenlJWHdKOVUxTV9EOFRHSVkwUEFhbDIxODN0QjllYVdJYmxHUS1Rb0t6TlE5RThfSmtVSVBudGdDYkpFckdZV296NUE2WElTN085RllnbXo3SDlXaVpDbzdxUkx2dFBLMGZOQThWVHZHOVhqR2hWdUhrR0dPVlM0ZVNLdTRuVkZjclYzc2tlUmNuZw?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Price Forecast: NVDA Falls for Five Straight Days, Where Is the Next Line of Defense? - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaV90S1pMRlEyOFAwQTd3VFFTQjRyb01qRk9WbHVPUnM5YW1FRlZVTVQ0cHI1Sm0yX0lNZlZsRjNWWVBJNEx4TlVDMS12Xzg1ckxOTUVsbHQyZ0N1QzEwV1pwNWVJdk5aWUxmUFZXTzJKZm1UaUY4cEc1RTB0WWJDejU1ckpGUVltVkRfWkdVTkVuZUprMlBVZEQ1X0tELWpUYm9heTNaanA2czJsNXE3U0J2MW0wQXJHMmZtRjJyaVJiQmpNcno0VGswaw?oc=5"
           }
         ]
       },
