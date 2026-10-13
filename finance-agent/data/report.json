@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-13T14:19:12.890164Z",
+  "generatedAt": "2026-10-13T15:17:00.748865Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 548.675,
+      "currentPrice": 547.665,
       "weekAgoPrice": 529.2999877929688,
-      "percentChange": 3.66,
+      "percentChange": 3.47,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 225.78,
+      "currentPrice": 224.85,
       "weekAgoPrice": 239.24000549316406,
-      "percentChange": -5.63,
+      "percentChange": -6.01,
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia Stock Falls as China AI-Chip Share Drops to 34% and Huawe - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWF9wZzZpV203OTB3ekdyZDQyaUc3REtiRWo4WG05ZWZ2d2UzbnNLNHJMdjN3QWRzcktMZDlScXQ5ejluSk9odHJYbDRNcS1oaXVHUDdGcEZlZzBqTGhJR3RrUGdkQkRUb3FBTjl3b2YxWHhPMXJ6X0Y5SDI0SGFLNlNMYy1OdXYxQVFCVUtHWTl3T3NYYmtfaEFjc04xNC1rRFhKaVU5Nzl6X3hv?oc=5"
+        },
+        {
+          "title": "Nvidia Stock Slips. How Broadcom and Microsoft Are Shaking the Chip Sector. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXVla2g5SlhMWnc4QkQ4LUl3U2ZvU09mcXVQQXFORlQ4Mk55VXFKNG9UVkFiYzI1TVhZbGVnMUtxc1BBM0pfVnQzU1B3ZkJTQlctMDZweG1FSUczWnp1NTlGd0p4aFk1SWZ5c0JCbzV1RXdJN0xzejZIZEx6RlN0ZlJ2cktzdXNCcGY2eDhB?oc=5"
+        },
+        {
           "title": "Nvidia (NVDA) Was Among Claude AI\u2019s Top Picks This Year. Can The Stock Keep Rising? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelBUb2tTdXZWdUdLeGQ3MF9HVnhNMGg5bkFKWXJ0Nm9aX1B4T2JzalJpbEJOSEZBM1RUQTc3dk82dkpRZTJVM3ZPeGZCQm5WSUJ4NlpRbTExRDEwOXBRNTdrUGU4Q3h2bm8yb3hSX2dMSW1GRzFnbjJFZzlrNHpMZkdTYzc3R19tWFRJbDBYMmRvVVFTWjkw?oc=5"
-        },
-        {
-          "title": "Nvidia: The Share Price Already Assumes No China Data Center Sales (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXpVZ1JyZ1ZHeGhlMzNsRWFIZTY0bDhUenlJWHdKOVUxTV9EOFRHSVkwUEFhbDIxODN0QjllYVdJYmxHUS1Rb0t6TlE5RThfSmtVSVBudGdDYkpFckdZV296NUE2WElTN085RllnbXo3SDlXaVpDbzdxUkx2dFBLMGZOQThWVHZHOVhqR2hWdUhrR0dPVlM0ZVNLdTRuVkZjclYzc2tlUmNuZw?oc=5"
-        },
-        {
-          "title": "Nvidia Stock Price Forecast: NVDA Falls for Five Straight Days, Where Is the Next Line of Defense? - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaV90S1pMRlEyOFAwQTd3VFFTQjRyb01qRk9WbHVPUnM5YW1FRlZVTVQ0cHI1Sm0yX0lNZlZsRjNWWVBJNEx4TlVDMS12Xzg1ckxOTUVsbHQyZ0N1QzEwV1pwNWVJdk5aWUxmUFZXTzJKZm1UaUY4cEc1RTB0WWJDejU1ckpGUVltVkRfWkdVTkVuZUprMlBVZEQ1X0tELWpUYm9heTNaanA2czJsNXE3U0J2MW0wQXJHMmZtRjJyaVJiQmpNcno0VGswaw?oc=5"
         }
       ]
     },
