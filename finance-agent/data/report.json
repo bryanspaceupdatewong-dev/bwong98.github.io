@@ -1,53 +1,66 @@
 {
-  "generatedAt": "2026-10-13T00:16:21.959442Z",
+  "generatedAt": "2026-10-13T01:15:54.867063Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 541.15,
-      "weekAgoPrice": 517.530029296875,
-      "percentChange": 4.56,
+      "weekAgoPrice": 525.1799926757812,
+      "percentChange": 3.04,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 226.32,
-      "weekAgoPrice": 233.9499969482422,
-      "percentChange": -3.26,
-      "flagged": false,
-      "news": []
+      "weekAgoPrice": 238.89999389648438,
+      "percentChange": -5.27,
+      "flagged": true,
+      "news": [
+        {
+          "title": "NVIDIA (NVDA) Announces Historic $150 Billion Stock Buyback Plan - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUJpZFZWXzV2eF9SZE5RZV9jUXc3ckt4YmRFNnpWVnQzMTdaa3FHV0Y3dEtLc3htRXRnS2doUndpTV9ZalpfQ01tRlUxR0tSTzEtOWFyUzBzMHd5MGJ0X25HUE1aalhXTlI5Y0pUcmNoaGhHbXNueW56bzF3UzlmOGpvZlpDZURQSUM5M25ZTXVHTXdrWkowVzdGVHdYdE9ISXc?oc=5"
+        },
+        {
+          "title": "NVIDIA (NASDAQ:NVDA) Shares Down 1.3% - Here's Why - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3c1S3NsY3hEeEN0enRPbDVXUkZJSWU5dnFmMi1JbDhGV3FuSTNxWTlGcVBOdk5KUDZ2dlNMeUlydXhXa1JLOFUyWDRsVzBqY1YwT05sSDZFYXVuVTFaOWd4SEYzcXV0Z2dEelRpUk5nS1BFamtlWk5abTczZ3psTElmNW5qRUEtQ2k4SFRjNDFJSmc4RzhGN21BWUxISTlncXdETFVR?oc=5"
+        },
+        {
+          "title": "Nvidia (NVDA) Sees a More Significant Dip Than Broader Market: Some Facts to Know - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1JqbWRGd1V2MThYSWNrdkxYeDNuNzlicHd5ZGhQZVdlVW0yZ2pSbG1DWVM4bFlZU2lwdVU5SFh4NmpGUW1CcEVpdTQtU0p2RG02Z1dxemhUSWZzSVFtZ2tra1BsTUNXcnJGZUpYSW1JcElEb19QNFRzcUdRQ3pyY21PMGpBTjVCb0hQQWdhTHdPYXpUN0FHZVJxZ0JhV3M?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.66,
-      "weekAgoPrice": 4.659999847412109,
-      "percentChange": 0.0,
+      "currentPrice": 4.65,
+      "weekAgoPrice": 4.710000038146973,
+      "percentChange": -1.27,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.19,
-      "weekAgoPrice": 7.429999828338623,
-      "percentChange": -3.23,
+      "currentPrice": 7.18,
+      "weekAgoPrice": 7.460000038146973,
+      "percentChange": -3.75,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.23,
+      "currentPrice": 1.26,
       "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -16.33,
+      "percentChange": -14.29,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.45,
+      "currentPrice": 1.48,
       "weekAgoPrice": 1.8600000143051147,
-      "percentChange": -22.04,
+      "percentChange": -20.43,
       "flagged": true,
       "news": []
     },
@@ -61,10 +74,10 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.19,
-      "weekAgoPrice": 1.2699999809265137,
-      "percentChange": -6.3,
-      "flagged": true,
+      "currentPrice": 1.2,
+      "weekAgoPrice": 1.2599999904632568,
+      "percentChange": -4.76,
+      "flagged": false,
       "news": []
     },
     {
@@ -77,9 +90,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.19,
+      "currentPrice": 1.2,
       "weekAgoPrice": 1.1100000143051147,
-      "percentChange": 7.21,
+      "percentChange": 8.11,
       "flagged": true,
       "news": []
     },
