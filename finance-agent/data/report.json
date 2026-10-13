@@ -1,36 +1,23 @@
 {
-  "generatedAt": "2026-10-13T18:02:21.973423Z",
+  "generatedAt": "2026-10-13T18:16:46.597939Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 546.49,
+      "currentPrice": 546.45,
       "weekAgoPrice": 529.2999877929688,
-      "percentChange": 3.25,
+      "percentChange": 3.24,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 227.005,
+      "currentPrice": 227.441,
       "weekAgoPrice": 239.24000549316406,
-      "percentChange": -5.11,
-      "flagged": true,
-      "news": [
-        {
-          "title": "10 Information Technology Stocks With Whale Alerts In Today\u2019s Session - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZXRYODNSZzJVWmNWZnhlbnUtekZaTlIxTlFEcTFBSEVhd1ROcDc2RGtLTmt3RUVfZHNDYjNQTm9jODV5SEJZdktDU0IzenJ3NHo4N0M5MC1uTHZoSGxqTVdtRHpvWTM0R01mZklIUmI0TW9IYnRoU3IyUDhkUm1qcTVrV3ZJbkFEYnI5SkYxTzhndUpNRlFaSHdZMDJ4TmhjVGxXeE9YWFMtMUZKaUFuaWxHNjMxN3NH?oc=5"
-        },
-        {
-          "title": "NVIDIA stock could rise 43% as AI demand and hy... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR1JfVDJfQVNyX0w4WWhINFFuMnZ5aE5HcG4tM2Y1cGJpYUl0V3hTUHdFRUJ6YUZOSmhXWURIWEdDaDJHa05QUU84enowM1NWZEhfM0xjY1hXd1NrRlV2elJYN080elROXzk1YzVPNXV2QUZRa1VZS0ZsV1VHdkNJLWdCN18wWm92ZmxqQw?oc=5"
-        },
-        {
-          "title": "Nvidia Stock Has a Massive AI Tailwind. Here\u2019s the Bull Case - AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZUF4aTJXMm5xWmZHQmZLbkozOFp1WXpaSGlKTE42T2dQa3RDaTAydEhiUnBfaTAxZzFmZ1l3eHhjQVIxQWY4MzFRcXhPUk9ZLXZET2taWW05Vy16YWRPYnRDYzdtWlJ0c3VUVHRHby1NaDBBT2l0VVoxRERaU3VlbTRB?oc=5"
-        }
-      ]
+      "percentChange": -4.93,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "1295.KL",
@@ -105,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 3
 }
