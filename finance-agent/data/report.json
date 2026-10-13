@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T10:16:29.492317Z",
+  "generatedAt": "2026-10-13T11:19:51.336830Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia Stock Slips. How Broadcom and Microsoft Are Shaking the Chip Sector. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXVla2g5SlhMWnc4QkQ4LUl3U2ZvU09mcXVQQXFORlQ4Mk55VXFKNG9UVkFiYzI1TVhZbGVnMUtxc1BBM0pfVnQzU1B3ZkJTQlctMDZweG1FSUczWnp1NTlGd0p4aFk1SWZ5c0JCbzV1RXdJN0xzejZIZEx6RlN0ZlJ2cktzdXNCcGY2eDhB?oc=5"
+        },
+        {
+          "title": "Nvidia's Market Share in China's AI Data-Center Chips Slides Ami - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORXJMTVA2bDBMbzBqMTNmTHVrVTFCNzhMeUdBQlpCM0U4ZVdnQnA0OGNFQXFkOEVlVWJmXzlPb3RfTVNMd09qMHZ5Qm5HX2c0Q0xBRmZvMWdfSHdFbXFZd1VOU2hrR19ZbVpZMWlxTGtGdG9LV3Y2a2I1RHFOS0JfNkNpeEJpLWEwNUxHX1h5Q0UxSkcxQnJDdEZ3bkItZEZnZWZxSnRGUVZHU0ZnQTRDSV9MWGppdFhWaGlIU1Nfb05PWkF4aHlSR0NNZk8?oc=5"
+        },
+        {
           "title": "Nvidia\u2019s China AI-chip share falls to 34% as Huawei gains - Techi",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5obXEyeFRMcW1CdzBxbFJxbC1jV1FOQ245d0JOV0NpUUU0cDZqSTcxR2pRdWV3OHlxZWoxdHpOWHAxLVAyZG5LZ0FMRXROUnpjY1dWTnM1M2JPTjN0eFdXSjhsNHdFcVhDMVFHVTdOSjNyVzQ?oc=5"
-        },
-        {
-          "title": "Nasdaq Futures Sink, Dow Rises Premarket As AI Chip Stocks Wobble Ahead Of Big Bank Earnings: MU, SNDK, NVTS, NVDA, SPCX, ASTS, UNH, V Stocks In Focus - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcEpYNkM1RmwzZmlDLVk2R2xQYW42N3ZER3dyRXo4dUFUVGc5Z0NGZUhyYVZ1akR1MnBrMUNGRjY2Zmh1R0ZvQzg1M1p0OVZCRjJleWtSVUZJWWJSRmoxbVhNaHdZNFUtVk5KQ1pKNkNvTEloTDlBU0I5V05Md2lGdmxxOUdQbVNFUG9acnlUNWRxdzhDb1JDcGR3?oc=5"
-        },
-        {
-          "title": "Nvidia\u2019s China AI chip market share falls to 34% as Huawei gains ground: IDC (NVDA:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVm9JY1RJX0hYcERmWjVPcW1oUktJejViVE9kZUdNY3ZfVWJndWtrZjFrZnhydk90MmtVOU1DblcwQ2tuRkM4YjVhck1GTmtQRjJRakE5bGRjZmhkS3Z3YkNfNTAtc1lZNWhEdUJQYV9MV0NlbzJjV0lqMzlybk91WGNqUzhIeTE5TTNTN1RRZUtRNFo5ZlpHRjYyXzRYZVdReDZMN3E2R0ZnWlJOdHdFVQ?oc=5"
         }
       ]
     },

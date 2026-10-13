@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-09T10:16:29.581258Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.24,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 11.71,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-09T11:23:17.173172Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1850,6 +1836,57 @@
           {
             "title": "Nvidia\u2019s China AI chip market share falls to 34% as Huawei gains ground: IDC (NVDA:NASDAQ) - Seeking Alpha",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVm9JY1RJX0hYcERmWjVPcW1oUktJejViVE9kZUdNY3ZfVWJndWtrZjFrZnhydk90MmtVOU1DblcwQ2tuRkM4YjVhck1GTmtQRjJRakE5bGRjZmhkS3Z3YkNfNTAtc1lZNWhEdUJQYV9MV0NlbzJjV0lqMzlybk91WGNqUzhIeTE5TTNTN1RRZUtRNFo5ZlpHRjYyXzRYZVdReDZMN3E2R0ZnWlJOdHdFVQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.25,
+        "weekAgoPrice": 1.4700000286102295,
+        "percentChange": -14.97,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.44,
+        "weekAgoPrice": 1.8600000143051147,
+        "percentChange": -22.58,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 8.11,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-13T11:19:51.336830Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 226.32,
+        "weekAgoPrice": 238.89999389648438,
+        "percentChange": -5.27,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stock Slips. How Broadcom and Microsoft Are Shaking the Chip Sector. - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXVla2g5SlhMWnc4QkQ4LUl3U2ZvU09mcXVQQXFORlQ4Mk55VXFKNG9UVkFiYzI1TVhZbGVnMUtxc1BBM0pfVnQzU1B3ZkJTQlctMDZweG1FSUczWnp1NTlGd0p4aFk1SWZ5c0JCbzV1RXdJN0xzejZIZEx6RlN0ZlJ2cktzdXNCcGY2eDhB?oc=5"
+          },
+          {
+            "title": "Nvidia's Market Share in China's AI Data-Center Chips Slides Ami - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORXJMTVA2bDBMbzBqMTNmTHVrVTFCNzhMeUdBQlpCM0U4ZVdnQnA0OGNFQXFkOEVlVWJmXzlPb3RfTVNMd09qMHZ5Qm5HX2c0Q0xBRmZvMWdfSHdFbXFZd1VOU2hrR19ZbVpZMWlxTGtGdG9LV3Y2a2I1RHFOS0JfNkNpeEJpLWEwNUxHX1h5Q0UxSkcxQnJDdEZ3bkItZEZnZWZxSnRGUVZHU0ZnQTRDSV9MWGppdFhWaGlIU1Nfb05PWkF4aHlSR0NNZk8?oc=5"
+          },
+          {
+            "title": "Nvidia\u2019s China AI-chip share falls to 34% as Huawei gains - Techi",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5obXEyeFRMcW1CdzBxbFJxbC1jV1FOQ245d0JOV0NpUUU0cDZqSTcxR2pRdWV3OHlxZWoxdHpOWHAxLVAyZG5LZ0FMRXROUnpjY1dWTnM1M2JPTjN0eFdXSjhsNHdFcVhDMVFHVTdOSjNyVzQ?oc=5"
           }
         ]
       },
