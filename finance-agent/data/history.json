@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-09T00:16:26.809602Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.205,
-        "weekAgoPrice": 0.19499999284744263,
-        "percentChange": 5.13,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.16,
-        "weekAgoPrice": 1.090000033378601,
-        "percentChange": 6.42,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-09T01:16:38.699050Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1416,6 +1394,65 @@
         "currentPrice": 1.2,
         "weekAgoPrice": 1.1100000143051147,
         "percentChange": 8.11,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-13T02:16:34.906291Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 226.32,
+        "weekAgoPrice": 238.89999389648438,
+        "percentChange": -5.27,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy. - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPeTVYQ0NkUHVKMnVsUGpsSkFTUUl1YmlUUTFYOTlrRXJyd2NOWjhwSU96Ui10bGdnaVkxbFBCUDBJcmNWODBRSHlXbWhXWkJCcW1pdUtjUDFxcy1nRVlUZl9uQ01JVWhHTmM3V0hEWGpwbVg5UXdDamNnM2l3UVJ3b1FaSFUxY3hFRXRVRUlyVkV0Q3JRbE5GMm9tMGhyNDQ4LWswMzhka3kwY3VxUi05ZE91d3BBS3F0QUJJV0VHRlVGWDhBcjBPT3lYa1ZWNXo2YVB5Z0h5YWZlSmxmWEU3TmU5UGFkeVZmejVlMFJhUmp0SC1ZNUZSYXBOcjNYN3FSZzdtbE5WVQ?oc=5"
+          },
+          {
+            "title": "Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanc1TUVQTHpfTW9XcmJ4bjkzOGhVMmozNWZZQl9kRkROZGtWOHlCUVd0U19uSzlhMzFVNmhRbDdtT3hLSWFSQzV2dGt5MC1aYTU3cUJMMXFWYTlQNm9ETDJzRDkwUEo3Y2RKTEx0NTY2Z1BFTnkyYW1wU3BtVDctMG9CV21qVjNPdlEwVG5wR0tlLUpuRjUxbVNKVnRDYkI2WHFtWHYyS2Z6RDlNUEwtcjJ4dS1jcWpDa18wb2c3RmpNZWFBeUc3Vnd6TDc?oc=5"
+          },
+          {
+            "title": "NVIDIA (NVDA) Announces Historic $150 Billion Stock Buyback Plan - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUJpZFZWXzV2eF9SZE5RZV9jUXc3ckt4YmRFNnpWVnQzMTdaa3FHV0Y3dEtLc3htRXRnS2doUndpTV9ZalpfQ01tRlUxR0tSTzEtOWFyUzBzMHd5MGJ0X25HUE1aalhXTlI5Y0pUcmNoaGhHbXNueW56bzF3UzlmOGpvZlpDZURQSUM5M25ZTXVHTXdrWkowVzdGVHdYdE9ISXc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.4700000286102295,
+        "percentChange": -13.61,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.48,
+        "weekAgoPrice": 1.8600000143051147,
+        "percentChange": -20.43,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.18,
+        "weekAgoPrice": 1.2599999904632568,
+        "percentChange": -6.35,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.18,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 6.31,
         "flagged": true,
         "news": []
       }
