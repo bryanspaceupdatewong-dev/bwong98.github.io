@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-09T04:16:36.952053Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 9.91,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-09T05:16:45.107459Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1612,6 +1598,73 @@
         "currentPrice": 1.2,
         "weekAgoPrice": 1.1100000143051147,
         "percentChange": 8.11,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-13T05:16:47.640222Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 226.32,
+        "weekAgoPrice": 238.89999389648438,
+        "percentChange": -5.27,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Better Artificial Intelligence Stock for 2026: Intel vs. NVIDIA - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFJLZDZSUVl1dkc3V0xubDlza3FBaWFKdG4yeWhWUXZacU4tMDVYRXJVeG1oYmtVdmoxYVJScHVaNlhjbUU3LV9UN0dicGphY1J2UHRoZVpDVHNrcUpIem5rck5kSDJacENKR19KZEFyZnlkbXlhVlFJVzlqWmJWZ1BuUkNSa1B5NjJDWFNTMHVVV1VrZGhvV1lzc1FwcmlVZ0k4OC1uREJpZUkzVi0ydW9Kd1I?oc=5"
+          },
+          {
+            "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k?oc=5"
+          },
+          {
+            "title": "Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanc1TUVQTHpfTW9XcmJ4bjkzOGhVMmozNWZZQl9kRkROZGtWOHlCUVd0U19uSzlhMzFVNmhRbDdtT3hLSWFSQzV2dGt5MC1aYTU3cUJMMXFWYTlQNm9ETDJzRDkwUEo3Y2RKTEx0NTY2Z1BFTnkyYW1wU3BtVDctMG9CV21qVjNPdlEwVG5wR0tlLUpuRjUxbVNKVnRDYkI2WHFtWHYyS2Z6RDlNUEwtcjJ4dS1jcWpDa18wb2c3RmpNZWFBeUc3Vnd6TDc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.4700000286102295,
+        "percentChange": -13.61,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.47,
+        "weekAgoPrice": 1.8600000143051147,
+        "percentChange": -20.97,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.18,
+        "weekAgoPrice": 1.2599999904632568,
+        "percentChange": -6.35,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.20000000298023224,
+        "percentChange": 7.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.21,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 9.01,
         "flagged": true,
         "news": []
       }
