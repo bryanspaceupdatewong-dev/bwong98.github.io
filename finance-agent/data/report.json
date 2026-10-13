@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T09:16:42.691601Z",
+  "generatedAt": "2026-10-13T10:16:29.492317Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia\u2019s China AI-chip share falls to 34% as Huawei gains - Techi",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5obXEyeFRMcW1CdzBxbFJxbC1jV1FOQ245d0JOV0NpUUU0cDZqSTcxR2pRdWV3OHlxZWoxdHpOWHAxLVAyZG5LZ0FMRXROUnpjY1dWTnM1M2JPTjN0eFdXSjhsNHdFcVhDMVFHVTdOSjNyVzQ?oc=5"
+        },
+        {
+          "title": "Nasdaq Futures Sink, Dow Rises Premarket As AI Chip Stocks Wobble Ahead Of Big Bank Earnings: MU, SNDK, NVTS, NVDA, SPCX, ASTS, UNH, V Stocks In Focus - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcEpYNkM1RmwzZmlDLVk2R2xQYW42N3ZER3dyRXo4dUFUVGc5Z0NGZUhyYVZ1akR1MnBrMUNGRjY2Zmh1R0ZvQzg1M1p0OVZCRjJleWtSVUZJWWJSRmoxbVhNaHdZNFUtVk5KQ1pKNkNvTEloTDlBU0I5V05Md2lGdmxxOUdQbVNFUG9acnlUNWRxdzhDb1JDcGR3?oc=5"
+        },
+        {
           "title": "Nvidia\u2019s China AI chip market share falls to 34% as Huawei gains ground: IDC (NVDA:NASDAQ) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVm9JY1RJX0hYcERmWjVPcW1oUktJejViVE9kZUdNY3ZfVWJndWtrZjFrZnhydk90MmtVOU1DblcwQ2tuRkM4YjVhck1GTmtQRjJRakE5bGRjZmhkS3Z3YkNfNTAtc1lZNWhEdUJQYV9MV0NlbzJjV0lqMzlybk91WGNqUzhIeTE5TTNTN1RRZUtRNFo5ZlpHRjYyXzRYZVdReDZMN3E2R0ZnWlJOdHdFVQ?oc=5"
-        },
-        {
-          "title": "Momentum Weakens, NVDA Stock Drops 1.29%: What to Know - JournalArta",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTTU1dklPTVZmQjdVdEhsX014aU5zVjJPRXZrNUloa29KRXNac2p6Rk8tWVA2bk1uZlV3SHBQczhvUkRWQkItdUxZRmVHVjVOeWVsWjEzV21kRm5KZGx5ZFU0V3EzWE93cEtTU1JzS0hDck1Vc2lQdzBaUjBwRU0ybGpMcFY0czNaYzhzb3FRREE?oc=5"
-        },
-        {
-          "title": "NVIDIA Corporation $NVDA Stock Sold by Parkwood LLC - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRTltY3hUUm1uNHRXRlAwQ0tERXdnWmFPYTJ0VUhjczh5Q29UeTRxUHpjMlVBU3ZPODczNndFZlQxMUtLQ3VLSVIwVkdEMzU1WDFBYzdhU3FFeF9ZbVpwMXhWTlhJUFVERXc4dUdZXzU2TUxRTDNOZGdNdmVJODZpdUhtcEV4WFBQc0hsOVZpV0NZZ1kxcVBEN1I0WVpPdldIVzBsWUZfTlVDVmxta0E4Sg?oc=5"
         }
       ]
     },
