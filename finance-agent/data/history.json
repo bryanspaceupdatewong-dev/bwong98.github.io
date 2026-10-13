@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-09T03:15:56.993951Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 7.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-09T04:16:36.952053Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1559,6 +1545,73 @@
         "currentPrice": 1.19,
         "weekAgoPrice": 1.1100000143051147,
         "percentChange": 7.21,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-13T04:16:41.220598Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 226.32,
+        "weekAgoPrice": 238.89999389648438,
+        "percentChange": -5.27,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanc1TUVQTHpfTW9XcmJ4bjkzOGhVMmozNWZZQl9kRkROZGtWOHlCUVd0U19uSzlhMzFVNmhRbDdtT3hLSWFSQzV2dGt5MC1aYTU3cUJMMXFWYTlQNm9ETDJzRDkwUEo3Y2RKTEx0NTY2Z1BFTnkyYW1wU3BtVDctMG9CV21qVjNPdlEwVG5wR0tlLUpuRjUxbVNKVnRDYkI2WHFtWHYyS2Z6RDlNUEwtcjJ4dS1jcWpDa18wb2c3RmpNZWFBeUc3Vnd6TDc?oc=5"
+          },
+          {
+            "title": "NVIDIA (NVDA) Announces Historic $150 Billion Stock Buyback Plan - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUJpZFZWXzV2eF9SZE5RZV9jUXc3ckt4YmRFNnpWVnQzMTdaa3FHV0Y3dEtLc3htRXRnS2doUndpTV9ZalpfQ01tRlUxR0tSTzEtOWFyUzBzMHd5MGJ0X25HUE1aalhXTlI5Y0pUcmNoaGhHbXNueW56bzF3UzlmOGpvZlpDZURQSUM5M25ZTXVHTXdrWkowVzdGVHdYdE9ISXc?oc=5"
+          },
+          {
+            "title": "NVIDIA (NASDAQ:NVDA) Shares Down 1.3% - Here's Why - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3c1S3NsY3hEeEN0enRPbDVXUkZJSWU5dnFmMi1JbDhGV3FuSTNxWTlGcVBOdk5KUDZ2dlNMeUlydXhXa1JLOFUyWDRsVzBqY1YwT05sSDZFYXVuVTFaOWd4SEYzcXV0Z2dEelRpUk5nS1BFamtlWk5abTczZ3psTElmNW5qRUEtQ2k4SFRjNDFJSmc4RzhGN21BWUxISTlncXdETFVR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.4700000286102295,
+        "percentChange": -12.93,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.47,
+        "weekAgoPrice": 1.8600000143051147,
+        "percentChange": -20.97,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.18,
+        "weekAgoPrice": 1.2599999904632568,
+        "percentChange": -6.35,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.20000000298023224,
+        "percentChange": 7.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.1100000143051147,
+        "percentChange": 8.11,
         "flagged": true,
         "news": []
       }
