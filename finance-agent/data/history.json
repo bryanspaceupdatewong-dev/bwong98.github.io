@@ -1,43 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-13T00:16:21.959442Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -16.33,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.8600000143051147,
-        "percentChange": -22.04,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.2699999809265137,
-        "percentChange": -6.3,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 7.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-13T01:15:54.867063Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2275,6 +2237,65 @@
           {
             "title": "Nvidia Stocks Fall 2.9% Although New AI Racks Support 250 Kilowa - GuruFocus",
             "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVZqMGJ6Qjc5OGNEV0xDTHVRTTNTX0dnd0xsNXJqVVN6NTdIZ3hDTWdYZlpLNDU5OFowcWlMcmdfTzhwMGNPQTFGazg1dWZmNVROa3lTTzhycndJdE9vTUx0cFVWR0VJeC14WWEzSUhndFBUYlBpZkRENkx3ZkdGVDJkSnQzajlBWmdTSG1ud2lPT3U5ZDhvQ0g0Zk80MHBvTVB2MmFSYw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -13.1,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.42,
+        "weekAgoPrice": 1.7999999523162842,
+        "percentChange": -21.11,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.20000000298023224,
+        "percentChange": 7.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 10.53,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-14T20:16:03.802631Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 221.3,
+        "weekAgoPrice": 237.47000122070312,
+        "percentChange": -6.81,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stocks Fall 2.9% Although New AI Racks Support 250 Kilowatts - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDI0a0NpM3VkUHV3NGlZRDAwRnM5ajROSElIZXZqTXc1YkE0Y3pXZk1pSjRvRmdYNW1yMllOdnRJYTdHVjNqd2s5dVJKVkQwZ3dWU21GdmdHTlptVU1rSVJyVTczMjB5WDl3aUxYTHoxZ243NmUyVHBXNkw4TWVLMHlMcVg2YTFLSUZMOTNUMDZRNGNOMkNNRHdqZkF0SEJXeWM0bXAxRTFrTzY5WXR6amZOTmlheGtEMXBqS0ZBNktaOE9C?oc=5"
+          },
+          {
+            "title": "Why is NVIDIA stock sliding today? - Investing.com",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOGpqZzg3NmtJWE1IRUhmUWZRdHctOHp0aUxfSEk0Nk42VEdPbEVUUGtZODJoTVpST3lHWTl5bm9Zd3Jfb09qbzVWWU51bTNzNUEtYlFKVkpEbEI0MFFtY0VKdERmaTNzZ0NMUzNoQWFzTElxVVBDYzdJdlFyZ3p6S3hLcFN4djU3U0M2MkFDR0JNOGtNN2lzb2s5VQ?oc=5"
+          },
+          {
+            "title": "NVIDIA Corp Stock (NVDA) Moved Down by 3.30% on Oct 14: Key Drivers Unveiled - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1pfaUZ2bENvWVlyNURycXdnZHJuQkZpQWdBbUF5TlNfUmd1UExyVklLeU92N3JXd3hhQUp4dkJKLVJKQUJkRlpGNW15WnlVc1lrT0ZQUEpvYWhWckNUSmc4Z1Y2Rl9GRl85SkQxT0ZOa1FqRm0wcUhFcTVaMFE0WERlSExSTEFQQ0k4?oc=5"
           }
         ]
       },

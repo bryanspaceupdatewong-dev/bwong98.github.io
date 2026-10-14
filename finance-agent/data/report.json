@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-14T19:16:15.422500Z",
+  "generatedAt": "2026-10-14T20:16:03.802631Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 532.87,
+      "currentPrice": 533.69,
       "weekAgoPrice": 529.760009765625,
-      "percentChange": 0.59,
+      "percentChange": 0.74,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 220.28,
+      "currentPrice": 221.3,
       "weekAgoPrice": 237.47000122070312,
-      "percentChange": -7.24,
+      "percentChange": -6.81,
       "flagged": true,
       "news": [
+        {
+          "title": "Nvidia Stocks Fall 2.9% Although New AI Racks Support 250 Kilowatts - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDI0a0NpM3VkUHV3NGlZRDAwRnM5ajROSElIZXZqTXc1YkE0Y3pXZk1pSjRvRmdYNW1yMllOdnRJYTdHVjNqd2s5dVJKVkQwZ3dWU21GdmdHTlptVU1rSVJyVTczMjB5WDl3aUxYTHoxZ243NmUyVHBXNkw4TWVLMHlMcVg2YTFLSUZMOTNUMDZRNGNOMkNNRHdqZkF0SEJXeWM0bXAxRTFrTzY5WXR6amZOTmlheGtEMXBqS0ZBNktaOE9C?oc=5"
+        },
         {
           "title": "Why is NVIDIA stock sliding today? - Investing.com",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOGpqZzg3NmtJWE1IRUhmUWZRdHctOHp0aUxfSEk0Nk42VEdPbEVUUGtZODJoTVpST3lHWTl5bm9Zd3Jfb09qbzVWWU51bTNzNUEtYlFKVkpEbEI0MFFtY0VKdERmaTNzZ0NMUzNoQWFzTElxVVBDYzdJdlFyZ3p6S3hLcFN4djU3U0M2MkFDR0JNOGtNN2lzb2s5VQ?oc=5"
         },
         {
-          "title": "Why is NVIDIA stock sliding today? By Investing.com - Investing.com UK",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR01GVW4zcEdTRmZXNnNlZFdZNUdQSEpnTGdCYkxlNU80amJrMHFoVFltd0tzX3NtZVRNMExMZGNEMl9hd0ZuSW9TU3ZVSUhvVGk5T2NEeGYtRzd1RDJkZGlFdGd0SVQ2OGlHQ0tUTFQ4bW9mMldOcmh4cmVaeGJtalJBUmtPdjV0UGswZFVlQTFORDU3R2Nud2Rn?oc=5"
-        },
-        {
-          "title": "Nvidia Stocks Fall 2.9% Although New AI Racks Support 250 Kilowa - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVZqMGJ6Qjc5OGNEV0xDTHVRTTNTX0dnd0xsNXJqVVN6NTdIZ3hDTWdYZlpLNDU5OFowcWlMcmdfTzhwMGNPQTFGazg1dWZmNVROa3lTTzhycndJdE9vTUx0cFVWR0VJeC14WWEzSUhndFBUYlBpZkRENkx3ZkdGVDJkSnQzajlBWmdTSG1ud2lPT3U5ZDhvQ0g0Zk80MHBvTVB2MmFSYw?oc=5"
+          "title": "NVIDIA Corp Stock (NVDA) Moved Down by 3.30% on Oct 14: Key Drivers Unveiled - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1pfaUZ2bENvWVlyNURycXdnZHJuQkZpQWdBbUF5TlNfUmd1UExyVklLeU92N3JXd3hhQUp4dkJKLVJKQUJkRlpGNW15WnlVc1lrT0ZQUEpvYWhWckNUSmc4Z1Y2Rl9GRl85SkQxT0ZOa1FqRm0wcUhFcTVaMFE0WERlSExSTEFQQ0k4?oc=5"
         }
       ]
     },
