@@ -1,43 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-12T11:24:47.601528Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -16.33,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.8600000143051147,
-        "percentChange": -22.04,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.2599999904632568,
-        "percentChange": -5.56,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 7.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-12T15:18:00.567014Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2286,6 +2248,44 @@
   },
   {
     "generatedAt": "2026-10-14T11:16:51.793772Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -13.1,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.42,
+        "weekAgoPrice": 1.7999999523162842,
+        "percentChange": -21.11,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.20000000298023224,
+        "percentChange": 7.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 10.53,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-14T12:22:18.769541Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
