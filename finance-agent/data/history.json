@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-12T21:16:47.737460Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 226.32,
-        "weekAgoPrice": 238.89999389648438,
-        "percentChange": -5.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia (NVDA) vs. Broadcom (AVGO): Which AI Stock Is a Better Buy After the OpenAI Scare? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWFZZl9HS0NyR1M3ejBYZFFIcEo2UTl5UE9Fb0pVa3V1SmlwZ0M5V1EyY2MwVGxxTmprdE1pRjFwSXpyM0tyNTBOZWtpX1hvanZ2X3E1aE80X2N1cVpGblA5YzNBc01HWm0yM3c0TDl0RkZrRlVIdWE3bTVDRlNoY1V1NEhOZERndTZBem9yRlFjUU44N2l3aQ?oc=5"
-          },
-          {
-            "title": "Nvidia Falls Back From Record High. Its Stock Chart Offers a Warning. - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ?oc=5"
-          },
-          {
-            "title": "NVIDIA tests $226 support confluence: Live levels - Investing.com",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVZkYnJrNU5tZlRXdUxuREg0OUdGUjNkU2Z0c0NsazNaWDRicVNoMnE2TmxrZDBMY2VtejdOaUZoa3JXdWE3LWFKSHhLM2JQZk1NVVVCMlVUX1pWWHA1NmJNTXpOeXE2NEI3Y1RSY1FiVXFHWFBvc01oWWg0WTNYR1lTQmNlcGJ3aEx1MUMxbndIZ1BUanNGM2UtMWhsMUJsUEwtTXZTMUQxY0FjM0o4cVBBTlNCY3p3czZyampGNnpEdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -16.33,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.8600000143051147,
-        "percentChange": -22.04,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.2699999809265137,
-        "percentChange": -6.3,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 7.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-12T22:16:14.271914Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2251,6 +2192,73 @@
           {
             "title": "Is Nvidia Still the Best AI Stock to Buy in 2026, or Is This Challenger? - The Motley Fool",
             "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcktBMVhpVFVZU1ozb0c5U3g0NXFvcVAySGp6Y0xiZmNzVlM1aGE4QlBlRU85Q1lrSUljYVYteGRpb1pFUmhCTHVCTlVsOHByUWdUQlNJd2VnMjFOQ1BVVjl4NmF4U01ITVBhLURTZlZuc2UxM1NMbm9LelptTWtoN280T0VQd1ViVElNdGZJU0k0cXNnMTMzOGFZWTU4REpmS1ZOOHFHQWYtOHh5MDdhN3dfVQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.4700000286102295,
+        "percentChange": -14.29,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.42,
+        "weekAgoPrice": 1.840000033378601,
+        "percentChange": -22.83,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.20000000298023224,
+        "percentChange": 7.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 10.53,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.695,
+        "weekAgoPrice": 0.6600000262260437,
+        "percentChange": 5.3,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-14T18:07:22.052056Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 220.89,
+        "weekAgoPrice": 237.47000122070312,
+        "percentChange": -6.98,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stocks on Watch After CPI-Fueled Breakdown: SPX, Nasdaq, NVDA - StoneX",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ0JPYTlHRzVWNm5SVDkzcXY0ODdkODZEcUhoSTlLdGVNWnd1VW1Wejg5RUxkdDJpV2xUdU1NYUQ4VzkwUW1WRWRPNzBVd3lsZjl3ZUdnVEpqQzdZN3FlejhDSmpQMXR6Ty1mcFRUQW05OUVoU2loRWZEMVhtQ1ZKb194VThTcDhrY0NoVlQzc2xaZFlvcHhNdXM2VExTT0lGVlEzbEJ4WUZPUDZqVDk2dGgzdE1hbWRT?oc=5"
+          },
+          {
+            "title": "10 Information Technology Stocks Whale Activity In Today\u2019s Session - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckh1YkZFQ0RQX3BWSXlkRlk4R0w3ZXE5cHA1aHM0THFnLTdQR2dfd21aTC1HWTF2dDM1MG9GMFN1VElpSVJjN1Z0NFRaNjB5dFZmYmp0RUR1V0hVT0lIV202Qm55UmQ4aFdkcDNGNTQ0aWN3ZVlmcl8zcHZWNTZEX09qOG9Ubkk0TFRwZEg4RTdvZGhSTzAwV0ZvMW8yUmlHTkF5NUptZnJ0UkFpVWRYaDFGSEhNbWROUFZJ?oc=5"
+          },
+          {
+            "title": "NVDA Oct 2026 230.000 call (NVDA261014C00230000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EV3g4LVBSM2lzNDZQWlNFS0owZ24tcWZHZ3ZmQVFwM0tGVXRNQ2hDb19zcmF2cnFiRGlTUGFEX0w0VUhsZEFFNnhZbGI3VWtUSkZBQXBZMHp6M3ZRWDVEd25RTnQzQQ?oc=5"
           }
         ]
       },
