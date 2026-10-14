@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-14T16:17:08.115835Z",
+  "generatedAt": "2026-10-14T17:15:55.245890Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 535.83,
+      "currentPrice": 536.055,
       "weekAgoPrice": 529.760009765625,
-      "percentChange": 1.15,
+      "percentChange": 1.19,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 222.075,
+      "currentPrice": 222.27,
       "weekAgoPrice": 237.47000122070312,
-      "percentChange": -6.48,
+      "percentChange": -6.4,
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia Stock NVDA Falls Toward $220 as Data-Center Debt Yields Weigh on Sentiment - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzlVTXVMRXowR0lTLWpjdXlRX2xndlpRVnZSMU9aNmRVQUR1cDEzcUhyNFQ4MU9iSko4VFB5YzhBVW9iaXZIaWxUSDZBclJrYzJvRUNDR2NpZlduZkJLVzM2SUoxSTkyNWNWMDRqLXFJekxXbldpb1EwZDJSV19LeFV0NXE4N2dYbXE4Tmw2N0JjcGJmZEpkYVl5b3Z3V0ttZ2JNLURxdUU0TC1ycEZDQzZBbWxCdzFCWTdvMDRreTM?oc=5"
+        },
+        {
+          "title": "Honeywell Stock Rises 2% as Nvidia and Dell Team Up on New AI Platform - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVFI5UVAxT29QU3YwWDdCNkJJbFdNc1lKZDJ3M0FBTGlaV29oLTAxdlVzTEowRDIxZlhPeWJlR1U0UkFnendnS0pHa0p2aFBEbnEyTng1SVFud01FUGlFRmNiTWxjc3J0QTFQZnhCOFBVUVVGc1A5ZXgxMEJGYnN3MjY1VFpqNzBWWHpTR3pmM2VDaVd4RXl3ZW5tcG52b25lODRkRDI3SHdYNGhuVXJMVF9HLUhrWm13VnRXQXNqV3lrSk1oTGt0ZA?oc=5"
+        },
+        {
           "title": "Is Nvidia Still the Best AI Stock to Buy in 2026, or Is This Challenger? - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcktBMVhpVFVZU1ozb0c5U3g0NXFvcVAySGp6Y0xiZmNzVlM1aGE4QlBlRU85Q1lrSUljYVYteGRpb1pFUmhCTHVCTlVsOHByUWdUQlNJd2VnMjFOQ1BVVjl4NmF4U01ITVBhLURTZlZuc2UxM1NMbm9LelptTWtoN280T0VQd1ViVElNdGZJU0k0cXNnMTMzOGFZWTU4REpmS1ZOOHFHQWYtOHh5MDdhN3dfVQ?oc=5"
-        },
-        {
-          "title": "Don\u2019t Get NVIDIA\u2019s Reflection AI Interest Wrong: Its Moat Could Deepen - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlFPUWx6RnVOdHBSX3dnZ1d6cjIwRmhwOGF0aDJ0bFQ2c1RGNFZHQzcwcFM5T2dRejlpOTQ4bmh6VHNYVnNKWVQwOHRDTFBkVmZhSFhIRXpXeVJLN09DOVQ5OVl6bEF1OW4xZEZQRGhqZldNR2k0YzY2eUNxSVdrQjZwWEl4eWlyeUF4bWVCeWdFV1ZCdF9xU2Vub1BteW10SWJKNlBTNA?oc=5"
-        },
-        {
-          "title": "NVDA Oct 2026 232.500 call (NVDA261014C00232500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZSHVKcTFqWWhuVnBiZ3BMR0xIV2FRYUl5RU9LMzFuTGZPeEVMTEZidTNSQ1RaSlpyejNkeExJLUxJdFBCU3ZCVm9iX1Y3YklpV3lDTThyQnp2bkJhMEJHMDQ4X1BQZw?oc=5"
         }
       ]
     },
