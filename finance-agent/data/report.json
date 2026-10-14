@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-14T13:23:46.093718Z",
+  "generatedAt": "2026-10-14T14:17:53.658768Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 543.45,
-      "weekAgoPrice": 529.2999877929688,
-      "percentChange": 2.67,
+      "currentPrice": 539.46,
+      "weekAgoPrice": 529.760009765625,
+      "percentChange": 1.83,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 228.52,
-      "weekAgoPrice": 239.24000549316406,
-      "percentChange": -4.48,
-      "flagged": false,
-      "news": []
+      "currentPrice": 224.446,
+      "weekAgoPrice": 237.47000122070312,
+      "percentChange": -5.48,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Nvidia (NVDA) Just Overtook the 20-Day Moving Average - Zacks Investment Research",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNVRTd3ZTMnpEWm4wNG5oaGZPX0FRQ2ZXYTNrN2UxbFBteUZJS3FXMWlyZ3B0NG5lbkR0Um1UbGR6LXFvbVVkSVBFOE42a0R3U0Z5ZWZXZUFoZDc0cFU1NTlFalBTUmpTdWtCQkpaV3R1T2t1LVZ5WWZ6djVGUEJPM0lFM1h4S2JVR0NhVWRRNThhZm9BUzFFRlFQTzhIX3lVRld4ZFZBdzZnbFhjd28wRlNzejFmVnU3TXk5bGQzYS1OQXFMMUtvYmtfd2c0Z2xacDlCRzJYS2NZY1k2MlBOQ0Nvb0JDMnZ5ZDk5eGxzN3dmRTJ1ZHZJODRCaw?oc=5"
+        },
+        {
+          "title": "Trump and Nancy Pelosi\u2019s Top AI Stock Pick: NVIDIA (NVDA) - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2dzUkJHbHQ3c1VVS0pwZXQ5dFpkLUJyQTRHM2UxMDZIWmlVY1lKb0dESkJyODh6YzVmUE1pd0NWRHpWX2Z2WGI1M0tPbTc5TkZpSFByMVpGaWpfSF9jVnY3dlQ3YjlmUEhYRFZ3WFlxTjRLenNvUHJDdFFPOW5JX2pVdEtqWHJEUVl2YjY0S1J1bnoy?oc=5"
+        },
+        {
+          "title": "A $250 Million Why Nvidia Stock in News - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaUV5dC1FYXlrQUlua1VGZGJsRUY5S3RhU1h2WEpMMkZjSVVTVkJrQ3p5MXRVOTlPTW84ZWxaRVVRZ240dWFUTU5RVjFwbTNQRnpOS1pkT1JzX2hMdEl1ZUFaZEN4VmNCOEloX1c2di14d2xqbGthbXc2UE45bjBTQ0VTaUF3Z2xmYktENXVicFp2SHhwRnhyZlZEeHJJbWF3VVlBUUZZQTIzZ3NSSFFMdWtaSEc5MXJZYVZyOTdid0RNcUJWaGJrZk1UVzhaSVRrUnQ3TmltcTlMVkIzTzdic2hsY3RNd2I2a0pILV85ZnR4TUhqUkJSVVBZUW40VjA3cGhVWW91RWY3WGkxOHUzZA?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
@@ -92,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 5
 }
