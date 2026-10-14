@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-12T18:16:31.944124Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 226.55,
-        "weekAgoPrice": 238.89999389648438,
-        "percentChange": -5.17,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Why Are Nvidia, AMD and Intel Stocks Falling Today? AI Chip Selloff Deepens - Stocks Down Under",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwQjkyMXh0YndVRlJhS3FBSll4dVB4akV2TWoyclpKWEE3RXEzODUwYWxtczdwdV9PUFFLUnVfenNtSWpZWnlGRUMzbGJiVHpaOVA0WEVmQ3RzSHFOalAzWENZWFVJeW1QMWtPRDh2YnRKNkdGYzFfN2hR?oc=5"
-          },
-          {
-            "title": "NVDA Stock Falls to $225 as Microsoft Chip and Talks to Invest in Reflection AI Raise Debt Fears - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQi1kRFM2TlhPWllzeE9LeGdRNGF0V1VROGNqOEtCM2JraDB4N2xta1czaE1ZeE9MRzljZlpfaUdSTFdFV05vM0JodkZibGh1MktvcHBhdkR0VWRjZEVaeUN4QVFydzhVdFJmYmlsM3Vsb3RFS21qTHhvdmFDUGJYTEpuNVRFV1Eza0l5Qk9MVF82eEozb2N1dk02dGdSRVU5NElMd183SzNKQjlYSXF1amFXaWdyZWxQcXh1Y0xZVy1vdjlKUUxaNFNEdmhvcEw4TVRseA?oc=5"
-          },
-          {
-            "title": "AMD Vs. Nvidia: If You Can Only Own One to Finish 2026, It\u2019s This One - 24/7 Wall St.",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVFaZWZDaFZUTGhVMkVnV0ZtRnZVcmptbHJxbUtzRjFWSEpvLTdoVnZsSUoyRGtWdU91a2t0VlU0czBtaEdueWwyYWF5U0NtWnlxWGJWc0JYc3BFVlhBMVppTzM1c2p5SlpjSTNnbDR4SF8zaHFOaVZZbmFfc1FXcEFtNk1TYjdYbEdOdmxBcHNLQVZocUpQYk1JZUNfcW1ZZ0NWajU3NWljdWN6amc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -16.33,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.8600000143051147,
-        "percentChange": -22.04,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.2699999809265137,
-        "percentChange": -6.3,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 7.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-12T19:16:43.300941Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2243,6 +2184,65 @@
           {
             "title": "A $250 Million Why Nvidia Stock in News - GuruFocus",
             "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaUV5dC1FYXlrQUlua1VGZGJsRUY5S3RhU1h2WEpMMkZjSVVTVkJrQ3p5MXRVOTlPTW84ZWxaRVVRZ240dWFUTU5RVjFwbTNQRnpOS1pkT1JzX2hMdEl1ZUFaZEN4VmNCOEloX1c2di14d2xqbGthbXc2UE45bjBTQ0VTaUF3Z2xmYktENXVicFp2SHhwRnhyZlZEeHJJbWF3VVlBUUZZQTIzZ3NSSFFMdWtaSEc5MXJZYVZyOTdid0RNcUJWaGJrZk1UVzhaSVRrUnQ3TmltcTlMVkIzTzdic2hsY3RNd2I2a0pILV85ZnR4TUhqUkJSVVBZUW40VjA3cGhVWW91RWY3WGkxOHUzZA?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -13.1,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.42,
+        "weekAgoPrice": 1.7999999523162842,
+        "percentChange": -21.11,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.20000000298023224,
+        "percentChange": 7.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 10.53,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-14T15:16:30.074246Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 223.505,
+        "weekAgoPrice": 237.47000122070312,
+        "percentChange": -5.88,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Oct 2026 232.500 call (NVDA261014C00232500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZSHVKcTFqWWhuVnBiZ3BMR0xIV2FRYUl5RU9LMzFuTGZPeEVMTEZidTNSQ1RaSlpyejNkeExJLUxJdFBCU3ZCVm9iX1Y3YklpV3lDTThyQnp2bkJhMEJHMDQ4X1BQZw?oc=5"
+          },
+          {
+            "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027. - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRnJ2cVdfcDNBZVhTeWM3MkpXWXBldF9tZDVmOWVnV1N0ZnpibElsd2hqYzFVeG1wd3BhUmR2bXRTLWQ4Wmc1OXZwT01kaElfNmlUSnpZSWRWcGZ5LWFHZUNEZE42MGoyaHpKOVd6LXBvdzZzWEtQdHN5SUxWemNtS3Y0N0pROGJFQzY5UmFpdThBN0FRczZPaEVLQkJhN0YwUzZlWmlnd2YxMkJtRFI4TER4VldXLXVMYl81R0RmOVFyOTRHUjJXZXdNZGlVRDBObV8tbVZQZmRVN0pjUHI1X1VkSFlCdkFXVnpNN2ZmbGVtT2FtMU5oVGNWeUNEaVo0YzFqQk04LWFwTms1cm5XNF92UWlXMFY4NVQzT0RLanNSSVFvWk9IYmh2bw?oc=5"
+          },
+          {
+            "title": "A $250 Million Why Nvidia Stock in News - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFlnMmxDejRVM0Zzd2M0UWdOZHBwNVlnUE50dWs2a243UkxOQ2VDaU5ONndEbS1ub3ZKSm1vTDctaVJiVlNnSDd3elBYbWxxeGpxN1VjYUdSSjlKQXp4a3RIcjZCN3VDc3BPbFZ6QWJOVzludzFYYU5VM3NUY0hrT1Q4MA?oc=5"
           }
         ]
       },

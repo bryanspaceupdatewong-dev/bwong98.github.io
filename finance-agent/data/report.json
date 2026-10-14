@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-14T14:17:53.658768Z",
+  "generatedAt": "2026-10-14T15:16:30.074246Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 539.46,
+      "currentPrice": 538.61,
       "weekAgoPrice": 529.760009765625,
-      "percentChange": 1.83,
+      "percentChange": 1.67,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 224.446,
+      "currentPrice": 223.505,
       "weekAgoPrice": 237.47000122070312,
-      "percentChange": -5.48,
+      "percentChange": -5.88,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia (NVDA) Just Overtook the 20-Day Moving Average - Zacks Investment Research",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNVRTd3ZTMnpEWm4wNG5oaGZPX0FRQ2ZXYTNrN2UxbFBteUZJS3FXMWlyZ3B0NG5lbkR0Um1UbGR6LXFvbVVkSVBFOE42a0R3U0Z5ZWZXZUFoZDc0cFU1NTlFalBTUmpTdWtCQkpaV3R1T2t1LVZ5WWZ6djVGUEJPM0lFM1h4S2JVR0NhVWRRNThhZm9BUzFFRlFQTzhIX3lVRld4ZFZBdzZnbFhjd28wRlNzejFmVnU3TXk5bGQzYS1OQXFMMUtvYmtfd2c0Z2xacDlCRzJYS2NZY1k2MlBOQ0Nvb0JDMnZ5ZDk5eGxzN3dmRTJ1ZHZJODRCaw?oc=5"
+          "title": "NVDA Oct 2026 232.500 call (NVDA261014C00232500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZSHVKcTFqWWhuVnBiZ3BMR0xIV2FRYUl5RU9LMzFuTGZPeEVMTEZidTNSQ1RaSlpyejNkeExJLUxJdFBCU3ZCVm9iX1Y3YklpV3lDTThyQnp2bkJhMEJHMDQ4X1BQZw?oc=5"
         },
         {
-          "title": "Trump and Nancy Pelosi\u2019s Top AI Stock Pick: NVIDIA (NVDA) - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2dzUkJHbHQ3c1VVS0pwZXQ5dFpkLUJyQTRHM2UxMDZIWmlVY1lKb0dESkJyODh6YzVmUE1pd0NWRHpWX2Z2WGI1M0tPbTc5TkZpSFByMVpGaWpfSF9jVnY3dlQ3YjlmUEhYRFZ3WFlxTjRLenNvUHJDdFFPOW5JX2pVdEtqWHJEUVl2YjY0S1J1bnoy?oc=5"
+          "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027. - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRnJ2cVdfcDNBZVhTeWM3MkpXWXBldF9tZDVmOWVnV1N0ZnpibElsd2hqYzFVeG1wd3BhUmR2bXRTLWQ4Wmc1OXZwT01kaElfNmlUSnpZSWRWcGZ5LWFHZUNEZE42MGoyaHpKOVd6LXBvdzZzWEtQdHN5SUxWemNtS3Y0N0pROGJFQzY5UmFpdThBN0FRczZPaEVLQkJhN0YwUzZlWmlnd2YxMkJtRFI4TER4VldXLXVMYl81R0RmOVFyOTRHUjJXZXdNZGlVRDBObV8tbVZQZmRVN0pjUHI1X1VkSFlCdkFXVnpNN2ZmbGVtT2FtMU5oVGNWeUNEaVo0YzFqQk04LWFwTms1cm5XNF92UWlXMFY4NVQzT0RLanNSSVFvWk9IYmh2bw?oc=5"
         },
         {
           "title": "A $250 Million Why Nvidia Stock in News - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaUV5dC1FYXlrQUlua1VGZGJsRUY5S3RhU1h2WEpMMkZjSVVTVkJrQ3p5MXRVOTlPTW84ZWxaRVVRZ240dWFUTU5RVjFwbTNQRnpOS1pkT1JzX2hMdEl1ZUFaZEN4VmNCOEloX1c2di14d2xqbGthbXc2UE45bjBTQ0VTaUF3Z2xmYktENXVicFp2SHhwRnhyZlZEeHJJbWF3VVlBUUZZQTIzZ3NSSFFMdWtaSEc5MXJZYVZyOTdid0RNcUJWaGJrZk1UVzhaSVRrUnQ3TmltcTlMVkIzTzdic2hsY3RNd2I2a0pILV85ZnR4TUhqUkJSVVBZUW40VjA3cGhVWW91RWY3WGkxOHUzZA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFlnMmxDejRVM0Zzd2M0UWdOZHBwNVlnUE50dWs2a243UkxOQ2VDaU5ONndEbS1ub3ZKSm1vTDctaVJiVlNnSDd3elBYbWxxeGpxN1VjYUdSSjlKQXp4a3RIcjZCN3VDc3BPbFZ6QWJOVzludzFYYU5VM3NUY0hrT1Q4MA?oc=5"
         }
       ]
     },
