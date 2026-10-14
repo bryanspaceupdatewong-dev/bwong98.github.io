@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-13T02:16:34.906291Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 226.32,
-        "weekAgoPrice": 238.89999389648438,
-        "percentChange": -5.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy. - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPeTVYQ0NkUHVKMnVsUGpsSkFTUUl1YmlUUTFYOTlrRXJyd2NOWjhwSU96Ui10bGdnaVkxbFBCUDBJcmNWODBRSHlXbWhXWkJCcW1pdUtjUDFxcy1nRVlUZl9uQ01JVWhHTmM3V0hEWGpwbVg5UXdDamNnM2l3UVJ3b1FaSFUxY3hFRXRVRUlyVkV0Q3JRbE5GMm9tMGhyNDQ4LWswMzhka3kwY3VxUi05ZE91d3BBS3F0QUJJV0VHRlVGWDhBcjBPT3lYa1ZWNXo2YVB5Z0h5YWZlSmxmWEU3TmU5UGFkeVZmejVlMFJhUmp0SC1ZNUZSYXBOcjNYN3FSZzdtbE5WVQ?oc=5"
-          },
-          {
-            "title": "Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy. - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanc1TUVQTHpfTW9XcmJ4bjkzOGhVMmozNWZZQl9kRkROZGtWOHlCUVd0U19uSzlhMzFVNmhRbDdtT3hLSWFSQzV2dGt5MC1aYTU3cUJMMXFWYTlQNm9ETDJzRDkwUEo3Y2RKTEx0NTY2Z1BFTnkyYW1wU3BtVDctMG9CV21qVjNPdlEwVG5wR0tlLUpuRjUxbVNKVnRDYkI2WHFtWHYyS2Z6RDlNUEwtcjJ4dS1jcWpDa18wb2c3RmpNZWFBeUc3Vnd6TDc?oc=5"
-          },
-          {
-            "title": "NVIDIA (NVDA) Announces Historic $150 Billion Stock Buyback Plan - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUJpZFZWXzV2eF9SZE5RZV9jUXc3ckt4YmRFNnpWVnQzMTdaa3FHV0Y3dEtLc3htRXRnS2doUndpTV9ZalpfQ01tRlUxR0tSTzEtOWFyUzBzMHd5MGJ0X25HUE1aalhXTlI5Y0pUcmNoaGhHbXNueW56bzF3UzlmOGpvZlpDZURQSUM5M25ZTXVHTXdrWkowVzdGVHdYdE9ISXc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -13.61,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.48,
-        "weekAgoPrice": 1.8600000143051147,
-        "percentChange": -20.43,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.18,
-        "weekAgoPrice": 1.2599999904632568,
-        "percentChange": -6.35,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.18,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 6.31,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-13T03:16:26.492964Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2304,6 +2245,65 @@
           {
             "title": "Nvidia Stocks Fall 2.9% Although New AI Racks Support 250 Kilowatts - TradingView",
             "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDI0a0NpM3VkUHV3NGlZRDAwRnM5ajROSElIZXZqTXc1YkE0Y3pXZk1pSjRvRmdYNW1yMllOdnRJYTdHVjNqd2s5dVJKVkQwZ3dWU21GdmdHTlptVU1rSVJyVTczMjB5WDl3aUxYTHoxZ243NmUyVHBXNkw4TWVLMHlMcVg2YTFLSUZMOTNUMDZRNGNOMkNNRHdqZkF0SEJXeWM0bXAxRTFrTzY5WXR6amZOTmlheGtEMXBqS0ZBNktaOE9C?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -13.1,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.42,
+        "weekAgoPrice": 1.7999999523162842,
+        "percentChange": -21.11,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.20000000298023224,
+        "percentChange": 7.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 10.53,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-14T22:16:30.199494Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 221.3,
+        "weekAgoPrice": 237.47000122070312,
+        "percentChange": -6.81,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA (NVDA) Shares Drop 3.16% Amid AI Concerns - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU3dDY2lyODZUQWJxbWkwLUNQNmFWMS1RVW9pQVk0QndSeHRoY19HZ0h0VTF4Z1l2S25vLUVzSWRfbWZTSTNlblp2Z0NPSUl5NDF6czRCNW1xMjZ0a1IzMTZiakZTVE5QbGZtZThEQ2R5dzIydXhxZVo1SDAtRTJsQUZOWUc4LU1TOG5F?oc=5"
+          },
+          {
+            "title": "NVIDIA (NASDAQ:NVDA) Shares Down 3.2% - Time to Sell? - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2xiX0hKR3B1NUdLYkNnS25YZDJwSTB2NHozd1NWZGozOXF5YnhzWng5V05BY2Y1dUljMFd1SlRFbDRNUV91bzRvSjdSZW8yMHlQQVFhcEJHQTduTlFvVG5paFA2bG54TGh6V2ktb1RnanJrOFdETUd2ZXFqbU1jbGNjZ01ROTNQUWpnRmxsWnJJa1FQaXkwVVpURFBQeUxXdVV6NWMtUTA1UQ?oc=5"
+          },
+          {
+            "title": "Nvidia-Backed CoreWeave\u2019s Stock Plunges Amid Worries About AI Debt - Investopedia",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWJjYi1CbG9vVy11VURiQ2gwWVJWSC0tdnhRaXcyMzR6aHYxZEtSSkV3SERheWZkNU9iWUR0bjNvQVc1YlQyV3lzU1cySHU5Vk9CaFVneVVFTlhhLV9YVGJTelpXcFFUUVV0SUNjb2hMX0FWU3lBa0xDLXYwdm5WTVpNeGVrbU1ZRnNwbXJxTWFuXzRfNWFBYmE1cWNON0xFaU1oMVNRR2hQYnM?oc=5"
           }
         ]
       },
