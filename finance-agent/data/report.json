@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-10-14T18:16:37.241419Z",
+  "generatedAt": "2026-10-14T19:16:15.422500Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 534.55,
+      "currentPrice": 532.87,
       "weekAgoPrice": 529.760009765625,
-      "percentChange": 0.9,
+      "percentChange": 0.59,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 220.73,
+      "currentPrice": 220.28,
       "weekAgoPrice": 237.47000122070312,
-      "percentChange": -7.05,
+      "percentChange": -7.24,
       "flagged": true,
       "news": [
         {
-          "title": "Stocks on Watch After CPI-Fueled Breakdown: SPX, Nasdaq, NVDA - StoneX",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ0JPYTlHRzVWNm5SVDkzcXY0ODdkODZEcUhoSTlLdGVNWnd1VW1Wejg5RUxkdDJpV2xUdU1NYUQ4VzkwUW1WRWRPNzBVd3lsZjl3ZUdnVEpqQzdZN3FlejhDSmpQMXR6Ty1mcFRUQW05OUVoU2loRWZEMVhtQ1ZKb194VThTcDhrY0NoVlQzc2xaZFlvcHhNdXM2VExTT0lGVlEzbEJ4WUZPUDZqVDk2dGgzdE1hbWRT?oc=5"
+          "title": "Why is NVIDIA stock sliding today? - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOGpqZzg3NmtJWE1IRUhmUWZRdHctOHp0aUxfSEk0Nk42VEdPbEVUUGtZODJoTVpST3lHWTl5bm9Zd3Jfb09qbzVWWU51bTNzNUEtYlFKVkpEbEI0MFFtY0VKdERmaTNzZ0NMUzNoQWFzTElxVVBDYzdJdlFyZ3p6S3hLcFN4djU3U0M2MkFDR0JNOGtNN2lzb2s5VQ?oc=5"
         },
         {
-          "title": "10 Information Technology Stocks Whale Activity In Today\u2019s Session - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckh1YkZFQ0RQX3BWSXlkRlk4R0w3ZXE5cHA1aHM0THFnLTdQR2dfd21aTC1HWTF2dDM1MG9GMFN1VElpSVJjN1Z0NFRaNjB5dFZmYmp0RUR1V0hVT0lIV202Qm55UmQ4aFdkcDNGNTQ0aWN3ZVlmcl8zcHZWNTZEX09qOG9Ubkk0TFRwZEg4RTdvZGhSTzAwV0ZvMW8yUmlHTkF5NUptZnJ0UkFpVWRYaDFGSEhNbWROUFZJ?oc=5"
+          "title": "Why is NVIDIA stock sliding today? By Investing.com - Investing.com UK",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR01GVW4zcEdTRmZXNnNlZFdZNUdQSEpnTGdCYkxlNU80amJrMHFoVFltd0tzX3NtZVRNMExMZGNEMl9hd0ZuSW9TU3ZVSUhvVGk5T2NEeGYtRzd1RDJkZGlFdGd0SVQ2OGlHQ0tUTFQ4bW9mMldOcmh4cmVaeGJtalJBUmtPdjV0UGswZFVlQTFORDU3R2Nud2Rn?oc=5"
         },
         {
-          "title": "NVDA Oct 2026 230.000 call (NVDA261014C00230000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EV3g4LVBSM2lzNDZQWlNFS0owZ24tcWZHZ3ZmQVFwM0tGVXRNQ2hDb19zcmF2cnFiRGlTUGFEX0w0VUhsZEFFNnhZbGI3VWtUSkZBQXBZMHp6M3ZRWDVEd25RTnQzQQ?oc=5"
+          "title": "Nvidia Stocks Fall 2.9% Although New AI Racks Support 250 Kilowa - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVZqMGJ6Qjc5OGNEV0xDTHVRTTNTX0dnd0xsNXJqVVN6NTdIZ3hDTWdYZlpLNDU5OFowcWlMcmdfTzhwMGNPQTFGazg1dWZmNVROa3lTTzhycndJdE9vTUx0cFVWR0VJeC14WWEzSUhndFBUYlBpZkRENkx3ZkdGVDJkSnQzajlBWmdTSG1ud2lPT3U5ZDhvQ0g0Zk80MHBvTVB2MmFSYw?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.75,
-      "weekAgoPrice": 4.670000076293945,
-      "percentChange": 1.71,
+      "weekAgoPrice": 4.590000152587891,
+      "percentChange": 3.49,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.33,
-      "weekAgoPrice": 7.429999828338623,
-      "percentChange": -1.35,
+      "weekAgoPrice": 7.25,
+      "percentChange": 1.1,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.26,
-      "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -14.29,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": -13.1,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.42,
-      "weekAgoPrice": 1.840000033378601,
-      "percentChange": -22.83,
+      "weekAgoPrice": 1.7999999523162842,
+      "percentChange": -21.11,
       "flagged": true,
       "news": []
     },
@@ -75,8 +75,8 @@
     {
       "ticker": "5296.KL",
       "currentPrice": 1.2,
-      "weekAgoPrice": 1.25,
-      "percentChange": -4.0,
+      "weekAgoPrice": 1.2300000190734863,
+      "percentChange": -2.44,
       "flagged": false,
       "news": []
     },
@@ -99,11 +99,11 @@
     {
       "ticker": "5341.KL",
       "currentPrice": 0.695,
-      "weekAgoPrice": 0.6600000262260437,
-      "percentChange": 5.3,
-      "flagged": true,
+      "weekAgoPrice": 0.699999988079071,
+      "percentChange": -0.71,
+      "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 6
+  "flaggedCount": 5
 }
