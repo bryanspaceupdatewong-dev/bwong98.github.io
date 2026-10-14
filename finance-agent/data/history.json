@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-12T19:16:43.300941Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 226.405,
-        "weekAgoPrice": 238.89999389648438,
-        "percentChange": -5.23,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVDA Stock Falls to $225 as Microsoft Chip and Talks to Invest in Reflection AI Raise Debt Concerns - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUW93M2xqckdrUXFJV1lIdUNRNjY0UlQyVlBtQk9iYUd4bjRXUGhxaW1ZWGI5eEtiSkU1THU1amE1aHZQRFdXY3JzbTRKVFpXUFlyMjJHd25HcFVIZjRFR094cUpjSUxFRTNfZ3d6cG4xdmt5UGhwZlFrc0F3a2Jpdnp3eHlwVjZrdTR2U0hqODFlRTE5ZUZtY2ZzTENucGUzaVJqbUhsRURMSXRIRFhJTlRNLTZ0aGlMblhyV2ROR201WE1CdjV0YS1ubkRwbnR1ZGVvUkV2ZU0?oc=5"
-          },
-          {
-            "title": "Why Are Nvidia, AMD and Intel Stocks Falling Today? AI Chip Selloff Deepens - Stocks Down Under",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwQjkyMXh0YndVRlJhS3FBSll4dVB4akV2TWoyclpKWEE3RXEzODUwYWxtczdwdV9PUFFLUnVfenNtSWpZWnlGRUMzbGJiVHpaOVA0WEVmQ3RzSHFOalAzWENZWFVJeW1QMWtPRDh2YnRKNkdGYzFfN2hR?oc=5"
-          },
-          {
-            "title": "AMD Vs. Nvidia: If You Can Only Own One to Finish 2026, It\u2019s This One - 24/7 Wall St.",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVFaZWZDaFZUTGhVMkVnV0ZtRnZVcmptbHJxbUtzRjFWSEpvLTdoVnZsSUoyRGtWdU91a2t0VlU0czBtaEdueWwyYWF5U0NtWnlxWGJWc0JYc3BFVlhBMVppTzM1c2p5SlpjSTNnbDR4SF8zaHFOaVZZbmFfc1FXcEFtNk1TYjdYbEdOdmxBcHNLQVZocUpQYk1JZUNfcW1ZZ0NWajU3NWljdWN6amc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -16.33,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.8600000143051147,
-        "percentChange": -22.04,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.2699999809265137,
-        "percentChange": -6.3,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 7.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-12T20:16:54.940470Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2275,6 +2216,73 @@
         "currentPrice": 1.26,
         "weekAgoPrice": 1.1399999856948853,
         "percentChange": 10.53,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-14T16:17:08.115835Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 222.075,
+        "weekAgoPrice": 237.47000122070312,
+        "percentChange": -6.48,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Is Nvidia Still the Best AI Stock to Buy in 2026, or Is This Challenger? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcktBMVhpVFVZU1ozb0c5U3g0NXFvcVAySGp6Y0xiZmNzVlM1aGE4QlBlRU85Q1lrSUljYVYteGRpb1pFUmhCTHVCTlVsOHByUWdUQlNJd2VnMjFOQ1BVVjl4NmF4U01ITVBhLURTZlZuc2UxM1NMbm9LelptTWtoN280T0VQd1ViVElNdGZJU0k0cXNnMTMzOGFZWTU4REpmS1ZOOHFHQWYtOHh5MDdhN3dfVQ?oc=5"
+          },
+          {
+            "title": "Don\u2019t Get NVIDIA\u2019s Reflection AI Interest Wrong: Its Moat Could Deepen - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlFPUWx6RnVOdHBSX3dnZ1d6cjIwRmhwOGF0aDJ0bFQ2c1RGNFZHQzcwcFM5T2dRejlpOTQ4bmh6VHNYVnNKWVQwOHRDTFBkVmZhSFhIRXpXeVJLN09DOVQ5OVl6bEF1OW4xZEZQRGhqZldNR2k0YzY2eUNxSVdrQjZwWEl4eWlyeUF4bWVCeWdFV1ZCdF9xU2Vub1BteW10SWJKNlBTNA?oc=5"
+          },
+          {
+            "title": "NVDA Oct 2026 232.500 call (NVDA261014C00232500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZSHVKcTFqWWhuVnBiZ3BMR0xIV2FRYUl5RU9LMzFuTGZPeEVMTEZidTNSQ1RaSlpyejNkeExJLUxJdFBCU3ZCVm9iX1Y3YklpV3lDTThyQnp2bkJhMEJHMDQ4X1BQZw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.4700000286102295,
+        "percentChange": -14.29,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.42,
+        "weekAgoPrice": 1.840000033378601,
+        "percentChange": -22.83,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.20000000298023224,
+        "percentChange": 7.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 10.53,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.695,
+        "weekAgoPrice": 0.6600000262260437,
+        "percentChange": 5.3,
         "flagged": true,
         "news": []
       }

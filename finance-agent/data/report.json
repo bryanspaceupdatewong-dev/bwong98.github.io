@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-10-14T15:16:30.074246Z",
+  "generatedAt": "2026-10-14T16:17:08.115835Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 538.61,
+      "currentPrice": 535.83,
       "weekAgoPrice": 529.760009765625,
-      "percentChange": 1.67,
+      "percentChange": 1.15,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 223.505,
+      "currentPrice": 222.075,
       "weekAgoPrice": 237.47000122070312,
-      "percentChange": -5.88,
+      "percentChange": -6.48,
       "flagged": true,
       "news": [
         {
+          "title": "Is Nvidia Still the Best AI Stock to Buy in 2026, or Is This Challenger? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcktBMVhpVFVZU1ozb0c5U3g0NXFvcVAySGp6Y0xiZmNzVlM1aGE4QlBlRU85Q1lrSUljYVYteGRpb1pFUmhCTHVCTlVsOHByUWdUQlNJd2VnMjFOQ1BVVjl4NmF4U01ITVBhLURTZlZuc2UxM1NMbm9LelptTWtoN280T0VQd1ViVElNdGZJU0k0cXNnMTMzOGFZWTU4REpmS1ZOOHFHQWYtOHh5MDdhN3dfVQ?oc=5"
+        },
+        {
+          "title": "Don\u2019t Get NVIDIA\u2019s Reflection AI Interest Wrong: Its Moat Could Deepen - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlFPUWx6RnVOdHBSX3dnZ1d6cjIwRmhwOGF0aDJ0bFQ2c1RGNFZHQzcwcFM5T2dRejlpOTQ4bmh6VHNYVnNKWVQwOHRDTFBkVmZhSFhIRXpXeVJLN09DOVQ5OVl6bEF1OW4xZEZQRGhqZldNR2k0YzY2eUNxSVdrQjZwWEl4eWlyeUF4bWVCeWdFV1ZCdF9xU2Vub1BteW10SWJKNlBTNA?oc=5"
+        },
+        {
           "title": "NVDA Oct 2026 232.500 call (NVDA261014C00232500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZSHVKcTFqWWhuVnBiZ3BMR0xIV2FRYUl5RU9LMzFuTGZPeEVMTEZidTNSQ1RaSlpyejNkeExJLUxJdFBCU3ZCVm9iX1Y3YklpV3lDTThyQnp2bkJhMEJHMDQ4X1BQZw?oc=5"
-        },
-        {
-          "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027. - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRnJ2cVdfcDNBZVhTeWM3MkpXWXBldF9tZDVmOWVnV1N0ZnpibElsd2hqYzFVeG1wd3BhUmR2bXRTLWQ4Wmc1OXZwT01kaElfNmlUSnpZSWRWcGZ5LWFHZUNEZE42MGoyaHpKOVd6LXBvdzZzWEtQdHN5SUxWemNtS3Y0N0pROGJFQzY5UmFpdThBN0FRczZPaEVLQkJhN0YwUzZlWmlnd2YxMkJtRFI4TER4VldXLXVMYl81R0RmOVFyOTRHUjJXZXdNZGlVRDBObV8tbVZQZmRVN0pjUHI1X1VkSFlCdkFXVnpNN2ZmbGVtT2FtMU5oVGNWeUNEaVo0YzFqQk04LWFwTms1cm5XNF92UWlXMFY4NVQzT0RLanNSSVFvWk9IYmh2bw?oc=5"
-        },
-        {
-          "title": "A $250 Million Why Nvidia Stock in News - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFlnMmxDejRVM0Zzd2M0UWdOZHBwNVlnUE50dWs2a243UkxOQ2VDaU5ONndEbS1ub3ZKSm1vTDctaVJiVlNnSDd3elBYbWxxeGpxN1VjYUdSSjlKQXp4a3RIcjZCN3VDc3BPbFZ6QWJOVzludzFYYU5VM3NUY0hrT1Q4MA?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.75,
-      "weekAgoPrice": 4.590000152587891,
-      "percentChange": 3.49,
+      "weekAgoPrice": 4.670000076293945,
+      "percentChange": 1.71,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.33,
-      "weekAgoPrice": 7.25,
-      "percentChange": 1.1,
+      "weekAgoPrice": 7.429999828338623,
+      "percentChange": -1.35,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.26,
-      "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -13.1,
+      "weekAgoPrice": 1.4700000286102295,
+      "percentChange": -14.29,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.42,
-      "weekAgoPrice": 1.7999999523162842,
-      "percentChange": -21.11,
+      "weekAgoPrice": 1.840000033378601,
+      "percentChange": -22.83,
       "flagged": true,
       "news": []
     },
@@ -75,8 +75,8 @@
     {
       "ticker": "5296.KL",
       "currentPrice": 1.2,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -2.44,
+      "weekAgoPrice": 1.25,
+      "percentChange": -4.0,
       "flagged": false,
       "news": []
     },
@@ -99,11 +99,11 @@
     {
       "ticker": "5341.KL",
       "currentPrice": 0.695,
-      "weekAgoPrice": 0.699999988079071,
-      "percentChange": -0.71,
-      "flagged": false,
+      "weekAgoPrice": 0.6600000262260437,
+      "percentChange": 5.3,
+      "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 6
 }
