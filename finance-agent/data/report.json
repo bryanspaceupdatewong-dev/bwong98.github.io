@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:16:35.352934Z",
+  "generatedAt": "2026-10-15T22:15:59.551287Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "NVIDIA (NASDAQ:NVDA) Shares Down 1.8% - Here's What Happened - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0xuLVlSOWFvVDVQN0ZXWWRZTUw5NWJnYXRNQkdGM1hYT1duYUdJRVFrZlh6OVU0anNJcTFQRFBxR1VnZUdBU2NWR1NVQmFBeXktVGRiM1FyYk1lYnByd1Y1ZUR5TFJCR2lJczllQTdrZ1pyU3ZhOFc2X3A2dTlwbnJfaU4tNDZkX25fcFFUZDJOdUc1dnBRNzVuM2N0Z3Q5MVR0QWQ1Y2FrTS1DbHFLMHU3VQ?oc=5"
+        },
+        {
+          "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdzFZUlhsa21xa19DOXJyb3plbFQ1ek53ZF81bXdhOWJwcURqN043VktFUjBjYzVoWndQai1Dd05nUVo5N0xvejRJWGtyWi1McmRXTmFqS0tsWDV2LW96bHZISnpPY3FaVXNLQVdXV0ZnZWhRc0RKajN0MmpfamQyM2dHSkdEZ1JycTJLdmI0LU5EZTRMYXdMVENTcVBlRTBBQmJ0cjg0a0E4MjlMRU9aczNtVHRIdnh1NWc?oc=5"
+        },
+        {
           "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lhcFhDalVzMzVWSUVsUWo2ZWtLYjdpR3dQUXJWWDc1UUFONzJUM3ZvazhJWFhxU0dST2R4cTgtaUdoTGx1MzFjOUU5U09ma3c4d0JNc3MzLWZxSGVOUVFTSFRxMWFRUEgxR1NCR2lWUHc5MFZZQmRJM1d1dFNZWWFkRnk5a0VWbXphUk90TWtUUktraE5lczFfLVVSbFBoRnBHYWMyY2VHSXFKd3p4VkZ6dW9NYUdwVTNHdTF0T0Y3SkVxbDhNQ2NTc2F4SnVrVGtReEt3?oc=5"
-        },
-        {
-          "title": "Micron vs. NVIDIA: Which AI Stock Is the Better Buy After Earnings? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY1BBcGlQTEdSRHZNS0x4b0NSc2xkd3BINW5iVHhwelZCbTF0dnBCVmRpdUY5S1NIdkVFeldXSXZGdlNudGQwQTNfX1VhUWFkOTBqU2Z3eW13Q3cxOGhnRWN2ajg3Tmt6QjVMc2NvbmVmQUN3VGs3WjgyY3F1U05UUmV3U1FqbGozamFrZURkQk5obmxOWE53eHlTQmxyVEJJMEVwOWE1THlsUTNNUUtmYzhRekZzNU1ZdDlZUXFVcTNDSENqaXNyZHpPcUNWcm05NmtJRnNqV2poTTVsWk9xWUxQcw?oc=5"
-        },
-        {
-          "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMS1aU1I4Zm1BdlZXdjJjeVZXdTk1aHJpUFBIdDlOdC1ERmN6eHp4VHhTdWJFLXZsczlocElfMm9sX2s1aFFad2NNQ2VmemVSVkN3TTFJTE5KUEg3bFF6eUY1bXZNc2J3Sk9qbEYybEFYcHdZTWZqMzJ4ZTIybFQ0VE5vTjNHUi1RbkhTTFRhNmV3TkxsLW9LRlVhalc2TTRhZVlMNE8ySl85VFl5bER3MTRlSlM?oc=5"
         }
       ]
     },
