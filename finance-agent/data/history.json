@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-13T15:17:00.748865Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 224.85,
-        "weekAgoPrice": 239.24000549316406,
-        "percentChange": -6.01,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock Falls as China AI-Chip Share Drops to 34% and Huawe - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWF9wZzZpV203OTB3ekdyZDQyaUc3REtiRWo4WG05ZWZ2d2UzbnNLNHJMdjN3QWRzcktMZDlScXQ5ejluSk9odHJYbDRNcS1oaXVHUDdGcEZlZzBqTGhJR3RrUGdkQkRUb3FBTjl3b2YxWHhPMXJ6X0Y5SDI0SGFLNlNMYy1OdXYxQVFCVUtHWTl3T3NYYmtfaEFjc04xNC1rRFhKaVU5Nzl6X3hv?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Slips. How Broadcom and Microsoft Are Shaking the Chip Sector. - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXVla2g5SlhMWnc4QkQ4LUl3U2ZvU09mcXVQQXFORlQ4Mk55VXFKNG9UVkFiYzI1TVhZbGVnMUtxc1BBM0pfVnQzU1B3ZkJTQlctMDZweG1FSUczWnp1NTlGd0p4aFk1SWZ5c0JCbzV1RXdJN0xzejZIZEx6RlN0ZlJ2cktzdXNCcGY2eDhB?oc=5"
-          },
-          {
-            "title": "Nvidia (NVDA) Was Among Claude AI\u2019s Top Picks This Year. Can The Stock Keep Rising? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelBUb2tTdXZWdUdLeGQ3MF9HVnhNMGg5bkFKWXJ0Nm9aX1B4T2JzalJpbEJOSEZBM1RUQTc3dk82dkpRZTJVM3ZPeGZCQm5WSUJ4NlpRbTExRDEwOXBRNTdrUGU4Q3h2bm8yb3hSX2dMSW1GRzFnbjJFZzlrNHpMZkdTYzc3R19tWFRJbDBYMmRvVVFTWjkw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -14.97,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.44,
-        "weekAgoPrice": 1.8600000143051147,
-        "percentChange": -22.58,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 8.11,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-13T16:18:17.842686Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2296,6 +2245,57 @@
           {
             "title": "NVIDIA Corporation $NVDA Stock Holdings Cut by SPX Gestao de Recursos Ltda - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMDQ1VnVnVU90M2s5anlidTNJY1lTV0J3MXlHMkVmZUhhWldoRE1OaXE2TzM1cG5QVnIxVlVaYzBCejNQLXU5MzNKZ1diOERVaVBpa3NoQzdYdC1WeThVcGJPWUQzOUVfcm5wUkhma0JFZDRVMTVqRUxjQlI4WndtWUhVUWpCMm52WGFzTmxxbGJ0cklTa19KVnFIN3hDenNhTnhmblN5LVhPWDhnMTdMOGYxRl9YM2EyaVJVZUNsb3ltVHdfcGFWeGRMT1BBZHM?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.4600000381469727,
+        "percentChange": -12.33,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.840000033378601,
+        "percentChange": -21.2,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.24,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": 6.9,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-15T10:11:49.881363Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 221.3,
+        "weekAgoPrice": 237.47000122070312,
+        "percentChange": -6.81,
+        "flagged": true,
+        "news": [
+          {
+            "title": "CoreWeave Stock Sinks Again as AI Debt Panic Spreads. Will Nvidia Come to the Rescue? - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5"
+          },
+          {
+            "title": "Why CoreWeave stock panic matters to Nvidia, explained in under 30 seconds - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzVES1hFdko3MUN3Z1VTa2JvM0N4ZVpnbXdyV19lTmZ2eHY4U2ZsTFZHN0ZIQ25LWkhCb1hmT2NkeER2T1Btam9EQ25vZWJ0cGpNNUc4OVVlOHg3bUF4d0dSckVPbGk4VkRhSkExNE1FekljQm4xMXJLeVBGWW5QRV85UmllTXBpM3JtbVZ3eXh5ZmlqSGhFX01RTHRzTTNNRzhSeTBqaTBHeWI3YUNfNUxnMlZoZWRyM01OXzFWMlBocWYxVXBqM05hU2dkTWhaWVYw?oc=5"
+          },
+          {
+            "title": "11,773,591 NVIDIA Corporation $NVDA Shares Sold by Wellington Management Group LLP - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFBfZnpZUEs5RW4xLWRLS3ByaVBycjh0YnRIUnhnTFI2czFzaDFkc2IxTzcwZnZtQ2lISXZTNlZSaDhQcEJLUjhMa0RaU3I3Qm1obVhaV2NKajA2eC1Fb0xoY0YyU0NIZkVBMjF4OTItVl9lTk95TmxLNDJHZXV3OFZGVWpYX010NVJCZVRDYVMxel84c09jTXN3cE0zQjdsbld4UGltSFZXU09ObGpDdjdsZTJ1Tnk5QVExTjZudlRXbmRQa2djSW1tZ091d0FvQmtXSnBsRQ?oc=5"
           }
         ]
       },

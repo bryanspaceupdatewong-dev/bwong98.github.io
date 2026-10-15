@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T09:16:28.264855Z",
+  "generatedAt": "2026-10-15T10:11:49.881363Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "CoreWeave Stock Sinks Again as AI Debt Panic Spreads. Will Nvidia Come to the Rescue? - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5"
+        },
+        {
+          "title": "Why CoreWeave stock panic matters to Nvidia, explained in under 30 seconds - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzVES1hFdko3MUN3Z1VTa2JvM0N4ZVpnbXdyV19lTmZ2eHY4U2ZsTFZHN0ZIQ25LWkhCb1hmT2NkeER2T1Btam9EQ25vZWJ0cGpNNUc4OVVlOHg3bUF4d0dSckVPbGk4VkRhSkExNE1FekljQm4xMXJLeVBGWW5QRV85UmllTXBpM3JtbVZ3eXh5ZmlqSGhFX01RTHRzTTNNRzhSeTBqaTBHeWI3YUNfNUxnMlZoZWRyM01OXzFWMlBocWYxVXBqM05hU2dkTWhaWVYw?oc=5"
+        },
+        {
           "title": "11,773,591 NVIDIA Corporation $NVDA Shares Sold by Wellington Management Group LLP - MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFBfZnpZUEs5RW4xLWRLS3ByaVBycjh0YnRIUnhnTFI2czFzaDFkc2IxTzcwZnZtQ2lISXZTNlZSaDhQcEJLUjhMa0RaU3I3Qm1obVhaV2NKajA2eC1Fb0xoY0YyU0NIZkVBMjF4OTItVl9lTk95TmxLNDJHZXV3OFZGVWpYX010NVJCZVRDYVMxel84c09jTXN3cE0zQjdsbld4UGltSFZXU09ObGpDdjdsZTJ1Tnk5QVExTjZudlRXbmRQa2djSW1tZ091d0FvQmtXSnBsRQ?oc=5"
-        },
-        {
-          "title": "3,347 Shares of NVIDIA Corporation $NVDA Acquired by Vermillion & White Wealth Management Group LLC - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWFZpdWtQWktuQ3VUVzMyOEowZFJ3SDRVcVB2TjBldllLNFB5M2lEbGNBVVJSS3VFOFhJOTcxN0lUSVdUZTVLVkRCaHY1eDFGWnZ0NldxSjVjQy1FbmZPYzcxZkplaElUWmtvX2RNRGc5Y1JSM0NwYjFpT0RtSTNmTVk2OVhxbFQycm5ULU9PWTh6Tkp2SFc2eXZDTlFTTFR5dnV4Mi1idVNHaXVMOXpiUlRrNzRGZHd4Sm5TNVUyMXVGZWFvbU04UUxaemxzYkJDaTFJdHlRMFJ6RTZIclRHRVp6TXQ5cW1GaFdKcQ?oc=5"
-        },
-        {
-          "title": "NVIDIA Corporation $NVDA Stock Holdings Cut by SPX Gestao de Recursos Ltda - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMDQ1VnVnVU90M2s5anlidTNJY1lTV0J3MXlHMkVmZUhhWldoRE1OaXE2TzM1cG5QVnIxVlVaYzBCejNQLXU5MzNKZ1diOERVaVBpa3NoQzdYdC1WeThVcGJPWUQzOUVfcm5wUkhma0JFZDRVMTVqRUxjQlI4WndtWUhVUWpCMm52WGFzTmxxbGJ0cklTa19KVnFIN3hDenNhTnhmblN5LVhPWDhnMTdMOGYxRl9YM2EyaVJVZUNsb3ltVHdfcGFWeGRMT1BBZHM?oc=5"
         }
       ]
     },
