@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-15T16:16:16.894849Z",
+  "generatedAt": "2026-10-15T17:16:08.425115Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 539.45,
+      "currentPrice": 539.205,
       "weekAgoPrice": 522.6099853515625,
-      "percentChange": 3.22,
+      "percentChange": 3.18,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 217.25,
+      "currentPrice": 217.61,
       "weekAgoPrice": 230.47999572753906,
-      "percentChange": -5.74,
+      "percentChange": -5.58,
       "flagged": true,
       "news": [
         {
-          "title": "Chip Stocks Plummet Amid Inflation Concerns: NVDA, AMD, MU, TSM - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGRZSllDM0xBbmZXV19COHRsaHFicW51UG5JRnBiWEk0ZjhYQ2FrWXpMWm9iQVd4N0hyNTFaSTlqY213cG03MnFtaXBNUDRZMUd0QWQwMXgxMWVqSllUbmdHV2k5Wm1iOWxNQ3RFRk1rVFNoQ1U0dXlzZnFDWFFwY3liakk0M19kMENxZ1h4Q1Z3QURZRURTUzBWQ0kyYmM?oc=5"
+          "title": "Nvidia CEO Urges U.S.-China AI Dialogue Amid Tech Sector Pressure, NVDA Stock Shows Attractive GF Value\u2122 - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUDJFTkhPTUVrd1Z5U25OQ2pBWjlaekZIR1ViTXd2UVZjVEZLbkw4UDNPTGphZ0JXczE2TE9jOXJyVmtXMXljcVpoa09kcjNkR3ZrVTRRaG5mZHVUR0hIMlZkclZtUDhZTGFIeTlnTHdXWjZjYTlFY05mT2xFR0YtS1hLTzV4djducEk1OFA3Yk9mSGI4SlhUNy1NM2pGY3NYOURmNGg3RDVMNFNydTJFTDNpM1NObDI3YjRPdDVjUHJqelRVSC1ha2dmTXZjbTZjREZqMw?oc=5"
         },
         {
-          "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMS1aU1I4Zm1BdlZXdjJjeVZXdTk1aHJpUFBIdDlOdC1ERmN6eHp4VHhTdWJFLXZsczlocElfMm9sX2s1aFFad2NNQ2VmemVSVkN3TTFJTE5KUEg3bFF6eUY1bXZNc2J3Sk9qbEYybEFYcHdZTWZqMzJ4ZTIybFQ0VE5vTjNHUi1RbkhTTFRhNmV3TkxsLW9LRlVhalc2TTRhZVlMNE8ySl85VFl5bER3MTRlSlM?oc=5"
+          "title": "Nvidia\u2019s Huang Says CoreWeave Doesn\u2019t Need a Backstop - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5"
         },
         {
-          "title": "AMD, NVDA, Other Chip Stocks Extend Rout Amid AI Debt Concerns \u2014 Saxo Says Financing Squeeze Could Hit Supply Chain - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjdKRG5kci1iQkJoSWEtdDVBQVE0UDBVMjB0VkR4NDVJTlNkLUhBSG5mUFd1enRxNkF2Yy1RYmhMZXZRaTNPb25sT25NZks5ODZKSDlUbXpQRC1odUtwOEhXTTdQdDdYbXgyUklCUnh6WkNUVm1CaWJkamJqME5hUGczczMxaFdBT05iNzRrZmgxSGlHT2c?oc=5"
+          "title": "Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic' - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3RweTh1THdrck1qLURYMnJEVW03ZzdxNTIwZTVRVjV3MS1YM0E1V2VOblNmdzIzdUU2RXRVSGx3WGV2XzhudDVWeHo3REtZaHRyWk94ZDBrSzhoTy1RRWROaUxIcXZnQmdkRW5OWVVOdEJzQjN1U3pQZmdkVElaWEwxbkxDbndxalNabnV4MHYxSGYtTVdIN3VjZ2ZYVExQc2gyLXlxV0ZfamNMWWJCQkhaSFhqemhZeUJxOGxNYWYxYi1Rb2c?oc=5"
         }
       ]
     },
