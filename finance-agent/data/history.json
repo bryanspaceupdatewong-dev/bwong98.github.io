@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-13T13:28:01.697562Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 226.32,
-        "weekAgoPrice": 238.89999389648438,
-        "percentChange": -5.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia: The Share Price Already Assumes No China Data Center Sales (NASDAQ:NVDA) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXpVZ1JyZ1ZHeGhlMzNsRWFIZTY0bDhUenlJWHdKOVUxTV9EOFRHSVkwUEFhbDIxODN0QjllYVdJYmxHUS1Rb0t6TlE5RThfSmtVSVBudGdDYkpFckdZV296NUE2WElTN085RllnbXo3SDlXaVpDbzdxUkx2dFBLMGZOQThWVHZHOVhqR2hWdUhrR0dPVlM0ZVNLdTRuVkZjclYzc2tlUmNuZw?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Price Forecast: NVDA Falls for Five Straight Days, Where Is the Next Line of Defense? - TradingKey",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaV90S1pMRlEyOFAwQTd3VFFTQjRyb01qRk9WbHVPUnM5YW1FRlZVTVQ0cHI1Sm0yX0lNZlZsRjNWWVBJNEx4TlVDMS12Xzg1ckxOTUVsbHQyZ0N1QzEwV1pwNWVJdk5aWUxmUFZXTzJKZm1UaUY4cEc1RTB0WWJDejU1ckpGUVltVkRfWkdVTkVuZUprMlBVZEQ1X0tELWpUYm9heTNaanA2czJsNXE3U0J2MW0wQXJHMmZtRjJyaVJiQmpNcno0VGswaw?oc=5"
-          },
-          {
-            "title": "U.S. Export Restrictions Drive Nvidia China AI Chip Market Share Down to 34% - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQUpNWndGWWhqc3pMbkV0SEFkb3N4REVSQmpRZEsxdHlZZTIwVktsLXBjSTBxWDlrSjhNalJmakRzdFlmQm9TQlhhMXVWSjZ6UHNlY2RybldidkRaZHBKNk5NY3ZIUzdYcTVyZ2hpb3loaEkyUldsX2Nsb0xkWk43d3NwVWZkelMxMDRnUUpQaDNyUkxFUGFXY3VHeGFkeUU?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -14.97,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.44,
-        "weekAgoPrice": 1.8600000143051147,
-        "percentChange": -22.58,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 8.11,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-13T14:19:12.890164Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2320,6 +2269,57 @@
         "currentPrice": 1.24,
         "weekAgoPrice": 1.159999966621399,
         "percentChange": 6.9,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-15T08:16:15.591534Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 221.3,
+        "weekAgoPrice": 237.47000122070312,
+        "percentChange": -6.81,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Can Apple Overtake Nvidia as the World's Largest Company in 2027? - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRnZjSHA5RzZQUUdUeGt2OFJLYUx2RzN2NldwMnBjaF9HY1EtU1ViN2NUX1JmTGRZSzhTd21ReG1pSC1SQVlzRF9sckFTaHd4SGI2MGdfQXlZRHZFS29JbDVqY3Uyb2ZXckkzX2ZUOXJ2WFNXN0VmRGZtTExnRG9wTmQzdTVLZ2VGb3RrdEFmN3VKdGpTazMwOUVVQmRqLWhsWmhLUkJIT3pfZTByaVhpR0ZRR0RGaFdUYnk5TDk5RGJKUF90SDdGOUw0WmdWUWd3SXFJdlA0dGk3emNGMU1lOVdWRmZqdw?oc=5"
+          },
+          {
+            "title": "Can Apple Overtake Nvidia as the World's Largest Company in 2027? - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVnozUXNuTnIyd2lFSHlGLU5KUGNPWGw0bXdyUzhIdmtvUW9oZFVwS0lWUm5pbU5ZUlVRbjJ3N3lteC1RTDFKd3RJYnZRY0ZwUkFBZ1VDQTFET2hVREZQVV93dkFCMGpURTdUaHhUeEZ6aFZSbVZKb2VsN1FZZXdnMFVFT3RnYXJLUWdlRU41UllEREJIY3BfQi1XcjFvQVprWnVLRkk1U25haDRaOGpOTjQzMmNIWXNKTGJfT1FLSExiOTZXUU15a1cwRjZmeFM5bGVleXhiSERFXzEwY0FoNktn?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Stock Holdings Reduced by Financial Avengers Inc. - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVWk4VTd0WTZCYmNWaktJbTJ4M0thR0IzeU02WDVaLUZzUlpHdFdaQWxackxZVWRIdzRfSG02VWVHMGlVbTdxVXJZNDkxMU9nclZCWU1HYVpWM1NhM3RWa2JmR0lLa2NuY3ZHOVJSWHgzV3hGRkpUWTlSOGRJdUZCU0FfeFFHVkEzQmRITWhTZEk0NlRTQjR5RDBPc25qdDdOVzM5bFBpWUhMWUtnamlHVnItdnlVZmFCZEdEbGJoNjRDWlNSQmZKNWVSY1pVQQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.4600000381469727,
+        "percentChange": -13.01,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.43,
+        "weekAgoPrice": 1.840000033378601,
+        "percentChange": -22.28,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.25,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": 7.76,
         "flagged": true,
         "news": []
       }
