@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T06:16:43.567342Z",
+  "generatedAt": "2026-10-15T07:16:50.522766Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,24 +19,24 @@
       "flagged": true,
       "news": [
         {
-          "title": "Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjlGNUxDY2ozdVVQdmhpNWEtWGZNbWFlbjE3WnJpZF84cGluVFM1NkRXOF82VTlhMTFJVDJPNXlncnY5eGVDb1pEaGdoc2ZwTWt6bXV5ZFpROTVCXzFTbFBCTWgtSFQ2VGhtVVhfelVUczFXeEtkM0VnSUVPNFFnSFJ1R2g1WnlqNW4ybk9mYnpHRDQ?oc=5"
+          "title": "Rep. Daniel Meuser Sells Shares of NVIDIA Corporation (NASDAQ:NVDA) - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSEk0LXhNNUl3NFY1aF9zSGNtZW8xNl8xWEZtalNLOGNWZUFKVmVXYnJoSFZGLVNZTWdCeXdjbjlhbjAyS19uQWJGMlJuVXZxT19hQV9WUEVtcU55UVdTbEJBZnFnc2ltR2Vtbzg0aGtEV0QwNDQ4YllDbU56LUk5TjB0SFRqX0ltTVVwZkFuZEpfd2dmZGQySl9MaHdfVmQ0WjZiNTVVbFphNXFBem5GcXkxWnVtX0Q1ZElhdlRrckxXY3FTQVE?oc=5"
+        },
+        {
+          "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3VYYnpOcklLUTlBMXpHcThzRXQ1OUM4eDl1b3pnZHhZU2hsMTVZZzk2WkJNQW5Jc3lCNGNuWkJ1M25wUnZWUENGbzktTDZmUXBRNklORWE4Z0RhOXlFQkJEcDZZUFpoMFNBUFdiSC1ZYkxoYklUMUNhZS1uUDB1R3h4NlBUR1RJMjM3OHhUdGtqNDNOM0lB?oc=5"
         },
         {
           "title": "Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - Stocktwits",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRkt6NjJxaDRmX0N3SzlwaGJJYU5qRVV0ZWprN2w4bXpoZlpuSTZCS2JIYzd2bzlCWXNycExIRzBZSEg5ZFg2cjYxMmRzQ2hhUFZYTk5GMlJjeEt5YWhZZWlqM3g4YlEtOHB5QUZaQ2VsNmtEV3pNS1RKUTlGd3pQUFJhTlpsX0NQZGxjRC10M0xTVkM3UkhxOXJFcTBWanBDbGhGUnpMMmhCUW5FUHpQMU9DVUpFVjU5aWN2WElXZ1c4VThQU3AzOWhieGM0QnZzbFhaZnAzLTlpU3dCQzBUMG1Uay1uR3pycEYzTVh2cGlIWEYzcllOdQ?oc=5"
-        },
-        {
-          "title": "History Says Nvidia Stock Usually Rises in the Fourth Quarter -- It Has in 20 of the Last 27 - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGhzSEMtZHZhSjJQVVNCeDFIX2FhRHE5TnQ2ZlJzOTV2UjZrNUltY0dFckdnYnZ0NkNoZzFhalJXMnJZeG96T3BXUUE2WUxGLW1rZXYzUzNHUng2c0NTend6UHpJaFNhcENvdS0yc25PTkYtaFItbXo5QjdUSHE2YnU1TmEzaW1SM2pCUjEwOE5NdmZTazZpTlVlNUdaTXhlTU9uOFRBUGxwMVpndEFEZDdBdjE4ZU0tbDJSTzg1SnFmU1J2NTM0aUU0SEU?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.74,
+      "currentPrice": 4.75,
       "weekAgoPrice": 4.550000190734863,
-      "percentChange": 4.18,
+      "percentChange": 4.4,
       "flagged": false,
       "news": []
     },
@@ -66,9 +66,9 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.4,
+      "currentPrice": 1.36,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": 2.19,
+      "percentChange": -0.73,
       "flagged": false,
       "news": []
     },
@@ -90,17 +90,17 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.25,
+      "currentPrice": 1.24,
       "weekAgoPrice": 1.159999966621399,
-      "percentChange": 7.76,
+      "percentChange": 6.9,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.69,
+      "currentPrice": 0.68,
       "weekAgoPrice": 0.6949999928474426,
-      "percentChange": -0.72,
+      "percentChange": -2.16,
       "flagged": false,
       "news": []
     }

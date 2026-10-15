@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-13T12:27:57.008304Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 226.32,
-        "weekAgoPrice": 238.89999389648438,
-        "percentChange": -5.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia plans a $0.25 per share dividend payout on Dec 26, 2026, marking an 1800% increase from last year. - Pluang",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM1EtOXF3ZXd5Tmhxc3hlWlZ0WFptejZVM3hjYUdxbFl3NVdLWjZ5MVN2c3JLcV9lZE5qSzBiRU8xUjBTa3JPSU1ZMG5JMnRZZjdzMWVvM3hHSW5WdzZHQjVQNGMzWkp2ZXY2SzYwdEQtVS1LU3JHMXB4SE5UeEVNM1lRQ0lkdXRtOUtjNk95MTlFTFhpRW83VjFQRWpscU80aWhxUHRR?oc=5"
-          },
-          {
-            "title": "Nvidia Corp (NVDA): Jensen Huang\u2019s Visionary Leadership Drives Long-Term AI Growth - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak0zNjQwcVJ4UC14VDVWc0tPRGxVVjNaRUd5NGpWSDJIWXlwb0E3QVB0X2dULVR5YjRUOGtOeDg3Z3FqNXN1akNfdVlleW9Sak9JdmowR0lBQk9vNUY1bEpsaTJYMVc0YXdRUG8tOFEwZkdpVm5NTU5yeXJ5ZEI2eEd0b0hhdU5Qd1BKX0JQQk9VX2JKMFNtT3VR?oc=5"
-          },
-          {
-            "title": "Nvidia to pay 2026\u2019s last dividend on this date; Here\u2019s how much 100 NVDA shares will earn - Finbold",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRERFeS1WcWVDa21pYmNhbkNMa1QzLVdNTGx1TkdGT2h4V2x6TjdRemJvOWl0eGdsSE5FVU14dzZrbWpSdmpaYW93S3VRZUxtaW1fN0U3LWJpblV2WjNIWkNCdGZEVmJ0ZXBGM1JpN1lOeTNwbHpOYmIya1ZoZllGeG1zV05uazhhZGVScFJPTmFSS1FNejV0aFFTUDI0d3J1XzdIck45bVJkZGZt?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -14.97,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.44,
-        "weekAgoPrice": 1.8600000143051147,
-        "percentChange": -22.58,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 8.11,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-13T13:28:01.697562Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2312,6 +2261,65 @@
         "currentPrice": 1.25,
         "weekAgoPrice": 1.159999966621399,
         "percentChange": 7.76,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-15T07:16:50.522766Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 221.3,
+        "weekAgoPrice": 237.47000122070312,
+        "percentChange": -6.81,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Rep. Daniel Meuser Sells Shares of NVIDIA Corporation (NASDAQ:NVDA) - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSEk0LXhNNUl3NFY1aF9zSGNtZW8xNl8xWEZtalNLOGNWZUFKVmVXYnJoSFZGLVNZTWdCeXdjbjlhbjAyS19uQWJGMlJuVXZxT19hQV9WUEVtcU55UVdTbEJBZnFnc2ltR2Vtbzg0aGtEV0QwNDQ4YllDbU56LUk5TjB0SFRqX0ltTVVwZkFuZEpfd2dmZGQySl9MaHdfVmQ0WjZiNTVVbFphNXFBem5GcXkxWnVtX0Q1ZElhdlRrckxXY3FTQVE?oc=5"
+          },
+          {
+            "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3VYYnpOcklLUTlBMXpHcThzRXQ1OUM4eDl1b3pnZHhZU2hsMTVZZzk2WkJNQW5Jc3lCNGNuWkJ1M25wUnZWUENGbzktTDZmUXBRNklORWE4Z0RhOXlFQkJEcDZZUFpoMFNBUFdiSC1ZYkxoYklUMUNhZS1uUDB1R3h4NlBUR1RJMjM3OHhUdGtqNDNOM0lB?oc=5"
+          },
+          {
+            "title": "Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRkt6NjJxaDRmX0N3SzlwaGJJYU5qRVV0ZWprN2w4bXpoZlpuSTZCS2JIYzd2bzlCWXNycExIRzBZSEg5ZFg2cjYxMmRzQ2hhUFZYTk5GMlJjeEt5YWhZZWlqM3g4YlEtOHB5QUZaQ2VsNmtEV3pNS1RKUTlGd3pQUFJhTlpsX0NQZGxjRC10M0xTVkM3UkhxOXJFcTBWanBDbGhGUnpMMmhCUW5FUHpQMU9DVUpFVjU5aWN2WElXZ1c4VThQU3AzOWhieGM0QnZzbFhaZnAzLTlpU3dCQzBUMG1Uay1uR3pycEYzTVh2cGlIWEYzcllOdQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.4600000381469727,
+        "percentChange": -13.01,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.43,
+        "weekAgoPrice": 1.840000033378601,
+        "percentChange": -22.28,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.22,
+        "weekAgoPrice": 0.20499999821186066,
+        "percentChange": 7.32,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.24,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": 6.9,
         "flagged": true,
         "news": []
       }
