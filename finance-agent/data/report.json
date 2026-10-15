@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-10-15T15:16:27.233678Z",
+  "generatedAt": "2026-10-15T16:16:16.894849Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 538.765,
+      "currentPrice": 539.45,
       "weekAgoPrice": 522.6099853515625,
-      "percentChange": 3.09,
+      "percentChange": 3.22,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 217.15,
+      "currentPrice": 217.25,
       "weekAgoPrice": 230.47999572753906,
-      "percentChange": -5.78,
+      "percentChange": -5.74,
       "flagged": true,
       "news": [
         {
-          "title": "Enthusiasm among retail investors to buy the dip in U.S. stocks has plummeted. JPMorgan: Net buying volume last week was far below the average, while NVIDIA (NVDA.US) still saw nearly $1 billion in capital inflows. - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1pBeVJuLWVLUHFkcVFad21mOERVdWVUNGFUa2lvMTg5blU5alNUNDlQMGdISXdGYklaMUFkVVNmZ3RjdTRPLUdBdHBjNG9KbkxiaVp3aVdmWWlwN2ZkV1I0RWZ5bjhQOU9wNEkwNHlNb3BrV1lwTzBkRXJyR2FMOUl2bU12VC1FdlpTRENUem1kUXNPS3dxbDVTNV9ydVU?oc=5"
+          "title": "Chip Stocks Plummet Amid Inflation Concerns: NVDA, AMD, MU, TSM - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGRZSllDM0xBbmZXV19COHRsaHFicW51UG5JRnBiWEk0ZjhYQ2FrWXpMWm9iQVd4N0hyNTFaSTlqY213cG03MnFtaXBNUDRZMUd0QWQwMXgxMWVqSllUbmdHV2k5Wm1iOWxNQ3RFRk1rVFNoQ1U0dXlzZnFDWFFwY3liakk0M19kMENxZ1h4Q1Z3QURZRURTUzBWQ0kyYmM?oc=5"
         },
         {
-          "title": "Pennsylvania Rep. Daniel Meuser Sold Over $1K Worth of NVIDIA Stock: Here\u2019s What You Should Know - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObE5OaUNkSlpqWFJqLXdIbzBVellid0dHNFViODRQZnAxVDNRWVJFUWNVRkNsQmo1MV8xVlBkV19CTUNsM09BbFpfSmJqZGlDR0lPM1BveUpPU1pFdEZlQ3VqQ2NyZndKaUJLZW1KN2lPM2lqZjJBYm4ydjZ4YzdTb1V6RzRoODdyMzBCZ1Q3cG9NOGJVOG5rWUluenRWVVVIeHU1TXhoNGNyMEpiX2VpQnFqSlZlbnJsckJyaC1JcGVVRVRQMnVmM3RuRVVHeWpMZC1NNjdRNlA?oc=5"
+          "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMS1aU1I4Zm1BdlZXdjJjeVZXdTk1aHJpUFBIdDlOdC1ERmN6eHp4VHhTdWJFLXZsczlocElfMm9sX2s1aFFad2NNQ2VmemVSVkN3TTFJTE5KUEg3bFF6eUY1bXZNc2J3Sk9qbEYybEFYcHdZTWZqMzJ4ZTIybFQ0VE5vTjNHUi1RbkhTTFRhNmV3TkxsLW9LRlVhalc2TTRhZVlMNE8ySl85VFl5bER3MTRlSlM?oc=5"
         },
         {
-          "title": "How Nvidia Could Stop the CoreWeave Panic - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5"
+          "title": "AMD, NVDA, Other Chip Stocks Extend Rout Amid AI Debt Concerns \u2014 Saxo Says Financing Squeeze Could Hit Supply Chain - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjdKRG5kci1iQkJoSWEtdDVBQVE0UDBVMjB0VkR4NDVJTlNkLUhBSG5mUFd1enRxNkF2Yy1RYmhMZXZRaTNPb25sT25NZks5ODZKSDlUbXpQRC1odUtwOEhXTTdQdDdYbXgyUklCUnh6WkNUVm1CaWJkamJqME5hUGczczMxaFdBT05iNzRrZmgxSGlHT2c?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.74,
-      "weekAgoPrice": 4.550000190734863,
-      "percentChange": 4.18,
+      "weekAgoPrice": 4.590000152587891,
+      "percentChange": 3.27,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.28,
-      "weekAgoPrice": 7.150000095367432,
-      "percentChange": 1.82,
+      "weekAgoPrice": 7.25,
+      "percentChange": 0.41,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.28,
-      "weekAgoPrice": 1.4600000381469727,
-      "percentChange": -12.33,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": -11.72,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.45,
-      "weekAgoPrice": 1.840000033378601,
-      "percentChange": -21.2,
+      "weekAgoPrice": 1.7999999523162842,
+      "percentChange": -19.44,
       "flagged": true,
       "news": []
     },
@@ -75,35 +75,35 @@
     {
       "ticker": "5296.KL",
       "currentPrice": 1.19,
-      "weekAgoPrice": 1.2400000095367432,
-      "percentChange": -4.03,
+      "weekAgoPrice": 1.2300000190734863,
+      "percentChange": -3.25,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.215,
-      "weekAgoPrice": 0.20499999821186066,
-      "percentChange": 4.88,
-      "flagged": false,
+      "weekAgoPrice": 0.20000000298023224,
+      "percentChange": 7.5,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.24,
-      "weekAgoPrice": 1.159999966621399,
-      "percentChange": 6.9,
+      "weekAgoPrice": 1.1399999856948853,
+      "percentChange": 8.77,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.68,
-      "weekAgoPrice": 0.6949999928474426,
-      "percentChange": -2.16,
+      "weekAgoPrice": 0.699999988079071,
+      "percentChange": -2.86,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 5
 }
