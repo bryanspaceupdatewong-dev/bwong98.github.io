@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-15T19:18:49.321881Z",
+  "generatedAt": "2026-10-15T20:16:18.336690Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 541.09,
+      "currentPrice": 539.44,
       "weekAgoPrice": 522.6099853515625,
-      "percentChange": 3.54,
+      "percentChange": 3.22,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 218.4,
+      "currentPrice": 217.23,
       "weekAgoPrice": 230.47999572753906,
-      "percentChange": -5.24,
+      "percentChange": -5.75,
       "flagged": true,
       "news": [
+        {
+          "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMS1aU1I4Zm1BdlZXdjJjeVZXdTk1aHJpUFBIdDlOdC1ERmN6eHp4VHhTdWJFLXZsczlocElfMm9sX2s1aFFad2NNQ2VmemVSVkN3TTFJTE5KUEg3bFF6eUY1bXZNc2J3Sk9qbEYybEFYcHdZTWZqMzJ4ZTIybFQ0VE5vTjNHUi1RbkhTTFRhNmV3TkxsLW9LRlVhalc2TTRhZVlMNE8ySl85VFl5bER3MTRlSlM?oc=5"
+        },
         {
           "title": "CoreWeave Stock Snaps Back as Nvidia CEO Signals Support - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVNFSHBqa0l4azhDV3c5NmdmVi1HZHZXS0tpTVJqOHFHZUdCTENjMWZEXzNwU3dHWFA0UkVMcVZOVThpTXlUOUlZazhlQnFfTUl1Q2hSV2xkVHVCamxWb2g1dll6czZRczJTSllibWFEc1lBc3dfMnRuNUFVN2JzeTBWQU82Q1E2anptU3NUY21TdU9mb0pjWERVaEdlRXNQMXNoS2d6QWVtLUFleHRVZTNWb2t3NUFu?oc=5"
         },
         {
-          "title": "Nvidia NVDA Stock Extends Toward $200 as ASML Warns of Chipmaking Capacity - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU1N4Q3NoWWY1VEJ1dTRsLVNwR3JXa2JFR2pQTDVjQkVFaHhERjBYOFJOOVUwSXdJN2V5TXlzdFBuQlVjeldQNzVMbk56SjhyLWlFenI2Tm50ZlcwOGZROHdneWVxekhJT1B3Y25nb1AyVVdMRVF1RjhqTEtDbTlVQ25RdnVEbXJFYXFsY3NVam9mVmMySkdDcXN2Vzg5S0dOaWEwNUtETURtMlZQa2tmeUNDSV85M2M?oc=5"
-        },
-        {
-          "title": "AI Stocks Plunge, but Jensen Huang Says Nvidia Gets New Chip Orders Almost Daily - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0ZiMVIxeDBtWVM4ZDRoc1RWbGNMMk9Vb21GTW1BYjMzekRWcDFmM0EtZlEtcVVhejAyTERyenU1LWVMV1pDRU9rbVJURVBzTEYtSGZIVVRIUEE2Ymw2TWVraTdtV2M4azlpTVBzYy1IdWhEczJiUURrZmIxYUs5VEdqN3ZyOHoxbGs2SXBGek0ycGZzV200X255OGo1VmZKNFJ6Q19B?oc=5"
+          "title": "Nvidia Stocks Fall 3.0% With Cash Conversion in Focus After Baird's Warning - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWWlGZjM0aWlkSXd3eTJhNXBiSEJXcE1Qb1gzWHBDSjBRMFdQV0F4N3BjQW5tNm1CQzQ3eXBHNjdPWmEzdHRUU2NTUFNHQ0xrQTdoQXEwYXFWZDRHYThiX1BYczlWZ3RVZTNJcVlubk9SaEZZVllMXzdUUXNiR1habWFMdmpXNHJQUE1Kbk5Yc2kyLWUtNHNNOHNGY3B4b3Y2bnA0Q2gza3NGYlY3d2NlS2EtaVB2WklFc2ZIdDRkaEhGcXMzS1RTWjZIQnFNNGM?oc=5"
         }
       ]
     },
