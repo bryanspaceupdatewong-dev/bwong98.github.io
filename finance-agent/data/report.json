@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-15T14:17:06.185158Z",
+  "generatedAt": "2026-10-15T15:13:44.156972Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 533.525,
+      "currentPrice": 538.71,
       "weekAgoPrice": 522.6099853515625,
-      "percentChange": 2.09,
+      "percentChange": 3.08,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 215.55,
+      "currentPrice": 216.895,
       "weekAgoPrice": 230.47999572753906,
-      "percentChange": -6.48,
+      "percentChange": -5.89,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHlfaC1zS3lncTY1VlI4b1lqX0F3UVNNeEV2d09iWHY4NE54dnNmeTctVHRLaEFhSzNDUU1KZC1FQWFOM1MtdWJxU29FNjdzMEk4Nzc2ck9NNDJoR29uOTE2blFHWGc0Sm50VkFHdG43NEUzS2hvbGwySkJjV3o5S1AtNEx2Q2NwN3ByeGZuVW1jWUQ3OFZEUUp6T3dRVWppUWVJSFF6RWxDOGdfeWk0bHVONng?oc=5"
+          "title": "Enthusiasm among retail investors to buy the dip in U.S. stocks has plummeted. JPMorgan: Net buying volume last week was far below the average, while NVIDIA (NVDA.US) still saw nearly $1 billion in capital inflows. - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1pBeVJuLWVLUHFkcVFad21mOERVdWVUNGFUa2lvMTg5blU5alNUNDlQMGdISXdGYklaMUFkVVNmZ3RjdTRPLUdBdHBjNG9KbkxiaVp3aVdmWWlwN2ZkV1I0RWZ5bjhQOU9wNEkwNHlNb3BrV1lwTzBkRXJyR2FMOUl2bU12VC1FdlpTRENUem1kUXNPS3dxbDVTNV9ydVU?oc=5"
         },
         {
-          "title": "The Case For NVIDIA Stock Rests On One Thing - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRTFEZ3NfcmVLeW9WbUd5MndhdzVGNHI2X0hWRmZrUEF6RHU1ZmNmREZicTBfNVpYOU5GVERxZkNxQTdxdDBNNGw3cV9SVmNiS29YUlJwTnVkeDdQXzEyUnhTX0hYTVlzbmU0X1FZSEFWdHdJeW1hYV9NZktXWEVNV2djak0wcE9SZ0lEdFRQN1N0T1RtS0lOMWlxLWtDc3FnMHAxSmFlQlU?oc=5"
+          "title": "Pennsylvania Rep. Daniel Meuser Sold Over $1K Worth of NVIDIA Stock: Here\u2019s What You Should Know - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObE5OaUNkSlpqWFJqLXdIbzBVellid0dHNFViODRQZnAxVDNRWVJFUWNVRkNsQmo1MV8xVlBkV19CTUNsM09BbFpfSmJqZGlDR0lPM1BveUpPU1pFdEZlQ3VqQ2NyZndKaUJLZW1KN2lPM2lqZjJBYm4ydjZ4YzdTb1V6RzRoODdyMzBCZ1Q3cG9NOGJVOG5rWUluenRWVVVIeHU1TXhoNGNyMEpiX2VpQnFqSlZlbnJsckJyaC1JcGVVRVRQMnVmM3RuRVVHeWpMZC1NNjdRNlA?oc=5"
         },
         {
-          "title": "NVDA Stock Slips As Momentum Traders Turn Cautious - Timothy Sykes",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvWl8zMk4zcGpfWW0xZ0lmR2JJRjN3R0M2akI5NGJSbDEteU9OYTFGRFoyRWJjNWZ1WElqUVlzV05jbU92bWFobThfaUIxcGktTWFyanRzX1FLcGJkM1JuZDFhOVUtdkI4dEFrMng2THN1Nm1hLW91QS1ncDlvdDQ?oc=5"
+          "title": "How Nvidia Could Stop the CoreWeave Panic - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5"
         }
       ]
     },
