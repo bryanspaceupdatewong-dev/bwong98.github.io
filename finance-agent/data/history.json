@@ -1,72 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-13T05:16:47.640222Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 226.32,
-        "weekAgoPrice": 238.89999389648438,
-        "percentChange": -5.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Better Artificial Intelligence Stock for 2026: Intel vs. NVIDIA - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFJLZDZSUVl1dkc3V0xubDlza3FBaWFKdG4yeWhWUXZacU4tMDVYRXJVeG1oYmtVdmoxYVJScHVaNlhjbUU3LV9UN0dicGphY1J2UHRoZVpDVHNrcUpIem5rck5kSDJacENKR19KZEFyZnlkbXlhVlFJVzlqWmJWZ1BuUkNSa1B5NjJDWFNTMHVVV1VrZGhvV1lzc1FwcmlVZ0k4OC1uREJpZUkzVi0ydW9Kd1I?oc=5"
-          },
-          {
-            "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k?oc=5"
-          },
-          {
-            "title": "Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy. - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanc1TUVQTHpfTW9XcmJ4bjkzOGhVMmozNWZZQl9kRkROZGtWOHlCUVd0U19uSzlhMzFVNmhRbDdtT3hLSWFSQzV2dGt5MC1aYTU3cUJMMXFWYTlQNm9ETDJzRDkwUEo3Y2RKTEx0NTY2Z1BFTnkyYW1wU3BtVDctMG9CV21qVjNPdlEwVG5wR0tlLUpuRjUxbVNKVnRDYkI2WHFtWHYyS2Z6RDlNUEwtcjJ4dS1jcWpDa18wb2c3RmpNZWFBeUc3Vnd6TDc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -13.61,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.47,
-        "weekAgoPrice": 1.8600000143051147,
-        "percentChange": -20.97,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.18,
-        "weekAgoPrice": 1.2599999904632568,
-        "percentChange": -6.35,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.215,
-        "weekAgoPrice": 0.20000000298023224,
-        "percentChange": 7.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.21,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 9.01,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-13T06:18:01.385594Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2312,6 +2245,57 @@
         "currentPrice": 1.26,
         "weekAgoPrice": 1.1399999856948853,
         "percentChange": 10.53,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-15T01:15:48.430538Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 221.3,
+        "weekAgoPrice": 237.47000122070312,
+        "percentChange": -6.81,
+        "flagged": true,
+        "news": [
+          {
+            "title": "History Says Nvidia Stock Usually Rises in the Fourth Quarter -- It Has in 20 of the Last 27 - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGhzSEMtZHZhSjJQVVNCeDFIX2FhRHE5TnQ2ZlJzOTV2UjZrNUltY0dFckdnYnZ0NkNoZzFhalJXMnJZeG96T3BXUUE2WUxGLW1rZXYzUzNHUng2c0NTend6UHpJaFNhcENvdS0yc25PTkYtaFItbXo5QjdUSHE2YnU1TmEzaW1SM2pCUjEwOE5NdmZTazZpTlVlNUdaTXhlTU9uOFRBUGxwMVpndEFEZDdBdjE4ZU0tbDJSTzg1SnFmU1J2NTM0aUU0SEU?oc=5"
+          },
+          {
+            "title": "Nvidia Stock NVDA Falls Below $220 as Data-Center Debt Yields Weigh on Sentiment - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2ZRT3hKR3ctT1B4OHdROUttTmJNdF8xTWU2WDZwRXhKUGJRTE1xd1kxUVFoZjRkdGZhSWFDREgtVE9ja0FOdVdONFNRRjh2dzRBU3JoRV8tZlFIbXRpLUtmNkxtM00yMEE1XzFyMGgzaW5PY3U0by1BRTUzSlBLQTBCbEczZWtKOTF3Tk5kWW8tR0pBdTR0eVAwWHFZMXRPWjl1UGxfSVR2TnBEU2QwYm10azllUEhkbVMxX3ZuTQ?oc=5"
+          },
+          {
+            "title": "NVIDIA (NVDA) Shares Drop 3.16% Amid AI Concerns - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU3dDY2lyODZUQWJxbWkwLUNQNmFWMS1RVW9pQVk0QndSeHRoY19HZ0h0VTF4Z1l2S25vLUVzSWRfbWZTSTNlblp2Z0NPSUl5NDF6czRCNW1xMjZ0a1IzMTZiakZTVE5QbGZtZThEQ2R5dzIydXhxZVo1SDAtRTJsQUZOWUc4LU1TOG5F?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.4600000381469727,
+        "percentChange": -13.7,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.43,
+        "weekAgoPrice": 1.840000033378601,
+        "percentChange": -22.28,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.24,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": 6.9,
         "flagged": true,
         "news": []
       }
