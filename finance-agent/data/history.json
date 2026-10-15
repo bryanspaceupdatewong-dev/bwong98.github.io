@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-13T18:16:46.597939Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -14.97,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.44,
-        "weekAgoPrice": 1.8600000143051147,
-        "percentChange": -22.58,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 8.11,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-13T19:16:47.440928Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2317,6 +2287,57 @@
           {
             "title": "11,773,591 NVIDIA Corporation $NVDA Shares Sold by Wellington Management Group LLP - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFBfZnpZUEs5RW4xLWRLS3ByaVBycjh0YnRIUnhnTFI2czFzaDFkc2IxTzcwZnZtQ2lISXZTNlZSaDhQcEJLUjhMa0RaU3I3Qm1obVhaV2NKajA2eC1Fb0xoY0YyU0NIZkVBMjF4OTItVl9lTk95TmxLNDJHZXV3OFZGVWpYX010NVJCZVRDYVMxel84c09jTXN3cE0zQjdsbld4UGltSFZXU09ObGpDdjdsZTJ1Tnk5QVExTjZudlRXbmRQa2djSW1tZ091d0FvQmtXSnBsRQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.4600000381469727,
+        "percentChange": -12.33,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.840000033378601,
+        "percentChange": -21.2,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.24,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": 6.9,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-15T13:17:24.421232Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 221.3,
+        "weekAgoPrice": 237.47000122070312,
+        "percentChange": -6.81,
+        "flagged": true,
+        "news": [
+          {
+            "title": "How Investors May Respond To NVIDIA (NVDA) Higher AI Funding Costs - Simply Wall Street",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0c0WFBtZ3RlWlJYQWt1SjFPbHg1SzJ5LVVQOGxVcXQ3WHlRcFdQb0ZubkE5MlNUTkU2YUMxWnRLTk9XQVg2MXIxcy1Iem5xcWtMQ3lnNUUyUi1meWgxRnZfclVjRUdJSjNfZG9Ib0czLWJpU2pLNUNRM2dibVdIMHdBZklDZzdrNFlrMU5YQmRxTVYyX0lFVUpuQ01yOURoOEMzSUtrY1FkS3JHQUx4RWh0dDFydjRuU2h1aDk1QWVXZk5ZT2d4X3RiVdIB0AFBVV95cUxQMW56S3pIS2lRcnlxcTluNlIzX1V6dzV3V0VvYXJiZmh6MEt4RlVPS21LVlV4ZnRvZmF0Y0Roai10UDJ4NG83a1VlcDNwbzgyeVZYLU1xdDFYb3hoVlVjaXByaHhDTnZjemJlTURjTGpiZWloLWFKT21wT2p4aVZ2SlI3R1pia1d3UnBhWEhaSnVSbENhOTNVVkh4M1Bmb2JlZTBVWm9ZUlRDU3ctclotQnJ4dXJDR2ZRcjhpamQ2THgwOVZDMFRRV3dYdmxreUNV?oc=5"
+          },
+          {
+            "title": "Coherent Has Massively Diappointed Investors for 6 Months: A Respected Analyst Predicts It Will Double Moving Forward - 24/7 Wall St.",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZG9mQzREZ1VIUm9ESjhBR1FTamtrZ1lMNFhiT0hwM0ltOENsdlMtOWk1M2NZT1pGaERBTndTTWVGRDdEM1RVN0FEaGJkQ0t5emJjbzlZWlFwWHpFSmZ5elFWLTRPUF9TSHRpWktrOE1nVURrRzJNNTlXc2lpS3lWalBOb1VCeUx2d2ZXMFMtbGlsd09UT3RsbWtEWm44cVVnRVNmV0pGNGxsbHpKdzZxb1hPQTh1aXdOVEd2dEM3eE45SldKdU5wd2kwdmVUbktVbnUyUm5BV2xRUk5tazV3UFlMWDg0Qk1CLUtudTdvUHNBZw?oc=5"
+          },
+          {
+            "title": "How Nvidia Could Stop the CoreWeave Panic - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5"
           }
         ]
       },
