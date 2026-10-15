@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-13T21:16:58.074921Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -14.97,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.44,
-        "weekAgoPrice": 1.840000033378601,
-        "percentChange": -21.74,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 5.26,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-13T22:16:27.117521Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2367,6 +2337,57 @@
         "currentPrice": 216.895,
         "weekAgoPrice": 230.47999572753906,
         "percentChange": -5.89,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Enthusiasm among retail investors to buy the dip in U.S. stocks has plummeted. JPMorgan: Net buying volume last week was far below the average, while NVIDIA (NVDA.US) still saw nearly $1 billion in capital inflows. - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1pBeVJuLWVLUHFkcVFad21mOERVdWVUNGFUa2lvMTg5blU5alNUNDlQMGdISXdGYklaMUFkVVNmZ3RjdTRPLUdBdHBjNG9KbkxiaVp3aVdmWWlwN2ZkV1I0RWZ5bjhQOU9wNEkwNHlNb3BrV1lwTzBkRXJyR2FMOUl2bU12VC1FdlpTRENUem1kUXNPS3dxbDVTNV9ydVU?oc=5"
+          },
+          {
+            "title": "Pennsylvania Rep. Daniel Meuser Sold Over $1K Worth of NVIDIA Stock: Here\u2019s What You Should Know - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObE5OaUNkSlpqWFJqLXdIbzBVellid0dHNFViODRQZnAxVDNRWVJFUWNVRkNsQmo1MV8xVlBkV19CTUNsM09BbFpfSmJqZGlDR0lPM1BveUpPU1pFdEZlQ3VqQ2NyZndKaUJLZW1KN2lPM2lqZjJBYm4ydjZ4YzdTb1V6RzRoODdyMzBCZ1Q3cG9NOGJVOG5rWUluenRWVVVIeHU1TXhoNGNyMEpiX2VpQnFqSlZlbnJsckJyaC1JcGVVRVRQMnVmM3RuRVVHeWpMZC1NNjdRNlA?oc=5"
+          },
+          {
+            "title": "How Nvidia Could Stop the CoreWeave Panic - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.4600000381469727,
+        "percentChange": -12.33,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.840000033378601,
+        "percentChange": -21.2,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.24,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": 6.9,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-15T15:16:27.233678Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 217.15,
+        "weekAgoPrice": 230.47999572753906,
+        "percentChange": -5.78,
         "flagged": true,
         "news": [
           {
