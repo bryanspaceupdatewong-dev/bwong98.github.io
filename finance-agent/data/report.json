@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-15T17:16:08.425115Z",
+  "generatedAt": "2026-10-15T18:16:03.546491Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 539.205,
+      "currentPrice": 539.355,
       "weekAgoPrice": 522.6099853515625,
-      "percentChange": 3.18,
+      "percentChange": 3.2,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 217.61,
+      "currentPrice": 217.07,
       "weekAgoPrice": 230.47999572753906,
-      "percentChange": -5.58,
+      "percentChange": -5.82,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia CEO Urges U.S.-China AI Dialogue Amid Tech Sector Pressure, NVDA Stock Shows Attractive GF Value\u2122 - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUDJFTkhPTUVrd1Z5U25OQ2pBWjlaekZIR1ViTXd2UVZjVEZLbkw4UDNPTGphZ0JXczE2TE9jOXJyVmtXMXljcVpoa09kcjNkR3ZrVTRRaG5mZHVUR0hIMlZkclZtUDhZTGFIeTlnTHdXWjZjYTlFY05mT2xFR0YtS1hLTzV4djducEk1OFA3Yk9mSGI4SlhUNy1NM2pGY3NYOURmNGg3RDVMNFNydTJFTDNpM1NObDI3YjRPdDVjUHJqelRVSC1ha2dmTXZjbTZjREZqMw?oc=5"
+          "title": "Nvidia Stocks Fall 3.0% With Cash Conversion in Focus After Bair - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWhtd1hMZVZRUmM2OWR1TVBKem5ndUQ2eUZjV2FSdzFibjJNaVhrekYteHNOT2E0NmplMDlIUGdMUDktdkdMTkQ1MVIyeW1LU2RCaDZMLUh6dkpNM0pJbzAwamN4Yi1XNDQ0bzM0eUd6TlpLTllxdDdfd1N5cElMVzBnVzhld1kzdHNQRnB4WF9uRlRJa1BRWTZ2eDVhSHNpeDZRN3Z5clpfTjIzQnZ5VA?oc=5"
         },
         {
-          "title": "Nvidia\u2019s Huang Says CoreWeave Doesn\u2019t Need a Backstop - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5"
+          "title": "Micron vs. NVIDIA: Which AI Stock Is the Better Buy After Earnings? - Zacks Investment Research",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkxWOTRHVHFibmRDalJwZEY0RDBNT2FCT1ZEa3h0YjRFaG1RVXJyeHN1cEdGRlVMdHJFQlZRYmRrODR2WWZ2Snd1NXgxY3dRQnJETWdzXy1ORndQR0JUS3V5UUJCTnJBT3VmTExqM0x4X0J2RlZMdkRYV09BTS1KeDdENENIbVNfZGsxMHpPR3FhOEFMSHZVUGRDZ3kzVHUwOEVIM1RiMUs?oc=5"
         },
         {
-          "title": "Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic' - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3RweTh1THdrck1qLURYMnJEVW03ZzdxNTIwZTVRVjV3MS1YM0E1V2VOblNmdzIzdUU2RXRVSGx3WGV2XzhudDVWeHo3REtZaHRyWk94ZDBrSzhoTy1RRWROaUxIcXZnQmdkRW5OWVVOdEJzQjN1U3pQZmdkVElaWEwxbkxDbndxalNabnV4MHYxSGYtTVdIN3VjZ2ZYVExQc2gyLXlxV0ZfamNMWWJCQkhaSFhqemhZeUJxOGxNYWYxYi1Rb2c?oc=5"
+          "title": "10 Information Technology Stocks Whale Activity In Today\u2019s Session - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3JnajhiRFlYUVE1M0JBZUtoLWpvM1pVLS1hTVpIQXUyeVlIRUFmell3b1ZHdzcwMU81cU1tcmUzaTBBTUdkVVpKSDZ6R21feHFDZU5QOXIwakNpVjZxSEFPSUhpVjByZEtsQzJja05FcktkQXBUaTdhX2R4WjB4TFluZ1J0cUxSSnNMUTFaeGRQVXhPeXJfRW0tcmxHRkxWZlhSTnJwSEVQXzZndnpyTm44ckc0OTQxMXRz?oc=5"
         }
       ]
     },

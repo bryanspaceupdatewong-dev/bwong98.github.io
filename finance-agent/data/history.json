@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-13T23:17:13.517595Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -14.97,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.44,
-        "weekAgoPrice": 1.840000033378601,
-        "percentChange": -21.74,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 5.26,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-14T00:16:30.795566Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2451,6 +2421,65 @@
           {
             "title": "Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic' - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3RweTh1THdrck1qLURYMnJEVW03ZzdxNTIwZTVRVjV3MS1YM0E1V2VOblNmdzIzdUU2RXRVSGx3WGV2XzhudDVWeHo3REtZaHRyWk94ZDBrSzhoTy1RRWROaUxIcXZnQmdkRW5OWVVOdEJzQjN1U3pQZmdkVElaWEwxbkxDbndxalNabnV4MHYxSGYtTVdIN3VjZ2ZYVExQc2gyLXlxV0ZfamNMWWJCQkhaSFhqemhZeUJxOGxNYWYxYi1Rb2c?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -11.72,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.7999999523162842,
+        "percentChange": -19.44,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.20000000298023224,
+        "percentChange": 7.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.24,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 8.77,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-15T18:16:03.546491Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 217.07,
+        "weekAgoPrice": 230.47999572753906,
+        "percentChange": -5.82,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stocks Fall 3.0% With Cash Conversion in Focus After Bair - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWhtd1hMZVZRUmM2OWR1TVBKem5ndUQ2eUZjV2FSdzFibjJNaVhrekYteHNOT2E0NmplMDlIUGdMUDktdkdMTkQ1MVIyeW1LU2RCaDZMLUh6dkpNM0pJbzAwamN4Yi1XNDQ0bzM0eUd6TlpLTllxdDdfd1N5cElMVzBnVzhld1kzdHNQRnB4WF9uRlRJa1BRWTZ2eDVhSHNpeDZRN3Z5clpfTjIzQnZ5VA?oc=5"
+          },
+          {
+            "title": "Micron vs. NVIDIA: Which AI Stock Is the Better Buy After Earnings? - Zacks Investment Research",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkxWOTRHVHFibmRDalJwZEY0RDBNT2FCT1ZEa3h0YjRFaG1RVXJyeHN1cEdGRlVMdHJFQlZRYmRrODR2WWZ2Snd1NXgxY3dRQnJETWdzXy1ORndQR0JUS3V5UUJCTnJBT3VmTExqM0x4X0J2RlZMdkRYV09BTS1KeDdENENIbVNfZGsxMHpPR3FhOEFMSHZVUGRDZ3kzVHUwOEVIM1RiMUs?oc=5"
+          },
+          {
+            "title": "10 Information Technology Stocks Whale Activity In Today\u2019s Session - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3JnajhiRFlYUVE1M0JBZUtoLWpvM1pVLS1hTVpIQXUyeVlIRUFmell3b1ZHdzcwMU81cU1tcmUzaTBBTUdkVVpKSDZ6R21feHFDZU5QOXIwakNpVjZxSEFPSUhpVjByZEtsQzJja05FcktkQXBUaTdhX2R4WjB4TFluZ1J0cUxSSnNMUTFaeGRQVXhPeXJfRW0tcmxHRkxWZlhSTnJwSEVQXzZndnpyTm44ckc0OTQxMXRz?oc=5"
           }
         ]
       },
