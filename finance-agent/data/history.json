@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-13T17:16:48.695823Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -14.97,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.44,
-        "weekAgoPrice": 1.8600000143051147,
-        "percentChange": -22.58,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.1100000143051147,
-        "percentChange": 8.11,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-13T18:02:21.973423Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2276,6 +2246,57 @@
   },
   {
     "generatedAt": "2026-10-15T10:16:33.339515Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 221.3,
+        "weekAgoPrice": 237.47000122070312,
+        "percentChange": -6.81,
+        "flagged": true,
+        "news": [
+          {
+            "title": "CoreWeave Stock Sinks Again as AI Debt Panic Spreads. Will Nvidia Come to the Rescue? - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5"
+          },
+          {
+            "title": "Why CoreWeave stock panic matters to Nvidia, explained in under 30 seconds - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzVES1hFdko3MUN3Z1VTa2JvM0N4ZVpnbXdyV19lTmZ2eHY4U2ZsTFZHN0ZIQ25LWkhCb1hmT2NkeER2T1Btam9EQ25vZWJ0cGpNNUc4OVVlOHg3bUF4d0dSckVPbGk4VkRhSkExNE1FekljQm4xMXJLeVBGWW5QRV85UmllTXBpM3JtbVZ3eXh5ZmlqSGhFX01RTHRzTTNNRzhSeTBqaTBHeWI3YUNfNUxnMlZoZWRyM01OXzFWMlBocWYxVXBqM05hU2dkTWhaWVYw?oc=5"
+          },
+          {
+            "title": "11,773,591 NVIDIA Corporation $NVDA Shares Sold by Wellington Management Group LLP - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFBfZnpZUEs5RW4xLWRLS3ByaVBycjh0YnRIUnhnTFI2czFzaDFkc2IxTzcwZnZtQ2lISXZTNlZSaDhQcEJLUjhMa0RaU3I3Qm1obVhaV2NKajA2eC1Fb0xoY0YyU0NIZkVBMjF4OTItVl9lTk95TmxLNDJHZXV3OFZGVWpYX010NVJCZVRDYVMxel84c09jTXN3cE0zQjdsbld4UGltSFZXU09ObGpDdjdsZTJ1Tnk5QVExTjZudlRXbmRQa2djSW1tZ091d0FvQmtXSnBsRQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.4600000381469727,
+        "percentChange": -12.33,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.840000033378601,
+        "percentChange": -21.2,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.24,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": 6.9,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-15T11:17:03.520499Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
