@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T07:17:55.349156Z",
+  "generatedAt": "2026-10-16T08:17:14.226912Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,24 +19,24 @@
       "flagged": true,
       "news": [
         {
-          "title": "NVIDIA Corporation $NVDA Shares Sold by B & T Capital Management DBA Alpha Capital Management - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDdJV1BZUGY0eTVDSUVHVGhIaHREbFlfY0ZFMnVXcDN0VlA0S2k5Z0pxckJOeHBJVmhhZ3o1cEVfOWpxM1FBaFJ3d0RScTBHLXgtTU9iT0lNOTQzQklzRk42UjNkdUlKdGV2aTA4Sm94TkNDbjJxT3RabmhtbVpGaWxDS3pqaXB4N1ZXeXctVUlLZF9tNEpuVmR5QlhKUzNqOWVGSk5Qd1Y1anpTa1RwRmI2TGlxaVBRcHZzblJHcnJaUnFvWkZXMWU2aWdKb0hrWWQwMDJBQ2FHbG94dnBtNmo0ZGJGdw?oc=5"
+          "title": "NVIDIA Corporation $NVDA Shares Sold by Delta Asset Management LLC TN - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZV9QQk0yV1Q5bWFLSk1PX2V5d3hjbWJRQ2l3U2hjYjBFVnk3RkhvRk9hTFV3QmdnalBwRXpDdmF2RXFRUWEyNVlZTVpSMUVRd3hPenQ1WjhpVzhiNDZrckxidTM4ekEtdzBiakxWZ09keGYyUkJUdFptNFE3UmJnVWFZVGRLMzlEdE04OFpqN3U1YU1LWE5IVW1LcjZrMDhUOTBOWWUyRWtEUGdReUNkYlo0NXlzSy10TktNd0pDSW9HM2J6NXNqUg?oc=5"
         },
         {
-          "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkg3RHU2NXczb3RIaFRkNEdmMlprWHJDNHhpY0duckgzTkNzMW1VSnYwaUlRN1dNVGNsMWNlN3NCaGJ5RVMya1BseXI1QnI0RTBBTFNTcWtGM1F3UXRJWnBPcFZaOUdvTWNhMXdDQnZVZHJmSmJjN1JZZ2kxVWVSYWRGdUtRTUpRMEFpSXkteVRMMFFhOElzaEp4TGZ2Q2xDYmM4?oc=5"
+          "title": "31,559 NVIDIA Corporation $NVDA Shares Acquired by Cullinan Associates Inc. - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMlF4R2RtR2VMaGVTN3JocXY1T0U1UFN2OXhSd1JkN3J3dkpMZGxkaGR4OWdxOVFCbUxwWUdHZTU1U1ozWUZGdnZyeWg5T2pYNnVrSnNLVUtkUnNBdllTUEZxUngzNHpXRE1TbGxZOEJRRUlfY3Q5MHVDZi0wNXdSWEhOUmdOdjJqbGwySHNmM3YxV0VUQlJFS2lXYjlzZndldnliMUdKMUJFd3lSWmpZVE9ibU5TSHp4WklEQnVRSWRqREI1VExQZ3d2WUF4dw?oc=5"
         },
         {
-          "title": "CRWV Stock Slips Overnight: Analyst Calls CoreWeave Debt Worries \u2018Fearmongering,\u2019 Reaffirms 150% Upside Target - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3JPZngwSWp3aklXM0RXNEc1blFUS01Qd25Fdnd1WXBwV3BFb21FdVNWd3F6ZUlpLVdnQVg2N3g1Q29iRURIT1hNZmlwWVlzck0td3B4WWRBY2dlaDJpZVNwTzJkbWFpb0ctY1hhR0tENUpmcVlBbk10WDBxT2VhTmtidGFiaHNacEVOUy1iaHUwNHVEY1d2OU40QUZ2TUtT?oc=5"
+          "title": "NVIDIA Corporation $NVDA Shares Acquired by Cookson Peirce & Co. Inc. - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZmdQblVOWGFOM1Y1M2psRHJZNU1qZlp3RkxWaVg1Sk4xaC12Q2hRRE1wVENXYmRLamx3WnBnNzJtYi1GV29PeXdxTmJEOXFsekF1Yzk5dFVScC12eDZNbW1nUWJKa3pLVVlmS19DREJlYlUzLXdaRE1zRy00ajRISjhHZjVjUHdVZVNHN2xITGdHeDdrX3BpQUtVa19qeTAtdTRYNW1ocWhYdW90NXVzMUlMT1Bwei1Xdzl6MTBmNDBNRXc?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.84,
+      "currentPrice": 4.8,
       "weekAgoPrice": 4.570000171661377,
-      "percentChange": 5.91,
+      "percentChange": 5.03,
       "flagged": true,
       "news": [
         {
@@ -51,25 +51,25 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.32,
+      "currentPrice": 7.31,
       "weekAgoPrice": 7.21999979019165,
-      "percentChange": 1.39,
+      "percentChange": 1.25,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.27,
+      "currentPrice": 1.26,
       "weekAgoPrice": 1.4900000095367432,
-      "percentChange": -14.77,
+      "percentChange": -15.44,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.46,
+      "currentPrice": 1.45,
       "weekAgoPrice": 1.8799999952316284,
-      "percentChange": -22.34,
+      "percentChange": -22.87,
       "flagged": true,
       "news": []
     },
@@ -83,9 +83,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.19,
+      "currentPrice": 1.21,
       "weekAgoPrice": 1.25,
-      "percentChange": -4.8,
+      "percentChange": -3.2,
       "flagged": false,
       "news": []
     },
