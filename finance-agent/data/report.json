@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T01:16:32.337978Z",
+  "generatedAt": "2026-10-16T02:16:18.237247Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -23,31 +23,22 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2pVU3VpUlJrcUhQaWIzU1JBTmczc0NqcnR1WU9YTlhmX2d2eTVLOWd6R2JrRzVHZ2pESDJPaFZDOG5KMUR2V2toNHo3MHJVYzJWUjZFM0tUMkVsakxQLWJMZ3AxZE1vYWlKbzd6dFN6Z25aUlhBZkM0YUpPOGRBWDEzN0pvZFh3YXp1czY1U3NmQU9PVXZtTW1wOU9HQ2pKOEZFakN6UHFEVzFJWm9oUDM2SlpIOW9PSHhOQWI0Yw?oc=5"
         },
         {
-          "title": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN0dmS0NFZ3cwcWdpZlNxcmhwaTlWbGJIM3JJanEtakVrZ0gxOGUwSHlMcl94VzQtQlJqMk5wVWFCdFVLbVNhVEJ2VTNMV2Z3dHdCNWJWbk5kRGd2UmJlbEpFZ3lMMWFjUC0yckFjLU1LYXhsU1haTHdtRG8xR2p2QXhZaUpFWjhGOVY3V1dkTVpjSXpPOVZ2bw?oc=5"
-        },
-        {
           "title": "IonQ Is Following Nvidia's Playbook. Why the Stock Could Be a Buy After a 60% Dip. - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3NpczZTYnhaWHFRSF9GWXNuRXU5RXpqRjNzcklxT2FjdHA2Skd5Q0Jad0ZTd3RGVFJKYnBBclJnVFN3YXRXQzhtc09OQS1sbzFRc1JKX1RXWHd1X1ZNVUJQN0tPMEhPOHJac1NIN25qS0p3QWFMT1M2U1NlN18wOWJaUzQwOXBFUXZaWHk5bmpmWGE1OXNQaA?oc=5"
+        },
+        {
+          "title": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN0dmS0NFZ3cwcWdpZlNxcmhwaTlWbGJIM3JJanEtakVrZ0gxOGUwSHlMcl94VzQtQlJqMk5wVWFCdFVLbVNhVEJ2VTNMV2Z3dHdCNWJWbk5kRGd2UmJlbEpFZ3lMMWFjUC0yckFjLU1LYXhsU1haTHdtRG8xR2p2QXhZaUpFWjhGOVY3V1dkTVpjSXpPOVZ2bw?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.8,
+      "currentPrice": 4.76,
       "weekAgoPrice": 4.570000171661377,
-      "percentChange": 5.03,
-      "flagged": true,
-      "news": [
-        {
-          "title": "RHB Bank Berhad (1066.KL) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fcDB3QzQ5STljeWpGaG1mdWtoWjQ4SzIxT2ViUFVaNGxkOHo3ZW02eEtkeUM3MHM2bTF5UmgyYXFTVnpqb2p2UU5hS2dCZXI1MmhVUmt3?oc=5"
-        },
-        {
-          "title": "AMMB Holdings Berhad (1015.KL) stock price, news, quote and history - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EcUJCT1BkZ054aVB1Q2tIV0xPeXRVNW9LZG52cW8yT09RQWloRE56aXlLZGdDZ0JDZFY2ZS1xWDZJa1p1dFNqbmhyQ1doMG5oaHZNQ3dB?oc=5"
-        }
-      ]
+      "percentChange": 4.16,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "1066.KL",
@@ -59,25 +50,25 @@
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.28,
       "weekAgoPrice": 1.4900000095367432,
-      "percentChange": -13.42,
+      "percentChange": -14.09,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.47,
+      "currentPrice": 1.46,
       "weekAgoPrice": 1.8799999952316284,
-      "percentChange": -21.81,
+      "percentChange": -22.34,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.37,
+      "currentPrice": 1.36,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": -0.0,
+      "percentChange": -0.73,
       "flagged": false,
       "news": []
     },
@@ -99,9 +90,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.26,
+      "currentPrice": 1.27,
       "weekAgoPrice": 1.2400000095367432,
-      "percentChange": 1.61,
+      "percentChange": 2.42,
       "flagged": false,
       "news": []
     },
@@ -114,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 3
 }
