@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-14T20:16:03.802631Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 221.3,
-        "weekAgoPrice": 237.47000122070312,
-        "percentChange": -6.81,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stocks Fall 2.9% Although New AI Racks Support 250 Kilowatts - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDI0a0NpM3VkUHV3NGlZRDAwRnM5ajROSElIZXZqTXc1YkE0Y3pXZk1pSjRvRmdYNW1yMllOdnRJYTdHVjNqd2s5dVJKVkQwZ3dWU21GdmdHTlptVU1rSVJyVTczMjB5WDl3aUxYTHoxZ243NmUyVHBXNkw4TWVLMHlMcVg2YTFLSUZMOTNUMDZRNGNOMkNNRHdqZkF0SEJXeWM0bXAxRTFrTzY5WXR6amZOTmlheGtEMXBqS0ZBNktaOE9C?oc=5"
-          },
-          {
-            "title": "Why is NVIDIA stock sliding today? - Investing.com",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOGpqZzg3NmtJWE1IRUhmUWZRdHctOHp0aUxfSEk0Nk42VEdPbEVUUGtZODJoTVpST3lHWTl5bm9Zd3Jfb09qbzVWWU51bTNzNUEtYlFKVkpEbEI0MFFtY0VKdERmaTNzZ0NMUzNoQWFzTElxVVBDYzdJdlFyZ3p6S3hLcFN4djU3U0M2MkFDR0JNOGtNN2lzb2s5VQ?oc=5"
-          },
-          {
-            "title": "NVIDIA Corp Stock (NVDA) Moved Down by 3.30% on Oct 14: Key Drivers Unveiled - TradingKey",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1pfaUZ2bENvWVlyNURycXdnZHJuQkZpQWdBbUF5TlNfUmd1UExyVklLeU92N3JXd3hhQUp4dkJKLVJKQUJkRlpGNW15WnlVc1lrT0ZQUEpvYWhWckNUSmc4Z1Y2Rl9GRl85SkQxT0ZOa1FqRm0wcUhFcTVaMFE0WERlSExSTEFQQ0k4?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -13.1,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.42,
-        "weekAgoPrice": 1.7999999523162842,
-        "percentChange": -21.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.215,
-        "weekAgoPrice": 0.20000000298023224,
-        "percentChange": 7.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 10.53,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-14T21:16:42.351622Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2687,6 +2628,57 @@
           {
             "title": "Why Nvidia Stock Can Defy the Broader Chip Sector Slump - Barron's",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.83,
+        "weekAgoPrice": 4.570000171661377,
+        "percentChange": 5.69,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.4900000095367432,
+        "percentChange": -14.77,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.8799999952316284,
+        "percentChange": -22.87,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-16T15:16:27.083923Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 216.65,
+        "weekAgoPrice": 229.27999877929688,
+        "percentChange": -5.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Why Are Nasdaq Futures Edging Higher Premarket? TSLA, CRWV, TSM, NVDA, RKLB, ASST, PEP Stocks In Focus - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZXNzY2Jhc19nZl9JWlh0RkFIY3BLVTAtYzQySkRFY3lIaUNOREp6bHduWjlpbERFUi1qcy1VY01qZHVxTm5LaU50MGlWSzBGWWdJaVJFSm01TUVKd1RsdktBenJGS0JGR3UxTWhlNzM1QVd6Mlg1MnUwT0NtbXFNeFVodHdubHF3NWZpRVlwWlZtQUJITHJ4T2gxSlRpRFc0ZHBBQTBmemd5VVE5OFZmR3p5Zjg5UlJtMUpMbHRUaldpaE1LZGFna3Ewb3NJLUMwS2kydDNjTkdpV3J3cGtNT0RFVVBVbl8tTEVuZHVHbWw?oc=5"
+          },
+          {
+            "title": "Nvidia and Apple Donate Millions for Planned White House Project - TIKR.com",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPckZTVUctVTktRnY1TGVYTV8xM2Y4bm9kX3JfdTgzUVlQbDJBMENuVjVEYXh2SndQQWJEd19vaVpYaTA4UjltZjY2V0Zxbmx6TUZxbm5GcGpnNlg2V3dUYzFYbDJaQkN1OWo1dWpzU1lZalRFUTBn?oc=5"
+          },
+          {
+            "title": "NVDA-Led AI Boom Looks a Lot Like the Railroad Bubble of 1873, Pulitzer-Winning Historian Warns - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXZwMW5ieHNyWl9Sb1Y0eHRpaWpaODFaM04yakx2WWxsN0RWSXNPUjhZOTloQ1VHTEF3cXJHTC0wRkJ2dU1RRm5HMTRld1BySXhLSV9iNi0zNV9wUjE5UDhjaEcySWNFOVpJT0FXT2k4ZmdGdmdiZVFqYjZiMFVDSDJCM0hXSGtrVDQ1N093NA?oc=5"
           }
         ]
       },

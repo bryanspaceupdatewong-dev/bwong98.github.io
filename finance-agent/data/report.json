@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-16T14:16:56.919379Z",
+  "generatedAt": "2026-10-16T15:16:27.083923Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 536.85,
+      "currentPrice": 531.78,
       "weekAgoPrice": 535.0700073242188,
-      "percentChange": 0.33,
+      "percentChange": -0.61,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 216.67,
+      "currentPrice": 216.65,
       "weekAgoPrice": 229.27999877929688,
-      "percentChange": -5.5,
+      "percentChange": -5.51,
       "flagged": true,
       "news": [
         {
+          "title": "Why Are Nasdaq Futures Edging Higher Premarket? TSLA, CRWV, TSM, NVDA, RKLB, ASST, PEP Stocks In Focus - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZXNzY2Jhc19nZl9JWlh0RkFIY3BLVTAtYzQySkRFY3lIaUNOREp6bHduWjlpbERFUi1qcy1VY01qZHVxTm5LaU50MGlWSzBGWWdJaVJFSm01TUVKd1RsdktBenJGS0JGR3UxTWhlNzM1QVd6Mlg1MnUwT0NtbXFNeFVodHdubHF3NWZpRVlwWlZtQUJITHJ4T2gxSlRpRFc0ZHBBQTBmemd5VVE5OFZmR3p5Zjg5UlJtMUpMbHRUaldpaE1LZGFna3Ewb3NJLUMwS2kydDNjTkdpV3J3cGtNT0RFVVBVbl8tTEVuZHVHbWw?oc=5"
+        },
+        {
+          "title": "Nvidia and Apple Donate Millions for Planned White House Project - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPckZTVUctVTktRnY1TGVYTV8xM2Y4bm9kX3JfdTgzUVlQbDJBMENuVjVEYXh2SndQQWJEd19vaVpYaTA4UjltZjY2V0Zxbmx6TUZxbm5GcGpnNlg2V3dUYzFYbDJaQkN1OWo1dWpzU1lZalRFUTBn?oc=5"
+        },
+        {
           "title": "NVDA-Led AI Boom Looks a Lot Like the Railroad Bubble of 1873, Pulitzer-Winning Historian Warns - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXZwMW5ieHNyWl9Sb1Y0eHRpaWpaODFaM04yakx2WWxsN0RWSXNPUjhZOTloQ1VHTEF3cXJHTC0wRkJ2dU1RRm5HMTRld1BySXhLSV9iNi0zNV9wUjE5UDhjaEcySWNFOVpJT0FXT2k4ZmdGdmdiZVFqYjZiMFVDSDJCM0hXSGtrVDQ1N093NA?oc=5"
-        },
-        {
-          "title": "The Number Changing My View on Nvidia Stock - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOTRqNlNPTUI3bmNEd0I2bTdCZ2Nta0JKM0o4QnFMT21reFZoWkpFeXkzbFhIbG1UdXFMX3hkeGhxY2VQX2M0SDdBWXRoT2VqYUx6N1JRSDN3OVdPT2M0TDJjQjVEbzc1YmpwbXJJdzFRZVp6UERFc2tDenJzd24ydzRYNW5NWWlsWkFOVlpjdXJ3M0FyUHdTVWtMTlB2NWFyUjZuSW9iRUdESDZFUnA3SG44QkxzbDBxcGYzMTRvdDc2NXJYZDFMbg?oc=5"
-        },
-        {
-          "title": "Why Nvidia Stock Can Defy the Broader Chip Sector Slump - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY?oc=5"
         }
       ]
     },
