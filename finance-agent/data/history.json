@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-15T03:16:18.758242Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 221.3,
-        "weekAgoPrice": 237.47000122070312,
-        "percentChange": -6.81,
-        "flagged": true,
-        "news": [
-          {
-            "title": "History Says Nvidia Stock Usually Rises in the Fourth Quarter -- It Has in 20 of the Last 27 - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGhzSEMtZHZhSjJQVVNCeDFIX2FhRHE5TnQ2ZlJzOTV2UjZrNUltY0dFckdnYnZ0NkNoZzFhalJXMnJZeG96T3BXUUE2WUxGLW1rZXYzUzNHUng2c0NTend6UHpJaFNhcENvdS0yc25PTkYtaFItbXo5QjdUSHE2YnU1TmEzaW1SM2pCUjEwOE5NdmZTazZpTlVlNUdaTXhlTU9uOFRBUGxwMVpndEFEZDdBdjE4ZU0tbDJSTzg1SnFmU1J2NTM0aUU0SEU?oc=5"
-          },
-          {
-            "title": "Nvidia Stock NVDA Falls Below $220 as Data-Center Debt Yields Weigh on Sentiment - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2ZRT3hKR3ctT1B4OHdROUttTmJNdF8xTWU2WDZwRXhKUGJRTE1xd1kxUVFoZjRkdGZhSWFDREgtVE9ja0FOdVdONFNRRjh2dzRBU3JoRV8tZlFIbXRpLUtmNkxtM00yMEE1XzFyMGgzaW5PY3U0by1BRTUzSlBLQTBCbEczZWtKOTF3Tk5kWW8tR0pBdTR0eVAwWHFZMXRPWjl1UGxfSVR2TnBEU2QwYm10azllUEhkbVMxX3ZuTQ?oc=5"
-          },
-          {
-            "title": "NVIDIA (NVDA) Shares Drop 3.16% Amid AI Concerns - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU3dDY2lyODZUQWJxbWkwLUNQNmFWMS1RVW9pQVk0QndSeHRoY19HZ0h0VTF4Z1l2S25vLUVzSWRfbWZTSTNlblp2Z0NPSUl5NDF6czRCNW1xMjZ0a1IzMTZiakZTVE5QbGZtZThEQ2R5dzIydXhxZVo1SDAtRTJsQUZOWUc4LU1TOG5F?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.4600000381469727,
-        "percentChange": -13.7,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.44,
-        "weekAgoPrice": 1.840000033378601,
-        "percentChange": -21.74,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.22,
-        "weekAgoPrice": 0.20499999821186066,
-        "percentChange": 7.32,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 7.76,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-15T04:16:37.477885Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2663,6 +2604,57 @@
           {
             "title": "Germany Confirms Its Nvidia AI Deal: Will Any of Huang\u2019s $2 Billion Europe Pledge Land in Berlin? - TIKR.com",
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGphMF9ITjBJTUI1MGY2V25VRjNVZ3JzdG9zaDdyNUZXTmxnelVLN216QmtvU2tHNjBtUDdRS3pZbnVqbzFZZmwtV0ZuR0FheWxLa0xabjkxRzFqb3YwcDUzZVRJdDNEeFVyNG5RZ0FvQXV3UzNWZUFOVUxUNFJiRkVWYnRoZVNYd1dLZzNvY3lfRy1xdzl3RTlqTjdQSTU3Z002UGl3S19wXzV2XzZYMU9uV3NrYXVFMzNB?oc=5"
+          },
+          {
+            "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDdMcVRWa1ljMXpMMzd6V1N6TXNvY1ZjNlh5N19PczRwRHlHMHBlV3pGcnhwUDJ1eDFDak5zdF9RSHBCbWRpdy1mbjNLWjl0TkpBZWdwSmwxZnNZOHFqSG1kT0F3MUREWDQ4QURpLXJXV1BmWnY0V2FYLXFMWEktWWR4eXpxeXNlZGNvTGQxVzN6bVY3cXVTdg?oc=5"
+          },
+          {
+            "title": "Nvidia (NVDA): Can Paid Software Make Its Earnings Less Dependent on Hardware Sales? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRjBMSFBUb3l5a2IyNUJXR3VkNjN6ZmFDMGsyeHVRcEdsZmg1RkZYTWRKcm1pM0plaUVMUnZ0QUpMUzRCcGxlT3FncjcxMUhRQWZSNUwtNUIxd3E5d2h1QkVqcHRBc3JINmZtZFlCcEdDM3U4dk9QQXIwZ0huVkFpRXQ0aXpBNFVXRmRFTzU1UjZfQnZTV0NVY1AyWQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.83,
+        "weekAgoPrice": 4.570000171661377,
+        "percentChange": 5.69,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.4900000095367432,
+        "percentChange": -14.77,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.8799999952316284,
+        "percentChange": -22.87,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-16T22:16:01.187909Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 214.13,
+        "weekAgoPrice": 229.27999877929688,
+        "percentChange": -6.61,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA (NASDAQ:NVDA) Shares Down 1.4% - Here's What Happened - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLU1za2psc0lCOUxhWUJHc3J1UXVkWEM3TUU5LW51OWV5cEo0ZnBTVU83OVJ1TmxpV2tFR29nQnpPYm5SSXpaVUJ2ZGF3Z3Y4V3JscWc5RmlHTUp1WmRMdUUxUXZZRGNkSEV3TmREZHN1RFN4dm1kazAtSDRSVXhMem9icDlWRFRndmZHd1UzVkhDbVd4TVpTc2FWRkJuamktLXJqRFZaM0JaWnNHQk1YS2V1SQ?oc=5"
           },
           {
             "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity? - Yahoo Finance",
