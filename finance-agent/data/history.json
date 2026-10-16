@@ -1,72 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-14T18:16:37.241419Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 220.73,
-        "weekAgoPrice": 237.47000122070312,
-        "percentChange": -7.05,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stocks on Watch After CPI-Fueled Breakdown: SPX, Nasdaq, NVDA - StoneX",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ0JPYTlHRzVWNm5SVDkzcXY0ODdkODZEcUhoSTlLdGVNWnd1VW1Wejg5RUxkdDJpV2xUdU1NYUQ4VzkwUW1WRWRPNzBVd3lsZjl3ZUdnVEpqQzdZN3FlejhDSmpQMXR6Ty1mcFRUQW05OUVoU2loRWZEMVhtQ1ZKb194VThTcDhrY0NoVlQzc2xaZFlvcHhNdXM2VExTT0lGVlEzbEJ4WUZPUDZqVDk2dGgzdE1hbWRT?oc=5"
-          },
-          {
-            "title": "10 Information Technology Stocks Whale Activity In Today\u2019s Session - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckh1YkZFQ0RQX3BWSXlkRlk4R0w3ZXE5cHA1aHM0THFnLTdQR2dfd21aTC1HWTF2dDM1MG9GMFN1VElpSVJjN1Z0NFRaNjB5dFZmYmp0RUR1V0hVT0lIV202Qm55UmQ4aFdkcDNGNTQ0aWN3ZVlmcl8zcHZWNTZEX09qOG9Ubkk0TFRwZEg4RTdvZGhSTzAwV0ZvMW8yUmlHTkF5NUptZnJ0UkFpVWRYaDFGSEhNbWROUFZJ?oc=5"
-          },
-          {
-            "title": "NVDA Oct 2026 230.000 call (NVDA261014C00230000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EV3g4LVBSM2lzNDZQWlNFS0owZ24tcWZHZ3ZmQVFwM0tGVXRNQ2hDb19zcmF2cnFiRGlTUGFEX0w0VUhsZEFFNnhZbGI3VWtUSkZBQXBZMHp6M3ZRWDVEd25RTnQzQQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -14.29,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.42,
-        "weekAgoPrice": 1.840000033378601,
-        "percentChange": -22.83,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.215,
-        "weekAgoPrice": 0.20000000298023224,
-        "percentChange": 7.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 10.53,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.695,
-        "weekAgoPrice": 0.6600000262260437,
-        "percentChange": 5.3,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-14T19:16:15.422500Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2711,6 +2644,57 @@
           {
             "title": "Better AI Stock: SpaceX vs. Nvidia - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmREWWZ3RndBb0VWVjVXWGVQd0FzdGJ3aTNrWWZIeEk1RGJLRkZna1dKeUpnbExqQWVucFdtZVg2R2tyNk9vdE9MMHF5SmNGeHMxY0FsY0VtcnZIWTJWOGRVbHprZVFQb0prYk9KVi1wRFlkdmV3UDJTeHV6NkJhTGRwMnpNR1pIZ3NqRDNFZHBqN0xG?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.83,
+        "weekAgoPrice": 4.570000171661377,
+        "percentChange": 5.69,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.4900000095367432,
+        "percentChange": -14.77,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.8799999952316284,
+        "percentChange": -22.87,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-16T13:19:42.659215Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 217.23,
+        "weekAgoPrice": 230.47999572753906,
+        "percentChange": -5.75,
+        "flagged": true,
+        "news": [
+          {
+            "title": "The Number Changing My View on Nvidia Stock - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOTRqNlNPTUI3bmNEd0I2bTdCZ2Nta0JKM0o4QnFMT21reFZoWkpFeXkzbFhIbG1UdXFMX3hkeGhxY2VQX2M0SDdBWXRoT2VqYUx6N1JRSDN3OVdPT2M0TDJjQjVEbzc1YmpwbXJJdzFRZVp6UERFc2tDenJzd24ydzRYNW5NWWlsWkFOVlpjdXJ3M0FyUHdTVWtMTlB2NWFyUjZuSW9iRUdESDZFUnA3SG44QkxzbDBxcGYzMTRvdDc2NXJYZDFMbg?oc=5"
+          },
+          {
+            "title": "Nvidia Stock: Jensen Can't Spend His Way Out Of This One (NASDAQ:NVDA) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWJLUnJzR2ZXQlhEOVc0RkpwWDktb0xpVzNHeGhCN1hCbHhGaVowd1hSMWNLMmNLOTljVlN6NE1DMkVRd29EZl9TQW5sd0FIUFF2T0lVcVFTcXBLcVhsUjBhNzJ4bHVpNVhKZ1FoQnVRVlJ5ekhiWU10djhucFZUVC10d3l1XzdVT0tTLVNyTkVtYzQ?oc=5"
+          },
+          {
+            "title": "Meet the New Nasdaq-100 Stock That\u2019s Crushing Nvidia, Micron, and Sandisk. Is It Too Late to Buy? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlhjVDk2V2FoTzZQNFJXZC1ERHNSaDJIRGV3RW9ocXp6TmxxeWVBQmR5OXBzclpIdEJ0eWZKUDlRNnRKT05jRUtfTDRuWnc0R1JHS3V4SjRubklTVmpEdVdwOTVkcnM3TjhEZmd3R2MxYXhYNWNOQk9VRUlhQ3hpTHRabTU1cDFhc2xUeVRfQzBtc1A5NXhTcHpwTlVVREQ1eEQ0N0pkejdSZUhDSExkY0RZOHRsYl9kWGZTTXFfbXczNjVLMXpqcWtHUU9CQ3ZKLWc?oc=5"
           }
         ]
       },
