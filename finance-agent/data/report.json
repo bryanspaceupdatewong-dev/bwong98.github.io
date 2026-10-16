@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-10-16T18:16:42.254178Z",
+  "generatedAt": "2026-10-16T19:16:21.912867Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 527.2,
+      "currentPrice": 526.96,
       "weekAgoPrice": 535.0700073242188,
-      "percentChange": -1.47,
+      "percentChange": -1.52,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 215.03,
+      "currentPrice": 214.52,
       "weekAgoPrice": 229.27999877929688,
-      "percentChange": -6.22,
+      "percentChange": -6.44,
       "flagged": true,
       "news": [
         {
-          "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Of - GuruFocus",
+          "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDdMcVRWa1ljMXpMMzd6V1N6TXNvY1ZjNlh5N19PczRwRHlHMHBlV3pGcnhwUDJ1eDFDak5zdF9RSHBCbWRpdy1mbjNLWjl0TkpBZWdwSmwxZnNZOHFqSG1kT0F3MUREWDQ4QURpLXJXV1BmWnY0V2FYLXFMWEktWWR4eXpxeXNlZGNvTGQxVzN6bVY3cXVTdg?oc=5"
+        },
+        {
+          "title": "Nvidia (NVDA): Can Paid Software Make Its Earnings Less Dependent on Hardware Sales? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRjBMSFBUb3l5a2IyNUJXR3VkNjN6ZmFDMGsyeHVRcEdsZmg1RkZYTWRKcm1pM0plaUVMUnZ0QUpMUzRCcGxlT3FncjcxMUhRQWZSNUwtNUIxd3E5d2h1QkVqcHRBc3JINmZtZFlCcEdDM3U4dk9QQXIwZ0huVkFpRXQ0aXpBNFVXRmRFTzU1UjZfQnZTV0NVY1AyWQ?oc=5"
+        },
+        {
+          "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Off - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0ZlN2hNaGdkYkNaUExvZUYzeWg2d1FKeGVuQng0c3NOVmdVZDRPLUsyVElCd19xaDZINUJ4a2RHOHl3SHh0dmlCMER1eWR1TldCc2Z5elVnTFpNQ2RDM0VnckVabjRiNkozLXhOQ3QxZjNSODRhV2RhV3pFRFdPNEhLN1JSR08zWVphbHhZdTNwbjlkSm1kWFRIcTM3dk55Rnkw?oc=5"
-        },
-        {
-          "title": "Nvidia Stock Price Forecast: Jensen Huang Says AI Chip Demand Is Strong, Dan Ives Sees Selloff as Buying Opportunity; Can the Stock Return to an Uptrend? - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaU9rbjVCSDN4UzRLQW1WbERQX1VRMFJfRlNjYzYwR1Y3c2NJWFdwekJPekJhei1IT1cxQ2piajhDOHZNUnAtVElSc0lfRzJTUkJUYVdzZjE2RXlTMTY5Ri1LOHJPTThhN2RUWmd1OXBEZGRDa0VQS1o5VmZ4ek9VRjBENThQckY5ODFnUXlISmdMX2RrSW16MEF2d3FNZ2N0VEdvSllMX2tZSkdBNXlsSWFOVEZIdmYyZWxQM0ZBbkJjTXZIcmphRkhOczljQTRZdEtiblRLazY?oc=5"
-        },
-        {
-          "title": "AMD, Nvidia and More Buying Opportunities Hidden in the Chip Stock Chaos - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwbkNEWGJ0OTR4WkVyM2pjVFBMQTBQcE0xbElNMXpsWGlvRWctSV9LSVdmakFaNk9UTktPNE1mUzFidFdfNERrZUVOOXZnejBOR2ZQTXJsbGx6bzFQSFlMRGVrYjFaZTdMNVNaVVNSMVFrSk4ybGRjWGMxN0o?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.83,
-      "weekAgoPrice": 4.550000190734863,
-      "percentChange": 6.15,
+      "weekAgoPrice": 4.570000171661377,
+      "percentChange": 5.69,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.32,
-      "weekAgoPrice": 7.150000095367432,
-      "percentChange": 2.38,
+      "weekAgoPrice": 7.21999979019165,
+      "percentChange": 1.39,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.27,
-      "weekAgoPrice": 1.4600000381469727,
-      "percentChange": -13.01,
+      "weekAgoPrice": 1.4900000095367432,
+      "percentChange": -14.77,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.45,
-      "weekAgoPrice": 1.840000033378601,
-      "percentChange": -21.2,
+      "weekAgoPrice": 1.8799999952316284,
+      "percentChange": -22.87,
       "flagged": true,
       "news": []
     },
@@ -75,8 +75,8 @@
     {
       "ticker": "5296.KL",
       "currentPrice": 1.23,
-      "weekAgoPrice": 1.2400000095367432,
-      "percentChange": -0.81,
+      "weekAgoPrice": 1.25,
+      "percentChange": -1.6,
       "flagged": false,
       "news": []
     },
@@ -91,9 +91,9 @@
     {
       "ticker": "5352.KL",
       "currentPrice": 1.27,
-      "weekAgoPrice": 1.159999966621399,
-      "percentChange": 9.48,
-      "flagged": true,
+      "weekAgoPrice": 1.2400000095367432,
+      "percentChange": 2.42,
+      "flagged": false,
       "news": []
     },
     {
@@ -105,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 4
 }
