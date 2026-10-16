@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T06:19:57.982907Z",
+  "generatedAt": "2026-10-16T07:17:55.349156Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,24 +19,24 @@
       "flagged": true,
       "news": [
         {
+          "title": "NVIDIA Corporation $NVDA Shares Sold by B & T Capital Management DBA Alpha Capital Management - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDdJV1BZUGY0eTVDSUVHVGhIaHREbFlfY0ZFMnVXcDN0VlA0S2k5Z0pxckJOeHBJVmhhZ3o1cEVfOWpxM1FBaFJ3d0RScTBHLXgtTU9iT0lNOTQzQklzRk42UjNkdUlKdGV2aTA4Sm94TkNDbjJxT3RabmhtbVpGaWxDS3pqaXB4N1ZXeXctVUlLZF9tNEpuVmR5QlhKUzNqOWVGSk5Qd1Y1anpTa1RwRmI2TGlxaVBRcHZzblJHcnJaUnFvWkZXMWU2aWdKb0hrWWQwMDJBQ2FHbG94dnBtNmo0ZGJGdw?oc=5"
+        },
+        {
           "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock. - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkg3RHU2NXczb3RIaFRkNEdmMlprWHJDNHhpY0duckgzTkNzMW1VSnYwaUlRN1dNVGNsMWNlN3NCaGJ5RVMya1BseXI1QnI0RTBBTFNTcWtGM1F3UXRJWnBPcFZaOUdvTWNhMXdDQnZVZHJmSmJjN1JZZ2kxVWVSYWRGdUtRTUpRMEFpSXkteVRMMFFhOElzaEp4TGZ2Q2xDYmM4?oc=5"
         },
         {
           "title": "CRWV Stock Slips Overnight: Analyst Calls CoreWeave Debt Worries \u2018Fearmongering,\u2019 Reaffirms 150% Upside Target - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3JPZngwSWp3aklXM0RXNEc1blFUS01Qd25Fdnd1WXBwV3BFb21FdVNWd3F6ZUlpLVdnQVg2N3g1Q29iRURIT1hNZmlwWVlzck0td3B4WWRBY2dlaDJpZVNwTzJkbWFpb0ctY1hhR0tENUpmcVlBbk10WDBxT2VhTmtidGFiaHNacEVOUy1iaHUwNHVEY1d2OU40QUZ2TUtT?oc=5"
-        },
-        {
-          "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0t4eGpYUTItck1hUkt1VGx1VGV2TVhFckdZWVJCUzJ3OTNKUGJ0elY2eXRJRGlPTkEzMWh3bU94aXdJTG04YzEwZXoxU1BLNmktd1QyY3BtRGprU3laOHl2QkQ4UnowaXY1TFJiaW0yWTJmYW12M3pES0xwN05WNlhrbUtpU19PYUZMd3BFakpLNnlrV1FqWGtqZ3pCdXpCN3RIalljbXJUN3Vsa0tSOUE4MA?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.82,
+      "currentPrice": 4.84,
       "weekAgoPrice": 4.570000171661377,
-      "percentChange": 5.47,
+      "percentChange": 5.91,
       "flagged": true,
       "news": [
         {
@@ -51,17 +51,17 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.33,
+      "currentPrice": 7.32,
       "weekAgoPrice": 7.21999979019165,
-      "percentChange": 1.52,
+      "percentChange": 1.39,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.28,
+      "currentPrice": 1.27,
       "weekAgoPrice": 1.4900000095367432,
-      "percentChange": -14.09,
+      "percentChange": -14.77,
       "flagged": true,
       "news": []
     },
@@ -83,9 +83,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.2,
+      "currentPrice": 1.19,
       "weekAgoPrice": 1.25,
-      "percentChange": -4.0,
+      "percentChange": -4.8,
       "flagged": false,
       "news": []
     },
