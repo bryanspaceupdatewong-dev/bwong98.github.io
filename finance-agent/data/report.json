@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T01:01:40.575384Z",
+  "generatedAt": "2026-10-16T01:16:32.337978Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -34,49 +34,58 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.74,
-      "weekAgoPrice": 4.550000190734863,
-      "percentChange": 4.18,
-      "flagged": false,
-      "news": []
+      "currentPrice": 4.8,
+      "weekAgoPrice": 4.570000171661377,
+      "percentChange": 5.03,
+      "flagged": true,
+      "news": [
+        {
+          "title": "RHB Bank Berhad (1066.KL) stock price, news, quote and history - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fcDB3QzQ5STljeWpGaG1mdWtoWjQ4SzIxT2ViUFVaNGxkOHo3ZW02eEtkeUM3MHM2bTF5UmgyYXFTVnpqb2p2UU5hS2dCZXI1MmhVUmt3?oc=5"
+        },
+        {
+          "title": "AMMB Holdings Berhad (1015.KL) stock price, news, quote and history - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EcUJCT1BkZ054aVB1Q2tIV0xPeXRVNW9LZG52cW8yT09RQWloRE56aXlLZGdDZ0JDZFY2ZS1xWDZJa1p1dFNqbmhyQ1doMG5oaHZNQ3dB?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.28,
-      "weekAgoPrice": 7.150000095367432,
-      "percentChange": 1.82,
+      "currentPrice": 7.33,
+      "weekAgoPrice": 7.21999979019165,
+      "percentChange": 1.52,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.28,
-      "weekAgoPrice": 1.4600000381469727,
-      "percentChange": -12.33,
+      "currentPrice": 1.29,
+      "weekAgoPrice": 1.4900000095367432,
+      "percentChange": -13.42,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.45,
-      "weekAgoPrice": 1.840000033378601,
-      "percentChange": -21.2,
+      "currentPrice": 1.47,
+      "weekAgoPrice": 1.8799999952316284,
+      "percentChange": -21.81,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.36,
+      "currentPrice": 1.37,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": -0.73,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.19,
-      "weekAgoPrice": 1.2400000095367432,
-      "percentChange": -4.03,
+      "weekAgoPrice": 1.25,
+      "percentChange": -4.8,
       "flagged": false,
       "news": []
     },
@@ -90,10 +99,10 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.24,
-      "weekAgoPrice": 1.159999966621399,
-      "percentChange": 6.9,
-      "flagged": true,
+      "currentPrice": 1.26,
+      "weekAgoPrice": 1.2400000095367432,
+      "percentChange": 1.61,
+      "flagged": false,
       "news": []
     },
     {
