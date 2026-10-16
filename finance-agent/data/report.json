@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T02:16:18.237247Z",
+  "generatedAt": "2026-10-16T03:16:25.906384Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,12 +19,12 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Stock NVDA Extends Slide Toward $200 as ASML Warns of Chipmaking Capacity - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2pVU3VpUlJrcUhQaWIzU1JBTmczc0NqcnR1WU9YTlhmX2d2eTVLOWd6R2JrRzVHZ2pESDJPaFZDOG5KMUR2V2toNHo3MHJVYzJWUjZFM0tUMkVsakxQLWJMZ3AxZE1vYWlKbzd6dFN6Z25aUlhBZkM0YUpPOGRBWDEzN0pvZFh3YXp1czY1U3NmQU9PVXZtTW1wOU9HQ2pKOEZFakN6UHFEVzFJWm9oUDM2SlpIOW9PSHhOQWI0Yw?oc=5"
+          "title": "How Investors Are Reacting To NVIDIA (NVDA) AI Partnership Wave - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhnc0tIbHYtRE8zcTVtS2laZG5IT29wWG1yaDBkUkVUanpvaWpFWm1pTEpyVjR6aDZ3Zi1Yd2tMclFDLWc0WHgxYzJ1Z0NpcWxyOWRPYWVUMW05OC1xU2Y4Ri11R0JFb0hqWGVlZDZKU25HSllfRUxzNVlJdmkzNVAydVkzYUFhLU1qRU5UamNPRV9Ic2VOZElYMUFlVGs?oc=5"
         },
         {
-          "title": "IonQ Is Following Nvidia's Playbook. Why the Stock Could Be a Buy After a 60% Dip. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3NpczZTYnhaWHFRSF9GWXNuRXU5RXpqRjNzcklxT2FjdHA2Skd5Q0Jad0ZTd3RGVFJKYnBBclJnVFN3YXRXQzhtc09OQS1sbzFRc1JKX1RXWHd1X1ZNVUJQN0tPMEhPOHJac1NIN25qS0p3QWFMT1M2U1NlN18wOWJaUzQwOXBFUXZaWHk5bmpmWGE1OXNQaA?oc=5"
+          "title": "Nvidia Stock NVDA Extends Slide Toward $200 as ASML Warns of Chipmaking Capacity - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2pVU3VpUlJrcUhQaWIzU1JBTmczc0NqcnR1WU9YTlhmX2d2eTVLOWd6R2JrRzVHZ2pESDJPaFZDOG5KMUR2V2toNHo3MHJVYzJWUjZFM0tUMkVsakxQLWJMZ3AxZE1vYWlKbzd6dFN6Z25aUlhBZkM0YUpPOGRBWDEzN0pvZFh3YXp1czY1U3NmQU9PVXZtTW1wOU9HQ2pKOEZFakN6UHFEVzFJWm9oUDM2SlpIOW9PSHhOQWI0Yw?oc=5"
         },
         {
           "title": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center - The Motley Fool",
@@ -34,17 +34,17 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.76,
+      "currentPrice": 4.78,
       "weekAgoPrice": 4.570000171661377,
-      "percentChange": 4.16,
+      "percentChange": 4.6,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.33,
+      "currentPrice": 7.31,
       "weekAgoPrice": 7.21999979019165,
-      "percentChange": 1.52,
+      "percentChange": 1.25,
       "flagged": false,
       "news": []
     },
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.19,
+      "currentPrice": 1.21,
       "weekAgoPrice": 1.25,
-      "percentChange": -4.8,
+      "percentChange": -3.2,
       "flagged": false,
       "news": []
     },
@@ -90,9 +90,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.27,
+      "currentPrice": 1.25,
       "weekAgoPrice": 1.2400000095367432,
-      "percentChange": 2.42,
+      "percentChange": 0.81,
       "flagged": false,
       "news": []
     },
