@@ -1,72 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-14T16:17:08.115835Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 222.075,
-        "weekAgoPrice": 237.47000122070312,
-        "percentChange": -6.48,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Is Nvidia Still the Best AI Stock to Buy in 2026, or Is This Challenger? - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcktBMVhpVFVZU1ozb0c5U3g0NXFvcVAySGp6Y0xiZmNzVlM1aGE4QlBlRU85Q1lrSUljYVYteGRpb1pFUmhCTHVCTlVsOHByUWdUQlNJd2VnMjFOQ1BVVjl4NmF4U01ITVBhLURTZlZuc2UxM1NMbm9LelptTWtoN280T0VQd1ViVElNdGZJU0k0cXNnMTMzOGFZWTU4REpmS1ZOOHFHQWYtOHh5MDdhN3dfVQ?oc=5"
-          },
-          {
-            "title": "Don\u2019t Get NVIDIA\u2019s Reflection AI Interest Wrong: Its Moat Could Deepen - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlFPUWx6RnVOdHBSX3dnZ1d6cjIwRmhwOGF0aDJ0bFQ2c1RGNFZHQzcwcFM5T2dRejlpOTQ4bmh6VHNYVnNKWVQwOHRDTFBkVmZhSFhIRXpXeVJLN09DOVQ5OVl6bEF1OW4xZEZQRGhqZldNR2k0YzY2eUNxSVdrQjZwWEl4eWlyeUF4bWVCeWdFV1ZCdF9xU2Vub1BteW10SWJKNlBTNA?oc=5"
-          },
-          {
-            "title": "NVDA Oct 2026 232.500 call (NVDA261014C00232500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZSHVKcTFqWWhuVnBiZ3BMR0xIV2FRYUl5RU9LMzFuTGZPeEVMTEZidTNSQ1RaSlpyejNkeExJLUxJdFBCU3ZCVm9iX1Y3YklpV3lDTThyQnp2bkJhMEJHMDQ4X1BQZw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.4700000286102295,
-        "percentChange": -14.29,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.42,
-        "weekAgoPrice": 1.840000033378601,
-        "percentChange": -22.83,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.215,
-        "weekAgoPrice": 0.20000000298023224,
-        "percentChange": 7.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 10.53,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.695,
-        "weekAgoPrice": 0.6600000262260437,
-        "percentChange": 5.3,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-14T17:15:55.245890Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2759,6 +2692,57 @@
           {
             "title": "NVIDIA Corporation $NVDA Stock Acquired by Northwestern Mutual Wealth Management Co. - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLWd6M1NzXy1JWnR5bm9qd2l2dW0ydVd5R2k0Y2NBUDJKb0NKNU1mZ3V4eVo3Rko2Z2Q5X2JTSUJjV3gwcXUzczJUVTAzSzVtU1dKREd0TDRvX0QxeHQ0RTk5M2hZTzNZc0h4RU1GYWJMZHo2VmpPaTRZak1RekpIeDNabW85aXZYblQyOUQ3eDhxSzVvalVieFZXWVlyUTNMcTNib29oUnZWR1Z5YXIwQzEyY05uc0k0M0xyQzJzdXFaRFJjbTVkUTJIMFhON0xtTkFnTmtoamNjOEE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.83,
+        "weekAgoPrice": 4.570000171661377,
+        "percentChange": 5.69,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.4900000095367432,
+        "percentChange": -14.77,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.8799999952316284,
+        "percentChange": -22.87,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-16T10:16:03.981816Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 217.23,
+        "weekAgoPrice": 230.47999572753906,
+        "percentChange": -5.75,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic' - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3RweTh1THdrck1qLURYMnJEVW03ZzdxNTIwZTVRVjV3MS1YM0E1V2VOblNmdzIzdUU2RXRVSGx3WGV2XzhudDVWeHo3REtZaHRyWk94ZDBrSzhoTy1RRWROaUxIcXZnQmdkRW5OWVVOdEJzQjN1U3pQZmdkVElaWEwxbkxDbndxalNabnV4MHYxSGYtTVdIN3VjZ2ZYVExQc2gyLXlxV0ZfamNMWWJCQkhaSFhqemhZeUJxOGxNYWYxYi1Rb2c?oc=5"
+          },
+          {
+            "title": "Why Nvidia Stock Is Rising While the Broader Chip Sector Keeps Falling - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY?oc=5"
+          },
+          {
+            "title": "Nvidia Unveils Three New AI Models Amid Strong Demand - Intellectia AI",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamtuaHJvMF9xSV9aMUljSmNDdFRZcVczbjJNU0ZqSXpXdUxKck9DdENZOXRlQkhFclBEZklLNkNwN1hIUTNVLVl2dFUxTkVNWjVPdU50dm1Fd1RxeUhuOUFFM0REU1dTNGk4b2ljTl9fWVVFVExsazdGcWM4ZWpPYk9GaU8tUlhFQTdBWVBNYzg?oc=5"
           }
         ]
       },
