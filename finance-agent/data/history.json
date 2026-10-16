@@ -1,43 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-14T12:22:18.769541Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -13.1,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.42,
-        "weekAgoPrice": 1.7999999523162842,
-        "percentChange": -21.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.215,
-        "weekAgoPrice": 0.20000000298023224,
-        "percentChange": 7.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 10.53,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-14T13:20:45.705013Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2691,6 +2653,66 @@
           {
             "title": "How Investors Are Reacting To NVIDIA (NVDA) AI Partnership Wave - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhnc0tIbHYtRE8zcTVtS2laZG5IT29wWG1yaDBkUkVUanpvaWpFWm1pTEpyVjR6aDZ3Zi1Yd2tMclFDLWc0WHgxYzJ1Z0NpcWxyOWRPYWVUMW05OC1xU2Y4Ri11R0JFb0hqWGVlZDZKU25HSllfRUxzNVlJdmkzNVAydVkzYUFhLU1qRU5UamNPRV9Ic2VOZElYMUFlVGs?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.82,
+        "weekAgoPrice": 4.570000171661377,
+        "percentChange": 5.47,
+        "flagged": true,
+        "news": [
+          {
+            "title": "RHB Bank Berhad (1066.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fcDB3QzQ5STljeWpGaG1mdWtoWjQ4SzIxT2ViUFVaNGxkOHo3ZW02eEtkeUM3MHM2bTF5UmgyYXFTVnpqb2p2UU5hS2dCZXI1MmhVUmt3?oc=5"
+          },
+          {
+            "title": "AMMB Holdings Berhad (1015.KL) stock price, news, quote and history - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EcUJCT1BkZ054aVB1Q2tIV0xPeXRVNW9LZG52cW8yT09RQWloRE56aXlLZGdDZ0JDZFY2ZS1xWDZJa1p1dFNqbmhyQ1doMG5oaHZNQ3dB?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.4900000095367432,
+        "percentChange": -14.09,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.46,
+        "weekAgoPrice": 1.8799999952316284,
+        "percentChange": -22.34,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-16T06:10:50.767842Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 217.23,
+        "weekAgoPrice": 230.47999572753906,
+        "percentChange": -5.75,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock. - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkg3RHU2NXczb3RIaFRkNEdmMlprWHJDNHhpY0duckgzTkNzMW1VSnYwaUlRN1dNVGNsMWNlN3NCaGJ5RVMya1BseXI1QnI0RTBBTFNTcWtGM1F3UXRJWnBPcFZaOUdvTWNhMXdDQnZVZHJmSmJjN1JZZ2kxVWVSYWRGdUtRTUpRMEFpSXkteVRMMFFhOElzaEp4TGZ2Q2xDYmM4?oc=5"
+          },
+          {
+            "title": "CRWV Stock Slips Overnight: Analyst Calls CoreWeave Debt Worries \u2018Fearmongering,\u2019 Reaffirms 150% Upside Target - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3JPZngwSWp3aklXM0RXNEc1blFUS01Qd25Fdnd1WXBwV3BFb21FdVNWd3F6ZUlpLVdnQVg2N3g1Q29iRURIT1hNZmlwWVlzck0td3B4WWRBY2dlaDJpZVNwTzJkbWFpb0ctY1hhR0tENUpmcVlBbk10WDBxT2VhTmtidGFiaHNacEVOUy1iaHUwNHVEY1d2OU40QUZ2TUtT?oc=5"
+          },
+          {
+            "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0t4eGpYUTItck1hUkt1VGx1VGV2TVhFckdZWVJCUzJ3OTNKUGJ0elY2eXRJRGlPTkEzMWh3bU94aXdJTG04YzEwZXoxU1BLNmktd1QyY3BtRGprU3laOHl2QkQ4UnowaXY1TFJiaW0yWTJmYW12M3pES0xwN05WNlhrbUtpU19PYUZMd3BFakpLNnlrV1FqWGtqZ3pCdXpCN3RIalljbXJUN3Vsa0tSOUE4MA?oc=5"
           }
         ]
       },
