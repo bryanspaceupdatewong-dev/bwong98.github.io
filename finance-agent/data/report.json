@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-16T13:19:42.659215Z",
+  "generatedAt": "2026-10-16T14:16:56.919379Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 539.44,
-      "weekAgoPrice": 522.6099853515625,
-      "percentChange": 3.22,
+      "currentPrice": 536.85,
+      "weekAgoPrice": 535.0700073242188,
+      "percentChange": 0.33,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 217.23,
-      "weekAgoPrice": 230.47999572753906,
-      "percentChange": -5.75,
+      "currentPrice": 216.67,
+      "weekAgoPrice": 229.27999877929688,
+      "percentChange": -5.5,
       "flagged": true,
       "news": [
+        {
+          "title": "NVDA-Led AI Boom Looks a Lot Like the Railroad Bubble of 1873, Pulitzer-Winning Historian Warns - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXZwMW5ieHNyWl9Sb1Y0eHRpaWpaODFaM04yakx2WWxsN0RWSXNPUjhZOTloQ1VHTEF3cXJHTC0wRkJ2dU1RRm5HMTRld1BySXhLSV9iNi0zNV9wUjE5UDhjaEcySWNFOVpJT0FXT2k4ZmdGdmdiZVFqYjZiMFVDSDJCM0hXSGtrVDQ1N093NA?oc=5"
+        },
         {
           "title": "The Number Changing My View on Nvidia Stock - The Globe and Mail",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOTRqNlNPTUI3bmNEd0I2bTdCZ2Nta0JKM0o4QnFMT21reFZoWkpFeXkzbFhIbG1UdXFMX3hkeGhxY2VQX2M0SDdBWXRoT2VqYUx6N1JRSDN3OVdPT2M0TDJjQjVEbzc1YmpwbXJJdzFRZVp6UERFc2tDenJzd24ydzRYNW5NWWlsWkFOVlpjdXJ3M0FyUHdTVWtMTlB2NWFyUjZuSW9iRUdESDZFUnA3SG44QkxzbDBxcGYzMTRvdDc2NXJYZDFMbg?oc=5"
         },
         {
-          "title": "Nvidia Stock: Jensen Can't Spend His Way Out Of This One (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWJLUnJzR2ZXQlhEOVc0RkpwWDktb0xpVzNHeGhCN1hCbHhGaVowd1hSMWNLMmNLOTljVlN6NE1DMkVRd29EZl9TQW5sd0FIUFF2T0lVcVFTcXBLcVhsUjBhNzJ4bHVpNVhKZ1FoQnVRVlJ5ekhiWU10djhucFZUVC10d3l1XzdVT0tTLVNyTkVtYzQ?oc=5"
-        },
-        {
-          "title": "Meet the New Nasdaq-100 Stock That\u2019s Crushing Nvidia, Micron, and Sandisk. Is It Too Late to Buy? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlhjVDk2V2FoTzZQNFJXZC1ERHNSaDJIRGV3RW9ocXp6TmxxeWVBQmR5OXBzclpIdEJ0eWZKUDlRNnRKT05jRUtfTDRuWnc0R1JHS3V4SjRubklTVmpEdVdwOTVkcnM3TjhEZmd3R2MxYXhYNWNOQk9VRUlhQ3hpTHRabTU1cDFhc2xUeVRfQzBtc1A5NXhTcHpwTlVVREQ1eEQ0N0pkejdSZUhDSExkY0RZOHRsYl9kWGZTTXFfbXczNjVLMXpqcWtHUU9CQ3ZKLWc?oc=5"
+          "title": "Why Nvidia Stock Can Defy the Broader Chip Sector Slump - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY?oc=5"
         }
       ]
     },

@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-14T19:16:15.422500Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 220.28,
-        "weekAgoPrice": 237.47000122070312,
-        "percentChange": -7.24,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Why is NVIDIA stock sliding today? - Investing.com",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOGpqZzg3NmtJWE1IRUhmUWZRdHctOHp0aUxfSEk0Nk42VEdPbEVUUGtZODJoTVpST3lHWTl5bm9Zd3Jfb09qbzVWWU51bTNzNUEtYlFKVkpEbEI0MFFtY0VKdERmaTNzZ0NMUzNoQWFzTElxVVBDYzdJdlFyZ3p6S3hLcFN4djU3U0M2MkFDR0JNOGtNN2lzb2s5VQ?oc=5"
-          },
-          {
-            "title": "Why is NVIDIA stock sliding today? By Investing.com - Investing.com UK",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR01GVW4zcEdTRmZXNnNlZFdZNUdQSEpnTGdCYkxlNU80amJrMHFoVFltd0tzX3NtZVRNMExMZGNEMl9hd0ZuSW9TU3ZVSUhvVGk5T2NEeGYtRzd1RDJkZGlFdGd0SVQ2OGlHQ0tUTFQ4bW9mMldOcmh4cmVaeGJtalJBUmtPdjV0UGswZFVlQTFORDU3R2Nud2Rn?oc=5"
-          },
-          {
-            "title": "Nvidia Stocks Fall 2.9% Although New AI Racks Support 250 Kilowa - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVZqMGJ6Qjc5OGNEV0xDTHVRTTNTX0dnd0xsNXJqVVN6NTdIZ3hDTWdYZlpLNDU5OFowcWlMcmdfTzhwMGNPQTFGazg1dWZmNVROa3lTTzhycndJdE9vTUx0cFVWR0VJeC14WWEzSUhndFBUYlBpZkRENkx3ZkdGVDJkSnQzajlBWmdTSG1ud2lPT3U5ZDhvQ0g0Zk80MHBvTVB2MmFSYw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -13.1,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.42,
-        "weekAgoPrice": 1.7999999523162842,
-        "percentChange": -21.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.215,
-        "weekAgoPrice": 0.20000000298023224,
-        "percentChange": 7.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 10.53,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-14T20:16:03.802631Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2695,6 +2636,57 @@
           {
             "title": "Meet the New Nasdaq-100 Stock That\u2019s Crushing Nvidia, Micron, and Sandisk. Is It Too Late to Buy? - The Motley Fool",
             "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlhjVDk2V2FoTzZQNFJXZC1ERHNSaDJIRGV3RW9ocXp6TmxxeWVBQmR5OXBzclpIdEJ0eWZKUDlRNnRKT05jRUtfTDRuWnc0R1JHS3V4SjRubklTVmpEdVdwOTVkcnM3TjhEZmd3R2MxYXhYNWNOQk9VRUlhQ3hpTHRabTU1cDFhc2xUeVRfQzBtc1A5NXhTcHpwTlVVREQ1eEQ0N0pkejdSZUhDSExkY0RZOHRsYl9kWGZTTXFfbXczNjVLMXpqcWtHUU9CQ3ZKLWc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.83,
+        "weekAgoPrice": 4.570000171661377,
+        "percentChange": 5.69,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.4900000095367432,
+        "percentChange": -14.77,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.8799999952316284,
+        "percentChange": -22.87,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-16T14:16:56.919379Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 216.67,
+        "weekAgoPrice": 229.27999877929688,
+        "percentChange": -5.5,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA-Led AI Boom Looks a Lot Like the Railroad Bubble of 1873, Pulitzer-Winning Historian Warns - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXZwMW5ieHNyWl9Sb1Y0eHRpaWpaODFaM04yakx2WWxsN0RWSXNPUjhZOTloQ1VHTEF3cXJHTC0wRkJ2dU1RRm5HMTRld1BySXhLSV9iNi0zNV9wUjE5UDhjaEcySWNFOVpJT0FXT2k4ZmdGdmdiZVFqYjZiMFVDSDJCM0hXSGtrVDQ1N093NA?oc=5"
+          },
+          {
+            "title": "The Number Changing My View on Nvidia Stock - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOTRqNlNPTUI3bmNEd0I2bTdCZ2Nta0JKM0o4QnFMT21reFZoWkpFeXkzbFhIbG1UdXFMX3hkeGhxY2VQX2M0SDdBWXRoT2VqYUx6N1JRSDN3OVdPT2M0TDJjQjVEbzc1YmpwbXJJdzFRZVp6UERFc2tDenJzd24ydzRYNW5NWWlsWkFOVlpjdXJ3M0FyUHdTVWtMTlB2NWFyUjZuSW9iRUdESDZFUnA3SG44QkxzbDBxcGYzMTRvdDc2NXJYZDFMbg?oc=5"
+          },
+          {
+            "title": "Why Nvidia Stock Can Defy the Broader Chip Sector Slump - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY?oc=5"
           }
         ]
       },
