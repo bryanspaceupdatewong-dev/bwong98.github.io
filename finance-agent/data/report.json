@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-16T16:14:37.518946Z",
+  "generatedAt": "2026-10-16T16:16:25.275978Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 529.25,
+      "currentPrice": 529.16,
       "weekAgoPrice": 535.0700073242188,
-      "percentChange": -1.09,
+      "percentChange": -1.1,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 217.4,
+      "currentPrice": 217.425,
       "weekAgoPrice": 229.27999877929688,
-      "percentChange": -5.18,
+      "percentChange": -5.17,
       "flagged": true,
       "news": [
         {
@@ -27,8 +27,8 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelkyWlltU0dSamhMN0ZzVWlVcjVfMXpzbUotNF9ZdzVWdFRmbVpXcGxBWHlyaUR3MEM5eG1Ka1pJRXd3aTFMdUt3SjNzazlNSlpGeEhVNlpzZ192Q0doZXNITFQ2TEN2dkNrT2kzS2lOaWRMZ2tYVDI2YnA1TWNMUmZPckFHalBWSEMzR1V1bWJwa3M4djBkbG1R?oc=5"
         },
         {
-          "title": "Why Are Nasdaq Futures Edging Higher Premarket? TSLA, CRWV, TSM, NVDA, RKLB, ASST, PEP Stocks In Focus - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZXNzY2Jhc19nZl9JWlh0RkFIY3BLVTAtYzQySkRFY3lIaUNOREp6bHduWjlpbERFUi1qcy1VY01qZHVxTm5LaU50MGlWSzBGWWdJaVJFSm01TUVKd1RsdktBenJGS0JGR3UxTWhlNzM1QVd6Mlg1MnUwT0NtbXFNeFVodHdubHF3NWZpRVlwWlZtQUJITHJ4T2gxSlRpRFc0ZHBBQTBmemd5VVE5OFZmR3p5Zjg5UlJtMUpMbHRUaldpaE1LZGFna3Ewb3NJLUMwS2kydDNjTkdpV3J3cGtNT0RFVVBVbl8tTEVuZHVHbWw?oc=5"
+          "title": "CoreWeave Stock Rally Fizzles Despite ARK's Wood, Nvidia Support - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYS1ma2lESjRhWXAwUmYtc0RLQm5QTTFyZ0EyODI2cnQyT2VOTWNiNm5uUFdtc1BTSkNWVk9UbEdibUtsMnZtUzh4dTNJMk9nSm1wVUNaRFBpQTJZcmd6cGVmWEROSUswTFlMWTdWanc0ZGRsSG1mSVV1UDJZMTRTMFF0a3J4aTgtSG1vQTkybFFLcjBZbXVOVXVkNnU1RWpKV2JWX0tSeko?oc=5"
         }
       ]
     },

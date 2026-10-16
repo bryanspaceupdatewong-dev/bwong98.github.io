@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-14T22:16:30.199494Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 221.3,
-        "weekAgoPrice": 237.47000122070312,
-        "percentChange": -6.81,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA (NVDA) Shares Drop 3.16% Amid AI Concerns - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU3dDY2lyODZUQWJxbWkwLUNQNmFWMS1RVW9pQVk0QndSeHRoY19HZ0h0VTF4Z1l2S25vLUVzSWRfbWZTSTNlblp2Z0NPSUl5NDF6czRCNW1xMjZ0a1IzMTZiakZTVE5QbGZtZThEQ2R5dzIydXhxZVo1SDAtRTJsQUZOWUc4LU1TOG5F?oc=5"
-          },
-          {
-            "title": "NVIDIA (NASDAQ:NVDA) Shares Down 3.2% - Time to Sell? - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2xiX0hKR3B1NUdLYkNnS25YZDJwSTB2NHozd1NWZGozOXF5YnhzWng5V05BY2Y1dUljMFd1SlRFbDRNUV91bzRvSjdSZW8yMHlQQVFhcEJHQTduTlFvVG5paFA2bG54TGh6V2ktb1RnanJrOFdETUd2ZXFqbU1jbGNjZ01ROTNQUWpnRmxsWnJJa1FQaXkwVVpURFBQeUxXdVV6NWMtUTA1UQ?oc=5"
-          },
-          {
-            "title": "Nvidia-Backed CoreWeave\u2019s Stock Plunges Amid Worries About AI Debt - Investopedia",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWJjYi1CbG9vVy11VURiQ2gwWVJWSC0tdnhRaXcyMzR6aHYxZEtSSkV3SERheWZkNU9iWUR0bjNvQVc1YlQyV3lzU1cySHU5Vk9CaFVneVVFTlhhLV9YVGJTelpXcFFUUVV0SUNjb2hMX0FWU3lBa0xDLXYwdm5WTVpNeGVrbU1ZRnNwbXJxTWFuXzRfNWFBYmE1cWNON0xFaU1oMVNRR2hQYnM?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -13.1,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.42,
-        "weekAgoPrice": 1.7999999523162842,
-        "percentChange": -21.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.215,
-        "weekAgoPrice": 0.20000000298023224,
-        "percentChange": 7.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 10.53,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-14T23:16:11.123189Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2671,6 +2612,65 @@
           {
             "title": "Why Are Nasdaq Futures Edging Higher Premarket? TSLA, CRWV, TSM, NVDA, RKLB, ASST, PEP Stocks In Focus - Stocktwits",
             "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZXNzY2Jhc19nZl9JWlh0RkFIY3BLVTAtYzQySkRFY3lIaUNOREp6bHduWjlpbERFUi1qcy1VY01qZHVxTm5LaU50MGlWSzBGWWdJaVJFSm01TUVKd1RsdktBenJGS0JGR3UxTWhlNzM1QVd6Mlg1MnUwT0NtbXFNeFVodHdubHF3NWZpRVlwWlZtQUJITHJ4T2gxSlRpRFc0ZHBBQTBmemd5VVE5OFZmR3p5Zjg5UlJtMUpMbHRUaldpaE1LZGFna3Ewb3NJLUMwS2kydDNjTkdpV3J3cGtNT0RFVVBVbl8tTEVuZHVHbWw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.83,
+        "weekAgoPrice": 4.550000190734863,
+        "percentChange": 6.15,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.4600000381469727,
+        "percentChange": -13.01,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.840000033378601,
+        "percentChange": -21.2,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": 9.48,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-16T16:16:25.275978Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 217.425,
+        "weekAgoPrice": 229.27999877929688,
+        "percentChange": -5.17,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA stock could rise 80% to $400 by 2027 wit... - Pluang",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3hmZVZQb3I4SnMxOTV6ajBobVNsRVp1NE9sU19hVkx1ZnBOWGkxUWdkSGE3ajRyd0NrWkJtd2ZLQkFpR3NvOFZhTVExbjdTcjllYXdRNEJXWXgxaUdoWHdqemo3ZExtcE9oajVuWE81UUx2cFpCejc5b21jV3dBMWRoX2JPbnNtUWc?oc=5"
+          },
+          {
+            "title": "Nvidia (NVDA) Expands Nemotron As $4 Billion Texas Supply Push Meets Customer Debt Stress - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelkyWlltU0dSamhMN0ZzVWlVcjVfMXpzbUotNF9ZdzVWdFRmbVpXcGxBWHlyaUR3MEM5eG1Ka1pJRXd3aTFMdUt3SjNzazlNSlpGeEhVNlpzZ192Q0doZXNITFQ2TEN2dkNrT2kzS2lOaWRMZ2tYVDI2YnA1TWNMUmZPckFHalBWSEMzR1V1bWJwa3M4djBkbG1R?oc=5"
+          },
+          {
+            "title": "CoreWeave Stock Rally Fizzles Despite ARK's Wood, Nvidia Support - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYS1ma2lESjRhWXAwUmYtc0RLQm5QTTFyZ0EyODI2cnQyT2VOTWNiNm5uUFdtc1BTSkNWVk9UbEdibUtsMnZtUzh4dTNJMk9nSm1wVUNaRFBpQTJZcmd6cGVmWEROSUswTFlMWTdWanc0ZGRsSG1mSVV1UDJZMTRTMFF0a3J4aTgtSG1vQTkybFFLcjBZbXVOVXVkNnU1RWpKV2JWX0tSeko?oc=5"
           }
         ]
       },
