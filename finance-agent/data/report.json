@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:16:29.283153Z",
+  "generatedAt": "2026-10-16T05:16:55.359260Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,24 +19,24 @@
       "flagged": true,
       "news": [
         {
+          "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkg3RHU2NXczb3RIaFRkNEdmMlprWHJDNHhpY0duckgzTkNzMW1VSnYwaUlRN1dNVGNsMWNlN3NCaGJ5RVMya1BseXI1QnI0RTBBTFNTcWtGM1F3UXRJWnBPcFZaOUdvTWNhMXdDQnZVZHJmSmJjN1JZZ2kxVWVSYWRGdUtRTUpRMEFpSXkteVRMMFFhOElzaEp4TGZ2Q2xDYmM4?oc=5"
+        },
+        {
           "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock. - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0t4eGpYUTItck1hUkt1VGx1VGV2TVhFckdZWVJCUzJ3OTNKUGJ0elY2eXRJRGlPTkEzMWh3bU94aXdJTG04YzEwZXoxU1BLNmktd1QyY3BtRGprU3laOHl2QkQ4UnowaXY1TFJiaW0yWTJmYW12M3pES0xwN05WNlhrbUtpU19PYUZMd3BFakpLNnlrV1FqWGtqZ3pCdXpCN3RIalljbXJUN3Vsa0tSOUE4MA?oc=5"
         },
         {
           "title": "How Investors Are Reacting To NVIDIA (NVDA) AI Partnership Wave - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhnc0tIbHYtRE8zcTVtS2laZG5IT29wWG1yaDBkUkVUanpvaWpFWm1pTEpyVjR6aDZ3Zi1Yd2tMclFDLWc0WHgxYzJ1Z0NpcWxyOWRPYWVUMW05OC1xU2Y4Ri11R0JFb0hqWGVlZDZKU25HSllfRUxzNVlJdmkzNVAydVkzYUFhLU1qRU5UamNPRV9Ic2VOZElYMUFlVGs?oc=5"
-        },
-        {
-          "title": "Nvidia Stock NVDA Extends Slide Toward $200 as ASML Warns of Chipmaking Capacity - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2pVU3VpUlJrcUhQaWIzU1JBTmczc0NqcnR1WU9YTlhmX2d2eTVLOWd6R2JrRzVHZ2pESDJPaFZDOG5KMUR2V2toNHo3MHJVYzJWUjZFM0tUMkVsakxQLWJMZ3AxZE1vYWlKbzd6dFN6Z25aUlhBZkM0YUpPOGRBWDEzN0pvZFh3YXp1czY1U3NmQU9PVXZtTW1wOU9HQ2pKOEZFakN6UHFEVzFJWm9oUDM2SlpIOW9PSHhOQWI0Yw?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.8,
+      "currentPrice": 4.82,
       "weekAgoPrice": 4.570000171661377,
-      "percentChange": 5.03,
+      "percentChange": 5.47,
       "flagged": true,
       "news": [
         {
@@ -51,9 +51,9 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.31,
+      "currentPrice": 7.33,
       "weekAgoPrice": 7.21999979019165,
-      "percentChange": 1.25,
+      "percentChange": 1.52,
       "flagged": false,
       "news": []
     },
@@ -67,9 +67,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.45,
+      "currentPrice": 1.46,
       "weekAgoPrice": 1.8799999952316284,
-      "percentChange": -22.87,
+      "percentChange": -22.34,
       "flagged": true,
       "news": []
     },
@@ -99,9 +99,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.28,
+      "currentPrice": 1.27,
       "weekAgoPrice": 1.2400000095367432,
-      "percentChange": 3.23,
+      "percentChange": 2.42,
       "flagged": false,
       "news": []
     },
