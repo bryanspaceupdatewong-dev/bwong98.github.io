@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-14T23:16:11.123189Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 221.3,
-        "weekAgoPrice": 237.47000122070312,
-        "percentChange": -6.81,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock NVDA Falls Below $220 as Data-Center Debt Yields Weigh on Sentiment - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2ZRT3hKR3ctT1B4OHdROUttTmJNdF8xTWU2WDZwRXhKUGJRTE1xd1kxUVFoZjRkdGZhSWFDREgtVE9ja0FOdVdONFNRRjh2dzRBU3JoRV8tZlFIbXRpLUtmNkxtM00yMEE1XzFyMGgzaW5PY3U0by1BRTUzSlBLQTBCbEczZWtKOTF3Tk5kWW8tR0pBdTR0eVAwWHFZMXRPWjl1UGxfSVR2TnBEU2QwYm10azllUEhkbVMxX3ZuTQ?oc=5"
-          },
-          {
-            "title": "NVIDIA (NVDA) Shares Drop 3.16% Amid AI Concerns - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU3dDY2lyODZUQWJxbWkwLUNQNmFWMS1RVW9pQVk0QndSeHRoY19HZ0h0VTF4Z1l2S25vLUVzSWRfbWZTSTNlblp2Z0NPSUl5NDF6czRCNW1xMjZ0a1IzMTZiakZTVE5QbGZtZThEQ2R5dzIydXhxZVo1SDAtRTJsQUZOWUc4LU1TOG5F?oc=5"
-          },
-          {
-            "title": "NVIDIA (NASDAQ:NVDA) Shares Down 3.2% - Time to Sell? - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2xiX0hKR3B1NUdLYkNnS25YZDJwSTB2NHozd1NWZGozOXF5YnhzWng5V05BY2Y1dUljMFd1SlRFbDRNUV91bzRvSjdSZW8yMHlQQVFhcEJHQTduTlFvVG5paFA2bG54TGh6V2ktb1RnanJrOFdETUd2ZXFqbU1jbGNjZ01ROTNQUWpnRmxsWnJJa1FQaXkwVVpURFBQeUxXdVV6NWMtUTA1UQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -13.1,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.42,
-        "weekAgoPrice": 1.7999999523162842,
-        "percentChange": -21.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.215,
-        "weekAgoPrice": 0.20000000298023224,
-        "percentChange": 7.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 10.53,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-15T00:16:25.755446Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2671,6 +2612,65 @@
           {
             "title": "CoreWeave Stock Rally Fizzles Despite ARK's Wood, Nvidia Support - Investor's Business Daily",
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYS1ma2lESjRhWXAwUmYtc0RLQm5QTTFyZ0EyODI2cnQyT2VOTWNiNm5uUFdtc1BTSkNWVk9UbEdibUtsMnZtUzh4dTNJMk9nSm1wVUNaRFBpQTJZcmd6cGVmWEROSUswTFlMWTdWanc0ZGRsSG1mSVV1UDJZMTRTMFF0a3J4aTgtSG1vQTkybFFLcjBZbXVOVXVkNnU1RWpKV2JWX0tSeko?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.83,
+        "weekAgoPrice": 4.550000190734863,
+        "percentChange": 6.15,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.4600000381469727,
+        "percentChange": -13.01,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.840000033378601,
+        "percentChange": -21.2,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": 9.48,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-16T17:16:21.297019Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 215.31,
+        "weekAgoPrice": 229.27999877929688,
+        "percentChange": -6.09,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Of - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0ZlN2hNaGdkYkNaUExvZUYzeWg2d1FKeGVuQng0c3NOVmdVZDRPLUsyVElCd19xaDZINUJ4a2RHOHl3SHh0dmlCMER1eWR1TldCc2Z5elVnTFpNQ2RDM0VnckVabjRiNkozLXhOQ3QxZjNSODRhV2RhV3pFRFdPNEhLN1JSR08zWVphbHhZdTNwbjlkSm1kWFRIcTM3dk55Rnkw?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Price Forecast: Jensen Huang Says AI Chip Demand Is Strong, Dan Ives Sees Selloff as Buying Opportunity; Can the Stock Return to an Uptrend? - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaU9rbjVCSDN4UzRLQW1WbERQX1VRMFJfRlNjYzYwR1Y3c2NJWFdwekJPekJhei1IT1cxQ2piajhDOHZNUnAtVElSc0lfRzJTUkJUYVdzZjE2RXlTMTY5Ri1LOHJPTThhN2RUWmd1OXBEZGRDa0VQS1o5VmZ4ek9VRjBENThQckY5ODFnUXlISmdMX2RrSW16MEF2d3FNZ2N0VEdvSllMX2tZSkdBNXlsSWFOVEZIdmYyZWxQM0ZBbkJjTXZIcmphRkhOczljQTRZdEtiblRLazY?oc=5"
+          },
+          {
+            "title": "AMD, Nvidia and More Buying Opportunities Hidden in the Chip Stock Chaos - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwbkNEWGJ0OTR4WkVyM2pjVFBMQTBQcE0xbElNMXpsWGlvRWctSV9LSVdmakFaNk9UTktPNE1mUzFidFdfNERrZUVOOXZnejBOR2ZQTXJsbGx6bzFQSFlMRGVrYjFaZTdMNVNaVVNSMVFrSk4ybGRjWGMxN0o?oc=5"
           }
         ]
       },

@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-16T16:16:25.275978Z",
+  "generatedAt": "2026-10-16T17:16:21.297019Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 529.16,
+      "currentPrice": 524.62,
       "weekAgoPrice": 535.0700073242188,
-      "percentChange": -1.1,
+      "percentChange": -1.95,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 217.425,
+      "currentPrice": 215.31,
       "weekAgoPrice": 229.27999877929688,
-      "percentChange": -5.17,
+      "percentChange": -6.09,
       "flagged": true,
       "news": [
         {
-          "title": "NVIDIA stock could rise 80% to $400 by 2027 wit... - Pluang",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3hmZVZQb3I4SnMxOTV6ajBobVNsRVp1NE9sU19hVkx1ZnBOWGkxUWdkSGE3ajRyd0NrWkJtd2ZLQkFpR3NvOFZhTVExbjdTcjllYXdRNEJXWXgxaUdoWHdqemo3ZExtcE9oajVuWE81UUx2cFpCejc5b21jV3dBMWRoX2JPbnNtUWc?oc=5"
+          "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Of - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0ZlN2hNaGdkYkNaUExvZUYzeWg2d1FKeGVuQng0c3NOVmdVZDRPLUsyVElCd19xaDZINUJ4a2RHOHl3SHh0dmlCMER1eWR1TldCc2Z5elVnTFpNQ2RDM0VnckVabjRiNkozLXhOQ3QxZjNSODRhV2RhV3pFRFdPNEhLN1JSR08zWVphbHhZdTNwbjlkSm1kWFRIcTM3dk55Rnkw?oc=5"
         },
         {
-          "title": "Nvidia (NVDA) Expands Nemotron As $4 Billion Texas Supply Push Meets Customer Debt Stress - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelkyWlltU0dSamhMN0ZzVWlVcjVfMXpzbUotNF9ZdzVWdFRmbVpXcGxBWHlyaUR3MEM5eG1Ka1pJRXd3aTFMdUt3SjNzazlNSlpGeEhVNlpzZ192Q0doZXNITFQ2TEN2dkNrT2kzS2lOaWRMZ2tYVDI2YnA1TWNMUmZPckFHalBWSEMzR1V1bWJwa3M4djBkbG1R?oc=5"
+          "title": "Nvidia Stock Price Forecast: Jensen Huang Says AI Chip Demand Is Strong, Dan Ives Sees Selloff as Buying Opportunity; Can the Stock Return to an Uptrend? - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaU9rbjVCSDN4UzRLQW1WbERQX1VRMFJfRlNjYzYwR1Y3c2NJWFdwekJPekJhei1IT1cxQ2piajhDOHZNUnAtVElSc0lfRzJTUkJUYVdzZjE2RXlTMTY5Ri1LOHJPTThhN2RUWmd1OXBEZGRDa0VQS1o5VmZ4ek9VRjBENThQckY5ODFnUXlISmdMX2RrSW16MEF2d3FNZ2N0VEdvSllMX2tZSkdBNXlsSWFOVEZIdmYyZWxQM0ZBbkJjTXZIcmphRkhOczljQTRZdEtiblRLazY?oc=5"
         },
         {
-          "title": "CoreWeave Stock Rally Fizzles Despite ARK's Wood, Nvidia Support - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYS1ma2lESjRhWXAwUmYtc0RLQm5QTTFyZ0EyODI2cnQyT2VOTWNiNm5uUFdtc1BTSkNWVk9UbEdibUtsMnZtUzh4dTNJMk9nSm1wVUNaRFBpQTJZcmd6cGVmWEROSUswTFlMWTdWanc0ZGRsSG1mSVV1UDJZMTRTMFF0a3J4aTgtSG1vQTkybFFLcjBZbXVOVXVkNnU1RWpKV2JWX0tSeko?oc=5"
+          "title": "AMD, Nvidia and More Buying Opportunities Hidden in the Chip Stock Chaos - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwbkNEWGJ0OTR4WkVyM2pjVFBMQTBQcE0xbElNMXpsWGlvRWctSV9LSVdmakFaNk9UTktPNE1mUzFidFdfNERrZUVOOXZnejBOR2ZQTXJsbGx6bzFQSFlMRGVrYjFaZTdMNVNaVVNSMVFrSk4ybGRjWGMxN0o?oc=5"
         }
       ]
     },
