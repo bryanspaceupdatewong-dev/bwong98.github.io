@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T11:16:23.951155Z",
+  "generatedAt": "2026-10-16T12:25:41.784266Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Comparing AI Investments: Nvidia vs SpaceX - Intellectia AI",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGdZUlE1UnZQbEZQbWdVYy1oQnBBYVBwUEYtS0tGaWpWeXJaZTJYMTNDWEdLdFF3V3VaNW9DLVVzZ3R0VlBsRk1wUGxaaHRzemhacmdocnptTUpMX21UZDVMSVk4YTRBTXZRd19JNUJ3ckNrV1d0bF93U2l3Vlpuaw?oc=5"
+        },
+        {
+          "title": "Better AI Stock: SpaceX vs. Nvidia - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTXhWVUZiVnVrM0FQM3ZXLW5FbjFjaFpKMTVHRFFHeEhWWGJUZEs4VWFQeklpaDV4YUlqQlotdGFnSjBpSEdEUldDWEpJV0FwM0lyOEh1Z2RTWWprckQzVENCbzhoX3VzaTFKTjdzYnU5NGltcHVRdXB1RHNjbXNZTnhZVHJ2Y251VXQxbzVHenQ4d3dCRzZIdF9kS2o3SHh3R0Z0LUNncHN0b0JGc200bElrSjNGaC0t?oc=5"
+        },
+        {
           "title": "Better AI Stock: SpaceX vs. Nvidia - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmREWWZ3RndBb0VWVjVXWGVQd0FzdGJ3aTNrWWZIeEk1RGJLRkZna1dKeUpnbExqQWVucFdtZVg2R2tyNk9vdE9MMHF5SmNGeHMxY0FsY0VtcnZIWTJWOGRVbHprZVFQb0prYk9KVi1wRFlkdmV3UDJTeHV6NkJhTGRwMnpNR1pIZ3NqRDNFZHBqN0xG?oc=5"
-        },
-        {
-          "title": "ServiceNow Stock Trending: Employees Build AI Agents with Nvidia Oversight - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc3dtdFVRX0VqRTJFaGcyUzI1S0tsR1BuUnM2aWdkdV8yUWZvVUw1SlRvNy1Cdjg3LXBGaXlEenR4N1N3aG1xZGlsYzVzMi1UR0lsQ1p6dnZ4RG9oekxYam1VUmJxWXR2cDc5aFI1akdwMnhBMkZOZzV6RFBxLUNRcjJ5ZWh6YzRrUzNOektTdTNyU2JBZS1ydGZwaDBHbndBeW95Y0h0ZkRTNnBkNlhNTE8zUmtQelN5dG51S2F1Z2p6Zjd5dEcxbjF0TFlOY2c?oc=5"
-        },
-        {
-          "title": "Better AI Stock: SpaceX vs. Nvidia - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWx2bm9JeUhiN0VLVzJtbENUX1pkQXhhMnd2OERFVnQwQ092elg5cDNqTTJYQTBiX3pjM0pBZUlVc1hGeG5uQ0RTWUtvdXE5TkFlTlhjdjExdWF3cXRfM0k1TFg3cjZzR0FyTTZ2OHFYeXM2VWRhMDJfRk4yNWxVcA?oc=5"
         }
       ]
     },
