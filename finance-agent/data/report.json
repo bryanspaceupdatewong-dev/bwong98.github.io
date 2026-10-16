@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-10-16T15:16:27.083923Z",
+  "generatedAt": "2026-10-16T16:14:37.518946Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 531.78,
+      "currentPrice": 529.25,
       "weekAgoPrice": 535.0700073242188,
-      "percentChange": -0.61,
+      "percentChange": -1.09,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 216.65,
+      "currentPrice": 217.4,
       "weekAgoPrice": 229.27999877929688,
-      "percentChange": -5.51,
+      "percentChange": -5.18,
       "flagged": true,
       "news": [
         {
+          "title": "NVIDIA stock could rise 80% to $400 by 2027 wit... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3hmZVZQb3I4SnMxOTV6ajBobVNsRVp1NE9sU19hVkx1ZnBOWGkxUWdkSGE3ajRyd0NrWkJtd2ZLQkFpR3NvOFZhTVExbjdTcjllYXdRNEJXWXgxaUdoWHdqemo3ZExtcE9oajVuWE81UUx2cFpCejc5b21jV3dBMWRoX2JPbnNtUWc?oc=5"
+        },
+        {
+          "title": "Nvidia (NVDA) Expands Nemotron As $4 Billion Texas Supply Push Meets Customer Debt Stress - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelkyWlltU0dSamhMN0ZzVWlVcjVfMXpzbUotNF9ZdzVWdFRmbVpXcGxBWHlyaUR3MEM5eG1Ka1pJRXd3aTFMdUt3SjNzazlNSlpGeEhVNlpzZ192Q0doZXNITFQ2TEN2dkNrT2kzS2lOaWRMZ2tYVDI2YnA1TWNMUmZPckFHalBWSEMzR1V1bWJwa3M4djBkbG1R?oc=5"
+        },
+        {
           "title": "Why Are Nasdaq Futures Edging Higher Premarket? TSLA, CRWV, TSM, NVDA, RKLB, ASST, PEP Stocks In Focus - Stocktwits",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZXNzY2Jhc19nZl9JWlh0RkFIY3BLVTAtYzQySkRFY3lIaUNOREp6bHduWjlpbERFUi1qcy1VY01qZHVxTm5LaU50MGlWSzBGWWdJaVJFSm01TUVKd1RsdktBenJGS0JGR3UxTWhlNzM1QVd6Mlg1MnUwT0NtbXFNeFVodHdubHF3NWZpRVlwWlZtQUJITHJ4T2gxSlRpRFc0ZHBBQTBmemd5VVE5OFZmR3p5Zjg5UlJtMUpMbHRUaldpaE1LZGFna3Ewb3NJLUMwS2kydDNjTkdpV3J3cGtNT0RFVVBVbl8tTEVuZHVHbWw?oc=5"
-        },
-        {
-          "title": "Nvidia and Apple Donate Millions for Planned White House Project - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPckZTVUctVTktRnY1TGVYTV8xM2Y4bm9kX3JfdTgzUVlQbDJBMENuVjVEYXh2SndQQWJEd19vaVpYaTA4UjltZjY2V0Zxbmx6TUZxbm5GcGpnNlg2V3dUYzFYbDJaQkN1OWo1dWpzU1lZalRFUTBn?oc=5"
-        },
-        {
-          "title": "NVDA-Led AI Boom Looks a Lot Like the Railroad Bubble of 1873, Pulitzer-Winning Historian Warns - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXZwMW5ieHNyWl9Sb1Y0eHRpaWpaODFaM04yakx2WWxsN0RWSXNPUjhZOTloQ1VHTEF3cXJHTC0wRkJ2dU1RRm5HMTRld1BySXhLSV9iNi0zNV9wUjE5UDhjaEcySWNFOVpJT0FXT2k4ZmdGdmdiZVFqYjZiMFVDSDJCM0hXSGtrVDQ1N093NA?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.83,
-      "weekAgoPrice": 4.570000171661377,
-      "percentChange": 5.69,
+      "weekAgoPrice": 4.550000190734863,
+      "percentChange": 6.15,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.32,
-      "weekAgoPrice": 7.21999979019165,
-      "percentChange": 1.39,
+      "weekAgoPrice": 7.150000095367432,
+      "percentChange": 2.38,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.27,
-      "weekAgoPrice": 1.4900000095367432,
-      "percentChange": -14.77,
+      "weekAgoPrice": 1.4600000381469727,
+      "percentChange": -13.01,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.45,
-      "weekAgoPrice": 1.8799999952316284,
-      "percentChange": -22.87,
+      "weekAgoPrice": 1.840000033378601,
+      "percentChange": -21.2,
       "flagged": true,
       "news": []
     },
@@ -75,8 +75,8 @@
     {
       "ticker": "5296.KL",
       "currentPrice": 1.23,
-      "weekAgoPrice": 1.25,
-      "percentChange": -1.6,
+      "weekAgoPrice": 1.2400000095367432,
+      "percentChange": -0.81,
       "flagged": false,
       "news": []
     },
@@ -91,9 +91,9 @@
     {
       "ticker": "5352.KL",
       "currentPrice": 1.27,
-      "weekAgoPrice": 1.2400000095367432,
-      "percentChange": 2.42,
-      "flagged": false,
+      "weekAgoPrice": 1.159999966621399,
+      "percentChange": 9.48,
+      "flagged": true,
       "news": []
     },
     {
@@ -105,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 5
 }
