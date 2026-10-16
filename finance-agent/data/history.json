@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-14T15:16:30.074246Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 223.505,
-        "weekAgoPrice": 237.47000122070312,
-        "percentChange": -5.88,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVDA Oct 2026 232.500 call (NVDA261014C00232500) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZSHVKcTFqWWhuVnBiZ3BMR0xIV2FRYUl5RU9LMzFuTGZPeEVMTEZidTNSQ1RaSlpyejNkeExJLUxJdFBCU3ZCVm9iX1Y3YklpV3lDTThyQnp2bkJhMEJHMDQ4X1BQZw?oc=5"
-          },
-          {
-            "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027. - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRnJ2cVdfcDNBZVhTeWM3MkpXWXBldF9tZDVmOWVnV1N0ZnpibElsd2hqYzFVeG1wd3BhUmR2bXRTLWQ4Wmc1OXZwT01kaElfNmlUSnpZSWRWcGZ5LWFHZUNEZE42MGoyaHpKOVd6LXBvdzZzWEtQdHN5SUxWemNtS3Y0N0pROGJFQzY5UmFpdThBN0FRczZPaEVLQkJhN0YwUzZlWmlnd2YxMkJtRFI4TER4VldXLXVMYl81R0RmOVFyOTRHUjJXZXdNZGlVRDBObV8tbVZQZmRVN0pjUHI1X1VkSFlCdkFXVnpNN2ZmbGVtT2FtMU5oVGNWeUNEaVo0YzFqQk04LWFwTms1cm5XNF92UWlXMFY4NVQzT0RLanNSSVFvWk9IYmh2bw?oc=5"
-          },
-          {
-            "title": "A $250 Million Why Nvidia Stock in News - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFlnMmxDejRVM0Zzd2M0UWdOZHBwNVlnUE50dWs2a243UkxOQ2VDaU5ONndEbS1ub3ZKSm1vTDctaVJiVlNnSDd3elBYbWxxeGpxN1VjYUdSSjlKQXp4a3RIcjZCN3VDc3BPbFZ6QWJOVzludzFYYU5VM3NUY0hrT1Q4MA?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -13.1,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.42,
-        "weekAgoPrice": 1.7999999523162842,
-        "percentChange": -21.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.215,
-        "weekAgoPrice": 0.20000000298023224,
-        "percentChange": 7.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 10.53,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-14T16:17:08.115835Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2783,6 +2724,57 @@
         "currentPrice": 1.26,
         "weekAgoPrice": 1.4900000095367432,
         "percentChange": -15.44,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.8799999952316284,
+        "percentChange": -22.87,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-16T09:16:00.130016Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 217.23,
+        "weekAgoPrice": 230.47999572753906,
+        "percentChange": -5.75,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXZrNVRuUWJyLVM1UG5kOGRtZ0JlRTVQbjB4SDR3Z0VFUlJscUxBWmc0elJ3STl2bnZyOVF6R2pNTF8xRmluWElpcXIzYkdkVzA0WFVvb0tLME9TOHdYWHZiUVViV0JnQnA2NGNEWExwdjNGRUR3ajNtZGx5MmVUdHpKZzdJalZxTGZUNjNwRVhNMG5GUWgzNWE2WXlYVWVONHBnRkY2bEtUT0JsSTctNGF4VkNZQWlzaDZLNWkwRW1mTzY2cHVN?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Stock Sold by Private Harbour Investment Management & Counsel LLC - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWnZ1SEpzQmVIYW9sTHJhU3NyRkJmZERpenkzV09leTJHcllPMW1ibExpLWN1TWdTdHNrazBfX1FRaGF3VVE0VVpDRXNBMGFndmhsSGp4X1hxZnNoVkI2WUZGM2lJTWtWOUJrcEdwQkRYQ1QzRU0zRFIxYTF0VjlSMzRDNXNyeW5aNC1lRXdmbDRUSmpNNXd3bS1QU0NGYTJJR2dLenA0RGhXQ1p4Q3JZR1E4T3ItbDBVbWdnU085cGRKNG80Q3Y4QnYtXzVhZDB4NkZ3S0VXZDdhX1FMVTJ3aXNn?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Stock Acquired by Northwestern Mutual Wealth Management Co. - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLWd6M1NzXy1JWnR5bm9qd2l2dW0ydVd5R2k0Y2NBUDJKb0NKNU1mZ3V4eVo3Rko2Z2Q5X2JTSUJjV3gwcXUzczJUVTAzSzVtU1dKREd0TDRvX0QxeHQ0RTk5M2hZTzNZc0h4RU1GYWJMZHo2VmpPaTRZak1RekpIeDNabW85aXZYblQyOUQ3eDhxSzVvalVieFZXWVlyUTNMcTNib29oUnZWR1Z5YXIwQzEyY05uc0k0M0xyQzJzdXFaRFJjbTVkUTJIMFhON0xtTkFnTmtoamNjOEE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.83,
+        "weekAgoPrice": 4.570000171661377,
+        "percentChange": 5.69,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.4900000095367432,
+        "percentChange": -14.77,
         "flagged": true,
         "news": []
       },
