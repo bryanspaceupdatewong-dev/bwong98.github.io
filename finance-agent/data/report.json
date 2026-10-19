@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T06:21:42.389190Z",
+  "generatedAt": "2026-10-19T07:22:49.706062Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -27,8 +27,8 @@
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYldSOGtnZzV6OXhlOVdQTjBKVEhnNko4aEVtXzBndHNyLWZVZ3kyWXRBWHh1TVhRVTkyOVczRGxIM3FUQWM4eC1CTnlxWkZkdThrdGdEcUxtTmI4ckRYYlZsUFZxbEZlT3NYcGxfSGswRTFWQTRHbDNLeEVKRHl4VHVZNXhUaWc2Zmd2MG9VWVRoWG95TjlJbWJ6anV4cVlhV2tCQ1g4cTJvMDdBdVdndEFzeE9Od2VpanQweHFtRlU1d0diX2tLTTRTOVE?oc=5"
         },
         {
-          "title": "This Is AMD's Biggest Hurdle in an AI Sell-Off (and No, It's Not Nvidia) - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc0N6RTI2aTBCdTFjaW9NeG9JUEJzLTlUb0JkOEVJYmRyU3NRRDk2MEhONjdjWU5mWDJ6Umd5eVZvVFQ3cENSc2R0dzc1MzZXMnlJQnVTZy1HLTBQeDYyc0U2MTNRbk5RU1pFRUxvcWVZZzlkZFRkczBMYnFiVDVfX3VCY2xDZnZuRVAteEhmUFNjcDBuc1hZ?oc=5"
+          "title": "Here\u2019s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030 - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVFVLRG1RZzM3T05RR3kzc0lXamo1bHRVampXaDdpRHAxX21qN0c3QnhwMFMyR2pWZFRTUEJYTUM0cmluaS1QRm5hN0tkbHl5VFVuNUxLT0Nhalh4MGRMVF9iNFpUOGNkb2h3NHB2N0h4RVR3MHZqSTZNdFgyaFlzdTFQdkg2QTMxNkpsSFdReU5HcnR4RWZzbE9TNmdJWkQwSHppcUNRcDNRdFZqb0djU2hCdk5RZw?oc=5"
         }
       ]
     },
@@ -42,9 +42,9 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.19,
+      "currentPrice": 7.2,
       "weekAgoPrice": 7.190000057220459,
-      "percentChange": -0.0,
+      "percentChange": 0.14,
       "flagged": false,
       "news": []
     },
@@ -58,9 +58,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.42,
+      "currentPrice": 1.44,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -2.07,
+      "percentChange": -0.69,
       "flagged": false,
       "news": []
     },
@@ -98,9 +98,9 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.695,
+      "currentPrice": 0.685,
       "weekAgoPrice": 0.6899999976158142,
-      "percentChange": 0.72,
+      "percentChange": -0.72,
       "flagged": false,
       "news": []
     }
