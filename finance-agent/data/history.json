@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-15T15:16:27.233678Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 217.15,
-        "weekAgoPrice": 230.47999572753906,
-        "percentChange": -5.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Enthusiasm among retail investors to buy the dip in U.S. stocks has plummeted. JPMorgan: Net buying volume last week was far below the average, while NVIDIA (NVDA.US) still saw nearly $1 billion in capital inflows. - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1pBeVJuLWVLUHFkcVFad21mOERVdWVUNGFUa2lvMTg5blU5alNUNDlQMGdISXdGYklaMUFkVVNmZ3RjdTRPLUdBdHBjNG9KbkxiaVp3aVdmWWlwN2ZkV1I0RWZ5bjhQOU9wNEkwNHlNb3BrV1lwTzBkRXJyR2FMOUl2bU12VC1FdlpTRENUem1kUXNPS3dxbDVTNV9ydVU?oc=5"
-          },
-          {
-            "title": "Pennsylvania Rep. Daniel Meuser Sold Over $1K Worth of NVIDIA Stock: Here\u2019s What You Should Know - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObE5OaUNkSlpqWFJqLXdIbzBVellid0dHNFViODRQZnAxVDNRWVJFUWNVRkNsQmo1MV8xVlBkV19CTUNsM09BbFpfSmJqZGlDR0lPM1BveUpPU1pFdEZlQ3VqQ2NyZndKaUJLZW1KN2lPM2lqZjJBYm4ydjZ4YzdTb1V6RzRoODdyMzBCZ1Q3cG9NOGJVOG5rWUluenRWVVVIeHU1TXhoNGNyMEpiX2VpQnFqSlZlbnJsckJyaC1JcGVVRVRQMnVmM3RuRVVHeWpMZC1NNjdRNlA?oc=5"
-          },
-          {
-            "title": "How Nvidia Could Stop the CoreWeave Panic - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.4600000381469727,
-        "percentChange": -12.33,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.840000033378601,
-        "percentChange": -21.2,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.24,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 6.9,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-15T16:16:16.894849Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2452,6 +2401,41 @@
           {
             "title": "NVIDIA Corporation $NVDA Shares Purchased by AXQ Capital LP - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa0dDOGxuMFNwakthS2ttMWNYTWs1Z3QxaGRtcDdnLWlJeFpHby10RmljSTEwVG1kemJCeUNoQVFrcVFUQTNVb19GbTg1eHlBOEpvZ2NTQ1BwSG5xYzc0OTE3TmFpQkdWQ1VhS1FwcE44dzNBRzRMUWFNVUJiblBOdWlPdDBUbF9xUnh6YXlSR1dMczhuVDc1cU5oVVBjTWhobW1zZmt4aVZmenJsV0NwVEZlXzdoemNVSVpB?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": 7.56,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-19T11:22:31.558037Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 214.13,
+        "weekAgoPrice": 229.27999877929688,
+        "percentChange": -6.61,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Should You Be Worried About NVIDIA Stock? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV1luZWdqOWhUa0YxbEQ4VXFDbDZoRmRXMzRHbjN3V3N1NkFGMzZTeFQ2ZDBRU3BDQ2kzX1NPeDJmVG5Oek1oaHYzWjE5Q0dSb0ZHTU02Q1lhbEFwTVo3RjUxWnFEeF91Y1laQ2dXcTcxSDgzcUxyUlFoVE5tODFGZnJwckdxNkF0UmRFS3o4YnpWMURCUE9DQmxWS0FvMnJaQ3gw?oc=5"
+          },
+          {
+            "title": "Testing Support Level, NVDA Stock Drops: What to Know - JournalArta",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDdfbDE3V0JsWWxnM1pGV2hWOEtlb0FtRTFiaTc3WDNJenE4Q01uN1VmYUl5YjVDNXY0ZmF2X2RrVllSZm9WRHdmR0RMLTRFbzlLYzlPWmE3b2hEeWhzUHdwbl96ZzV5N3BOLWl0ZmdLQzdGb255NWc0bGRjU3BMQTBUTnBRSFV0VXdaSXF2SThSVmhFWUM0?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Stock: Barlow Wealth Partners LLC Boosts Stake - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeEpYVmZ0U0pPT25TYUZncEF6NVNUNHNCZlNZMjRjNFhJbHhKWlBMd2RPWG1RUFJ5THd3NkM2aUdqX1IzSjM2TTNGODR5RnRNUjZsZWhGUFpQdTBTSUJDRi1qVWRLZFI0S3AwNl9jbUdldTl0eWE1M1JuMnZ6QnBBN0JNMDdfVzVVRHRsT1dkajJ0UzhfZ3hpZXZKb2xEYl9QcFdVNUNUSzRYNzlCdHA4LUEwb2xmZ185Zk5mNUM5X294ZklRZngwMkpR?oc=5"
           }
         ]
       },
