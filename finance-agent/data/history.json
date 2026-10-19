@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-15T17:16:08.425115Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 217.61,
-        "weekAgoPrice": 230.47999572753906,
-        "percentChange": -5.58,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia CEO Urges U.S.-China AI Dialogue Amid Tech Sector Pressure, NVDA Stock Shows Attractive GF Value\u2122 - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUDJFTkhPTUVrd1Z5U25OQ2pBWjlaekZIR1ViTXd2UVZjVEZLbkw4UDNPTGphZ0JXczE2TE9jOXJyVmtXMXljcVpoa09kcjNkR3ZrVTRRaG5mZHVUR0hIMlZkclZtUDhZTGFIeTlnTHdXWjZjYTlFY05mT2xFR0YtS1hLTzV4djducEk1OFA3Yk9mSGI4SlhUNy1NM2pGY3NYOURmNGg3RDVMNFNydTJFTDNpM1NObDI3YjRPdDVjUHJqelRVSC1ha2dmTXZjbTZjREZqMw?oc=5"
-          },
-          {
-            "title": "Nvidia\u2019s Huang Says CoreWeave Doesn\u2019t Need a Backstop - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR?oc=5"
-          },
-          {
-            "title": "Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic' - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3RweTh1THdrck1qLURYMnJEVW03ZzdxNTIwZTVRVjV3MS1YM0E1V2VOblNmdzIzdUU2RXRVSGx3WGV2XzhudDVWeHo3REtZaHRyWk94ZDBrSzhoTy1RRWROaUxIcXZnQmdkRW5OWVVOdEJzQjN1U3pQZmdkVElaWEwxbkxDbndxalNabnV4MHYxSGYtTVdIN3VjZ2ZYVExQc2gyLXlxV0ZfamNMWWJCQkhaSFhqemhZeUJxOGxNYWYxYi1Rb2c?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -11.72,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.7999999523162842,
-        "percentChange": -19.44,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.215,
-        "weekAgoPrice": 0.20000000298023224,
-        "percentChange": 7.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.24,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 8.77,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-15T18:16:03.546491Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2412,6 +2353,41 @@
           {
             "title": "Nvidia (NASDAQ:NVDA) Reportedly Brings Samsung and TSMC Together for Next-Gen AI Chips - Stocks Down Under",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlWDRCeHBRM3RrWUNhWlBpYWFpUEpkOGxiUTdfM1BsUlhiNUpqdEptT1I0NTY0T2gzUmtSY0lJQ3cyc3ljQV9rQ1p1TWw5R1R2YXpGOUozRWpNQlhzZnJ3bU5pYmxaMGZEVTdQcEV5VW84WkFRVmJj?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": 7.56,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-19T13:22:02.229075Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 214.13,
+        "weekAgoPrice": 229.27999877929688,
+        "percentChange": -6.61,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia-Backed Nscale's IPO Faces Valuation Pushback as AI Infrastructure Stocks Slide - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemNEMGxkMWhVWGVTaFVkNkJRQjVjMXpQRlIteE1kUWlkTnlKb0pyWDVoYWtNSWE5Zzc5aXBQMjljWnN6WjdfSzdJcElmQ2NhcTR2X0dUdWVwenlrbkcxVVVnQ0x1bExFRlhtVWlPcXI2SlNHd09xQ09LbThLM0JqV00zVU4xZElZTkw1eDZLc041OHFmLVQzQmV2VXZzQTlvRnlVSVQ4ZFZ1aWJnekNMaVRvNUpfN1QyaEpQdW9aS0g3R0NzaWFDMVJ1dnlJTVlxZTJaQ0VRRzYtUW9RcWc?oc=5"
+          },
+          {
+            "title": "Nvidia Stocks Rebound With $108 Billion Revenue Target Ahead - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkdxZUJzM2tzRmJtOEJlbDdZbjF1Z2MyOVlxNTVBWVlxMndSQkY1cHBsSVFvM0NfTkQ0d0F0blp3OEdLNnI2dHpldU1WZ1V3RmZOM0pBN0RkRFY4M1FzYWRVeTF6OUxobGctYkJvX1Z0X0dwVy1ZbUt5X2tMcnpOTEU1T2EzTWpQTGxlUTB5TkNkc0VwX0RURU4yREdKREtjZmlibzhrd08wWGRvRWJvM2xSWkZvekdmVFZB?oc=5"
+          },
+          {
+            "title": "Why Nvidia, Broadcom, Micron and Sandisk Stocks Are Climbing Premarket \u2014 and What Wall Street Sees Next - TipRanks",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOGk0Nnpnd1hRSjExNzl1RmctZmZVNldXSHBCSU5yVTJIRzZSS0pCNmVoNEVTMjFLZklvckJKVllGWXd3b0RsVk9rbXl2Q3NyQV95Uk8tTFBGVG9qTUhhYVdfV2x4TGhjUmxHNERvY2RWZnRGNFdqR3ZldkRkYWNVQnktejNfdXE4bnY4OEc0cmxDQXk4b0VlM0t4UW5aczZJa2V3OGE5TnZPRU5XQUFCRXZCX1Y1S254N3dRcEVQeEdsbUFua1FjSA?oc=5"
           }
         ]
       },
