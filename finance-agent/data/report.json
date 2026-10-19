@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T08:16:03.720532Z",
+  "generatedAt": "2026-10-19T09:16:19.295885Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -34,49 +34,49 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.7,
+      "currentPrice": 4.71,
       "weekAgoPrice": 4.659999847412109,
-      "percentChange": 0.86,
+      "percentChange": 1.07,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.21,
+      "currentPrice": 7.2,
       "weekAgoPrice": 7.190000057220459,
-      "percentChange": 0.28,
+      "percentChange": 0.14,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.21,
+      "currentPrice": 1.22,
       "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -1.63,
+      "percentChange": -0.81,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.43,
+      "currentPrice": 1.44,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -1.38,
+      "percentChange": -0.69,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.35,
+      "currentPrice": 1.34,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": -1.46,
+      "percentChange": -2.19,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.18,
+      "currentPrice": 1.17,
       "weekAgoPrice": 1.190000057220459,
-      "percentChange": -0.84,
+      "percentChange": -1.68,
       "flagged": false,
       "news": []
     },
@@ -90,17 +90,17 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.27,
+      "currentPrice": 1.28,
       "weekAgoPrice": 1.190000057220459,
-      "percentChange": 6.72,
+      "percentChange": 7.56,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.685,
+      "currentPrice": 0.695,
       "weekAgoPrice": 0.6899999976158142,
-      "percentChange": -0.72,
+      "percentChange": 0.72,
       "flagged": false,
       "news": []
     }
