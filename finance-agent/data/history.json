@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-15T21:16:35.352934Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 217.23,
-        "weekAgoPrice": 230.47999572753906,
-        "percentChange": -5.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lhcFhDalVzMzVWSUVsUWo2ZWtLYjdpR3dQUXJWWDc1UUFONzJUM3ZvazhJWFhxU0dST2R4cTgtaUdoTGx1MzFjOUU5U09ma3c4d0JNc3MzLWZxSGVOUVFTSFRxMWFRUEgxR1NCR2lWUHc5MFZZQmRJM1d1dFNZWWFkRnk5a0VWbXphUk90TWtUUktraE5lczFfLVVSbFBoRnBHYWMyY2VHSXFKd3p4VkZ6dW9NYUdwVTNHdTF0T0Y3SkVxbDhNQ2NTc2F4SnVrVGtReEt3?oc=5"
-          },
-          {
-            "title": "Micron vs. NVIDIA: Which AI Stock Is the Better Buy After Earnings? - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY1BBcGlQTEdSRHZNS0x4b0NSc2xkd3BINW5iVHhwelZCbTF0dnBCVmRpdUY5S1NIdkVFeldXSXZGdlNudGQwQTNfX1VhUWFkOTBqU2Z3eW13Q3cxOGhnRWN2ajg3Tmt6QjVMc2NvbmVmQUN3VGs3WjgyY3F1U05UUmV3U1FqbGozamFrZURkQk5obmxOWE53eHlTQmxyVEJJMEVwOWE1THlsUTNNUUtmYzhRekZzNU1ZdDlZUXFVcTNDSENqaXNyZHpPcUNWcm05NmtJRnNqV2poTTVsWk9xWUxQcw?oc=5"
-          },
-          {
-            "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMS1aU1I4Zm1BdlZXdjJjeVZXdTk1aHJpUFBIdDlOdC1ERmN6eHp4VHhTdWJFLXZsczlocElfMm9sX2s1aFFad2NNQ2VmemVSVkN3TTFJTE5KUEg3bFF6eUY1bXZNc2J3Sk9qbEYybEFYcHdZTWZqMzJ4ZTIybFQ0VE5vTjNHUi1RbkhTTFRhNmV3TkxsLW9LRlVhalc2TTRhZVlMNE8ySl85VFl5bER3MTRlSlM?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.4600000381469727,
-        "percentChange": -12.33,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.840000033378601,
-        "percentChange": -21.2,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.24,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 6.9,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-15T22:15:59.551287Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2254,6 +2203,41 @@
   },
   {
     "generatedAt": "2026-10-19T17:04:52.512778Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.4900000095367432,
+        "percentChange": -18.12,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.44,
+        "weekAgoPrice": 1.8799999952316284,
+        "percentChange": -23.4,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.17,
+        "weekAgoPrice": 1.25,
+        "percentChange": -6.4,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-19T17:17:53.302745Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
