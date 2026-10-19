@@ -1,36 +1,23 @@
 {
-  "generatedAt": "2026-10-19T13:22:02.229075Z",
+  "generatedAt": "2026-10-19T14:18:16.295639Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 529.05,
-      "weekAgoPrice": 535.0700073242188,
-      "percentChange": -1.13,
+      "currentPrice": 533.23,
+      "weekAgoPrice": 541.1500244140625,
+      "percentChange": -1.46,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 214.13,
-      "weekAgoPrice": 229.27999877929688,
-      "percentChange": -6.61,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Nvidia-Backed Nscale's IPO Faces Valuation Pushback as AI Infrastructure Stocks Slide - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemNEMGxkMWhVWGVTaFVkNkJRQjVjMXpQRlIteE1kUWlkTnlKb0pyWDVoYWtNSWE5Zzc5aXBQMjljWnN6WjdfSzdJcElmQ2NhcTR2X0dUdWVwenlrbkcxVVVnQ0x1bExFRlhtVWlPcXI2SlNHd09xQ09LbThLM0JqV00zVU4xZElZTkw1eDZLc041OHFmLVQzQmV2VXZzQTlvRnlVSVQ4ZFZ1aWJnekNMaVRvNUpfN1QyaEpQdW9aS0g3R0NzaWFDMVJ1dnlJTVlxZTJaQ0VRRzYtUW9RcWc?oc=5"
-        },
-        {
-          "title": "Nvidia Stocks Rebound With $108 Billion Revenue Target Ahead - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkdxZUJzM2tzRmJtOEJlbDdZbjF1Z2MyOVlxNTVBWVlxMndSQkY1cHBsSVFvM0NfTkQ0d0F0blp3OEdLNnI2dHpldU1WZ1V3RmZOM0pBN0RkRFY4M1FzYWRVeTF6OUxobGctYkJvX1Z0X0dwVy1ZbUt5X2tMcnpOTEU1T2EzTWpQTGxlUTB5TkNkc0VwX0RURU4yREdKREtjZmlibzhrd08wWGRvRWJvM2xSWkZvekdmVFZB?oc=5"
-        },
-        {
-          "title": "Why Nvidia, Broadcom, Micron and Sandisk Stocks Are Climbing Premarket \u2014 and What Wall Street Sees Next - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOGk0Nnpnd1hRSjExNzl1RmctZmZVNldXSHBCSU5yVTJIRzZSS0pCNmVoNEVTMjFLZklvckJKVllGWXd3b0RsVk9rbXl2Q3NyQV95Uk8tTFBGVG9qTUhhYVdfV2x4TGhjUmxHNERvY2RWZnRGNFdqR3ZldkRkYWNVQnktejNfdXE4bnY4OEc0cmxDQXk4b0VlM0t4UW5aczZJa2V3OGE5TnZPRU5XQUFCRXZCX1Y1S254N3dRcEVQeEdsbUFua1FjSA?oc=5"
-        }
-      ]
+      "currentPrice": 217.2,
+      "weekAgoPrice": 226.32000732421875,
+      "percentChange": -4.03,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "1295.KL",
@@ -105,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 1
 }
