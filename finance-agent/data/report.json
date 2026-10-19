@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:15:52.030577Z",
+  "generatedAt": "2026-10-19T00:16:36.972760Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "1 Obvious Metric That Makes Nvidia a Top Stock to Buy Now - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYU55STVLSi1ZREsyVnVNaHIzb01FUlNlZHFHcHpncUR0TmNjbUdHZkd6MEQydDQ1SnZFMTMzd2I0S0NBdW5yQ1g3c18tMW5WNC1zRHhEYXZMOWF1MWhUdzU5RmVkblQwOUhhV0ZjQTl3b2JmS3lsSVJxUmZVQURhSC0wX3BZWExnVEM5aW5iRmIzbmJZeHc4?oc=5"
+          "title": "The Bond Market Is Sending a Warning to Nvidia Shareholders - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQVlEVEZfWURvVTk2Vzk0RjJ0OTNKU3hTOXBndlRsUDBoUGZnR2NidnVPaDFmZzQ2VEJPSjJZU0R1dGFhMktjcV82bHdLSHNFNC1nU2xNN0V6bEVPSkMySTduZFlCbTZKN3VlSDEtTE9kX0ZxVDU5QWlWVk5manBfUFZBUElJd1Izbk5zSHVrZm1Id3cyRUVEM2xreXZrODhCQk1IWFZvd3A1THBFNnUtOWtTYUZENWJic29rQjNhSUNhb3pBUVdJSkJkWWVnU0xFU3lvM0R6eWtfSWdwMXdv?oc=5"
         },
         {
-          "title": "NVIDIA (NASDAQ:NVDA) Shares Down 1.4% - Here's What Happened - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLU1za2psc0lCOUxhWUJHc3J1UXVkWEM3TUU5LW51OWV5cEo0ZnBTVU83OVJ1TmxpV2tFR29nQnpPYm5SSXpaVUJ2ZGF3Z3Y4V3JscWc5RmlHTUp1WmRMdUUxUXZZRGNkSEV3TmREZHN1RFN4dm1kazAtSDRSVXhMem9icDlWRFRndmZHd1UzVkhDbVd4TVpTc2FWRkJuamktLXJqRFZaM0JaWnNHQk1YS2V1SQ?oc=5"
+          "title": "The Bond Market Is Sending a Warning to Nvidia Shareholders - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZVl6dTA2T1FJSzcxVXpXNm85dUpMNnAtczQ5MXktSzhJWGlqeDFiY1Nxd1VTR2Zhb2lHdWZJaWJ6UHJmZGQzZnNsSFBUSXlOdXFBR1JhNmZ0cnpMTTBzckRaSndFNUtadUdJVlVmWGlQaHZzYlpNdVlTcF9aeUhXc1ZRX1dOLU5MTm9SbjlGZDcwa3RTQ0tERDhNV3dOdlQ0WjljZ1gtQmZreUhhZnRNODZhMVJ5cWtBY1otRkFDbndYU3N6Nm5uZHZWZTVBMTQ2Vm4ycDlsdm5Hc3hQ?oc=5"
         },
         {
-          "title": "Germany Confirms Its Nvidia AI Deal: Will Any of Huang\u2019s $2 Billion Europe Pledge Land in Berlin? - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGphMF9ITjBJTUI1MGY2V25VRjNVZ3JzdG9zaDdyNUZXTmxnelVLN216QmtvU2tHNjBtUDdRS3pZbnVqbzFZZmwtV0ZuR0FheWxLa0xabjkxRzFqb3YwcDUzZVRJdDNEeFVyNG5RZ0FvQXV3UzNWZUFOVUxUNFJiRkVWYnRoZVNYd1dLZzNvY3lfRy1xdzl3RTlqTjdQSTU3Z002UGl3S19wXzV2XzZYMU9uV3NrYXVFMzNB?oc=5"
+          "title": "NVIDIA And 2 Other Fast Growing Stocks To Own - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkN5RWJITmVKem5mNFczalFnbjNzSEVLcU5qVXVHd3NUcFA3YWhrT2UxTHczXzRDMjFRV0NlVDBDZGgwSXY1cnlFaTRiTHpTUXpINFJMcl9ySDZleHhQcGtWcGZkc3JlQVpWME1GaG96aXliY0lmZFNMYm1ERjRmR1k3dU5wTUFWenhDYzNBR09udS1UNDVr?oc=5"
         }
       ]
     },
@@ -38,7 +38,20 @@
       "weekAgoPrice": 4.570000171661377,
       "percentChange": 5.69,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Malayan Banking Berhad (1155.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ManV0aURjWlBjaEp3MXhFbi03a21DdDVJVlFDTlR5NHJNV21DNnhBUWxqQzhLQUlRa2VtSlF3ZDVZalBqU3EzSXdJQXpaSkhMdzhqYjd3?oc=5"
+        },
+        {
+          "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
+        },
+        {
+          "title": "Carlsberg Brewery Malaysia Berhad (2836.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tc2Zqb0JEckV3WlV1N0pFZzBROXBsYUE2ZTVta0tuSTNvVEl0WWpMWkxxb2dfZy04ZUpxQ2lpeTh1RnByZ1BGZVJVSDNYbTFDZS05LTNB?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1066.KL",
@@ -62,7 +75,12 @@
       "weekAgoPrice": 1.8799999952316284,
       "percentChange": -22.87,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5271.KL",

@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-15T05:00:30.397024Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 221.3,
-        "weekAgoPrice": 237.47000122070312,
-        "percentChange": -6.81,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjlGNUxDY2ozdVVQdmhpNWEtWGZNbWFlbjE3WnJpZF84cGluVFM1NkRXOF82VTlhMTFJVDJPNXlncnY5eGVDb1pEaGdoc2ZwTWt6bXV5ZFpROTVCXzFTbFBCTWgtSFQ2VGhtVVhfelVUczFXeEtkM0VnSUVPNFFnSFJ1R2g1WnlqNW4ybk9mYnpHRDQ?oc=5"
-          },
-          {
-            "title": "History Says Nvidia Stock Usually Rises in the Fourth Quarter -- It Has in 20 of the Last 27 - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGhzSEMtZHZhSjJQVVNCeDFIX2FhRHE5TnQ2ZlJzOTV2UjZrNUltY0dFckdnYnZ0NkNoZzFhalJXMnJZeG96T3BXUUE2WUxGLW1rZXYzUzNHUng2c0NTend6UHpJaFNhcENvdS0yc25PTkYtaFItbXo5QjdUSHE2YnU1TmEzaW1SM2pCUjEwOE5NdmZTazZpTlVlNUdaTXhlTU9uOFRBUGxwMVpndEFEZDdBdjE4ZU0tbDJSTzg1SnFmU1J2NTM0aUU0SEU?oc=5"
-          },
-          {
-            "title": "Nvidia Stock NVDA Falls Below $220 as Data-Center Debt Yields Weigh on Sentiment - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2ZRT3hKR3ctT1B4OHdROUttTmJNdF8xTWU2WDZwRXhKUGJRTE1xd1kxUVFoZjRkdGZhSWFDREgtVE9ja0FOdVdONFNRRjh2dzRBU3JoRV8tZlFIbXRpLUtmNkxtM00yMEE1XzFyMGgzaW5PY3U0by1BRTUzSlBLQTBCbEczZWtKOTF3Tk5kWW8tR0pBdTR0eVAwWHFZMXRPWjl1UGxfSVR2TnBEU2QwYm10azllUEhkbVMxX3ZuTQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.4600000381469727,
-        "percentChange": -13.01,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.43,
-        "weekAgoPrice": 1.840000033378601,
-        "percentChange": -22.28,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.22,
-        "weekAgoPrice": 0.20499999821186066,
-        "percentChange": 7.32,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 7.76,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-15T05:16:20.632552Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2681,6 +2622,75 @@
         "percentChange": -22.87,
         "flagged": true,
         "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-19T00:16:36.972760Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 214.13,
+        "weekAgoPrice": 229.27999877929688,
+        "percentChange": -6.61,
+        "flagged": true,
+        "news": [
+          {
+            "title": "The Bond Market Is Sending a Warning to Nvidia Shareholders - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQVlEVEZfWURvVTk2Vzk0RjJ0OTNKU3hTOXBndlRsUDBoUGZnR2NidnVPaDFmZzQ2VEJPSjJZU0R1dGFhMktjcV82bHdLSHNFNC1nU2xNN0V6bEVPSkMySTduZFlCbTZKN3VlSDEtTE9kX0ZxVDU5QWlWVk5manBfUFZBUElJd1Izbk5zSHVrZm1Id3cyRUVEM2xreXZrODhCQk1IWFZvd3A1THBFNnUtOWtTYUZENWJic29rQjNhSUNhb3pBUVdJSkJkWWVnU0xFU3lvM0R6eWtfSWdwMXdv?oc=5"
+          },
+          {
+            "title": "The Bond Market Is Sending a Warning to Nvidia Shareholders - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZVl6dTA2T1FJSzcxVXpXNm85dUpMNnAtczQ5MXktSzhJWGlqeDFiY1Nxd1VTR2Zhb2lHdWZJaWJ6UHJmZGQzZnNsSFBUSXlOdXFBR1JhNmZ0cnpMTTBzckRaSndFNUtadUdJVlVmWGlQaHZzYlpNdVlTcF9aeUhXc1ZRX1dOLU5MTm9SbjlGZDcwa3RTQ0tERDhNV3dOdlQ0WjljZ1gtQmZreUhhZnRNODZhMVJ5cWtBY1otRkFDbndYU3N6Nm5uZHZWZTVBMTQ2Vm4ycDlsdm5Hc3hQ?oc=5"
+          },
+          {
+            "title": "NVIDIA And 2 Other Fast Growing Stocks To Own - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkN5RWJITmVKem5mNFczalFnbjNzSEVLcU5qVXVHd3NUcFA3YWhrT2UxTHczXzRDMjFRV0NlVDBDZGgwSXY1cnlFaTRiTHpTUXpINFJMcl9ySDZleHhQcGtWcGZkc3JlQVpWME1GaG96aXliY0lmZFNMYm1ERjRmR1k3dU5wTUFWenhDYzNBR09udS1UNDVr?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.83,
+        "weekAgoPrice": 4.570000171661377,
+        "percentChange": 5.69,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Malayan Banking Berhad (1155.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ManV0aURjWlBjaEp3MXhFbi03a21DdDVJVlFDTlR5NHJNV21DNnhBUWxqQzhLQUlRa2VtSlF3ZDVZalBqU3EzSXdJQXpaSkhMdzhqYjd3?oc=5"
+          },
+          {
+            "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
+          },
+          {
+            "title": "Carlsberg Brewery Malaysia Berhad (2836.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tc2Zqb0JEckV3WlV1N0pFZzBROXBsYUE2ZTVta0tuSTNvVEl0WWpMWkxxb2dfZy04ZUpxQ2lpeTh1RnByZ1BGZVJVSDNYbTFDZS05LTNB?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.4900000095367432,
+        "percentChange": -14.77,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.8799999952316284,
+        "percentChange": -22.87,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
+          }
+        ]
       }
     ]
   }
