@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T02:16:21.865345Z",
+  "generatedAt": "2026-10-19T03:16:44.457019Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -17,37 +17,50 @@
       "weekAgoPrice": 229.27999877929688,
       "percentChange": -6.61,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "NVIDIA And 2 Growth Stocks To Watch - Simply Wall Street",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRlVUZXg5QmU0NGdsRFg1cFJUbGt6R1A3RlNVOGZjR2NWVUdYX0x1TmY4d291YlJkbUlXRVNWMmw2aGRQMTlJY0dYN2Z6MWFuOFY5MGlFcjhHV3JwVHQ0WEk3WUs1YTN4QS1sVUJGakpFWUdzWTBveFc0a0RtVWZ5UVo1ZElvWEZTVlFHMFRvUUJkd0Qzd1Q3RjJkV0g1UEpHckxuMFBUd1FaZ9IBrwFBVV95cUxOdzlydWp1ckd2MUZmaHBRYnlkX2xrMEFwWTBKWnNNWVZwQWYzTDY2WFRRdnZBQjVuNzZCV2dEVUk1TmdVYUhFcWlPU0JkTXdXRzItN1dUdF9fRVVqOUt3Qkw1d2I0UXpqZnJCMXQwRnRLcHlrcDFGX3pPeEtuQXIwT05nZm9NR1JPYkdrV1RKdzJlampfVk5lM0RHYlRSLWV4ellqM3RhMEI3TTVjT3lV?oc=5"
+        },
+        {
+          "title": "Here\u2019s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030 - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVFVLRG1RZzM3T05RR3kzc0lXamo1bHRVampXaDdpRHAxX21qN0c3QnhwMFMyR2pWZFRTUEJYTUM0cmluaS1QRm5hN0tkbHl5VFVuNUxLT0Nhalh4MGRMVF9iNFpUOGNkb2h3NHB2N0h4RVR3MHZqSTZNdFgyaFlzdTFQdkg2QTMxNkpsSFdReU5HcnR4RWZzbE9TNmdJWkQwSHppcUNRcDNRdFZqb0djU2hCdk5RZw?oc=5"
+        },
+        {
+          "title": "The Bond Market Is Sending a Warning to Nvidia Shareholders - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQVlEVEZfWURvVTk2Vzk0RjJ0OTNKU3hTOXBndlRsUDBoUGZnR2NidnVPaDFmZzQ2VEJPSjJZU0R1dGFhMktjcV82bHdLSHNFNC1nU2xNN0V6bEVPSkMySTduZFlCbTZKN3VlSDEtTE9kX0ZxVDU5QWlWVk5manBfUFZBUElJd1Izbk5zSHVrZm1Id3cyRUVEM2xreXZrODhCQk1IWFZvd3A1THBFNnUtOWtTYUZENWJic29rQjNhSUNhb3pBUVdJSkJkWWVnU0xFU3lvM0R6eWtfSWdwMXdv?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.75,
+      "currentPrice": 4.71,
       "weekAgoPrice": 4.659999847412109,
-      "percentChange": 1.93,
+      "percentChange": 1.07,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.22,
+      "currentPrice": 7.2,
       "weekAgoPrice": 7.190000057220459,
-      "percentChange": 0.42,
+      "percentChange": 0.14,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.24,
+      "currentPrice": 1.22,
       "weekAgoPrice": 1.2300000190734863,
-      "percentChange": 0.81,
+      "percentChange": -0.81,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.43,
+      "currentPrice": 1.42,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -1.38,
+      "percentChange": -2.07,
       "flagged": false,
       "news": []
     },
@@ -61,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.19,
+      "currentPrice": 1.2,
       "weekAgoPrice": 1.190000057220459,
-      "percentChange": -0.0,
+      "percentChange": 0.84,
       "flagged": false,
       "news": []
     },
@@ -77,17 +90,17 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.27,
+      "currentPrice": 1.26,
       "weekAgoPrice": 1.190000057220459,
-      "percentChange": 6.72,
+      "percentChange": 5.88,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.69,
+      "currentPrice": 0.685,
       "weekAgoPrice": 0.6899999976158142,
-      "percentChange": 0.0,
+      "percentChange": -0.72,
       "flagged": false,
       "news": []
     }

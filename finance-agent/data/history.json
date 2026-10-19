@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-15T07:16:50.522766Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 221.3,
-        "weekAgoPrice": 237.47000122070312,
-        "percentChange": -6.81,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Rep. Daniel Meuser Sells Shares of NVIDIA Corporation (NASDAQ:NVDA) - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSEk0LXhNNUl3NFY1aF9zSGNtZW8xNl8xWEZtalNLOGNWZUFKVmVXYnJoSFZGLVNZTWdCeXdjbjlhbjAyS19uQWJGMlJuVXZxT19hQV9WUEVtcU55UVdTbEJBZnFnc2ltR2Vtbzg0aGtEV0QwNDQ4YllDbU56LUk5TjB0SFRqX0ltTVVwZkFuZEpfd2dmZGQySl9MaHdfVmQ0WjZiNTVVbFphNXFBem5GcXkxWnVtX0Q1ZElhdlRrckxXY3FTQVE?oc=5"
-          },
-          {
-            "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3VYYnpOcklLUTlBMXpHcThzRXQ1OUM4eDl1b3pnZHhZU2hsMTVZZzk2WkJNQW5Jc3lCNGNuWkJ1M25wUnZWUENGbzktTDZmUXBRNklORWE4Z0RhOXlFQkJEcDZZUFpoMFNBUFdiSC1ZYkxoYklUMUNhZS1uUDB1R3h4NlBUR1RJMjM3OHhUdGtqNDNOM0lB?oc=5"
-          },
-          {
-            "title": "Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - Stocktwits",
-            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRkt6NjJxaDRmX0N3SzlwaGJJYU5qRVV0ZWprN2w4bXpoZlpuSTZCS2JIYzd2bzlCWXNycExIRzBZSEg5ZFg2cjYxMmRzQ2hhUFZYTk5GMlJjeEt5YWhZZWlqM3g4YlEtOHB5QUZaQ2VsNmtEV3pNS1RKUTlGd3pQUFJhTlpsX0NQZGxjRC10M0xTVkM3UkhxOXJFcTBWanBDbGhGUnpMMmhCUW5FUHpQMU9DVUpFVjU5aWN2WElXZ1c4VThQU3AzOWhieGM0QnZzbFhaZnAzLTlpU3dCQzBUMG1Uay1uR3pycEYzTVh2cGlIWEYzcllOdQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.4600000381469727,
-        "percentChange": -13.01,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.43,
-        "weekAgoPrice": 1.840000033378601,
-        "percentChange": -22.28,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.22,
-        "weekAgoPrice": 0.20499999821186066,
-        "percentChange": 7.32,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.24,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 6.9,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-15T08:16:15.591534Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2628,6 +2569,41 @@
         "currentPrice": 1.27,
         "weekAgoPrice": 1.190000057220459,
         "percentChange": 6.72,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-19T03:16:44.457019Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 214.13,
+        "weekAgoPrice": 229.27999877929688,
+        "percentChange": -6.61,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA And 2 Growth Stocks To Watch - Simply Wall Street",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRlVUZXg5QmU0NGdsRFg1cFJUbGt6R1A3RlNVOGZjR2NWVUdYX0x1TmY4d291YlJkbUlXRVNWMmw2aGRQMTlJY0dYN2Z6MWFuOFY5MGlFcjhHV3JwVHQ0WEk3WUs1YTN4QS1sVUJGakpFWUdzWTBveFc0a0RtVWZ5UVo1ZElvWEZTVlFHMFRvUUJkd0Qzd1Q3RjJkV0g1UEpHckxuMFBUd1FaZ9IBrwFBVV95cUxOdzlydWp1ckd2MUZmaHBRYnlkX2xrMEFwWTBKWnNNWVZwQWYzTDY2WFRRdnZBQjVuNzZCV2dEVUk1TmdVYUhFcWlPU0JkTXdXRzItN1dUdF9fRVVqOUt3Qkw1d2I0UXpqZnJCMXQwRnRLcHlrcDFGX3pPeEtuQXIwT05nZm9NR1JPYkdrV1RKdzJlampfVk5lM0RHYlRSLWV4ellqM3RhMEI3TTVjT3lV?oc=5"
+          },
+          {
+            "title": "Here\u2019s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030 - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVFVLRG1RZzM3T05RR3kzc0lXamo1bHRVampXaDdpRHAxX21qN0c3QnhwMFMyR2pWZFRTUEJYTUM0cmluaS1QRm5hN0tkbHl5VFVuNUxLT0Nhalh4MGRMVF9iNFpUOGNkb2h3NHB2N0h4RVR3MHZqSTZNdFgyaFlzdTFQdkg2QTMxNkpsSFdReU5HcnR4RWZzbE9TNmdJWkQwSHppcUNRcDNRdFZqb0djU2hCdk5RZw?oc=5"
+          },
+          {
+            "title": "The Bond Market Is Sending a Warning to Nvidia Shareholders - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQVlEVEZfWURvVTk2Vzk0RjJ0OTNKU3hTOXBndlRsUDBoUGZnR2NidnVPaDFmZzQ2VEJPSjJZU0R1dGFhMktjcV82bHdLSHNFNC1nU2xNN0V6bEVPSkMySTduZFlCbTZKN3VlSDEtTE9kX0ZxVDU5QWlWVk5manBfUFZBUElJd1Izbk5zSHVrZm1Id3cyRUVEM2xreXZrODhCQk1IWFZvd3A1THBFNnUtOWtTYUZENWJic29rQjNhSUNhb3pBUVdJSkJkWWVnU0xFU3lvM0R6eWtfSWdwMXdv?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": 5.88,
         "flagged": true,
         "news": []
       }
