@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-16T02:16:18.237247Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 217.23,
-        "weekAgoPrice": 230.47999572753906,
-        "percentChange": -5.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock NVDA Extends Slide Toward $200 as ASML Warns of Chipmaking Capacity - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2pVU3VpUlJrcUhQaWIzU1JBTmczc0NqcnR1WU9YTlhmX2d2eTVLOWd6R2JrRzVHZ2pESDJPaFZDOG5KMUR2V2toNHo3MHJVYzJWUjZFM0tUMkVsakxQLWJMZ3AxZE1vYWlKbzd6dFN6Z25aUlhBZkM0YUpPOGRBWDEzN0pvZFh3YXp1czY1U3NmQU9PVXZtTW1wOU9HQ2pKOEZFakN6UHFEVzFJWm9oUDM2SlpIOW9PSHhOQWI0Yw?oc=5"
-          },
-          {
-            "title": "IonQ Is Following Nvidia's Playbook. Why the Stock Could Be a Buy After a 60% Dip. - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3NpczZTYnhaWHFRSF9GWXNuRXU5RXpqRjNzcklxT2FjdHA2Skd5Q0Jad0ZTd3RGVFJKYnBBclJnVFN3YXRXQzhtc09OQS1sbzFRc1JKX1RXWHd1X1ZNVUJQN0tPMEhPOHJac1NIN25qS0p3QWFMT1M2U1NlN18wOWJaUzQwOXBFUXZaWHk5bmpmWGE1OXNQaA?oc=5"
-          },
-          {
-            "title": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN0dmS0NFZ3cwcWdpZlNxcmhwaTlWbGJIM3JJanEtakVrZ0gxOGUwSHlMcl94VzQtQlJqMk5wVWFCdFVLbVNhVEJ2VTNMV2Z3dHdCNWJWbk5kRGd2UmJlbEpFZ3lMMWFjUC0yckFjLU1LYXhsU1haTHdtRG8xR2p2QXhZaUpFWjhGOVY3V1dkTVpjSXpPOVZ2bw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.4900000095367432,
-        "percentChange": -14.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.46,
-        "weekAgoPrice": 1.8799999952316284,
-        "percentChange": -22.34,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-16T03:16:25.906384Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2086,6 +2043,20 @@
   },
   {
     "generatedAt": "2026-10-19T22:16:21.456292Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": 7.56,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-19T23:16:18.667560Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
