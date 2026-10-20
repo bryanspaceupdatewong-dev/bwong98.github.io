@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:16:09.832892Z",
+  "generatedAt": "2026-10-20T01:16:12.575231Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -17,50 +17,37 @@
       "weekAgoPrice": 229.27999877929688,
       "percentChange": -5.32,
       "flagged": true,
-      "news": [
-        {
-          "title": "Thinking Nvidia Stock Could Hit $10 Trillion? Here's 1 Reason I'd Be Cautious - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZG9NMFREdDlFT0NTVFV3NFI2TWNOeDdXckFvb1BtcnBRM3JMTDJicWw3eXRXZVdDaUpMaUV0Z2NaTnR1SDZIdFhtR3dmd3p0c20xeWJGbmhqSDFWRDYtMFMwYW83Y01rZlk3VXNoZlVhV1hONVRDcHp0NDJ5T0t1eDZfOUVDR1Z6bnBMQ2twSQ?oc=5"
-        },
-        {
-          "title": "Nvidia Stock (NVDA) Rises on \u2018Record-Breaking\u2019 Quantum Computing Simulation - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEVKcWxLUHpPZndvbzI0S1NMWFZLQUFHWlRNcTUzQ0xIT2NxLXFLXzhka21Mbmh5b0cyMGFEN0pWaGdrVzNXblhQZHpqdDVFdlB2RDBTMkdoT25MRHVOYnExUDNIdzN3aS1qV3FlNVdDWnJtdFFua0t2MjFOSGNVOFpFSVhLdWhwYTM1WGtHWk1OY3BYcFFhY3BWX05HSzEzRXVV?oc=5"
-        },
-        {
-          "title": "Nvidia NVDA Stock Rebounds as Memory Price Optimism Offsets Semiconductor Sell-Off - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3FqUF94VDcxRkdXTGtTZXpCdTlBVXpQZGxOU3poTy1SRWlHT1FuTmRLa3k1LTZZaXhPV2VuZ0QwMHB5cE5ZR3hoYVpxUUNqTWhVVm8yYWtvYUpGRkJXazduTXg2TjVjNm5zaEdldXR0Q2F5aXBLX3I2TE45Q3E2M3BkVGMtRXQ2UjJCbk11YnFEVGNfYVdwUWlSZi0ta2tVTmZyampoVS1ZSlZtVno3eXVsSW5MM2l1OTVMUzhGdXhRMTA?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.71,
-      "weekAgoPrice": 4.659999847412109,
-      "percentChange": 1.07,
+      "currentPrice": 4.7,
+      "weekAgoPrice": 4.699999809265137,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.2,
-      "weekAgoPrice": 7.190000057220459,
-      "percentChange": 0.14,
+      "weekAgoPrice": 7.300000190734863,
+      "percentChange": -1.37,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.22,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -0.81,
+      "weekAgoPrice": 1.25,
+      "percentChange": -2.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.44,
-      "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -0.69,
+      "weekAgoPrice": 1.440000057220459,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
@@ -74,9 +61,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.17,
-      "weekAgoPrice": 1.190000057220459,
-      "percentChange": -1.68,
+      "currentPrice": 1.18,
+      "weekAgoPrice": 1.2300000190734863,
+      "percentChange": -4.07,
       "flagged": false,
       "news": []
     },
@@ -90,9 +77,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.28,
-      "weekAgoPrice": 1.190000057220459,
-      "percentChange": 7.56,
+      "currentPrice": 1.29,
+      "weekAgoPrice": 1.2000000476837158,
+      "percentChange": 7.5,
       "flagged": true,
       "news": []
     },
