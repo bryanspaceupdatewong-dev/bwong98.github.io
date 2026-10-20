@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-16T09:16:00.130016Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 217.23,
-        "weekAgoPrice": 230.47999572753906,
-        "percentChange": -5.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout - Stocktwits",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXZrNVRuUWJyLVM1UG5kOGRtZ0JlRTVQbjB4SDR3Z0VFUlJscUxBWmc0elJ3STl2bnZyOVF6R2pNTF8xRmluWElpcXIzYkdkVzA0WFVvb0tLME9TOHdYWHZiUVViV0JnQnA2NGNEWExwdjNGRUR3ajNtZGx5MmVUdHpKZzdJalZxTGZUNjNwRVhNMG5GUWgzNWE2WXlYVWVONHBnRkY2bEtUT0JsSTctNGF4VkNZQWlzaDZLNWkwRW1mTzY2cHVN?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Stock Sold by Private Harbour Investment Management & Counsel LLC - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWnZ1SEpzQmVIYW9sTHJhU3NyRkJmZERpenkzV09leTJHcllPMW1ibExpLWN1TWdTdHNrazBfX1FRaGF3VVE0VVpDRXNBMGFndmhsSGp4X1hxZnNoVkI2WUZGM2lJTWtWOUJrcEdwQkRYQ1QzRU0zRFIxYTF0VjlSMzRDNXNyeW5aNC1lRXdmbDRUSmpNNXd3bS1QU0NGYTJJR2dLenA0RGhXQ1p4Q3JZR1E4T3ItbDBVbWdnU085cGRKNG80Q3Y4QnYtXzVhZDB4NkZ3S0VXZDdhX1FMVTJ3aXNn?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Stock Acquired by Northwestern Mutual Wealth Management Co. - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLWd6M1NzXy1JWnR5bm9qd2l2dW0ydVd5R2k0Y2NBUDJKb0NKNU1mZ3V4eVo3Rko2Z2Q5X2JTSUJjV3gwcXUzczJUVTAzSzVtU1dKREd0TDRvX0QxeHQ0RTk5M2hZTzNZc0h4RU1GYWJMZHo2VmpPaTRZak1RekpIeDNabW85aXZYblQyOUQ3eDhxSzVvalVieFZXWVlyUTNMcTNib29oUnZWR1Z5YXIwQzEyY05uc0k0M0xyQzJzdXFaRFJjbTVkUTJIMFhON0xtTkFnTmtoamNjOEE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.83,
-        "weekAgoPrice": 4.570000171661377,
-        "percentChange": 5.69,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.4900000095367432,
-        "percentChange": -14.77,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.8799999952316284,
-        "percentChange": -22.87,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-16T10:16:03.981816Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1852,6 +1801,36 @@
         "currentPrice": 1.3,
         "weekAgoPrice": 1.2000000476837158,
         "percentChange": 8.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-20T07:17:37.717997Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.16,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -5.69,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.225,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": 7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.29,
+        "weekAgoPrice": 1.2000000476837158,
+        "percentChange": 7.5,
         "flagged": true,
         "news": []
       }
