@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:16:22.385303Z",
+  "generatedAt": "2026-10-20T04:16:39.175698Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,9 +21,9 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.73,
+      "currentPrice": 4.72,
       "weekAgoPrice": 4.699999809265137,
-      "percentChange": 0.64,
+      "percentChange": 0.43,
       "flagged": false,
       "news": []
     },
@@ -37,17 +37,17 @@
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.22,
+      "currentPrice": 1.2,
       "weekAgoPrice": 1.25,
-      "percentChange": -2.4,
+      "percentChange": -4.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.42,
+      "currentPrice": 1.43,
       "weekAgoPrice": 1.440000057220459,
-      "percentChange": -1.39,
+      "percentChange": -0.69,
       "flagged": false,
       "news": []
     },
@@ -61,36 +61,36 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.16,
+      "currentPrice": 1.17,
       "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -5.69,
-      "flagged": true,
+      "percentChange": -4.88,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.225,
+      "currentPrice": 0.23,
       "weekAgoPrice": 0.20999999344348907,
-      "percentChange": 7.14,
+      "percentChange": 9.52,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.28,
+      "currentPrice": 1.29,
       "weekAgoPrice": 1.2000000476837158,
-      "percentChange": 6.67,
+      "percentChange": 7.5,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.695,
+      "currentPrice": 0.69,
       "weekAgoPrice": 0.6899999976158142,
-      "percentChange": 0.72,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 2
 }
