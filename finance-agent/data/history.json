@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-16T12:25:41.784266Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 217.23,
-        "weekAgoPrice": 230.47999572753906,
-        "percentChange": -5.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Comparing AI Investments: Nvidia vs SpaceX - Intellectia AI",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGdZUlE1UnZQbEZQbWdVYy1oQnBBYVBwUEYtS0tGaWpWeXJaZTJYMTNDWEdLdFF3V3VaNW9DLVVzZ3R0VlBsRk1wUGxaaHRzemhacmdocnptTUpMX21UZDVMSVk4YTRBTXZRd19JNUJ3ckNrV1d0bF93U2l3Vlpuaw?oc=5"
-          },
-          {
-            "title": "Better AI Stock: SpaceX vs. Nvidia - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTXhWVUZiVnVrM0FQM3ZXLW5FbjFjaFpKMTVHRFFHeEhWWGJUZEs4VWFQeklpaDV4YUlqQlotdGFnSjBpSEdEUldDWEpJV0FwM0lyOEh1Z2RTWWprckQzVENCbzhoX3VzaTFKTjdzYnU5NGltcHVRdXB1RHNjbXNZTnhZVHJ2Y251VXQxbzVHenQ4d3dCRzZIdF9kS2o3SHh3R0Z0LUNncHN0b0JGc200bElrSjNGaC0t?oc=5"
-          },
-          {
-            "title": "Better AI Stock: SpaceX vs. Nvidia - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmREWWZ3RndBb0VWVjVXWGVQd0FzdGJ3aTNrWWZIeEk1RGJLRkZna1dKeUpnbExqQWVucFdtZVg2R2tyNk9vdE9MMHF5SmNGeHMxY0FsY0VtcnZIWTJWOGRVbHprZVFQb0prYk9KVi1wRFlkdmV3UDJTeHV6NkJhTGRwMnpNR1pIZ3NqRDNFZHBqN0xG?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.83,
-        "weekAgoPrice": 4.570000171661377,
-        "percentChange": 5.69,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.4900000095367432,
-        "percentChange": -14.77,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.8799999952316284,
-        "percentChange": -22.87,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-16T13:19:42.659215Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1766,6 +1715,28 @@
   },
   {
     "generatedAt": "2026-10-20T09:16:48.782503Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": 9.52,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.2000000476837158,
+        "percentChange": 5.83,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-20T10:17:35.925183Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
