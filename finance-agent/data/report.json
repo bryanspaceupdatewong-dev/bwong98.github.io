@@ -1,69 +1,82 @@
 {
-  "generatedAt": "2026-10-20T15:17:44.661053Z",
+  "generatedAt": "2026-10-20T16:16:30.016174Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 530.506,
+      "currentPrice": 532.045,
       "weekAgoPrice": 543.4500122070312,
-      "percentChange": -2.38,
+      "percentChange": -2.1,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 217.166,
+      "currentPrice": 217.06,
       "weekAgoPrice": 228.52000427246094,
-      "percentChange": -4.97,
-      "flagged": false,
-      "news": []
+      "percentChange": -5.01,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Nvidia Stocks Fall Although Germany Opens a New Industrial AI Pa - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUtQSHctTVp2VGpmZmhqRVZRdVljcGtvTHpITVBPb3NNWEdDTWVlel9uYXZHRWNxeTdQSXpMMExVM0d2Q0lfcVdVWm1JM2QwVmZ2aEJ4MGlWb0J4Z2dla285ZmcxSWdtQnVVdUdZQUQ3aFctcE9NS0RybmlodG9fVFhJa0tFdWQtS2V1REl4dFNJV2V4bkRYbmhxUXBwWnVvLVF0eE01U1U?oc=5"
+        },
+        {
+          "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeXdGdlJLZWg4QWFrdDdoTFI5WWs1b1A4R1R0U2NCNmR2RkNSMnJZb2RBZVprejQwSmV3OHRVOFhmTGxTa3R0b1A2bE5Yb1VTbVB2QmJYajNZQWNPZWlsdVdhSXVQRW1abl82WEtBMGpJaFI3LTR1S1dSTlY?oc=5"
+        },
+        {
+          "title": "Chinese Tech Giants Order $35 Billion In Compliant Nvidia Chips - TIKR.com",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwc0RZbnd3OVF0ZzN5WnhLRkFUX1pNWlN3UFZwRk5ETmNaOG9OdzhWbnJRUHNLdDI5TGktOFNZTkYzNjQ0dC1BWEVsRDRPSGpXVVViTWYzQTBHcEdIdnhjdHZzMlJlVGFsZElyaXJDM2F4TFFEbXBqc1NOQQ?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.73,
-      "weekAgoPrice": 4.699999809265137,
-      "percentChange": 0.64,
+      "weekAgoPrice": 4.659999847412109,
+      "percentChange": 1.5,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.3,
-      "weekAgoPrice": 7.300000190734863,
-      "percentChange": -0.0,
+      "weekAgoPrice": 7.190000057220459,
+      "percentChange": 1.53,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.2,
-      "weekAgoPrice": 1.25,
-      "percentChange": -4.0,
+      "weekAgoPrice": 1.2300000190734863,
+      "percentChange": -2.44,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.43,
-      "weekAgoPrice": 1.440000057220459,
-      "percentChange": -0.69,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": -1.38,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.33,
-      "weekAgoPrice": 1.3899999856948853,
-      "percentChange": -4.32,
+      "weekAgoPrice": 1.3700000047683716,
+      "percentChange": -2.92,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.17,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -4.88,
+      "weekAgoPrice": 1.190000057220459,
+      "percentChange": -1.68,
       "flagged": false,
       "news": []
     },
@@ -78,8 +91,8 @@
     {
       "ticker": "5352.KL",
       "currentPrice": 1.27,
-      "weekAgoPrice": 1.2000000476837158,
-      "percentChange": 5.83,
+      "weekAgoPrice": 1.190000057220459,
+      "percentChange": 6.72,
       "flagged": true,
       "news": []
     },
@@ -92,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 3
 }

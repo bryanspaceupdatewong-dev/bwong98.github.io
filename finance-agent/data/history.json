@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-16T18:16:42.254178Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 215.03,
-        "weekAgoPrice": 229.27999877929688,
-        "percentChange": -6.22,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Of - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0ZlN2hNaGdkYkNaUExvZUYzeWg2d1FKeGVuQng0c3NOVmdVZDRPLUsyVElCd19xaDZINUJ4a2RHOHl3SHh0dmlCMER1eWR1TldCc2Z5elVnTFpNQ2RDM0VnckVabjRiNkozLXhOQ3QxZjNSODRhV2RhV3pFRFdPNEhLN1JSR08zWVphbHhZdTNwbjlkSm1kWFRIcTM3dk55Rnkw?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Price Forecast: Jensen Huang Says AI Chip Demand Is Strong, Dan Ives Sees Selloff as Buying Opportunity; Can the Stock Return to an Uptrend? - TradingKey",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaU9rbjVCSDN4UzRLQW1WbERQX1VRMFJfRlNjYzYwR1Y3c2NJWFdwekJPekJhei1IT1cxQ2piajhDOHZNUnAtVElSc0lfRzJTUkJUYVdzZjE2RXlTMTY5Ri1LOHJPTThhN2RUWmd1OXBEZGRDa0VQS1o5VmZ4ek9VRjBENThQckY5ODFnUXlISmdMX2RrSW16MEF2d3FNZ2N0VEdvSllMX2tZSkdBNXlsSWFOVEZIdmYyZWxQM0ZBbkJjTXZIcmphRkhOczljQTRZdEtiblRLazY?oc=5"
-          },
-          {
-            "title": "AMD, Nvidia and More Buying Opportunities Hidden in the Chip Stock Chaos - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwbkNEWGJ0OTR4WkVyM2pjVFBMQTBQcE0xbElNMXpsWGlvRWctSV9LSVdmakFaNk9UTktPNE1mUzFidFdfNERrZUVOOXZnejBOR2ZQTXJsbGx6bzFQSFlMRGVrYjFaZTdMNVNaVVNSMVFrSk4ybGRjWGMxN0o?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.83,
-        "weekAgoPrice": 4.550000190734863,
-        "percentChange": 6.15,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.4600000381469727,
-        "percentChange": -13.01,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.840000033378601,
-        "percentChange": -21.2,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 9.48,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-16T19:16:21.912867Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1554,6 +1495,49 @@
         "currentPrice": 1.27,
         "weekAgoPrice": 1.2000000476837158,
         "percentChange": 5.83,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-20T16:16:30.016174Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 217.06,
+        "weekAgoPrice": 228.52000427246094,
+        "percentChange": -5.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stocks Fall Although Germany Opens a New Industrial AI Pa - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUtQSHctTVp2VGpmZmhqRVZRdVljcGtvTHpITVBPb3NNWEdDTWVlel9uYXZHRWNxeTdQSXpMMExVM0d2Q0lfcVdVWm1JM2QwVmZ2aEJ4MGlWb0J4Z2dla285ZmcxSWdtQnVVdUdZQUQ3aFctcE9NS0RybmlodG9fVFhJa0tFdWQtS2V1REl4dFNJV2V4bkRYbmhxUXBwWnVvLVF0eE01U1U?oc=5"
+          },
+          {
+            "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeXdGdlJLZWg4QWFrdDdoTFI5WWs1b1A4R1R0U2NCNmR2RkNSMnJZb2RBZVprejQwSmV3OHRVOFhmTGxTa3R0b1A2bE5Yb1VTbVB2QmJYajNZQWNPZWlsdVdhSXVQRW1abl82WEtBMGpJaFI3LTR1S1dSTlY?oc=5"
+          },
+          {
+            "title": "Chinese Tech Giants Order $35 Billion In Compliant Nvidia Chips - TIKR.com",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwc0RZbnd3OVF0ZzN5WnhLRkFUX1pNWlN3UFZwRk5ETmNaOG9OdzhWbnJRUHNLdDI5TGktOFNZTkYzNjQ0dC1BWEVsRDRPSGpXVVViTWYzQTBHcEdIdnhjdHZzMlJlVGFsZElyaXJDM2F4TFFEbXBqc1NOQQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": 9.52,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": 6.72,
         "flagged": true,
         "news": []
       }
