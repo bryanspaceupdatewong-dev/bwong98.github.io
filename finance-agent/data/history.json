@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-16T19:16:21.912867Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 214.52,
-        "weekAgoPrice": 229.27999877929688,
-        "percentChange": -6.44,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDdMcVRWa1ljMXpMMzd6V1N6TXNvY1ZjNlh5N19PczRwRHlHMHBlV3pGcnhwUDJ1eDFDak5zdF9RSHBCbWRpdy1mbjNLWjl0TkpBZWdwSmwxZnNZOHFqSG1kT0F3MUREWDQ4QURpLXJXV1BmWnY0V2FYLXFMWEktWWR4eXpxeXNlZGNvTGQxVzN6bVY3cXVTdg?oc=5"
-          },
-          {
-            "title": "Nvidia (NVDA): Can Paid Software Make Its Earnings Less Dependent on Hardware Sales? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRjBMSFBUb3l5a2IyNUJXR3VkNjN6ZmFDMGsyeHVRcEdsZmg1RkZYTWRKcm1pM0plaUVMUnZ0QUpMUzRCcGxlT3FncjcxMUhRQWZSNUwtNUIxd3E5d2h1QkVqcHRBc3JINmZtZFlCcEdDM3U4dk9QQXIwZ0huVkFpRXQ0aXpBNFVXRmRFTzU1UjZfQnZTV0NVY1AyWQ?oc=5"
-          },
-          {
-            "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Off - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0ZlN2hNaGdkYkNaUExvZUYzeWg2d1FKeGVuQng0c3NOVmdVZDRPLUsyVElCd19xaDZINUJ4a2RHOHl3SHh0dmlCMER1eWR1TldCc2Z5elVnTFpNQ2RDM0VnckVabjRiNkozLXhOQ3QxZjNSODRhV2RhV3pFRFdPNEhLN1JSR08zWVphbHhZdTNwbjlkSm1kWFRIcTM3dk55Rnkw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.83,
-        "weekAgoPrice": 4.570000171661377,
-        "percentChange": 5.69,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.4900000095367432,
-        "percentChange": -14.77,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.8799999952316284,
-        "percentChange": -22.87,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-16T20:16:28.921054Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1522,6 +1471,49 @@
           {
             "title": "Chinese Tech Giants Order $35 Billion In Compliant Nvidia Chips - TIKR.com",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwc0RZbnd3OVF0ZzN5WnhLRkFUX1pNWlN3UFZwRk5ETmNaOG9OdzhWbnJRUHNLdDI5TGktOFNZTkYzNjQ0dC1BWEVsRDRPSGpXVVViTWYzQTBHcEdIdnhjdHZzMlJlVGFsZElyaXJDM2F4TFFEbXBqc1NOQQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": 9.52,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": 6.72,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-20T17:16:15.016311Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 217.025,
+        "weekAgoPrice": 228.52000427246094,
+        "percentChange": -5.03,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stocks Fall Although Germany Opens a New Industrial AI Path - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMkMwTVpQWlVfc21NY3FhLVJvOE1OMDM4U0k4ZDVEczNEeTdhS3lHYUNxcmVIUFQyUi1pUk1TeTJpZzVoTGlLZEY0bHd1dGFSWEV3WDYxX0JDWGJpZXJObTQ0c3N5cGo3WThFVG1FRGtnWnFZOTY2U3h4ZEUxLUlYeEhObFRJWFNlY2tEVTF4NU94TmlackVxcjRSTU5ueFhUZ1pNTkJ0X0c5dW5pTU55R1V4RGVBN1l5T00zYWZCSjlKTjBm?oc=5"
+          },
+          {
+            "title": "NVIDIA Analysis: Is the NVDA Selloff Over? - NVIDIA (NASDAQ:NVDA) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbm5kNGVJQ0RCd1hRM180VjNSU1Z1OVBfN0FRU2I3SUgxMmx0WG5ycWFnaElIQmZocXlfUnRkWjFZd3RRQ3hWZmgxNklhbnlWOC1mR2ZVRUNVMUk0X2VsUlpFbUZfNFNLY0R1aXlDaVdMYnVVakNnMC1PU0hvZE1RaXNKTnZXTlFTZU1OZlhRUk1fT1A3WjBXSjZjRG1uc3ZaUEJmdjVTUUI4WGdaZkdhaGFn?oc=5"
+          },
+          {
+            "title": "Nvidia\u2019s Reported $70B China Chip Rush Faces A Roadblock - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkFpd183TG1tLUJ6YnpMVEpBbnBRclotZ284QVhsZ1A3NFQtOVBCNDVsNkFYNk1HN3IySm9Ccmd5Q094clRZS3hwTkNTRFFGSlBPNWppUWk1aXhQMHNvUEpONmZUNUJodHh5Y01oSm5uYTJQbW5hTDhrOVR2aEdHeFVrVUhtazZMSWhfQ2o1T2ZfTFk1OFV5b3Y2TWVBUFpPWkRPQ3lDU0U4bzdqR3c?oc=5"
           }
         ]
       },

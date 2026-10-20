@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-20T16:16:30.016174Z",
+  "generatedAt": "2026-10-20T17:16:15.016311Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 532.045,
+      "currentPrice": 532.89,
       "weekAgoPrice": 543.4500122070312,
-      "percentChange": -2.1,
+      "percentChange": -1.94,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 217.06,
+      "currentPrice": 217.025,
       "weekAgoPrice": 228.52000427246094,
-      "percentChange": -5.01,
+      "percentChange": -5.03,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Stocks Fall Although Germany Opens a New Industrial AI Pa - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUtQSHctTVp2VGpmZmhqRVZRdVljcGtvTHpITVBPb3NNWEdDTWVlel9uYXZHRWNxeTdQSXpMMExVM0d2Q0lfcVdVWm1JM2QwVmZ2aEJ4MGlWb0J4Z2dla285ZmcxSWdtQnVVdUdZQUQ3aFctcE9NS0RybmlodG9fVFhJa0tFdWQtS2V1REl4dFNJV2V4bkRYbmhxUXBwWnVvLVF0eE01U1U?oc=5"
+          "title": "Nvidia Stocks Fall Although Germany Opens a New Industrial AI Path - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMkMwTVpQWlVfc21NY3FhLVJvOE1OMDM4U0k4ZDVEczNEeTdhS3lHYUNxcmVIUFQyUi1pUk1TeTJpZzVoTGlLZEY0bHd1dGFSWEV3WDYxX0JDWGJpZXJObTQ0c3N5cGo3WThFVG1FRGtnWnFZOTY2U3h4ZEUxLUlYeEhObFRJWFNlY2tEVTF4NU94TmlackVxcjRSTU5ueFhUZ1pNTkJ0X0c5dW5pTU55R1V4RGVBN1l5T00zYWZCSjlKTjBm?oc=5"
         },
         {
-          "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeXdGdlJLZWg4QWFrdDdoTFI5WWs1b1A4R1R0U2NCNmR2RkNSMnJZb2RBZVprejQwSmV3OHRVOFhmTGxTa3R0b1A2bE5Yb1VTbVB2QmJYajNZQWNPZWlsdVdhSXVQRW1abl82WEtBMGpJaFI3LTR1S1dSTlY?oc=5"
+          "title": "NVIDIA Analysis: Is the NVDA Selloff Over? - NVIDIA (NASDAQ:NVDA) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbm5kNGVJQ0RCd1hRM180VjNSU1Z1OVBfN0FRU2I3SUgxMmx0WG5ycWFnaElIQmZocXlfUnRkWjFZd3RRQ3hWZmgxNklhbnlWOC1mR2ZVRUNVMUk0X2VsUlpFbUZfNFNLY0R1aXlDaVdMYnVVakNnMC1PU0hvZE1RaXNKTnZXTlFTZU1OZlhRUk1fT1A3WjBXSjZjRG1uc3ZaUEJmdjVTUUI4WGdaZkdhaGFn?oc=5"
         },
         {
-          "title": "Chinese Tech Giants Order $35 Billion In Compliant Nvidia Chips - TIKR.com",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwc0RZbnd3OVF0ZzN5WnhLRkFUX1pNWlN3UFZwRk5ETmNaOG9OdzhWbnJRUHNLdDI5TGktOFNZTkYzNjQ0dC1BWEVsRDRPSGpXVVViTWYzQTBHcEdIdnhjdHZzMlJlVGFsZElyaXJDM2F4TFFEbXBqc1NOQQ?oc=5"
+          "title": "Nvidia\u2019s Reported $70B China Chip Rush Faces A Roadblock - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkFpd183TG1tLUJ6YnpMVEpBbnBRclotZ284QVhsZ1A3NFQtOVBCNDVsNkFYNk1HN3IySm9Ccmd5Q094clRZS3hwTkNTRFFGSlBPNWppUWk1aXhQMHNvUEpONmZUNUJodHh5Y01oSm5uYTJQbW5hTDhrOVR2aEdHeFVrVUhtazZMSWhfQ2o1T2ZfTFk1OFV5b3Y2TWVBUFpPWkRPQ3lDU0U4bzdqR3c?oc=5"
         }
       ]
     },
