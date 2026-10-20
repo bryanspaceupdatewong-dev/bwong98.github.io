@@ -1,69 +1,82 @@
 {
-  "generatedAt": "2026-10-20T18:16:12.490221Z",
+  "generatedAt": "2026-10-20T19:16:30.886463Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 532.65,
+      "currentPrice": 531.63,
       "weekAgoPrice": 543.4500122070312,
-      "percentChange": -1.99,
+      "percentChange": -2.17,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 217.18,
+      "currentPrice": 216.645,
       "weekAgoPrice": 228.52000427246094,
-      "percentChange": -4.96,
-      "flagged": false,
-      "news": []
+      "percentChange": -5.2,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeXdGdlJLZWg4QWFrdDdoTFI5WWs1b1A4R1R0U2NCNmR2RkNSMnJZb2RBZVprejQwSmV3OHRVOFhmTGxTa3R0b1A2bE5Yb1VTbVB2QmJYajNZQWNPZWlsdVdhSXVQRW1abl82WEtBMGpJaFI3LTR1S1dSTlY?oc=5"
+        },
+        {
+          "title": "Nvidia Reportedly Just Landed $35 Billion In Chip Orders From Chinese Companies. Here's Why That Could Be Great News for the Stock - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQzRGV0hXSU9UUkFyeVFmQ1lqaC15clpqaWFnRkFJdm5TRjg5cVZfdVpRN2toc1FnaXJWZHdybzAwS1I2U3RwblA5NU80T21NVFBrYko1M1BsOXQxemJGRERHc1hnNmxsOVVPQXZqd2c3TnZBZ3NxZENsUFhabFJiRFJERjUzSnFSR0tVQ21fS3VRdFJWOUtLZXhYYUhzTmxjV3gzZHhSM0V2SzVLWnRMTk9LeVN0Umx5OWk5YVR3YlhJaW0wUnRSUTgtMFV4a0NvNkJydFVWd25EdE9TNmh2WkhXczZqcTFrU1pNZHFVNEs2amdNaF9OLWdmMF9OTnI1TGozcw?oc=5"
+        },
+        {
+          "title": "Nvidia Reportedly Just Landed $35 Billion In Chip Orders From Chinese Companies. Here's Why That Could Be Great News for the Stock - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGNMZVNmM3VNVm45Ym1FR0Vfa25pZ29uTV9YQWNJbWljWnhEaUM5T2RudzVCQkduSjdWUkNseDhIemJ6VXo0c3lIOFl2UVN0Y2R0ZlpiTU1zeFdRVU1pNERmMVpMYWc0VVZuOW1fSXl5aVVXblpsY1pqb0lZSHlLQTJ0YjJYWGdoWEJVWnRZNHBqUzk0N0hxcmZWakxoQQ?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.73,
-      "weekAgoPrice": 4.659999847412109,
-      "percentChange": 1.5,
+      "weekAgoPrice": 4.699999809265137,
+      "percentChange": 0.64,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.3,
-      "weekAgoPrice": 7.190000057220459,
-      "percentChange": 1.53,
+      "weekAgoPrice": 7.300000190734863,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.2,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -2.44,
+      "weekAgoPrice": 1.25,
+      "percentChange": -4.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.43,
-      "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -1.38,
+      "weekAgoPrice": 1.440000057220459,
+      "percentChange": -0.69,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.33,
-      "weekAgoPrice": 1.3700000047683716,
-      "percentChange": -2.92,
+      "weekAgoPrice": 1.3899999856948853,
+      "percentChange": -4.32,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.17,
-      "weekAgoPrice": 1.190000057220459,
-      "percentChange": -1.68,
+      "weekAgoPrice": 1.2300000190734863,
+      "percentChange": -4.88,
       "flagged": false,
       "news": []
     },
@@ -78,8 +91,8 @@
     {
       "ticker": "5352.KL",
       "currentPrice": 1.27,
-      "weekAgoPrice": 1.190000057220459,
-      "percentChange": 6.72,
+      "weekAgoPrice": 1.2000000476837158,
+      "percentChange": 5.83,
       "flagged": true,
       "news": []
     },
@@ -92,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 3
 }
