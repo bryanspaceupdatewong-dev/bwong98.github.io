@@ -1,64 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-16T16:16:25.275978Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 217.425,
-        "weekAgoPrice": 229.27999877929688,
-        "percentChange": -5.17,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA stock could rise 80% to $400 by 2027 wit... - Pluang",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3hmZVZQb3I4SnMxOTV6ajBobVNsRVp1NE9sU19hVkx1ZnBOWGkxUWdkSGE3ajRyd0NrWkJtd2ZLQkFpR3NvOFZhTVExbjdTcjllYXdRNEJXWXgxaUdoWHdqemo3ZExtcE9oajVuWE81UUx2cFpCejc5b21jV3dBMWRoX2JPbnNtUWc?oc=5"
-          },
-          {
-            "title": "Nvidia (NVDA) Expands Nemotron As $4 Billion Texas Supply Push Meets Customer Debt Stress - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelkyWlltU0dSamhMN0ZzVWlVcjVfMXpzbUotNF9ZdzVWdFRmbVpXcGxBWHlyaUR3MEM5eG1Ka1pJRXd3aTFMdUt3SjNzazlNSlpGeEhVNlpzZ192Q0doZXNITFQ2TEN2dkNrT2kzS2lOaWRMZ2tYVDI2YnA1TWNMUmZPckFHalBWSEMzR1V1bWJwa3M4djBkbG1R?oc=5"
-          },
-          {
-            "title": "CoreWeave Stock Rally Fizzles Despite ARK's Wood, Nvidia Support - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYS1ma2lESjRhWXAwUmYtc0RLQm5QTTFyZ0EyODI2cnQyT2VOTWNiNm5uUFdtc1BTSkNWVk9UbEdibUtsMnZtUzh4dTNJMk9nSm1wVUNaRFBpQTJZcmd6cGVmWEROSUswTFlMWTdWanc0ZGRsSG1mSVV1UDJZMTRTMFF0a3J4aTgtSG1vQTkybFFLcjBZbXVOVXVkNnU1RWpKV2JWX0tSeko?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.83,
-        "weekAgoPrice": 4.550000190734863,
-        "percentChange": 6.15,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.4600000381469727,
-        "percentChange": -13.01,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.840000033378601,
-        "percentChange": -21.2,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 9.48,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-16T17:16:21.297019Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1613,6 +1554,28 @@
   },
   {
     "generatedAt": "2026-10-20T13:21:58.213073Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": 9.52,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.2000000476837158,
+        "percentChange": 5.83,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-20T14:20:27.320024Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
