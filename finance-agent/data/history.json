@@ -1,65 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-16T08:17:14.226912Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 217.23,
-        "weekAgoPrice": 230.47999572753906,
-        "percentChange": -5.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA Corporation $NVDA Shares Sold by Delta Asset Management LLC TN - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZV9QQk0yV1Q5bWFLSk1PX2V5d3hjbWJRQ2l3U2hjYjBFVnk3RkhvRk9hTFV3QmdnalBwRXpDdmF2RXFRUWEyNVlZTVpSMUVRd3hPenQ1WjhpVzhiNDZrckxidTM4ekEtdzBiakxWZ09keGYyUkJUdFptNFE3UmJnVWFZVGRLMzlEdE04OFpqN3U1YU1LWE5IVW1LcjZrMDhUOTBOWWUyRWtEUGdReUNkYlo0NXlzSy10TktNd0pDSW9HM2J6NXNqUg?oc=5"
-          },
-          {
-            "title": "31,559 NVIDIA Corporation $NVDA Shares Acquired by Cullinan Associates Inc. - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMlF4R2RtR2VMaGVTN3JocXY1T0U1UFN2OXhSd1JkN3J3dkpMZGxkaGR4OWdxOVFCbUxwWUdHZTU1U1ozWUZGdnZyeWg5T2pYNnVrSnNLVUtkUnNBdllTUEZxUngzNHpXRE1TbGxZOEJRRUlfY3Q5MHVDZi0wNXdSWEhOUmdOdjJqbGwySHNmM3YxV0VUQlJFS2lXYjlzZndldnliMUdKMUJFd3lSWmpZVE9ibU5TSHp4WklEQnVRSWRqREI1VExQZ3d2WUF4dw?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Shares Acquired by Cookson Peirce & Co. Inc. - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZmdQblVOWGFOM1Y1M2psRHJZNU1qZlp3RkxWaVg1Sk4xaC12Q2hRRE1wVENXYmRLamx3WnBnNzJtYi1GV29PeXdxTmJEOXFsekF1Yzk5dFVScC12eDZNbW1nUWJKa3pLVVlmS19DREJlYlUzLXdaRE1zRy00ajRISjhHZjVjUHdVZVNHN2xITGdHeDdrX3BpQUtVa19qeTAtdTRYNW1ocWhYdW90NXVzMUlMT1Bwei1Xdzl6MTBmNDBNRXc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.8,
-        "weekAgoPrice": 4.570000171661377,
-        "percentChange": 5.03,
-        "flagged": true,
-        "news": [
-          {
-            "title": "RHB Bank Berhad (1066.KL) stock price, news, quote and history - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fcDB3QzQ5STljeWpGaG1mdWtoWjQ4SzIxT2ViUFVaNGxkOHo3ZW02eEtkeUM3MHM2bTF5UmgyYXFTVnpqb2p2UU5hS2dCZXI1MmhVUmt3?oc=5"
-          },
-          {
-            "title": "AMMB Holdings Berhad (1015.KL) stock price, news, quote and history - Yahoo Finance Australia",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EcUJCT1BkZ054aVB1Q2tIV0xPeXRVNW9LZG52cW8yT09RQWloRE56aXlLZGdDZ0JDZFY2ZS1xWDZJa1p1dFNqbmhyQ1doMG5oaHZNQ3dB?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.4900000095367432,
-        "percentChange": -15.44,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.8799999952316284,
-        "percentChange": -22.87,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-16T09:16:00.130016Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1859,6 +1799,36 @@
   },
   {
     "generatedAt": "2026-10-20T05:16:11.038114Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.15,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -6.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": 9.52,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.3,
+        "weekAgoPrice": 1.2000000476837158,
+        "percentChange": 8.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-20T06:18:18.360822Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
