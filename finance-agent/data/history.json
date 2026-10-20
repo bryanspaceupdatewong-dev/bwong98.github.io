@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-16T10:16:03.981816Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 217.23,
-        "weekAgoPrice": 230.47999572753906,
-        "percentChange": -5.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic' - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3RweTh1THdrck1qLURYMnJEVW03ZzdxNTIwZTVRVjV3MS1YM0E1V2VOblNmdzIzdUU2RXRVSGx3WGV2XzhudDVWeHo3REtZaHRyWk94ZDBrSzhoTy1RRWROaUxIcXZnQmdkRW5OWVVOdEJzQjN1U3pQZmdkVElaWEwxbkxDbndxalNabnV4MHYxSGYtTVdIN3VjZ2ZYVExQc2gyLXlxV0ZfamNMWWJCQkhaSFhqemhZeUJxOGxNYWYxYi1Rb2c?oc=5"
-          },
-          {
-            "title": "Why Nvidia Stock Is Rising While the Broader Chip Sector Keeps Falling - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY?oc=5"
-          },
-          {
-            "title": "Nvidia Unveils Three New AI Models Amid Strong Demand - Intellectia AI",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamtuaHJvMF9xSV9aMUljSmNDdFRZcVczbjJNU0ZqSXpXdUxKck9DdENZOXRlQkhFclBEZklLNkNwN1hIUTNVLVl2dFUxTkVNWjVPdU50dm1Fd1RxeUhuOUFFM0REU1dTNGk4b2ljTl9fWVVFVExsazdGcWM4ZWpPYk9GaU8tUlhFQTdBWVBNYzg?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.83,
-        "weekAgoPrice": 4.570000171661377,
-        "percentChange": 5.69,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.4900000095367432,
-        "percentChange": -14.77,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.8799999952316284,
-        "percentChange": -22.87,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-16T11:16:23.951155Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1831,6 +1780,36 @@
         "currentPrice": 1.29,
         "weekAgoPrice": 1.2000000476837158,
         "percentChange": 7.5,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-20T08:17:15.754733Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.16,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -5.69,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.225,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": 7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.2000000476837158,
+        "percentChange": 6.67,
         "flagged": true,
         "news": []
       }
