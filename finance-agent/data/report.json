@@ -1,36 +1,23 @@
 {
-  "generatedAt": "2026-10-20T17:16:15.016311Z",
+  "generatedAt": "2026-10-20T18:16:12.490221Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 532.89,
+      "currentPrice": 532.65,
       "weekAgoPrice": 543.4500122070312,
-      "percentChange": -1.94,
+      "percentChange": -1.99,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 217.025,
+      "currentPrice": 217.18,
       "weekAgoPrice": 228.52000427246094,
-      "percentChange": -5.03,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Nvidia Stocks Fall Although Germany Opens a New Industrial AI Path - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMkMwTVpQWlVfc21NY3FhLVJvOE1OMDM4U0k4ZDVEczNEeTdhS3lHYUNxcmVIUFQyUi1pUk1TeTJpZzVoTGlLZEY0bHd1dGFSWEV3WDYxX0JDWGJpZXJObTQ0c3N5cGo3WThFVG1FRGtnWnFZOTY2U3h4ZEUxLUlYeEhObFRJWFNlY2tEVTF4NU94TmlackVxcjRSTU5ueFhUZ1pNTkJ0X0c5dW5pTU55R1V4RGVBN1l5T00zYWZCSjlKTjBm?oc=5"
-        },
-        {
-          "title": "NVIDIA Analysis: Is the NVDA Selloff Over? - NVIDIA (NASDAQ:NVDA) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbm5kNGVJQ0RCd1hRM180VjNSU1Z1OVBfN0FRU2I3SUgxMmx0WG5ycWFnaElIQmZocXlfUnRkWjFZd3RRQ3hWZmgxNklhbnlWOC1mR2ZVRUNVMUk0X2VsUlpFbUZfNFNLY0R1aXlDaVdMYnVVakNnMC1PU0hvZE1RaXNKTnZXTlFTZU1OZlhRUk1fT1A3WjBXSjZjRG1uc3ZaUEJmdjVTUUI4WGdaZkdhaGFn?oc=5"
-        },
-        {
-          "title": "Nvidia\u2019s Reported $70B China Chip Rush Faces A Roadblock - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkFpd183TG1tLUJ6YnpMVEpBbnBRclotZ284QVhsZ1A3NFQtOVBCNDVsNkFYNk1HN3IySm9Ccmd5Q094clRZS3hwTkNTRFFGSlBPNWppUWk1aXhQMHNvUEpONmZUNUJodHh5Y01oSm5uYTJQbW5hTDhrOVR2aEdHeFVrVUhtazZMSWhfQ2o1T2ZfTFk1OFV5b3Y2TWVBUFpPWkRPQ3lDU0U4bzdqR3c?oc=5"
-        }
-      ]
+      "percentChange": -4.96,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "1295.KL",
@@ -105,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 2
 }
