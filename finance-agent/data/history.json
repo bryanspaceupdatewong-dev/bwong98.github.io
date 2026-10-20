@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-16T23:15:52.030577Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 214.13,
-        "weekAgoPrice": 229.27999877929688,
-        "percentChange": -6.61,
-        "flagged": true,
-        "news": [
-          {
-            "title": "1 Obvious Metric That Makes Nvidia a Top Stock to Buy Now - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYU55STVLSi1ZREsyVnVNaHIzb01FUlNlZHFHcHpncUR0TmNjbUdHZkd6MEQydDQ1SnZFMTMzd2I0S0NBdW5yQ1g3c18tMW5WNC1zRHhEYXZMOWF1MWhUdzU5RmVkblQwOUhhV0ZjQTl3b2JmS3lsSVJxUmZVQURhSC0wX3BZWExnVEM5aW5iRmIzbmJZeHc4?oc=5"
-          },
-          {
-            "title": "NVIDIA (NASDAQ:NVDA) Shares Down 1.4% - Here's What Happened - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLU1za2psc0lCOUxhWUJHc3J1UXVkWEM3TUU5LW51OWV5cEo0ZnBTVU83OVJ1TmxpV2tFR29nQnpPYm5SSXpaVUJ2ZGF3Z3Y4V3JscWc5RmlHTUp1WmRMdUUxUXZZRGNkSEV3TmREZHN1RFN4dm1kazAtSDRSVXhMem9icDlWRFRndmZHd1UzVkhDbVd4TVpTc2FWRkJuamktLXJqRFZaM0JaWnNHQk1YS2V1SQ?oc=5"
-          },
-          {
-            "title": "Germany Confirms Its Nvidia AI Deal: Will Any of Huang\u2019s $2 Billion Europe Pledge Land in Berlin? - TIKR.com",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGphMF9ITjBJTUI1MGY2V25VRjNVZ3JzdG9zaDdyNUZXTmxnelVLN216QmtvU2tHNjBtUDdRS3pZbnVqbzFZZmwtV0ZuR0FheWxLa0xabjkxRzFqb3YwcDUzZVRJdDNEeFVyNG5RZ0FvQXV3UzNWZUFOVUxUNFJiRkVWYnRoZVNYd1dLZzNvY3lfRy1xdzl3RTlqTjdQSTU3Z002UGl3S19wXzV2XzZYMU9uV3NrYXVFMzNB?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.83,
-        "weekAgoPrice": 4.570000171661377,
-        "percentChange": 5.69,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.4900000095367432,
-        "percentChange": -14.77,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.8799999952316284,
-        "percentChange": -22.87,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-19T00:16:36.972760Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1449,6 +1398,49 @@
   },
   {
     "generatedAt": "2026-10-20T20:16:35.020389Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 216.47,
+        "weekAgoPrice": 228.52000427246094,
+        "percentChange": -5.27,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Why Isn\u2019t Nvidia (NASDAQ:NVDA) Stock Rising Despite Reports of US$35 Billion in China AI Chip Orders? - Stocks Down Under",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MM09XRVRUMjVxeFFKdFhWSTJSSjdQUUdZdzlTT05QTTdaOFJSLTQwMV9TSmo2S0tKLXNKMWxmS19tejBXOVZHTDNNUnNSaXFxSHh0RTBPTTRoVjctdDVoUzJzVkdSOTdJWFQ1Z0YxVk1tZ0hZM1E?oc=5"
+          },
+          {
+            "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeXdGdlJLZWg4QWFrdDdoTFI5WWs1b1A4R1R0U2NCNmR2RkNSMnJZb2RBZVprejQwSmV3OHRVOFhmTGxTa3R0b1A2bE5Yb1VTbVB2QmJYajNZQWNPZWlsdVdhSXVQRW1abl82WEtBMGpJaFI3LTR1S1dSTlY?oc=5"
+          },
+          {
+            "title": "Nvidia Reportedly Just Landed $35 Billion In Chip Orders From Chinese Companies. Here's Why That Could Be Great News for the Stock - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQzRGV0hXSU9UUkFyeVFmQ1lqaC15clpqaWFnRkFJdm5TRjg5cVZfdVpRN2toc1FnaXJWZHdybzAwS1I2U3RwblA5NU80T21NVFBrYko1M1BsOXQxemJGRERHc1hnNmxsOVVPQXZqd2c3TnZBZ3NxZENsUFhabFJiRFJERjUzSnFSR0tVQ21fS3VRdFJWOUtLZXhYYUhzTmxjV3gzZHhSM0V2SzVLWnRMTk9LeVN0Umx5OWk5YVR3YlhJaW0wUnRSUTgtMFV4a0NvNkJydFVWd25EdE9TNmh2WkhXczZqcTFrU1pNZHFVNEs2amdNaF9OLWdmMF9OTnI1TGozcw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": 9.52,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.2000000476837158,
+        "percentChange": 5.83,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-20T21:16:21.943631Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
