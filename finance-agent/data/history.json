@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-16T15:16:27.083923Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 216.65,
-        "weekAgoPrice": 229.27999877929688,
-        "percentChange": -5.51,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Why Are Nasdaq Futures Edging Higher Premarket? TSLA, CRWV, TSM, NVDA, RKLB, ASST, PEP Stocks In Focus - Stocktwits",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZXNzY2Jhc19nZl9JWlh0RkFIY3BLVTAtYzQySkRFY3lIaUNOREp6bHduWjlpbERFUi1qcy1VY01qZHVxTm5LaU50MGlWSzBGWWdJaVJFSm01TUVKd1RsdktBenJGS0JGR3UxTWhlNzM1QVd6Mlg1MnUwT0NtbXFNeFVodHdubHF3NWZpRVlwWlZtQUJITHJ4T2gxSlRpRFc0ZHBBQTBmemd5VVE5OFZmR3p5Zjg5UlJtMUpMbHRUaldpaE1LZGFna3Ewb3NJLUMwS2kydDNjTkdpV3J3cGtNT0RFVVBVbl8tTEVuZHVHbWw?oc=5"
-          },
-          {
-            "title": "Nvidia and Apple Donate Millions for Planned White House Project - TIKR.com",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPckZTVUctVTktRnY1TGVYTV8xM2Y4bm9kX3JfdTgzUVlQbDJBMENuVjVEYXh2SndQQWJEd19vaVpYaTA4UjltZjY2V0Zxbmx6TUZxbm5GcGpnNlg2V3dUYzFYbDJaQkN1OWo1dWpzU1lZalRFUTBn?oc=5"
-          },
-          {
-            "title": "NVDA-Led AI Boom Looks a Lot Like the Railroad Bubble of 1873, Pulitzer-Winning Historian Warns - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXZwMW5ieHNyWl9Sb1Y0eHRpaWpaODFaM04yakx2WWxsN0RWSXNPUjhZOTloQ1VHTEF3cXJHTC0wRkJ2dU1RRm5HMTRld1BySXhLSV9iNi0zNV9wUjE5UDhjaEcySWNFOVpJT0FXT2k4ZmdGdmdiZVFqYjZiMFVDSDJCM0hXSGtrVDQ1N093NA?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.83,
-        "weekAgoPrice": 4.570000171661377,
-        "percentChange": 5.69,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.4900000095367432,
-        "percentChange": -14.77,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.8799999952316284,
-        "percentChange": -22.87,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-16T16:14:37.518946Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1679,6 +1628,28 @@
   },
   {
     "generatedAt": "2026-10-20T11:16:39.728202Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": 9.52,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.2000000476837158,
+        "percentChange": 5.83,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-20T12:21:59.447986Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
