@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-16T03:16:25.906384Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 217.23,
-        "weekAgoPrice": 230.47999572753906,
-        "percentChange": -5.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "How Investors Are Reacting To NVIDIA (NVDA) AI Partnership Wave - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhnc0tIbHYtRE8zcTVtS2laZG5IT29wWG1yaDBkUkVUanpvaWpFWm1pTEpyVjR6aDZ3Zi1Yd2tMclFDLWc0WHgxYzJ1Z0NpcWxyOWRPYWVUMW05OC1xU2Y4Ri11R0JFb0hqWGVlZDZKU25HSllfRUxzNVlJdmkzNVAydVkzYUFhLU1qRU5UamNPRV9Ic2VOZElYMUFlVGs?oc=5"
-          },
-          {
-            "title": "Nvidia Stock NVDA Extends Slide Toward $200 as ASML Warns of Chipmaking Capacity - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2pVU3VpUlJrcUhQaWIzU1JBTmczc0NqcnR1WU9YTlhmX2d2eTVLOWd6R2JrRzVHZ2pESDJPaFZDOG5KMUR2V2toNHo3MHJVYzJWUjZFM0tUMkVsakxQLWJMZ3AxZE1vYWlKbzd6dFN6Z25aUlhBZkM0YUpPOGRBWDEzN0pvZFh3YXp1czY1U3NmQU9PVXZtTW1wOU9HQ2pKOEZFakN6UHFEVzFJWm9oUDM2SlpIOW9PSHhOQWI0Yw?oc=5"
-          },
-          {
-            "title": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN0dmS0NFZ3cwcWdpZlNxcmhwaTlWbGJIM3JJanEtakVrZ0gxOGUwSHlMcl94VzQtQlJqMk5wVWFCdFVLbVNhVEJ2VTNMV2Z3dHdCNWJWbk5kRGd2UmJlbEpFZ3lMMWFjUC0yckFjLU1LYXhsU1haTHdtRG8xR2p2QXhZaUpFWjhGOVY3V1dkTVpjSXpPOVZ2bw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.4900000095367432,
-        "percentChange": -14.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.46,
-        "weekAgoPrice": 1.8799999952316284,
-        "percentChange": -22.34,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-16T04:16:29.283153Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2059,6 +2016,41 @@
     "generatedAt": "2026-10-19T23:16:18.667560Z",
     "thresholdPercent": 5.0,
     "flagged": [
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": 7.56,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-20T00:16:09.832892Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 217.09,
+        "weekAgoPrice": 229.27999877929688,
+        "percentChange": -5.32,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Thinking Nvidia Stock Could Hit $10 Trillion? Here's 1 Reason I'd Be Cautious - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZG9NMFREdDlFT0NTVFV3NFI2TWNOeDdXckFvb1BtcnBRM3JMTDJicWw3eXRXZVdDaUpMaUV0Z2NaTnR1SDZIdFhtR3dmd3p0c20xeWJGbmhqSDFWRDYtMFMwYW83Y01rZlk3VXNoZlVhV1hONVRDcHp0NDJ5T0t1eDZfOUVDR1Z6bnBMQ2twSQ?oc=5"
+          },
+          {
+            "title": "Nvidia Stock (NVDA) Rises on \u2018Record-Breaking\u2019 Quantum Computing Simulation - TipRanks",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEVKcWxLUHpPZndvbzI0S1NMWFZLQUFHWlRNcTUzQ0xIT2NxLXFLXzhka21Mbmh5b0cyMGFEN0pWaGdrVzNXblhQZHpqdDVFdlB2RDBTMkdoT25MRHVOYnExUDNIdzN3aS1qV3FlNVdDWnJtdFFua0t2MjFOSGNVOFpFSVhLdWhwYTM1WGtHWk1OY3BYcFFhY3BWX05HSzEzRXVV?oc=5"
+          },
+          {
+            "title": "Nvidia NVDA Stock Rebounds as Memory Price Optimism Offsets Semiconductor Sell-Off - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX3FqUF94VDcxRkdXTGtTZXpCdTlBVXpQZGxOU3poTy1SRWlHT1FuTmRLa3k1LTZZaXhPV2VuZ0QwMHB5cE5ZR3hoYVpxUUNqTWhVVm8yYWtvYUpGRkJXazduTXg2TjVjNm5zaEdldXR0Q2F5aXBLX3I2TE45Q3E2M3BkVGMtRXQ2UjJCbk11YnFEVGNfYVdwUWlSZi0ta2tVTmZyampoVS1ZSlZtVno3eXVsSW5MM2l1OTVMUzhGdXhRMTA?oc=5"
+          }
+        ]
+      },
       {
         "ticker": "5352.KL",
         "currentPrice": 1.28,
