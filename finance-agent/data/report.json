@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T04:16:39.175698Z",
+  "generatedAt": "2026-10-20T05:16:11.038114Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,25 +21,25 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.72,
+      "currentPrice": 4.74,
       "weekAgoPrice": 4.699999809265137,
-      "percentChange": 0.43,
+      "percentChange": 0.85,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.27,
+      "currentPrice": 7.3,
       "weekAgoPrice": 7.300000190734863,
-      "percentChange": -0.41,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.2,
+      "currentPrice": 1.21,
       "weekAgoPrice": 1.25,
-      "percentChange": -4.0,
+      "percentChange": -3.2,
       "flagged": false,
       "news": []
     },
@@ -53,18 +53,18 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.34,
+      "currentPrice": 1.33,
       "weekAgoPrice": 1.3899999856948853,
-      "percentChange": -3.6,
+      "percentChange": -4.32,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.17,
+      "currentPrice": 1.15,
       "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -4.88,
-      "flagged": false,
+      "percentChange": -6.5,
+      "flagged": true,
       "news": []
     },
     {
@@ -77,20 +77,20 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.3,
       "weekAgoPrice": 1.2000000476837158,
-      "percentChange": 7.5,
+      "percentChange": 8.33,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.69,
+      "currentPrice": 0.68,
       "weekAgoPrice": 0.6899999976158142,
-      "percentChange": 0.0,
+      "percentChange": -1.45,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 3
 }

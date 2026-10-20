@@ -1,65 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-16T07:17:55.349156Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 217.23,
-        "weekAgoPrice": 230.47999572753906,
-        "percentChange": -5.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA Corporation $NVDA Shares Sold by B & T Capital Management DBA Alpha Capital Management - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDdJV1BZUGY0eTVDSUVHVGhIaHREbFlfY0ZFMnVXcDN0VlA0S2k5Z0pxckJOeHBJVmhhZ3o1cEVfOWpxM1FBaFJ3d0RScTBHLXgtTU9iT0lNOTQzQklzRk42UjNkdUlKdGV2aTA4Sm94TkNDbjJxT3RabmhtbVpGaWxDS3pqaXB4N1ZXeXctVUlLZF9tNEpuVmR5QlhKUzNqOWVGSk5Qd1Y1anpTa1RwRmI2TGlxaVBRcHZzblJHcnJaUnFvWkZXMWU2aWdKb0hrWWQwMDJBQ2FHbG94dnBtNmo0ZGJGdw?oc=5"
-          },
-          {
-            "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock. - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkg3RHU2NXczb3RIaFRkNEdmMlprWHJDNHhpY0duckgzTkNzMW1VSnYwaUlRN1dNVGNsMWNlN3NCaGJ5RVMya1BseXI1QnI0RTBBTFNTcWtGM1F3UXRJWnBPcFZaOUdvTWNhMXdDQnZVZHJmSmJjN1JZZ2kxVWVSYWRGdUtRTUpRMEFpSXkteVRMMFFhOElzaEp4TGZ2Q2xDYmM4?oc=5"
-          },
-          {
-            "title": "CRWV Stock Slips Overnight: Analyst Calls CoreWeave Debt Worries \u2018Fearmongering,\u2019 Reaffirms 150% Upside Target - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3JPZngwSWp3aklXM0RXNEc1blFUS01Qd25Fdnd1WXBwV3BFb21FdVNWd3F6ZUlpLVdnQVg2N3g1Q29iRURIT1hNZmlwWVlzck0td3B4WWRBY2dlaDJpZVNwTzJkbWFpb0ctY1hhR0tENUpmcVlBbk10WDBxT2VhTmtidGFiaHNacEVOUy1iaHUwNHVEY1d2OU40QUZ2TUtT?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.84,
-        "weekAgoPrice": 4.570000171661377,
-        "percentChange": 5.91,
-        "flagged": true,
-        "news": [
-          {
-            "title": "RHB Bank Berhad (1066.KL) stock price, news, quote and history - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fcDB3QzQ5STljeWpGaG1mdWtoWjQ4SzIxT2ViUFVaNGxkOHo3ZW02eEtkeUM3MHM2bTF5UmgyYXFTVnpqb2p2UU5hS2dCZXI1MmhVUmt3?oc=5"
-          },
-          {
-            "title": "AMMB Holdings Berhad (1015.KL) stock price, news, quote and history - Yahoo Finance Australia",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EcUJCT1BkZ054aVB1Q2tIV0xPeXRVNW9LZG52cW8yT09RQWloRE56aXlLZGdDZ0JDZFY2ZS1xWDZJa1p1dFNqbmhyQ1doMG5oaHZNQ3dB?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.4900000095367432,
-        "percentChange": -14.77,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.46,
-        "weekAgoPrice": 1.8799999952316284,
-        "percentChange": -22.34,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-16T08:17:14.226912Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1912,6 +1852,36 @@
         "currentPrice": 1.29,
         "weekAgoPrice": 1.2000000476837158,
         "percentChange": 7.5,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-20T05:16:11.038114Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.15,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -6.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": 9.52,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.3,
+        "weekAgoPrice": 1.2000000476837158,
+        "percentChange": 8.33,
         "flagged": true,
         "news": []
       }
