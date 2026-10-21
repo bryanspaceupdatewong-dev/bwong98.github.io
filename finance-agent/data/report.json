@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T01:26:52.658628Z",
+  "generatedAt": "2026-10-21T02:16:11.266636Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,8 +19,8 @@
       "flagged": true,
       "news": [
         {
-          "title": "Why AI Chip Stocks Nvidia, Broadcom, and Micron Climb After Hours \u2014 and What Wall Street Sees Next - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUt4dWVaOGwyRzZ1Tms5SXRGaWdGbDFza29nNlJyMUFiTzE1aFJ0MkxGNGthbkdPZVpRNS1iTmlraVRVMDVVRVhac19rcDUweEEwV291WDJDaVFzSGRtVGxWY09HVTMyMTIwNlI4bl9IbzJBcmVWSG80aUVlcHJZbFdJYzN1WVBnLVllSmdHa1R0UE9tVWtiMnZ0a043V2wzaVBwLUZrN2Y1eVhTR0NNVXhpYmVaa3NQS2VRTXdtd2pBdw?oc=5"
+          "title": "Nvidia Stock Jumps After Hours on Elon Musk\u2019s SpaceX Chip Plan - NVIDIA (NASDAQ:NVDA) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFJQcVY3VVNKZUY4bzNsY3JoNGFtN0xTUVNqTGs2cEtwemUwYU5MQVMyeXlzYWJXR0ZfWHF5VXZmTnBFcldmVnoyN19kb3FoZnRYWWF3RUZQSjllczBkNlVNbXA2ZktqRFR0dkx3azNSTTR2YzhLak9Yd1l6X2ZZQ1VDa3VVNllWZ0lNamZVRVl5TEV4SzJGRklPZmFDUDA1SHdrdDBnZ1ZneS1VNXc?oc=5"
         },
         {
           "title": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most? - The Motley Fool",
@@ -34,17 +34,17 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.74,
+      "currentPrice": 4.72,
       "weekAgoPrice": 4.75,
-      "percentChange": -0.21,
+      "percentChange": -0.63,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.31,
+      "currentPrice": 7.26,
       "weekAgoPrice": 7.329999923706055,
-      "percentChange": -0.27,
+      "percentChange": -0.95,
       "flagged": false,
       "news": []
     },
@@ -58,25 +58,25 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.43,
+      "currentPrice": 1.44,
       "weekAgoPrice": 1.4199999570846558,
-      "percentChange": 0.7,
+      "percentChange": 1.41,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.34,
+      "currentPrice": 1.33,
       "weekAgoPrice": 1.3799999952316284,
-      "percentChange": -2.9,
+      "percentChange": -3.62,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.18,
+      "currentPrice": 1.16,
       "weekAgoPrice": 1.2000000476837158,
-      "percentChange": -1.67,
+      "percentChange": -3.33,
       "flagged": false,
       "news": []
     },
@@ -90,17 +90,17 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.28,
+      "currentPrice": 1.29,
       "weekAgoPrice": 1.2599999904632568,
-      "percentChange": 1.59,
+      "percentChange": 2.38,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.68,
-      "weekAgoPrice": 0.6899999976158142,
-      "percentChange": -1.45,
+      "currentPrice": 0.675,
+      "weekAgoPrice": 0.6949999928474426,
+      "percentChange": -2.88,
       "flagged": false,
       "news": []
     }
