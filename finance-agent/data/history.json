@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-19T04:16:02.203524Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 214.13,
-        "weekAgoPrice": 229.27999877929688,
-        "percentChange": -6.61,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA And 2 Growth Stocks To Watch - Simply Wall Street",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRlVUZXg5QmU0NGdsRFg1cFJUbGt6R1A3RlNVOGZjR2NWVUdYX0x1TmY4d291YlJkbUlXRVNWMmw2aGRQMTlJY0dYN2Z6MWFuOFY5MGlFcjhHV3JwVHQ0WEk3WUs1YTN4QS1sVUJGakpFWUdzWTBveFc0a0RtVWZ5UVo1ZElvWEZTVlFHMFRvUUJkd0Qzd1Q3RjJkV0g1UEpHckxuMFBUd1FaZ9IBrwFBVV95cUxOdzlydWp1ckd2MUZmaHBRYnlkX2xrMEFwWTBKWnNNWVZwQWYzTDY2WFRRdnZBQjVuNzZCV2dEVUk1TmdVYUhFcWlPU0JkTXdXRzItN1dUdF9fRVVqOUt3Qkw1d2I0UXpqZnJCMXQwRnRLcHlrcDFGX3pPeEtuQXIwT05nZm9NR1JPYkdrV1RKdzJlampfVk5lM0RHYlRSLWV4ellqM3RhMEI3TTVjT3lV?oc=5"
-          },
-          {
-            "title": "Here\u2019s What a $10,000 Investment in Nvidia Stock Will Be Worth by 2030 - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVFVLRG1RZzM3T05RR3kzc0lXamo1bHRVampXaDdpRHAxX21qN0c3QnhwMFMyR2pWZFRTUEJYTUM0cmluaS1QRm5hN0tkbHl5VFVuNUxLT0Nhalh4MGRMVF9iNFpUOGNkb2h3NHB2N0h4RVR3MHZqSTZNdFgyaFlzdTFQdkg2QTMxNkpsSFdReU5HcnR4RWZzbE9TNmdJWkQwSHppcUNRcDNRdFZqb0djU2hCdk5RZw?oc=5"
-          },
-          {
-            "title": "The Bond Market Is Sending a Warning to Nvidia Shareholders - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQVlEVEZfWURvVTk2Vzk0RjJ0OTNKU3hTOXBndlRsUDBoUGZnR2NidnVPaDFmZzQ2VEJPSjJZU0R1dGFhMktjcV82bHdLSHNFNC1nU2xNN0V6bEVPSkMySTduZFlCbTZKN3VlSDEtTE9kX0ZxVDU5QWlWVk5manBfUFZBUElJd1Izbk5zSHVrZm1Id3cyRUVEM2xreXZrODhCQk1IWFZvd3A1THBFNnUtOWtTYUZENWJic29rQjNhSUNhb3pBUVdJSkJkWWVnU0xFU3lvM0R6eWtfSWdwMXdv?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.190000057220459,
-        "percentChange": 6.72,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-19T04:20:29.431544Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1438,6 +1403,49 @@
         "currentPrice": 0.23,
         "weekAgoPrice": 0.20999999344348907,
         "percentChange": 9.52,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-21T01:26:52.658628Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 216.47,
+        "weekAgoPrice": 228.52000427246094,
+        "percentChange": -5.27,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Why AI Chip Stocks Nvidia, Broadcom, and Micron Climb After Hours \u2014 and What Wall Street Sees Next - TipRanks",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUt4dWVaOGwyRzZ1Tms5SXRGaWdGbDFza29nNlJyMUFiTzE1aFJ0MkxGNGthbkdPZVpRNS1iTmlraVRVMDVVRVhac19rcDUweEEwV291WDJDaVFzSGRtVGxWY09HVTMyMTIwNlI4bl9IbzJBcmVWSG80aUVlcHJZbFdJYzN1WVBnLVllSmdHa1R0UE9tVWtiMnZ0a043V2wzaVBwLUZrN2Y1eVhTR0NNVXhpYmVaa3NQS2VRTXdtd2pBdw?oc=5"
+          },
+          {
+            "title": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXQxem5wYy1SbzVLODlWTXROU0FVd0Y0TERrVGtxVHczLVcwMmF0OGNrWE0wcUVGNnlmMkptbFg4U2xDbmoyM2tpS1dTTGs0S25WZXJSRkJPVzlXRzJQOUVhY0JIRXp3UElsQVlQd0h3SEg5bXJhYU9oV2ZxZ3lhVWx5RFl4cDF5QkdJclI3WU5oTUVsUS0yQnNuVU9wbmRTaWpzTllRZ1Nla0pzWXBMb3UtbzFnbFFp?oc=5"
+          },
+          {
+            "title": "3 Stocks That Can Benefit From SpaceX\u2019s Surprise Q3 Earnings - BeInCrypto",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QNW9ka1FySTV4eFA2RGFxbHF1TWlkNlptSTROYnJIZUNXYjJ1WFphZjlscE9Ka0FkZHNVTzZicHlKZTJNeXowdzZyb1I2TlpkU3F2bnA5UXloVG1oVUZQbGEyUWlwQkZWZDRpRG8zLUJfZw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.2599999904632568,
+        "percentChange": -5.56,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.2150000035762787,
+        "percentChange": 6.98,
         "flagged": true,
         "news": []
       }
