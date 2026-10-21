@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T06:27:14.880829Z",
+  "generatedAt": "2026-10-21T07:19:53.430612Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -23,12 +23,12 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYThvN1pldjdVZkw3SGFTNFdmNUlrRVdTbDJsZHNyQm9SMlpBVTUwdWJFa2JfQ19yLU9nQU5oSENsVVRnX3NhcW50RkN2ZFN6VmZvTkN5SllCcUUwV3NjRFNmeWF0TFIwQ3J1Q3g4WUZfRXFGcjg4UEhOV1QyczZ4bE9kRzZtaEM2THBkVmVDeXZZWlJ1T1FUcUFqcV9Uc0VQcUw3dUY0NEpSeWp4Sk1B?oc=5"
         },
         {
-          "title": "Nvidia in talks to invest in Firmus Grid after scrapped IPO- The Information By Investing.com - Investing.com South Africa",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFNGVXVTTTlTZkYwRDQ4cVZKZjc3TFNzbV80Zk05UG9WclJjbW4zTHdXZ0lKcC1LRGl4Nkk5bVExbHZvelRpanQwQTVILUItbXEzemlOTFktb2hydDdkNGhMV24wbjVQS3RwU0VuSnhjXzljVF95VGctSWVmMmFhWVdOSkRPSnlxX0hxS1g5SlRDNktuSFU4TVhKOEV4SXZIRnd2cnZMenFidEN3dGRZOTV0YWp0djNWd1N5OHRrbXEwTl9ubXFNRGRNNA?oc=5"
+          "title": "Why AI Chip Stocks Nvidia, Broadcom, and Micron Climb After Hours \u2014 and What Wall Street Sees Next - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUt4dWVaOGwyRzZ1Tms5SXRGaWdGbDFza29nNlJyMUFiTzE1aFJ0MkxGNGthbkdPZVpRNS1iTmlraVRVMDVVRVhac19rcDUweEEwV291WDJDaVFzSGRtVGxWY09HVTMyMTIwNlI4bl9IbzJBcmVWSG80aUVlcHJZbFdJYzN1WVBnLVllSmdHa1R0UE9tVWtiMnZ0a043V2wzaVBwLUZrN2Y1eVhTR0NNVXhpYmVaa3NQS2VRTXdtd2pBdw?oc=5"
         },
         {
-          "title": "Nvidia Stock Pulls Back Over 9%, and Over 3 Million Chip Orders From Chinese Customers Could Be a Positive Catalyst - NAI500",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcXVhM1E4YV90NEVaazhlNFZHRkVhZXpMeC1NTkV0ZXlqTk41VTNOckFodEt2aVA1bl9VVnk1WWQzYWVCZkhZZkdBa1dOT2RWVEFXTmJkZG5vbDRWNFVFVTBSQ3VScGhqV2RRZXR0eVNPM0dsazNmZ0JlTUlHTWxYazlSbVpveVRWbEgyaE96UXFESDhxRFo1bW45SFVNNWNtREFSZk1mNnIzem43V2tZOUZ5Rjd4Q2NsWXZSZ0lWMXFLVEw4U01GaTJ4NDhqZUNULV9GU3dkU3Bxc2E1NGU0?oc=5"
+          "title": "Nvidia in talks to invest in Firmus Grid after scrapped IPO- The Information By Investing.com - Investing.com South Africa",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFNGVXVTTTlTZkYwRDQ4cVZKZjc3TFNzbV80Zk05UG9WclJjbW4zTHdXZ0lKcC1LRGl4Nkk5bVExbHZvelRpanQwQTVILUItbXEzemlOTFktb2hydDdkNGhMV24wbjVQS3RwU0VuSnhjXzljVF95VGctSWVmMmFhWVdOSkRPSnlxX0hxS1g5SlRDNktuSFU4TVhKOEV4SXZIRnd2cnZMenFidEN3dGRZOTV0YWp0djNWd1N5OHRrbXEwTl9ubXFNRGRNNA?oc=5"
         }
       ]
     },
@@ -50,9 +50,9 @@
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.19,
+      "currentPrice": 1.18,
       "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -5.56,
+      "percentChange": -6.35,
       "flagged": true,
       "news": []
     },
@@ -90,17 +90,17 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.3,
       "weekAgoPrice": 1.2599999904632568,
-      "percentChange": 2.38,
+      "percentChange": 3.17,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.675,
+      "currentPrice": 0.68,
       "weekAgoPrice": 0.6949999928474426,
-      "percentChange": -2.88,
+      "percentChange": -2.16,
       "flagged": false,
       "news": []
     }
