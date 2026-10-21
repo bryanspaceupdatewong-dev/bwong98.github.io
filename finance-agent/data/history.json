@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-19T02:16:21.865345Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 214.13,
-        "weekAgoPrice": 229.27999877929688,
-        "percentChange": -6.61,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.190000057220459,
-        "percentChange": 6.72,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-19T03:16:44.457019Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1446,6 +1424,28 @@
           }
         ]
       },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.20999999344348907,
+        "percentChange": 9.52,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.2000000476837158,
+        "percentChange": 5.83,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-21T00:16:29.823525Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
       {
         "ticker": "0397.KL",
         "currentPrice": 0.23,
