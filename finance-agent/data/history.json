@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-19T12:26:16.350392Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 214.13,
-        "weekAgoPrice": 229.27999877929688,
-        "percentChange": -6.61,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia-Backed Nscale's IPO Faces Valuation Pushback as AI Infrastructure Stocks Slide - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemNEMGxkMWhVWGVTaFVkNkJRQjVjMXpQRlIteE1kUWlkTnlKb0pyWDVoYWtNSWE5Zzc5aXBQMjljWnN6WjdfSzdJcElmQ2NhcTR2X0dUdWVwenlrbkcxVVVnQ0x1bExFRlhtVWlPcXI2SlNHd09xQ09LbThLM0JqV00zVU4xZElZTkw1eDZLc041OHFmLVQzQmV2VXZzQTlvRnlVSVQ4ZFZ1aWJnekNMaVRvNUpfN1QyaEpQdW9aS0g3R0NzaWFDMVJ1dnlJTVlxZTJaQ0VRRzYtUW9RcWc?oc=5"
-          },
-          {
-            "title": "Nvidia Stocks Rebound With $108 Billion Revenue Target Ahead - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkdxZUJzM2tzRmJtOEJlbDdZbjF1Z2MyOVlxNTVBWVlxMndSQkY1cHBsSVFvM0NfTkQ0d0F0blp3OEdLNnI2dHpldU1WZ1V3RmZOM0pBN0RkRFY4M1FzYWRVeTF6OUxobGctYkJvX1Z0X0dwVy1ZbUt5X2tMcnpOTEU1T2EzTWpQTGxlUTB5TkNkc0VwX0RURU4yREdKREtjZmlibzhrd08wWGRvRWJvM2xSWkZvekdmVFZB?oc=5"
-          },
-          {
-            "title": "Nvidia (NASDAQ:NVDA) Reportedly Brings Samsung and TSMC Together for Next-Gen AI Chips - Stocks Down Under",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlWDRCeHBRM3RrWUNhWlBpYWFpUEpkOGxiUTdfM1BsUlhiNUpqdEptT1I0NTY0T2gzUmtSY0lJQ3cyc3ljQV9rQ1p1TWw5R1R2YXpGOUozRWpNQlhzZnJ3bU5pYmxaMGZEVTdQcEV5VW84WkFRVmJj?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.190000057220459,
-        "percentChange": 7.56,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-19T13:22:02.229075Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1502,6 +1467,49 @@
           {
             "title": "William John Sempolinski Buys 251,777 Shares of NVIDIA Corporation $NVDA - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnBQbUt3NWtyRFFpNUlKbUxubUY5cEFIc1BNcmt3UjRwN29iSTJ6eC1SaS1OQ0FKSjFqR3o0NlR0Y2xCN3BHdmwwb3ZqR0xxVVFMQ3c2aF92RW4xejNIN1NiaEJyZVhuV0RQVUJhNTN3NjViMnNNOHJralZNZ0tnS0JoVDJPd3lybWxHZG1tQmk5eVl5OUxqUURiQnVsVVBXbGdLeW9qX29LYUc5dXRkbU4tR2tHZVFRTVRiVTJ1U0JHUmd6UmRPc1ZsRQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.19,
+        "weekAgoPrice": 1.2599999904632568,
+        "percentChange": -5.56,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.245,
+        "weekAgoPrice": 0.2150000035762787,
+        "percentChange": 13.95,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-21T10:16:56.641793Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 216.47,
+        "weekAgoPrice": 228.52000427246094,
+        "percentChange": -5.27,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA Launches DSX Platform to Empower European AI Factories - Intellectia AI",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzBVTy1zTzJqeUhFV0lIZXkxMFFVaVF3SlVueUo3VTNmMWJfZldiWW9FckYzWWNIZzdkS1FhZnR5WFF2RURfSDdlR0RDQTk5aDVnYWVMZVI1TkEyb1NjYmc2ZjF0dlZ4b0dud2tacUpVWFctUDVOT2tJLTI5SlNPSU9tWHNNWDh4Y29vbFRkcXNYZVZUVWF1TWNwZw?oc=5"
+          },
+          {
+            "title": "NVIDIA says Vera Rubin systems handle 30 times more AI work per unit of power. - Stock Titan",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZDhCUXBVRnVIUXF6YllZSU5EcVJjUjJ2dkl1VGlySVU5RE43d2xaeGxxeTZ0S1JBanFlREFXNTNYUXcwRjhhQ2FLQ3pWbjRCR0NHT0wzS3U5bkhRamdqSFlpczJpdjNEaEl4M3hqSlgyVXBQT3lnbFdlZ0hHVXFFclcyX3VxWWtzNGRnd3BDZFdrYllJRF9iTjByY09CR0dMM3B0bXJXMElVbXUyel9pbXVxSG12VHM?oc=5"
+          },
+          {
+            "title": "NVIDIA's AI systems arrive tested in containers, ready to connect at prepared sites. - Stock Titan",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWi1OaXhRN18xUkRDUG1zUzhqcnBpbHhpSmJLVEZ6V0o3ZmI4WFhza2lxemtZcUpCZExtQVVpWWNYcEVzaG9tcjlLLWtfTjBTM19KQkFRcmVQNV9CUHc5dGVVSTl0bVFiclA2TnF5Uk1KUHBNSmdnbTNhSmhHU002eEV0U0Q5ZHhWSDlYWGFHOTI2MmZxY2FHWG82bW8tQUtJQU9aeDQxS21mS2kySW40QVQ4el9KRzA?oc=5"
           }
         ]
       },
