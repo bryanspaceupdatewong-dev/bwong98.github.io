@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:21:11.784575Z",
+  "generatedAt": "2026-10-21T12:14:53.886394Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -17,7 +17,20 @@
       "weekAgoPrice": 228.52000427246094,
       "percentChange": -5.27,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "The AI Buildout Is Only 15% Complete\u2014Here Is Where the Next Dollar Actually Goes - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFRtN0hJZnJjTHZmUndpNFBobFNfdUdJOTRQUGI3a3VGbFYtcTlaYjJ1TEM3Qk1BWndUal83Wjd0SUxGYUhOVWo1elM0WVRPdDEzRjF2Sm93OVYxV3JsQTI3VUIxb2ZUVXU0V2R1MTVQTUFCSzVraHJGYlFCZXJmZm8wMHR6RGxlcTRxVzVveklkV29RTEUyS1oyc1JqN3pvZndET2JCV09FTFBQYVNBS2FQQ3hhUQ?oc=5"
+        },
+        {
+          "title": "Amkor Technology stock jumps on Nvidia advanced packaging expansion - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaC1yLUtNT0paaEhXVnp1ZXRIMWxGUTVuNUxuckJmNlBsc2gwekl4Mkhid3BQaDg1MzhSS2JaWXRxNlo4WElJVXdKTTctbWx3MmlOOW9NelhMWkQ0cnJCbzI2R25ZSEVycE55Z01jSzAwYk1tV3hjaC0zZ1Bsd3l0VUpSanZTTjQtNkd0MA?oc=5"
+        },
+        {
+          "title": "Nvidia Stock Jumps Over 2% Amid Flurry of AI Boosts at GTC Berlin: Will It Return to All-Time High of $243? - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVNUOXpQQnRsQ2JPeEdaSzJnVGhMQ3BORmtPeFZDaTl0Z2VLVGNsel9xLWpUd2xNMzdteTI5V3QtNmNnN1pYRHZTT0tLRVUzeGtOZlpMMG9FcEN4MGl2SlZPUWY1MTdyZjZTLU9wVjV1OWRPOUxMM194elpsUFRRdENBSGVHTU05MnVRREg4WHJDaEk4aF8tX0IxOF96cm8?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
