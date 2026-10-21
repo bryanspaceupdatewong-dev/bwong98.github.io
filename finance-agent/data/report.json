@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T04:16:36.017296Z",
+  "generatedAt": "2026-10-21T05:17:04.094949Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia in talks to invest in Firmus Grid after scrapped IPO- The Information By Investing.com - Investing.com South Africa",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFNGVXVTTTlTZkYwRDQ4cVZKZjc3TFNzbV80Zk05UG9WclJjbW4zTHdXZ0lKcC1LRGl4Nkk5bVExbHZvelRpanQwQTVILUItbXEzemlOTFktb2hydDdkNGhMV24wbjVQS3RwU0VuSnhjXzljVF95VGctSWVmMmFhWVdOSkRPSnlxX0hxS1g5SlRDNktuSFU4TVhKOEV4SXZIRnd2cnZMenFidEN3dGRZOTV0YWp0djNWd1N5OHRrbXEwTl9ubXFNRGRNNA?oc=5"
+        },
+        {
           "title": "Nvidia Stock Pulls Back Over 9%, and Over 3 Million Chip Orders From Chinese Customers Could Be a Positive Catalyst - NAI500",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcXVhM1E4YV90NEVaazhlNFZHRkVhZXpMeC1NTkV0ZXlqTk41VTNOckFodEt2aVA1bl9VVnk1WWQzYWVCZkhZZkdBa1dOT2RWVEFXTmJkZG5vbDRWNFVFVTBSQ3VScGhqV2RRZXR0eVNPM0dsazNmZ0JlTUlHTWxYazlSbVpveVRWbEgyaE96UXFESDhxRFo1bW45SFVNNWNtREFSZk1mNnIzem43V2tZOUZ5Rjd4Q2NsWXZSZ0lWMXFLVEw4U01GaTJ4NDhqZUNULV9GU3dkU3Bxc2E1NGU0?oc=5"
         },
         {
           "title": "CRWV, NBIS, NVDA Jump Overnight: Musk Says SpaceX Could Rent Compute \u2018Several Times Over,\u2019 Analyst Dismisses Glut Fears - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1g4OTRqNkZDNFMtby1yTmJ2WVVEcGxjTkM1eE1fekJwNkhTNnlMVVVYRm8yVWdnajJGSDBrTDExVW04cURoSHJvMjhURnpkVzFkaDk2MkY3d211U3dLUVFNYXkwdXBmLTJHbzhEYWNhMXVoM3hiYUd0WUNNdnN5bThtcUpJekppYnBCaFlFdlNFMk9haWlZS0Vn?oc=5"
-        },
-        {
-          "title": "Nvidia in talks to invest hundreds of millions in Firmus after AI cloud firm\u2019s IPO flop - investingLive",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVFk0OWlKS0xSM1pHc2stcTJpNDBub1BNekZOc200cklkYUtheEFYSmxvS0V6MVo0WGxaT1pRQUJ1Ukg0OGZZS2E2Rm1XUDJMb080dW5FbXczdGZ5U19oa3ZUMkF0OW4xN01lV2NobHI2MXd4VkRzMkVqUUpyMHpMcDgxaXRiaDlKMDFuenhlUllBSnJKdlJHbmZ5WHVVWWlZNVVEX1BPakdsT0lxR2VQbG1JOXhRSDA2S1VvbVVB?oc=5"
         }
       ]
     },
@@ -42,17 +42,17 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.3,
+      "currentPrice": 7.31,
       "weekAgoPrice": 7.329999923706055,
-      "percentChange": -0.41,
+      "percentChange": -0.27,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.18,
+      "currentPrice": 1.19,
       "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -6.35,
+      "percentChange": -5.56,
       "flagged": true,
       "news": []
     },
