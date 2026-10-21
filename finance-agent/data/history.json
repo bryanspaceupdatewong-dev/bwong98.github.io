@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-19T06:21:42.389190Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 214.13,
-        "weekAgoPrice": 229.27999877929688,
-        "percentChange": -6.61,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA And 2 Growth Stocks To Watch - Simply Wall Street",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRlVUZXg5QmU0NGdsRFg1cFJUbGt6R1A3RlNVOGZjR2NWVUdYX0x1TmY4d291YlJkbUlXRVNWMmw2aGRQMTlJY0dYN2Z6MWFuOFY5MGlFcjhHV3JwVHQ0WEk3WUs1YTN4QS1sVUJGakpFWUdzWTBveFc0a0RtVWZ5UVo1ZElvWEZTVlFHMFRvUUJkd0Qzd1Q3RjJkV0g1UEpHckxuMFBUd1FaZ9IBrwFBVV95cUxOdzlydWp1ckd2MUZmaHBRYnlkX2xrMEFwWTBKWnNNWVZwQWYzTDY2WFRRdnZBQjVuNzZCV2dEVUk1TmdVYUhFcWlPU0JkTXdXRzItN1dUdF9fRVVqOUt3Qkw1d2I0UXpqZnJCMXQwRnRLcHlrcDFGX3pPeEtuQXIwT05nZm9NR1JPYkdrV1RKdzJlampfVk5lM0RHYlRSLWV4ellqM3RhMEI3TTVjT3lV?oc=5"
-          },
-          {
-            "title": "Nvidia or Broadcom: One AI Stock Is a Buy on Weakness, the Other Needs to Drop Further, Says Top Investor - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYldSOGtnZzV6OXhlOVdQTjBKVEhnNko4aEVtXzBndHNyLWZVZ3kyWXRBWHh1TVhRVTkyOVczRGxIM3FUQWM4eC1CTnlxWkZkdThrdGdEcUxtTmI4ckRYYlZsUFZxbEZlT3NYcGxfSGswRTFWQTRHbDNLeEVKRHl4VHVZNXhUaWc2Zmd2MG9VWVRoWG95TjlJbWJ6anV4cVlhV2tCQ1g4cTJvMDdBdVdndEFzeE9Od2VpanQweHFtRlU1d0diX2tLTTRTOVE?oc=5"
-          },
-          {
-            "title": "This Is AMD's Biggest Hurdle in an AI Sell-Off (and No, It's Not Nvidia) - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc0N6RTI2aTBCdTFjaW9NeG9JUEJzLTlUb0JkOEVJYmRyU3NRRDk2MEhONjdjWU5mWDJ6Umd5eVZvVFQ3cENSc2R0dzc1MzZXMnlJQnVTZy1HLTBQeDYyc0U2MTNRbk5RU1pFRUxvcWVZZzlkZFRkczBMYnFiVDVfX3VCY2xDZnZuRVAteEhmUFNjcDBuc1hZ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.190000057220459,
-        "percentChange": 6.72,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-19T07:22:49.706062Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1462,6 +1427,49 @@
         "currentPrice": 0.24,
         "weekAgoPrice": 0.2150000035762787,
         "percentChange": 11.63,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-21T04:16:36.017296Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 216.47,
+        "weekAgoPrice": 228.52000427246094,
+        "percentChange": -5.27,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stock Pulls Back Over 9%, and Over 3 Million Chip Orders From Chinese Customers Could Be a Positive Catalyst - NAI500",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcXVhM1E4YV90NEVaazhlNFZHRkVhZXpMeC1NTkV0ZXlqTk41VTNOckFodEt2aVA1bl9VVnk1WWQzYWVCZkhZZkdBa1dOT2RWVEFXTmJkZG5vbDRWNFVFVTBSQ3VScGhqV2RRZXR0eVNPM0dsazNmZ0JlTUlHTWxYazlSbVpveVRWbEgyaE96UXFESDhxRFo1bW45SFVNNWNtREFSZk1mNnIzem43V2tZOUZ5Rjd4Q2NsWXZSZ0lWMXFLVEw4U01GaTJ4NDhqZUNULV9GU3dkU3Bxc2E1NGU0?oc=5"
+          },
+          {
+            "title": "CRWV, NBIS, NVDA Jump Overnight: Musk Says SpaceX Could Rent Compute \u2018Several Times Over,\u2019 Analyst Dismisses Glut Fears - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1g4OTRqNkZDNFMtby1yTmJ2WVVEcGxjTkM1eE1fekJwNkhTNnlMVVVYRm8yVWdnajJGSDBrTDExVW04cURoSHJvMjhURnpkVzFkaDk2MkY3d211U3dLUVFNYXkwdXBmLTJHbzhEYWNhMXVoM3hiYUd0WUNNdnN5bThtcUpJekppYnBCaFlFdlNFMk9haWlZS0Vn?oc=5"
+          },
+          {
+            "title": "Nvidia in talks to invest hundreds of millions in Firmus after AI cloud firm\u2019s IPO flop - investingLive",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVFk0OWlKS0xSM1pHc2stcTJpNDBub1BNekZOc200cklkYUtheEFYSmxvS0V6MVo0WGxaT1pRQUJ1Ukg0OGZZS2E2Rm1XUDJMb080dW5FbXczdGZ5U19oa3ZUMkF0OW4xN01lV2NobHI2MXd4VkRzMkVqUUpyMHpMcDgxaXRiaDlKMDFuenhlUllBSnJKdlJHbmZ5WHVVWWlZNVVEX1BPakdsT0lxR2VQbG1JOXhRSDA2S1VvbVVB?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.18,
+        "weekAgoPrice": 1.2599999904632568,
+        "percentChange": -6.35,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.245,
+        "weekAgoPrice": 0.2150000035762787,
+        "percentChange": 13.95,
         "flagged": true,
         "news": []
       }
