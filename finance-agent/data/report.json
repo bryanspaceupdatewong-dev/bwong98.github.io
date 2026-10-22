@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-22T13:22:50.326024Z",
+  "generatedAt": "2026-10-22T14:22:59.713436Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 532.95,
-      "weekAgoPrice": 533.6900024414062,
-      "percentChange": -0.14,
+      "currentPrice": 523.595,
+      "weekAgoPrice": 539.4400024414062,
+      "percentChange": -2.94,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 221.97,
-      "weekAgoPrice": 221.3000030517578,
-      "percentChange": 0.3,
+      "currentPrice": 215.49,
+      "weekAgoPrice": 217.22999572753906,
+      "percentChange": -0.8,
       "flagged": false,
       "news": []
     },
@@ -49,12 +49,7 @@
       "weekAgoPrice": 1.4500000476837158,
       "percentChange": -6.9,
       "flagged": true,
-      "news": [
-        {
-          "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5271.KL",
