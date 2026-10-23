@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-21T10:16:56.641793Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 216.47,
-        "weekAgoPrice": 228.52000427246094,
-        "percentChange": -5.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA Launches DSX Platform to Empower European AI Factories - Intellectia AI",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzBVTy1zTzJqeUhFV0lIZXkxMFFVaVF3SlVueUo3VTNmMWJfZldiWW9FckYzWWNIZzdkS1FhZnR5WFF2RURfSDdlR0RDQTk5aDVnYWVMZVI1TkEyb1NjYmc2ZjF0dlZ4b0dud2tacUpVWFctUDVOT2tJLTI5SlNPSU9tWHNNWDh4Y29vbFRkcXNYZVZUVWF1TWNwZw?oc=5"
-          },
-          {
-            "title": "NVIDIA says Vera Rubin systems handle 30 times more AI work per unit of power. - Stock Titan",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZDhCUXBVRnVIUXF6YllZSU5EcVJjUjJ2dkl1VGlySVU5RE43d2xaeGxxeTZ0S1JBanFlREFXNTNYUXcwRjhhQ2FLQ3pWbjRCR0NHT0wzS3U5bkhRamdqSFlpczJpdjNEaEl4M3hqSlgyVXBQT3lnbFdlZ0hHVXFFclcyX3VxWWtzNGRnd3BDZFdrYllJRF9iTjByY09CR0dMM3B0bXJXMElVbXUyel9pbXVxSG12VHM?oc=5"
-          },
-          {
-            "title": "NVIDIA's AI systems arrive tested in containers, ready to connect at prepared sites. - Stock Titan",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWi1OaXhRN18xUkRDUG1zUzhqcnBpbHhpSmJLVEZ6V0o3ZmI4WFhza2lxemtZcUpCZExtQVVpWWNYcEVzaG9tcjlLLWtfTjBTM19KQkFRcmVQNV9CUHc5dGVVSTl0bVFiclA2TnF5Uk1KUHBNSmdnbTNhSmhHU002eEV0U0Q5ZHhWSDlYWGFHOTI2MmZxY2FHWG82bW8tQUtJQU9aeDQxS21mS2kySW40QVQ4el9KRzA?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.2599999904632568,
-        "percentChange": -5.56,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.245,
-        "weekAgoPrice": 0.2150000035762787,
-        "percentChange": 13.95,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-21T11:21:11.784575Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1400,6 +1357,49 @@
   },
   {
     "generatedAt": "2026-10-23T05:17:24.595301Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.2699999809265137,
+        "percentChange": -11.81,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -5.52,
+        "flagged": true,
+        "news": [
+          {
+            "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.16,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -5.69,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.24,
+        "weekAgoPrice": 0.2150000035762787,
+        "percentChange": 11.63,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-23T06:21:03.457416Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
