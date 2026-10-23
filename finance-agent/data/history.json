@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-21T07:19:53.430612Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 216.47,
-        "weekAgoPrice": 228.52000427246094,
-        "percentChange": -5.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Should You Pick NVIDIA Stock Over Its Competitors? - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYThvN1pldjdVZkw3SGFTNFdmNUlrRVdTbDJsZHNyQm9SMlpBVTUwdWJFa2JfQ19yLU9nQU5oSENsVVRnX3NhcW50RkN2ZFN6VmZvTkN5SllCcUUwV3NjRFNmeWF0TFIwQ3J1Q3g4WUZfRXFGcjg4UEhOV1QyczZ4bE9kRzZtaEM2THBkVmVDeXZZWlJ1T1FUcUFqcV9Uc0VQcUw3dUY0NEpSeWp4Sk1B?oc=5"
-          },
-          {
-            "title": "Why AI Chip Stocks Nvidia, Broadcom, and Micron Climb After Hours \u2014 and What Wall Street Sees Next - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUt4dWVaOGwyRzZ1Tms5SXRGaWdGbDFza29nNlJyMUFiTzE1aFJ0MkxGNGthbkdPZVpRNS1iTmlraVRVMDVVRVhac19rcDUweEEwV291WDJDaVFzSGRtVGxWY09HVTMyMTIwNlI4bl9IbzJBcmVWSG80aUVlcHJZbFdJYzN1WVBnLVllSmdHa1R0UE9tVWtiMnZ0a043V2wzaVBwLUZrN2Y1eVhTR0NNVXhpYmVaa3NQS2VRTXdtd2pBdw?oc=5"
-          },
-          {
-            "title": "Nvidia in talks to invest in Firmus Grid after scrapped IPO- The Information By Investing.com - Investing.com South Africa",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFNGVXVTTTlTZkYwRDQ4cVZKZjc3TFNzbV80Zk05UG9WclJjbW4zTHdXZ0lKcC1LRGl4Nkk5bVExbHZvelRpanQwQTVILUItbXEzemlOTFktb2hydDdkNGhMV24wbjVQS3RwU0VuSnhjXzljVF95VGctSWVmMmFhWVdOSkRPSnlxX0hxS1g5SlRDNktuSFU4TVhKOEV4SXZIRnd2cnZMenFidEN3dGRZOTV0YWp0djNWd1N5OHRrbXEwTl9ubXFNRGRNNA?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.18,
-        "weekAgoPrice": 1.2599999904632568,
-        "percentChange": -6.35,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.245,
-        "weekAgoPrice": 0.2150000035762787,
-        "percentChange": 13.95,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-21T08:16:36.923259Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1436,6 +1393,49 @@
         "currentPrice": 0.235,
         "weekAgoPrice": 0.2150000035762787,
         "percentChange": 9.3,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-23T03:16:42.000042Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.11,
+        "weekAgoPrice": 1.2699999809265137,
+        "percentChange": -12.6,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.35,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -6.9,
+        "flagged": true,
+        "news": [
+          {
+            "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.15,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -6.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.24,
+        "weekAgoPrice": 0.2150000035762787,
+        "percentChange": 11.63,
         "flagged": true,
         "news": []
       }
