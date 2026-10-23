@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-21T08:16:36.923259Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 216.47,
-        "weekAgoPrice": 228.52000427246094,
-        "percentChange": -5.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Micron and Nvidia Are the 2 Biggest Drivers of S&P 500 Earnings Growth. Are Their Stocks Buys? - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjE1aTB6enNNS2JvTldTbTQ5U0RkRVdnempjbHpZaWRCbFdNRkZWd1FGc2JUUGZBdWpfS09JdEJkTmZYTExKOEdGVEF2anRIQUdVYlRnSGNmaV91S0k3M0JXOHVNV2ZEMEs2VGVONmk3dXpkSjdjU3RpRkZtdlN0UU1OcmI5Ykk4YU8tWXBlU2pjRTlDNlZJY2RpTTd3cWR2LTFtNWItRUZLeFZ4a0hNYm1jTkY1ZUJPWDhTMVlxRkQ3VGpCT1k4U2xGVEJFQjgtTFpjdlp3?oc=5"
-          },
-          {
-            "title": "Market Chatter: Nvidia in Talks to Financially Back Firmus, After Stalled IPO - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObmhWQ185dlRObW52cXF3WUNNbE84VWROTThycUt3RVlKbFpvM180UHE3RzZjcVhtNHlHUW5LTUZWRzc5VFVYZGVxNTUxbkJ1OXFpNTN3N1JPdVBzMmZTOGxzYV9KdFZsWVNmWXFOV1ItcGVzcmFuSXhzUkIzVTVhZkFPT09sZjA1eTZObVd6MnFMQWtWLVhkZ0N1MGtEZlZlV1FUc2VNRQ?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Stock: Angeles Wealth Management LLC Grows Stake - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWDFBODhfS3AtTldfcG1aR24zTkx4c3MteloyZUZIdGVYbkhldV9TWXVJQ2Jtd0QtSkd2TU5VTWhncm1KSFE5R2tyUUdYM0NyY1JpOWd6U3BUdUJVbm00ZTRNSnlwNVVKSE5ONjhqSG84SHJGYTM1Y2FTZURycFV3czhXT0Z5SDFvUloxaTFMSm52eGlZdFVuYTFBS2Jhc0ZOYVg3djlZMkxqMm5CdjNhS0RDanZRdHlnMjlwT251SGpweWd6VXFhd1F5MTE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.18,
-        "weekAgoPrice": 1.2599999904632568,
-        "percentChange": -6.35,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.245,
-        "weekAgoPrice": 0.2150000035762787,
-        "percentChange": 13.95,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-21T09:16:07.329004Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1415,6 +1372,49 @@
         "currentPrice": 1.35,
         "weekAgoPrice": 1.4500000476837158,
         "percentChange": -6.9,
+        "flagged": true,
+        "news": [
+          {
+            "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.15,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -6.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.24,
+        "weekAgoPrice": 0.2150000035762787,
+        "percentChange": 11.63,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-23T04:16:50.141615Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.2699999809265137,
+        "percentChange": -11.81,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -5.52,
         "flagged": true,
         "news": [
           {
