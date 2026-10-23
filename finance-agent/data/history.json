@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-21T09:16:07.329004Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 216.47,
-        "weekAgoPrice": 228.52000427246094,
-        "percentChange": -5.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "16,330 Shares in NVIDIA Corporation $NVDA Bought by Tenet Wealth Partners LLC - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdXZ3R2JEVExQZFlsRXpFaVV5MFFoV0p4TGE1NTctTHVJbVFhX0dXLUUxdzZPZzdlNU5WaXA1R1VxakxMdFl1Z09OVlctemhia1YtdF8xNEJoOVMtS0tGaFdJZ0F4dWVsMWxsWWxmLUxtY1BLbE1oOVRGZVBXLUQwWW4wUFBGeFcyZ1cwaGMwRTQxWVFldU9Gbl93RURueVR4OWdYQWY3RkpDUkxkX0RzekpydURxM1lkTkhBT1p0bjZNWE1CZnBmYzU3Mm5FcDBTQUE?oc=5"
-          },
-          {
-            "title": "11,311 Shares of NVIDIA Corporation $NVDA Acquired by Rose Capital Advisors LLC - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNVFlVGJnTEJCZEpWbEdkQnhmVEo3azRscktsdmtOek9lMXpzLTktYmtmNXVJWnN6ZEtTMVY1ajBTNmp3ZnU0WVdMd3I3UDQtLW9xS3RkWG83U2FaZ1dIZktvWUwwR3p6MVpnSVFIakJ0Znp2X0Nsd2daX29Pa2wwZHpPTTRQUWtaN3Z5YXZRb2RXbklyYnk1TTh4dXlvXzJ5WHJ4M0FhZ0JJZ1FXRk9vdnJNMXVRQk1HUGZhUXdRZEZDT1RHdUNScTczcTNsSEFZSjRGcA?oc=5"
-          },
-          {
-            "title": "William John Sempolinski Buys 251,777 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnBQbUt3NWtyRFFpNUlKbUxubUY5cEFIc1BNcmt3UjRwN29iSTJ6eC1SaS1OQ0FKSjFqR3o0NlR0Y2xCN3BHdmwwb3ZqR0xxVVFMQ3c2aF92RW4xejNIN1NiaEJyZVhuV0RQVUJhNTN3NjViMnNNOHJralZNZ0tnS0JoVDJPd3lybWxHZG1tQmk5eVl5OUxqUURiQnVsVVBXbGdLeW9qX29LYUc5dXRkbU4tR2tHZVFRTVRiVTJ1U0JHUmd6UmRPc1ZsRQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.2599999904632568,
-        "percentChange": -5.56,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.245,
-        "weekAgoPrice": 0.2150000035762787,
-        "percentChange": 13.95,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-21T10:16:56.641793Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1428,6 +1385,49 @@
         "currentPrice": 1.15,
         "weekAgoPrice": 1.2300000190734863,
         "percentChange": -6.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.24,
+        "weekAgoPrice": 0.2150000035762787,
+        "percentChange": 11.63,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-23T05:17:24.595301Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.2699999809265137,
+        "percentChange": -11.81,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -5.52,
+        "flagged": true,
+        "news": [
+          {
+            "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.16,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -5.69,
         "flagged": true,
         "news": []
       },
