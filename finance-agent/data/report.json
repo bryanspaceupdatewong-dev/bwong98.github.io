@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-23T13:22:33.358767Z",
+  "generatedAt": "2026-10-23T14:21:23.359375Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 521.08,
-      "weekAgoPrice": 539.4400024414062,
-      "percentChange": -3.4,
+      "currentPrice": 522.275,
+      "weekAgoPrice": 529.0499877929688,
+      "percentChange": -1.28,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 212.21,
-      "weekAgoPrice": 217.22999572753906,
-      "percentChange": -2.31,
+      "currentPrice": 212.68,
+      "weekAgoPrice": 214.1300048828125,
+      "percentChange": -0.68,
       "flagged": false,
       "news": []
     },
@@ -49,7 +49,12 @@
       "weekAgoPrice": 1.4500000476837158,
       "percentChange": -5.52,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5271.KL",
