@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-21T12:18:38.411322Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 216.47,
-        "weekAgoPrice": 228.52000427246094,
-        "percentChange": -5.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "The AI Buildout Is Only 15% Complete\u2014Here Is Where the Next Dollar Actually Goes - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFRtN0hJZnJjTHZmUndpNFBobFNfdUdJOTRQUGI3a3VGbFYtcTlaYjJ1TEM3Qk1BWndUal83Wjd0SUxGYUhOVWo1elM0WVRPdDEzRjF2Sm93OVYxV3JsQTI3VUIxb2ZUVXU0V2R1MTVQTUFCSzVraHJGYlFCZXJmZm8wMHR6RGxlcTRxVzVveklkV29RTEUyS1oyc1JqN3pvZndET2JCV09FTFBQYVNBS2FQQ3hhUQ?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Jumps Over 2% Amid Flurry of AI Boosts at GTC Berlin: Will It Return to All-Time High of $243? - TradingKey",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVNUOXpQQnRsQ2JPeEdaSzJnVGhMQ3BORmtPeFZDaTl0Z2VLVGNsel9xLWpUd2xNMzdteTI5V3QtNmNnN1pYRHZTT0tLRVUzeGtOZlpMMG9FcEN4MGl2SlZPUWY1MTdyZjZTLU9wVjV1OWRPOUxMM194elpsUFRRdENBSGVHTU05MnVRREg4WHJDaEk4aF8tX0IxOF96cm8?oc=5"
-          },
-          {
-            "title": "NVDA Stock Rides Massive AI Chip Orders And Global Partnerships - Timothy Sykes",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1dEE3c1M0b0ZFYlp6dUZFQWRlNTIxNW1QM2Ywa1IwQVlERTcwQUxwdnQ3b2s2cnpEVkNHcWF4N3g1cFIyeEVabl8xZlRDRlE3aEo0NDVSeUVuNDdGa0RmMmc2aElXbEl1TnhkSldEUHpiUXdWTlYyZ2xMa18yak0?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.2599999904632568,
-        "percentChange": -5.56,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.245,
-        "weekAgoPrice": 0.2150000035762787,
-        "percentChange": 13.95,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-21T13:17:52.449076Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1428,6 +1385,49 @@
         "currentPrice": 1.36,
         "weekAgoPrice": 1.4500000476837158,
         "percentChange": -6.21,
+        "flagged": true,
+        "news": [
+          {
+            "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.15,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -6.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.24,
+        "weekAgoPrice": 0.2150000035762787,
+        "percentChange": 11.63,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-23T08:16:41.930148Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.11,
+        "weekAgoPrice": 1.2699999809265137,
+        "percentChange": -12.6,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -5.52,
         "flagged": true,
         "news": [
           {
