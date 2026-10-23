@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-22T00:07:18.905646Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.2599999904632568,
-        "percentChange": -5.56,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.245,
-        "weekAgoPrice": 0.2150000035762787,
-        "percentChange": 13.95,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-22T00:16:14.960230Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1605,6 +1583,49 @@
   },
   {
     "generatedAt": "2026-10-23T20:16:08.269717Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.2699999809265137,
+        "percentChange": -11.81,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -5.52,
+        "flagged": true,
+        "news": [
+          {
+            "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.15,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": -6.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.245,
+        "weekAgoPrice": 0.2150000035762787,
+        "percentChange": 13.95,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-23T21:06:25.470677Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
