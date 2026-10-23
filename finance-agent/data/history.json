@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-21T06:27:14.880829Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 216.47,
-        "weekAgoPrice": 228.52000427246094,
-        "percentChange": -5.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Should You Pick NVIDIA Stock Over Its Competitors? - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYThvN1pldjdVZkw3SGFTNFdmNUlrRVdTbDJsZHNyQm9SMlpBVTUwdWJFa2JfQ19yLU9nQU5oSENsVVRnX3NhcW50RkN2ZFN6VmZvTkN5SllCcUUwV3NjRFNmeWF0TFIwQ3J1Q3g4WUZfRXFGcjg4UEhOV1QyczZ4bE9kRzZtaEM2THBkVmVDeXZZWlJ1T1FUcUFqcV9Uc0VQcUw3dUY0NEpSeWp4Sk1B?oc=5"
-          },
-          {
-            "title": "Nvidia in talks to invest in Firmus Grid after scrapped IPO- The Information By Investing.com - Investing.com South Africa",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFNGVXVTTTlTZkYwRDQ4cVZKZjc3TFNzbV80Zk05UG9WclJjbW4zTHdXZ0lKcC1LRGl4Nkk5bVExbHZvelRpanQwQTVILUItbXEzemlOTFktb2hydDdkNGhMV24wbjVQS3RwU0VuSnhjXzljVF95VGctSWVmMmFhWVdOSkRPSnlxX0hxS1g5SlRDNktuSFU4TVhKOEV4SXZIRnd2cnZMenFidEN3dGRZOTV0YWp0djNWd1N5OHRrbXEwTl9ubXFNRGRNNA?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Pulls Back Over 9%, and Over 3 Million Chip Orders From Chinese Customers Could Be a Positive Catalyst - NAI500",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcXVhM1E4YV90NEVaazhlNFZHRkVhZXpMeC1NTkV0ZXlqTk41VTNOckFodEt2aVA1bl9VVnk1WWQzYWVCZkhZZkdBa1dOT2RWVEFXTmJkZG5vbDRWNFVFVTBSQ3VScGhqV2RRZXR0eVNPM0dsazNmZ0JlTUlHTWxYazlSbVpveVRWbEgyaE96UXFESDhxRFo1bW45SFVNNWNtREFSZk1mNnIzem43V2tZOUZ5Rjd4Q2NsWXZSZ0lWMXFLVEw4U01GaTJ4NDhqZUNULV9GU3dkU3Bxc2E1NGU0?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.2599999904632568,
-        "percentChange": -5.56,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.245,
-        "weekAgoPrice": 0.2150000035762787,
-        "percentChange": 13.95,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-21T07:19:53.430612Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1441,6 +1398,36 @@
         "currentPrice": 1.16,
         "weekAgoPrice": 1.2300000190734863,
         "percentChange": -5.69,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.235,
+        "weekAgoPrice": 0.2150000035762787,
+        "percentChange": 9.3,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-23T02:16:42.142234Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.15,
+        "weekAgoPrice": 1.2699999809265137,
+        "percentChange": -9.45,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.35,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -6.9,
         "flagged": true,
         "news": []
       },
