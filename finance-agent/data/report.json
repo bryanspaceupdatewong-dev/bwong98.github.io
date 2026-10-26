@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T01:16:22.699801Z",
+  "generatedAt": "2026-10-26T01:29:48.216456Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,44 +21,40 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.74,
+      "currentPrice": 4.73,
       "weekAgoPrice": 4.710000038146973,
-      "percentChange": 0.64,
+      "percentChange": 0.42,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.32,
+      "currentPrice": 7.31,
       "weekAgoPrice": 7.199999809265137,
-      "percentChange": 1.67,
+      "percentChange": 1.53,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.14,
+      "currentPrice": 1.13,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": -6.56,
-      "flagged": true,
-      "news": []
-    },
-    {
-      "ticker": "3182.KL",
-      "currentPrice": 1.36,
-      "weekAgoPrice": 1.440000057220459,
-      "percentChange": -5.56,
+      "percentChange": -7.38,
       "flagged": true,
       "news": [
-        {
-          "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
-        },
         {
           "title": "Capital A Berhad (5099.KL) stock price, news, quote and history - Yahoo Finance Australia",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjVW1IUkZiVWlRMUFLZW41R3F0V3hHV3lmVzljU1lqNHZDWXlRZDQxRXgtdktpMjNHOGNLbHJmWGl2bHN5aTkyYXpuaG85dFFURHo3YkJ3?oc=5"
         }
       ]
+    },
+    {
+      "ticker": "3182.KL",
+      "currentPrice": 1.37,
+      "weekAgoPrice": 1.440000057220459,
+      "percentChange": -4.86,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5271.KL",
@@ -70,9 +66,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.16,
+      "currentPrice": 1.15,
       "weekAgoPrice": 1.1699999570846558,
-      "percentChange": -0.85,
+      "percentChange": -1.71,
       "flagged": false,
       "news": []
     },
@@ -101,5 +97,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 2
 }
