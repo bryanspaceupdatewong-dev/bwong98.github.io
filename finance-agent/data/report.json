@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T23:16:33.558181Z",
+  "generatedAt": "2026-10-26T00:16:14.588187Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -41,7 +41,12 @@
       "weekAgoPrice": 1.2699999809265137,
       "percentChange": -11.81,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Capital A Berhad (5099.KL) stock price, news, quote and history - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjVW1IUkZiVWlRMUFLZW41R3F0V3hHV3lmVzljU1lqNHZDWXlRZDQxRXgtdktpMjNHOGNLbHJmWGl2bHN5aTkyYXpuaG85dFFURHo3YkJ3?oc=5"
+        }
+      ]
     },
     {
       "ticker": "3182.KL",
@@ -53,6 +58,10 @@
         {
           "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
+        },
+        {
+          "title": "Capital A Berhad (5099.KL) stock price, news, quote and history - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjVW1IUkZiVWlRMUFLZW41R3F0V3hHV3lmVzljU1lqNHZDWXlRZDQxRXgtdktpMjNHOGNLbHJmWGl2bHN5aTkyYXpuaG85dFFURHo3YkJ3?oc=5"
         }
       ]
     },

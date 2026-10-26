@@ -22,9 +22,10 @@
     ]
   },
   "3182.KL": {
-    "date": "2026-10-23",
+    "date": "2026-10-26",
     "news": [
-      "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore"
+      "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+      "Capital A Berhad (5099.KL) stock price, news, quote and history - Yahoo Finance Australia"
     ]
   },
   "1295.KL": {
@@ -33,6 +34,12 @@
       "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "Carlsberg Brewery Malaysia Berhad (2836.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "Malayan Banking Berhad (1155.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+    ]
+  },
+  "4715.KL": {
+    "date": "2026-10-26",
+    "news": [
+      "Capital A Berhad (5099.KL) stock price, news, quote and history - Yahoo Finance Australia"
     ]
   }
 }
