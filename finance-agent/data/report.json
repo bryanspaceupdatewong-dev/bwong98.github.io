@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:16:14.588187Z",
+  "generatedAt": "2026-10-26T01:16:22.699801Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,38 +21,33 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.75,
-      "weekAgoPrice": 4.829999923706055,
-      "percentChange": -1.66,
+      "currentPrice": 4.74,
+      "weekAgoPrice": 4.710000038146973,
+      "percentChange": 0.64,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.32,
-      "weekAgoPrice": 7.320000171661377,
-      "percentChange": -0.0,
+      "weekAgoPrice": 7.199999809265137,
+      "percentChange": 1.67,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.12,
-      "weekAgoPrice": 1.2699999809265137,
-      "percentChange": -11.81,
+      "currentPrice": 1.14,
+      "weekAgoPrice": 1.2200000286102295,
+      "percentChange": -6.56,
       "flagged": true,
-      "news": [
-        {
-          "title": "Capital A Berhad (5099.KL) stock price, news, quote and history - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjVW1IUkZiVWlRMUFLZW41R3F0V3hHV3lmVzljU1lqNHZDWXlRZDQxRXgtdktpMjNHOGNLbHJmWGl2bHN5aTkyYXpuaG85dFFURHo3YkJ3?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.37,
-      "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -5.52,
+      "currentPrice": 1.36,
+      "weekAgoPrice": 1.440000057220459,
+      "percentChange": -5.56,
       "flagged": true,
       "news": [
         {
@@ -75,10 +70,10 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.15,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -6.5,
-      "flagged": true,
+      "currentPrice": 1.16,
+      "weekAgoPrice": 1.1699999570846558,
+      "percentChange": -0.85,
+      "flagged": false,
       "news": []
     },
     {
@@ -91,9 +86,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.25,
-      "weekAgoPrice": 1.2699999809265137,
-      "percentChange": -1.57,
+      "currentPrice": 1.26,
+      "weekAgoPrice": 1.2799999713897705,
+      "percentChange": -1.56,
       "flagged": false,
       "news": []
     },
@@ -106,5 +101,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 3
 }
