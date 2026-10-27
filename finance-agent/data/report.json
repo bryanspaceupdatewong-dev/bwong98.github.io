@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-27T19:16:24.116043Z",
+  "generatedAt": "2026-10-27T20:16:48.336745Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 531.48,
+      "currentPrice": 531.33,
       "weekAgoPrice": 531.8699951171875,
-      "percentChange": -0.07,
+      "percentChange": -0.1,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 217.74,
+      "currentPrice": 217.94,
       "weekAgoPrice": 216.47000122070312,
-      "percentChange": 0.59,
+      "percentChange": 0.68,
       "flagged": false,
       "news": []
     },
