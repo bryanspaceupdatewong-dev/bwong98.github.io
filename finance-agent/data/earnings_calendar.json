@@ -10,7 +10,7 @@
       "previousQuarterLabel": "2026-06-30",
       "previousQuarterEpsActual": "4.74",
       "previousQuarterEpsEstimate": "4.24",
-      "reminderSent": false
+      "reminderSent": true
     },
     {
       "ticker": "NVDA",
