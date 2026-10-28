@@ -1,49 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-26T02:16:13.735017Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.11,
-        "weekAgoPrice": 1.2200000286102295,
-        "percentChange": -9.02,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Capital A Berhad (5099.KL) stock price, news, quote and history - Yahoo Finance Australia",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjVW1IUkZiVWlRMUFLZW41R3F0V3hHV3lmVzljU1lqNHZDWXlRZDQxRXgtdktpMjNHOGNLbHJmWGl2bHN5aTkyYXpuaG85dFFURHo3YkJ3?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.36,
-        "weekAgoPrice": 1.440000057220459,
-        "percentChange": -5.56,
-        "flagged": true,
-        "news": [
-          {
-            "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
-          },
-          {
-            "title": "Capital A Berhad (5099.KL) stock price, news, quote and history - Yahoo Finance Australia",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjVW1IUkZiVWlRMUFLZW41R3F0V3hHV3lmVzljU1lqNHZDWXlRZDQxRXgtdktpMjNHOGNLbHJmWGl2bHN5aTkyYXpuaG85dFFURHo3YkJ3?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.24,
-        "weekAgoPrice": 0.2150000035762787,
-        "percentChange": 11.63,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-26T03:16:05.806349Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1049,6 +1005,20 @@
         "currentPrice": 1.44,
         "weekAgoPrice": 1.3600000143051147,
         "percentChange": 5.88,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-28T03:16:46.975761Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5271.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.3600000143051147,
+        "percentChange": 6.62,
         "flagged": true,
         "news": []
       }
