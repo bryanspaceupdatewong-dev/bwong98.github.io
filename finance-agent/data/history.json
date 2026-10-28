@@ -1,44 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-26T01:16:22.699801Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2200000286102295,
-        "percentChange": -6.56,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.36,
-        "weekAgoPrice": 1.440000057220459,
-        "percentChange": -5.56,
-        "flagged": true,
-        "news": [
-          {
-            "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
-          },
-          {
-            "title": "Capital A Berhad (5099.KL) stock price, news, quote and history - Yahoo Finance Australia",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjVW1IUkZiVWlRMUFLZW41R3F0V3hHV3lmVzljU1lqNHZDWXlRZDQxRXgtdktpMjNHOGNLbHJmWGl2bHN5aTkyYXpuaG85dFFURHo3YkJ3?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.245,
-        "weekAgoPrice": 0.2150000035762787,
-        "percentChange": 13.95,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-26T01:29:48.216456Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1079,6 +1040,20 @@
         "currentPrice": 0.245,
         "weekAgoPrice": 0.23000000417232513,
         "percentChange": 6.52,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-28T01:16:27.560905Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5271.KL",
+        "currentPrice": 1.43,
+        "weekAgoPrice": 1.3300000429153442,
+        "percentChange": 7.52,
         "flagged": true,
         "news": []
       }
