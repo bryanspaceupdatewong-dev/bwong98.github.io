@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T03:16:46.975761Z",
+  "generatedAt": "2026-10-28T04:16:18.427468Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,41 +21,41 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.71,
+      "currentPrice": 4.72,
       "weekAgoPrice": 4.730000019073486,
-      "percentChange": -0.42,
+      "percentChange": -0.21,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.36,
+      "currentPrice": 7.35,
       "weekAgoPrice": 7.369999885559082,
-      "percentChange": -0.14,
+      "percentChange": -0.27,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.21,
+      "currentPrice": 1.22,
       "weekAgoPrice": 1.190000057220459,
-      "percentChange": 1.68,
+      "percentChange": 2.52,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.5,
+      "currentPrice": 1.51,
       "weekAgoPrice": 1.4299999475479126,
-      "percentChange": 4.9,
-      "flagged": false,
+      "percentChange": 5.59,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.45,
+      "currentPrice": 1.44,
       "weekAgoPrice": 1.3600000143051147,
-      "percentChange": 6.62,
+      "percentChange": 5.88,
       "flagged": true,
       "news": []
     },
@@ -69,17 +69,17 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.24,
+      "currentPrice": 0.245,
       "weekAgoPrice": 0.24500000476837158,
-      "percentChange": -2.04,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.3,
+      "currentPrice": 1.29,
       "weekAgoPrice": 1.2999999523162842,
-      "percentChange": 0.0,
+      "percentChange": -0.77,
       "flagged": false,
       "news": []
     },
@@ -92,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 1
+  "flaggedCount": 2
 }
