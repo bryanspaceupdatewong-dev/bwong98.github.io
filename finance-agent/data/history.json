@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-27T10:16:52.679031Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.43,
-        "weekAgoPrice": 1.3300000429153442,
-        "percentChange": 7.52,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.245,
-        "weekAgoPrice": 0.23000000417232513,
-        "percentChange": 6.52,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-27T11:18:29.194415Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1136,6 +1114,33 @@
         "percentChange": 11.85,
         "flagged": true,
         "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-29T11:23:42.350131Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": 5.17,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.51,
+        "weekAgoPrice": 1.350000023841858,
+        "percentChange": 11.85,
+        "flagged": true,
+        "news": [
+          {
+            "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
+          }
+        ]
       }
     ]
   }
