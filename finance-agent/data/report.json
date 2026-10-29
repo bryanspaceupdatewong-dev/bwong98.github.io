@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T00:17:14.165966Z",
+  "generatedAt": "2026-10-29T01:16:36.622127Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,57 +21,57 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.71,
-      "weekAgoPrice": 4.730000019073486,
-      "percentChange": -0.42,
+      "currentPrice": 4.74,
+      "weekAgoPrice": 4.710000038146973,
+      "percentChange": 0.64,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.38,
-      "weekAgoPrice": 7.369999885559082,
-      "percentChange": 0.14,
+      "currentPrice": 7.36,
+      "weekAgoPrice": 7.389999866485596,
+      "percentChange": -0.41,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.22,
-      "weekAgoPrice": 1.190000057220459,
-      "percentChange": 2.52,
-      "flagged": false,
+      "weekAgoPrice": 1.159999966621399,
+      "percentChange": 5.17,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.51,
-      "weekAgoPrice": 1.4299999475479126,
-      "percentChange": 5.59,
+      "weekAgoPrice": 1.350000023841858,
+      "percentChange": 11.85,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.43,
-      "weekAgoPrice": 1.3600000143051147,
-      "percentChange": 5.15,
-      "flagged": true,
+      "currentPrice": 1.44,
+      "weekAgoPrice": 1.3799999952316284,
+      "percentChange": 4.35,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.16,
-      "weekAgoPrice": 1.1699999570846558,
-      "percentChange": -0.85,
+      "currentPrice": 1.17,
+      "weekAgoPrice": 1.159999966621399,
+      "percentChange": 0.86,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.24,
-      "weekAgoPrice": 0.24500000476837158,
-      "percentChange": -2.04,
+      "weekAgoPrice": 0.23499999940395355,
+      "percentChange": 2.13,
       "flagged": false,
       "news": []
     },
