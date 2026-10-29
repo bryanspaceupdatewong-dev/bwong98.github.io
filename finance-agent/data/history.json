@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-27T04:05:56.954131Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.4,
-        "weekAgoPrice": 1.3300000429153442,
-        "percentChange": 5.26,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.245,
-        "weekAgoPrice": 0.23000000417232513,
-        "percentChange": 6.52,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-27T04:16:15.431628Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1098,6 +1076,33 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjVW1IUkZiVWlRMUFLZW41R3F0V3hHV3lmVzljU1lqNHZDWXlRZDQxRXgtdktpMjNHOGNLbHJmWGl2bHN5aTkyYXpuaG85dFFURHo3YkJ3?oc=5"
           }
         ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-10-29T05:16:20.432261Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": 5.17,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Capital A Berhad (5099.KL) stock price, news, quote and history - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjVW1IUkZiVWlRMUFLZW41R3F0V3hHV3lmVzljU1lqNHZDWXlRZDQxRXgtdktpMjNHOGNLbHJmWGl2bHN5aTkyYXpuaG85dFFURHo3YkJ3?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.51,
+        "weekAgoPrice": 1.350000023841858,
+        "percentChange": 11.85,
+        "flagged": true,
+        "news": []
       }
     ]
   }
