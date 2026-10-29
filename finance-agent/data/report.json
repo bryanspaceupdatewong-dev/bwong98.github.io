@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T22:16:20.761099Z",
+  "generatedAt": "2026-10-29T23:16:23.031713Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -49,12 +49,7 @@
       "weekAgoPrice": 1.350000023841858,
       "percentChange": 11.85,
       "flagged": true,
-      "news": [
-        {
-          "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5271.KL",
