@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:16:20.432261Z",
+  "generatedAt": "2026-10-29T06:18:16.706188Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -41,12 +41,7 @@
       "weekAgoPrice": 1.159999966621399,
       "percentChange": 5.17,
       "flagged": true,
-      "news": [
-        {
-          "title": "Capital A Berhad (5099.KL) stock price, news, quote and history - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjVW1IUkZiVWlRMUFLZW41R3F0V3hHV3lmVzljU1lqNHZDWXlRZDQxRXgtdktpMjNHOGNLbHJmWGl2bHN5aTkyYXpuaG85dFFURHo3YkJ3?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "3182.KL",
