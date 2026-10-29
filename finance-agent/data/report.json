@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-10-29T01:16:36.622127Z",
+  "generatedAt": "2026-10-29T02:16:00.269094Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 531.01,
-      "weekAgoPrice": 531.8699951171875,
-      "percentChange": -0.16,
+      "weekAgoPrice": 532.9500122070312,
+      "percentChange": -0.36,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 215.38,
-      "weekAgoPrice": 216.47000122070312,
-      "percentChange": -0.5,
+      "weekAgoPrice": 221.97000122070312,
+      "percentChange": -2.97,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.74,
+      "currentPrice": 4.78,
       "weekAgoPrice": 4.710000038146973,
-      "percentChange": 0.64,
+      "percentChange": 1.49,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.36,
+      "currentPrice": 7.47,
       "weekAgoPrice": 7.389999866485596,
-      "percentChange": -0.41,
+      "percentChange": 1.08,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.22,
+      "currentPrice": 1.24,
       "weekAgoPrice": 1.159999966621399,
-      "percentChange": 5.17,
+      "percentChange": 6.9,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.51,
+      "currentPrice": 1.52,
       "weekAgoPrice": 1.350000023841858,
-      "percentChange": 11.85,
+      "percentChange": 12.59,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.44,
+      "currentPrice": 1.43,
       "weekAgoPrice": 1.3799999952316284,
-      "percentChange": 4.35,
+      "percentChange": 3.62,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.17,
+      "currentPrice": 1.15,
       "weekAgoPrice": 1.159999966621399,
-      "percentChange": 0.86,
+      "percentChange": -0.86,
       "flagged": false,
       "news": []
     },
@@ -77,9 +77,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.3,
-      "weekAgoPrice": 1.2999999523162842,
-      "percentChange": 0.0,
+      "currentPrice": 1.29,
+      "weekAgoPrice": 1.2799999713897705,
+      "percentChange": 0.78,
       "flagged": false,
       "news": []
     },
