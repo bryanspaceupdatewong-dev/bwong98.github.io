@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:16:18.180805Z",
+  "generatedAt": "2026-10-30T01:16:15.492666Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,35 +21,40 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.73,
-      "weekAgoPrice": 4.710000038146973,
-      "percentChange": 0.42,
+      "currentPrice": 4.72,
+      "weekAgoPrice": 4.75,
+      "percentChange": -0.63,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.47,
-      "weekAgoPrice": 7.389999866485596,
-      "percentChange": 1.08,
+      "currentPrice": 7.49,
+      "weekAgoPrice": 7.320000171661377,
+      "percentChange": 2.32,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.22,
-      "weekAgoPrice": 1.159999966621399,
-      "percentChange": 5.17,
+      "weekAgoPrice": 1.1200000047683716,
+      "percentChange": 8.93,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.51,
-      "weekAgoPrice": 1.350000023841858,
-      "percentChange": 11.85,
+      "weekAgoPrice": 1.3700000047683716,
+      "percentChange": 10.22,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5271.KL",
@@ -61,25 +66,25 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.14,
-      "weekAgoPrice": 1.159999966621399,
-      "percentChange": -1.72,
+      "currentPrice": 1.15,
+      "weekAgoPrice": 1.149999976158142,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.235,
-      "weekAgoPrice": 0.23499999940395355,
-      "percentChange": 0.0,
+      "weekAgoPrice": 0.24500000476837158,
+      "percentChange": -4.08,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.27,
-      "weekAgoPrice": 1.2799999713897705,
-      "percentChange": -0.78,
+      "currentPrice": 1.25,
+      "weekAgoPrice": 1.25,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
