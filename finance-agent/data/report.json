@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T08:20:36.265268Z",
+  "generatedAt": "2026-10-30T09:16:23.433119Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,17 +21,17 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.78,
+      "currentPrice": 4.75,
       "weekAgoPrice": 4.75,
-      "percentChange": 0.63,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.5,
+      "currentPrice": 7.45,
       "weekAgoPrice": 7.320000171661377,
-      "percentChange": 2.46,
+      "percentChange": 1.78,
       "flagged": false,
       "news": []
     },
@@ -45,9 +45,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.55,
+      "currentPrice": 1.54,
       "weekAgoPrice": 1.3700000047683716,
-      "percentChange": 13.14,
+      "percentChange": 12.41,
       "flagged": true,
       "news": [
         {
@@ -58,33 +58,33 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.42,
+      "currentPrice": 1.45,
       "weekAgoPrice": 1.3799999952316284,
-      "percentChange": 2.9,
-      "flagged": false,
+      "percentChange": 5.07,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.2,
+      "currentPrice": 1.19,
       "weekAgoPrice": 1.149999976158142,
-      "percentChange": 4.35,
+      "percentChange": 3.48,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.235,
+      "currentPrice": 0.245,
       "weekAgoPrice": 0.24500000476837158,
-      "percentChange": -4.08,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.28,
+      "currentPrice": 1.29,
       "weekAgoPrice": 1.25,
-      "percentChange": 2.4,
+      "percentChange": 3.2,
       "flagged": false,
       "news": []
     },
@@ -97,5 +97,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 3
 }
