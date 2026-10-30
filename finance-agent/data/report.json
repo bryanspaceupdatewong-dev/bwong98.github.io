@@ -1,60 +1,55 @@
 {
-  "generatedAt": "2026-10-30T18:16:35.859568Z",
+  "generatedAt": "2026-10-30T19:16:02.645108Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 520.664,
+      "currentPrice": 521.79,
       "weekAgoPrice": 524.510009765625,
-      "percentChange": -0.73,
+      "percentChange": -0.52,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 202.47,
+      "currentPrice": 202.18,
       "weekAgoPrice": 210.9600067138672,
-      "percentChange": -4.02,
+      "percentChange": -4.16,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.75,
-      "weekAgoPrice": 4.710000038146973,
-      "percentChange": 0.85,
+      "weekAgoPrice": 4.75,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.45,
-      "weekAgoPrice": 7.389999866485596,
-      "percentChange": 0.81,
+      "weekAgoPrice": 7.320000171661377,
+      "percentChange": 1.78,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.25,
-      "weekAgoPrice": 1.159999966621399,
-      "percentChange": 7.76,
+      "weekAgoPrice": 1.1200000047683716,
+      "percentChange": 11.61,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.54,
-      "weekAgoPrice": 1.350000023841858,
-      "percentChange": 14.07,
+      "weekAgoPrice": 1.3700000047683716,
+      "percentChange": 12.41,
       "flagged": true,
-      "news": [
-        {
-          "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5271.KL",
@@ -67,32 +62,32 @@
     {
       "ticker": "5296.KL",
       "currentPrice": 1.19,
-      "weekAgoPrice": 1.159999966621399,
-      "percentChange": 2.59,
+      "weekAgoPrice": 1.149999976158142,
+      "percentChange": 3.48,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.245,
-      "weekAgoPrice": 0.23499999940395355,
-      "percentChange": 4.26,
+      "weekAgoPrice": 0.24500000476837158,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.29,
-      "weekAgoPrice": 1.2799999713897705,
-      "percentChange": 0.78,
+      "weekAgoPrice": 1.25,
+      "percentChange": 3.2,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.67,
-      "weekAgoPrice": 0.675000011920929,
-      "percentChange": -0.74,
+      "weekAgoPrice": 0.6800000071525574,
+      "percentChange": -1.47,
       "flagged": false,
       "news": []
     }
