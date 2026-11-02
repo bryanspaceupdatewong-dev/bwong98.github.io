@@ -1,23 +1,27 @@
 {
-  "generatedAt": "2026-11-02T20:16:29.196064Z",
+  "generatedAt": "2026-11-02T21:16:24.558966Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 512.78,
+      "currentPrice": 507.12,
       "weekAgoPrice": 532.5999755859375,
-      "percentChange": -3.72,
+      "percentChange": -4.78,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 204.02,
+      "currentPrice": 202.06,
       "weekAgoPrice": 216.0,
-      "percentChange": -5.55,
+      "percentChange": -6.45,
       "flagged": true,
       "news": [
+        {
+          "title": "Capex cuts could be 'unwelcome' but extend the cycle: BofA (NVDA:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGIxbU4xbGdwa0h0b3NWLVlwV096elRYalc4Q181MlNRUW5QU2hDVTZ5aU1kQ2tURmdkcnE0NkZhaDZlMHQ1czZiX2NXYXNfbDVSM1V1SEpmcU5vU0lDOEs5aTRRVGRONW91TzRkZ1k2bmh2Qi1MU1hFelhVNXpHUTRwV2JxQW81Vm1hMzJfUkhNMVRHelFtZw?oc=5"
+        },
         {
           "title": "NVIDIA breaks support, oversold at $205: Live levels - Investing.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnFIbm8zM2NWVE5od1Foc3c0RXZYRE54ZHQyY3g1eEpYTHZRRV8zdVp1VUtuQnlrQjktbGRDdHFPbkRraTBESWFySEdRLVJlTkEzb2hBS3dUUjFqaEEtYnBmZ19yS3Z1SzNTTnlPYm0xS3dlR2todjd6bnBIcWI1SzlkSENubVJrVF9SZjhNdG1uT2R5WmFBRjA4M2NxVW9JcTRlNDNnNXptOWItdHQyZQ?oc=5"
@@ -25,10 +29,6 @@
         {
           "title": "Nvidia Stock Is Rebounding but Stock Chart Is Really Ugly - Barron's",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVM2cFd2cHpQRW5qUmlXUGhLMlBHTUc5aVgtSTNGZFNDcGZXM3N6aUR6ZVVCZ3ZUSkdwRi15d2lhOHJTWXAxc2N0RXJ6M0x3U3hBVk5yTktPcS12Rl85b3d0aUN5cVpSUEJaTFlWM2ItUloxcEExTHN1cU9ienBTak5DeDQ?oc=5"
-        },
-        {
-          "title": "SKHY vs NVDA: valuation, earnings, and risk compared - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUQzOXNzSlhDdzBsWDd4c3NPVUdRYzBNbElFbm1wMlVZaG5zblhGQWhqU0s5bjl4ZndKVnkwdUtQMU0ydVJzY1lYWUtkM3F6MjBnTWJIWEhOb3o4LU9mT3ZFaE0yUnBRcFE5RVFpemlORkR6MzF1NFRJMmdseGtOZHpQSlZHT2xlbXBCTG9LUXRGbHFDSXYtV2V3d0JSeGdBajV6eXpmM1JtTDZMVGFhVw?oc=5"
         }
       ]
     },
