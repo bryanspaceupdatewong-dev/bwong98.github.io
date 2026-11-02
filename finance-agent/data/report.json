@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-02T18:16:22.414201Z",
+  "generatedAt": "2026-11-02T19:16:55.894742Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 519.821,
+      "currentPrice": 517.245,
       "weekAgoPrice": 532.5999755859375,
-      "percentChange": -2.4,
+      "percentChange": -2.88,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 206.661,
+      "currentPrice": 205.03,
       "weekAgoPrice": 216.0,
-      "percentChange": -4.32,
-      "flagged": false,
-      "news": []
+      "percentChange": -5.08,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Nvidia Stock Looks Surprisingly Cheap. Why NVDA Could Rise 61%. - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjA4NDQtRjBtaDZMX05LdkpMeWZrOVYxWFc2TTgtU0phdXlnc1RvZlJVb3NxWjlfbnkwY3VIOXpvZWpzUklKWEh3LTF6NVBxLWs3OWlsVDY2bXpwa2MwZXczNDhXelFzYUNfWHhwaDVKSnhWZnZDQ1FiRWN4TUNjUVdsaHNHWjJCMDNmbFR0SHFscGpZekx4b21zYmZ5aDVsSkF2UTRmQQ?oc=5"
+        },
+        {
+          "title": "Nvidia Stock Is Rebounding but Stock Chart Is Really Ugly - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVM2cFd2cHpQRW5qUmlXUGhLMlBHTUc5aVgtSTNGZFNDcGZXM3N6aUR6ZVVCZ3ZUSkdwRi15d2lhOHJTWXAxc2N0RXJ6M0x3U3hBVk5yTktPcS12Rl85b3d0aUN5cVpSUEJaTFlWM2ItUloxcEExTHN1cU9ienBTak5DeDQ?oc=5"
+        },
+        {
+          "title": "SKHY vs NVDA: valuation, earnings, and risk compared - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUQzOXNzSlhDdzBsWDd4c3NPVUdRYzBNbElFbm1wMlVZaG5zblhGQWhqU0s5bjl4ZndKVnkwdUtQMU0ydVJzY1lYWUtkM3F6MjBnTWJIWEhOb3o4LU9mT3ZFaE0yUnBRcFE5RVFpemlORkR6MzF1NFRJMmdseGtOZHpQSlZHT2xlbXBCTG9LUXRGbHFDSXYtV2V3d0JSeGdBajV6eXpmM1JtTDZMVGFhVw?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
@@ -49,7 +62,20 @@
       "weekAgoPrice": 1.3700000047683716,
       "percentChange": 13.87,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
+        },
+        {
+          "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
+        },
+        {
+          "title": "CIMB Group Holdings Berhad (1023.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdW02dG1zWTk5VnB5ZS1xOHlWNW1aUFNyQlJ2VkVhYzBlNHJlM3Vtanc3YlhFd3hSX1Y1OXhsZ1dCa0ZWdF9LZTlZVC1WUVdsS05GYV9B?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5271.KL",
@@ -92,5 +118,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 4
 }
