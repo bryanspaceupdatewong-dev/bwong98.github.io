@@ -1,68 +1,55 @@
 {
-  "generatedAt": "2026-11-02T15:15:57.953499Z",
+  "generatedAt": "2026-11-02T18:16:22.414201Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 524.6,
+      "currentPrice": 519.821,
       "weekAgoPrice": 532.5999755859375,
-      "percentChange": -1.5,
+      "percentChange": -2.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 207.965,
+      "currentPrice": 206.661,
       "weekAgoPrice": 216.0,
-      "percentChange": -3.72,
+      "percentChange": -4.32,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.79,
-      "weekAgoPrice": 4.730000019073486,
-      "percentChange": 1.27,
+      "weekAgoPrice": 4.75,
+      "percentChange": 0.84,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.5,
-      "weekAgoPrice": 7.349999904632568,
-      "percentChange": 2.04,
+      "weekAgoPrice": 7.320000171661377,
+      "percentChange": 2.46,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.26,
-      "weekAgoPrice": 1.159999966621399,
-      "percentChange": 8.62,
+      "weekAgoPrice": 1.1200000047683716,
+      "percentChange": 12.5,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.56,
-      "weekAgoPrice": 1.4299999475479126,
-      "percentChange": 9.09,
+      "weekAgoPrice": 1.3700000047683716,
+      "percentChange": 13.87,
       "flagged": true,
-      "news": [
-        {
-          "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
-        },
-        {
-          "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
-        },
-        {
-          "title": "CIMB Group Holdings Berhad (1023.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdW02dG1zWTk5VnB5ZS1xOHlWNW1aUFNyQlJ2VkVhYzBlNHJlM3Vtanc3YlhFd3hSX1Y1OXhsZ1dCa0ZWdF9LZTlZVC1WUVdsS05GYV9B?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5271.KL",
@@ -91,16 +78,16 @@
     {
       "ticker": "5352.KL",
       "currentPrice": 1.28,
-      "weekAgoPrice": 1.2899999618530273,
-      "percentChange": -0.78,
+      "weekAgoPrice": 1.25,
+      "percentChange": 2.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.66,
-      "weekAgoPrice": 0.6899999976158142,
-      "percentChange": -4.35,
+      "weekAgoPrice": 0.6800000071525574,
+      "percentChange": -2.94,
       "flagged": false,
       "news": []
     }
