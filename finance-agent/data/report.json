@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T08:29:12.889110Z",
+  "generatedAt": "2026-11-02T09:18:21.565161Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -29,40 +29,27 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.53,
+      "currentPrice": 7.5,
       "weekAgoPrice": 7.349999904632568,
-      "percentChange": 2.45,
+      "percentChange": 2.04,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.25,
+      "currentPrice": 1.26,
       "weekAgoPrice": 1.159999966621399,
-      "percentChange": 7.76,
+      "percentChange": 8.62,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.58,
+      "currentPrice": 1.56,
       "weekAgoPrice": 1.4299999475479126,
-      "percentChange": 10.49,
+      "percentChange": 9.09,
       "flagged": true,
-      "news": [
-        {
-          "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
-        },
-        {
-          "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
-        },
-        {
-          "title": "CIMB Group Holdings Berhad (1023.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdW02dG1zWTk5VnB5ZS1xOHlWNW1aUFNyQlJ2VkVhYzBlNHJlM3Vtanc3YlhFd3hSX1Y1OXhsZ1dCa0ZWdF9LZTlZVC1WUVdsS05GYV9B?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5271.KL",
@@ -74,9 +61,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.17,
+      "currentPrice": 1.18,
       "weekAgoPrice": 1.149999976158142,
-      "percentChange": 1.74,
+      "percentChange": 2.61,
       "flagged": false,
       "news": []
     },
@@ -98,9 +85,9 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.67,
+      "currentPrice": 0.66,
       "weekAgoPrice": 0.6899999976158142,
-      "percentChange": -2.9,
+      "percentChange": -4.35,
       "flagged": false,
       "news": []
     }
