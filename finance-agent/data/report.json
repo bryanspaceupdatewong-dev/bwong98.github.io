@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-11-02T19:16:55.894742Z",
+  "generatedAt": "2026-11-02T20:16:29.196064Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 517.245,
+      "currentPrice": 512.78,
       "weekAgoPrice": 532.5999755859375,
-      "percentChange": -2.88,
+      "percentChange": -3.72,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 205.03,
+      "currentPrice": 204.02,
       "weekAgoPrice": 216.0,
-      "percentChange": -5.08,
+      "percentChange": -5.55,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Stock Looks Surprisingly Cheap. Why NVDA Could Rise 61%. - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjA4NDQtRjBtaDZMX05LdkpMeWZrOVYxWFc2TTgtU0phdXlnc1RvZlJVb3NxWjlfbnkwY3VIOXpvZWpzUklKWEh3LTF6NVBxLWs3OWlsVDY2bXpwa2MwZXczNDhXelFzYUNfWHhwaDVKSnhWZnZDQ1FiRWN4TUNjUVdsaHNHWjJCMDNmbFR0SHFscGpZekx4b21zYmZ5aDVsSkF2UTRmQQ?oc=5"
+          "title": "NVIDIA breaks support, oversold at $205: Live levels - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnFIbm8zM2NWVE5od1Foc3c0RXZYRE54ZHQyY3g1eEpYTHZRRV8zdVp1VUtuQnlrQjktbGRDdHFPbkRraTBESWFySEdRLVJlTkEzb2hBS3dUUjFqaEEtYnBmZ19yS3Z1SzNTTnlPYm0xS3dlR2todjd6bnBIcWI1SzlkSENubVJrVF9SZjhNdG1uT2R5WmFBRjA4M2NxVW9JcTRlNDNnNXptOWItdHQyZQ?oc=5"
         },
         {
           "title": "Nvidia Stock Is Rebounding but Stock Chart Is Really Ugly - Barron's",
