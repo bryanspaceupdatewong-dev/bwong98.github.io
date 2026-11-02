@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-29T03:16:03.423780Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 5.17,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.51,
-        "weekAgoPrice": 1.350000023841858,
-        "percentChange": 11.85,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-29T04:16:26.174036Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1359,6 +1337,45 @@
         "currentPrice": 0.23,
         "weekAgoPrice": 0.24500000476837158,
         "percentChange": -6.12,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-02T04:16:21.352922Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": 10.34,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.58,
+        "weekAgoPrice": 1.4299999475479126,
+        "percentChange": 10.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
+          },
+          {
+            "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5271.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.3799999952316284,
+        "percentChange": 5.07,
         "flagged": true,
         "news": []
       }
