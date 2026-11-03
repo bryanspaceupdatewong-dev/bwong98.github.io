@@ -1,36 +1,23 @@
 {
-  "generatedAt": "2026-11-03T14:17:27.811886Z",
+  "generatedAt": "2026-11-03T15:16:15.302227Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 507.12,
-      "weekAgoPrice": 532.5999755859375,
-      "percentChange": -4.78,
+      "currentPrice": 513.59,
+      "weekAgoPrice": 531.3300170898438,
+      "percentChange": -3.34,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 202.06,
-      "weekAgoPrice": 216.0,
-      "percentChange": -6.45,
-      "flagged": true,
-      "news": [
-        {
-          "title": "How Big Could NVIDIA Stock\u2019s Next Fall Be? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWFIWFBZRXhsVjdaeUNoY0FtWVMxRnAwZVJreVUxcVVud3FyRTRhZ2x0dVRlOTN4WnRtRnJMdnVUa1lQOWNsTkRBRnpNMzNTeGhPOWxRbklRTmxkeG5HTldQdFBEQ3l4T1doZUd0ZW1tUnlBTkhGc0hQZURrM3FPT2VFakRtbzJBUnNOTXo2ejFPaVBWdGhaR2ozS1htMEVjbkdn?oc=5"
-        },
-        {
-          "title": "Nvidia\u2019s Dismal Run Might Be Coming to an End. Grab NVDA Stock While It\u2019s Still Around $200. - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaS1sOHNjaEtZdEY0aG9yTEZuRDVNU3M2a0EwckVaZG9HaE9MUVRNNkE0b1BlWlk2eEdVWkdzX0FGZHB5dGlpQ1kxU2ZoUkQxVHY5amFVNEdEaGRfTUpIMnhadHp0NXo2RDNLTFJ4aVVfZTVDc3I4RUpXdnpva1Nnc1J3TEJRUHQtUDhwUVA4N1N6bzQ0b3ZmUU91azFrSVp1ajcwZUM3X1BoM0JlQWpER1NnZzhRdWlaUWRLUG04UU9LSTJGQmdEc1Awdw?oc=5"
-        },
-        {
-          "title": "ETFs Bought $505.7 Million of NVIDIA (NVDA) on Friday - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzZ5XzJ3b29Ha0lwVWNYRDh0QnR2ZGRuZFVxQldKZjZxdDYwZmYtTl9rU3d2cF93U2tMYVdndzlpTHlQdmFaTDBJNG5EelkzS1JRRExaRnlWbVVnZzkxNEhyUFc0TDJHN1JadGV1eVlLaVlCd0g1dElpX19kVThET2ZIV2FGYmZzQnA5TDE1elRLYTNv?oc=5"
-        }
-      ]
+      "currentPrice": 207.89,
+      "weekAgoPrice": 217.94000244140625,
+      "percentChange": -4.61,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "1295.KL",
@@ -62,16 +49,7 @@
       "weekAgoPrice": 1.4500000476837158,
       "percentChange": 6.9,
       "flagged": true,
-      "news": [
-        {
-          "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
-        },
-        {
-          "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5271.KL",
@@ -114,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 3
 }
