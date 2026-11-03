@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-29T20:28:31.362149Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 5.17,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.51,
-        "weekAgoPrice": 1.350000023841858,
-        "percentChange": 11.85,
-        "flagged": true,
-        "news": [
-          {
-            "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-29T21:16:29.916056Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1626,6 +1599,57 @@
           {
             "title": "Bank of America Analysts Maintain Bullish View on Nvidia (NVDA) Amid AI Demand and Election Uncertainty - GuruFocus",
             "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXJQaVRhR3ZkZEpFWWlYX3N4OWZwQV9EMVhTdkFVWUhSMVdkdlRWZXRRMVNhZjBPQTBwYWcweks0dGJVRzZmUFhhVEg4ckRsSTQ2aE15QUdpZVJzS1ExYVBEU3F1OVNGQUxKNjNHMjg4X1hLcUJJNndFUEo0VDdUZTZyOGJ6Uml3VHd3MWgzX3VMTUhvemxJSkI2bDNnaFlSbGJ5R0hKLXY2dGozOUtVZ3puX2RDQ3BvWUtrOEh3emlhamN2ZVp1VHlja3hSQXBxUWRKV0FGRQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.159999966621399,
+        "percentChange": 8.62,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.56,
+        "weekAgoPrice": 1.4299999475479126,
+        "percentChange": 9.09,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5271.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.3799999952316284,
+        "percentChange": 5.07,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-03T00:16:14.180761Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 202.06,
+        "weekAgoPrice": 216.0,
+        "percentChange": -6.45,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGJJZXFlWmhxcWo4RHFDWXFyN1JkcER6LW11MkZNaUpqb09hLS1ycVEzcjFVUkdwbjFxdzRQaEVrdTlUa1NVNlZ4ZDJVMUpfVHQzdlVHdE1zRVptbm9CSVh1R2hqSHBUYy1HMGQyencySVZnWV82VVBlNlJ4eC1HYTZmMzBaX0JXSGw0NEpWNkt6eUY5ZkRfOTZmTUxuakxscGZuRU5nVVZLLXl3X3Bv?oc=5"
+          },
+          {
+            "title": "Tech Selloff Doesn\u2019t Spook Dan Ives for Halloween: Here Are His 6 AI Stock Picks - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVUlzWlBNd18tamphckdNb3JPMXFCRGZXVEtDbEtCQlplVnNNNXNnWHo0SW16emF0dnRWOExLXzdsaHdmSDJabWNtRGRuSVBCMF9ockgxVzdjNXlKaU9uR2FrLW5lbUp2cHFXTTRpRE5KX1RmejAwcmVsOU9XZ1lNYkszQ1BlYjNZaUlBcHA3ZndoZlFZMEJQblVKMlFSR2lTcHViY2t5Rm9mNlBlbDYtV2toQWtrZ3B6a05zSXBXVzRidm42TG5qOWpjUXZfcjFlT0FnRzN2bEdmamlMUXY5RWdZbWE4eHMxVWc?oc=5"
+          },
+          {
+            "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 1.3% Following Analyst Downgrade - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbEE5R0QwbV83ZHU4b1RnbGs0VDcteUtKVUJJWkpXZzIxVWMwX29BeDNwd2VIYTNMOXRzTnRGbDhBRE1uX3RyTGZCQnZRdDNiTWFtVnA1bjdHMlJNaFZpZTJvTVI0bUdYVmkzU2IxUUd4YlVHZ0ZoQUlFVm05cnNQaS1lY0l0VWpDNFgxZ3BNSlo5UWJoNEFCb29rM1NzOFU5WllZc215TV9qNy1HTkVtY2RtcDR2M3lVYjA5dUln?oc=5"
           }
         ]
       },
