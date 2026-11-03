@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T10:16:53.560178Z",
+  "generatedAt": "2026-11-03T11:16:22.629102Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -20,7 +20,7 @@
       "news": [
         {
           "title": "Nvidia: Trade The Fear With NVDL (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV29HbkNzSkxxalh0U1dnMUJUSzlyTFBFMVdPWlJJcXVkdU15ZGwzZWljTlFVT2w2V0k5WDRndHN2NmJJeGVUQnlhYl9KWUZRQmYtQlBWSFJGMnRmSlZ5Tzk1ZTRrZ0FoMUFCbnZGVHNvX1VoSXYtY0hST0NVSHRCZkdmbUMtUjkybFpjYWdzQ3dTOEtvNTJMWHJZQXp1ODlGQWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NU1V6UmlhRnRlTWFMNmVsMFgzZ3BET1Bkdkk2eW5NLXBITGo0cnpVNnJkaUVzRmxlaERTRXlMbWZmVVF1dkxKSEJWMEc2M2JBak1lODZvcm5kczk1WlV5RzNoNzlaVXVrYkJ5NmlKazZpMDFaS1p6VTdMRVA?oc=5"
         },
         {
           "title": "Nvidia Stock And TSMC Shares In Focus As US Foundry Plans Shift - Simply Wall St",
@@ -62,7 +62,16 @@
       "weekAgoPrice": 1.4500000476837158,
       "percentChange": 6.9,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
+        },
+        {
+          "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5271.KL",

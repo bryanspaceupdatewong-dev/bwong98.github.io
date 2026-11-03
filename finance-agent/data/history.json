@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-30T06:15:34.667623Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.1200000047683716,
-        "percentChange": 13.39,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.58,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": 15.33,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-30T06:23:16.259759Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2004,6 +1982,66 @@
         "percentChange": 6.9,
         "flagged": true,
         "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.24500000476837158,
+        "percentChange": -6.12,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-03T11:16:22.629102Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 202.06,
+        "weekAgoPrice": 216.0,
+        "percentChange": -6.45,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia: Trade The Fear With NVDL (NASDAQ:NVDA) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NU1V6UmlhRnRlTWFMNmVsMFgzZ3BET1Bkdkk2eW5NLXBITGo0cnpVNnJkaUVzRmxlaERTRXlMbWZmVVF1dkxKSEJWMEc2M2JBak1lODZvcm5kczk1WlV5RzNoNzlaVXVrYkJ5NmlKazZpMDFaS1p6VTdMRVA?oc=5"
+          },
+          {
+            "title": "Nvidia Stock And TSMC Shares In Focus As US Foundry Plans Shift - Simply Wall St",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd3h5QnlxUE9VSUdyaGdMai1aLTh0ZHBpMU1XZ2hWSWtyS2ZZak9CZnp4SXp1SDRfNUFZNGowU1hDc0dHRWJQQkVWdGxVX1RYeHdqbDU2ZmRwUTdFNXRrNV9ZQ1dhdGhPOEdMb2REai0wRlBrb2dCQmV3cXRlcndzeHEyaGdZQ2lEUVVhNHotM0pUcHpyYWN3Y1drWnMwc2VnaF9BbHF0WkxXdUhVTTA3TmVHNF9DM0JURUh2ZVdva2xSaEZ5NTFVYTZzUdIB0AFBVV95cUxOWHZVU1lvQnJlVDBvaEc5Vi1PZFFRRzE1TmxielJYWFV1N25GYmhsc3FMVDYxSTR0eW9xMUozRFloUjRTUWtJeEFPaHY2SHhHLTlFV3RjbEpySGZnNldSY0s1TGVzSTNXWEM2Y0swSkFMTnFFMWFwbDVqT2NiV3FDc3Zzb3VqY0tNUmJMSmpYVjhybW5MLVhfX2lmNW1VakZ2ck5zQWhsTnVqc21iZG8wcHM5eDVHR0dYN3pCZTBmTzlXU01QZUNZa0ZYZzVhYWUw?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Stock: Sherry Group Inc. Decreases Position - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY01aQWRnc1QyMEpjQS1jRldhbS13NC1KV0JlYWJKVjBJUHVlcXhYVS1GM2Jua2VmWnJFQVVEMjBtNUM5OUZQaU11MTZUcjRIV0Y0WERkbjlSbWgtekU5OTlfNnlQN3F3X2V6RHZfRnplcjBjLXJUM21BQ0s0dTEzVW95UjBLTjg3My1tUHdickFjNmd5cjRsU255cXdEaUR0dnM2YW5mYldFUGY5S21rTDc3eEpFZWFqd1hrSWJFVEtQMUU1?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.149999976158142,
+        "percentChange": 9.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.55,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": 6.9,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
+          },
+          {
+            "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
+          }
+        ]
       },
       {
         "ticker": "0397.KL",
