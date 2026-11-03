@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T03:16:17.999443Z",
+  "generatedAt": "2026-11-03T04:16:37.825516Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,73 +19,78 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia Stock And 2 US Growth Stocks Facing A Treasury Yield Reset - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlNrQ1ZDQmNvTllra2ViQVl3NmZ1X2YySEE3TXgzNzIyUHRtNkV5SjFLZ0F4NGtnaGJ3eFQ1VUdiTFNHcmlVYVNyblBfU1VlLXZhTTBRZTNSOXptbU14a0lzSHB4cHA3N3lUYTgwMWdlYklKYVczTVJ2VTZkVkJaSEVXWkg4NWE5bnEwVUlpdElES3M?oc=5"
+        },
+        {
           "title": "Nvidia Earnings Countdown: To Buy Ahead of the Print or Wait for Results - NAI500",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNGVoZDNody11RkJTbEk1QlBUYlBwMF9BamtSX21YQlFQU2RMTXhENVA2M1ptNEhMT3pWS1R5UXctdy1CMnBDbjZkdV9IOGREWnV6ekhvR0p2emVoOTh4TlRzUC1pdXVTWkllbFNxeG9CX0FNTzNGZVVIWWpWT1VNb3l0eGU5bnpwTHRtd21aWXk0RW8wVk9rSXI0aGJPY0xaTXA3LXZxRQ?oc=5"
         },
         {
           "title": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next. - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGJJZXFlWmhxcWo4RHFDWXFyN1JkcER6LW11MkZNaUpqb09hLS1ycVEzcjFVUkdwbjFxdzRQaEVrdTlUa1NVNlZ4ZDJVMUpfVHQzdlVHdE1zRVptbm9CSVh1R2hqSHBUYy1HMGQyencySVZnWV82VVBlNlJ4eC1HYTZmMzBaX0JXSGw0NEpWNkt6eUY5ZkRfOTZmTUxuakxscGZuRU5nVVZLLXl3X3Bv?oc=5"
-        },
-        {
-          "title": "Tech Selloff Doesn\u2019t Spook Dan Ives for Halloween: Here Are His 6 AI Stock Picks - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVUlzWlBNd18tamphckdNb3JPMXFCRGZXVEtDbEtCQlplVnNNNXNnWHo0SW16emF0dnRWOExLXzdsaHdmSDJabWNtRGRuSVBCMF9ockgxVzdjNXlKaU9uR2FrLW5lbUp2cHFXTTRpRE5KX1RmejAwcmVsOU9XZ1lNYkszQ1BlYjNZaUlBcHA3ZndoZlFZMEJQblVKMlFSR2lTcHViY2t5Rm9mNlBlbDYtV2toQWtrZ3B6a05zSXBXVzRidm42TG5qOWpjUXZfcjFlT0FnRzN2bEdmamlMUXY5RWdZbWE4eHMxVWc?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.8,
+      "currentPrice": 4.81,
       "weekAgoPrice": 4.75,
-      "percentChange": 1.05,
+      "percentChange": 1.26,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.78,
+      "currentPrice": 7.76,
       "weekAgoPrice": 7.360000133514404,
-      "percentChange": 5.71,
+      "percentChange": 5.43,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "United Overseas Bank Limited (U11.SI) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kUUZUcjZOa25UMHVuenFLbUtLT011MkJER1BzUzZRRjRTRmtxWmtoUjVrYzU1Y29qRWtrVnVrRjlJR2UyR2JFMTQzc2FtOFBsbmRSUw?oc=5"
+        }
+      ]
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.25,
+      "currentPrice": 1.26,
       "weekAgoPrice": 1.149999976158142,
-      "percentChange": 8.7,
+      "percentChange": 9.57,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.54,
+      "currentPrice": 1.55,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": 6.21,
+      "percentChange": 6.9,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.46,
+      "currentPrice": 1.45,
       "weekAgoPrice": 1.4299999475479126,
-      "percentChange": 2.1,
+      "percentChange": 1.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.18,
+      "currentPrice": 1.17,
       "weekAgoPrice": 1.149999976158142,
-      "percentChange": 2.61,
+      "percentChange": 1.74,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.235,
+      "currentPrice": 0.23,
       "weekAgoPrice": 0.24500000476837158,
-      "percentChange": -4.08,
-      "flagged": false,
+      "percentChange": -6.12,
+      "flagged": true,
       "news": []
     },
     {
@@ -98,12 +103,12 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.66,
+      "currentPrice": 0.665,
       "weekAgoPrice": 0.6899999976158142,
-      "percentChange": -4.35,
+      "percentChange": -3.62,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 5
 }
