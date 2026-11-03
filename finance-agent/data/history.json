@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-30T07:16:29.538723Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.1200000047683716,
-        "percentChange": 13.39,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.58,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": 15.33,
-        "flagged": true,
-        "news": [
-          {
-            "title": "CIMB Group Holdings Berhad (1023.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UczRPYkhVeXhXM2g2MC13bTlaaHRGYjVldnJ5bHBYUWF3Z0lGWGFGdlRhWlNYZkZ0aEtsY0RJb3RSVllaazBtSEg0dEtrZW91SnRSaWNn?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-30T08:20:36.265268Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2053,6 +2026,66 @@
           {
             "title": "Nvidia Stock And TSMC Shares In Focus As US Foundry Plans Shift - Simply Wall St",
             "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd3h5QnlxUE9VSUdyaGdMai1aLTh0ZHBpMU1XZ2hWSWtyS2ZZak9CZnp4SXp1SDRfNUFZNGowU1hDc0dHRWJQQkVWdGxVX1RYeHdqbDU2ZmRwUTdFNXRrNV9ZQ1dhdGhPOEdMb2REai0wRlBrb2dCQmV3cXRlcndzeHEyaGdZQ2lEUVVhNHotM0pUcHpyYWN3Y1drWnMwc2VnaF9BbHF0WkxXdUhVTTA3TmVHNF9DM0JURUh2ZVdva2xSaEZ5NTFVYTZzUdIB0AFBVV95cUxOWHZVU1lvQnJlVDBvaEc5Vi1PZFFRRzE1TmxielJYWFV1N25GYmhsc3FMVDYxSTR0eW9xMUozRFloUjRTUWtJeEFPaHY2SHhHLTlFV3RjbEpySGZnNldSY0s1TGVzSTNXWEM2Y0swSkFMTnFFMWFwbDVqT2NiV3FDc3Zzb3VqY0tNUmJMSmpYVjhybW5MLVhfX2lmNW1VakZ2ck5zQWhsTnVqc21iZG8wcHM5eDVHR0dYN3pCZTBmTzlXU01QZUNZa0ZYZzVhYWUw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.149999976158142,
+        "percentChange": 9.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.55,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": 6.9,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
+          },
+          {
+            "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.24500000476837158,
+        "percentChange": -6.12,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-03T13:19:18.908929Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 202.06,
+        "weekAgoPrice": 216.0,
+        "percentChange": -6.45,
+        "flagged": true,
+        "news": [
+          {
+            "title": "How Big Could NVIDIA Stock's Next Fall Be? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTZFdUFZNnBzYS1uRXFpTHhOLWl1OFo0MW1PZEo1YVJWNDRTMVdqRXhBX0Nvb0M0ZFo2SFY3QVk3OXFZQVd5QU1tSlFTb0FXbFpYWGRKc2ZyTFBJZnFvdmF3c3E1Smc5VDRMaW01WElIdE9LSVpHTDIzN0pYOHZ5dmtrXzJvWEdWNzItajBRR2FReXZjM0JTZg?oc=5"
+          },
+          {
+            "title": "Nvidia\u2019s Dismal Run Might Be Coming to an End. Grab NVDA Stock While It\u2019s Still Around $200. - Barchart.com",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaS1sOHNjaEtZdEY0aG9yTEZuRDVNU3M2a0EwckVaZG9HaE9MUVRNNkE0b1BlWlk2eEdVWkdzX0FGZHB5dGlpQ1kxU2ZoUkQxVHY5amFVNEdEaGRfTUpIMnhadHp0NXo2RDNLTFJ4aVVfZTVDc3I4RUpXdnpva1Nnc1J3TEJRUHQtUDhwUVA4N1N6bzQ0b3ZmUU91azFrSVp1ajcwZUM3X1BoM0JlQWpER1NnZzhRdWlaUWRLUG04UU9LSTJGQmdEc1Awdw?oc=5"
+          },
+          {
+            "title": "Jim Cramer Likes This Industrial Stock: \u2018It\u2019s Come Down A Great Deal\u2019 - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc1lGd1RBMjRrUjUtQ0dDeGNxYzVfVldWUDVJeWpqLTh6SVRuWmZ5MTEwSUlEc1pQUVcwcTVZVE5hOEZOeThTUlI5MU1TQnhFNkt4VldpWUtEN0p4VjNBVUZURkItQlRYbEVzRjBkbnVTRFdLY0ROZW85RjJMaEM5RU5leHVaSTJuaXpmWk5QNjJkaFNSNFgxcjVkWGhtLXVOc0hqbzFtNVlCaDR2TmZqWTRfajN1c0J1cTBjOTRUSVI4WHRiYzhGc3p3?oc=5"
           }
         ]
       },
