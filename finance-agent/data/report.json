@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-03T19:16:39.929155Z",
+  "generatedAt": "2026-11-03T20:16:15.459083Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 521.53,
+      "currentPrice": 522.64,
       "weekAgoPrice": 531.3300170898438,
-      "percentChange": -1.84,
+      "percentChange": -1.64,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 207.29,
+      "currentPrice": 206.55,
       "weekAgoPrice": 217.94000244140625,
-      "percentChange": -4.89,
-      "flagged": false,
-      "news": []
+      "percentChange": -5.23,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Nvidia Stock Climbs Amid Oil Price Drop - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkRBWndlcW94T2ROTWJiRmlkekZxaXdrQ0pZTHJpY01BNmFBeHZORGJ2MG5haXpCaVhwSlZRLXlwSWQzUDRFdDMtNDQzblVIUXloSTlSQTcyb3F2c1JObFExRFQ1YlVxcHhkaVBpNVM5SVZGZVhhUmFJWkJ5UHhFY0tKTTJIUlJnQ0hyc1p4VVBoT2c2VjNBdklMQlRNZkxtNGc?oc=5"
+        },
+        {
+          "title": "NVIDIA Rises 3% Despite AI CEO\u2019s Warning on Chinese Chip Competition; AMD Climbs 5%, Broadcom Gains 3% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLTVQcU5XdnlpdndSb1VzQ1dKbllnTW9YWXAyc2dNdjhuWElXenRMa0xpcG1XbV9lVnJTaXktM1ZWM2FxVzV3eUxlLU5sWVJUX1g1MGdGUFpjVUZMVk9HcHpDcEVZNm9VREtQSzBNVFRfTUdpb25ncXhaNkJzWU8tN1lyUkViODJOQlJNWG5HQ3Z0eU5X?oc=5"
+        },
+        {
+          "title": "NVDA Stock Rebounds Off $200 Support after Nvidia's CEO Comments and Anthropic Expansion - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVUJwWWpZclM2WjJBSFB1NmlnbXQ5Vl9TZ2ZZbVRTTDN6SUJXRC00Rld5SkcyRzRjMkQwT0h3d0FzZ2ptME1fT2FPSGk5UzJ0SnRfZjZaZ2Q1bnh5WEc0b3hWa3Z5MnMwNFdWbTFfbWYxWlBDTVBVMU44a255QXFkaGtqeHF0WHVBeUJMMlcxME1NZFoyaEdzaU9fU3hKMmg1QTFnUzU3OW5ZVFExU2Z2N2pBVjZPajhqNEVTVTc4MFJ2Y1pGZFFONQ?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
@@ -49,7 +62,16 @@
       "weekAgoPrice": 1.4299999475479126,
       "percentChange": 8.39,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
+        },
+        {
+          "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5271.KL",
@@ -92,5 +114,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 5
 }
