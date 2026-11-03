@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-29T23:16:23.031713Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 5.17,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.51,
-        "weekAgoPrice": 1.350000023841858,
-        "percentChange": 11.85,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-30T00:12:29.381264Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1709,6 +1687,57 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdW02dG1zWTk5VnB5ZS1xOHlWNW1aUFNyQlJ2VkVhYzBlNHJlM3Vtanc3YlhFd3hSX1Y1OXhsZ1dCa0ZWdF9LZTlZVC1WUVdsS05GYV9B?oc=5"
           }
         ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-03T03:16:17.999443Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 202.06,
+        "weekAgoPrice": 216.0,
+        "percentChange": -6.45,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Earnings Countdown: To Buy Ahead of the Print or Wait for Results - NAI500",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNGVoZDNody11RkJTbEk1QlBUYlBwMF9BamtSX21YQlFQU2RMTXhENVA2M1ptNEhMT3pWS1R5UXctdy1CMnBDbjZkdV9IOGREWnV6ekhvR0p2emVoOTh4TlRzUC1pdXVTWkllbFNxeG9CX0FNTzNGZVVIWWpWT1VNb3l0eGU5bnpwTHRtd21aWXk0RW8wVk9rSXI0aGJPY0xaTXA3LXZxRQ?oc=5"
+          },
+          {
+            "title": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGJJZXFlWmhxcWo4RHFDWXFyN1JkcER6LW11MkZNaUpqb09hLS1ycVEzcjFVUkdwbjFxdzRQaEVrdTlUa1NVNlZ4ZDJVMUpfVHQzdlVHdE1zRVptbm9CSVh1R2hqSHBUYy1HMGQyencySVZnWV82VVBlNlJ4eC1HYTZmMzBaX0JXSGw0NEpWNkt6eUY5ZkRfOTZmTUxuakxscGZuRU5nVVZLLXl3X3Bv?oc=5"
+          },
+          {
+            "title": "Tech Selloff Doesn\u2019t Spook Dan Ives for Halloween: Here Are His 6 AI Stock Picks - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVUlzWlBNd18tamphckdNb3JPMXFCRGZXVEtDbEtCQlplVnNNNXNnWHo0SW16emF0dnRWOExLXzdsaHdmSDJabWNtRGRuSVBCMF9ockgxVzdjNXlKaU9uR2FrLW5lbUp2cHFXTTRpRE5KX1RmejAwcmVsOU9XZ1lNYkszQ1BlYjNZaUlBcHA3ZndoZlFZMEJQblVKMlFSR2lTcHViY2t5Rm9mNlBlbDYtV2toQWtrZ3B6a05zSXBXVzRidm42TG5qOWpjUXZfcjFlT0FnRzN2bEdmamlMUXY5RWdZbWE4eHMxVWc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.78,
+        "weekAgoPrice": 7.360000133514404,
+        "percentChange": 5.71,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.25,
+        "weekAgoPrice": 1.149999976158142,
+        "percentChange": 8.7,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.54,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": 6.21,
+        "flagged": true,
+        "news": []
       }
     ]
   }

@@ -1,91 +1,82 @@
 {
-  "generatedAt": "2026-11-03T02:16:42.500919Z",
+  "generatedAt": "2026-11-03T03:16:17.999443Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 507.12,
-      "weekAgoPrice": 524.510009765625,
-      "percentChange": -3.32,
+      "weekAgoPrice": 532.5999755859375,
+      "percentChange": -4.78,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 202.06,
-      "weekAgoPrice": 210.9600067138672,
-      "percentChange": -4.22,
-      "flagged": false,
-      "news": []
+      "weekAgoPrice": 216.0,
+      "percentChange": -6.45,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Nvidia Earnings Countdown: To Buy Ahead of the Print or Wait for Results - NAI500",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNGVoZDNody11RkJTbEk1QlBUYlBwMF9BamtSX21YQlFQU2RMTXhENVA2M1ptNEhMT3pWS1R5UXctdy1CMnBDbjZkdV9IOGREWnV6ekhvR0p2emVoOTh4TlRzUC1pdXVTWkllbFNxeG9CX0FNTzNGZVVIWWpWT1VNb3l0eGU5bnpwTHRtd21aWXk0RW8wVk9rSXI0aGJPY0xaTXA3LXZxRQ?oc=5"
+        },
+        {
+          "title": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGJJZXFlWmhxcWo4RHFDWXFyN1JkcER6LW11MkZNaUpqb09hLS1ycVEzcjFVUkdwbjFxdzRQaEVrdTlUa1NVNlZ4ZDJVMUpfVHQzdlVHdE1zRVptbm9CSVh1R2hqSHBUYy1HMGQyencySVZnWV82VVBlNlJ4eC1HYTZmMzBaX0JXSGw0NEpWNkt6eUY5ZkRfOTZmTUxuakxscGZuRU5nVVZLLXl3X3Bv?oc=5"
+        },
+        {
+          "title": "Tech Selloff Doesn\u2019t Spook Dan Ives for Halloween: Here Are His 6 AI Stock Picks - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVUlzWlBNd18tamphckdNb3JPMXFCRGZXVEtDbEtCQlplVnNNNXNnWHo0SW16emF0dnRWOExLXzdsaHdmSDJabWNtRGRuSVBCMF9ockgxVzdjNXlKaU9uR2FrLW5lbUp2cHFXTTRpRE5KX1RmejAwcmVsOU9XZ1lNYkszQ1BlYjNZaUlBcHA3ZndoZlFZMEJQblVKMlFSR2lTcHViY2t5Rm9mNlBlbDYtV2toQWtrZ3B6a05zSXBXVzRidm42TG5qOWpjUXZfcjFlT0FnRzN2bEdmamlMUXY5RWdZbWE4eHMxVWc?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.82,
+      "currentPrice": 4.8,
       "weekAgoPrice": 4.75,
-      "percentChange": 1.47,
+      "percentChange": 1.05,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.77,
+      "currentPrice": 7.78,
       "weekAgoPrice": 7.360000133514404,
-      "percentChange": 5.57,
+      "percentChange": 5.71,
       "flagged": true,
-      "news": [
-        {
-          "title": "United Overseas Bank Limited (U11.SI) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kUUZUcjZOa25UMHVuenFLbUtLT011MkJER1BzUzZRRjRTRmtxWmtoUjVrYzU1Y29qRWtrVnVrRjlJR2UyR2JFMTQzc2FtOFBsbmRSUw?oc=5"
-        },
-        {
-          "title": "CIMB Group Holdings Berhad (1023.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdW02dG1zWTk5VnB5ZS1xOHlWNW1aUFNyQlJ2VkVhYzBlNHJlM3Vtanc3YlhFd3hSX1Y1OXhsZ1dCa0ZWdF9LZTlZVC1WUVdsS05GYV9B?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.26,
+      "currentPrice": 1.25,
       "weekAgoPrice": 1.149999976158142,
-      "percentChange": 9.57,
+      "percentChange": 8.7,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.57,
+      "currentPrice": 1.54,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": 8.28,
+      "percentChange": 6.21,
       "flagged": true,
-      "news": [
-        {
-          "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
-        },
-        {
-          "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
-        },
-        {
-          "title": "CIMB Group Holdings Berhad (1023.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdW02dG1zWTk5VnB5ZS1xOHlWNW1aUFNyQlJ2VkVhYzBlNHJlM3Vtanc3YlhFd3hSX1Y1OXhsZ1dCa0ZWdF9LZTlZVC1WUVdsS05GYV9B?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.45,
+      "currentPrice": 1.46,
       "weekAgoPrice": 1.4299999475479126,
-      "percentChange": 1.4,
+      "percentChange": 2.1,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.19,
+      "currentPrice": 1.18,
       "weekAgoPrice": 1.149999976158142,
-      "percentChange": 3.48,
+      "percentChange": 2.61,
       "flagged": false,
       "news": []
     },
@@ -114,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 4
 }
