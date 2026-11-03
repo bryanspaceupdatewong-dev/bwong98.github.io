@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-03T17:16:45.542623Z",
+  "generatedAt": "2026-11-03T18:17:45.014293Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 516.655,
+      "currentPrice": 520.61,
       "weekAgoPrice": 531.3300170898438,
-      "percentChange": -2.76,
+      "percentChange": -2.02,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 208.45,
+      "currentPrice": 208.18,
       "weekAgoPrice": 217.94000244140625,
-      "percentChange": -4.35,
+      "percentChange": -4.48,
       "flagged": false,
       "news": []
     },
@@ -49,16 +49,7 @@
       "weekAgoPrice": 1.4299999475479126,
       "percentChange": 8.39,
       "flagged": true,
-      "news": [
-        {
-          "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
-        },
-        {
-          "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5271.KL",
