@@ -1,27 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-30T02:16:25.067778Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.24,
-        "weekAgoPrice": 1.1200000047683716,
-        "percentChange": 10.71,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.52,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": 10.95,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-30T03:16:35.713668Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1867,6 +1845,78 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdW02dG1zWTk5VnB5ZS1xOHlWNW1aUFNyQlJ2VkVhYzBlNHJlM3Vtanc3YlhFd3hSX1Y1OXhsZ1dCa0ZWdF9LZTlZVC1WUVdsS05GYV9B?oc=5"
           }
         ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.24500000476837158,
+        "percentChange": -6.12,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-03T07:16:48.320732Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 202.06,
+        "weekAgoPrice": 216.0,
+        "percentChange": -6.45,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA (NASDAQ:NVDA) Share Price Breaks Below 200-Day Moving Average on Analyst Downgrade - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb09haXVkaGZRdXZnemxHdG00d1pISXp2Z0h3RWxCRVg3WThWc3E1Y1lWWHQ5Y0pCWlNDM3NoN1FvSFRIM29GNm1jdEw2ZlA1RUk2NGtpNXc1WHdXaTJ6Q2gxckhoNGRPRkdpZWdGNGFZb0Frb1RCTmgyNHdqMkd0UGR3YWIwXzNJRm9BbmlXeTE1MkFMWDdXUThocmlpQm1SQUhrQllTb0x3OGRzaWtoU3A5YkZ1N3VUdk5aTmpIeTVac0QydEQtUFpsdFpmX09sNVRhUEdOOXJnOXpnRmZ2Mg?oc=5"
+          },
+          {
+            "title": "NVIDIA breaks support, oversold at $205: Live levels - Investing.com",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnFIbm8zM2NWVE5od1Foc3c0RXZYRE54ZHQyY3g1eEpYTHZRRV8zdVp1VUtuQnlrQjktbGRDdHFPbkRraTBESWFySEdRLVJlTkEzb2hBS3dUUjFqaEEtYnBmZ19yS3Z1SzNTTnlPYm0xS3dlR2todjd6bnBIcWI1SzlkSENubVJrVF9SZjhNdG1uT2R5WmFBRjA4M2NxVW9JcTRlNDNnNXptOWItdHQyZQ?oc=5"
+          },
+          {
+            "title": "Nvidia Stock And 2 US Growth Stocks Facing A Treasury Yield Reset - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlNrQ1ZDQmNvTllra2ViQVl3NmZ1X2YySEE3TXgzNzIyUHRtNkV5SjFLZ0F4NGtnaGJ3eFQ1VUdiTFNHcmlVYVNyblBfU1VlLXZhTTBRZTNSOXptbU14a0lzSHB4cHA3N3lUYTgwMWdlYklKYVczTVJ2VTZkVkJaSEVXWkg4NWE5bnEwVUlpdElES3M?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.82,
+        "weekAgoPrice": 7.360000133514404,
+        "percentChange": 6.25,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Oversea-Chinese Banking Corporation Limited (O39.SI) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84bms2Y2NCNHZOVTdidGlkOHVlV0I5akI4cGwtbWJmdEd3RE5hZHhMdHlfZGZySXpiNGFwdkhtRzNUeUxROEJUZXZ6WkdwTDBVSm5zTTAxWm1CaVA5SXJfRDFfR0M?oc=5"
+          },
+          {
+            "title": "United Overseas Bank Limited (U11.SI) stock price, news, quote and history - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIRURXVmxkaFppcC1Memdpd0ZrbC1ubFp2bnpzaDBSSDJNRlFRTXhzeFVwRnN3ZDVrZVAxS3RuNk1JYjQ4cjF3RUZfU0lHUVZDT0pLSQ?oc=5"
+          },
+          {
+            "title": "CIMB Group Holdings Berhad (1023.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdW02dG1zWTk5VnB5ZS1xOHlWNW1aUFNyQlJ2VkVhYzBlNHJlM3Vtanc3YlhFd3hSX1Y1OXhsZ1dCa0ZWdF9LZTlZVC1WUVdsS05GYV9B?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.24,
+        "weekAgoPrice": 1.149999976158142,
+        "percentChange": 7.83,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.53,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": 5.52,
+        "flagged": true,
+        "news": []
       },
       {
         "ticker": "0397.KL",
