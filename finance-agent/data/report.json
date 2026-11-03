@@ -1,66 +1,53 @@
 {
-  "generatedAt": "2026-11-03T00:16:14.180761Z",
+  "generatedAt": "2026-11-03T01:16:13.242243Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 507.12,
-      "weekAgoPrice": 532.5999755859375,
-      "percentChange": -4.78,
+      "weekAgoPrice": 524.510009765625,
+      "percentChange": -3.32,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 202.06,
-      "weekAgoPrice": 216.0,
-      "percentChange": -6.45,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGJJZXFlWmhxcWo4RHFDWXFyN1JkcER6LW11MkZNaUpqb09hLS1ycVEzcjFVUkdwbjFxdzRQaEVrdTlUa1NVNlZ4ZDJVMUpfVHQzdlVHdE1zRVptbm9CSVh1R2hqSHBUYy1HMGQyencySVZnWV82VVBlNlJ4eC1HYTZmMzBaX0JXSGw0NEpWNkt6eUY5ZkRfOTZmTUxuakxscGZuRU5nVVZLLXl3X3Bv?oc=5"
-        },
-        {
-          "title": "Tech Selloff Doesn\u2019t Spook Dan Ives for Halloween: Here Are His 6 AI Stock Picks - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVUlzWlBNd18tamphckdNb3JPMXFCRGZXVEtDbEtCQlplVnNNNXNnWHo0SW16emF0dnRWOExLXzdsaHdmSDJabWNtRGRuSVBCMF9ockgxVzdjNXlKaU9uR2FrLW5lbUp2cHFXTTRpRE5KX1RmejAwcmVsOU9XZ1lNYkszQ1BlYjNZaUlBcHA3ZndoZlFZMEJQblVKMlFSR2lTcHViY2t5Rm9mNlBlbDYtV2toQWtrZ3B6a05zSXBXVzRidm42TG5qOWpjUXZfcjFlT0FnRzN2bEdmamlMUXY5RWdZbWE4eHMxVWc?oc=5"
-        },
-        {
-          "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 1.3% Following Analyst Downgrade - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbEE5R0QwbV83ZHU4b1RnbGs0VDcteUtKVUJJWkpXZzIxVWMwX29BeDNwd2VIYTNMOXRzTnRGbDhBRE1uX3RyTGZCQnZRdDNiTWFtVnA1bjdHMlJNaFZpZTJvTVI0bUdYVmkzU2IxUUd4YlVHZ0ZoQUlFVm05cnNQaS1lY0l0VWpDNFgxZ3BNSlo5UWJoNEFCb29rM1NzOFU5WllZc215TV9qNy1HTkVtY2RtcDR2M3lVYjA5dUln?oc=5"
-        }
-      ]
+      "weekAgoPrice": 210.9600067138672,
+      "percentChange": -4.22,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.79,
-      "weekAgoPrice": 4.730000019073486,
-      "percentChange": 1.27,
+      "weekAgoPrice": 4.75,
+      "percentChange": 0.84,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.5,
-      "weekAgoPrice": 7.349999904632568,
-      "percentChange": 2.04,
+      "currentPrice": 7.54,
+      "weekAgoPrice": 7.360000133514404,
+      "percentChange": 2.45,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.26,
-      "weekAgoPrice": 1.159999966621399,
-      "percentChange": 8.62,
+      "currentPrice": 1.25,
+      "weekAgoPrice": 1.149999976158142,
+      "percentChange": 8.7,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.56,
-      "weekAgoPrice": 1.4299999475479126,
-      "percentChange": 9.09,
+      "currentPrice": 1.57,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": 8.28,
       "flagged": true,
       "news": []
     },
@@ -74,9 +61,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.18,
+      "currentPrice": 1.19,
       "weekAgoPrice": 1.149999976158142,
-      "percentChange": 2.61,
+      "percentChange": 3.48,
       "flagged": false,
       "news": []
     },
@@ -105,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 3
 }
