@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T08:16:55.875362Z",
+  "generatedAt": "2026-11-03T09:16:32.928886Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "NVIDIA (NASDAQ:NVDA) Share Price Breaks Below 200-Day Moving Average on Analyst Downgrade - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb09haXVkaGZRdXZnemxHdG00d1pISXp2Z0h3RWxCRVg3WThWc3E1Y1lWWHQ5Y0pCWlNDM3NoN1FvSFRIM29GNm1jdEw2ZlA1RUk2NGtpNXc1WHdXaTJ6Q2gxckhoNGRPRkdpZWdGNGFZb0Frb1RCTmgyNHdqMkd0UGR3YWIwXzNJRm9BbmlXeTE1MkFMWDdXUThocmlpQm1SQUhrQllTb0x3OGRzaWtoU3A5YkZ1N3VUdk5aTmpIeTVac0QydEQtUFpsdFpmX09sNVRhUEdOOXJnOXpnRmZ2Mg?oc=5"
+          "title": "NVDA Shares Inch Higher Overnight After 4-Day Rout: Chipmaker Reportedly Tells Cloud Clients To Limit China Exposure - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeThaYzJPQ3BBeXF3WF9WMGZZSFhGdGZWLVpMSzE4NWJzRE5GSnVmcU8zVE5Zc2NyVVZfNFBPbXJsb3g3Wjc1R1lERGdXZmxlU0F3SWt2T0xLZFc1Rk03UE1LYlpyR2FpakowbWdiN19wVy1QQTNZdnp3a21rUVhkU3hQWXZtOTB2TlBoNDNKekVXTGFlUEliWmZPS29Tckk?oc=5"
         },
         {
-          "title": "NVIDIA breaks support, oversold at $205: Live levels - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnFIbm8zM2NWVE5od1Foc3c0RXZYRE54ZHQyY3g1eEpYTHZRRV8zdVp1VUtuQnlrQjktbGRDdHFPbkRraTBESWFySEdRLVJlTkEzb2hBS3dUUjFqaEEtYnBmZ19yS3Z1SzNTTnlPYm0xS3dlR2todjd6bnBIcWI1SzlkSENubVJrVF9SZjhNdG1uT2R5WmFBRjA4M2NxVW9JcTRlNDNnNXptOWItdHQyZQ?oc=5"
+          "title": "NVDA Shares Inch Higher Overnight After 4-Day Rout: Chipmaker Reportedly Tells Cloud Clients To Limit China Exposure - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMjgxNTRkWFIzT3NTUWJIbXM4WFgtcmxJcy13Vi1lZ0owWFAwMzRjVGVDSi14WEU2aWhYMURvZnYwZHZQME9HUVNIbmYzNHNleVUxUzZtV0pfM0VDQTF2Z1FSalRwRk1INHNPZlYxY1QxMmdfQjFjLWpuOG1KVTlIaWdkXy1sSndJaDBxZnc2YXJNV2hDbjBscVhQcWswOWZKTmxOVV9aVlJjSjdXZUlwOVZBdWZ0dmVzdVNVNVFfWkM3YkhRTy1JNGNQamdGUV9aTlpKdVpPdExiemdUckxJbHh6UlRrWHdlNTdjT0RrTGY5cjdkLWtHZk1QZnFvemdKQjlkcFgxVG5LcENt?oc=5"
         },
         {
-          "title": "Nvidia Stock And 2 US Growth Stocks Facing A Treasury Yield Reset - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlNrQ1ZDQmNvTllra2ViQVl3NmZ1X2YySEE3TXgzNzIyUHRtNkV5SjFLZ0F4NGtnaGJ3eFQ1VUdiTFNHcmlVYVNyblBfU1VlLXZhTTBRZTNSOXptbU14a0lzSHB4cHA3N3lUYTgwMWdlYklKYVczTVJ2VTZkVkJaSEVXWkg4NWE5bnEwVUlpdElES3M?oc=5"
+          "title": "Nvidia-Favored Marvell and Lumentum Announce Merger: What Does This Mean for NVDA? - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbFpyOHl5Wjh4NXVBZzF6WkpLS3VxNjBhcGw5NGFCM05RRDZXa1p6ZTE1WlNCSlZiMWZzTzJtaWk4X1pLRmtxSk4zWHZJRzNUbnEyajlhUVl3VXZhTTJaX0R3QUYxMWtGVVplQ0dJTHFXUUFVMVFMd2psSklhZjhjR0ZXZ0JYcmd2MG9uNVJSdHM0a2M2TGppMVJqd0dIRU02SHRxTlNhTEFKSkEzMW8xRFJkeHhsdUZDbHJTcG14aHY3bENNXzM1Nm1zTTVtWFhvOHU1NVZVb2tNYU0?oc=5"
         }
       ]
     },
@@ -50,32 +50,19 @@
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.25,
+      "currentPrice": 1.26,
       "weekAgoPrice": 1.149999976158142,
-      "percentChange": 8.7,
+      "percentChange": 9.57,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.54,
+      "currentPrice": 1.55,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": 6.21,
+      "percentChange": 6.9,
       "flagged": true,
-      "news": [
-        {
-          "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
-        },
-        {
-          "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
-        },
-        {
-          "title": "CIMB Group Holdings Berhad (1023.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdW02dG1zWTk5VnB5ZS1xOHlWNW1aUFNyQlJ2VkVhYzBlNHJlM3Vtanc3YlhFd3hSX1Y1OXhsZ1dCa0ZWdF9LZTlZVC1WUVdsS05GYV9B?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5271.KL",
@@ -87,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.17,
+      "currentPrice": 1.18,
       "weekAgoPrice": 1.149999976158142,
-      "percentChange": 1.74,
+      "percentChange": 2.61,
       "flagged": false,
       "news": []
     },
