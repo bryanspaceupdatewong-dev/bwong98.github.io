@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T05:16:11.236527Z",
+  "generatedAt": "2026-11-03T06:17:17.520655Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "NVIDIA (NASDAQ:NVDA) Share Price Breaks Below 200-Day Moving Average on Analyst Downgrade - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb09haXVkaGZRdXZnemxHdG00d1pISXp2Z0h3RWxCRVg3WThWc3E1Y1lWWHQ5Y0pCWlNDM3NoN1FvSFRIM29GNm1jdEw2ZlA1RUk2NGtpNXc1WHdXaTJ6Q2gxckhoNGRPRkdpZWdGNGFZb0Frb1RCTmgyNHdqMkd0UGR3YWIwXzNJRm9BbmlXeTE1MkFMWDdXUThocmlpQm1SQUhrQllTb0x3OGRzaWtoU3A5YkZ1N3VUdk5aTmpIeTVac0QydEQtUFpsdFpmX09sNVRhUEdOOXJnOXpnRmZ2Mg?oc=5"
+        },
+        {
+          "title": "NVIDIA breaks support, oversold at $205: Live levels - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnFIbm8zM2NWVE5od1Foc3c0RXZYRE54ZHQyY3g1eEpYTHZRRV8zdVp1VUtuQnlrQjktbGRDdHFPbkRraTBESWFySEdRLVJlTkEzb2hBS3dUUjFqaEEtYnBmZ19yS3Z1SzNTTnlPYm0xS3dlR2todjd6bnBIcWI1SzlkSENubVJrVF9SZjhNdG1uT2R5WmFBRjA4M2NxVW9JcTRlNDNnNXptOWItdHQyZQ?oc=5"
+        },
+        {
           "title": "Nvidia Stock And 2 US Growth Stocks Facing A Treasury Yield Reset - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlNrQ1ZDQmNvTllra2ViQVl3NmZ1X2YySEE3TXgzNzIyUHRtNkV5SjFLZ0F4NGtnaGJ3eFQ1VUdiTFNHcmlVYVNyblBfU1VlLXZhTTBRZTNSOXptbU14a0lzSHB4cHA3N3lUYTgwMWdlYklKYVczTVJ2VTZkVkJaSEVXWkg4NWE5bnEwVUlpdElES3M?oc=5"
-        },
-        {
-          "title": "Nvidia Earnings Countdown: To Buy Ahead of the Print or Wait for Results - NAI500",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNGVoZDNody11RkJTbEk1QlBUYlBwMF9BamtSX21YQlFQU2RMTXhENVA2M1ptNEhMT3pWS1R5UXctdy1CMnBDbjZkdV9IOGREWnV6ekhvR0p2emVoOTh4TlRzUC1pdXVTWkllbFNxeG9CX0FNTzNGZVVIWWpWT1VNb3l0eGU5bnpwTHRtd21aWXk0RW8wVk9rSXI0aGJPY0xaTXA3LXZxRQ?oc=5"
-        },
-        {
-          "title": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGJJZXFlWmhxcWo4RHFDWXFyN1JkcER6LW11MkZNaUpqb09hLS1ycVEzcjFVUkdwbjFxdzRQaEVrdTlUa1NVNlZ4ZDJVMUpfVHQzdlVHdE1zRVptbm9CSVh1R2hqSHBUYy1HMGQyencySVZnWV82VVBlNlJ4eC1HYTZmMzBaX0JXSGw0NEpWNkt6eUY5ZkRfOTZmTUxuakxscGZuRU5nVVZLLXl3X3Bv?oc=5"
         }
       ]
     },
