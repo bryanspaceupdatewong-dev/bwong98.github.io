@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T01:16:13.242243Z",
+  "generatedAt": "2026-11-03T02:16:42.500919Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,25 +21,34 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.79,
+      "currentPrice": 4.82,
       "weekAgoPrice": 4.75,
-      "percentChange": 0.84,
+      "percentChange": 1.47,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.54,
+      "currentPrice": 7.77,
       "weekAgoPrice": 7.360000133514404,
-      "percentChange": 2.45,
-      "flagged": false,
-      "news": []
+      "percentChange": 5.57,
+      "flagged": true,
+      "news": [
+        {
+          "title": "United Overseas Bank Limited (U11.SI) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kUUZUcjZOa25UMHVuenFLbUtLT011MkJER1BzUzZRRjRTRmtxWmtoUjVrYzU1Y29qRWtrVnVrRjlJR2UyR2JFMTQzc2FtOFBsbmRSUw?oc=5"
+        },
+        {
+          "title": "CIMB Group Holdings Berhad (1023.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdW02dG1zWTk5VnB5ZS1xOHlWNW1aUFNyQlJ2VkVhYzBlNHJlM3Vtanc3YlhFd3hSX1Y1OXhsZ1dCa0ZWdF9LZTlZVC1WUVdsS05GYV9B?oc=5"
+        }
+      ]
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.25,
+      "currentPrice": 1.26,
       "weekAgoPrice": 1.149999976158142,
-      "percentChange": 8.7,
+      "percentChange": 9.57,
       "flagged": true,
       "news": []
     },
@@ -49,14 +58,27 @@
       "weekAgoPrice": 1.4500000476837158,
       "percentChange": 8.28,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
+        },
+        {
+          "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
+        },
+        {
+          "title": "CIMB Group Holdings Berhad (1023.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdW02dG1zWTk5VnB5ZS1xOHlWNW1aUFNyQlJ2VkVhYzBlNHJlM3Vtanc3YlhFd3hSX1Y1OXhsZ1dCa0ZWdF9LZTlZVC1WUVdsS05GYV9B?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.45,
-      "weekAgoPrice": 1.3799999952316284,
-      "percentChange": 5.07,
-      "flagged": true,
+      "weekAgoPrice": 1.4299999475479126,
+      "percentChange": 1.4,
+      "flagged": false,
       "news": []
     },
     {
