@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-02T18:16:22.414201Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.1200000047683716,
-        "percentChange": 12.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.56,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": 13.87,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.3799999952316284,
-        "percentChange": 5.07,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-02T19:16:55.894742Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2314,6 +2284,70 @@
           {
             "title": "Nvidia Stock News: NVDA Rises As $70 Billion China Chip Order Stuck In Queue - Coinpedia",
             "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUFZbG0wU3hZMXZQMVhtaXZZTU1zZE5sMFB6TFVvUU9MNE9sRDhiUDdIdEpOOFkySE51cjdXYXF4VWg2b1M4R3ZSbmxPTVRGcHRWeTJPeHFBc0V1N1VGSW1UcnUwRnVCUjdsN2hQbmdaSDJxc05Sc2JLYzQyMzlDOFBoaFJVWWNBMEdHRVZJNVAydVJHSjRyMkNjWUdoSVlUU0JuSmdoa01XdXQ5ZldXUzNqeDHSAboBQVVfeXFMTVpuS1hhXzEzLXYwVGh2WE1oLWZRSmNnbVV0T1Q5Q0NjSVBqN3J4cEZqYms2RUVVSHF1SnFQZTRYbUpxVXl0dXg5ZGluSGtKVjM1UXRZekJjdENVRnAwX1hSa3F1a1VMQ3lvVnY1Vkd1cTBSNEtQejJuMjh4UlJoTHc0TXB4Z1Jwb3dna0hhUHBuNlozZm1mak1tMy12bGNZc1JpblZqMXRzQVhEc2ZTSXcwekcxTDA2Q1Z3?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.73,
+        "weekAgoPrice": 7.360000133514404,
+        "percentChange": 5.03,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.23,
+        "weekAgoPrice": 1.149999976158142,
+        "percentChange": 6.96,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-04T20:16:12.569422Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 558.606,
+        "weekAgoPrice": 531.010009765625,
+        "percentChange": 5.2,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MSFT Stock Surges Above $556 to Record Highs as Midterms Lift Microsoft and Big Tech - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenk2ekVnNzltX1RIeE1lTkZaNkZtQlpNSktwbjZGc2VZVWZNdXlWbzZUeF9Cd2NXdEYxYUpDMWV0V1d0Z2xsWnUtTHFleHI1SURrN0UtNjNqU1dDbXBIRWpBZ0IyZjIwUWpLMDJVaDRpYXo4ZHFxd1pfSDVuNHNydGctX3dha0h0UHBGQ0paUmE2YWVhQVlwSzJ5cHE3TVUtblM4a2VheEx3X2hfYkJVdGJNbnYyQlAyMHFhUC1COEN0NEth?oc=5"
+          },
+          {
+            "title": "Microsoft Stock Hits Record High After Blue Wave - Microsoft (NASDAQ:MSFT) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1ppWDQybXQwdG1xM2xLM1BtRlBfeWFLUHVTWlNPR3d5WGpaYldJSzctdE41VndvbnA2N0M1aVRKMWtGQVQzdnhJNUllSmtmRHZWZURfTERJN29razFZZkdoQk5tdGJFQlRBa0RGNHBESHl1djhVSXJxY0RHXzhkem5GYlF2X0QyQTZjenZseUtaMjl0U244ckREeG1DVHhBWGdYck9YYWpVMkVPZXFBVFRR?oc=5"
+          },
+          {
+            "title": "Big tech stocks soar as investors bet Democrats could bring AI spending back to reality - Quartz",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MYlVjTVpSd09ZbVJyVEpFWUtrZWtnUXlnY0k3ZnNFY2pEdUppQjZhZnhRQ0NFLWYyOWF3NDVxWmRJazJmWkdnNVdEaS1XdXk1TlR4WDBLRnVsSWxXZURDSlFQYTlhSFk3N0QxdUpWRWpZZw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 202.4,
+        "weekAgoPrice": 215.3800048828125,
+        "percentChange": -6.03,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stocks Decline 1.35% as $108 Billion Guide Sets the Next Revenue Hurdle - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGxlQnpRMTNuZTRuXzdxTWJ1am42cG03eDBsZHBfbjNZTVZ2RmJTODkwY2tyQmJ1ZktGaTN6Z1dVOWlPLUZ6aFhieVp1Xy1EOVV4MzV0N08yaWdjMUY3ZWhWYndpQ0kwLUhBNl95MnlrdmZUV1pfLW8tLXVDeEpTRg?oc=5"
+          },
+          {
+            "title": "Big tech stocks soar as investors bet Democrats could bring AI spending back to reality - Quartz",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MYlVjTVpSd09ZbVJyVEpFWUtrZWtnUXlnY0k3ZnNFY2pEdUppQjZhZnhRQ0NFLWYyOWF3NDVxWmRJazJmWkdnNVdEaS1XdXk1TlR4WDBLRnVsSWxXZURDSlFQYTlhSFk3N0QxdUpWRWpZZw?oc=5"
+          },
+          {
+            "title": "Why Nvidia Stock Can Ride Out a Data-Center Crackdown - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS01LbkZsaFVHUndoOHltS1lFSzg3dnI0SVdRZ1p1Mm40MEtoM2QxcWxnb01OOFJhTlBPZ09WdjZxYy1XWjdJZzJ2NEo4clZjOGljMm9zb0RZNzJlVU1XRGwtVmF4LUlpelh6V1Bsbl8teG84MTBDbFZGeF9FZw?oc=5"
           }
         ]
       },
