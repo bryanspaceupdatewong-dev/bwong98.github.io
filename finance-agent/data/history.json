@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-02T22:16:36.393970Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 202.06,
-        "weekAgoPrice": 216.0,
-        "percentChange": -6.45,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 1.3% Following Analyst Downgrade - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbEE5R0QwbV83ZHU4b1RnbGs0VDcteUtKVUJJWkpXZzIxVWMwX29BeDNwd2VIYTNMOXRzTnRGbDhBRE1uX3RyTGZCQnZRdDNiTWFtVnA1bjdHMlJNaFZpZTJvTVI0bUdYVmkzU2IxUUd4YlVHZ0ZoQUlFVm05cnNQaS1lY0l0VWpDNFgxZ3BNSlo5UWJoNEFCb29rM1NzOFU5WllZc215TV9qNy1HTkVtY2RtcDR2M3lVYjA5dUln?oc=5"
-          },
-          {
-            "title": "Bank of America Analysts Maintain Bullish View on Nvidia (NVDA) Amid AI Demand and Election Uncertainty - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXJQaVRhR3ZkZEpFWWlYX3N4OWZwQV9EMVhTdkFVWUhSMVdkdlRWZXRRMVNhZjBPQTBwYWcweks0dGJVRzZmUFhhVEg4ckRsSTQ2aE15QUdpZVJzS1ExYVBEU3F1OVNGQUxKNjNHMjg4X1hLcUJJNndFUEo0VDdUZTZyOGJ6Uml3VHd3MWgzX3VMTUhvemxJSkI2bDNnaFlSbGJ5R0hKLXY2dGozOUtVZ3puX2RDQ3BvWUtrOEh3emlhamN2ZVp1VHlja3hSQXBxUWRKV0FGRQ?oc=5"
-          },
-          {
-            "title": "SKHY vs NVDA: valuation, earnings, and risk compared - Investing.com",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUQzOXNzSlhDdzBsWDd4c3NPVUdRYzBNbElFbm1wMlVZaG5zblhGQWhqU0s5bjl4ZndKVnkwdUtQMU0ydVJzY1lYWUtkM3F6MjBnTWJIWEhOb3o4LU9mT3ZFaE0yUnBRcFE5RVFpemlORkR6MzF1NFRJMmdseGtOZHpQSlZHT2xlbXBCTG9LUXRGbHFDSXYtV2V3d0JSeGdBajV6eXpmM1JtTDZMVGFhVw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 8.62,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.56,
-        "weekAgoPrice": 1.4299999475479126,
-        "percentChange": 9.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.3799999952316284,
-        "percentChange": 5.07,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-02T22:25:40.622360Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2285,6 +2234,33 @@
           {
             "title": "Nvidia Stocks Decline 1.35% as $108 Billion Guide Sets the Next Revenue Hurdle - GuruFocus",
             "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQRWhIdWRpcWNwbHVSZHgyR2NuUnFkZkVNeE5xQjZWQWxhZDk5VUpoUTZCV3hSVTVYN2pCUk95WnlZc29jT3FYc2tvN0FzTjA2bXFNaDh1VFZNM01ndjJfUE5wbVVNOTdxZXJVVEsweWVuN1MwMlFjRHJaVUtTSURKaVE3LWtvbk5LU0dfS3FuWlZERXJnenc2aHRxR2NNcTREUGpCWjRqWnlhWmV5MTBUOGJnZHNDOS1aWjNyVjhCWVJCeGtHcUtMRy1hQkhlVzlSU3pQQlMwZy1tUHdZd3FzNW9Yd0ctcHU5OTdrYXo3dktUM1BqMlZVMzNCekwxVVVsZDNoSzFaOEFYUWY1NzNlNWxldWQ2aGtFdnQ5eTRoRlg3WmtUMk42cG9UN09CMUM2QmZ5bkpTbC1qOVY5Z0RFM1Zn?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-04T23:16:12.892277Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 200.13,
+        "weekAgoPrice": 215.3800048828125,
+        "percentChange": -7.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 3.2% - Time to Sell? - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3M4bnZ2ZnpTM090RVFUUHR2bUNkV3Fqb0NpYkEtSEtaRkxYTGNaZ1dqNXR4Ynh6UVRBbC1kci16MnhVeFFQZkhJbVU1TXh2ejloeEgwOWM3M1VSZTB1RDIwN05QU0JPUTlmeXQ4cHp1VUp0RGVhdzNxQld2ZTkxdDZsNFBfb09XcTdEZU1PNVNlWGYzVFBHUUpmNk9qYjJSYjVoVWJzUzdsUQ?oc=5"
+          },
+          {
+            "title": "NVIDIA Corp Stock (NVDA) Closed Down by 3.12% on Nov 4: What Investors Need To Know - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSHFObXJxc3NCal9CZVJhTTllZ2V3Z0dWWVBnUDM2YzNaRURETU9DQm5BVmpHbmNyM3Rsb25VdHlWcHNCYmd0WUtHQ1lyOFJ4OGFHY014M1J4SVhra2Y0T1YxS3kxUVI5MEZPMEs1UGhNZjBmRVZWTnRjeUVON1pCenI5WUF4dXhseUt3?oc=5"
+          },
+          {
+            "title": "NVDA Stock Tests $200 Support as Political Backlash Hits Nvidia and Chip Sector - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXNWWjRJb2UyOFZjVFNlWW82UG1nS1dmX0ZEVDFlMjVjMl83QW5LOTIwMWJHRzI3M3dZVWhSUGUtSGJjeE80MUdQcXNITnFaOVliei1GV203N0tTSVZQa0xpLTV5OFU3WXRTYWZNMDlPYV93bVlZYjZTMGdwNGliTFY2LTc3VzZQUDdOQjVmaGhiT2tMNlRHQlk2N0plb2x0ZFpzbHRZM3dWdjd5MDNoS05mUXdXSlZWc0k0SkV3?oc=5"
           }
         ]
       }
