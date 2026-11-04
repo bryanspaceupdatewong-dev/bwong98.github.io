@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T04:16:29.436634Z",
+  "generatedAt": "2026-11-04T05:16:37.596380Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,8 +19,8 @@
       "flagged": true,
       "news": [
         {
-          "title": "Top 3 AI Stocks To Watch In November 2026 - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUZFc2VjZlN3dHRYRXFncENkOUN3c2NGSFRxdFVPV0xtQVI0OFRuclNOUzFoZlRVZjZMUGVoSU0tOFMxek9VeXZUSTlqd2RVVHR0aXJfQnpWOWpuUWU3MmpkNWdMUzZ2NWdLT2VjR2VEU1BGLXlYOU90WE5xNzBxbkRvajhlT3dEdjhnZXNoRVRvU2otY1hsSFc5VURMV3gySDZ3RWUwNjYtWFBWQU01ZTBJXznSAboBQVVfeXFMTURiT0h4SWdGT0k1YjA2ZVdyeThtMjh3V3R3d0RiMXUxbUloLVlERW45UkJrY2FSVF9iMzNsamZiV2RuMm9oZUFqc19PNVc0dUZTMEpVYkhFZ1FHOGhGaXlaVUg0MmdIcmhOc3ZZQVNvUEtRVWVBVkQ2X09zNDhZVWZhcXJzZTRkQ1FOZXN1RkZDTVpEZEdMYkhSZUEzMi1sVER3SjZMSjRmZ1Z2Z3dPYld3M05ETlpqVU5n?oc=5"
+          "title": "Is NVIDIA's Cheap Valuation an Opportunity to Invest in the Stock? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHhjQ1htMUJybUM5QmU2UXVpaHRjSFRZRDl2bFc5cnhhU05iODAwSnR1RGFVRjBMbVZsYkhEWjhuUW1oTUNxdlozVWZhdXNfMEIyVFM5ZVMxd2tBRFBEWTJQT3FiZk81UzFXQ1hsS3lXVlRvYUVPalAxcGJReTlhbTJpd3VYemV3MHdtX1RYcnM3b2NidTJDVEZhVXltVkRramd4WmE5dllTajlPcnNJNEpJMVIxVzdEbVo2eFV4dG1GRm9sN19UZk5XUlVxN0F2eGotS3pvaV9HaVlEOXRocUVKbWJ6a00?oc=5"
         },
         {
           "title": "AMD, SMCI, ANET, ALAB, NVDA: 5 Trending Stocks Today - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
@@ -34,41 +34,41 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.77,
+      "currentPrice": 4.78,
       "weekAgoPrice": 4.710000038146973,
-      "percentChange": 1.27,
+      "percentChange": 1.49,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.72,
+      "currentPrice": 7.75,
       "weekAgoPrice": 7.380000114440918,
-      "percentChange": 4.61,
-      "flagged": false,
+      "percentChange": 5.01,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.24,
+      "currentPrice": 1.25,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": 1.64,
+      "percentChange": 2.46,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.54,
+      "currentPrice": 1.53,
       "weekAgoPrice": 1.5099999904632568,
-      "percentChange": 1.99,
+      "percentChange": 1.32,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.46,
+      "currentPrice": 1.47,
       "weekAgoPrice": 1.4299999475479126,
-      "percentChange": 2.1,
+      "percentChange": 2.8,
       "flagged": false,
       "news": []
     },
@@ -90,20 +90,20 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.27,
+      "currentPrice": 1.28,
       "weekAgoPrice": 1.2999999523162842,
-      "percentChange": -2.31,
+      "percentChange": -1.54,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.665,
+      "currentPrice": 0.66,
       "weekAgoPrice": 0.6800000071525574,
-      "percentChange": -2.21,
+      "percentChange": -2.94,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 1
+  "flaggedCount": 2
 }
