@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-02T08:29:12.889110Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 7.76,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.58,
-        "weekAgoPrice": 1.4299999475479126,
-        "percentChange": 10.49,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
-          },
-          {
-            "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
-          },
-          {
-            "title": "CIMB Group Holdings Berhad (1023.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdW02dG1zWTk5VnB5ZS1xOHlWNW1aUFNyQlJ2VkVhYzBlNHJlM3Vtanc3YlhFd3hSX1Y1OXhsZ1dCa0ZWdF9LZTlZVC1WUVdsS05GYV9B?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.3799999952316284,
-        "percentChange": 5.07,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-02T09:18:21.565161Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2316,6 +2273,33 @@
           {
             "title": "NVIDIA Corporation $NVDA Stock Purchased by McGlone Suttner Wealth Management Inc. - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNGFETzdvWGhERjZ3MXBPZkt1Y0hpZ09hMUFWRVpHejdqZUNuM1N0eTJ2Z2pQLXJrQ2FUZ3NTSUhBM2hNRk5UTmo1d2p3UEFfZG1xQ2RUcjR0NUVTZVZQY0hjcWo4cjB5QS1xTDlNM3FNQmJtTW5xaW9NTGl6UXN2VV92blJGekRtcGpJaDB6dGwydnM3UXRDZkRSWVRYXzgyUFlNVk5nOFllMVFDdm1HU2JvRG1Xd2xybDBlRjN4NS03MWtMXzlNZ1BSbWo5eWk1bVFvc3ZnSEU?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-04T11:20:22.145373Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 206.69,
+        "weekAgoPrice": 217.94000244140625,
+        "percentChange": -5.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "55 ETFs Add to NVIDIA (NVDA) on Nov. 2 - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTXk4Q3RpQ3dybXhwSDc5V09faWQwOS1aaEw0WFVmd3BRU2o4cG5IZ01WckszalE0VTJNazh0MEdKU1VxZjNvUVM4aXdQWi02eENtaFJ0Tkx3UkYtbEZBeGtxY1N4TFZGaTd2amdvZ0Vyd3IyVGNxM08xX3hTeF9iSkp2bTEtZlozU1RQT21Cak5yUQ?oc=5"
+          },
+          {
+            "title": "Where Could NVIDIA\u2019s Next Growth Come From? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa2p5dHpTdklvTXVFOHMtdU1PVGlsTTd3RzdrVjBPUDBEMFhwbXRGcXdrYkZTU3B3VE51Skh5Ull2N1BqTU9qMlJCNUdJcTdvUXMwRWU0Wjg4OUZLVFVhQnREc0NBVVBmSWxPOTM5RTRqeGlacW5qOEczOWRsY2hZSFRaWmRxcXA0dU5ETnBrRllWN194OVg4b1lPN3dwZnBzNWU5Vw?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Stock: Steel Grove Capital Advisors LLC Reduces Stake - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZjFJMEZBbllyUXhxYTVwZTF2Sk12MFgxS2p1cDhlR09ZRTdkN0k2T0E3VW91RTJEN2Z3TVFRcWU1aFU4Z2hCaGlHREpBcV83dUFFTkRJQ1dtdzJHemt2Q0Z5UnJ6SHBSaEdvbVliR0pwM2pHa3hHZDNEWlNhNG1nU1dJcmtadGFSY191b0M4M0t5T1A2elhlcVMxOXZLZHR5Q2tKSGRzYTVvOVg4OWxIdVBuTUNrR3VMdENYYXRQNURhLVBIVy16Zkl1LTBvTEo1WUg0?oc=5"
           }
         ]
       }
