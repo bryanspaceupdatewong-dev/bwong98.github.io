@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-02T09:18:21.565161Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 8.62,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.56,
-        "weekAgoPrice": 1.4299999475479126,
-        "percentChange": 9.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.3799999952316284,
-        "percentChange": 5.07,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-02T10:18:53.939021Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2300,6 +2270,33 @@
           {
             "title": "NVIDIA Corporation $NVDA Stock: Steel Grove Capital Advisors LLC Reduces Stake - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZjFJMEZBbllyUXhxYTVwZTF2Sk12MFgxS2p1cDhlR09ZRTdkN0k2T0E3VW91RTJEN2Z3TVFRcWU1aFU4Z2hCaGlHREpBcV83dUFFTkRJQ1dtdzJHemt2Q0Z5UnJ6SHBSaEdvbVliR0pwM2pHa3hHZDNEWlNhNG1nU1dJcmtadGFSY191b0M4M0t5T1A2elhlcVMxOXZLZHR5Q2tKSGRzYTVvOVg4OWxIdVBuTUNrR3VMdENYYXRQNURhLVBIVy16Zkl1LTBvTEo1WUg0?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-04T12:16:45.141599Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 206.69,
+        "weekAgoPrice": 217.94000244140625,
+        "percentChange": -5.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Why Nvidia Stock Is Rising as Crackdown on Data Centers Looms - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS01LbkZsaFVHUndoOHltS1lFSzg3dnI0SVdRZ1p1Mm40MEtoM2QxcWxnb01OOFJhTlBPZ09WdjZxYy1XWjdJZzJ2NEo4clZjOGljMm9zb0RZNzJlVU1XRGwtVmF4LUlpelh6V1Bsbl8teG84MTBDbFZGeF9FZw?oc=5"
+          },
+          {
+            "title": "What Is Going On With Nvidia Stock on Wednesday? - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2toZFJjX1BOQWJYZzhoZktmN2RTRl83VE1VWHRzYkZtQV9oMlRmcGljcWduWWltS0FRRW4tcFV4TXU5RW9jZ1U3blYtT0JkWlhwMzhwWlo4SS03a3laTEtLRG1FYmVmS1Y4dFZVZXdUY3JBLWM2ZlBnZm43T0dlT3NiLVRVdGFpcWVWaWktOTFadU52TVBXWEQyT1FZUzJOYVk1Ug?oc=5"
+          },
+          {
+            "title": "Chinese AI Firms Face Severe Nvidia (NVDA) Chip Shortage Amid Su - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWjZxRTRlTVBPV05ZaFZIZDdBR0lMSUtNYVNsWHJtQkdFVjZZLWFaR1R0VFJvVEtRWnhWb3FpblIyWUoxNll4Q2p3QzMzbmVLZC1LbmtWOElmU0NHRURZclB5Q0FDSmVibmNZMy1scEowcG0tYktJaG9UcEtnVzhWNDlabmhzeWlXeUJuN2c0TDV5VTNRZXNuWVI1VFVLc0dLRS1jbXBZeGhCOS1YZDlFekV2Zw?oc=5"
           }
         ]
       }
