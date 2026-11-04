@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-10-30T21:16:57.659228Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.1200000047683716,
-        "percentChange": 11.61,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.54,
-        "weekAgoPrice": 1.3700000047683716,
-        "percentChange": 12.41,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.3799999952316284,
-        "percentChange": 5.07,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-10-30T22:16:14.914378Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2288,6 +2258,57 @@
           {
             "title": "Nvidia vs. SK Hynix: Comparing Quarterly Revenue Trajectories - The Motley Fool",
             "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNczVpZEpEWTd3M0lvTmlHT0FLeEpPVUN2V0VqWlc0Y0ppS1lnd0VHVXcyX05Cd1NqRFVlUW5peGNLbkxrcWZNZnZOY2Z3YlppSERBd0d1eTJEQkx3UVh2NUdoRm5vNGNjQ213M1J3VFRoY0xZMUJ6WEx5TG04V3BKZURIS2VzLVR5TEtkZjd0cUcxLUEyd0VOUG9OYkZ0VkpkS2hIMkhZcF9TS05v?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.149999976158142,
+        "percentChange": 9.57,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.55,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": 6.9,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.23,
+        "weekAgoPrice": 0.24500000476837158,
+        "percentChange": -6.12,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-04T00:07:02.469544Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 206.69,
+        "weekAgoPrice": 217.94000244140625,
+        "percentChange": -5.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "What Is Nvidia (NVDA) Asking Cloud Clients To Change Under New China Rules? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHMwU0xmOXo5U29lbUJIbVJmdDhjVHdqcTMwcm8xUnMtTEw1X285b0VCS25NaWtuX19obHcyLTBLdUxCT2ptUTRlSklnS2c0RTJMLXp3NUJkOEZlbFdFUkNEUTQwcEQ3d3Z1d3BsMmFFUy1rVmJweGE5ZHp2UW0xdzlYX3dWQUtwdkQ3SFBnQ0JGYWNhY2FwNXlYU1A?oc=5"
+          },
+          {
+            "title": "NVDA Stock Rebounds Off $200 Support after the Nvidia CEO Comments and Anthropic Expansion - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmxlV2xOZFc4UlptSllDSkRtYlFJNkZvNUwyM0tYMXNTYjhjbk43Um9KRzkyWjBtOGdqcnZSOXBVbGh1Sk1oa1h0TnRFU1pSSHd3cTJxbTBPd0VyRnkwUjBXSUR3eWhUSEN0WGhTVUxtaEFncjBlbkpUNG8tSVJnTHhOMG1RUnNYc0Y2RTFXNHdjS0tsaElDTE5JX2VaYXpDWDhvalFiSWNDVThJLWFQelRMbFlSU2tlNmV2QUdxRWNGVHBBWnBPVk9XOEo?oc=5"
+          },
+          {
+            "title": "NVIDIA (NASDAQ:NVDA) Shares Climb 2.3% - Time to Buy? - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObTZZWS0yWjdoamswUUdxaE9hTERBQ3ZsdzM3NG5ZY0dEX3BadmtrV3ZXamxVMjE0YkFfQXhzNDVVM0Q2SkdMcjB4RTlTNGxBRFpSTVd3SkFTei0zN0hMVkxheW1rdmJOajZCanlGZlhzbDZ5TTl4QkEwbnA1NEdNamtSQ0RNcHJvRnVSV1gwUkFNd09CMWQ2enFrZFVBYmNjWjdMUnFUbWxwdw?oc=5"
           }
         ]
       },
