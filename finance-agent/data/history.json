@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-02T05:16:14.538293Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 9.48,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.58,
-        "weekAgoPrice": 1.4299999475479126,
-        "percentChange": 10.49,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.3799999952316284,
-        "percentChange": 5.07,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-02T06:20:24.486404Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2322,6 +2292,33 @@
           {
             "title": "What Is Nvidia (NVDA) Asking Cloud Clients To Change Under New China Rules? - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHMwU0xmOXo5U29lbUJIbVJmdDhjVHdqcTMwcm8xUnMtTEw1X285b0VCS25NaWtuX19obHcyLTBLdUxCT2ptUTRlSklnS2c0RTJMLXp3NUJkOEZlbFdFUkNEUTQwcEQ3d3Z1d3BsMmFFUy1rVmJweGE5ZHp2UW0xdzlYX3dWQUtwdkQ3SFBnQ0JGYWNhY2FwNXlYU1A?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-04T08:16:38.162041Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 206.69,
+        "weekAgoPrice": 217.94000244140625,
+        "percentChange": -5.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AI CEO Warns Chinese Labs Will Use Free Models to \u201cStart Selling Chips\u201d Against Nvidia - TIKR.com",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUERyZ1hxS2lKVHBrQk05RnFlZjlKcHJCbWpueU9LVVo0bzUzdVJvUlFiSEYxdWEyZ1RpNXVKYV93X0szYkNGSnVwbktoZjBNN3h6bGU5d0pNZndVYXB2dnF0MVBJUnhieko1ODB2eFhoR0o1TUVFQ3lWYzJIMlVwMmVWS1pxVjIzNkpyYUtqNDNMNHNMQXNzd1gtMi1LRkVNaFp4dlRFWG5SQm5MSWg4?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation (NASDAQ:NVDA) Stock Rated \"Buy\" by Sell-Side Brokerages - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVVk3OE1MUHVnd0FtNTRKM1R6anJ3SnI5MjhuMzk4ZXdBWmc5cGU3OHF1Q0RZMWl4UUhFVlYyM1RreUYxQVZ1bE51dC1RdDhneW55TmJNUGltWlQ4VFNlbzB4azBtWi1RTjNJUHkzZ0J4U0x3VXhPYWpIcjhKWEZVQ2VPVU9FdnZ1R2NnU0lrX0lmbWZDM2VzdHIwNnpmMjA1NTB4X2ttQ05ZQVFMTUFRbG4yalNQWWR5NnRVdDJIcU5Ea1FGOVo3M3ltREhleDg?oc=5"
+          },
+          {
+            "title": "Is NVIDIA's Cheap Valuation an Opportunity to Invest in the Stock? - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHhjQ1htMUJybUM5QmU2UXVpaHRjSFRZRDl2bFc5cnhhU05iODAwSnR1RGFVRjBMbVZsYkhEWjhuUW1oTUNxdlozVWZhdXNfMEIyVFM5ZVMxd2tBRFBEWTJQT3FiZk81UzFXQ1hsS3lXVlRvYUVPalAxcGJReTlhbTJpd3VYemV3MHdtX1RYcnM3b2NidTJDVEZhVXltVkRramd4WmE5dllTajlPcnNJNEpJMVIxVzdEbVo2eFV4dG1GRm9sN19UZk5XUlVxN0F2eGotS3pvaV9HaVlEOXRocUVKbWJ6a00?oc=5"
           }
         ]
       }
