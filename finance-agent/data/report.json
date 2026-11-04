@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:07:02.469544Z",
+  "generatedAt": "2026-11-04T00:16:20.828762Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -27,8 +27,8 @@
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmxlV2xOZFc4UlptSllDSkRtYlFJNkZvNUwyM0tYMXNTYjhjbk43Um9KRzkyWjBtOGdqcnZSOXBVbGh1Sk1oa1h0TnRFU1pSSHd3cTJxbTBPd0VyRnkwUjBXSUR3eWhUSEN0WGhTVUxtaEFncjBlbkpUNG8tSVJnTHhOMG1RUnNYc0Y2RTFXNHdjS0tsaElDTE5JX2VaYXpDWDhvalFiSWNDVThJLWFQelRMbFlSU2tlNmV2QUdxRWNGVHBBWnBPVk9XOEo?oc=5"
         },
         {
-          "title": "NVIDIA (NASDAQ:NVDA) Shares Climb 2.3% - Time to Buy? - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObTZZWS0yWjdoamswUUdxaE9hTERBQ3ZsdzM3NG5ZY0dEX3BadmtrV3ZXamxVMjE0YkFfQXhzNDVVM0Q2SkdMcjB4RTlTNGxBRFpSTVd3SkFTei0zN0hMVkxheW1rdmJOajZCanlGZlhzbDZ5TTl4QkEwbnA1NEdNamtSQ0RNcHJvRnVSV1gwUkFNd09CMWQ2enFrZFVBYmNjWjdMUnFUbWxwdw?oc=5"
+          "title": "Bitcoin vs Nvidia: $10,000 Invested 5 Years Ago, Which Is Worth More Now? - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmJSWTRJTWdOdl9TRFlKcy04VENxUTJoLUl0dzdkVk9TakdGZ1ctVnlVSUdhY0JocFA3UnNsdjdFdG1GN0hMbkdjRzZWMmU0TVFSaFZQLWUyZnh5dW1Canc2cWRnSml4UURFY1RZeXlCVGdqUXgzcnBPcS1UXzMxdU1fbmM5X0I5OUhMcWJ4Tlg3bzhkQlpwNUJpRl95VUNvYlUxbzN4UE56bUlrS3VuV041c1phNmFfQ0JfeTBIQjRodzZkWEE?oc=5"
         }
       ]
     },
@@ -62,7 +62,12 @@
       "weekAgoPrice": 1.4500000476837158,
       "percentChange": 6.9,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5271.KL",
