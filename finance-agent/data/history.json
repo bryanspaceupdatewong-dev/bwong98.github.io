@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-02T14:00:58.355951Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 8.62,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.56,
-        "weekAgoPrice": 1.4299999475479126,
-        "percentChange": 9.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.3799999952316284,
-        "percentChange": 5.07,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-02T15:15:57.953499Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2288,6 +2258,49 @@
         "currentPrice": 202.8,
         "weekAgoPrice": 215.3800048828125,
         "percentChange": -5.84,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stock News: NVDA Rises As $70 Billion China Chip Order Stuck In Queue - Coinpedia",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUFZbG0wU3hZMXZQMVhtaXZZTU1zZE5sMFB6TFVvUU9MNE9sRDhiUDdIdEpOOFkySE51cjdXYXF4VWg2b1M4R3ZSbmxPTVRGcHRWeTJPeHFBc0V1N1VGSW1UcnUwRnVCUjdsN2hQbmdaSDJxc05Sc2JLYzQyMzlDOFBoaFJVWWNBMEdHRVZJNVAydVJHSjRyMkNjWUdoSVlUU0JuSmdoa01XdXQ5ZldXUzNqeDHSAboBQVVfeXFMTVpuS1hhXzEzLXYwVGh2WE1oLWZRSmNnbVV0T1Q5Q0NjSVBqN3J4cEZqYms2RUVVSHF1SnFQZTRYbUpxVXl0dXg5ZGluSGtKVjM1UXRZekJjdENVRnAwX1hSa3F1a1VMQ3lvVnY1Vkd1cTBSNEtQejJuMjh4UlJoTHc0TXB4Z1Jwb3dna0hhUHBuNlozZm1mak1tMy12bGNZc1JpblZqMXRzQVhEc2ZTSXcwekcxTDA2Q1Z3?oc=5"
+          },
+          {
+            "title": "Chip stocks slip as Democrats' election sweep clouds the outlook for data centers - Quartz",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xRXB2Z0RLQk9OblRBMllwdnZjemxzVHZJVHl0V1Z5S25ySzJyQW8wTXlqZTJxVVB3ZmVIa1FOYXVnOEI5WWFCbW5kS21OLXJlaUIyak5GcUxpWEo4RHdpcktxN0VMblFIZVplc3VFbWVUOEFUaHA2S0hzQV9aRzA?oc=5"
+          },
+          {
+            "title": "AI infrastructure stocks drop, hyperscalers gain as Democrats win Congress (NVDA:NASDAQ) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdngxZEtNOXMwUlh4Ynl5VWpzbEVDanlBZEZJN0RTRmZzQ1MwZ2RDbXhBSERWellOMHl6dFRibXZtSkRMT2FtZTRrUkNiTXJwWl9uZ3ZMYVVYUmpkREFXNG9Wc3NKRFluVXFpWXRJMTJlWGZQeXUxUFJpeFZjNDg1ay1HZ3RMbkl1cEpYclk4TmtVNzUyYnFpRUhOWV9VN3IxV1huRXp1ZTZNd0FxSWRrdGhBY3o?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.73,
+        "weekAgoPrice": 7.360000133514404,
+        "percentChange": 5.03,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.23,
+        "weekAgoPrice": 1.149999976158142,
+        "percentChange": 6.96,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-04T18:15:48.529683Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 203.97,
+        "weekAgoPrice": 215.3800048828125,
+        "percentChange": -5.3,
         "flagged": true,
         "news": [
           {
