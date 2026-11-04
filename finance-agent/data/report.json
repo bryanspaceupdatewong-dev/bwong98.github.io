@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-04T18:15:48.529683Z",
+  "generatedAt": "2026-11-04T19:16:35.111574Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 555.36,
+      "currentPrice": 555.31,
       "weekAgoPrice": 531.010009765625,
-      "percentChange": 4.59,
+      "percentChange": 4.58,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 203.97,
+      "currentPrice": 204.05,
       "weekAgoPrice": 215.3800048828125,
-      "percentChange": -5.3,
+      "percentChange": -5.26,
       "flagged": true,
       "news": [
         {
+          "title": "Big tech stocks soar as investors bet Democrats could bring AI spending back to reality - Quartz",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MYlVjTVpSd09ZbVJyVEpFWUtrZWtnUXlnY0k3ZnNFY2pEdUppQjZhZnhRQ0NFLWYyOWF3NDVxWmRJazJmWkdnNVdEaS1XdXk1TlR4WDBLRnVsSWxXZURDSlFQYTlhSFk3N0QxdUpWRWpZZw?oc=5"
+        },
+        {
+          "title": "Data Center Stocks Just Plunged After the Midterms. Is It Time to Buy the Dip? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeTJ0bEkzaFZMVWl5dl9MckcySHZGc09lMEdtN0lLaHlGQVh5cG5fSG1naExwZFpqYWNQZ21aV1l1V3BUUW5pWkpWY05EaE5hMFNqb1p3WG5XekFIRGEydFBWZHZWS2gwUk9yZVZ6NUJiT0tqUGh4ODlpREVRTnBkLTMxLTY5bnFlcVlwa0JxS0U2cnVfNWhQcmdCeEU?oc=5"
+        },
+        {
           "title": "Nvidia Stock News: NVDA Rises As $70 Billion China Chip Order Stuck In Queue - Coinpedia",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUFZbG0wU3hZMXZQMVhtaXZZTU1zZE5sMFB6TFVvUU9MNE9sRDhiUDdIdEpOOFkySE51cjdXYXF4VWg2b1M4R3ZSbmxPTVRGcHRWeTJPeHFBc0V1N1VGSW1UcnUwRnVCUjdsN2hQbmdaSDJxc05Sc2JLYzQyMzlDOFBoaFJVWWNBMEdHRVZJNVAydVJHSjRyMkNjWUdoSVlUU0JuSmdoa01XdXQ5ZldXUzNqeDHSAboBQVVfeXFMTVpuS1hhXzEzLXYwVGh2WE1oLWZRSmNnbVV0T1Q5Q0NjSVBqN3J4cEZqYms2RUVVSHF1SnFQZTRYbUpxVXl0dXg5ZGluSGtKVjM1UXRZekJjdENVRnAwX1hSa3F1a1VMQ3lvVnY1Vkd1cTBSNEtQejJuMjh4UlJoTHc0TXB4Z1Jwb3dna0hhUHBuNlozZm1mak1tMy12bGNZc1JpblZqMXRzQVhEc2ZTSXcwekcxTDA2Q1Z3?oc=5"
-        },
-        {
-          "title": "Chip stocks slip as Democrats' election sweep clouds the outlook for data centers - Quartz",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xRXB2Z0RLQk9OblRBMllwdnZjemxzVHZJVHl0V1Z5S25ySzJyQW8wTXlqZTJxVVB3ZmVIa1FOYXVnOEI5WWFCbW5kS21OLXJlaUIyak5GcUxpWEo4RHdpcktxN0VMblFIZVplc3VFbWVUOEFUaHA2S0hzQV9aRzA?oc=5"
-        },
-        {
-          "title": "AI infrastructure stocks drop, hyperscalers gain as Democrats win Congress (NVDA:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdngxZEtNOXMwUlh4Ynl5VWpzbEVDanlBZEZJN0RTRmZzQ1MwZ2RDbXhBSERWellOMHl6dFRibXZtSkRMT2FtZTRrUkNiTXJwWl9uZ3ZMYVVYUmpkREFXNG9Wc3NKRFluVXFpWXRJMTJlWGZQeXUxUFJpeFZjNDg1ay1HZ3RMbkl1cEpYclk4TmtVNzUyYnFpRUhOWV9VN3IxV1huRXp1ZTZNd0FxSWRrdGhBY3o?oc=5"
         }
       ]
     },
