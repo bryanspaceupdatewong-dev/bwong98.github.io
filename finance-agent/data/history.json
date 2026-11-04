@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-02T10:18:53.939021Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 8.62,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.56,
-        "weekAgoPrice": 1.4299999475479126,
-        "percentChange": 9.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.3799999952316284,
-        "percentChange": 5.07,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-02T11:23:32.395599Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2289,6 +2259,33 @@
           {
             "title": "Why Nvidia Stock Is Rising as Crackdown on Data Centers Looms - Barron's",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS01LbkZsaFVHUndoOHltS1lFSzg3dnI0SVdRZ1p1Mm40MEtoM2QxcWxnb01OOFJhTlBPZ09WdjZxYy1XWjdJZzJ2NEo4clZjOGljMm9zb0RZNzJlVU1XRGwtVmF4LUlpelh6V1Bsbl8teG84MTBDbFZGeF9FZw?oc=5"
+          },
+          {
+            "title": "What Is Going On With Nvidia Stock on Wednesday? - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2toZFJjX1BOQWJYZzhoZktmN2RTRl83VE1VWHRzYkZtQV9oMlRmcGljcWduWWltS0FRRW4tcFV4TXU5RW9jZ1U3blYtT0JkWlhwMzhwWlo4SS03a3laTEtLRG1FYmVmS1Y4dFZVZXdUY3JBLWM2ZlBnZm43T0dlT3NiLVRVdGFpcWVWaWktOTFadU52TVBXWEQyT1FZUzJOYVk1Ug?oc=5"
+          },
+          {
+            "title": "Chinese AI Firms Face Severe Nvidia (NVDA) Chip Shortage Amid Su - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWjZxRTRlTVBPV05ZaFZIZDdBR0lMSUtNYVNsWHJtQkdFVjZZLWFaR1R0VFJvVEtRWnhWb3FpblIyWUoxNll4Q2p3QzMzbmVLZC1LbmtWOElmU0NHRURZclB5Q0FDSmVibmNZMy1scEowcG0tYktJaG9UcEtnVzhWNDlabmhzeWlXeUJuN2c0TDV5VTNRZXNuWVI1VFVLc0dLRS1jbXBZeGhCOS1YZDlFekV2Zw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-04T13:21:38.953396Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 206.69,
+        "weekAgoPrice": 217.94000244140625,
+        "percentChange": -5.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AI Chip Stocks NVDA, AMD, and Others Rise Despite Democratic Win; AMD\u2019s Strong Forecast Fuels Optimism - TipRanks",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZE9GTGx3TUlCbEdndklGSTI2YnR2MjhxMkZUM3FFWEFFTElJX3dUV2RkLTVRNS1DNHd4THRDdW9iaHozLW1MSW85Y1NsdDVxWXQ3cnAzOXBGaGtaT1NnWjAxbzRQbkQ2SkVCNzZqYzlWV3UyT2c1WmRVYXRmR2lSVnZYMUhWS19yUWhXNlZSRkthM3BLVTRZNWtyUXJMYXdzQUpoX3ZtVDZyNF9JbXJZTmdvVzE1TXdsbXVNMlgzR2RYRzkwNXdV?oc=5"
           },
           {
             "title": "What Is Going On With Nvidia Stock on Wednesday? - Benzinga",
