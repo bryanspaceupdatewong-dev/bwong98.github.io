@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-02T12:29:21.746043Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 8.62,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.56,
-        "weekAgoPrice": 1.4299999475479126,
-        "percentChange": 9.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.3799999952316284,
-        "percentChange": 5.07,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-02T13:11:48.899386Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2293,6 +2263,49 @@
             "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNamZDVEdzREVjOEhxLTQ5WlVqUGRRM2ZQMWVnNWJERlRfb21xbEdJdHNzYjFoY21FMzJ5Qm5ZenM2NEdFRzMxb1Z3TXNqYUtxYm9vanRCek5leVRQLU5BQms5eXJBaHZnbnpvb29hb2VxZmJlX1hWUHBWek5IdEY5MERiazdSRFhIQkE?oc=5"
           }
         ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-04T16:17:29.921608Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 202.795,
+        "weekAgoPrice": 215.3800048828125,
+        "percentChange": -5.84,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AI infrastructure stocks drop, hyperscalers gain as Democrats win Congress (NVDA:NASDAQ) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdngxZEtNOXMwUlh4Ynl5VWpzbEVDanlBZEZJN0RTRmZzQ1MwZ2RDbXhBSERWellOMHl6dFRibXZtSkRMT2FtZTRrUkNiTXJwWl9uZ3ZMYVVYUmpkREFXNG9Wc3NKRFluVXFpWXRJMTJlWGZQeXUxUFJpeFZjNDg1ay1HZ3RMbkl1cEpYclk4TmtVNzUyYnFpRUhOWV9VN3IxV1huRXp1ZTZNd0FxSWRrdGhBY3o?oc=5"
+          },
+          {
+            "title": "Why Nvidia Stock Can Ride a Democrat AI Data-Center Crackdown - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS01LbkZsaFVHUndoOHltS1lFSzg3dnI0SVdRZ1p1Mm40MEtoM2QxcWxnb01OOFJhTlBPZ09WdjZxYy1XWjdJZzJ2NEo4clZjOGljMm9zb0RZNzJlVU1XRGwtVmF4LUlpelh6V1Bsbl8teG84MTBDbFZGeF9FZw?oc=5"
+          },
+          {
+            "title": "Breakfast News: Did Nvidia Just Favor Marvell? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JUGlLN3UxVHdnQTJPaG5xaG4xRkR1Y0NpTG12b2JyRDNIOTE0Y0lKdzRQWUg5c0tQMGQ2NmRhOTh4eEtPZWNhQm5OejBLRlAzTTNuOVUyVGdqYWVDdmw0dEpLOFUwRHZ5cUswTFAtM2lxbTEtUENlNGxFRnM?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1066.KL",
+        "currentPrice": 7.73,
+        "weekAgoPrice": 7.360000133514404,
+        "percentChange": 5.03,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.23,
+        "weekAgoPrice": 1.149999976158142,
+        "percentChange": 6.96,
+        "flagged": true,
+        "news": []
       }
     ]
   }
