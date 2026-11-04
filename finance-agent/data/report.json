@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T03:16:40.091274Z",
+  "generatedAt": "2026-11-04T04:16:29.436634Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -42,9 +42,9 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.7,
+      "currentPrice": 7.72,
       "weekAgoPrice": 7.380000114440918,
-      "percentChange": 4.34,
+      "percentChange": 4.61,
       "flagged": false,
       "news": []
     },
@@ -58,9 +58,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.53,
+      "currentPrice": 1.54,
       "weekAgoPrice": 1.5099999904632568,
-      "percentChange": 1.32,
+      "percentChange": 1.99,
       "flagged": false,
       "news": []
     },
