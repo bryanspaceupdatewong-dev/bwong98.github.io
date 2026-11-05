@@ -32,7 +32,7 @@
       "previousQuarterLabel": "2026-06-30",
       "previousQuarterEpsActual": "0.09",
       "previousQuarterEpsEstimate": "0.1",
-      "reminderSent": false
+      "reminderSent": true
     },
     {
       "ticker": "1066.KL",
