@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T03:16:27.724205Z",
+  "generatedAt": "2026-11-05T04:15:35.033416Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,8 +19,8 @@
       "flagged": true,
       "news": [
         {
-          "title": "5-star analyst resets Nvidia stock target after Intel crash - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYUcwZk1keE5vcUlBWHlZMVpBNWxpdjZ5TEZyLUdYaWRzRzFyMjliWmhxSkQzWDhRS0lRMEF5Smg0WTlnV2M4WDlubmhidGlkaDczN0c5Zko5ajNIWm4tLWZ6bUJLOEJlcWllX3N4aUU4QW5OYUNmYkFIS2pmaENhYXBiSQ?oc=5"
+          "title": "Dow, S&P 500, Nasdaq Futures Mixed After A Democratic Sweep In Midterms: NVDA, MU, SNDK, NBIS, IREN In Focus - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObldfcGFoek5LN0JQa25GZXpDbU13VkVyZlAtSHhOdGVBZTZHQ19Cckx5MmttYVllRW5nVVdFMEMxUXN0YXlYTW9jcXVwQzVsUUxJcmp4ZVpfQWpDZ0lNd0xPMmNsNHhwb2FjVHljR2tjTW51WDNUaXM1bXVOdjNFTnVrNEpZTWNSaHdhbWNQbk5wajg?oc=5"
         },
         {
           "title": "Here's What $10,000 Invested in SpaceX and Nvidia Could Be Worth by 2030 - The Motley Fool",
@@ -34,25 +34,25 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.9,
+      "currentPrice": 4.91,
       "weekAgoPrice": 4.730000019073486,
-      "percentChange": 3.59,
+      "percentChange": 3.81,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.84,
+      "currentPrice": 7.83,
       "weekAgoPrice": 7.46999979019165,
-      "percentChange": 4.95,
+      "percentChange": 4.82,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.26,
+      "currentPrice": 1.27,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": 3.28,
+      "percentChange": 4.1,
       "flagged": false,
       "news": []
     },
@@ -74,10 +74,10 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.2,
+      "currentPrice": 1.19,
       "weekAgoPrice": 1.1399999856948853,
-      "percentChange": 5.26,
-      "flagged": true,
+      "percentChange": 4.39,
+      "flagged": false,
       "news": []
     },
     {
@@ -98,12 +98,12 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.675,
+      "currentPrice": 0.655,
       "weekAgoPrice": 0.675000011920929,
-      "percentChange": -0.0,
+      "percentChange": -2.96,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 1
 }
