@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-03T03:16:17.999443Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 202.06,
-        "weekAgoPrice": 216.0,
-        "percentChange": -6.45,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Earnings Countdown: To Buy Ahead of the Print or Wait for Results - NAI500",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNGVoZDNody11RkJTbEk1QlBUYlBwMF9BamtSX21YQlFQU2RMTXhENVA2M1ptNEhMT3pWS1R5UXctdy1CMnBDbjZkdV9IOGREWnV6ekhvR0p2emVoOTh4TlRzUC1pdXVTWkllbFNxeG9CX0FNTzNGZVVIWWpWT1VNb3l0eGU5bnpwTHRtd21aWXk0RW8wVk9rSXI0aGJPY0xaTXA3LXZxRQ?oc=5"
-          },
-          {
-            "title": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next. - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGJJZXFlWmhxcWo4RHFDWXFyN1JkcER6LW11MkZNaUpqb09hLS1ycVEzcjFVUkdwbjFxdzRQaEVrdTlUa1NVNlZ4ZDJVMUpfVHQzdlVHdE1zRVptbm9CSVh1R2hqSHBUYy1HMGQyencySVZnWV82VVBlNlJ4eC1HYTZmMzBaX0JXSGw0NEpWNkt6eUY5ZkRfOTZmTUxuakxscGZuRU5nVVZLLXl3X3Bv?oc=5"
-          },
-          {
-            "title": "Tech Selloff Doesn\u2019t Spook Dan Ives for Halloween: Here Are His 6 AI Stock Picks - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVUlzWlBNd18tamphckdNb3JPMXFCRGZXVEtDbEtCQlplVnNNNXNnWHo0SW16emF0dnRWOExLXzdsaHdmSDJabWNtRGRuSVBCMF9ockgxVzdjNXlKaU9uR2FrLW5lbUp2cHFXTTRpRE5KX1RmejAwcmVsOU9XZ1lNYkszQ1BlYjNZaUlBcHA3ZndoZlFZMEJQblVKMlFSR2lTcHViY2t5Rm9mNlBlbDYtV2toQWtrZ3B6a05zSXBXVzRidm42TG5qOWpjUXZfcjFlT0FnRzN2bEdmamlMUXY5RWdZbWE4eHMxVWc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.78,
-        "weekAgoPrice": 7.360000133514404,
-        "percentChange": 5.71,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.149999976158142,
-        "percentChange": 8.7,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.54,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": 6.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-03T04:16:37.825516Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2179,6 +2128,41 @@
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3M4bnZ2ZnpTM090RVFUUHR2bUNkV3Fqb0NpYkEtSEtaRkxYTGNaZ1dqNXR4Ynh6UVRBbC1kci16MnhVeFFQZkhJbVU1TXh2ejloeEgwOWM3M1VSZTB1RDIwN05QU0JPUTlmeXQ4cHp1VUp0RGVhdzNxQld2ZTkxdDZsNFBfb09XcTdEZU1PNVNlWGYzVFBHUUpmNk9qYjJSYjVoVWJzUzdsUQ?oc=5"
           }
         ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-05T05:15:40.826668Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 200.13,
+        "weekAgoPrice": 215.3800048828125,
+        "percentChange": -7.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Dow, S&P 500, Nasdaq Futures Mixed After A Democratic Sweep In Midterms: NVDA, MU, SNDK, NBIS, IREN In Focus - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObldfcGFoek5LN0JQa25GZXpDbU13VkVyZlAtSHhOdGVBZTZHQ19Cckx5MmttYVllRW5nVVdFMEMxUXN0YXlYTW9jcXVwQzVsUUxJcmp4ZVpfQWpDZ0lNd0xPMmNsNHhwb2FjVHljR2tjTW51WDNUaXM1bXVOdjNFTnVrNEpZTWNSaHdhbWNQbk5wajg?oc=5"
+          },
+          {
+            "title": "Here's What $10,000 Invested in SpaceX and Nvidia Could Be Worth by 2030 - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSE4wSFl6RV9ydGswcmZMdldKSFVQVW1PajBXQVRuQVczblpzNXZqdGI2SG9qejBnU3A5bzU3QWRBc2RmYXlwUHhfTm9PX3o2UzExTXNlY0Z0MDhNTWN2T3doQmRyNU95azBmQ2RzamVaZzJDRzdIX0hfMlA3X0dDS09VTlZqcGg4SzNnNUx3clR5SGdrUGJCLQ?oc=5"
+          },
+          {
+            "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 3.2% - Time to Sell? - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3M4bnZ2ZnpTM090RVFUUHR2bUNkV3Fqb0NpYkEtSEtaRkxYTGNaZ1dqNXR4Ynh6UVRBbC1kci16MnhVeFFQZkhJbVU1TXh2ejloeEgwOWM3M1VSZTB1RDIwN05QU0JPUTlmeXQ4cHp1VUp0RGVhdzNxQld2ZTkxdDZsNFBfb09XcTdEZU1PNVNlWGYzVFBHUUpmNk9qYjJSYjVoVWJzUzdsUQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.25,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 6.38,
+        "flagged": true,
+        "news": []
       }
     ]
   }
