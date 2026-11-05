@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-05T17:15:58.604066Z",
+  "generatedAt": "2026-11-05T18:15:35.128603Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 541.2,
+      "currentPrice": 538.705,
       "weekAgoPrice": 530.1400146484375,
-      "percentChange": 2.09,
+      "percentChange": 1.62,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 185.392,
+      "currentPrice": 183.053,
       "weekAgoPrice": 213.66000366210938,
-      "percentChange": -13.23,
+      "percentChange": -14.33,
       "flagged": true,
       "news": [
         {
-          "title": "NVDA Stock Faces Last Support as Midterm Elections Put Data-Centre Spending and Nvidia Under Pressure - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUTZMaHhnb2JtSFJkQXJ1UWFXVWFpRFd5ZDczZWQwMEsyeThGbFlvenhfRkNiakw3SUlNVzh0a2hMdDN5elRRZGtrSTVFN1V4UHU3VHNFOHJSdlJYckd1Q0FqbXhVQzYya2E5NDVvUjlNTFJTTl8xRWdTblBVMnZMZVZKZE5OcjRnWnNNVlFXb3d2eXE3NURvdW9OSUpxN2RFdmlhS1VnYWhPckFJUHYzX21FYlZwNzhUbDUwcG9wNnFUUEZva3VzZ0FGODh0MlIwWW1BN3NqUlExcEZL?oc=5"
+          "title": "Stocks making the biggest moves midday: Micron, Tesla, Tripadvisor, AppLovin, Nvidia & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3FKb0tTczRZcVFtbklBaFp2WWFCSU5zR1h3UEdPSERONW9PYUFhMmZ6aFV1U0Eta0ViYV9mM1B4NWVBTU9ELXByNm9aNVVYaDBhQXJtN1dDTzRzVUMycTUxaFA1aUw4aFE0Z1RrRDhtT0NLbDN3R0I3ZVY1OW1qaG9BUF9QLUFCampwdVp0U1RHUzRIZ0R3eFB1d2Z3Zw?oc=5"
         },
         {
-          "title": "Nvidia, Micron Lead 10 AI Stocks Below 200-Day Average - NVIDIA (NASDAQ:NVDA) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajEtZmhoeTRfNzZmWDdhRkdZQUwwTEtGbzhmU1d6NTFnU0NXdVpiYUJxd2RmX3ZDVkNoa01GVE52Nk50M0I3NzBIU2pqMjVvaVdTckhrVGdQcUQxbktQVlFLazBGR1VHekQwM3lGb3VxWXhlMkx1LXVXaXhBZDVrWWY4c2RfRDhCaWJCM0lNVk9HSzRjaEFmLUtIUTVneVZBX2l5dUU5cUQ5VlZ1NGRDd09wZUQ3OERR?oc=5"
+          "title": "Why Nvidia Stock Is Getting Punished Today - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXQxOFdjaGRGZFVFS1M1ZXZyWWJlaFdHZ0FFZ0l2cjB3TlRQNk51SThNUDFWSnFZcTJ3U2VsdzZ3cUtsTG00ZlRuSmZ6QUdqdUJBek5WRjhUdjhhQTZNT2UtbTNXM2Q2Ym55QnMwaDNIVnRRTUlkaTJFWDZlZWFVaF9FYTh0clhMLVZnVEpEQ3pGcFJ2M2lWWHhFN2J6ZFowRHRLUnBtcEE2TzZQR1lQWXRHVFVFRlJiejRZYVN3?oc=5"
         },
         {
-          "title": "US Tech Stocks Wipe Out $1.7 Trillion as Nvidia, AMD Sink - NVIDIA (NASDAQ:NVDA) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVEtSSk90bnR0SzRoTHZrZnlvbW5YN2JEbjh2cThrRUF6bHpxemtNMXZRbVJKZDNkQWpnVUxULUNxamhIampHdWJEUkdnRzRaOXFxQm1KTTdVajlLZmxxTGc3NUJFY3lpNmptaGczckdHel9GdUc4RnB6UUt0bUNBdDduTVVRQXRwd1lxeHNaS3p0R1l5UjZyOVFHYmdfVjF5Qk9jS1pjamxLMGt6ZGNFeGFZUFEyWlE?oc=5"
+          "title": "QQQ stock today falls over 5%: Why Nvidia (NVDA), Qualcomm (QCOM), Intel (INTC) and Marvell (MRVL) are dra - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNUZDc2RzT3FCTWFKdUQ4ZFhZVUN4MkpyYmw0eERwVkdXV0p3d2ZJcU42dmQ1bTlTaDRrX2h5bklMU01kMTNNZUlnWmJfV0JCTURsbTVtdzBpTXJpQ3RqbVZSTWp3UG9wbjIzNjhkdHFzTUtIbUQ1YlQ0S19DWmxCWkpmbGJiSk5STFE2dE4yNGFqMm5icExzQVdMc2Z1UVhoTEdjcHc3Ny0xZzNmaXFoM1hlV2MxaXJwTnlXYjNHcUN6eDFydThGSEdseE5RUXRraEZwakF2RElZRDBGbTI4NGEzb1NmaEJRSnluSjEyZV9uZVd1TnpkblJWdGpDTjgyQkI0X0JtNlpMZFlXMGt4WVRGRlVjMUp1TUZaWW9yRzdhZjZE0gGqAkFVX3lxTFBLMXVmTVB6cDhmdWYySEQ5SG56ek4xMXkwU3o2WkpnaVBsZWFsLUR3X1NFWVFkMkJkNzRHYXJ2aFAySk5CWGlibnBMZFBCd2VkMnMwcUJVNlBpZjFqNTBVOVhZSHBiRjEwcmNOcXdCbzY0NUZsdF9VZWJlbFl0Q25LSG5oQzR5NjlMNTN4eThJRmJ1anAxcnk5SWN2Q3ZwMEl1LXNvbnVyZ19IcGxQclVPOXVIOUlwQnJ6NF9kclpZYU1FZmRNU3lNbVpvRVM0RktGWmxLWlNkSE1ndExtS082cGJsTGVTc000SHM3Z0s5ZlNFVVVGTUxFSG5PN3R5VFRUb1dibkZjb2REZDhhTlpSanZyaUJ1SW9IdnBxUXdXOVFvVkdSM0stNFE?oc=5"
         }
       ]
     },
