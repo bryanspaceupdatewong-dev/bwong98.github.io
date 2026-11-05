@@ -1,65 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-03T14:17:27.811886Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 202.06,
-        "weekAgoPrice": 216.0,
-        "percentChange": -6.45,
-        "flagged": true,
-        "news": [
-          {
-            "title": "How Big Could NVIDIA Stock\u2019s Next Fall Be? - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWFIWFBZRXhsVjdaeUNoY0FtWVMxRnAwZVJreVUxcVVud3FyRTRhZ2x0dVRlOTN4WnRtRnJMdnVUa1lQOWNsTkRBRnpNMzNTeGhPOWxRbklRTmxkeG5HTldQdFBEQ3l4T1doZUd0ZW1tUnlBTkhGc0hQZURrM3FPT2VFakRtbzJBUnNOTXo2ejFPaVBWdGhaR2ozS1htMEVjbkdn?oc=5"
-          },
-          {
-            "title": "Nvidia\u2019s Dismal Run Might Be Coming to an End. Grab NVDA Stock While It\u2019s Still Around $200. - Barchart.com",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaS1sOHNjaEtZdEY0aG9yTEZuRDVNU3M2a0EwckVaZG9HaE9MUVRNNkE0b1BlWlk2eEdVWkdzX0FGZHB5dGlpQ1kxU2ZoUkQxVHY5amFVNEdEaGRfTUpIMnhadHp0NXo2RDNLTFJ4aVVfZTVDc3I4RUpXdnpva1Nnc1J3TEJRUHQtUDhwUVA4N1N6bzQ0b3ZmUU91azFrSVp1ajcwZUM3X1BoM0JlQWpER1NnZzhRdWlaUWRLUG04UU9LSTJGQmdEc1Awdw?oc=5"
-          },
-          {
-            "title": "ETFs Bought $505.7 Million of NVIDIA (NVDA) on Friday - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzZ5XzJ3b29Ha0lwVWNYRDh0QnR2ZGRuZFVxQldKZjZxdDYwZmYtTl9rU3d2cF93U2tMYVdndzlpTHlQdmFaTDBJNG5EelkzS1JRRExaRnlWbVVnZzkxNEhyUFc0TDJHN1JadGV1eVlLaVlCd0g1dElpX19kVThET2ZIV2FGYmZzQnA5TDE1elRLYTNv?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.149999976158142,
-        "percentChange": 9.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.55,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": 6.9,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
-          },
-          {
-            "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.23,
-        "weekAgoPrice": 0.24500000476837158,
-        "percentChange": -6.12,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-03T15:16:15.302227Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1933,6 +1873,49 @@
           {
             "title": "Nvidia Stock To $129? - Trefis",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2VyR29oenNDRlVpaXRHSzI1djRKLXMwXzZDeDc0bGp4WEhObXgxMnRxVWQtMHdGQ0hRSTQzVFZIRUNzcTNsTVBzQ1R6ZUZNajV6d3VzODBTcjBjVUZBaDlYTWVVc2dTX3FMcjRobUJ3c2ZRNFMxN29vRzlKZHlIWlp6VkxRSnM?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 5.26,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.25,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 6.38,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-05T15:16:27.749518Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 187.435,
+        "weekAgoPrice": 213.66000366210938,
+        "percentChange": -12.27,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA Corp Stock (NVDA) Opened Down by 4.09% on Nov 5: What Signal Does It Send? - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3NTa25lSHpic2FYOW1mNjFaUEtQM1NIT0lYZUROUVRFa2V4YnNYNTFMTEtxd3B2ZFJPN0tfNmFzeFNZMmF0RVM1VTZYeXJzanU3VlVEdUhmMXVoVlRleG1lazB4QlhDVzNUVk4wQ1NyXzVzLXlndmZMZlRPcjVxRVFsTENyS1VyaHVB?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Is Back at $200. What History Suggests Is the Floor. - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EQVhFU0ZMU1p3Yk13SUJ2NjdNTk1JeWcwTnNsZjI2d3V3Mi0wZEZIUUYzbEo5dTN1V2UtMy1PblNYa1Y0MXhjQVQzYXN6OGlTOUUxQmRCMDc3dFZmZlhrSjl1Slh1Q1BDVE1yN015Nk51Zkpq?oc=5"
+          },
+          {
+            "title": "How Much AI Do You Really Own? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDRpNlNsLVA0OXpfNll5VDJlMnp1NlpkOTZPbmk4bkNITlBub0JfaVItaWh6SHpwQkNGQVl0aFNuVUw5WVlaMFZaVTljQzFKX2dqeHR6QV9DQ2cxcDcyNms5YmJ5eTE3eXpTVnBsbEhHbjBTSmVwXzd0bU10d1lFS1Y0Z2hmVzBMUmJ0dkN5bjhOZUYx?oc=5"
           }
         ]
       },
