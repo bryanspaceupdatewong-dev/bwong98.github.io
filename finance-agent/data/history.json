@@ -1,52 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-03T16:16:36.608535Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 8.62,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.55,
-        "weekAgoPrice": 1.4299999475479126,
-        "percentChange": 8.39,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
-          },
-          {
-            "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.3799999952316284,
-        "percentChange": 5.07,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.23,
-        "weekAgoPrice": 0.24500000476837158,
-        "percentChange": -6.12,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-03T17:16:45.542623Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1929,6 +1882,49 @@
           {
             "title": "Nvidia vs. Taiwan Semiconductor: The AI Revolution Is Big Enough for Both. Here's the Better Buy. - The Motley Fool",
             "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDNYN2cxV2pHRDRoZm0tUEFobGpnYzBKMUtlbUgwMFF1TklfMU9ZbkpFQnZCamZYVXY4dWFpTVRWUFhmczRvSi1TRnpNOUlpMlZGNnRQaWNpYzBzY1VqaVhUeVBpR0tYOXpuTGlZejhkVlZ5d18takN1ZGdTSkV5MHFTZm1FYVdNYUl0NW9RS3JMMWVJc3MwWA?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.96,
+        "weekAgoPrice": 4.710000038146973,
+        "percentChange": 5.31,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.23,
+        "weekAgoPrice": 1.2999999523162842,
+        "percentChange": -5.38,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-05T17:15:58.604066Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 185.392,
+        "weekAgoPrice": 213.66000366210938,
+        "percentChange": -13.23,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Faces Last Support as Midterm Elections Put Data-Centre Spending and Nvidia Under Pressure - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUTZMaHhnb2JtSFJkQXJ1UWFXVWFpRFd5ZDczZWQwMEsyeThGbFlvenhfRkNiakw3SUlNVzh0a2hMdDN5elRRZGtrSTVFN1V4UHU3VHNFOHJSdlJYckd1Q0FqbXhVQzYya2E5NDVvUjlNTFJTTl8xRWdTblBVMnZMZVZKZE5OcjRnWnNNVlFXb3d2eXE3NURvdW9OSUpxN2RFdmlhS1VnYWhPckFJUHYzX21FYlZwNzhUbDUwcG9wNnFUUEZva3VzZ0FGODh0MlIwWW1BN3NqUlExcEZL?oc=5"
+          },
+          {
+            "title": "Nvidia, Micron Lead 10 AI Stocks Below 200-Day Average - NVIDIA (NASDAQ:NVDA) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajEtZmhoeTRfNzZmWDdhRkdZQUwwTEtGbzhmU1d6NTFnU0NXdVpiYUJxd2RmX3ZDVkNoa01GVE52Nk50M0I3NzBIU2pqMjVvaVdTckhrVGdQcUQxbktQVlFLazBGR1VHekQwM3lGb3VxWXhlMkx1LXVXaXhBZDVrWWY4c2RfRDhCaWJCM0lNVk9HSzRjaEFmLUtIUTVneVZBX2l5dUU5cUQ5VlZ1NGRDd09wZUQ3OERR?oc=5"
+          },
+          {
+            "title": "US Tech Stocks Wipe Out $1.7 Trillion as Nvidia, AMD Sink - NVIDIA (NASDAQ:NVDA) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVEtSSk90bnR0SzRoTHZrZnlvbW5YN2JEbjh2cThrRUF6bHpxemtNMXZRbVJKZDNkQWpnVUxULUNxamhIampHdWJEUkdnRzRaOXFxQm1KTTdVajlLZmxxTGc3NUJFY3lpNmptaGczckdHel9GdUc4RnB6UUt0bUNBdDduTVVRQXRwd1lxeHNaS3p0R1l5UjZyOVFHYmdfVjF5Qk9jS1pjamxLMGt6ZGNFeGFZUFEyWlE?oc=5"
           }
         ]
       },

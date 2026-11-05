@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-05T16:16:17.053473Z",
+  "generatedAt": "2026-11-05T17:15:58.604066Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 540.85,
+      "currentPrice": 541.2,
       "weekAgoPrice": 530.1400146484375,
-      "percentChange": 2.02,
+      "percentChange": 2.09,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 185.121,
+      "currentPrice": 185.392,
       "weekAgoPrice": 213.66000366210938,
-      "percentChange": -13.36,
+      "percentChange": -13.23,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Stock Is Below $200. What History Suggests Is the Floor. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EQVhFU0ZMU1p3Yk13SUJ2NjdNTk1JeWcwTnNsZjI2d3V3Mi0wZEZIUUYzbEo5dTN1V2UtMy1PblNYa1Y0MXhjQVQzYXN6OGlTOUUxQmRCMDc3dFZmZlhrSjl1Slh1Q1BDVE1yN015Nk51Zkpq?oc=5"
+          "title": "NVDA Stock Faces Last Support as Midterm Elections Put Data-Centre Spending and Nvidia Under Pressure - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUTZMaHhnb2JtSFJkQXJ1UWFXVWFpRFd5ZDczZWQwMEsyeThGbFlvenhfRkNiakw3SUlNVzh0a2hMdDN5elRRZGtrSTVFN1V4UHU3VHNFOHJSdlJYckd1Q0FqbXhVQzYya2E5NDVvUjlNTFJTTl8xRWdTblBVMnZMZVZKZE5OcjRnWnNNVlFXb3d2eXE3NURvdW9OSUpxN2RFdmlhS1VnYWhPckFJUHYzX21FYlZwNzhUbDUwcG9wNnFUUEZva3VzZ0FGODh0MlIwWW1BN3NqUlExcEZL?oc=5"
         },
         {
-          "title": "NVDA vs AMD: which stock has the better bounce setup - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalZ0R1BLenJ3a21tQnpDZ0luNUhsNXBEN3V1aTRtU3k2QmFVdXE5a2hzXzNQcHhZTjNJQ0htWlAxWk5YZGNxR2M4Ni1EbUM1SEZ4dzEteVNQYmJoWTYzZU5zdnFfQWV2UUZLVlBYTU9zQ3BtQlo1QzhMeVhPaHQ0b09KZzRZRlNvelR2LW5PUk00cE1fVEt3UDZ5cmhmalRlS1ItREEtcWRSbV9MVl9GQVhNMA?oc=5"
+          "title": "Nvidia, Micron Lead 10 AI Stocks Below 200-Day Average - NVIDIA (NASDAQ:NVDA) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajEtZmhoeTRfNzZmWDdhRkdZQUwwTEtGbzhmU1d6NTFnU0NXdVpiYUJxd2RmX3ZDVkNoa01GVE52Nk50M0I3NzBIU2pqMjVvaVdTckhrVGdQcUQxbktQVlFLazBGR1VHekQwM3lGb3VxWXhlMkx1LXVXaXhBZDVrWWY4c2RfRDhCaWJCM0lNVk9HSzRjaEFmLUtIUTVneVZBX2l5dUU5cUQ5VlZ1NGRDd09wZUQ3OERR?oc=5"
         },
         {
-          "title": "Nvidia vs. Taiwan Semiconductor: The AI Revolution Is Big Enough for Both. Here's the Better Buy. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDNYN2cxV2pHRDRoZm0tUEFobGpnYzBKMUtlbUgwMFF1TklfMU9ZbkpFQnZCamZYVXY4dWFpTVRWUFhmczRvSi1TRnpNOUlpMlZGNnRQaWNpYzBzY1VqaVhUeVBpR0tYOXpuTGlZejhkVlZ5d18takN1ZGdTSkV5MHFTZm1FYVdNYUl0NW9RS3JMMWVJc3MwWA?oc=5"
+          "title": "US Tech Stocks Wipe Out $1.7 Trillion as Nvidia, AMD Sink - NVIDIA (NASDAQ:NVDA) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVEtSSk90bnR0SzRoTHZrZnlvbW5YN2JEbjh2cThrRUF6bHpxemtNMXZRbVJKZDNkQWpnVUxULUNxamhIampHdWJEUkdnRzRaOXFxQm1KTTdVajlLZmxxTGc3NUJFY3lpNmptaGczckdHel9GdUc4RnB6UUt0bUNBdDduTVVRQXRwd1lxeHNaS3p0R1l5UjZyOVFHYmdfVjF5Qk9jS1pjamxLMGt6ZGNFeGFZUFEyWlE?oc=5"
         }
       ]
     },
