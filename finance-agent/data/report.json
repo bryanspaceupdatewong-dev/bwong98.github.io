@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-05T18:15:35.128603Z",
+  "generatedAt": "2026-11-05T19:16:02.606818Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 538.705,
+      "currentPrice": 539.15,
       "weekAgoPrice": 530.1400146484375,
-      "percentChange": 1.62,
+      "percentChange": 1.7,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 183.053,
+      "currentPrice": 184.06,
       "weekAgoPrice": 213.66000366210938,
-      "percentChange": -14.33,
+      "percentChange": -13.85,
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia repeating Cisco\u2019s fatal dot-com playbook, George Noble warns (NVDA:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2JuV1hwc0t2djYzNzBCX3VEOGVUdmMwQk5QXzQ5ME1rejRvWGZIc1JuZXEyOTNpRmxicTdSZ193OXQ2VkNieF9kVkE0WGhuOGdDb3kxZkd0cnhaOEJUUXVsdi1tdHBoWFhDZFpmVjFSOHhGdUt4djZjRk5VWkc5cDVrTnQ2RkRXUTdDcmhNLWl3aGpSUzFKajB1MmpQajBKZXI0bnBsVQ?oc=5"
+        },
+        {
+          "title": "Not Nvidia. Not AMD. 2 Chip Stocks I'd Buy Before the End of the Year. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbk04S2hZZmNzbEVxTWY5ZXh5ay1DX0RNRExSN1l2ZXJYMHNoTy1qcU5oc01OSWpvY0kxLVdrTjkyQVphUnZZdTZ4dFdmRThicUZBUHhhd0FpUEhERTNPYnplSk9meC1Gd0lMcHVlQ0ZpQVNlaUEyNHpJd3pBUk5lanZUWjM1LXVQLUI1M3RqY2d2SGZx?oc=5"
+        },
+        {
           "title": "Stocks making the biggest moves midday: Micron, Tesla, Tripadvisor, AppLovin, Nvidia & more - CNBC",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3FKb0tTczRZcVFtbklBaFp2WWFCSU5zR1h3UEdPSERONW9PYUFhMmZ6aFV1U0Eta0ViYV9mM1B4NWVBTU9ELXByNm9aNVVYaDBhQXJtN1dDTzRzVUMycTUxaFA1aUw4aFE0Z1RrRDhtT0NLbDN3R0I3ZVY1OW1qaG9BUF9QLUFCampwdVp0U1RHUzRIZ0R3eFB1d2Z3Zw?oc=5"
-        },
-        {
-          "title": "Why Nvidia Stock Is Getting Punished Today - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXQxOFdjaGRGZFVFS1M1ZXZyWWJlaFdHZ0FFZ0l2cjB3TlRQNk51SThNUDFWSnFZcTJ3U2VsdzZ3cUtsTG00ZlRuSmZ6QUdqdUJBek5WRjhUdjhhQTZNT2UtbTNXM2Q2Ym55QnMwaDNIVnRRTUlkaTJFWDZlZWFVaF9FYTh0clhMLVZnVEpEQ3pGcFJ2M2lWWHhFN2J6ZFowRHRLUnBtcEE2TzZQR1lQWXRHVFVFRlJiejRZYVN3?oc=5"
-        },
-        {
-          "title": "QQQ stock today falls over 5%: Why Nvidia (NVDA), Qualcomm (QCOM), Intel (INTC) and Marvell (MRVL) are dra - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNUZDc2RzT3FCTWFKdUQ4ZFhZVUN4MkpyYmw0eERwVkdXV0p3d2ZJcU42dmQ1bTlTaDRrX2h5bklMU01kMTNNZUlnWmJfV0JCTURsbTVtdzBpTXJpQ3RqbVZSTWp3UG9wbjIzNjhkdHFzTUtIbUQ1YlQ0S19DWmxCWkpmbGJiSk5STFE2dE4yNGFqMm5icExzQVdMc2Z1UVhoTEdjcHc3Ny0xZzNmaXFoM1hlV2MxaXJwTnlXYjNHcUN6eDFydThGSEdseE5RUXRraEZwakF2RElZRDBGbTI4NGEzb1NmaEJRSnluSjEyZV9uZVd1TnpkblJWdGpDTjgyQkI0X0JtNlpMZFlXMGt4WVRGRlVjMUp1TUZaWW9yRzdhZjZE0gGqAkFVX3lxTFBLMXVmTVB6cDhmdWYySEQ5SG56ek4xMXkwU3o2WkpnaVBsZWFsLUR3X1NFWVFkMkJkNzRHYXJ2aFAySk5CWGlibnBMZFBCd2VkMnMwcUJVNlBpZjFqNTBVOVhZSHBiRjEwcmNOcXdCbzY0NUZsdF9VZWJlbFl0Q25LSG5oQzR5NjlMNTN4eThJRmJ1anAxcnk5SWN2Q3ZwMEl1LXNvbnVyZ19IcGxQclVPOXVIOUlwQnJ6NF9kclpZYU1FZmRNU3lNbVpvRVM0RktGWmxLWlNkSE1ndExtS082cGJsTGVTc000SHM3Z0s5ZlNFVVVGTUxFSG5PN3R5VFRUb1dibkZjb2REZDhhTlpSanZyaUJ1SW9IdnBxUXdXOVFvVkdSM0stNFE?oc=5"
         }
       ]
     },
