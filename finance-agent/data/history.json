@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-03T01:16:13.242243Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.149999976158142,
-        "percentChange": 8.7,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.57,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": 8.28,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.3799999952316284,
-        "percentChange": 5.07,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-03T02:16:42.500919Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2197,6 +2167,41 @@
         "currentPrice": 1.21,
         "weekAgoPrice": 1.1399999856948853,
         "percentChange": 6.14,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-05T03:16:27.724205Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 200.13,
+        "weekAgoPrice": 215.3800048828125,
+        "percentChange": -7.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5-star analyst resets Nvidia stock target after Intel crash - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYUcwZk1keE5vcUlBWHlZMVpBNWxpdjZ5TEZyLUdYaWRzRzFyMjliWmhxSkQzWDhRS0lRMEF5Smg0WTlnV2M4WDlubmhidGlkaDczN0c5Zko5ajNIWm4tLWZ6bUJLOEJlcWllX3N4aUU4QW5OYUNmYkFIS2pmaENhYXBiSQ?oc=5"
+          },
+          {
+            "title": "Here's What $10,000 Invested in SpaceX and Nvidia Could Be Worth by 2030 - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSE4wSFl6RV9ydGswcmZMdldKSFVQVW1PajBXQVRuQVczblpzNXZqdGI2SG9qejBnU3A5bzU3QWRBc2RmYXlwUHhfTm9PX3o2UzExTXNlY0Z0MDhNTWN2T3doQmRyNU95azBmQ2RzamVaZzJDRzdIX0hfMlA3X0dDS09VTlZqcGg4SzNnNUx3clR5SGdrUGJCLQ?oc=5"
+          },
+          {
+            "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 3.2% - Time to Sell? - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3M4bnZ2ZnpTM090RVFUUHR2bUNkV3Fqb0NpYkEtSEtaRkxYTGNaZ1dqNXR4Ynh6UVRBbC1kci16MnhVeFFQZkhJbVU1TXh2ejloeEgwOWM3M1VSZTB1RDIwN05QU0JPUTlmeXQ4cHp1VUp0RGVhdzNxQld2ZTkxdDZsNFBfb09XcTdEZU1PNVNlWGYzVFBHUUpmNk9qYjJSYjVoVWJzUzdsUQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 5.26,
         "flagged": true,
         "news": []
       }
