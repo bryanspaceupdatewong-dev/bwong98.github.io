@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-11-05T00:16:37.807171Z",
+  "generatedAt": "2026-11-05T01:16:28.675496Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 555.8,
-      "weekAgoPrice": 531.010009765625,
-      "percentChange": 4.67,
+      "weekAgoPrice": 531.3300170898438,
+      "percentChange": 4.61,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 200.13,
-      "weekAgoPrice": 215.3800048828125,
-      "percentChange": -7.08,
+      "weekAgoPrice": 217.94000244140625,
+      "percentChange": -8.17,
       "flagged": true,
       "news": [
         {
+          "title": "5-star analyst resets Nvidia stock target after Intel crash - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjBPWWFHbG9sLTVSR0lBdUdhXzlNQ3ZIcmphN2JFMzc3YUJ2NXJoalNDN0FSTHVSNy1VclNHYkNJU0JVMFZaOGZ4Q2FqVG1YUVNWdTZfTm9PVG4wTGh6VEN1MXVYTnRGZGt4YnVyaTBYa0RvS3p0cDlhbUJ6aFh5SVZXSUZKLVBpbEJ2M1N3VU1waWZUZDlhTg?oc=5"
+        },
+        {
+          "title": "Here's What $10,000 Invested in SpaceX and Nvidia Could Be Worth by 2030 - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSE4wSFl6RV9ydGswcmZMdldKSFVQVW1PajBXQVRuQVczblpzNXZqdGI2SG9qejBnU3A5bzU3QWRBc2RmYXlwUHhfTm9PX3o2UzExTXNlY0Z0MDhNTWN2T3doQmRyNU95azBmQ2RzamVaZzJDRzdIX0hfMlA3X0dDS09VTlZqcGg4SzNnNUx3clR5SGdrUGJCLQ?oc=5"
+        },
+        {
           "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 3.2% - Time to Sell? - MarketBeat",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3M4bnZ2ZnpTM090RVFUUHR2bUNkV3Fqb0NpYkEtSEtaRkxYTGNaZ1dqNXR4Ynh6UVRBbC1kci16MnhVeFFQZkhJbVU1TXh2ejloeEgwOWM3M1VSZTB1RDIwN05QU0JPUTlmeXQ4cHp1VUp0RGVhdzNxQld2ZTkxdDZsNFBfb09XcTdEZU1PNVNlWGYzVFBHUUpmNk9qYjJSYjVoVWJzUzdsUQ?oc=5"
-        },
-        {
-          "title": "NVIDIA Corp Stock (NVDA) Closed Down by 3.12% on Nov 4: What Investors Need To Know - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSHFObXJxc3NCal9CZVJhTTllZ2V3Z0dWWVBnUDM2YzNaRURETU9DQm5BVmpHbmNyM3Rsb25VdHlWcHNCYmd0WUtHQ1lyOFJ4OGFHY014M1J4SVhra2Y0T1YxS3kxUVI5MEZPMEs1UGhNZjBmRVZWTnRjeUVON1pCenI5WUF4dXhseUt3?oc=5"
-        },
-        {
-          "title": "NVDA Stock Tests $200 Support as Political Backlash Hits Nvidia and Chip Sector - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXNWWjRJb2UyOFZjVFNlWW82UG1nS1dmX0ZEVDFlMjVjMl83QW5LOTIwMWJHRzI3M3dZVWhSUGUtSGJjeE80MUdQcXNITnFaOVliei1GV203N0tTSVZQa0xpLTV5OFU3WXRTYWZNMDlPYV93bVlZYjZTMGdwNGliTFY2LTc3VzZQUDdOQjVmaGhiT2tMNlRHQlk2N0plb2x0ZFpzbHRZM3dWdjd5MDNoS05mUXdXSlZWc0k0SkV3?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.77,
-      "weekAgoPrice": 4.710000038146973,
-      "percentChange": 1.27,
+      "currentPrice": 4.8,
+      "weekAgoPrice": 4.730000019073486,
+      "percentChange": 1.48,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.73,
-      "weekAgoPrice": 7.380000114440918,
-      "percentChange": 4.74,
+      "currentPrice": 7.75,
+      "weekAgoPrice": 7.46999979019165,
+      "percentChange": 3.75,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.23,
+      "currentPrice": 1.24,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": 0.82,
+      "percentChange": 1.64,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.51,
+      "currentPrice": 1.54,
       "weekAgoPrice": 1.5099999904632568,
-      "percentChange": 0.0,
+      "percentChange": 1.99,
       "flagged": false,
       "news": []
     },
@@ -82,17 +82,17 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.235,
-      "weekAgoPrice": 0.23999999463558197,
-      "percentChange": -2.08,
+      "currentPrice": 0.24,
+      "weekAgoPrice": 0.23499999940395355,
+      "percentChange": 2.13,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.29,
-      "weekAgoPrice": 1.2999999523162842,
-      "percentChange": -0.77,
+      "weekAgoPrice": 1.2699999809265137,
+      "percentChange": 1.57,
       "flagged": false,
       "news": []
     },
