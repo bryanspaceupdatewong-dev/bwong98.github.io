@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T21:16:17.116225Z",
+  "generatedAt": "2026-11-05T22:15:44.620791Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,32 +19,32 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia Eyes Apollo\u2019s Struggling Telecom Sites To Sidestep Data Center Moratoriums: Report - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmVvdU10eVBoekxBY2E5Tk4xeWxMTEljeTdKWUVDZWQyY2hjQUhWRXBxb21lNkFwb3pLa0FYclJjUTFWZW1nOUlvV1JFSl9hbGgwUkVyNVJQXzRkbWJaMm5td2ZreVBYcVRZMUE1aHVMQkZNcm1iem1rTHVoYU13MU9JSUtYWDVXMnl4STc0V2ZSQ09STjZvNFNpNVhEX0FfU1Br?oc=5"
+        },
+        {
+          "title": "NVIDIA drops 9%, now down for 2026 (NVDA:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55dkVydnZ1SlozVzEyNHVKLUJHRVlCY0JsY2d4dVFsMDF3SktFeUFmRGNZMnU4NmRGT0NVNHJRRGNsSXhJbDh4d3JGeUVqaFctaWpGalpxSW1vT0tTQkswOFpMdkpmYjNWZ3FOQldLZXdFbkNmNWl4amFR?oc=5"
+        },
+        {
           "title": "Is Nvidia Still a Millionaire-Maker Stock? - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbzQ1RXlvMFliTVBaUDhwNm1VR2xSdzRfdUJkdHphNnQzVGwxTS1XRmdkcktjQXdVWXRWR2t2RTFLX2NkaFNNc2dsNG1hQ2hyQ0ZPXzJBU0Zzd0RSR2FkQTZxTXNYNWhHWXFBSDdLS3NfYlRWZG90Tmh5Y2JablYyaXJkdXcwdVU5bWc5Zw?oc=5"
-        },
-        {
-          "title": "NVDA Stock Faces the Last Support as Midterm Elections Put Data-Centre Spending and Nvidia Under Pressure - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU1BXUm9jcnRySkl4VTVlN0VLQWlhdFNmTVNBaXdaU3VGQ0FBN3drQjF3OU9TWUFOM09oMUpkNHNCRFNYVV80N2pUc05CZ3Z3a0VLX3NWMl9Ia1ZCWVdQU0NBeXpnUERWM0g2Rll6eFlJNjBDSXFnU0RLZnQ3X0dkazQxeURUTkI5bUpNT2Z6MmVtZ0dBSzJPUkRnSkhyYTJ5RnVJSFNUTk9IUTFTNVhOMWpDSXk4RWF3eFpDb1g5Wll6SDBiS2U4WGFCbDhxVHpxR2Q1U3J0dDlKSV9EQ1NZalB3?oc=5"
-        },
-        {
-          "title": "Prediction: These Will Be Nvidia's and Palantir's Stock Prices by 2027 (Hint: Only 1 Is a Buy) - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPLTYwWU9PQmVKSWdGY1Y2d1dZQlViUk1xaTFhMUR3YU9YZi1HMDJFbi04NExOZ1NxWVJMcFVnbkFhUGJMZ3NBWG01UFZGWEMxRG9OVS1ESjAybEtoSi12MzVJNW9WUG8wU2tONWh0czczby1UMy1BMDNFYjctM0xxN0hzMmJBaUd4OU9kVENQLVBHeU01WjFfSDAyaG4wODduaXpUN21EMzR1TWY0ODdvcDFWZDlMdWVtSVJOMUZwUTdqeFduOW9pMUIyWEUxd0xVcUd4T1R6WkEyYUJZWmJUZnVQQ0V3S3ZNRTFfN0x5azdidDQyVlZjZUZ5SHhLXzMwNEE4?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.96,
-      "weekAgoPrice": 4.710000038146973,
-      "percentChange": 5.31,
-      "flagged": true,
+      "weekAgoPrice": 4.730000019073486,
+      "percentChange": 4.86,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.74,
-      "weekAgoPrice": 7.380000114440918,
-      "percentChange": 4.88,
+      "weekAgoPrice": 7.46999979019165,
+      "percentChange": 3.61,
       "flagged": false,
       "news": []
     },
@@ -75,32 +75,32 @@
     {
       "ticker": "5296.KL",
       "currentPrice": 1.2,
-      "weekAgoPrice": 1.159999966621399,
-      "percentChange": 3.45,
-      "flagged": false,
+      "weekAgoPrice": 1.1399999856948853,
+      "percentChange": 5.26,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.25,
-      "weekAgoPrice": 0.23999999463558197,
-      "percentChange": 4.17,
-      "flagged": false,
+      "weekAgoPrice": 0.23499999940395355,
+      "percentChange": 6.38,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.23,
-      "weekAgoPrice": 1.2999999523162842,
-      "percentChange": -5.38,
-      "flagged": true,
+      "weekAgoPrice": 1.2699999809265137,
+      "percentChange": -3.15,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.655,
-      "weekAgoPrice": 0.6800000071525574,
-      "percentChange": -3.68,
+      "weekAgoPrice": 0.675000011920929,
+      "percentChange": -2.96,
       "flagged": false,
       "news": []
     }

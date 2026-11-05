@@ -1,73 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-03T20:16:15.459083Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 206.55,
-        "weekAgoPrice": 217.94000244140625,
-        "percentChange": -5.23,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock Climbs Amid Oil Price Drop - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkRBWndlcW94T2ROTWJiRmlkekZxaXdrQ0pZTHJpY01BNmFBeHZORGJ2MG5haXpCaVhwSlZRLXlwSWQzUDRFdDMtNDQzblVIUXloSTlSQTcyb3F2c1JObFExRFQ1YlVxcHhkaVBpNVM5SVZGZVhhUmFJWkJ5UHhFY0tKTTJIUlJnQ0hyc1p4VVBoT2c2VjNBdklMQlRNZkxtNGc?oc=5"
-          },
-          {
-            "title": "NVIDIA Rises 3% Despite AI CEO\u2019s Warning on Chinese Chip Competition; AMD Climbs 5%, Broadcom Gains 3% - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLTVQcU5XdnlpdndSb1VzQ1dKbllnTW9YWXAyc2dNdjhuWElXenRMa0xpcG1XbV9lVnJTaXktM1ZWM2FxVzV3eUxlLU5sWVJUX1g1MGdGUFpjVUZMVk9HcHpDcEVZNm9VREtQSzBNVFRfTUdpb25ncXhaNkJzWU8tN1lyUkViODJOQlJNWG5HQ3Z0eU5X?oc=5"
-          },
-          {
-            "title": "NVDA Stock Rebounds Off $200 Support after Nvidia's CEO Comments and Anthropic Expansion - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVUJwWWpZclM2WjJBSFB1NmlnbXQ5Vl9TZ2ZZbVRTTDN6SUJXRC00Rld5SkcyRzRjMkQwT0h3d0FzZ2ptME1fT2FPSGk5UzJ0SnRfZjZaZ2Q1bnh5WEc0b3hWa3Z5MnMwNFdWbTFfbWYxWlBDTVBVMU44a255QXFkaGtqeHF0WHVBeUJMMlcxME1NZFoyaEdzaU9fU3hKMmg1QTFnUzU3OW5ZVFExU2Z2N2pBVjZPajhqNEVTVTc4MFJ2Y1pGZFFONQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 8.62,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.55,
-        "weekAgoPrice": 1.4299999475479126,
-        "percentChange": 8.39,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
-          },
-          {
-            "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.3799999952316284,
-        "percentChange": 5.07,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.23,
-        "weekAgoPrice": 0.24500000476837158,
-        "percentChange": -6.12,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-03T21:16:13.705565Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1952,6 +1884,49 @@
         "currentPrice": 1.23,
         "weekAgoPrice": 1.2999999523162842,
         "percentChange": -5.38,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-05T22:15:44.620791Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 181.6,
+        "weekAgoPrice": 213.66000366210938,
+        "percentChange": -15.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Eyes Apollo\u2019s Struggling Telecom Sites To Sidestep Data Center Moratoriums: Report - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmVvdU10eVBoekxBY2E5Tk4xeWxMTEljeTdKWUVDZWQyY2hjQUhWRXBxb21lNkFwb3pLa0FYclJjUTFWZW1nOUlvV1JFSl9hbGgwUkVyNVJQXzRkbWJaMm5td2ZreVBYcVRZMUE1aHVMQkZNcm1iem1rTHVoYU13MU9JSUtYWDVXMnl4STc0V2ZSQ09STjZvNFNpNVhEX0FfU1Br?oc=5"
+          },
+          {
+            "title": "NVIDIA drops 9%, now down for 2026 (NVDA:NASDAQ) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55dkVydnZ1SlozVzEyNHVKLUJHRVlCY0JsY2d4dVFsMDF3SktFeUFmRGNZMnU4NmRGT0NVNHJRRGNsSXhJbDh4d3JGeUVqaFctaWpGalpxSW1vT0tTQkswOFpMdkpmYjNWZ3FOQldLZXdFbkNmNWl4amFR?oc=5"
+          },
+          {
+            "title": "Is Nvidia Still a Millionaire-Maker Stock? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbzQ1RXlvMFliTVBaUDhwNm1VR2xSdzRfdUJkdHphNnQzVGwxTS1XRmdkcktjQXdVWXRWR2t2RTFLX2NkaFNNc2dsNG1hQ2hyQ0ZPXzJBU0Zzd0RSR2FkQTZxTXNYNWhHWXFBSDdLS3NfYlRWZG90Tmh5Y2JablYyaXJkdXcwdVU5bWc5Zw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 5.26,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.25,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 6.38,
         "flagged": true,
         "news": []
       }
