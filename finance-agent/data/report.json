@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T22:15:44.620791Z",
+  "generatedAt": "2026-11-05T23:15:41.272146Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 9.3% - Should You Sell? - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWo2cmp4MXVFbWpoQi1YeHFYcmFJQUNHcDJuR1Q2VkpRNDM1RVV3OTRyMkg5c1hOUkVSVktmR01nUE9UTTU3c2ZHUTVrYWh5dUtsQXpjNzlxYUk5aUMyWVdOX0I5WlhBVElwMXZUaklXMlVrR2Y5R3dkR01OM0U4MFZRS1RLS1pIeE1CZHltM2NtUzN0OFk5LUo0UzV1QzgyQ25wYXBUVUtIXy1zekE?oc=5"
+        },
+        {
+          "title": "Stock Market Today, Nov. 5: Nvidia Slides on AI Chip Selloff as Election Uncertainty Weighs - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZjFFTGpNdlBzMFNvNUpoYm53NjhkNVFIcHRHa3NYWGR2SC1JaEdvUENjTzdjX3hUOFdGNFBHenZGamFxSjgzLVQ0NHlSc01UUUJ3alplQTFDNnNqY3d3cGk2cUxXMUgwbVpkdnR2Nng5MlJZd05xUk5LWDgzbGZ1RjNFS0ZhdjB2ZklObU9FbEJGd2dVY0x3MU9SbmZNNUNfY0EwbVRrMWxoSmhINTBkOXlncU1Jb0J4alhGa05fODlpWjJjNUV5Mkh6d0pWZGJRMXp1bDVuSnhDXzl3RC1CQTlYazhpUXBOdXlrNnktQ2VLWE1zWEY3ZnlyTFdyQUt4Qkl3?oc=5"
+        },
+        {
           "title": "Nvidia Eyes Apollo\u2019s Struggling Telecom Sites To Sidestep Data Center Moratoriums: Report - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmVvdU10eVBoekxBY2E5Tk4xeWxMTEljeTdKWUVDZWQyY2hjQUhWRXBxb21lNkFwb3pLa0FYclJjUTFWZW1nOUlvV1JFSl9hbGgwUkVyNVJQXzRkbWJaMm5td2ZreVBYcVRZMUE1aHVMQkZNcm1iem1rTHVoYU13MU9JSUtYWDVXMnl4STc0V2ZSQ09STjZvNFNpNVhEX0FfU1Br?oc=5"
-        },
-        {
-          "title": "NVIDIA drops 9%, now down for 2026 (NVDA:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55dkVydnZ1SlozVzEyNHVKLUJHRVlCY0JsY2d4dVFsMDF3SktFeUFmRGNZMnU4NmRGT0NVNHJRRGNsSXhJbDh4d3JGeUVqaFctaWpGalpxSW1vT0tTQkswOFpMdkpmYjNWZ3FOQldLZXdFbkNmNWl4amFR?oc=5"
-        },
-        {
-          "title": "Is Nvidia Still a Millionaire-Maker Stock? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbzQ1RXlvMFliTVBaUDhwNm1VR2xSdzRfdUJkdHphNnQzVGwxTS1XRmdkcktjQXdVWXRWR2t2RTFLX2NkaFNNc2dsNG1hQ2hyQ0ZPXzJBU0Zzd0RSR2FkQTZxTXNYNWhHWXFBSDdLS3NfYlRWZG90Tmh5Y2JablYyaXJkdXcwdVU5bWc5Zw?oc=5"
         }
       ]
     },

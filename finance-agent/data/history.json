@@ -1,73 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-03T21:16:13.705565Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 206.69,
-        "weekAgoPrice": 217.94000244140625,
-        "percentChange": -5.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia vs. SK Hynix: Comparing Quarterly Revenue Trajectories - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNczVpZEpEWTd3M0lvTmlHT0FLeEpPVUN2V0VqWlc0Y0ppS1lnd0VHVXcyX05Cd1NqRFVlUW5peGNLbkxrcWZNZnZOY2Z3YlppSERBd0d1eTJEQkx3UVh2NUdoRm5vNGNjQ213M1J3VFRoY0xZMUJ6WEx5TG04V3BKZURIS2VzLVR5TEtkZjd0cUcxLUEyd0VOUG9OYkZ0VkpkS2hIMkhZcF9TS05v?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Climbs Amid Oil Price Drop - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkRBWndlcW94T2ROTWJiRmlkekZxaXdrQ0pZTHJpY01BNmFBeHZORGJ2MG5haXpCaVhwSlZRLXlwSWQzUDRFdDMtNDQzblVIUXloSTlSQTcyb3F2c1JObFExRFQ1YlVxcHhkaVBpNVM5SVZGZVhhUmFJWkJ5UHhFY0tKTTJIUlJnQ0hyc1p4VVBoT2c2VjNBdklMQlRNZkxtNGc?oc=5"
-          },
-          {
-            "title": "NVIDIA Rises 3% Despite AI CEO\u2019s Warning on Chinese Chip Competition; AMD Climbs 5%, Broadcom Gains 3% - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLTVQcU5XdnlpdndSb1VzQ1dKbllnTW9YWXAyc2dNdjhuWElXenRMa0xpcG1XbV9lVnJTaXktM1ZWM2FxVzV3eUxlLU5sWVJUX1g1MGdGUFpjVUZMVk9HcHpDcEVZNm9VREtQSzBNVFRfTUdpb25ncXhaNkJzWU8tN1lyUkViODJOQlJNWG5HQ3Z0eU5X?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.159999966621399,
-        "percentChange": 8.62,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.55,
-        "weekAgoPrice": 1.4299999475479126,
-        "percentChange": 8.39,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Genting Berhad (3182.KL) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZN3FubFRkZ1NPMmJGVnpWc3BleVdxM0JyZ3NGTzR2S1pZUG00MHhpVHlhb2Zac1JaZDY0eVd6YU5tbjIyOVBMeElTa3NweUhZX0JrU0Q2bEpzdFRKaHRCc3ZZYUdZZw?oc=5"
-          },
-          {
-            "title": "Capital A Berhad (5099.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNHNJN3pxYUNCQ2hVSzRFQldfN0g4aFc0eWtTMm9peFM5YUQwT2RZXzZua1E4OXY2WkFWWTFQWXJTTm9Ob1dDMUl5Q1NNU0tuT0NtOUtB?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5271.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.3799999952316284,
-        "percentChange": 5.07,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.23,
-        "weekAgoPrice": 0.24500000476837158,
-        "percentChange": -6.12,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-03T22:16:19.463472Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1911,6 +1843,49 @@
           {
             "title": "Is Nvidia Still a Millionaire-Maker Stock? - The Motley Fool",
             "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbzQ1RXlvMFliTVBaUDhwNm1VR2xSdzRfdUJkdHphNnQzVGwxTS1XRmdkcktjQXdVWXRWR2t2RTFLX2NkaFNNc2dsNG1hQ2hyQ0ZPXzJBU0Zzd0RSR2FkQTZxTXNYNWhHWXFBSDdLS3NfYlRWZG90Tmh5Y2JablYyaXJkdXcwdVU5bWc5Zw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 5.26,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.25,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 6.38,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-05T23:15:41.272146Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 181.6,
+        "weekAgoPrice": 213.66000366210938,
+        "percentChange": -15.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 9.3% - Should You Sell? - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWo2cmp4MXVFbWpoQi1YeHFYcmFJQUNHcDJuR1Q2VkpRNDM1RVV3OTRyMkg5c1hOUkVSVktmR01nUE9UTTU3c2ZHUTVrYWh5dUtsQXpjNzlxYUk5aUMyWVdOX0I5WlhBVElwMXZUaklXMlVrR2Y5R3dkR01OM0U4MFZRS1RLS1pIeE1CZHltM2NtUzN0OFk5LUo0UzV1QzgyQ25wYXBUVUtIXy1zekE?oc=5"
+          },
+          {
+            "title": "Stock Market Today, Nov. 5: Nvidia Slides on AI Chip Selloff as Election Uncertainty Weighs - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZjFFTGpNdlBzMFNvNUpoYm53NjhkNVFIcHRHa3NYWGR2SC1JaEdvUENjTzdjX3hUOFdGNFBHenZGamFxSjgzLVQ0NHlSc01UUUJ3alplQTFDNnNqY3d3cGk2cUxXMUgwbVpkdnR2Nng5MlJZd05xUk5LWDgzbGZ1RjNFS0ZhdjB2ZklObU9FbEJGd2dVY0x3MU9SbmZNNUNfY0EwbVRrMWxoSmhINTBkOXlncU1Jb0J4alhGa05fODlpWjJjNUV5Mkh6d0pWZGJRMXp1bDVuSnhDXzl3RC1CQTlYazhpUXBOdXlrNnktQ2VLWE1zWEY3ZnlyTFdyQUt4Qkl3?oc=5"
+          },
+          {
+            "title": "Nvidia Eyes Apollo\u2019s Struggling Telecom Sites To Sidestep Data Center Moratoriums: Report - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmVvdU10eVBoekxBY2E5Tk4xeWxMTEljeTdKWUVDZWQyY2hjQUhWRXBxb21lNkFwb3pLa0FYclJjUTFWZW1nOUlvV1JFSl9hbGgwUkVyNVJQXzRkbWJaMm5td2ZreVBYcVRZMUE1aHVMQkZNcm1iem1rTHVoYU13MU9JSUtYWDVXMnl4STc0V2ZSQ09STjZvNFNpNVhEX0FfU1Br?oc=5"
           }
         ]
       },
