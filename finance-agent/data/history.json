@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-03T09:16:32.928886Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 202.06,
-        "weekAgoPrice": 216.0,
-        "percentChange": -6.45,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVDA Shares Inch Higher Overnight After 4-Day Rout: Chipmaker Reportedly Tells Cloud Clients To Limit China Exposure - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeThaYzJPQ3BBeXF3WF9WMGZZSFhGdGZWLVpMSzE4NWJzRE5GSnVmcU8zVE5Zc2NyVVZfNFBPbXJsb3g3Wjc1R1lERGdXZmxlU0F3SWt2T0xLZFc1Rk03UE1LYlpyR2FpakowbWdiN19wVy1QQTNZdnp3a21rUVhkU3hQWXZtOTB2TlBoNDNKekVXTGFlUEliWmZPS29Tckk?oc=5"
-          },
-          {
-            "title": "NVDA Shares Inch Higher Overnight After 4-Day Rout: Chipmaker Reportedly Tells Cloud Clients To Limit China Exposure - Stocktwits",
-            "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMjgxNTRkWFIzT3NTUWJIbXM4WFgtcmxJcy13Vi1lZ0owWFAwMzRjVGVDSi14WEU2aWhYMURvZnYwZHZQME9HUVNIbmYzNHNleVUxUzZtV0pfM0VDQTF2Z1FSalRwRk1INHNPZlYxY1QxMmdfQjFjLWpuOG1KVTlIaWdkXy1sSndJaDBxZnc2YXJNV2hDbjBscVhQcWswOWZKTmxOVV9aVlJjSjdXZUlwOVZBdWZ0dmVzdVNVNVFfWkM3YkhRTy1JNGNQamdGUV9aTlpKdVpPdExiemdUckxJbHh6UlRrWHdlNTdjT0RrTGY5cjdkLWtHZk1QZnFvemdKQjlkcFgxVG5LcENt?oc=5"
-          },
-          {
-            "title": "Nvidia-Favored Marvell and Lumentum Announce Merger: What Does This Mean for NVDA? - TradingKey",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbFpyOHl5Wjh4NXVBZzF6WkpLS3VxNjBhcGw5NGFCM05RRDZXa1p6ZTE1WlNCSlZiMWZzTzJtaWk4X1pLRmtxSk4zWHZJRzNUbnEyajlhUVl3VXZhTTJaX0R3QUYxMWtGVVplQ0dJTHFXUUFVMVFMd2psSklhZjhjR0ZXZ0JYcmd2MG9uNVJSdHM0a2M2TGppMVJqd0dIRU02SHRxTlNhTEFKSkEzMW8xRFJkeHhsdUZDbHJTcG14aHY3bENNXzM1Nm1zTTVtWFhvOHU1NVZVb2tNYU0?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.149999976158142,
-        "percentChange": 9.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.55,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": 6.9,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.23,
-        "weekAgoPrice": 0.24500000476837158,
-        "percentChange": -6.12,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-03T10:16:53.560178Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2000,6 +1949,49 @@
           {
             "title": "Foster Group Inc. Buys 2,787 Shares of NVIDIA Corporation $NVDA - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ0FsdXJ2VTBWNFU1R3FuclJ2QzN0TGRxWHk1b3JrYTJrTFpyVFFUOWstdExZajBSQWd4UW1DNUVlMTRSUzVwZS1tQWpxdWFLZjhtd0c3ZnZLU2dELWpNdTFQQjhhdlA2eW1tN1dGcmNJeG9GSFE1UVR6aWtnRUZvY0tKWWhRanhBZS1nQTItaVd2UVh6NzJ3LTA5NS04TE5vMlZLNWlKaXk4U2ZLLUtwM0hoMGlFbmNTcVJXeGRR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.2,
+        "weekAgoPrice": 1.1399999856948853,
+        "percentChange": 5.26,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.25,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 6.38,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-05T10:16:11.882531Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 200.13,
+        "weekAgoPrice": 215.3800048828125,
+        "percentChange": -7.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "US Futures Mixed After Rally On Wednesday \u2014 MU, TSLA, AAPL, MSFT, APP, NVDA, IREN In Focus - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlRsVXVtVDFHcndnT29WcW9XaFB5ZE9ESG5MLVZWM3hMRExKdUxGMWpvTHUxZ2hRTDNQWUN3T2FXOHZMeExkSVd4UU5sUkJiVlRTRFpYZDNsS1ZYcWUxSmdtWjVYTEFHcmR2QmppN1hQRjlQVzcyVHptU3pTVGpfTWhiejFlMHBod3JtMEVybFlIamwtTk1FOEhHQlNpcTUzY2lhcTRIUU5uYlNoNHB1czkxbVU1aFFKWWtxV1FnbzNWTnBmV0Yxcmp6eUFjVTFCVmFOMTF4TEFMR2prdHE0?oc=5"
+          },
+          {
+            "title": "4,743 NVIDIA Corporation $NVDA Shares Purchased by Krilogy Financial LLC - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1pHNUc1SGNpRmctX2hOdkxSd0tRSk1vM0RhbURKcW0wVEZNRjVaRjBhUzZIOWtUYU9wbGlGYVNiT3dHWGFxeDNwVVJqQTNuNC1oM1ZwZUdza3ZZempWV3BBMWk0UTJVRXduUHhXdzVfTDZDSWp0RHBieGJZWjA2Ujh1OTgyMUZ1aHlxMnBpRlFMME1vaXYwNndERk01dl9Yand6VWF5cXcxY3pMWlJIamk4NTV5UVRkRzlQYmFuQW52b0tEdHNTTUFNSQ?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Stock Holdings Raised by Mechanics Bank Trust Department - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGFXdG1waVJ4enJ5VS13WmVyR1UzdHViY2llU0p4OHE2a250NHZDWjVQSWZUTUJaY3pVUWg1aVVBR3MxU0o3S1NaQjBTS1pYU2FvOGVaRFdJMmEzRVpRRG5QWTdPVFdrVjUxMURxazRyYlNsRXhhV0s1WHd5dzV4bmU5anJtbUhidXVZZ2F4SmlueTRhdlZuVzA2cXB0ZW0wVllOdlRFSTluWFMwTS1zQjhvcno4VUpmS293dkxSUGRnQ2IwSG82ZDhCdE1hNmJjTXNLVk5Rb2U?oc=5"
           }
         ]
       },
