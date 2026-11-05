@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-05T20:16:03.417429Z",
+  "generatedAt": "2026-11-05T21:16:17.116225Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 535.92,
+      "currentPrice": 535.93,
       "weekAgoPrice": 530.1400146484375,
       "percentChange": 1.09,
       "flagged": false,
@@ -13,22 +13,22 @@
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 182.87,
+      "currentPrice": 181.6,
       "weekAgoPrice": 213.66000366210938,
-      "percentChange": -14.41,
+      "percentChange": -15.01,
       "flagged": true,
       "news": [
         {
-          "title": "Prediction: These Will Be Nvidia's and Palantir's Stock Prices by 2027 (Hint: Only 1 Is a Buy) - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1hVT2xnRk1odmZCakQ1U3NxSnlFdVhLM0h5dTV4R29TVGF4WmtaVFJFMnhnck80ZkhPbnNpVGVIY3VsZUFnNjRJdFczQmJOcmNsUGZZOFZlZWJjSUlkU2lWZnZablVVMkRKM29KejVMakUtUU1oZXMxd0FxWHdVZ3dweGlBUGVqd0xBM0s0TkFrSGpNdmxCczBDQ0JEbFZyTlpLZDNacUh5QQ?oc=5"
+          "title": "Is Nvidia Still a Millionaire-Maker Stock? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbzQ1RXlvMFliTVBaUDhwNm1VR2xSdzRfdUJkdHphNnQzVGwxTS1XRmdkcktjQXdVWXRWR2t2RTFLX2NkaFNNc2dsNG1hQ2hyQ0ZPXzJBU0Zzd0RSR2FkQTZxTXNYNWhHWXFBSDdLS3NfYlRWZG90Tmh5Y2JablYyaXJkdXcwdVU5bWc5Zw?oc=5"
         },
         {
-          "title": "Nvidia chips lie stockpiled in Hong Kong amid China's import restrictions: Report (NVDA:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcnJSV19TVmgtdzRVV2xNVjlwSW1pSlRBQ0JSLVlqR0Z6M2ZlcV9RUms4Q1dESThEbWRFX05KUjVwUkZfZGZSZEFpZ1hWOG9YMVpoU3YwWF83dXBUMzVva0hCZkZ2dkdmM2kyTjI1T1NQQWNCdld3OFRxdTg1Nk92Y0FWajd0Um1aV0FZVmtHTEdqQ1pQRnowam9HWU1md2xadFhQVXRmdU16dHU0aHZn?oc=5"
+          "title": "NVDA Stock Faces the Last Support as Midterm Elections Put Data-Centre Spending and Nvidia Under Pressure - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU1BXUm9jcnRySkl4VTVlN0VLQWlhdFNmTVNBaXdaU3VGQ0FBN3drQjF3OU9TWUFOM09oMUpkNHNCRFNYVV80N2pUc05CZ3Z3a0VLX3NWMl9Ia1ZCWVdQU0NBeXpnUERWM0g2Rll6eFlJNjBDSXFnU0RLZnQ3X0dkazQxeURUTkI5bUpNT2Z6MmVtZ0dBSzJPUkRnSkhyYTJ5RnVJSFNUTk9IUTFTNVhOMWpDSXk4RWF3eFpDb1g5Wll6SDBiS2U4WGFCbDhxVHpxR2Q1U3J0dDlKSV9EQ1NZalB3?oc=5"
         },
         {
-          "title": "Nvidia Stock Is Now Cheaper Than a Toilet-Paper Company, Data Shows - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPck5oQ0hwODd5VFlpelFKeV9PX0JfU3J6a3B0V1J1M2Z3cVR0Mkk3WG5PemxrZnNtXzRnRkVrRVZFZlVrclBUei1wc0g5dG4xRENxVkR2TVlLVlozVExEeDFWZnhyMXFTLXZ4YUJnSy04XzlVa09lQnp2R2lVN2NWQmNQOUlSWTdzV3hPT0FxWm8yT1JGdGtseXhEZ3BCZmhDZUlkbUQ4YXhFOW5XZ2lQUXN4Tm0xWEk1WVlkWWVDSU41MEl5VTJCYg?oc=5"
+          "title": "Prediction: These Will Be Nvidia's and Palantir's Stock Prices by 2027 (Hint: Only 1 Is a Buy) - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPLTYwWU9PQmVKSWdGY1Y2d1dZQlViUk1xaTFhMUR3YU9YZi1HMDJFbi04NExOZ1NxWVJMcFVnbkFhUGJMZ3NBWG01UFZGWEMxRG9OVS1ESjAybEtoSi12MzVJNW9WUG8wU2tONWh0czczby1UMy1BMDNFYjctM0xxN0hzMmJBaUd4OU9kVENQLVBHeU01WjFfSDAyaG4wODduaXpUN21EMzR1TWY0ODdvcDFWZDlMdWVtSVJOMUZwUTdqeFduOW9pMUIyWEUxd0xVcUd4T1R6WkEyYUJZWmJUZnVQQ0V3S3ZNRTFfN0x5azdidDQyVlZjZUZ5SHhLXzMwNEE4?oc=5"
         }
       ]
     },
