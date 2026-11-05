@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-11-05T15:16:27.749518Z",
+  "generatedAt": "2026-11-05T16:16:17.053473Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 545.1,
+      "currentPrice": 540.85,
       "weekAgoPrice": 530.1400146484375,
-      "percentChange": 2.82,
+      "percentChange": 2.02,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 187.435,
+      "currentPrice": 185.121,
       "weekAgoPrice": 213.66000366210938,
-      "percentChange": -12.27,
+      "percentChange": -13.36,
       "flagged": true,
       "news": [
         {
-          "title": "NVIDIA Corp Stock (NVDA) Opened Down by 4.09% on Nov 5: What Signal Does It Send? - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3NTa25lSHpic2FYOW1mNjFaUEtQM1NIT0lYZUROUVRFa2V4YnNYNTFMTEtxd3B2ZFJPN0tfNmFzeFNZMmF0RVM1VTZYeXJzanU3VlVEdUhmMXVoVlRleG1lazB4QlhDVzNUVk4wQ1NyXzVzLXlndmZMZlRPcjVxRVFsTENyS1VyaHVB?oc=5"
-        },
-        {
-          "title": "Nvidia Stock Is Back at $200. What History Suggests Is the Floor. - Barron's",
+          "title": "Nvidia Stock Is Below $200. What History Suggests Is the Floor. - Barron's",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EQVhFU0ZMU1p3Yk13SUJ2NjdNTk1JeWcwTnNsZjI2d3V3Mi0wZEZIUUYzbEo5dTN1V2UtMy1PblNYa1Y0MXhjQVQzYXN6OGlTOUUxQmRCMDc3dFZmZlhrSjl1Slh1Q1BDVE1yN015Nk51Zkpq?oc=5"
         },
         {
-          "title": "How Much AI Do You Really Own? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDRpNlNsLVA0OXpfNll5VDJlMnp1NlpkOTZPbmk4bkNITlBub0JfaVItaWh6SHpwQkNGQVl0aFNuVUw5WVlaMFZaVTljQzFKX2dqeHR6QV9DQ2cxcDcyNms5YmJ5eTE3eXpTVnBsbEhHbjBTSmVwXzd0bU10d1lFS1Y0Z2hmVzBMUmJ0dkN5bjhOZUYx?oc=5"
+          "title": "NVDA vs AMD: which stock has the better bounce setup - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalZ0R1BLenJ3a21tQnpDZ0luNUhsNXBEN3V1aTRtU3k2QmFVdXE5a2hzXzNQcHhZTjNJQ0htWlAxWk5YZGNxR2M4Ni1EbUM1SEZ4dzEteVNQYmJoWTYzZU5zdnFfQWV2UUZLVlBYTU9zQ3BtQlo1QzhMeVhPaHQ0b09KZzRZRlNvelR2LW5PUk00cE1fVEt3UDZ5cmhmalRlS1ItREEtcWRSbV9MVl9GQVhNMA?oc=5"
+        },
+        {
+          "title": "Nvidia vs. Taiwan Semiconductor: The AI Revolution Is Big Enough for Both. Here's the Better Buy. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDNYN2cxV2pHRDRoZm0tUEFobGpnYzBKMUtlbUgwMFF1TklfMU9ZbkpFQnZCamZYVXY4dWFpTVRWUFhmczRvSi1TRnpNOUlpMlZGNnRQaWNpYzBzY1VqaVhUeVBpR0tYOXpuTGlZejhkVlZ5d18takN1ZGdTSkV5MHFTZm1FYVdNYUl0NW9RS3JMMWVJc3MwWA?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.96,
-      "weekAgoPrice": 4.730000019073486,
-      "percentChange": 4.86,
-      "flagged": false,
+      "weekAgoPrice": 4.710000038146973,
+      "percentChange": 5.31,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.74,
-      "weekAgoPrice": 7.46999979019165,
-      "percentChange": 3.61,
+      "weekAgoPrice": 7.380000114440918,
+      "percentChange": 4.88,
       "flagged": false,
       "news": []
     },
@@ -75,32 +75,32 @@
     {
       "ticker": "5296.KL",
       "currentPrice": 1.2,
-      "weekAgoPrice": 1.1399999856948853,
-      "percentChange": 5.26,
-      "flagged": true,
+      "weekAgoPrice": 1.159999966621399,
+      "percentChange": 3.45,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.25,
-      "weekAgoPrice": 0.23499999940395355,
-      "percentChange": 6.38,
-      "flagged": true,
+      "weekAgoPrice": 0.23999999463558197,
+      "percentChange": 4.17,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.23,
-      "weekAgoPrice": 1.2699999809265137,
-      "percentChange": -3.15,
-      "flagged": false,
+      "weekAgoPrice": 1.2999999523162842,
+      "percentChange": -5.38,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.655,
-      "weekAgoPrice": 0.675000011920929,
-      "percentChange": -2.96,
+      "weekAgoPrice": 0.6800000071525574,
+      "percentChange": -3.68,
       "flagged": false,
       "news": []
     }
