@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-04T13:21:38.953396Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 206.69,
-        "weekAgoPrice": 217.94000244140625,
-        "percentChange": -5.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "AI Chip Stocks NVDA, AMD, and Others Rise Despite Democratic Win; AMD\u2019s Strong Forecast Fuels Optimism - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZE9GTGx3TUlCbEdndklGSTI2YnR2MjhxMkZUM3FFWEFFTElJX3dUV2RkLTVRNS1DNHd4THRDdW9iaHozLW1MSW85Y1NsdDVxWXQ3cnAzOXBGaGtaT1NnWjAxbzRQbkQ2SkVCNzZqYzlWV3UyT2c1WmRVYXRmR2lSVnZYMUhWS19yUWhXNlZSRkthM3BLVTRZNWtyUXJMYXdzQUpoX3ZtVDZyNF9JbXJZTmdvVzE1TXdsbXVNMlgzR2RYRzkwNXdV?oc=5"
-          },
-          {
-            "title": "What Is Going On With Nvidia Stock on Wednesday? - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2toZFJjX1BOQWJYZzhoZktmN2RTRl83VE1VWHRzYkZtQV9oMlRmcGljcWduWWltS0FRRW4tcFV4TXU5RW9jZ1U3blYtT0JkWlhwMzhwWlo4SS03a3laTEtLRG1FYmVmS1Y4dFZVZXdUY3JBLWM2ZlBnZm43T0dlT3NiLVRVdGFpcWVWaWktOTFadU52TVBXWEQyT1FZUzJOYVk1Ug?oc=5"
-          },
-          {
-            "title": "Chinese AI Firms Face Severe Nvidia (NVDA) Chip Shortage Amid Su - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWjZxRTRlTVBPV05ZaFZIZDdBR0lMSUtNYVNsWHJtQkdFVjZZLWFaR1R0VFJvVEtRWnhWb3FpblIyWUoxNll4Q2p3QzMzbmVLZC1LbmtWOElmU0NHRURZclB5Q0FDSmVibmNZMy1scEowcG0tYktJaG9UcEtnVzhWNDlabmhzeWlXeUJuN2c0TDV5VTNRZXNuWVI1VFVLc0dLRS1jbXBZeGhCOS1YZDlFekV2Zw?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-04T14:16:36.523555Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1853,6 +1826,41 @@
           {
             "title": "NVIDIA (NVDA) Sees $118.8 Million in Net ETF Selling on Wednesda - GuruFocus",
             "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMmctY1lOZjRncHB5UHg5VVVUMU13ckhVQ09VZTJ5dEdYc2tlRVA0OF9WOEVEbHJQTE9BLXJ2MWw3cE1NOGxObXhRZzByR1Q2MzNiOXphVjZvcUcwbjdYYlI2czhuMDA3YlBqaF9icWxjNEJoeDdoRlk5S3QyODVKVW9OUkJsRVFyMXZ4V041UUsxMUdFR0dBYzNvdDdmX3I3aHdJSERuSHlXTGtvSElEZm5Jb21jclVaMFp3a1JwV3lpRDdESFNTQTV5blJjOFpkQU1UUkFRS1NZdlMtSGc0X0Y1eThHdi1uZ3laSEhsenFyNnlZZUxubkVqUFRSYjJJOTUyaWtFRHFzdDVpN1hXVEIwYWYtZG5wSi1YZGQ3NHEzX0hWOTFIb3dtV3VjaDQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-06T14:19:27.517735Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 181.6,
+        "weekAgoPrice": 213.66000366210938,
+        "percentChange": -15.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia: Competitive Moat Widening; Buy (NASDAQ:NVDA) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3JjdG55eXd4UHpTU0FsNkw5Szl3MVgzckZGM2dUN1l3bmxiVENVdGhaV2hfcmRIbW9zWUVLTEZZX3FlS0U0WmprUW5lRHZ6a09GM3E1WXRuWUphVVJMT3ludVFnblZoN2ZENVRmS0MxSnpuYnc2N3hnQ1p0dU1nZW5vTQ?oc=5"
+          },
+          {
+            "title": "Cathie Wood Is Buying The Dip In Nvidia As She Adds $45.9 Million Of NVDA And Sells $119.7 Million Of Broadcom - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmgwMG1nNDhvejFLdEVSS25ad0V2SjZnOG9HWmRndXhXWnpsUTZ1YXNpVGh1Q3VtbXlWcTdOajFybF9ZUEFNRktBd1FJc0dfd2ZLTnpwdENKeXhmczhMTnRyNkp2WHlfeW8xdzZDNVlxZ280d0k4QVZKZ2l6N1BNX1pFS2NYVnNhNEVJWF9nTzJ1TjVOaDFHenV3?oc=5"
+          },
+          {
+            "title": "What Sent NVIDIA Stock Lower? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONUlEREwxZEE1QjhqTlcxN20yYjV2LUdnV2t6d2M4VGpKRVN1QUZVR0V6V2RnMFJRaHlFRXh3N2Z1YXlNR04xWGc3TzY4X0NkZGZFZC0zNDNzcHRPUm1vclpORU92N3pKY1JWdlhSLTQweGFlS1RhWFJxMTU0OUJmS1dXQVRubklEaUMwczRUdWhXckE?oc=5"
           }
         ]
       },
