@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-06T18:16:13.716988Z",
+  "generatedAt": "2026-11-06T19:16:20.292655Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 533.23,
+      "currentPrice": 533.39,
       "weekAgoPrice": 521.9099731445312,
-      "percentChange": 2.17,
+      "percentChange": 2.2,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 185.78,
+      "currentPrice": 187.16,
       "weekAgoPrice": 204.63999938964844,
-      "percentChange": -9.22,
+      "percentChange": -8.54,
       "flagged": true,
       "news": [
         {
-          "title": "Stocks making the biggest moves midday: Nvidia, Moderna, IonQ, Airbnb, Firefly Aerospace & more - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRU0zc2RENFJvOEhSUmhEY2VsNGpzbTEzU2dqWGFzWFQ5anlrd1Nxd2NxLWJIeDByWnhXbTdSVGdpR3ZDenp0NGpQZEotWGRIdjdNQ2VIQlpKOWM2d3dXWU9jQ3hxQlBoOXRzay1UTDZrSHdSNUFpb2FCdHBDSS1rNzNxTU5yZlRBR3VaeFRDVjJKQ09XdzkzTThVYldkd1JT?oc=5"
+          "title": "AI Stocks Could Fall Further Despite Surging GPU Demand, Research Firm Warns - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzF1ampXb3JNWmdCNlJubzZKQnpyeEZwMmJ2NXo3cHVRdTJPMFg4VHVCa2JoX0tLdzFqVzVHeEhlbDlVajJWWmZZaXlmREhYV2JSVE5sUmVFX25IM01sTFlxaW5oZGlXbzRTMzF0NmFOMUtBQy1VX1AxMldnZlQ0cDVQS1RnYkdXM1VJTm9hS1E?oc=5"
         },
         {
-          "title": "NVIDIA Corporation (NVDA) Is Taking AI Beyond Chips: Here\u2019s What Could Drive Its Next Growth Phase - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdmpqcXRlT01RYVBscm5kLUFlWVFDbWNua3J1RG5JNFNhUTJLZUpXU3VNQlhyOTBQdE1GRHladUJTX0hzcHVHSUFHR2ZZNk1rX2JzdUNiRE9rR1F6VDBLR1M2dXR2QWdtbTg1QWhXM29RdTA3QjNpdEhBb2lyMkJ5RU1hY2VFM0hhWmNsa3RYUnNEeGlaNG45cG44ZGFaQQ?oc=5"
+          "title": "Why The Blue Tsunami Rattled AI Stocks - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR3I4UU9QU2JrM2NTakhrNVFBVGFuU2p2RlhnWjR1VUZYb01NYXdSN0JzVGhycjdKb1ZBeXJtRlppWlJ0aWxYcEczLW1Nb3dqVUp3WFExRGE3VlRYdld1b0xjd0FKTHg1N3ZpSy0tUkZsVWRjQnlWU1dHaHlUZXlRbHk2OVBZYWNDbTdmRG9XdXVRR19EeklsekNRM3hsSUdBWWpPTGl3RkZCX19FOEx4WDN2MA?oc=5"
         },
         {
-          "title": "NVIDIA Stocks Rebound 6.78% as Lawmakers Call Jensen Huang to Closed-Door Briefing - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnZ2Y1c3VTFIcmJCY2kwcjBRdFBzcWMzV1UyaXJzWDN5YkhRWXJweVdpQlF4dXRpRmRaSTZDbk9PeUtUR2tjbjFMYTBVMG9hM1E4ZEgxZVM2TVBYSlMxcEVoaDlxMWFpQkJfS0RKbDB5YXRRaTVYZWdoSmxNSXlxUjRFbW83ajdhcEhRRXpTUHhIVHhuWlE?oc=5"
+          "title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary? - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5"
         }
       ]
     },

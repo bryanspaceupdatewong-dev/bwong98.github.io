@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-04T19:16:35.111574Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 204.05,
-        "weekAgoPrice": 215.3800048828125,
-        "percentChange": -5.26,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Big tech stocks soar as investors bet Democrats could bring AI spending back to reality - Quartz",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MYlVjTVpSd09ZbVJyVEpFWUtrZWtnUXlnY0k3ZnNFY2pEdUppQjZhZnhRQ0NFLWYyOWF3NDVxWmRJazJmWkdnNVdEaS1XdXk1TlR4WDBLRnVsSWxXZURDSlFQYTlhSFk3N0QxdUpWRWpZZw?oc=5"
-          },
-          {
-            "title": "Data Center Stocks Just Plunged After the Midterms. Is It Time to Buy the Dip? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeTJ0bEkzaFZMVWl5dl9MckcySHZGc09lMEdtN0lLaHlGQVh5cG5fSG1naExwZFpqYWNQZ21aV1l1V3BUUW5pWkpWY05EaE5hMFNqb1p3WG5XekFIRGEydFBWZHZWS2gwUk9yZVZ6NUJiT0tqUGh4ODlpREVRTnBkLTMxLTY5bnFlcVlwa0JxS0U2cnVfNWhQcmdCeEU?oc=5"
-          },
-          {
-            "title": "Nvidia Stock News: NVDA Rises As $70 Billion China Chip Order Stuck In Queue - Coinpedia",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUFZbG0wU3hZMXZQMVhtaXZZTU1zZE5sMFB6TFVvUU9MNE9sRDhiUDdIdEpOOFkySE51cjdXYXF4VWg2b1M4R3ZSbmxPTVRGcHRWeTJPeHFBc0V1N1VGSW1UcnUwRnVCUjdsN2hQbmdaSDJxc05Sc2JLYzQyMzlDOFBoaFJVWWNBMEdHRVZJNVAydVJHSjRyMkNjWUdoSVlUU0JuSmdoa01XdXQ5ZldXUzNqeDHSAboBQVVfeXFMTVpuS1hhXzEzLXYwVGh2WE1oLWZRSmNnbVV0T1Q5Q0NjSVBqN3J4cEZqYms2RUVVSHF1SnFQZTRYbUpxVXl0dXg5ZGluSGtKVjM1UXRZekJjdENVRnAwX1hSa3F1a1VMQ3lvVnY1Vkd1cTBSNEtQejJuMjh4UlJoTHc0TXB4Z1Jwb3dna0hhUHBuNlozZm1mak1tMy12bGNZc1JpblZqMXRzQVhEc2ZTSXcwekcxTDA2Q1Z3?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.73,
-        "weekAgoPrice": 7.360000133514404,
-        "percentChange": 5.03,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.149999976158142,
-        "percentChange": 6.96,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-04T20:16:12.569422Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1829,6 +1786,33 @@
           {
             "title": "NVIDIA Stocks Rebound 6.78% as Lawmakers Call Jensen Huang to Closed-Door Briefing - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnZ2Y1c3VTFIcmJCY2kwcjBRdFBzcWMzV1UyaXJzWDN5YkhRWXJweVdpQlF4dXRpRmRaSTZDbk9PeUtUR2tjbjFMYTBVMG9hM1E4ZEgxZVM2TVBYSlMxcEVoaDlxMWFpQkJfS0RKbDB5YXRRaTVYZWdoSmxNSXlxUjRFbW83ajdhcEhRRXpTUHhIVHhuWlE?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-06T19:16:20.292655Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 187.16,
+        "weekAgoPrice": 204.63999938964844,
+        "percentChange": -8.54,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AI Stocks Could Fall Further Despite Surging GPU Demand, Research Firm Warns - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzF1ampXb3JNWmdCNlJubzZKQnpyeEZwMmJ2NXo3cHVRdTJPMFg4VHVCa2JoX0tLdzFqVzVHeEhlbDlVajJWWmZZaXlmREhYV2JSVE5sUmVFX25IM01sTFlxaW5oZGlXbzRTMzF0NmFOMUtBQy1VX1AxMldnZlQ0cDVQS1RnYkdXM1VJTm9hS1E?oc=5"
+          },
+          {
+            "title": "Why The Blue Tsunami Rattled AI Stocks - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR3I4UU9QU2JrM2NTakhrNVFBVGFuU2p2RlhnWjR1VUZYb01NYXdSN0JzVGhycjdKb1ZBeXJtRlppWlJ0aWxYcEczLW1Nb3dqVUp3WFExRGE3VlRYdld1b0xjd0FKTHg1N3ZpSy0tUkZsVWRjQnlWU1dHaHlUZXlRbHk2OVBZYWNDbTdmRG9XdXVRR19EeklsekNRM3hsSUdBWWpPTGl3RkZCX19FOEx4WDN2MA?oc=5"
+          },
+          {
+            "title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary? - MarketWatch",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5"
           }
         ]
       }
