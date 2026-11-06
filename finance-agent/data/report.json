@@ -1,109 +1,109 @@
 {
-  "generatedAt": "2026-11-06T15:17:04.549092Z",
+  "generatedAt": "2026-11-06T16:17:49.238058Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 533.435,
+      "currentPrice": 534.93,
       "weekAgoPrice": 521.9099731445312,
-      "percentChange": 2.21,
+      "percentChange": 2.49,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 191.44,
+      "currentPrice": 187.677,
       "weekAgoPrice": 204.63999938964844,
-      "percentChange": -6.45,
+      "percentChange": -8.29,
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia Stock Rises on Dip-Buying: 3 Reasons to Be Optimistic - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpbHc0aG5OM2dVRUpBUEFXeVRDZnB3WWpwemtTYU44MGx0MHNRUkRlUFgzUFZyaV9UTFZWSG1GekFBSktPLTl3ZzFSeEVaYnpEUUpWMkxmN3lyanNXTVhYbDNDVU1kOEh5RVdaemdOekM0Z3NMZGVZ?oc=5"
+        },
+        {
+          "title": "Nvidia stock oversold setup: Key levels after a 9% drop - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjhTc0JFcEFDRDdXX3N3VDROUHZWS25HV0loYWVGV2tYaC05U3Vvc3hxdW91UERlREdKQVIxS2Y0c1M1UmE5LXUtdU9WT0pqVFJBRWZzRU0zS1hPWTByX2QtRUp3SFN2dGRyekZPSV9VdVY2NHBkSEJjdnc4T2JaRU9RdVhiaDdRY1VUR2NYWUI5cnVVMHJVaE1faGE?oc=5"
+        },
+        {
           "title": "Breaking News: AI Hardware Rebounds: MU +9.5%, NVDA +6.4% - Moomoo",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRFBZTDNBZ3R0a2VlYzU1NFhrNUQzS3otY1Q4NUVyOS1qVkxNbnBFSHVUcGthYUNSY0lHOVd1cjFvbGI2Ym83M3lXRjFHeGNzSV9zZVNoVnJ3clRvd1RnZGlvckN5TXlmbHYwYTBXYXFlSXRZRldQdEJHTXlrZmNpTWtBUnZVeERpLUlzSXJZRWg2T3B2ZF9kazJNcUs2SnJudWVUVg?oc=5"
-        },
-        {
-          "title": "Pennsylvania Rep. Daniel Meuser Sold Up to $15K Worth of NVIDIA Stock - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUowT0RQY0FRckRnRXJtNktISWdJMm5ZY1JNZ3VoMDBrZV96d2Uya0c2akEtbzBMLXNuRVBFTWVubnRSbmNiTDg1NDF4T1ZIUHlWb0hjMERKVVBJSmJvRlhOc05aZmV5NUVYLVczUGU2a09BWUg5NFRPT3k4X0lIeHowWmpnaDNxNTNlVEFTMWhkYm9kOFhqbXFzengzeVRyS0FtTVF1WVktMFMyV0E?oc=5"
-        },
-        {
-          "title": "U.S. Stock Market Movements | NVIDIA (NVDA.US) Surges Over 6% as It Plans Data Center Retrofitting Projects with Capacity Reaching 1 Gigawatt - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGs5d3lFcWd5WEVwZlBvelNFUWdkUFpJeEgwNGhxckJ1aVdHTmlEVHpmbnZyUEZFMHJnbnZ3c1JVUE1zZmx6eXFhUG04dnp4RzBrRF9Xa3RjVjA3ektfYmZhb0NEaFR3MVFMOUU2QTJDeGZuR2owUTJoYTVYWWdOTnZJRmkzaHhqYlBJMWlHTlZfWWpXTng2V3BzSWFPa2kzWlE?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.9,
-      "weekAgoPrice": 4.75,
-      "percentChange": 3.16,
+      "weekAgoPrice": 4.730000019073486,
+      "percentChange": 3.59,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.73,
-      "weekAgoPrice": 7.449999809265137,
-      "percentChange": 3.76,
+      "weekAgoPrice": 7.46999979019165,
+      "percentChange": 3.48,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.22,
-      "weekAgoPrice": 1.25,
-      "percentChange": -2.4,
+      "weekAgoPrice": 1.2200000286102295,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.48,
-      "weekAgoPrice": 1.5399999618530273,
-      "percentChange": -3.9,
+      "weekAgoPrice": 1.5099999904632568,
+      "percentChange": -1.99,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.45,
-      "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -0.0,
+      "weekAgoPrice": 1.4299999475479126,
+      "percentChange": 1.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.17,
-      "weekAgoPrice": 1.190000057220459,
-      "percentChange": -1.68,
+      "weekAgoPrice": 1.1399999856948853,
+      "percentChange": 2.63,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.24,
-      "weekAgoPrice": 0.24500000476837158,
-      "percentChange": -2.04,
+      "weekAgoPrice": 0.23499999940395355,
+      "percentChange": 2.13,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.22,
-      "weekAgoPrice": 1.2899999618530273,
-      "percentChange": -5.43,
-      "flagged": true,
+      "weekAgoPrice": 1.2699999809265137,
+      "percentChange": -3.94,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.65,
-      "weekAgoPrice": 0.6700000166893005,
-      "percentChange": -2.99,
+      "weekAgoPrice": 0.675000011920929,
+      "percentChange": -3.7,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 1
 }
