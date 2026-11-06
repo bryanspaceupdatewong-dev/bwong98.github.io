@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-04T18:15:48.529683Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 203.97,
-        "weekAgoPrice": 215.3800048828125,
-        "percentChange": -5.3,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock News: NVDA Rises As $70 Billion China Chip Order Stuck In Queue - Coinpedia",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUFZbG0wU3hZMXZQMVhtaXZZTU1zZE5sMFB6TFVvUU9MNE9sRDhiUDdIdEpOOFkySE51cjdXYXF4VWg2b1M4R3ZSbmxPTVRGcHRWeTJPeHFBc0V1N1VGSW1UcnUwRnVCUjdsN2hQbmdaSDJxc05Sc2JLYzQyMzlDOFBoaFJVWWNBMEdHRVZJNVAydVJHSjRyMkNjWUdoSVlUU0JuSmdoa01XdXQ5ZldXUzNqeDHSAboBQVVfeXFMTVpuS1hhXzEzLXYwVGh2WE1oLWZRSmNnbVV0T1Q5Q0NjSVBqN3J4cEZqYms2RUVVSHF1SnFQZTRYbUpxVXl0dXg5ZGluSGtKVjM1UXRZekJjdENVRnAwX1hSa3F1a1VMQ3lvVnY1Vkd1cTBSNEtQejJuMjh4UlJoTHc0TXB4Z1Jwb3dna0hhUHBuNlozZm1mak1tMy12bGNZc1JpblZqMXRzQVhEc2ZTSXcwekcxTDA2Q1Z3?oc=5"
-          },
-          {
-            "title": "Chip stocks slip as Democrats' election sweep clouds the outlook for data centers - Quartz",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xRXB2Z0RLQk9OblRBMllwdnZjemxzVHZJVHl0V1Z5S25ySzJyQW8wTXlqZTJxVVB3ZmVIa1FOYXVnOEI5WWFCbW5kS21OLXJlaUIyak5GcUxpWEo4RHdpcktxN0VMblFIZVplc3VFbWVUOEFUaHA2S0hzQV9aRzA?oc=5"
-          },
-          {
-            "title": "AI infrastructure stocks drop, hyperscalers gain as Democrats win Congress (NVDA:NASDAQ) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdngxZEtNOXMwUlh4Ynl5VWpzbEVDanlBZEZJN0RTRmZzQ1MwZ2RDbXhBSERWellOMHl6dFRibXZtSkRMT2FtZTRrUkNiTXJwWl9uZ3ZMYVVYUmpkREFXNG9Wc3NKRFluVXFpWXRJMTJlWGZQeXUxUFJpeFZjNDg1ay1HZ3RMbkl1cEpYclk4TmtVNzUyYnFpRUhOWV9VN3IxV1huRXp1ZTZNd0FxSWRrdGhBY3o?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.73,
-        "weekAgoPrice": 7.360000133514404,
-        "percentChange": 5.03,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.149999976158142,
-        "percentChange": 6.96,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-04T19:16:35.111574Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1845,6 +1802,33 @@
           {
             "title": "Stock Market Today: Dow Pares Losses After Jobs Surprise; Nvidia, AMD Lead Tech Rebound (Live Coverage) - Investor's Business Daily",
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXpPb0ctNHctc1ZBczhHQW12ZE5YZDdyd2MzcG1tUlNMYjBiaE9MT05XOS1RRVpaekgtWThPY3BSYVVYODZhV0hiVXZUMmxHdGtoSGtqR0lDSno3Z2FHRUZWX040ZEZldFI2UlRRb2p6WjN3MEhSVUlYZjNhdjRtOTU4T2htSkhRUHdXVE5ralJMUjJ3MXh3Yl9SdVcxcy1WY01WdmdmWUptMW1pLVZ2RDR1NW5TeExLQzY0?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-06T18:16:13.716988Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 185.78,
+        "weekAgoPrice": 204.63999938964844,
+        "percentChange": -9.22,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stocks making the biggest moves midday: Nvidia, Moderna, IonQ, Airbnb, Firefly Aerospace & more - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRU0zc2RENFJvOEhSUmhEY2VsNGpzbTEzU2dqWGFzWFQ5anlrd1Nxd2NxLWJIeDByWnhXbTdSVGdpR3ZDenp0NGpQZEotWGRIdjdNQ2VIQlpKOWM2d3dXWU9jQ3hxQlBoOXRzay1UTDZrSHdSNUFpb2FCdHBDSS1rNzNxTU5yZlRBR3VaeFRDVjJKQ09XdzkzTThVYldkd1JT?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation (NVDA) Is Taking AI Beyond Chips: Here\u2019s What Could Drive Its Next Growth Phase - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdmpqcXRlT01RYVBscm5kLUFlWVFDbWNua3J1RG5JNFNhUTJLZUpXU3VNQlhyOTBQdE1GRHladUJTX0hzcHVHSUFHR2ZZNk1rX2JzdUNiRE9rR1F6VDBLR1M2dXR2QWdtbTg1QWhXM29RdTA3QjNpdEhBb2lyMkJ5RU1hY2VFM0hhWmNsa3RYUnNEeGlaNG45cG44ZGFaQQ?oc=5"
+          },
+          {
+            "title": "NVIDIA Stocks Rebound 6.78% as Lawmakers Call Jensen Huang to Closed-Door Briefing - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnZ2Y1c3VTFIcmJCY2kwcjBRdFBzcWMzV1UyaXJzWDN5YkhRWXJweVdpQlF4dXRpRmRaSTZDbk9PeUtUR2tjbjFMYTBVMG9hM1E4ZEgxZVM2TVBYSlMxcEVoaDlxMWFpQkJfS0RKbDB5YXRRaTVYZWdoSmxNSXlxUjRFbW83ajdhcEhRRXpTUHhIVHhuWlE?oc=5"
           }
         ]
       }
