@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T08:16:11.741724Z",
+  "generatedAt": "2026-11-06T09:15:40.910534Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -23,36 +23,36 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHhGTlk2emctWENUYTNNT1UxdUlGY0ZjZTFnUVY2dURkUVJyaXplbXZ4VlhiZUZabUFpWDhMVFdvak5LVGY5NHJ5UWFGb1NKY2JYa2IwNG84TGJfLVpJd1lRTmhuNmRhOG9BcUxfVDdORk0zQ1RMU1czQTRwVDhadmNSa19FcGJBTjQzMWpVY1NWXzZHNFpJLTg1SkR4UGoxNThHS0xpMVZ0UFZIenNHVzJxY0lyLVhjeDV5SlFlenVDUQ?oc=5"
         },
         {
-          "title": "NVIDIA (NASDAQ:NVDA) Stock Sale Disclosed by Rep. Daniel Meuser - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0xOX2o5dS1URUhiSzE5LXItb3RjVE5Wa2tqUzJYNUJPSTA4dElFV3hZaXJUZVN1ZUtQVHhSWGNKazdkMjZFd1dwc1doUzhzWWFpcVZsRHJtdkpBUFEzclhzVHA4QjRtR0JnblAxLW1uS1N2aGRCbDQ4OHkyTDRqSnUzaTFlVXZYQnRyMGZMQ1FPejRYeWZpX1lmZFV6RkVaRDliQnhhNjZBeWR4bFlsM3oxWGRCWW9ZUmxSWFlJRWE?oc=5"
+          "title": "ARK Invest Adjusts Tech Holdings: Focus on NVDA, SPCX, and Cereb - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGxvMHFlZFNBM0hFb095M1NCTGhPWTdtQkJqeUJNN1N6SkdEdVF5NDZPX3dRMVdYZGtxdTkxTVZERkpZYi1zTDZyTVlWcDhIY2VTaS1uRVlkSjdhVjlwSUhTY3JOU1ZSQ0c5dlp5ZVpuM3lRWFdBODJvdUd0NkxkTFRXaGE1QnBVajdrY01rYmZSQWFwQUpCb1ptdE0zTURaUWZFV253?oc=5"
         },
         {
-          "title": "Nvidia (NVDA) Stock: $181.60 Friday After a 9.3% Plunge Pushed the Nasdaq Into Correction, Bull $200, Bear $165 - FinanceFeeds",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWEdSTnVORFRWcGlUdXhib2VyWVJjeGRJajNEb09abkE3Wjc0Z3hrcnRSMFpWSVRaUWhlNE94TjVBS3NLR0xjYm1OWVhfc0g2NGJuZF9OcExGWUtITEh6Q3E0MzBXVFFScFZVMnV3ZUsxNldyNklwQ1R3TUpZWWtySEowZU94Yzc3Tl9DU0t2X3ZUQjNha1R5YWJQZlE0dXBLN3M2RjRHTGtFdEd3cTFINS1LNkJoWTc4eFRaTGFSSVNrdUNUNTZIRVZmWkExUGNGRnd3VWZB?oc=5"
+          "title": "NVIDIA (NASDAQ:NVDA) Stock Sale Disclosed by Rep. Daniel Meuser - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0xOX2o5dS1URUhiSzE5LXItb3RjVE5Wa2tqUzJYNUJPSTA4dElFV3hZaXJUZVN1ZUtQVHhSWGNKazdkMjZFd1dwc1doUzhzWWFpcVZsRHJtdkpBUFEzclhzVHA4QjRtR0JnblAxLW1uS1N2aGRCbDQ4OHkyTDRqSnUzaTFlVXZYQnRyMGZMQ1FPejRYeWZpX1lmZFV6RkVaRDliQnhhNjZBeWR4bFlsM3oxWGRCWW9ZUmxSWFlJRWE?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.88,
+      "currentPrice": 4.9,
       "weekAgoPrice": 4.75,
-      "percentChange": 2.74,
+      "percentChange": 3.16,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.72,
+      "currentPrice": 7.73,
       "weekAgoPrice": 7.449999809265137,
-      "percentChange": 3.62,
+      "percentChange": 3.76,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.21,
+      "currentPrice": 1.22,
       "weekAgoPrice": 1.25,
-      "percentChange": -3.2,
+      "percentChange": -2.4,
       "flagged": false,
       "news": []
     },
@@ -90,20 +90,20 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.24,
+      "currentPrice": 1.22,
       "weekAgoPrice": 1.2899999618530273,
-      "percentChange": -3.88,
-      "flagged": false,
+      "percentChange": -5.43,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.645,
+      "currentPrice": 0.65,
       "weekAgoPrice": 0.6700000166893005,
-      "percentChange": -3.73,
+      "percentChange": -2.99,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 1
+  "flaggedCount": 2
 }
