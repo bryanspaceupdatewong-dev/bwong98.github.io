@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-11-06T02:15:50.712333Z",
+  "generatedAt": "2026-11-06T03:15:33.161259Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 535.93,
-      "weekAgoPrice": 531.010009765625,
-      "percentChange": 0.93,
+      "weekAgoPrice": 530.1400146484375,
+      "percentChange": 1.09,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 181.6,
-      "weekAgoPrice": 215.3800048828125,
-      "percentChange": -15.68,
+      "weekAgoPrice": 213.66000366210938,
+      "percentChange": -15.01,
       "flagged": true,
       "news": [
         {
+          "title": "Should You Buy Nvidia Stock Before Nov. 17? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVF3endQaExLeXJxb3hWc1laY3ZyQUt3QVpucUh4MW5fZUVsY1lkSlp4ejVPSDVqVTBRQi1DZkdfY2N0aGJVbnp3VFNpbHNtZk1mRkFEdWd6RnRDeWtwY2JQZEY3RHhkTFdSeFFRTXFtbEdSVDNhbE83bzNRVXVRTC1FWkRESzhtY0FUclRuU2hNU21CY2xlS0hmVTZfVDJ4cFBPNnZpQUIxdE5EWnBlUkFRSTU2TG84azhOdWNEZ29tOTRw?oc=5"
+        },
+        {
+          "title": "Should You Buy Nvidia Stock Before Nov. 17? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHoxdVI4MTRJRWR4VmQycnkxX01ZeklUYlJlRXJCcDZnTG1FQ1AtZGh3YTBndWZVSWZsZEdYZkxad1ljNkdTMGlmZFp3R0Vrcmt4VTNrcnBzcEtQSlNNejhrNDJvUHdjanBFLXA1YUZYMjNuRlcyVmN6RHBub3JQNXZaaDNrcHpIYlZmWW1kRHhRUQ?oc=5"
+        },
+        {
           "title": "Nvidia Stock Price Forecast: Drops Below $190 to 7-Month Low, Could Plunge Over 10% Further - TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWhhM29idTQwSVFvVWZvQnB3ZUFkc0FpLUhENkYwWWEwRnNkbzZxenM0dDF3SWsteERVeXp2NzBjVW50WjJSUHBEalBuUmlrOWdVeUJSUDdqa0tvaWhkQUR6MUQ2czYzcVRZV2puNXFmSkJVeWZmY3hUQWdQWW43N0N5NEtTWE9oMUJ1cnZwbnpTa1R3OTF3TUZYYmYzVzUtQXZLd0hDZjg?oc=5"
-        },
-        {
-          "title": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory \u2014 NVDA, AAPL, UBER, SOXX In Focus - Stocktwits",
-          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOOUZJMF9jRkMxOGtlTFhzMVFwcGhwY1Bid29EanBuZkJONU4wd0tnR203b3JwelBVQnhtU1J4aVdwRE1TZExmdl9CVEhvN1IxY2N4OGktU1JDelJTZ1IzdmQ4cG5CX2xzd1lURE1yN2pKODZhaXJwbk5IaWRuTm9QaGZVUFJ6YVpWRkhGbzdCYWUwX2haeWJOa00xYmpfM2xhb3ZFY0h3aFpPTmtDakRzVHFNd0ZEd2FlVzVPRDBQbnR4N3MtaXppRGJxZDBnaE1KeG9xNmw1bWxEWHdBVDZSY0o3cnhDSG1YN01hLW9leDZOSVRmTWluVmpycUh3NUNrbEV5MjlJd0VBVDlndG5sbDZ6RElkbm5mNVZiX1cwQ0hObzVzQTRkMF9BNA?oc=5"
-        },
-        {
-          "title": "Nvidia (NVDA) Stock Plunges Nearly 8% as Broad AI and Chip Sell-Off Erases Over 1,000 Nasdaq Points - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNkhpUUlaNGhDM0duTm12bGV0N0phOGRPV2xIbFI4b1NQaW8xTWZFYUstcFdjdV9DeDNFeGZReGZmY0c4SGF4MXBqMTBfRkEyWjBuTndnM2lBaTlqNEMxVU1LWlhYVHhISjRRRjJhd3R0UUVwR3drNV9iVFZNOERKOTl5NDg1bHFFTWg3bUhueDJRM0J0aVRQZVJxVmZpVmhzMHNCU1p0S0hDazdCOTl4ZWdFb0xQT2xIc0NWVE1nTnE2SDBsajJZTlN2TWs3X0pVdGl4cA?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.92,
+      "currentPrice": 4.91,
       "weekAgoPrice": 4.75,
-      "percentChange": 3.58,
+      "percentChange": 3.37,
       "flagged": false,
       "news": []
     },
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.18,
+      "currentPrice": 1.17,
       "weekAgoPrice": 1.190000057220459,
-      "percentChange": -0.84,
+      "percentChange": -1.68,
       "flagged": false,
       "news": []
     },
@@ -98,9 +98,9 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.66,
+      "currentPrice": 0.665,
       "weekAgoPrice": 0.6700000166893005,
-      "percentChange": -1.49,
+      "percentChange": -0.75,
       "flagged": false,
       "news": []
     }
