@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-04T09:16:27.440818Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 206.69,
-        "weekAgoPrice": 217.94000244140625,
-        "percentChange": -5.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA Corporation $NVDA Shares Sold by Baldwin Wealth Partners LLC MA - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUlc1UzVoTHVlN2cyMlVvU2pWU0tJdkd0N2I5RXBjWXExRlphY0g3NU5xV1R4bnU5MFhYb0ZfUHgyYjFRc1NjQnJnYXdRVEhVa1FvSWhfU2RuS29Va01oWDM0MjRxNkNKVk5xczJrWWF3cVVNLWd1bmFDeWlCYk54ZUtvWlBvSHNURTNNTTdCTFk0RFFLWVVxTW5vZ3R4QS1EcUZRanhBay1nZjh6UlprUkJLbVBHaUJsYjNsV1hCQ1M3Nkh0OXZwVWpB?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Stock: Avior Wealth Management LLC Lowers Position - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2hBSHdjdFAtQ1Y0anJSWnhoQ2F2UVExN2dOU3JnLUZYM3R4Y1lmR0xmTHNHX0lUUnZYZFBUTHMwNEowTHRLVzJlbDc5MXhDNXoxNXlGTF9YQUlTcC1ueUZrNTYyQkRNcnVzVmt0QVBiZTlaUEhHUmIzOVhhWktQUTZtU3M1d2N1OGJnUGJxdlRvdmZzTk5XQ2w2QUtyT01yYzhLTnpGNWt5U0NJcXVmVnZGbWctNE84SjhxSEtPTXo5Wk9uTW5ZNW1ienBzcmc?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Stock Purchased by McGlone Suttner Wealth Management Inc. - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNGFETzdvWGhERjZ3MXBPZkt1Y0hpZ09hMUFWRVpHejdqZUNuM1N0eTJ2Z2pQLXJrQ2FUZ3NTSUhBM2hNRk5UTmo1d2p3UEFfZG1xQ2RUcjR0NUVTZVZQY0hjcWo4cjB5QS1xTDlNM3FNQmJtTW5xaW9NTGl6UXN2VV92blJGekRtcGpJaDB6dGwydnM3UXRDZkRSWVRYXzgyUFlNVk5nOFllMVFDdm1HU2JvRG1Xd2xybDBlRjN4NS03MWtMXzlNZ1BSbWo5eWk1bVFvc3ZnSEU?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-04T11:20:22.145373Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1829,6 +1802,41 @@
           {
             "title": "NVIDIA Corporation $NVDA Stock: Cohen Capital Management Inc. Grows Stake - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc0lMbmJSUE5ENXhxcmFxaUYzVEhOT2lVYW51STgwa0FBanJVX1R1UjhrekRidHpYeUkyOWM1OHpfa2dneTFsSVpMMjdwYjRGcmJfNzZVdFo5eEl2SVdxa0hnblM3SnZIR2JUTkNZRWpFVkNuN3dKLUVxbXZKV0RoMnFQU0NzeTZUSUkyTWZ2RzJJbnlFZlJqN0JuWHZUN3g3b0RiM3BxVHZOZmF4WHoyMDNCQkxxWGpXVWVac3EzRUExd3hzVmhMbmNTdw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-06T11:16:28.505848Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 181.6,
+        "weekAgoPrice": 213.66000366210938,
+        "percentChange": -15.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia (NVDA) Stock: $181.60, Down 9.26% Nov 5 - JournalArta",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXhQT0JNXzg3eURlaVdMbFBkWE14d3N4cjZneUVuaFEydXRWSTJvcVNFOFZvRGdqbkV2ZHc0WGxVMlVhVFlSa1N1MnA0YmRFVzVWdlREYTNuYnlDNDg1S1h4UVV5aHA5Zms5UHhvT3VJcXFEZnJ2ZkNPcEltM2o0c05SRURiNGs2c1hYUldPUHJhUHFDZWlR?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Stock Sold by KMG Fiduciary Partners LLC - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMnBXR1ZMazNVUVdlMVN6ZnI1TjhBaDF3VUNEQVN1RF9WSmV5TXpRb2g0czZybEtHMzd6OTVIQjBlRlBPc01pT012cGEzS01Gd3NuMEt2SnJteXJ2QUFQVjcyT1pGUXEtc0wyMXdNS3dsQVFncURIRmJ2Z25idFdxbGIxbEFhdmJCTms4dzVNRDJSaWpQNGhPUEV1QVVXNU9vNzdMNjBWa3U2ai1tTHRfbFp0aHBGZTdfanIwMUVOVkpndm8?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Shares Sold by Salem Investment Counselors Inc. - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXRpSjZ1T216MDNyLVJPVXRzcUY0MjZBQ2hHVEhhelNHTDNfaE14akprM1hoSDdsVVBJRmJla3MzVC11c0tGbkZWNnpIa0laZzN6QmVqenpSZkNIc2RCRzdUcVluWm5NNUhzNUZwWC1IT3FKNGpQWFVrSGZPb0V2LVVWYzRzbGJSSE1Wcm81YXhSNEZTMnYtLWxjVmdNN29nc0dwT3I0enJJQm5FVEFEZUg4RE5LYVFNNnk2WXFTNk1PZ2pXWHBOOFpJaw?oc=5"
           }
         ]
       },
