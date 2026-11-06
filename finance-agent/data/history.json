@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-04T00:07:02.469544Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 206.69,
-        "weekAgoPrice": 217.94000244140625,
-        "percentChange": -5.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "What Is Nvidia (NVDA) Asking Cloud Clients To Change Under New China Rules? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHMwU0xmOXo5U29lbUJIbVJmdDhjVHdqcTMwcm8xUnMtTEw1X285b0VCS25NaWtuX19obHcyLTBLdUxCT2ptUTRlSklnS2c0RTJMLXp3NUJkOEZlbFdFUkNEUTQwcEQ3d3Z1d3BsMmFFUy1rVmJweGE5ZHp2UW0xdzlYX3dWQUtwdkQ3SFBnQ0JGYWNhY2FwNXlYU1A?oc=5"
-          },
-          {
-            "title": "NVDA Stock Rebounds Off $200 Support after the Nvidia CEO Comments and Anthropic Expansion - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdmxlV2xOZFc4UlptSllDSkRtYlFJNkZvNUwyM0tYMXNTYjhjbk43Um9KRzkyWjBtOGdqcnZSOXBVbGh1Sk1oa1h0TnRFU1pSSHd3cTJxbTBPd0VyRnkwUjBXSUR3eWhUSEN0WGhTVUxtaEFncjBlbkpUNG8tSVJnTHhOMG1RUnNYc0Y2RTFXNHdjS0tsaElDTE5JX2VaYXpDWDhvalFiSWNDVThJLWFQelRMbFlSU2tlNmV2QUdxRWNGVHBBWnBPVk9XOEo?oc=5"
-          },
-          {
-            "title": "NVIDIA (NASDAQ:NVDA) Shares Climb 2.3% - Time to Buy? - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObTZZWS0yWjdoamswUUdxaE9hTERBQ3ZsdzM3NG5ZY0dEX3BadmtrV3ZXamxVMjE0YkFfQXhzNDVVM0Q2SkdMcjB4RTlTNGxBRFpSTVd3SkFTei0zN0hMVkxheW1rdmJOajZCanlGZlhzbDZ5TTl4QkEwbnA1NEdNamtSQ0RNcHJvRnVSV1gwUkFNd09CMWQ2enFrZFVBYmNjWjdMUnFUbWxwdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.149999976158142,
-        "percentChange": 9.57,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.55,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": 6.9,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.23,
-        "weekAgoPrice": 0.24500000476837158,
-        "percentChange": -6.12,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-04T00:16:20.828762Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1879,6 +1828,33 @@
         "percentChange": -7.75,
         "flagged": true,
         "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-06T02:15:50.712333Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 181.6,
+        "weekAgoPrice": 215.3800048828125,
+        "percentChange": -15.68,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stock Price Forecast: Drops Below $190 to 7-Month Low, Could Plunge Over 10% Further - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWhhM29idTQwSVFvVWZvQnB3ZUFkc0FpLUhENkYwWWEwRnNkbzZxenM0dDF3SWsteERVeXp2NzBjVW50WjJSUHBEalBuUmlrOWdVeUJSUDdqa0tvaWhkQUR6MUQ2czYzcVRZV2puNXFmSkJVeWZmY3hUQWdQWW43N0N5NEtTWE9oMUJ1cnZwbnpTa1R3OTF3TUZYYmYzVzUtQXZLd0hDZjg?oc=5"
+          },
+          {
+            "title": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory \u2014 NVDA, AAPL, UBER, SOXX In Focus - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOOUZJMF9jRkMxOGtlTFhzMVFwcGhwY1Bid29EanBuZkJONU4wd0tnR203b3JwelBVQnhtU1J4aVdwRE1TZExmdl9CVEhvN1IxY2N4OGktU1JDelJTZ1IzdmQ4cG5CX2xzd1lURE1yN2pKODZhaXJwbk5IaWRuTm9QaGZVUFJ6YVpWRkhGbzdCYWUwX2haeWJOa00xYmpfM2xhb3ZFY0h3aFpPTmtDakRzVHFNd0ZEd2FlVzVPRDBQbnR4N3MtaXppRGJxZDBnaE1KeG9xNmw1bWxEWHdBVDZSY0o3cnhDSG1YN01hLW9leDZOSVRmTWluVmpycUh3NUNrbEV5MjlJd0VBVDlndG5sbDZ6RElkbm5mNVZiX1cwQ0hObzVzQTRkMF9BNA?oc=5"
+          },
+          {
+            "title": "Nvidia (NVDA) Stock Plunges Nearly 8% as Broad AI and Chip Sell-Off Erases Over 1,000 Nasdaq Points - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNkhpUUlaNGhDM0duTm12bGV0N0phOGRPV2xIbFI4b1NQaW8xTWZFYUstcFdjdV9DeDNFeGZReGZmY0c4SGF4MXBqMTBfRkEyWjBuTndnM2lBaTlqNEMxVU1LWlhYVHhISjRRRjJhd3R0UUVwR3drNV9iVFZNOERKOTl5NDg1bHFFTWg3bUhueDJRM0J0aVRQZVJxVmZpVmhzMHNCU1p0S0hDazdCOTl4ZWdFb0xQT2xIc0NWVE1nTnE2SDBsajJZTlN2TWs3X0pVdGl4cA?oc=5"
+          }
+        ]
       }
     ]
   }

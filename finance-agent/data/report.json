@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T01:16:18.858263Z",
+  "generatedAt": "2026-11-06T02:15:50.712333Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,56 +19,56 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia Stock Price Forecast: Drops Below $190 to 7-Month Low, Could Plunge Over 10% Further - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWhhM29idTQwSVFvVWZvQnB3ZUFkc0FpLUhENkYwWWEwRnNkbzZxenM0dDF3SWsteERVeXp2NzBjVW50WjJSUHBEalBuUmlrOWdVeUJSUDdqa0tvaWhkQUR6MUQ2czYzcVRZV2puNXFmSkJVeWZmY3hUQWdQWW43N0N5NEtTWE9oMUJ1cnZwbnpTa1R3OTF3TUZYYmYzVzUtQXZLd0hDZjg?oc=5"
+        },
+        {
           "title": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory \u2014 NVDA, AAPL, UBER, SOXX In Focus - Stocktwits",
           "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOOUZJMF9jRkMxOGtlTFhzMVFwcGhwY1Bid29EanBuZkJONU4wd0tnR203b3JwelBVQnhtU1J4aVdwRE1TZExmdl9CVEhvN1IxY2N4OGktU1JDelJTZ1IzdmQ4cG5CX2xzd1lURE1yN2pKODZhaXJwbk5IaWRuTm9QaGZVUFJ6YVpWRkhGbzdCYWUwX2haeWJOa00xYmpfM2xhb3ZFY0h3aFpPTmtDakRzVHFNd0ZEd2FlVzVPRDBQbnR4N3MtaXppRGJxZDBnaE1KeG9xNmw1bWxEWHdBVDZSY0o3cnhDSG1YN01hLW9leDZOSVRmTWluVmpycUh3NUNrbEV5MjlJd0VBVDlndG5sbDZ6RElkbm5mNVZiX1cwQ0hObzVzQTRkMF9BNA?oc=5"
         },
         {
           "title": "Nvidia (NVDA) Stock Plunges Nearly 8% as Broad AI and Chip Sell-Off Erases Over 1,000 Nasdaq Points - FXLeaders",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNkhpUUlaNGhDM0duTm12bGV0N0phOGRPV2xIbFI4b1NQaW8xTWZFYUstcFdjdV9DeDNFeGZReGZmY0c4SGF4MXBqMTBfRkEyWjBuTndnM2lBaTlqNEMxVU1LWlhYVHhISjRRRjJhd3R0UUVwR3drNV9iVFZNOERKOTl5NDg1bHFFTWg3bUhueDJRM0J0aVRQZVJxVmZpVmhzMHNCU1p0S0hDazdCOTl4ZWdFb0xQT2xIc0NWVE1nTnE2SDBsajJZTlN2TWs3X0pVdGl4cA?oc=5"
-        },
-        {
-          "title": "Nvidia Stock Just Crashed 22%. Jim Cramer Says It\u2019s the Cheapest in a Decade - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDZYVFlNUEs5R3oxN2piM1FfQl84SUdVN1ZadFhDV2ZaaC1IX25BMVZjQ0ZUQUs5aWg3NGdTdGhRdG1UMU5XN2YyVWRUVlk0eVJ3SHo3SnlULUZmbnNFeGVEQVlTZE9jQzBGQ01vMHQ3dWZLNFA3VFVPMFFiWGh3Q3BROE5WODIwckV2anIxMnZfUHVrbG1fdQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.89,
+      "currentPrice": 4.92,
       "weekAgoPrice": 4.75,
-      "percentChange": 2.95,
+      "percentChange": 3.58,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.69,
+      "currentPrice": 7.73,
       "weekAgoPrice": 7.449999809265137,
-      "percentChange": 3.22,
+      "percentChange": 3.76,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.24,
+      "currentPrice": 1.22,
       "weekAgoPrice": 1.25,
-      "percentChange": -0.8,
+      "percentChange": -2.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.52,
+      "currentPrice": 1.5,
       "weekAgoPrice": 1.5399999618530273,
-      "percentChange": -1.3,
+      "percentChange": -2.6,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.46,
+      "currentPrice": 1.45,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": 0.69,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
@@ -82,18 +82,18 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.25,
-      "weekAgoPrice": 0.23499999940395355,
-      "percentChange": 6.38,
-      "flagged": true,
+      "currentPrice": 0.24,
+      "weekAgoPrice": 0.24500000476837158,
+      "percentChange": -2.04,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.19,
+      "currentPrice": 1.23,
       "weekAgoPrice": 1.2899999618530273,
-      "percentChange": -7.75,
-      "flagged": true,
+      "percentChange": -4.65,
+      "flagged": false,
       "news": []
     },
     {
@@ -105,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 1
 }
