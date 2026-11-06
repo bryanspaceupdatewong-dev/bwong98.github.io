@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-04T21:16:27.540281Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 200.13,
-        "weekAgoPrice": 215.3800048828125,
-        "percentChange": -7.08,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVDA Stock Tests $200 Support as Political Backlash Hits Nvidia and Chip Sector - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXNWWjRJb2UyOFZjVFNlWW82UG1nS1dmX0ZEVDFlMjVjMl83QW5LOTIwMWJHRzI3M3dZVWhSUGUtSGJjeE80MUdQcXNITnFaOVliei1GV203N0tTSVZQa0xpLTV5OFU3WXRTYWZNMDlPYV93bVlZYjZTMGdwNGliTFY2LTc3VzZQUDdOQjVmaGhiT2tMNlRHQlk2N0plb2x0ZFpzbHRZM3dWdjd5MDNoS05mUXdXSlZWc0k0SkV3?oc=5"
-          },
-          {
-            "title": "Nvidia Stocks Decline 1.35% as $108 Billion Guide Sets the Next Revenue Hurdle - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmc0bWdnd0xGejdMRnhLX1ZUMk5mTk1YM1RoUFFqTUtvMDRSU1BjbkIxVmVBLUgtZjlQLUpZbGxjaEgzOTZUN20wNGtIS2xScFpxVWk4YzhUcDZqR2FKVkVrbmFNOWRxcnN0YkZreVIxNmszd1RxNDZCbmltV0lmN0pJLTFkUzVrWlpBNUhUbjk1QmNrbnc?oc=5"
-          },
-          {
-            "title": "Big tech stocks soar as investors bet Democrats could bring AI spending back to reality - Quartz",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MYlVjTVpSd09ZbVJyVEpFWUtrZWtnUXlnY0k3ZnNFY2pEdUppQjZhZnhRQ0NFLWYyOWF3NDVxWmRJazJmWkdnNVdEaS1XdXk1TlR4WDBLRnVsSWxXZURDSlFQYTlhSFk3N0QxdUpWRWpZZw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1066.KL",
-        "currentPrice": 7.73,
-        "weekAgoPrice": 7.360000133514404,
-        "percentChange": 5.03,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.149999976158142,
-        "percentChange": 6.96,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-04T21:26:01.876335Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1776,6 +1733,33 @@
           {
             "title": "Why The Blue Tsunami Rattled AI Stocks - Investor's Business Daily",
             "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR3I4UU9QU2JrM2NTakhrNVFBVGFuU2p2RlhnWjR1VUZYb01NYXdSN0JzVGhycjdKb1ZBeXJtRlppWlJ0aWxYcEczLW1Nb3dqVUp3WFExRGE3VlRYdld1b0xjd0FKTHg1N3ZpSy0tUkZsVWRjQnlWU1dHaHlUZXlRbHk2OVBZYWNDbTdmRG9XdXVRR19EeklsekNRM3hsSUdBWWpPTGl3RkZCX19FOEx4WDN2MA?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-06T21:16:05.229627Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 186.64,
+        "weekAgoPrice": 204.63999938964844,
+        "percentChange": -8.8,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Rebounds 4% but $180 Support Remains Critical After Midterm Selloff for Nvidia - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmJnVGV0bDlYY3Q0OVBJLXExYkgtakQ4emVyUktySWkwUHVsWkhia0s1bXZIeXEyWW8wREJLUXRIMHlfbHpzTEpRdmRQeHA3c0R1amRFWVVfd2RxTGY3WmI3cmJUYWF2X3lYckxPMVVQV1c5MXBvaE55R2dCMXBzb0FNYl9lV1JxeHNqbmc4OFNNcllXWXJyZVkzOTg5dENjcUdDVGRzeWJYQUxKejJXWktPS25NUUpYLVR2bnpKanFzeUg3NUt2QlNn?oc=5"
+          },
+          {
+            "title": "Cathie Wood buys $47 million of popular semiconductor stock - TheStreet",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0Y4Smk5cndEWlN1S1pzQjdGQWdVVXJxaUFVM3JMT0xVVEtLVTFVMHp2TWJLV2pDckxfdHJTYUF5R2dqYnV3azVmeXVYUkl0bmJFQjJmc1htb3MzZjVNTjk3dnhXdjNLNGIxXzgwTUpBT1JRRmpIRFpaU1dBalJkajdWLUs2U1pKek8zaTBsc0xFN3lEeW9EUVpMZEtYRExrYUhoeWduTWJBaFlGOHVIMVdmcw?oc=5"
+          },
+          {
+            "title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary? - MarketWatch",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5"
           }
         ]
       }

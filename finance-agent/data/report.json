@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-06T20:16:39.797417Z",
+  "generatedAt": "2026-11-06T21:16:05.229627Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 531.89,
+      "currentPrice": 530.61,
       "weekAgoPrice": 521.9099731445312,
-      "percentChange": 1.91,
+      "percentChange": 1.67,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 188.213,
+      "currentPrice": 186.64,
       "weekAgoPrice": 204.63999938964844,
-      "percentChange": -8.03,
+      "percentChange": -8.8,
       "flagged": true,
       "news": [
         {
-          "title": "Jensen Huang Out of the World\u2019s 10 Richest People as AI Selloff Hits Wall Street - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUkpiVU1MYXJ3d0xaMnJCLTdMTWtIUWQzZkl1dFZTUWJkdTZOLU1ielBvVFpjX1IzNnhYa3FGdW9RSlZmTFU3Yl9Fc211ZFdyelRKZnIySXU2N2RaVDRhYnI1Z3JxQ2htbm5maVJYUi16QV9kc2NabnVIRVFWb3ltcDhydEtjaVlRY0FFRHI1dkNJLXkzbDFVMjhjU1Z0aC05TG0zd3BieWlaaGRreUE3Q1lPVWh3cGxtaUlRVW9wd0I?oc=5"
+          "title": "NVDA Stock Rebounds 4% but $180 Support Remains Critical After Midterm Selloff for Nvidia - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmJnVGV0bDlYY3Q0OVBJLXExYkgtakQ4emVyUktySWkwUHVsWkhia0s1bXZIeXEyWW8wREJLUXRIMHlfbHpzTEpRdmRQeHA3c0R1amRFWVVfd2RxTGY3WmI3cmJUYWF2X3lYckxPMVVQV1c5MXBvaE55R2dCMXBzb0FNYl9lV1JxeHNqbmc4OFNNcllXWXJyZVkzOTg5dENjcUdDVGRzeWJYQUxKejJXWktPS25NUUpYLVR2bnpKanFzeUg3NUt2QlNn?oc=5"
         },
         {
-          "title": "AI Stocks Could Fall Further Despite Surging GPU Demand, Research Firm Warns - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzF1ampXb3JNWmdCNlJubzZKQnpyeEZwMmJ2NXo3cHVRdTJPMFg4VHVCa2JoX0tLdzFqVzVHeEhlbDlVajJWWmZZaXlmREhYV2JSVE5sUmVFX25IM01sTFlxaW5oZGlXbzRTMzF0NmFOMUtBQy1VX1AxMldnZlQ0cDVQS1RnYkdXM1VJTm9hS1E?oc=5"
+          "title": "Cathie Wood buys $47 million of popular semiconductor stock - TheStreet",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0Y4Smk5cndEWlN1S1pzQjdGQWdVVXJxaUFVM3JMT0xVVEtLVTFVMHp2TWJLV2pDckxfdHJTYUF5R2dqYnV3azVmeXVYUkl0bmJFQjJmc1htb3MzZjVNTjk3dnhXdjNLNGIxXzgwTUpBT1JRRmpIRFpaU1dBalJkajdWLUs2U1pKek8zaTBsc0xFN3lEeW9EUVpMZEtYRExrYUhoeWduTWJBaFlGOHVIMVdmcw?oc=5"
         },
         {
-          "title": "Why The Blue Tsunami Rattled AI Stocks - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR3I4UU9QU2JrM2NTakhrNVFBVGFuU2p2RlhnWjR1VUZYb01NYXdSN0JzVGhycjdKb1ZBeXJtRlppWlJ0aWxYcEczLW1Nb3dqVUp3WFExRGE3VlRYdld1b0xjd0FKTHg1N3ZpSy0tUkZsVWRjQnlWU1dHaHlUZXlRbHk2OVBZYWNDbTdmRG9XdXVRR19EeklsekNRM3hsSUdBWWpPTGl3RkZCX19FOEx4WDN2MA?oc=5"
+          "title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary? - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5"
         }
       ]
     },
