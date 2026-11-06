@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-04T08:16:38.162041Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 206.69,
-        "weekAgoPrice": 217.94000244140625,
-        "percentChange": -5.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "AI CEO Warns Chinese Labs Will Use Free Models to \u201cStart Selling Chips\u201d Against Nvidia - TIKR.com",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUERyZ1hxS2lKVHBrQk05RnFlZjlKcHJCbWpueU9LVVo0bzUzdVJvUlFiSEYxdWEyZ1RpNXVKYV93X0szYkNGSnVwbktoZjBNN3h6bGU5d0pNZndVYXB2dnF0MVBJUnhieko1ODB2eFhoR0o1TUVFQ3lWYzJIMlVwMmVWS1pxVjIzNkpyYUtqNDNMNHNMQXNzd1gtMi1LRkVNaFp4dlRFWG5SQm5MSWg4?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation (NASDAQ:NVDA) Stock Rated \"Buy\" by Sell-Side Brokerages - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVVk3OE1MUHVnd0FtNTRKM1R6anJ3SnI5MjhuMzk4ZXdBWmc5cGU3OHF1Q0RZMWl4UUhFVlYyM1RreUYxQVZ1bE51dC1RdDhneW55TmJNUGltWlQ4VFNlbzB4azBtWi1RTjNJUHkzZ0J4U0x3VXhPYWpIcjhKWEZVQ2VPVU9FdnZ1R2NnU0lrX0lmbWZDM2VzdHIwNnpmMjA1NTB4X2ttQ05ZQVFMTUFRbG4yalNQWWR5NnRVdDJIcU5Ea1FGOVo3M3ltREhleDg?oc=5"
-          },
-          {
-            "title": "Is NVIDIA's Cheap Valuation an Opportunity to Invest in the Stock? - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHhjQ1htMUJybUM5QmU2UXVpaHRjSFRZRDl2bFc5cnhhU05iODAwSnR1RGFVRjBMbVZsYkhEWjhuUW1oTUNxdlozVWZhdXNfMEIyVFM5ZVMxd2tBRFBEWTJQT3FiZk81UzFXQ1hsS3lXVlRvYUVPalAxcGJReTlhbTJpd3VYemV3MHdtX1RYcnM3b2NidTJDVEZhVXltVkRramd4WmE5dllTajlPcnNJNEpJMVIxVzdEbVo2eFV4dG1GRm9sN19UZk5XUlVxN0F2eGotS3pvaV9HaVlEOXRocUVKbWJ6a00?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-04T09:16:27.440818Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1821,6 +1794,41 @@
           {
             "title": "NVIDIA (NASDAQ:NVDA) Stock Sale Disclosed by Rep. Daniel Meuser - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0xOX2o5dS1URUhiSzE5LXItb3RjVE5Wa2tqUzJYNUJPSTA4dElFV3hZaXJUZVN1ZUtQVHhSWGNKazdkMjZFd1dwc1doUzhzWWFpcVZsRHJtdkpBUFEzclhzVHA4QjRtR0JnblAxLW1uS1N2aGRCbDQ4OHkyTDRqSnUzaTFlVXZYQnRyMGZMQ1FPejRYeWZpX1lmZFV6RkVaRDliQnhhNjZBeWR4bFlsM3oxWGRCWW9ZUmxSWFlJRWE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-06T10:15:45.837052Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 181.6,
+        "weekAgoPrice": 213.66000366210938,
+        "percentChange": -15.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA Corporation $NVDA Shares Sold by Salem Investment Counselors Inc. - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXRpSjZ1T216MDNyLVJPVXRzcUY0MjZBQ2hHVEhhelNHTDNfaE14akprM1hoSDdsVVBJRmJla3MzVC11c0tGbkZWNnpIa0laZzN6QmVqenpSZkNIc2RCRzdUcVluWm5NNUhzNUZwWC1IT3FKNGpQWFVrSGZPb0V2LVVWYzRzbGJSSE1Wcm81YXhSNEZTMnYtLWxjVmdNN29nc0dwT3I0enJJQm5FVEFEZUg4RE5LYVFNNnk2WXFTNk1PZ2pXWHBOOFpJaw?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Stock: Focus Financial Network Inc. Reduces Stake - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0dmUHpMWTBCSERDaEYxWkVqVU9GZHg4MFg4UFF5NEVDaFBKZTJhUmdmeGNkeDBXMHJLRWk3eXlqTndIc3htV0JlLWNuVnlSWUN6cHI2dGEySkJ2Y2NFYUV0Zk55RDd3Z0pXd1VlaldUbzVXNGZFSnAtU2d2Y1NYQmtlTlNmb1ItWGJrdElJR0drdF92Snh2VjFxZWt3bmFsVWJsWGR3OFAyX0VkY0ducVdvNzg2UzlqY05ZdlFpa0E4ckZucTZrSXNsOWg?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Stock: Cohen Capital Management Inc. Grows Stake - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc0lMbmJSUE5ENXhxcmFxaUYzVEhOT2lVYW51STgwa0FBanJVX1R1UjhrekRidHpYeUkyOWM1OHpfa2dneTFsSVpMMjdwYjRGcmJfNzZVdFo5eEl2SVdxa0hnblM3SnZIR2JUTkNZRWpFVkNuN3dKLUVxbXZKV0RoMnFQU0NzeTZUSUkyTWZ2RzJJbnlFZlJqN0JuWHZUN3g3b0RiM3BxVHZOZmF4WHoyMDNCQkxxWGpXVWVac3EzRUExd3hzVmhMbmNTdw?oc=5"
           }
         ]
       },
