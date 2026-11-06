@@ -1,83 +1,83 @@
 {
-  "generatedAt": "2026-11-06T00:16:33.273219Z",
+  "generatedAt": "2026-11-06T01:16:18.858263Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 535.93,
-      "weekAgoPrice": 530.1400146484375,
-      "percentChange": 1.09,
+      "weekAgoPrice": 531.010009765625,
+      "percentChange": 0.93,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 181.6,
-      "weekAgoPrice": 213.66000366210938,
-      "percentChange": -15.01,
+      "weekAgoPrice": 215.3800048828125,
+      "percentChange": -15.68,
       "flagged": true,
       "news": [
         {
-          "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 9.3% - Should You Sell? - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWo2cmp4MXVFbWpoQi1YeHFYcmFJQUNHcDJuR1Q2VkpRNDM1RVV3OTRyMkg5c1hOUkVSVktmR01nUE9UTTU3c2ZHUTVrYWh5dUtsQXpjNzlxYUk5aUMyWVdOX0I5WlhBVElwMXZUaklXMlVrR2Y5R3dkR01OM0U4MFZRS1RLS1pIeE1CZHltM2NtUzN0OFk5LUo0UzV1QzgyQ25wYXBUVUtIXy1zekE?oc=5"
+          "title": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory \u2014 NVDA, AAPL, UBER, SOXX In Focus - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOOUZJMF9jRkMxOGtlTFhzMVFwcGhwY1Bid29EanBuZkJONU4wd0tnR203b3JwelBVQnhtU1J4aVdwRE1TZExmdl9CVEhvN1IxY2N4OGktU1JDelJTZ1IzdmQ4cG5CX2xzd1lURE1yN2pKODZhaXJwbk5IaWRuTm9QaGZVUFJ6YVpWRkhGbzdCYWUwX2haeWJOa00xYmpfM2xhb3ZFY0h3aFpPTmtDakRzVHFNd0ZEd2FlVzVPRDBQbnR4N3MtaXppRGJxZDBnaE1KeG9xNmw1bWxEWHdBVDZSY0o3cnhDSG1YN01hLW9leDZOSVRmTWluVmpycUh3NUNrbEV5MjlJd0VBVDlndG5sbDZ6RElkbm5mNVZiX1cwQ0hObzVzQTRkMF9BNA?oc=5"
         },
         {
-          "title": "Stock Market Today, Nov. 5: Nvidia Slides on AI Chip Selloff as Election Uncertainty Weighs - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZjFFTGpNdlBzMFNvNUpoYm53NjhkNVFIcHRHa3NYWGR2SC1JaEdvUENjTzdjX3hUOFdGNFBHenZGamFxSjgzLVQ0NHlSc01UUUJ3alplQTFDNnNqY3d3cGk2cUxXMUgwbVpkdnR2Nng5MlJZd05xUk5LWDgzbGZ1RjNFS0ZhdjB2ZklObU9FbEJGd2dVY0x3MU9SbmZNNUNfY0EwbVRrMWxoSmhINTBkOXlncU1Jb0J4alhGa05fODlpWjJjNUV5Mkh6d0pWZGJRMXp1bDVuSnhDXzl3RC1CQTlYazhpUXBOdXlrNnktQ2VLWE1zWEY3ZnlyTFdyQUt4Qkl3?oc=5"
+          "title": "Nvidia (NVDA) Stock Plunges Nearly 8% as Broad AI and Chip Sell-Off Erases Over 1,000 Nasdaq Points - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNkhpUUlaNGhDM0duTm12bGV0N0phOGRPV2xIbFI4b1NQaW8xTWZFYUstcFdjdV9DeDNFeGZReGZmY0c4SGF4MXBqMTBfRkEyWjBuTndnM2lBaTlqNEMxVU1LWlhYVHhISjRRRjJhd3R0UUVwR3drNV9iVFZNOERKOTl5NDg1bHFFTWg3bUhueDJRM0J0aVRQZVJxVmZpVmhzMHNCU1p0S0hDazdCOTl4ZWdFb0xQT2xIc0NWVE1nTnE2SDBsajJZTlN2TWs3X0pVdGl4cA?oc=5"
         },
         {
-          "title": "Nvidia Eyes Apollo\u2019s Struggling Telecom Sites To Sidestep Data Center Moratoriums: Report - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmVvdU10eVBoekxBY2E5Tk4xeWxMTEljeTdKWUVDZWQyY2hjQUhWRXBxb21lNkFwb3pLa0FYclJjUTFWZW1nOUlvV1JFSl9hbGgwUkVyNVJQXzRkbWJaMm5td2ZreVBYcVRZMUE1aHVMQkZNcm1iem1rTHVoYU13MU9JSUtYWDVXMnl4STc0V2ZSQ09STjZvNFNpNVhEX0FfU1Br?oc=5"
+          "title": "Nvidia Stock Just Crashed 22%. Jim Cramer Says It\u2019s the Cheapest in a Decade - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDZYVFlNUEs5R3oxN2piM1FfQl84SUdVN1ZadFhDV2ZaaC1IX25BMVZjQ0ZUQUs5aWg3NGdTdGhRdG1UMU5XN2YyVWRUVlk0eVJ3SHo3SnlULUZmbnNFeGVEQVlTZE9jQzBGQ01vMHQ3dWZLNFA3VFVPMFFiWGh3Q3BROE5WODIwckV2anIxMnZfUHVrbG1fdQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.96,
-      "weekAgoPrice": 4.730000019073486,
-      "percentChange": 4.86,
+      "currentPrice": 4.89,
+      "weekAgoPrice": 4.75,
+      "percentChange": 2.95,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.74,
-      "weekAgoPrice": 7.46999979019165,
-      "percentChange": 3.61,
+      "currentPrice": 7.69,
+      "weekAgoPrice": 7.449999809265137,
+      "percentChange": 3.22,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.26,
-      "weekAgoPrice": 1.2200000286102295,
-      "percentChange": 3.28,
+      "currentPrice": 1.24,
+      "weekAgoPrice": 1.25,
+      "percentChange": -0.8,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.54,
-      "weekAgoPrice": 1.5099999904632568,
-      "percentChange": 1.99,
+      "currentPrice": 1.52,
+      "weekAgoPrice": 1.5399999618530273,
+      "percentChange": -1.3,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.47,
-      "weekAgoPrice": 1.4299999475479126,
-      "percentChange": 2.8,
+      "currentPrice": 1.46,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": 0.69,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.2,
-      "weekAgoPrice": 1.1399999856948853,
-      "percentChange": 5.26,
-      "flagged": true,
+      "currentPrice": 1.18,
+      "weekAgoPrice": 1.190000057220459,
+      "percentChange": -0.84,
+      "flagged": false,
       "news": []
     },
     {
@@ -90,17 +90,17 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.23,
-      "weekAgoPrice": 1.2699999809265137,
-      "percentChange": -3.15,
-      "flagged": false,
+      "currentPrice": 1.19,
+      "weekAgoPrice": 1.2899999618530273,
+      "percentChange": -7.75,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.655,
-      "weekAgoPrice": 0.675000011920929,
-      "percentChange": -2.96,
+      "currentPrice": 0.66,
+      "weekAgoPrice": 0.6700000166893005,
+      "percentChange": -1.49,
       "flagged": false,
       "news": []
     }
