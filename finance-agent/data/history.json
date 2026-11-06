@@ -1,19 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-04T01:16:12.649209Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.23,
-        "weekAgoPrice": 0.24500000476837158,
-        "percentChange": -6.12,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-04T03:16:40.091274Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1824,6 +1810,33 @@
           {
             "title": "Nvidia Stock Price Forecast: Drops Below $190 to 7-Month Low, Could Plunge Over 10% Further - TradingKey",
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWhhM29idTQwSVFvVWZvQnB3ZUFkc0FpLUhENkYwWWEwRnNkbzZxenM0dDF3SWsteERVeXp2NzBjVW50WjJSUHBEalBuUmlrOWdVeUJSUDdqa0tvaWhkQUR6MUQ2czYzcVRZV2puNXFmSkJVeWZmY3hUQWdQWW43N0N5NEtTWE9oMUJ1cnZwbnpTa1R3OTF3TUZYYmYzVzUtQXZLd0hDZjg?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-06T04:16:15.878456Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 181.6,
+        "weekAgoPrice": 213.66000366210938,
+        "percentChange": -15.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Should You Buy Nvidia Stock Before Nov. 17? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHoxdVI4MTRJRWR4VmQycnkxX01ZeklUYlJlRXJCcDZnTG1FQ1AtZGh3YTBndWZVSWZsZEdYZkxad1ljNkdTMGlmZFp3R0Vrcmt4VTNrcnBzcEtQSlNNejhrNDJvUHdjanBFLXA1YUZYMjNuRlcyVmN6RHBub3JQNXZaaDNrcHpIYlZmWW1kRHhRUQ?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Price Forecast: Drops Below $190 to 7-Month Low, Could Plunge Over 10% Further - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWhhM29idTQwSVFvVWZvQnB3ZUFkc0FpLUhENkYwWWEwRnNkbzZxenM0dDF3SWsteERVeXp2NzBjVW50WjJSUHBEalBuUmlrOWdVeUJSUDdqa0tvaWhkQUR6MUQ2czYzcVRZV2puNXFmSkJVeWZmY3hUQWdQWW43N0N5NEtTWE9oMUJ1cnZwbnpTa1R3OTF3TUZYYmYzVzUtQXZLd0hDZjg?oc=5"
+          },
+          {
+            "title": "Should You Buy Nvidia Stock Before Nov. 17? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDNJdk9KUDJGQXU1cHkzVUdNdWUwc2Eyb3c3dFFOVkJHeDNhX3AtbEhIWlZMMWpjUmYwd05RMzhsSjFMUTR5UzBzNWw5NHprVW54OEIxbWEwYl9Ga3BiNzZmb3o1Qjl5aW1NVWxBTG9GOFM5UGRKU3MxOWpGOWhob29lU2ctTm9MdUpiag?oc=5"
           }
         ]
       }

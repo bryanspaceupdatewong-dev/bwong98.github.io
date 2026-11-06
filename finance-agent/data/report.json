@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T03:15:33.161259Z",
+  "generatedAt": "2026-11-06T04:16:15.878456Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,32 +19,32 @@
       "flagged": true,
       "news": [
         {
-          "title": "Should You Buy Nvidia Stock Before Nov. 17? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVF3endQaExLeXJxb3hWc1laY3ZyQUt3QVpucUh4MW5fZUVsY1lkSlp4ejVPSDVqVTBRQi1DZkdfY2N0aGJVbnp3VFNpbHNtZk1mRkFEdWd6RnRDeWtwY2JQZEY3RHhkTFdSeFFRTXFtbEdSVDNhbE83bzNRVXVRTC1FWkRESzhtY0FUclRuU2hNU21CY2xlS0hmVTZfVDJ4cFBPNnZpQUIxdE5EWnBlUkFRSTU2TG84azhOdWNEZ29tOTRw?oc=5"
-        },
-        {
           "title": "Should You Buy Nvidia Stock Before Nov. 17? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHoxdVI4MTRJRWR4VmQycnkxX01ZeklUYlJlRXJCcDZnTG1FQ1AtZGh3YTBndWZVSWZsZEdYZkxad1ljNkdTMGlmZFp3R0Vrcmt4VTNrcnBzcEtQSlNNejhrNDJvUHdjanBFLXA1YUZYMjNuRlcyVmN6RHBub3JQNXZaaDNrcHpIYlZmWW1kRHhRUQ?oc=5"
         },
         {
           "title": "Nvidia Stock Price Forecast: Drops Below $190 to 7-Month Low, Could Plunge Over 10% Further - TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWhhM29idTQwSVFvVWZvQnB3ZUFkc0FpLUhENkYwWWEwRnNkbzZxenM0dDF3SWsteERVeXp2NzBjVW50WjJSUHBEalBuUmlrOWdVeUJSUDdqa0tvaWhkQUR6MUQ2czYzcVRZV2puNXFmSkJVeWZmY3hUQWdQWW43N0N5NEtTWE9oMUJ1cnZwbnpTa1R3OTF3TUZYYmYzVzUtQXZLd0hDZjg?oc=5"
+        },
+        {
+          "title": "Should You Buy Nvidia Stock Before Nov. 17? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDNJdk9KUDJGQXU1cHkzVUdNdWUwc2Eyb3c3dFFOVkJHeDNhX3AtbEhIWlZMMWpjUmYwd05RMzhsSjFMUTR5UzBzNWw5NHprVW54OEIxbWEwYl9Ga3BiNzZmb3o1Qjl5aW1NVWxBTG9GOFM5UGRKU3MxOWpGOWhob29lU2ctTm9MdUpiag?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.91,
+      "currentPrice": 4.9,
       "weekAgoPrice": 4.75,
-      "percentChange": 3.37,
+      "percentChange": 3.16,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.73,
+      "currentPrice": 7.72,
       "weekAgoPrice": 7.449999809265137,
-      "percentChange": 3.76,
+      "percentChange": 3.62,
       "flagged": false,
       "news": []
     },
@@ -58,9 +58,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.5,
+      "currentPrice": 1.49,
       "weekAgoPrice": 1.5399999618530273,
-      "percentChange": -2.6,
+      "percentChange": -3.25,
       "flagged": false,
       "news": []
     },
