@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-06T14:19:27.517735Z",
+  "generatedAt": "2026-11-06T15:17:04.549092Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 535.93,
-      "weekAgoPrice": 530.1400146484375,
-      "percentChange": 1.09,
+      "currentPrice": 533.435,
+      "weekAgoPrice": 521.9099731445312,
+      "percentChange": 2.21,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 181.6,
-      "weekAgoPrice": 213.66000366210938,
-      "percentChange": -15.01,
+      "currentPrice": 191.44,
+      "weekAgoPrice": 204.63999938964844,
+      "percentChange": -6.45,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia: Competitive Moat Widening; Buy (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3JjdG55eXd4UHpTU0FsNkw5Szl3MVgzckZGM2dUN1l3bmxiVENVdGhaV2hfcmRIbW9zWUVLTEZZX3FlS0U0WmprUW5lRHZ6a09GM3E1WXRuWUphVVJMT3ludVFnblZoN2ZENVRmS0MxSnpuYnc2N3hnQ1p0dU1nZW5vTQ?oc=5"
+          "title": "Breaking News: AI Hardware Rebounds: MU +9.5%, NVDA +6.4% - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRFBZTDNBZ3R0a2VlYzU1NFhrNUQzS3otY1Q4NUVyOS1qVkxNbnBFSHVUcGthYUNSY0lHOVd1cjFvbGI2Ym83M3lXRjFHeGNzSV9zZVNoVnJ3clRvd1RnZGlvckN5TXlmbHYwYTBXYXFlSXRZRldQdEJHTXlrZmNpTWtBUnZVeERpLUlzSXJZRWg2T3B2ZF9kazJNcUs2SnJudWVUVg?oc=5"
         },
         {
-          "title": "Cathie Wood Is Buying The Dip In Nvidia As She Adds $45.9 Million Of NVDA And Sells $119.7 Million Of Broadcom - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmgwMG1nNDhvejFLdEVSS25ad0V2SjZnOG9HWmRndXhXWnpsUTZ1YXNpVGh1Q3VtbXlWcTdOajFybF9ZUEFNRktBd1FJc0dfd2ZLTnpwdENKeXhmczhMTnRyNkp2WHlfeW8xdzZDNVlxZ280d0k4QVZKZ2l6N1BNX1pFS2NYVnNhNEVJWF9nTzJ1TjVOaDFHenV3?oc=5"
+          "title": "Pennsylvania Rep. Daniel Meuser Sold Up to $15K Worth of NVIDIA Stock - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUowT0RQY0FRckRnRXJtNktISWdJMm5ZY1JNZ3VoMDBrZV96d2Uya0c2akEtbzBMLXNuRVBFTWVubnRSbmNiTDg1NDF4T1ZIUHlWb0hjMERKVVBJSmJvRlhOc05aZmV5NUVYLVczUGU2a09BWUg5NFRPT3k4X0lIeHowWmpnaDNxNTNlVEFTMWhkYm9kOFhqbXFzengzeVRyS0FtTVF1WVktMFMyV0E?oc=5"
         },
         {
-          "title": "What Sent NVIDIA Stock Lower? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONUlEREwxZEE1QjhqTlcxN20yYjV2LUdnV2t6d2M4VGpKRVN1QUZVR0V6V2RnMFJRaHlFRXh3N2Z1YXlNR04xWGc3TzY4X0NkZGZFZC0zNDNzcHRPUm1vclpORU92N3pKY1JWdlhSLTQweGFlS1RhWFJxMTU0OUJmS1dXQVRubklEaUMwczRUdWhXckE?oc=5"
+          "title": "U.S. Stock Market Movements | NVIDIA (NVDA.US) Surges Over 6% as It Plans Data Center Retrofitting Projects with Capacity Reaching 1 Gigawatt - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGs5d3lFcWd5WEVwZlBvelNFUWdkUFpJeEgwNGhxckJ1aVdHTmlEVHpmbnZyUEZFMHJnbnZ3c1JVUE1zZmx6eXFhUG04dnp4RzBrRF9Xa3RjVjA3ektfYmZhb0NEaFR3MVFMOUU2QTJDeGZuR2owUTJoYTVYWWdOTnZJRmkzaHhqYlBJMWlHTlZfWWpXTng2V3BzSWFPa2kzWlE?oc=5"
         }
       ]
     },
