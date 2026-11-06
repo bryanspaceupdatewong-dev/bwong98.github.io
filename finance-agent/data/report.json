@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T21:16:05.229627Z",
+  "generatedAt": "2026-11-06T22:16:29.088543Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,91 +19,91 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary? - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5"
+        },
+        {
           "title": "NVDA Stock Rebounds 4% but $180 Support Remains Critical After Midterm Selloff for Nvidia - FXLeaders",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmJnVGV0bDlYY3Q0OVBJLXExYkgtakQ4emVyUktySWkwUHVsWkhia0s1bXZIeXEyWW8wREJLUXRIMHlfbHpzTEpRdmRQeHA3c0R1amRFWVVfd2RxTGY3WmI3cmJUYWF2X3lYckxPMVVQV1c5MXBvaE55R2dCMXBzb0FNYl9lV1JxeHNqbmc4OFNNcllXWXJyZVkzOTg5dENjcUdDVGRzeWJYQUxKejJXWktPS25NUUpYLVR2bnpKanFzeUg3NUt2QlNn?oc=5"
         },
         {
           "title": "Cathie Wood buys $47 million of popular semiconductor stock - TheStreet",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0Y4Smk5cndEWlN1S1pzQjdGQWdVVXJxaUFVM3JMT0xVVEtLVTFVMHp2TWJLV2pDckxfdHJTYUF5R2dqYnV3azVmeXVYUkl0bmJFQjJmc1htb3MzZjVNTjk3dnhXdjNLNGIxXzgwTUpBT1JRRmpIRFpaU1dBalJkajdWLUs2U1pKek8zaTBsc0xFN3lEeW9EUVpMZEtYRExrYUhoeWduTWJBaFlGOHVIMVdmcw?oc=5"
-        },
-        {
-          "title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary? - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.9,
-      "weekAgoPrice": 4.730000019073486,
-      "percentChange": 3.59,
+      "weekAgoPrice": 4.75,
+      "percentChange": 3.16,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.73,
-      "weekAgoPrice": 7.46999979019165,
-      "percentChange": 3.48,
+      "weekAgoPrice": 7.449999809265137,
+      "percentChange": 3.76,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.22,
-      "weekAgoPrice": 1.2200000286102295,
-      "percentChange": -0.0,
+      "weekAgoPrice": 1.25,
+      "percentChange": -2.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.48,
-      "weekAgoPrice": 1.5099999904632568,
-      "percentChange": -1.99,
+      "weekAgoPrice": 1.5399999618530273,
+      "percentChange": -3.9,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.45,
-      "weekAgoPrice": 1.4299999475479126,
-      "percentChange": 1.4,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.17,
-      "weekAgoPrice": 1.1399999856948853,
-      "percentChange": 2.63,
+      "weekAgoPrice": 1.190000057220459,
+      "percentChange": -1.68,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.24,
-      "weekAgoPrice": 0.23499999940395355,
-      "percentChange": 2.13,
+      "weekAgoPrice": 0.24500000476837158,
+      "percentChange": -2.04,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.22,
-      "weekAgoPrice": 1.2699999809265137,
-      "percentChange": -3.94,
-      "flagged": false,
+      "weekAgoPrice": 1.2899999618530273,
+      "percentChange": -5.43,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.65,
-      "weekAgoPrice": 0.675000011920929,
-      "percentChange": -3.7,
+      "weekAgoPrice": 0.6700000166893005,
+      "percentChange": -2.99,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 1
+  "flaggedCount": 2
 }
