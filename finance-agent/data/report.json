@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-06T16:17:49.238058Z",
+  "generatedAt": "2026-11-06T17:15:57.482972Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 534.93,
+      "currentPrice": 534.861,
       "weekAgoPrice": 521.9099731445312,
-      "percentChange": 2.49,
+      "percentChange": 2.48,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 187.677,
+      "currentPrice": 188.05,
       "weekAgoPrice": 204.63999938964844,
-      "percentChange": -8.29,
+      "percentChange": -8.11,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Stock Rises on Dip-Buying: 3 Reasons to Be Optimistic - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpbHc0aG5OM2dVRUpBUEFXeVRDZnB3WWpwemtTYU44MGx0MHNRUkRlUFgzUFZyaV9UTFZWSG1GekFBSktPLTl3ZzFSeEVaYnpEUUpWMkxmN3lyanNXTVhYbDNDVU1kOEh5RVdaemdOekM0Z3NMZGVZ?oc=5"
+          "title": "NVIDIA Stocks Rebound 6.78% as Lawmakers Call Jensen Huang to Closed-Door Briefing - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnZ2Y1c3VTFIcmJCY2kwcjBRdFBzcWMzV1UyaXJzWDN5YkhRWXJweVdpQlF4dXRpRmRaSTZDbk9PeUtUR2tjbjFMYTBVMG9hM1E4ZEgxZVM2TVBYSlMxcEVoaDlxMWFpQkJfS0RKbDB5YXRRaTVYZWdoSmxNSXlxUjRFbW83ajdhcEhRRXpTUHhIVHhuWlE?oc=5"
         },
         {
-          "title": "Nvidia stock oversold setup: Key levels after a 9% drop - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjhTc0JFcEFDRDdXX3N3VDROUHZWS25HV0loYWVGV2tYaC05U3Vvc3hxdW91UERlREdKQVIxS2Y0c1M1UmE5LXUtdU9WT0pqVFJBRWZzRU0zS1hPWTByX2QtRUp3SFN2dGRyekZPSV9VdVY2NHBkSEJjdnc4T2JaRU9RdVhiaDdRY1VUR2NYWUI5cnVVMHJVaE1faGE?oc=5"
+          "title": "Nvidia, AMD and other chip stocks rebound. Is the \u2018violent\u2019 AI selloff over? - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5"
         },
         {
-          "title": "Breaking News: AI Hardware Rebounds: MU +9.5%, NVDA +6.4% - Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRFBZTDNBZ3R0a2VlYzU1NFhrNUQzS3otY1Q4NUVyOS1qVkxNbnBFSHVUcGthYUNSY0lHOVd1cjFvbGI2Ym83M3lXRjFHeGNzSV9zZVNoVnJ3clRvd1RnZGlvckN5TXlmbHYwYTBXYXFlSXRZRldQdEJHTXlrZmNpTWtBUnZVeERpLUlzSXJZRWg2T3B2ZF9kazJNcUs2SnJudWVUVg?oc=5"
+          "title": "Stock Market Today: Dow Pares Losses After Jobs Surprise; Nvidia, AMD Lead Tech Rebound (Live Coverage) - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXpPb0ctNHctc1ZBczhHQW12ZE5YZDdyd2MzcG1tUlNMYjBiaE9MT05XOS1RRVpaekgtWThPY3BSYVVYODZhV0hiVXZUMmxHdGtoSGtqR0lDSno3Z2FHRUZWX040ZEZldFI2UlRRb2p6WjN3MEhSVUlYZjNhdjRtOTU4T2htSkhRUHdXVE5ralJMUjJ3MXh3Yl9SdVcxcy1WY01WdmdmWUptMW1pLVZ2RDR1NW5TeExLQzY0?oc=5"
         }
       ]
     },
