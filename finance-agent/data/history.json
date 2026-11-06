@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-04T12:16:45.141599Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 206.69,
-        "weekAgoPrice": 217.94000244140625,
-        "percentChange": -5.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Why Nvidia Stock Is Rising as Crackdown on Data Centers Looms - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xS01LbkZsaFVHUndoOHltS1lFSzg3dnI0SVdRZ1p1Mm40MEtoM2QxcWxnb01OOFJhTlBPZ09WdjZxYy1XWjdJZzJ2NEo4clZjOGljMm9zb0RZNzJlVU1XRGwtVmF4LUlpelh6V1Bsbl8teG84MTBDbFZGeF9FZw?oc=5"
-          },
-          {
-            "title": "What Is Going On With Nvidia Stock on Wednesday? - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2toZFJjX1BOQWJYZzhoZktmN2RTRl83VE1VWHRzYkZtQV9oMlRmcGljcWduWWltS0FRRW4tcFV4TXU5RW9jZ1U3blYtT0JkWlhwMzhwWlo4SS03a3laTEtLRG1FYmVmS1Y4dFZVZXdUY3JBLWM2ZlBnZm43T0dlT3NiLVRVdGFpcWVWaWktOTFadU52TVBXWEQyT1FZUzJOYVk1Ug?oc=5"
-          },
-          {
-            "title": "Chinese AI Firms Face Severe Nvidia (NVDA) Chip Shortage Amid Su - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWjZxRTRlTVBPV05ZaFZIZDdBR0lMSUtNYVNsWHJtQkdFVjZZLWFaR1R0VFJvVEtRWnhWb3FpblIyWUoxNll4Q2p3QzMzbmVLZC1LbmtWOElmU0NHRURZclB5Q0FDSmVibmNZMy1scEowcG0tYktJaG9UcEtnVzhWNDlabmhzeWlXeUJuN2c0TDV5VTNRZXNuWVI1VFVLc0dLRS1jbXBZeGhCOS1YZDlFekV2Zw?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-04T13:21:38.953396Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1845,6 +1818,41 @@
           {
             "title": "Nvidia (NVDA) Stock: $181.60, Down 9.26% Nov 5 - JournalArta",
             "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXhQT0JNXzg3eURlaVdMbFBkWE14d3N4cjZneUVuaFEydXRWSTJvcVNFOFZvRGdqbkV2ZHc0WGxVMlVhVFlSa1N1MnA0YmRFVzVWdlREYTNuYnlDNDg1S1h4UVV5aHA5Zms5UHhvT3VJcXFEZnJ2ZkNPcEltM2o0c05SRURiNGs2c1hYUldPUHJhUHFDZWlR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-06T13:21:51.911467Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 181.6,
+        "weekAgoPrice": 213.66000366210938,
+        "percentChange": -15.01,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA stock crash: Nvidia\u2019s worst day since the DeepSeek shock - The AI giant fell 9% and is now down for t - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNMzc4Q0NzV21tUG5oVFJXanN0S0oteHltTW1Cd3BuV2MxanA0aFhXVFBGZVhmR0xaS3ZVZXFlZGJEajF5RVBUcWthMml6Qy1UT1l1aUVYcDJhQ3RmdndmNEN1QW9ZcVhKcHNOUmlob29Tc3ZmZ19QVWkxVmpnYmlCWXllQWVrYVZhYWo4V3ZnODQtemJkS0xJTldzc1FMZWMtSTNOMlBJYXVPOVY2Wkc5enp3d0wtcVktdEstRlZOMWRuaUZoYTJxOXVUeVhWeVBhdGJFQkY5cTdSQXZ6NldLLUNDcUstcmlhTlgwSnhWRTBsZWJ6b3R0T0pEM2JCTjd5cmduVDRnNUdjczJESEkybmxB0gGXAkFVX3lxTE85d2dNZWNDMk5wQVdIQnJDV1ZaV3YzLTBpV0MwWjQtQ2xnZ3FjZHdfcU9hVXVCMmhXSzZJME1COHk1MzNiX245dGNZY25PbFY3QjVmdEtYekcxOFJuSWtpeXBadW9kTmxBNE1NUENlWnB0Y0RIRDhNeVZaYXkzZmROQ2gwMy1sOWpRWDMycnlrSlRxMm9HMGpwTUtLb2tPTWdJMGFROFRvWFhweEFBVlVMSFJaVXBJRFhYa2xCcnFCcVhueUV4N3VSZGNIdXowR2c2eEhVY205RmJoM0pHSG5NVVdsaDNIZUUySEYzcVFlU0tDbFd3dm9DRy15ZUhjWkpCcmdtX1lwSUcxb2t6UDFSV3VTMEh2UQ?oc=5"
+          },
+          {
+            "title": "AI and chip stocks rebound in premarket after steep selloff (NVDA:NASDAQ) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXdPUTNicTIwdnpGTDM3VmZyLTZadlJIZ0UtM1Q4OFNDTHBjRGwxV29aUU8wYmxrR1IxcDlheGZlRUpGbGtlX1VrMzZxUEQybmNJd3JBdkZyS0ZYaF9SSC1mZENGY0FmLUtxTEFRbXdNU1FtRDZpWkItTWhYZHVPc01TZEJ6VlRqTjNUSlF4d0RnY01UUmFRa0tBQmlCUQ?oc=5"
+          },
+          {
+            "title": "NVIDIA (NVDA) Sees $118.8 Million in Net ETF Selling on Wednesda - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMmctY1lOZjRncHB5UHg5VVVUMU13ckhVQ09VZTJ5dEdYc2tlRVA0OF9WOEVEbHJQTE9BLXJ2MWw3cE1NOGxObXhRZzByR1Q2MzNiOXphVjZvcUcwbjdYYlI2czhuMDA3YlBqaF9icWxjNEJoeDdoRlk5S3QyODVKVW9OUkJsRVFyMXZ4V041UUsxMUdFR0dBYzNvdDdmX3I3aHdJSERuSHlXTGtvSElEZm5Jb21jclVaMFp3a1JwV3lpRDdESFNTQTV5blJjOFpkQU1UUkFRS1NZdlMtSGc0X0Y1eThHdi1uZ3laSEhsenFyNnlZZUxubkVqUFRSYjJJOTUyaWtFRHFzdDVpN1hXVEIwYWYtZG5wSi1YZGQ3NHEzX0hWOTFIb3dtV3VjaDQ?oc=5"
           }
         ]
       },
