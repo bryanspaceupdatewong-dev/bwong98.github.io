@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-05T17:15:58.604066Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 185.392,
-        "weekAgoPrice": 213.66000366210938,
-        "percentChange": -13.23,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVDA Stock Faces Last Support as Midterm Elections Put Data-Centre Spending and Nvidia Under Pressure - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUTZMaHhnb2JtSFJkQXJ1UWFXVWFpRFd5ZDczZWQwMEsyeThGbFlvenhfRkNiakw3SUlNVzh0a2hMdDN5elRRZGtrSTVFN1V4UHU3VHNFOHJSdlJYckd1Q0FqbXhVQzYya2E5NDVvUjlNTFJTTl8xRWdTblBVMnZMZVZKZE5OcjRnWnNNVlFXb3d2eXE3NURvdW9OSUpxN2RFdmlhS1VnYWhPckFJUHYzX21FYlZwNzhUbDUwcG9wNnFUUEZva3VzZ0FGODh0MlIwWW1BN3NqUlExcEZL?oc=5"
-          },
-          {
-            "title": "Nvidia, Micron Lead 10 AI Stocks Below 200-Day Average - NVIDIA (NASDAQ:NVDA) - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOajEtZmhoeTRfNzZmWDdhRkdZQUwwTEtGbzhmU1d6NTFnU0NXdVpiYUJxd2RmX3ZDVkNoa01GVE52Nk50M0I3NzBIU2pqMjVvaVdTckhrVGdQcUQxbktQVlFLazBGR1VHekQwM3lGb3VxWXhlMkx1LXVXaXhBZDVrWWY4c2RfRDhCaWJCM0lNVk9HSzRjaEFmLUtIUTVneVZBX2l5dUU5cUQ5VlZ1NGRDd09wZUQ3OERR?oc=5"
-          },
-          {
-            "title": "US Tech Stocks Wipe Out $1.7 Trillion as Nvidia, AMD Sink - NVIDIA (NASDAQ:NVDA) - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVEtSSk90bnR0SzRoTHZrZnlvbW5YN2JEbjh2cThrRUF6bHpxemtNMXZRbVJKZDNkQWpnVUxULUNxamhIampHdWJEUkdnRzRaOXFxQm1KTTdVajlLZmxxTGc3NUJFY3lpNmptaGczckdHel9GdUc4RnB6UUt0bUNBdDduTVVRQXRwd1lxeHNaS3p0R1l5UjZyOVFHYmdfVjF5Qk9jS1pjamxLMGt6ZGNFeGFZUFEyWlE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.96,
-        "weekAgoPrice": 4.710000038146973,
-        "percentChange": 5.31,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.2999999523162842,
-        "percentChange": -5.38,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-05T18:15:35.128603Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1885,6 +1842,71 @@
         "percentChange": -5.43,
         "flagged": true,
         "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-09T18:20:12.200570Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 542.865,
+        "weekAgoPrice": 507.1199951171875,
+        "percentChange": 7.05,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft Stock (NASDAQ:MSFT) Gains Despite New, Overzealous Outlook Security - TipRanks",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEhMamI2YjVpOVNWUHJ3WDdPZ1hGa2xKMnhETTB0Uk1Yd0l1OFY2Sk5TanNoaExwR00yY0lKcHV3Q2JEVDlhbWpLUE80SV9LTno1T0NRdVBMaFIzZDR0LWN5VnhlcVlXLVhtbUlhQ0cwZkI2N2FhZGtWRU5heF9VMFMwZ295eDF4TnNSSVp1eE9hdWdpbThEaW1ZX0NnUURxOHFFMV9B?oc=5"
+          },
+          {
+            "title": "MSFT Nov 2026 525.000 put (MSFT261109P00525000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYWlM3bkxnLUJtRWx0d1c2UGVaZ0tNRlJWLUQ2QzJMdEhLRTZZVkJJU1Z2dmJSY1pSbmgxbDBIU2ZLZW1Zb19zTE4xcGtrY0otZDNkeDVWY3dJZ1RsQ3JOTktfU3JJUQ?oc=5"
+          },
+          {
+            "title": "Microsoft, Oracle, SAP considered 'AI winners' among software companies: Oppenheimer (MSFT:NASDAQ) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUw3cXRyR2pWU2hkLTVEMlJsRlNaSGZIZWpXRUg1UjVEbjAwY0RjWTlJM291UmJBaUFCaUxsQURYNFVWcUxpWHhaM1gxdnlIQUl0TUNqYWRTSWVOSmQ1OHozd200dXJOUUpuZTY4eG12bkhvV3laZlAwX29GTzl4bEJFeGNQaE5OZEVSbkhwRkFZNzNaX1h2U3VrazlZMFZreVJVRkp3dkZoaTVRbWh1SF9oN3M?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 176.33,
+        "weekAgoPrice": 202.05999755859375,
+        "percentChange": -12.73,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock market today: Nasdaq rallies despite Nvidia stock slide, Dow and S&P 500 rise as AI stocks rebound - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdG53R1lmOWxNelNURjQwQjh1a25leVVnRjdkU2lrX2VDemx5VDlJdk56Y24zeXE3dzVOdGtETjlEblo1UGNxdkRXQkR6UXZrT3VVU0pNamhlM0RpMldLdXhxSEdEUnF1WXo0MVZLLW4zb28wclBSdE5ZWmJ6aWVnelpVWUxjcTZLZ1pKNGhpNUVCREExWnJJV3JDMzVFQUF0V0hud2ZYSUJnTVVRV0diNFdpanlSZw?oc=5"
+          },
+          {
+            "title": "Nvidia: Attractive Even Under Cautious Assumptions, Especially With This Strategy (NVDA) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdi04aGZtWl9yeWxvQXFfcFoyMk13RTRIbUxhQWJfbWxoTW1XVksyaWZ1SkpjRXNOdW0wOFlwWlRxSWg2Nm1EVDNxY1JYOVV1VjNOTVJmRjZaQVNjME93QUdueHQzNk40Z1oyc3VNR1dpM1BEeUp4ekZaSjZCem9kQVh4bWNqNXcxeHNycWxXYklNcENmc1NRN2s2Y1RibVYxWnpTZk16RGJmNE1aa2RIN0ZScEFyX01wWkpvag?oc=5"
+          },
+          {
+            "title": "Stocks making the biggest moves midday: AST SpaceMobile, First Solar, Coherent & more \u2014 Live updates - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBETjEzVzFLTXhVVm5IMDQ2YS1uRTV6UWFtblVkY2xhZ3BzclA5dFJ5WFJkbklySl9ZMDZQZXRGWE5ZV0FJXzN4X0xpdU9yUFotUllSTk1UTVpscU5MeDM0RzFFQ1RYcHVkbjk4TWlnSGozT0NpaXRCbw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+          },
+          {
+            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+          }
+        ]
       }
     ]
   }
