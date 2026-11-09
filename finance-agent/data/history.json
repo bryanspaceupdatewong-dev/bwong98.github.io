@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-05T08:15:46.991934Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 200.13,
-        "weekAgoPrice": 215.3800048828125,
-        "percentChange": -7.08,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock Price Forecast: Shares Hit Nearly Three-Month Low Amid Seven-Day Losing Streak, Risking Drop Toward $165 - TradingKey",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeE15RjZPaGJYbVkycWczUU15MjFxV1FoYV9xclI1RVpOVGlHb1lESHlyYVV6LV9mRWpwdUJ3S1J5OFBLZ1NGS0JHanhoOEpzcG5PcW5ONGtZb25nVjNqaUtMQWVBYUtLTDZBaGpPT3BZVVFHYlFsaU9fYnFWX2tydGdVZ2E1RUtHdUFNYzU5OEx3TzlRSS1oLTd1T3VNMVl0WGlfeU5IbjZCaW5sc0laTFFoT0xfMVl2RlJHa083TXhBdw?oc=5"
-          },
-          {
-            "title": "Dow, S&P 500, Nasdaq Futures Mixed After A Democratic Sweep In Midterms: NVDA, MU, SNDK, NBIS, IREN In Focus - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObldfcGFoek5LN0JQa25GZXpDbU13VkVyZlAtSHhOdGVBZTZHQ19Cckx5MmttYVllRW5nVVdFMEMxUXN0YXlYTW9jcXVwQzVsUUxJcmp4ZVpfQWpDZ0lNd0xPMmNsNHhwb2FjVHljR2tjTW51WDNUaXM1bXVOdjNFTnVrNEpZTWNSaHdhbWNQbk5wajg?oc=5"
-          },
-          {
-            "title": "Here's What $10,000 Invested in SpaceX and Nvidia Could Be Worth by 2030 - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSE4wSFl6RV9ydGswcmZMdldKSFVQVW1PajBXQVRuQVczblpzNXZqdGI2SG9qejBnU3A5bzU3QWRBc2RmYXlwUHhfTm9PX3o2UzExTXNlY0Z0MDhNTWN2T3doQmRyNU95azBmQ2RzamVaZzJDRzdIX0hfMlA3X0dDS09VTlZqcGg4SzNnNUx3clR5SGdrUGJCLQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 6.38,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-05T09:05:54.353101Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1820,6 +1785,50 @@
           {
             "title": "Nvidia (NVDA) Stock May Be A Bargain Following Data Center Regulation Fears - Yahoo Finance Australia",
             "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemZUbXc2MllpTkE0Q3JjNFhFSE0xTGlqbEFFYXJfZzZSczU1TEt6dWY3d1ZUQk4zcUFsNUt5Rld4OWoxYzBGSG9WVkNURFFIX1RNeEhVNDdvQklDY1RDYWFUeHcyVkVkbjNLYmRrUURGQjlSVkJqWXBERU9IZmQ4Z2FBaEs?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
+          },
+          {
+            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-09T09:16:07.829609Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 186.64,
+        "weekAgoPrice": 204.63999938964844,
+        "percentChange": -8.8,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Citi's Q3 Holdings: NVIDIA (NVDA.US) Remains Top Holding; Two-Way Expansion in Index and Tech Stock Options - \u5bcc\u9014\u725b\u725b",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWhKdkhjZ0xsN3VKTzVSOWp0UThUUzJIVW50R1ZUMWZUZjVIU0huazFYUjQ1RHJlVm42SjRGazdfa1NHRW80ejd3VEEtMlZrWkphaFdUdExCM0E1bENxazNHZjBBbkxsOFJza3RPRkJYR1hybGtlNk5sWHYtRFI0TDRTaUpKUFRuZFJQZV9XRm5TdW5rUzBvWGVFanFJNk5t?oc=5"
+          },
+          {
+            "title": "NVIDIA (NVDA) Faces Governance Concerns Amid Independent Investi - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORE1Nc1JwS1lZLURnQzZGSjgzNkI3Tkg5ZERJNzVZT1QzQ1dHMkRZeHE1WlAtYjNFcXNjVmNpXzA1a2pyYVVpc1FFdl8zLWxhVE00RlNnMDUtbGI0b29CeGFSdkJPQ2dMY2N2Q2l1MnIzZDl5VTVtZmJDUGFjREttLTNWZU94N2Y0ay1nZWMzWTZiSWtTeFFWNzVSaS1CT1pmb1hSZzVyeERyUlE?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Stock Acquired by Charles Schwab Trust Co - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWE1KLXd5QzIybmg2VTNKbkZLOExvd3RabllKWDZ5U1ZJUTVpZF8wYU5nY3JQTTQ5Q2R3VTRSWkZ4NzNaUGt0V1FSNWt6NDJEVFZ2TU9QTVBTRzQwSHJ5d2swSFo0em9Bd2lVb1llLXU1OXlxMG5ETmRMRlF4RVpxYnRaMUZMRmMzVEJOWlRDU1dhMHpMeUF1T1pjRzVoTS05OXpOT0xkUlFodWExc3B5R2lDMVB3QnFwVTdiWkFPajhkU0NR?oc=5"
           }
         ]
       },
