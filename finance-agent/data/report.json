@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T07:23:35.426962Z",
+  "generatedAt": "2026-11-09T08:19:12.331339Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "$NVIDIA (NVDA.US)$ - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wZUdWbGNTWGpDczU5UUFkdGttMTVTVWVlc1JTa3NxWV95a1JYRW1FaUZWeU5oVV9pc2JEb3QxUndEUzRkREplcE5ZSzdfRGwxS0lTd0VMRVJKaTFCeC12WGVrOG05c25tXzlyNGt4Ui1sVy0xZ2xr?oc=5"
+        },
+        {
           "title": "Jensen Huang's personal scandal combined with an internal investigation sends NVIDIA (NVDA.US) shares plunging in after-hours trading. - Moomoo",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0I1OEVXOHp6bkd2OHNHdmVuQkd0X0h2cldid0JNc21pSVJYQWo5VGo4TnNWVTFmSDFXeDliRUJhOU1CekE1M1h0R0p4a0FzSkFSUV9sc2w3UEVOX0dfMzhramdKT0Y0LU54dG9OUzAwakpJTnZSdmI1cF90X3kybE0xaWljVmpqYW9lVFgxUFRGZmJ2ZHJ2Umx3MmdPX2F5MUY2NDZpU0d1Q0NEVlpCTXAxRzZRUQ?oc=5"
         },
         {
           "title": "Nvidia (NVDA) Stock May Be A Bargain Following Data Center Regulation Fears - Yahoo Finance Australia",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemZUbXc2MllpTkE0Q3JjNFhFSE0xTGlqbEFFYXJfZzZSczU1TEt6dWY3d1ZUQk4zcUFsNUt5Rld4OWoxYzBGSG9WVkNURFFIX1RNeEhVNDdvQklDY1RDYWFUeHcyVkVkbjNLYmRrUURGQjlSVkJqWXBERU9IZmQ4Z2FBaEs?oc=5"
-        },
-        {
-          "title": "NVIDIA CEO's Scandal Causes Stock Drop (NVDA) - GuruFocus",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1l3aUloTk9lNEVGN2V4WFBUVnZQbXB1clp1c0Y5WFRPZFg2Z3BNVGFYLVpzUGhITTVSc2drbGVYYzRVT3RzNEVyQ0d5YWhJLVZSd2dITGlRdUZjOWQ3VmxwSTYyeUJlQVBQY0xEM2thWG14ZmJ2QjJobHJYRjFXcXhmcUpqNlFT?oc=5"
         }
       ]
     },
