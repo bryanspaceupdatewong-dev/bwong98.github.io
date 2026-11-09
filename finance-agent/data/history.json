@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-05T09:05:54.353101Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 200.13,
-        "weekAgoPrice": 215.3800048828125,
-        "percentChange": -7.08,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA Corporation $NVDA Shares Bought by Fagan Associates Inc. - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR0FHV3FoM3lDYkM1c0pndXZEVGZCTlUtdXlSdXoteDhTVDNTcGZEX09mX0s0WkI0aWFNZU5Wd0RTbjJFRzhWRmU4WERWN05LQTJ0anJKai1DMlphRTJNYnFPYVMxT2ZiZkVXTEllYnVzQU0zZkc1ZWNnUk1aRWNBZHdBelZ4enhMRzJ0SU5PQnlUZDV1WkR3Vkd3ek9jQzhCMVMzLUlmdEhMTVVkanQ3UmNwT3loMXgyVjh0c0c1QQ?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Stock: Affinity Capital Advisors LLC Grows Holdings - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVFJUF9tMnAwMmJ5WGJVOGQ0a1ROUnYwbDhXeC0yd3BJeW9QN1gxRHhIWkJweGU3Y1V2MjJ1bDdRQjNqdGtIME1fQ3QyRks4MWwyVHpUMUNDQWZpOUp4Mm5Wb1RhbEVuVzZfcEN2bjcwWmRScllpVkxqd1NtM3Y2dWVPMFhRRVpLLWI5b1loemhXQ3RBM280ZmJ1Zk5hZWhfdV9Xc1BTZTNHZF9jREpJUmhWcEdQZ2NWT0RqX2xTdmFCakdxZjJ6dl9LM2xJN2k2?oc=5"
-          },
-          {
-            "title": "Foster Group Inc. Buys 2,787 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ0FsdXJ2VTBWNFU1R3FuclJ2QzN0TGRxWHk1b3JrYTJrTFpyVFFUOWstdExZajBSQWd4UW1DNUVlMTRSUzVwZS1tQWpxdWFLZjhtd0c3ZnZLU2dELWpNdTFQQjhhdlA2eW1tN1dGcmNJeG9GSFE1UVR6aWtnRUZvY0tKWWhRanhBZS1nQTItaVd2UVh6NzJ3LTA5NS04TE5vMlZLNWlKaXk4U2ZLLUtwM0hoMGlFbmNTcVJXeGRR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 5.26,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 6.38,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-05T09:15:41.295196Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1829,6 +1786,50 @@
           {
             "title": "NVIDIA Corporation $NVDA Stock Acquired by Charles Schwab Trust Co - MarketBeat",
             "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWE1KLXd5QzIybmg2VTNKbkZLOExvd3RabllKWDZ5U1ZJUTVpZF8wYU5nY3JQTTQ5Q2R3VTRSWkZ4NzNaUGt0V1FSNWt6NDJEVFZ2TU9QTVBTRzQwSHJ5d2swSFo0em9Bd2lVb1llLXU1OXlxMG5ETmRMRlF4RVpxYnRaMUZMRmMzVEJOWlRDU1dhMHpMeUF1T1pjRzVoTS05OXpOT0xkUlFodWExc3B5R2lDMVB3QnFwVTdiWkFPajhkU0NR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
+          },
+          {
+            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-09T10:16:00.103515Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 186.64,
+        "weekAgoPrice": 204.63999938964844,
+        "percentChange": -8.8,
+        "flagged": true,
+        "news": [
+          {
+            "title": "$NVIDIA (NVDA.US)$ - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfYTJxS21DMGxmUmF5OWJnR1dOS05aVTQ1RXhGVnlrVnBWSHJZUVRtb245d1pLQnNmN0dEUEZ3ektYWkI4UGlwSXFMUjFDQkdnWUowSHFmX0c0dWNrZ2hScWpteUU0MUV4OUhJbDVXWjB1TjJDSE0w?oc=5"
+          },
+          {
+            "title": "Nvidia CEO Jensen Huang just made his already surprisingly cheap stock that much cheaper - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS1ByMHpJZ2IyT0NHM3hqQW9MSW5tQURkLXpvZGxSNFloMmVqTkc2Nm1RMHo5ZzctMG5pczlpcUN1YndnYW5OU3hZUE44a1RvWElCVGwxZnVWdkV4MENhYjVWLXpXUTQ3OEJjMEZiVGtiS1plQkRyMTMxT0lBS0cxYUltYUdXQUlITmNWUWFYQnNQZUlHWXJndXQ0WldTLU1yX18zWVI1TldXZFFaMjh0Y3dyYmQ2cjB1OFNsa2Z4NFFENWdzMldzRkptTHJJQ0ZPb2dNOXVmOTZOYVBOVmt4YUhtTXZranc?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation $NVDA Stock Sold by VMS Asset Management Limited - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSlljV2dDaUFxaGtrc2FNNUtPOHVya1lHM0EySUxXR2tsdUhPb052RE80dGkzUEhLQ3dGN0RBRk5EMXZnWWlud2Q4LUhrZndTT281THdNMm1ReE9OUHhfc3ZkNjFLM21UU19qMmZRR1pDaE5zUk1LWFdzb1lkSEo3ZDBJVUlJUS1sMTdla2lZeC11S2VGdDlCbFhEMUtIOTJsdXF3SXZZMUQzdFR0VVBkYm4tbDJEWEJCNnhQSWh3UkR5UjlvTXc?oc=5"
           }
         ]
       },
