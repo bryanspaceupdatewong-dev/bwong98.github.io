@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-05T19:16:02.606818Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 184.06,
-        "weekAgoPrice": 213.66000366210938,
-        "percentChange": -13.85,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia repeating Cisco\u2019s fatal dot-com playbook, George Noble warns (NVDA:NASDAQ) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2JuV1hwc0t2djYzNzBCX3VEOGVUdmMwQk5QXzQ5ME1rejRvWGZIc1JuZXEyOTNpRmxicTdSZ193OXQ2VkNieF9kVkE0WGhuOGdDb3kxZkd0cnhaOEJUUXVsdi1tdHBoWFhDZFpmVjFSOHhGdUt4djZjRk5VWkc5cDVrTnQ2RkRXUTdDcmhNLWl3aGpSUzFKajB1MmpQajBKZXI0bnBsVQ?oc=5"
-          },
-          {
-            "title": "Not Nvidia. Not AMD. 2 Chip Stocks I'd Buy Before the End of the Year. - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbk04S2hZZmNzbEVxTWY5ZXh5ay1DX0RNRExSN1l2ZXJYMHNoTy1qcU5oc01OSWpvY0kxLVdrTjkyQVphUnZZdTZ4dFdmRThicUZBUHhhd0FpUEhERTNPYnplSk9meC1Gd0lMcHVlQ0ZpQVNlaUEyNHpJd3pBUk5lanZUWjM1LXVQLUI1M3RqY2d2SGZx?oc=5"
-          },
-          {
-            "title": "Stocks making the biggest moves midday: Micron, Tesla, Tripadvisor, AppLovin, Nvidia & more - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3FKb0tTczRZcVFtbklBaFp2WWFCSU5zR1h3UEdPSERONW9PYUFhMmZ6aFV1U0Eta0ViYV9mM1B4NWVBTU9ELXByNm9aNVVYaDBhQXJtN1dDTzRzVUMycTUxaFA1aUw4aFE0Z1RrRDhtT0NLbDN3R0I3ZVY1OW1qaG9BUF9QLUFCampwdVp0U1RHUzRIZ0R3eFB1d2Z3Zw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.96,
-        "weekAgoPrice": 4.710000038146973,
-        "percentChange": 5.31,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.2999999523162842,
-        "percentChange": -5.38,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-05T20:16:03.417429Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1923,6 +1880,75 @@
           {
             "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+          },
+          {
+            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-09T20:16:33.927888Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 547.82,
+        "weekAgoPrice": 507.1199951171875,
+        "percentChange": 8.03,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MSFT Nov 2026 530.000 put (MSFT261109P00530000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zazJzbnBIVW16SzBvMXZZdTVVaXEtVlRGVVJKXzdOWnc0WkdBb2x2UkJ6ZDF6V1N3cWFreVBKMzE2SnpkYlRLOTk4VE5zakNPMmVyUXVUQlowOHc0MDllR1hjNkRKQQ?oc=5"
+          },
+          {
+            "title": "Microsoft Corporation (MSFT) Stock: Jumps as Northern Trust Unveils AI-Powered Onboarding Agent - Blockonomi",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNREExSVVWdkhFVlNrSkl2TUFOSXU3YzBUMkVtbFEyQ0Fsb0JlajB6YlY3WUpremdMWGwwSUF3VTZ1MmdXcEMxQ2ZmUURIQlJTREw0Qm5Pb1NrVlZLdFF0ak9TYWY5QUNIem9lTm1EQUN4Nm85dFZUY0FmRXFxYlNoSjVrZXUxcWlIc2ZOSl9YaVh2clNidmZ2UmlrS3lmZmhYZjByU2cxQzNYR3pGOWRFVUd3Z3ZtLWc?oc=5"
+          },
+          {
+            "title": "Microsoft Stock (NASDAQ:MSFT) Gains Despite New, Overzealous Outlook Security - TipRanks",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEhMamI2YjVpOVNWUHJ3WDdPZ1hGa2xKMnhETTB0Uk1Yd0l1OFY2Sk5TanNoaExwR00yY0lKcHV3Q2JEVDlhbWpLUE80SV9LTno1T0NRdVBMaFIzZDR0LWN5VnhlcVlXLVhtbUlhQ0cwZkI2N2FhZGtWRU5heF9VMFMwZ295eDF4TnNSSVp1eE9hdWdpbThEaW1ZX0NnUURxOHFFMV9B?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 177.85,
+        "weekAgoPrice": 202.05999755859375,
+        "percentChange": -11.98,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock market today: Nasdaq rallies despite Nvidia stock slide, Dow and S&P 500 rise as AI stocks rebound - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdG53R1lmOWxNelNURjQwQjh1a25leVVnRjdkU2lrX2VDemx5VDlJdk56Y24zeXE3dzVOdGtETjlEblo1UGNxdkRXQkR6UXZrT3VVU0pNamhlM0RpMldLdXhxSEdEUnF1WXo0MVZLLW4zb28wclBSdE5ZWmJ6aWVnelpVWUxjcTZLZ1pKNGhpNUVCREExWnJJV3JDMzVFQUF0V0hud2ZYSUJnTVVRV0diNFdpanlSZw?oc=5"
+          },
+          {
+            "title": "Dow rallies 1,200 points, Nasdaq jumps nearly 3% as stocks climb out of postelection slump: Live updates - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5"
+          },
+          {
+            "title": "NVDA Stock Attempts Recovery after Breakdown on Nvidia Board CEO Jensen Huang Investigation Over Alleged Espionage Target - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMjZMQ2ZDVGNGeFZCblVUWjdZNktzcjJWeGtZb21vNFpsLWFlWUZVUDlhcGZQZEl1QzJKQnBVbFduNnRSWVFpXzdDeEw0TlRUNmpUTzViemJGb0M0RHozZW96RkE1UnNZWkNOa3lBYzlKUmV3U25rRXlkLTdFZ0g1dVROOS1IT05sN3dRQ3htVnQ5U0JaaUpfVUlhY3BTQnFVZ2pvU0pyNnhlejA5bW5MSUlPY3VaQjBtZ3BPckNyU3h1TVpJNmdIb0lBdkxSNnJkQ3IyVWwyazlmcmhmdFFmcW9HcUJYNXlJdXlFMV92NUt3cFdnNDNGaDBn?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+          },
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
           },
           {
             "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
