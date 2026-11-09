@@ -87,7 +87,7 @@
       "previousQuarterLabel": "2026-06-30",
       "previousQuarterEpsActual": "0.01",
       "previousQuarterEpsEstimate": "0.02",
-      "reminderSent": false
+      "reminderSent": true
     },
     {
       "ticker": "0397.KL",
