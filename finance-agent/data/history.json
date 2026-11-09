@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-05T01:16:28.675496Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 200.13,
-        "weekAgoPrice": 217.94000244140625,
-        "percentChange": -8.17,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5-star analyst resets Nvidia stock target after Intel crash - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjBPWWFHbG9sLTVSR0lBdUdhXzlNQ3ZIcmphN2JFMzc3YUJ2NXJoalNDN0FSTHVSNy1VclNHYkNJU0JVMFZaOGZ4Q2FqVG1YUVNWdTZfTm9PVG4wTGh6VEN1MXVYTnRGZGt4YnVyaTBYa0RvS3p0cDlhbUJ6aFh5SVZXSUZKLVBpbEJ2M1N3VU1waWZUZDlhTg?oc=5"
-          },
-          {
-            "title": "Here's What $10,000 Invested in SpaceX and Nvidia Could Be Worth by 2030 - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSE4wSFl6RV9ydGswcmZMdldKSFVQVW1PajBXQVRuQVczblpzNXZqdGI2SG9qejBnU3A5bzU3QWRBc2RmYXlwUHhfTm9PX3o2UzExTXNlY0Z0MDhNTWN2T3doQmRyNU95azBmQ2RzamVaZzJDRzdIX0hfMlA3X0dDS09VTlZqcGg4SzNnNUx3clR5SGdrUGJCLQ?oc=5"
-          },
-          {
-            "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 3.2% - Time to Sell? - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3M4bnZ2ZnpTM090RVFUUHR2bUNkV3Fqb0NpYkEtSEtaRkxYTGNaZ1dqNXR4Ynh6UVRBbC1kci16MnhVeFFQZkhJbVU1TXh2ejloeEgwOWM3M1VSZTB1RDIwN05QU0JPUTlmeXQ4cHp1VUp0RGVhdzNxQld2ZTkxdDZsNFBfb09XcTdEZU1PNVNlWGYzVFBHUUpmNk9qYjJSYjVoVWJzUzdsUQ?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-05T02:16:25.937867Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1773,6 +1746,46 @@
           {
             "title": "Nvidia Board Investigates CEO Amid Espionage Allegations, Pressu - GuruFocus",
             "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakNDR1FvWEx3Ty1rdFpENWVXdXh1M2gwU1RRbkNtS3F0SzNNbmJKRmxVOWtNSDFxOFJCLXoyX0JJWDFpZmVqeUhGVmtvR0JqbUozclNzN3JuZ1Vpc1ItV05NTlU1WWFiVHpyLVBuRTI4dWFSRWxkSEVnWlY5MDFOQ1hJU3Job0QzVE5zQTlpYkdPdi15SGQ3WHhPTWd5UWlMcmZTQjlfTWtCSWxqaS1XV3lHa0YtaU5LQXc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-09T02:15:45.271554Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 186.64,
+        "weekAgoPrice": 204.63999938964844,
+        "percentChange": -8.8,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA, PLTR, QCOM, SPCX, MRVL: Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQWNtdHJodXZrQmROVXNTLWhEX2lIMWF1R3d5NlJVcUhHTnU1TWw5Wm4tdnR6dEw5LVZOT1hwMzRiR2lITi1MUnVZdFJkZ04wSGZ4OGVUWm15cnkxdktNYnExT293Um1vc3NxMnRoNHp3T0YzaTFITUhXdnJVOGk0XzctdXRtRmF6VENhZklXTUE0c3c?oc=5"
+          },
+          {
+            "title": "$NVIDIA (NVDA.US)$ - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmSktWcGF2VmR2YkxUNWt4MUwyY2k3cHRvWmh0ay1FclU4MTg3ZW51ek5fOGlpbFhhanN0M2Y5R2lCLUtkOUVIaGtrNXNIZWVEZnBPWUpxRExWSW8ta0RGS1VHLXYzeXZnV2hzdUU3UGZXTm1WTGM0?oc=5"
+          },
+          {
+            "title": "Nvidia\u2019s Board Just Opened an Investigation Into Jensen Huang. Here\u2019s What History Says Comes Next for the Stock - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUJLMHNZczFqNlVVRmNmV0hLQ0JvWldBMUltXy1rSlpVMlkyY0xLb1ROd21GQUpmQjJJc04wLU80UmpCSll0dHdRSWYxSGFSWlJJeFNiY0ZDZ3UxQ2taRl9vZjZkRHM1LVF1dHFFUnZlWHJiaERta0FtUGFxb2FjX01VQTNIdXZLSDlpdFNqM1pES3JhMUtpSGRqSjFrZVZaSWo3cF9B?oc=5"
           }
         ]
       },
