@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-05T04:15:35.033416Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 200.13,
-        "weekAgoPrice": 215.3800048828125,
-        "percentChange": -7.08,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Dow, S&P 500, Nasdaq Futures Mixed After A Democratic Sweep In Midterms: NVDA, MU, SNDK, NBIS, IREN In Focus - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObldfcGFoek5LN0JQa25GZXpDbU13VkVyZlAtSHhOdGVBZTZHQ19Cckx5MmttYVllRW5nVVdFMEMxUXN0YXlYTW9jcXVwQzVsUUxJcmp4ZVpfQWpDZ0lNd0xPMmNsNHhwb2FjVHljR2tjTW51WDNUaXM1bXVOdjNFTnVrNEpZTWNSaHdhbWNQbk5wajg?oc=5"
-          },
-          {
-            "title": "Here's What $10,000 Invested in SpaceX and Nvidia Could Be Worth by 2030 - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSE4wSFl6RV9ydGswcmZMdldKSFVQVW1PajBXQVRuQVczblpzNXZqdGI2SG9qejBnU3A5bzU3QWRBc2RmYXlwUHhfTm9PX3o2UzExTXNlY0Z0MDhNTWN2T3doQmRyNU95azBmQ2RzamVaZzJDRzdIX0hfMlA3X0dDS09VTlZqcGg4SzNnNUx3clR5SGdrUGJCLQ?oc=5"
-          },
-          {
-            "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 3.2% - Time to Sell? - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3M4bnZ2ZnpTM090RVFUUHR2bUNkV3Fqb0NpYkEtSEtaRkxYTGNaZ1dqNXR4Ynh6UVRBbC1kci16MnhVeFFQZkhJbVU1TXh2ejloeEgwOWM3M1VSZTB1RDIwN05QU0JPUTlmeXQ4cHp1VUp0RGVhdzNxQld2ZTkxdDZsNFBfb09XcTdEZU1PNVNlWGYzVFBHUUpmNk9qYjJSYjVoVWJzUzdsUQ?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-05T05:15:40.826668Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1796,6 +1769,46 @@
           {
             "title": "$NVIDIA (NVDA.US)$ - Moomoo",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90aDM1UDVuNThHZm9IaVhvM1hjUE02VlpvY0thcDd6THhzeDhMbms4WllIUUdud2xQWmt5cGtKZ0ZpLVpiM0tXc1RJLVI4N0RwQThRQ1lQQjNVMlp4QUQ5TGRvNVRVa0dkY1dKZVUtLVBlWW1Rbmxv?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-09T05:15:47.285937Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 186.64,
+        "weekAgoPrice": 204.63999938964844,
+        "percentChange": -8.8,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA CEO's Scandal Causes Stock Drop (NVDA) - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1l3aUloTk9lNEVGN2V4WFBUVnZQbXB1clp1c0Y5WFRPZFg2Z3BNVGFYLVpzUGhITTVSc2drbGVYYzRVT3RzNEVyQ0d5YWhJLVZSd2dITGlRdUZjOWQ3VmxwSTYyeUJlQVBQY0xEM2thWG14ZmJ2QjJobHJYRjFXcXhmcUpqNlFT?oc=5"
+          },
+          {
+            "title": "Korean AI chips will connect to NVIDIA\u2019s platform. Systems are expected to be ready in 2028. - Stock Titan",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMzJmMEk1LWg0RmF6MEpBcGN0UzMzUEtxVUNTSlhuajRNZ05na08zaEtaWEFxbXRBSjExMHVic0lVaUpJS1VKWGJNQVAzaE9hOEQ1TWZuRDVVa29vVEZQQzBpdnEyVGd5SGVwWEZnQnF3eTdRSDNHcHhIM3UwbGt4TzBicXZYY3FhQVU3cERVVzZtdU5vRDFlUFJpOHprVWxMUWRNZHdDMzR0VEtOS0lObjAxOGx4U3ZzZ3BDdzVn?oc=5"
+          },
+          {
+            "title": "NVDA, PLTR, QCOM, SPCX: Nvidia Fell 8.8% Amid Board Probe - JournalArta",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSHBzTXVzMGdKMXJCVGJ6QlNGeFBKa2Y4X0dwNG5XNTVheTN5UmZncmFtVG1KZUtpaTdhc1k0XzVEQlRkNExyN0JDNTlfLTg5RGF6QzF5eWFtT2tKaHNEdmNHTlpONWdMSkxSQlNYSi1xNV9ReHVSbVZXNlZDN18tOVExaUxGX3JjdWc?oc=5"
           }
         ]
       },
