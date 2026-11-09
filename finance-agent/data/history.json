@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-05T13:22:03.027596Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 200.13,
-        "weekAgoPrice": 215.3800048828125,
-        "percentChange": -7.08,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock at $200: Midterm Chip Sell-Off, Bear $180 - FinanceFeeds",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzFFRXkxdTVGNUJ0aVZhc3VYOUhLUWZ1cEU3alhtTHpVLWgzTkdTZGRyR0Qyb2hXTzNQakFBZXNqa2FRT3BQQkJaU19IeEJpM1dZbHdrTVQ5VjZIdFhEVU5HcHd6aVNIdkhCanAzSWVDcjhZY3lwYWZBbmpJck9CdG5JUUp2X0h5NGxaZTkxODlxU09zZmRPbnF3UjQ4VXZrMi1LZHFxVDR5NFhnaWhIc0NwMXoxSzFkbWJTeUhWbw?oc=5"
-          },
-          {
-            "title": "What Is Going On With Nvidia Stock on Thursday? - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWQzWjJ3QVVxa3M5eGtQemMyZm51aFZ4bXVmZGhiOXlfN0VtR2tWSmhsd0lsUjRjdW9lTW9vczQzd3ZSNFFqTHBwMjlSUnJGOGxUcElGRW1xbzFNRDZxNk1kcURqMUJBVkpqZ2xUSUEwSC1adVZDaFkzclB5RzJXczN5OGZJQ0paM3FzTEMtM2thcVl1c3ZRNzRXRFM3Tm5hYlBPOUF2eHNibVE?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Is Back at $200. What History Suggests Is the Floor. - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EQVhFU0ZMU1p3Yk13SUJ2NjdNTk1JeWcwTnNsZjI2d3V3Mi0wZEZIUUYzbEo5dTN1V2UtMy1PblNYa1Y0MXhjQVQzYXN6OGlTOUUxQmRCMDc3dFZmZlhrSjl1Slh1Q1BDVE1yN015Nk51Zkpq?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 5.26,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 6.38,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-05T14:18:07.717315Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1834,6 +1791,50 @@
           {
             "title": "Nvidia stock sinks 5% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObWVFY2cxQURmMnJ2aWFxSlRfeFJzeGJDOEhxbjVqUWVpMU96Mm4wcFNBVG5BaVdBZUIwYnN3WXNsWEZld000V1ZrMl9SR0pVZFB0a21rTUV1U3NJajhTUTN6bjBmVmtIQmhtRWxyV1dyemhvcDFrT1J5TmItcGJyVmt6VGY0VW9nZVBVZ2RIalNEOUhKRGRybVgtdzBPMkpzRTBicXpTaGw3c29vUXhiR21hVmVlWk10NzgySGJwbV9MSWpLeXVpT2hJT1FqU05XTXlZMGQwS285QlhudnBJdkhrMGlRbVJsX0h5alBn?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
+          },
+          {
+            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-09T14:21:22.329536Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 186.64,
+        "weekAgoPrice": 204.63999938964844,
+        "percentChange": -8.8,
+        "flagged": true,
+        "news": [
+          {
+            "title": "4 stocks to watch on Monday: AMD, NVDA, NRG, and RTX - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjUySGtxMmltUnBoTWNMZEMwLTVIU1hMeGtaV3pRSTdTWmdBQWNnclZ4R21FU2FGam1uamV3UU9WRXc1SHg2SGJjdlFTUGtDb1hPS3EyYUs3SDE4X0x1MnpIM2dadWpsVENpc2xsYzRKLUIxNVAxZTJxUlpPSDMzQ3RLWERqT0NqMW9jZkVB?oc=5"
+          },
+          {
+            "title": "Nvidia: Allegation-Driven Dip Creates A Buying Opportunity (NASDAQ:NVDA) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZnZWSUlXZDlCY0o2NmNMLU9XVEstdVBIclVnSnN2cTZiNlMxU011eTF2S2NQRWJsQkUtWnltb1AxOTgtbVpHTERTZlhjZlp2N2RMLUc5cFQ4eGVuc3ZGU1dCN1dNM1p4Wk1UYTQxeVYwYmo4SEk3Z3Bpa3I5NE9DeXRkaTh6OXYwU2ZRMHdmTmZULS1ISWxvb2hraVRaWUk?oc=5"
+          },
+          {
+            "title": "NVIDIA Falls 5% as Board Probes Jensen Huang\u2019s Ties to Alleged Chinese Spy; AMD Rises 4%, Intel Holds Steady - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaV9nRm1SQWN2dDdvdU0tcl9XTUViWGRoZUNDTDI2VXd1ZkZFR3U2ODh1VGF6WlgzaGU5WVlTR2VFeGFNWVktQnFlTXFlOG8tX29nVm1idE1IbWNHZWNGMDNzVHNVQWkzdnRPNU9GanE4YTdtNUF2bHlzQ1JZYWluQW1BbHRFOUgwY1lkcTRpUEtUOFVuU19B?oc=5"
           }
         ]
       },
