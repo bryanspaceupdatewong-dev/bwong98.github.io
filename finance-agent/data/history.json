@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-05T06:16:12.167976Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 200.13,
-        "weekAgoPrice": 215.3800048828125,
-        "percentChange": -7.08,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Dow, S&P 500, Nasdaq Futures Mixed After A Democratic Sweep In Midterms: NVDA, MU, SNDK, NBIS, IREN In Focus - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObldfcGFoek5LN0JQa25GZXpDbU13VkVyZlAtSHhOdGVBZTZHQ19Cckx5MmttYVllRW5nVVdFMEMxUXN0YXlYTW9jcXVwQzVsUUxJcmp4ZVpfQWpDZ0lNd0xPMmNsNHhwb2FjVHljR2tjTW51WDNUaXM1bXVOdjNFTnVrNEpZTWNSaHdhbWNQbk5wajg?oc=5"
-          },
-          {
-            "title": "Here's What $10,000 Invested in SpaceX and Nvidia Could Be Worth by 2030 - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSE4wSFl6RV9ydGswcmZMdldKSFVQVW1PajBXQVRuQVczblpzNXZqdGI2SG9qejBnU3A5bzU3QWRBc2RmYXlwUHhfTm9PX3o2UzExTXNlY0Z0MDhNTWN2T3doQmRyNU95azBmQ2RzamVaZzJDRzdIX0hfMlA3X0dDS09VTlZqcGg4SzNnNUx3clR5SGdrUGJCLQ?oc=5"
-          },
-          {
-            "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 3.2% - Time to Sell? - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3M4bnZ2ZnpTM090RVFUUHR2bUNkV3Fqb0NpYkEtSEtaRkxYTGNaZ1dqNXR4Ynh6UVRBbC1kci16MnhVeFFQZkhJbVU1TXh2ejloeEgwOWM3M1VSZTB1RDIwN05QU0JPUTlmeXQ4cHp1VUp0RGVhdzNxQld2ZTkxdDZsNFBfb09XcTdEZU1PNVNlWGYzVFBHUUpmNk9qYjJSYjVoVWJzUzdsUQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 6.38,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-05T07:16:06.975928Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1824,6 +1789,50 @@
         "percentChange": -5.43,
         "flagged": true,
         "news": [
+          {
+            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-09T07:23:35.426962Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 186.64,
+        "weekAgoPrice": 204.63999938964844,
+        "percentChange": -8.8,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Jensen Huang's personal scandal combined with an internal investigation sends NVIDIA (NVDA.US) shares plunging in after-hours trading. - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0I1OEVXOHp6bkd2OHNHdmVuQkd0X0h2cldid0JNc21pSVJYQWo5VGo4TnNWVTFmSDFXeDliRUJhOU1CekE1M1h0R0p4a0FzSkFSUV9sc2w3UEVOX0dfMzhramdKT0Y0LU54dG9OUzAwakpJTnZSdmI1cF90X3kybE0xaWljVmpqYW9lVFgxUFRGZmJ2ZHJ2Umx3MmdPX2F5MUY2NDZpU0d1Q0NEVlpCTXAxRzZRUQ?oc=5"
+          },
+          {
+            "title": "Nvidia (NVDA) Stock May Be A Bargain Following Data Center Regulation Fears - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemZUbXc2MllpTkE0Q3JjNFhFSE0xTGlqbEFFYXJfZzZSczU1TEt6dWY3d1ZUQk4zcUFsNUt5Rld4OWoxYzBGSG9WVkNURFFIX1RNeEhVNDdvQklDY1RDYWFUeHcyVkVkbjNLYmRrUURGQjlSVkJqWXBERU9IZmQ4Z2FBaEs?oc=5"
+          },
+          {
+            "title": "NVIDIA CEO's Scandal Causes Stock Drop (NVDA) - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1l3aUloTk9lNEVGN2V4WFBUVnZQbXB1clp1c0Y5WFRPZFg2Z3BNVGFYLVpzUGhITTVSc2drbGVYYzRVT3RzNEVyQ0d5YWhJLVZSd2dITGlRdUZjOWQ3VmxwSTYyeUJlQVBQY0xEM2thWG14ZmJ2QjJobHJYRjFXcXhmcUpqNlFT?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
+          },
           {
             "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
