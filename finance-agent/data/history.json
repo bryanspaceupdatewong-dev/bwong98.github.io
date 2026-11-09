@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-05T18:15:35.128603Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 183.053,
-        "weekAgoPrice": 213.66000366210938,
-        "percentChange": -14.33,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stocks making the biggest moves midday: Micron, Tesla, Tripadvisor, AppLovin, Nvidia & more - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3FKb0tTczRZcVFtbklBaFp2WWFCSU5zR1h3UEdPSERONW9PYUFhMmZ6aFV1U0Eta0ViYV9mM1B4NWVBTU9ELXByNm9aNVVYaDBhQXJtN1dDTzRzVUMycTUxaFA1aUw4aFE0Z1RrRDhtT0NLbDN3R0I3ZVY1OW1qaG9BUF9QLUFCampwdVp0U1RHUzRIZ0R3eFB1d2Z3Zw?oc=5"
-          },
-          {
-            "title": "Why Nvidia Stock Is Getting Punished Today - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXQxOFdjaGRGZFVFS1M1ZXZyWWJlaFdHZ0FFZ0l2cjB3TlRQNk51SThNUDFWSnFZcTJ3U2VsdzZ3cUtsTG00ZlRuSmZ6QUdqdUJBek5WRjhUdjhhQTZNT2UtbTNXM2Q2Ym55QnMwaDNIVnRRTUlkaTJFWDZlZWFVaF9FYTh0clhMLVZnVEpEQ3pGcFJ2M2lWWHhFN2J6ZFowRHRLUnBtcEE2TzZQR1lQWXRHVFVFRlJiejRZYVN3?oc=5"
-          },
-          {
-            "title": "QQQ stock today falls over 5%: Why Nvidia (NVDA), Qualcomm (QCOM), Intel (INTC) and Marvell (MRVL) are dra - The Economic Times",
-            "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNUZDc2RzT3FCTWFKdUQ4ZFhZVUN4MkpyYmw0eERwVkdXV0p3d2ZJcU42dmQ1bTlTaDRrX2h5bklMU01kMTNNZUlnWmJfV0JCTURsbTVtdzBpTXJpQ3RqbVZSTWp3UG9wbjIzNjhkdHFzTUtIbUQ1YlQ0S19DWmxCWkpmbGJiSk5STFE2dE4yNGFqMm5icExzQVdMc2Z1UVhoTEdjcHc3Ny0xZzNmaXFoM1hlV2MxaXJwTnlXYjNHcUN6eDFydThGSEdseE5RUXRraEZwakF2RElZRDBGbTI4NGEzb1NmaEJRSnluSjEyZV9uZVd1TnpkblJWdGpDTjgyQkI0X0JtNlpMZFlXMGt4WVRGRlVjMUp1TUZaWW9yRzdhZjZE0gGqAkFVX3lxTFBLMXVmTVB6cDhmdWYySEQ5SG56ek4xMXkwU3o2WkpnaVBsZWFsLUR3X1NFWVFkMkJkNzRHYXJ2aFAySk5CWGlibnBMZFBCd2VkMnMwcUJVNlBpZjFqNTBVOVhZSHBiRjEwcmNOcXdCbzY0NUZsdF9VZWJlbFl0Q25LSG5oQzR5NjlMNTN4eThJRmJ1anAxcnk5SWN2Q3ZwMEl1LXNvbnVyZ19IcGxQclVPOXVIOUlwQnJ6NF9kclpZYU1FZmRNU3lNbVpvRVM0RktGWmxLWlNkSE1ndExtS082cGJsTGVTc000SHM3Z0s5ZlNFVVVGTUxFSG5PN3R5VFRUb1dibkZjb2REZDhhTlpSanZyaUJ1SW9IdnBxUXdXOVFvVkdSM0stNFE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.96,
-        "weekAgoPrice": 4.710000038146973,
-        "percentChange": 5.31,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.2999999523162842,
-        "percentChange": -5.38,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-05T19:16:02.606818Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1888,6 +1845,71 @@
           {
             "title": "Stocks making the biggest moves midday: AST SpaceMobile, First Solar, Coherent & more \u2014 Live updates - CNBC",
             "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBETjEzVzFLTXhVVm5IMDQ2YS1uRTV6UWFtblVkY2xhZ3BzclA5dFJ5WFJkbklySl9ZMDZQZXRGWE5ZV0FJXzN4X0xpdU9yUFotUllSTk1UTVpscU5MeDM0RzFFQ1RYcHVkbjk4TWlnSGozT0NpaXRCbw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+          },
+          {
+            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-09T19:15:52.590190Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 545.265,
+        "weekAgoPrice": 507.1199951171875,
+        "percentChange": 7.52,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft Corporation (MSFT) Stock: Jumps as Northern Trust Unveils AI-Powered Onboarding Agent - Blockonomi",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNREExSVVWdkhFVlNrSkl2TUFOSXU3YzBUMkVtbFEyQ0Fsb0JlajB6YlY3WUpremdMWGwwSUF3VTZ1MmdXcEMxQ2ZmUURIQlJTREw0Qm5Pb1NrVlZLdFF0ak9TYWY5QUNIem9lTm1EQUN4Nm85dFZUY0FmRXFxYlNoSjVrZXUxcWlIc2ZOSl9YaVh2clNidmZ2UmlrS3lmZmhYZjByU2cxQzNYR3pGOWRFVUd3Z3ZtLWc?oc=5"
+          },
+          {
+            "title": "Microsoft Stock (NASDAQ:MSFT) Gains Despite New, Overzealous Outlook Security - TipRanks",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEhMamI2YjVpOVNWUHJ3WDdPZ1hGa2xKMnhETTB0Uk1Yd0l1OFY2Sk5TanNoaExwR00yY0lKcHV3Q2JEVDlhbWpLUE80SV9LTno1T0NRdVBMaFIzZDR0LWN5VnhlcVlXLVhtbUlhQ0cwZkI2N2FhZGtWRU5heF9VMFMwZ295eDF4TnNSSVp1eE9hdWdpbThEaW1ZX0NnUURxOHFFMV9B?oc=5"
+          },
+          {
+            "title": "MSFT Nov 2026 525.000 put (MSFT261109P00525000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYWlM3bkxnLUJtRWx0d1c2UGVaZ0tNRlJWLUQ2QzJMdEhLRTZZVkJJU1Z2dmJSY1pSbmgxbDBIU2ZLZW1Zb19zTE4xcGtrY0otZDNkeDVWY3dJZ1RsQ3JOTktfU3JJUQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 176.12,
+        "weekAgoPrice": 202.05999755859375,
+        "percentChange": -12.84,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Dow rallies 1,100 points, Nasdaq jumps 2% as stocks climb out of postelection slump: Live updates - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5"
+          },
+          {
+            "title": "Nvidia: The Jensen Affair Saga Is Just Noise (NASDAQ:NVDA) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbG5yLXZZd1NjVVZSSDVRamVSNUt4OVpfbmxNNWowWG0zM09EY18tc3pFenI2UUdUcFducW5zcGlEakhlcDZGbkxmaFBaWm1pNUNFYlUxTDRNN3lZTm5qYmg0UGpYS2k1XzNFbjZxNk5WZUMyQTVzVWF1VGFtbVhaXzZNSkVEeWRYa1hNZg?oc=5"
+          },
+          {
+            "title": "Stock market today: Nasdaq rallies despite Nvidia stock slide, Dow and S&P 500 rise as AI stocks rebound - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdG53R1lmOWxNelNURjQwQjh1a25leVVnRjdkU2lrX2VDemx5VDlJdk56Y24zeXE3dzVOdGtETjlEblo1UGNxdkRXQkR6UXZrT3VVU0pNamhlM0RpMldLdXhxSEdEUnF1WXo0MVZLLW4zb28wclBSdE5ZWmJ6aWVnelpVWUxjcTZLZ1pKNGhpNUVCREExWnJJV3JDMzVFQUF0V0hud2ZYSUJnTVVRV0diNFdpanlSZw?oc=5"
           }
         ]
       },
