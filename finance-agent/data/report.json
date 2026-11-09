@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-11-09T15:20:09.167695Z",
+  "generatedAt": "2026-11-09T16:18:01.243789Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 542.117,
+      "currentPrice": 540.12,
       "weekAgoPrice": 507.1199951171875,
-      "percentChange": 6.9,
+      "percentChange": 6.51,
       "flagged": true,
       "news": [
+        {
+          "title": "Microsoft and Northern Trust use AI to cut client data prep from about 2\u00bd weeks to 3 days. - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjdjaFVEclMyQmY5ZW0xZ25mOFJ1RlJRVGVGV1l1c2IzdEE2Q0I2RVZlcG1uRnk4cXJURzhmT0p3QVZmUDNoVk5GdEJVbHF6ZnlwTEdYUldyNzVFTTBoT1hETTJuelFJclY2UU1aU1lqQ0x0MVNlZHRGLVlnZzlaUjFOZEZNMGNZS0x4UlhvWnVOTWtFUU1XMTJ1MUtaWXlwZ2J0RkNfcHB2MWNmdzlhWnYzQnE5UQ?oc=5"
+        },
         {
           "title": "Nebius Stock Ahead of Q3 Earnings: Should You Buy, Hold or Sell? - The Globe and Mail",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd0JnQy1ycXRSM3RseUZIeVJESlYwUC1oOFZPeUt5M0FwLVRDdm9qT2k4VmYwdzRQLXR5YTR4S2dmeWZYNnlhWUN6czE5MnRoZHVjMjNUTzc1V0plbVNveE9FSG1SaFoycVYwS0t1cnRiSmNuVG5NN2x5bm0zS2hhUHF4SEg1Rjk0a1FCSnZTNXdjdmVROUU0c0NUQUpxMVRDV1ItRzlnc1lGTzJXbjNTdlBFb2N0bXB0MVJzRnNfcmdDRGdWVmNYZE15Y0tRdnpPMjIyTmJaMVV1dGd5V3g4?oc=5"
         },
         {
-          "title": "ETFs Are Net Sellers of Microsoft (MSFT) on Nov. 5 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajREVXB1X0Fpa25Ha3Y2Q1ZuZTlMNTlpay1oU3pwR01vNVdNWlZaOFRNdFljelFDOUNpaDlkdkUxeFdZY3N2RVVGMFJhSnpuTWlNM3FOajdMWEQwN3pJVWxvWG9tU3k5Qno5LVF0TzRfTl9uVWloLVBBYmE4aXkyOHV4QnVMLVdPY0U4LUFZemZoNVJ3V1JUZlBqWkg?oc=5"
-        },
-        {
-          "title": "Microsoft (MSFT) Stock May Be 33% Undervalued Following $25 Billion AI Bond Raise - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGEwcGgybldTbnNVZ1RsSWdzYV9mQUotWXY3Uk9BelFWNm4tMG5mc2IySFRKNzJybHIyaDNqVms0aFBSWV9sSFNQdkxBQTlOY1pYYzN5Nkw2S25wU044UGtvVjAtZUlObGtDOUNhVjNuTjlXVVBJQWYyT0xJVkpCdjdyc2dKc2FienVCSUJuS19KRXRWd21DS21rTE9adnROWU5PRmY0MXVhZ0ktZEJBTjRUbm9yZGh2bW1vTHRxbjZuV0luTWJj0gHMAUFVX3lxTE9ENkxxeWFQZG1qc2xkRTdvRnZ4ek1IS2pCZG9BYTFSSzZlckJzcjFsdE45TVNrWllNX25jU1dMdWdRVEgzMjE2a1BvdGRjbU5JUTltYVpLQWF2b00wTmQ0Zlp0OEFMalNERElPdThEdjdsTUZUYUN5clZxRTFTTF9Mb0lhYzQ0b1VMdlhMdEE4R1pYbHZYbXhqVTAzU0M4SnJTU2FBeDJOUFFPU28wMXl0eGhONGdYelAtcUtBdmZIcmVaUThYRFEzNDJhQg?oc=5"
+          "title": "CoreWeave Stock Hits Turbulence Monday: What's Going On? - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmpMaW5zVmt1Q05OR1AtOUhNWHZkZ1Jnd1ktMnlpaU9FMTRneXpVYkoycE91dFR4VTlOZjBKT3VMVHh5Q3ZpZ3d6WDlKU3RfY3J2UW1UTVJfMjBnVWVqbW9wemowRjVwR0paRXB1OExQN3E2WnA5MnJPemduRnlTWkxwd0szLTdTX0IwRzl6QWN5ay1KV2E1ZGJlSWljcnJERkV2Y1FwRk1McXVtTGVBUk5raw?oc=5"
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 178.85,
+      "currentPrice": 176.013,
       "weekAgoPrice": 202.05999755859375,
-      "percentChange": -11.49,
+      "percentChange": -12.89,
       "flagged": true,
       "news": [
         {
-          "title": "Dow rallies 800 points as oil slides, tech stocks outside of Nvidia gain: Live updates - CNBC",
+          "title": "Dow rallies 900 points, Nasdaq jumps 2% as stocks climb out of postelection slump: Live updates - CNBC",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5"
         },
         {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia stock, AI trade in focus - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdG53R1lmOWxNelNURjQwQjh1a25leVVnRjdkU2lrX2VDemx5VDlJdk56Y24zeXE3dzVOdGtETjlEblo1UGNxdkRXQkR6UXZrT3VVU0pNamhlM0RpMldLdXhxSEdEUnF1WXo0MVZLLW4zb28wclBSdE5ZWmJ6aWVnelpVWUxjcTZLZ1pKNGhpNUVCREExWnJJV3JDMzVFQUF0V0hud2ZYSUJnTVVRV0diNFdpanlSZw?oc=5"
+          "title": "Nvidia Is A Hot Surface: Do Not Touch (NASDAQ:NVDA) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWJnQl9ZVmR3T0NMT0NVVkMyYVZOOWRtQWdHc1lCUWpPS1lRaXFMd3k0dlJyVzlVM2RMVm5ETHNmekhWUm4tUHNzclhLUWtzTFFFTzVBZ3Q1YTJCbE9oakw4OFh2V1ZsUjBrZjhCelYwLXBtU1d4T2pwNWtrblFneDExWnpnT2JPQnc5UV9UWkFpa3NQU0JRUWlIM2FPNmhETlAzMWxvaTljOGdzNUNlcUh3?oc=5"
         },
         {
-          "title": "Nvidia stocks falls after probe into CEO\u2019s affair with alleged foreign spy - CNN",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50WjBIUUkwd0ZNMkFYTzZjQjRnOFZoc2lPTFVORzZtU0ZwOV9SNldqdUxPZ0NsUEFLZ3lDdzh3RV9ZTWZ4ek9KaWR4aENKVEFtdFIybjhqUkxvTHRFYWFocVgta1ZKRWJYYTFIZ1JpaE5uTVBfNzMzb3VkUC1iUQ?oc=5"
+          "title": "Stocks making the biggest moves in early trading: Nvidia, AMD, Eli Lilly, cruise lines \u2014 Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBETjEzVzFLTXhVVm5IMDQ2YS1uRTV6UWFtblVkY2xhZ3BzclA5dFJ5WFJkbklySl9ZMDZQZXRGWE5ZV0FJXzN4X0xpdU9yUFotUllSTk1UTVpscU5MeDM0RzFFQ1RYcHVkbjk4TWlnSGozT0NpaXRCbw?oc=5"
         }
       ]
     },
