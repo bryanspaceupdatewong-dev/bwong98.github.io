@@ -1,10 +1,10 @@
 {
   "NVDA": {
-    "date": "2026-11-06",
+    "date": "2026-11-09",
     "news": [
-      "NVIDIA (NASDAQ:NVDA) Stock Falls 9.3% - Should You Sell? - MarketBeat",
-      "Nvidia Eyes Apollo\u2019s Struggling Telecom Sites To Sidestep Data Center Moratoriums: Report - Yahoo Finance",
-      "Stock Market Today, Nov. 5: Nvidia Slides on AI Chip Selloff as Election Uncertainty Weighs - The Globe and Mail"
+      "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today? - The Globe and Mail",
+      "Asian stocks face new pressure as Nvidia spy probe rattles tech sector (NVDA:NASDAQ) - Seeking Alpha",
+      "US Stock Futures Volatile Amid Concerns Over Nvidia CEO Investigation (NVDA) - GuruFocus"
     ]
   },
   "MSFT": {
@@ -40,6 +40,12 @@
     "date": "2026-10-26",
     "news": [
       "Capital A Berhad (5099.KL) stock price, news, quote and history - Yahoo Finance Australia"
+    ]
+  },
+  "5352.KL": {
+    "date": "2026-11-09",
+    "news": [
+      "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada"
     ]
   }
 }

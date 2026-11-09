@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T23:16:09.634872Z",
+  "generatedAt": "2026-11-09T00:15:56.261160Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary? - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5"
+          "title": "US Stock Futures Volatile Amid Concerns Over Nvidia CEO Investigation (NVDA) - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFR1QjA3ODFRRlZTSXpGbG9fc1J0X2pzdjJZOHNGbEJGSnYyNTBlMEVOeHczRE5sbWdXeGhVa3Bub29EdjQtTWpqcXByR3RJQTh6emtqdU9wYzB4UkhQMzE2bUdXbW9OYm1vUTB3RjgxZVAxZks3NV95NmNBeUx2bndRUl9WUXotZTNTOUd4ZndxemVuelh0bnE5RDZhWkZCZGZTRlotMno1NnZlaWJublFqRQ?oc=5"
         },
         {
-          "title": "Here's Why I Bought Nvidia While The Market Cried In Fear (Rating Upgrade) (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbS1EVzdpY1lGZFhsU1NrazNwUHFiTkhKZ2lMcGdrOHRuYWtkN0s3QkdFT0M1TFhtTzM4M0RGZVFseTZrV0ZHYWppbVlPYzFFa1N3eFc5YV8tcTM3Y0tFdDVQNmNtUHRGZkstNjlIZm1JXzQtT3BZWE43dGJ3MTZaYnVlYmlKYjRUOXZFSVZWbHptUERwX0hDTno2S3lLYXhaVU5rc0Q1Z1l0M2ZCcDBmMHh3?oc=5"
+          "title": "Asian stocks face new pressure as Nvidia spy probe rattles tech sector (NVDA:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEFxSEFid1djemktcFlja1EyNW5PZkl5cHd1d1VySUdtWEF1bGFXdk5SSzIyd2x3bTEyX1A0REZ3YXNxNldtNjlLN3VwcHBMbVl2bjNIQ3FBd1RkNlF5a3pRaXllSFA5OWRCb2k1MG40VGh5THo0RGp3WVp5Z0tBMzdEaC1jSzZQTUlsblRnVjdmUHNWdmJwd0NJWmNycndNQjdkNUp3SnItcUV1?oc=5"
         },
         {
-          "title": "NVDA Stock Rebounds 4% but $180 Support Remains Critical After Midterm Selloff for Nvidia - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmJnVGV0bDlYY3Q0OVBJLXExYkgtakQ4emVyUktySWkwUHVsWkhia0s1bXZIeXEyWW8wREJLUXRIMHlfbHpzTEpRdmRQeHA3c0R1amRFWVVfd2RxTGY3WmI3cmJUYWF2X3lYckxPMVVQV1c5MXBvaE55R2dCMXBzb0FNYl9lV1JxeHNqbmc4OFNNcllXWXJyZVkzOTg5dENjcUdDVGRzeWJYQUxKejJXWktPS25NUUpYLVR2bnpKanFzeUg3NUt2QlNn?oc=5"
+          "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdS1xUTRQYjk4NjFORVYxUkNJcXpCQndkOGZ6b0I3aVV2TFlVaGNwNGZmdFV5ZTh5Y2tvNUVEeTJ0eUxQMXFNY3duQ29uS2FOTkRQRzd2M2t5WjlLbHNHWVhGcEt6eFIxb2lxa1FPc3Z6QWR1T19DVFpsajhEQWlPcE9rT2gwb0xqano2UHRDRDBuQnlLMmwtRkNuV2hsdS1NYmhTQWpyRC1jLXZ5WG43Qk1nN21oYTRNaVV5eHVHdE9FY08xbG1ISDRyeklqLVVTR184UGdsTHRZWWVfTXFB?oc=5"
         }
       ]
     },
@@ -94,7 +94,12 @@
       "weekAgoPrice": 1.2899999618530273,
       "percentChange": -5.43,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5341.KL",

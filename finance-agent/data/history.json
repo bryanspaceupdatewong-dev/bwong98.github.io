@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-04T23:16:12.892277Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 200.13,
-        "weekAgoPrice": 215.3800048828125,
-        "percentChange": -7.08,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 3.2% - Time to Sell? - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3M4bnZ2ZnpTM090RVFUUHR2bUNkV3Fqb0NpYkEtSEtaRkxYTGNaZ1dqNXR4Ynh6UVRBbC1kci16MnhVeFFQZkhJbVU1TXh2ejloeEgwOWM3M1VSZTB1RDIwN05QU0JPUTlmeXQ4cHp1VUp0RGVhdzNxQld2ZTkxdDZsNFBfb09XcTdEZU1PNVNlWGYzVFBHUUpmNk9qYjJSYjVoVWJzUzdsUQ?oc=5"
-          },
-          {
-            "title": "NVIDIA Corp Stock (NVDA) Closed Down by 3.12% on Nov 4: What Investors Need To Know - TradingKey",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSHFObXJxc3NCal9CZVJhTTllZ2V3Z0dWWVBnUDM2YzNaRURETU9DQm5BVmpHbmNyM3Rsb25VdHlWcHNCYmd0WUtHQ1lyOFJ4OGFHY014M1J4SVhra2Y0T1YxS3kxUVI5MEZPMEs1UGhNZjBmRVZWTnRjeUVON1pCenI5WUF4dXhseUt3?oc=5"
-          },
-          {
-            "title": "NVDA Stock Tests $200 Support as Political Backlash Hits Nvidia and Chip Sector - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXNWWjRJb2UyOFZjVFNlWW82UG1nS1dmX0ZEVDFlMjVjMl83QW5LOTIwMWJHRzI3M3dZVWhSUGUtSGJjeE80MUdQcXNITnFaOVliei1GV203N0tTSVZQa0xpLTV5OFU3WXRTYWZNMDlPYV93bVlZYjZTMGdwNGliTFY2LTc3VzZQUDdOQjVmaGhiT2tMNlRHQlk2N0plb2x0ZFpzbHRZM3dWdjd5MDNoS05mUXdXSlZWc0k0SkV3?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-05T00:16:37.807171Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1762,6 +1735,46 @@
         "percentChange": -5.43,
         "flagged": true,
         "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-09T00:15:56.261160Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 186.64,
+        "weekAgoPrice": 204.63999938964844,
+        "percentChange": -8.8,
+        "flagged": true,
+        "news": [
+          {
+            "title": "US Stock Futures Volatile Amid Concerns Over Nvidia CEO Investigation (NVDA) - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVFR1QjA3ODFRRlZTSXpGbG9fc1J0X2pzdjJZOHNGbEJGSnYyNTBlMEVOeHczRE5sbWdXeGhVa3Bub29EdjQtTWpqcXByR3RJQTh6emtqdU9wYzB4UkhQMzE2bUdXbW9OYm1vUTB3RjgxZVAxZks3NV95NmNBeUx2bndRUl9WUXotZTNTOUd4ZndxemVuelh0bnE5RDZhWkZCZGZTRlotMno1NnZlaWJublFqRQ?oc=5"
+          },
+          {
+            "title": "Asian stocks face new pressure as Nvidia spy probe rattles tech sector (NVDA:NASDAQ) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEFxSEFid1djemktcFlja1EyNW5PZkl5cHd1d1VySUdtWEF1bGFXdk5SSzIyd2x3bTEyX1A0REZ3YXNxNldtNjlLN3VwcHBMbVl2bjNIQ3FBd1RkNlF5a3pRaXllSFA5OWRCb2k1MG40VGh5THo0RGp3WVp5Z0tBMzdEaC1jSzZQTUlsblRnVjdmUHNWdmJwd0NJWmNycndNQjdkNUp3SnItcUV1?oc=5"
+          },
+          {
+            "title": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today? - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdS1xUTRQYjk4NjFORVYxUkNJcXpCQndkOGZ6b0I3aVV2TFlVaGNwNGZmdFV5ZTh5Y2tvNUVEeTJ0eUxQMXFNY3duQ29uS2FOTkRQRzd2M2t5WjlLbHNHWVhGcEt6eFIxb2lxa1FPc3Z6QWR1T19DVFpsajhEQWlPcE9rT2gwb0xqano2UHRDRDBuQnlLMmwtRkNuV2hsdS1NYmhTQWpyRC1jLXZ5WG43Qk1nN21oYTRNaVV5eHVHdE9FY08xbG1ISDRyeklqLVVTR184UGdsTHRZWWVfTXFB?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+          }
+        ]
       }
     ]
   }
