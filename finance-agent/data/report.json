@@ -1,49 +1,23 @@
 {
-  "generatedAt": "2026-11-09T16:18:01.243789Z",
+  "generatedAt": "2026-11-09T17:16:27.450517Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 540.12,
+      "currentPrice": 543.815,
       "weekAgoPrice": 507.1199951171875,
-      "percentChange": 6.51,
+      "percentChange": 7.24,
       "flagged": true,
-      "news": [
-        {
-          "title": "Microsoft and Northern Trust use AI to cut client data prep from about 2\u00bd weeks to 3 days. - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjdjaFVEclMyQmY5ZW0xZ25mOFJ1RlJRVGVGV1l1c2IzdEE2Q0I2RVZlcG1uRnk4cXJURzhmT0p3QVZmUDNoVk5GdEJVbHF6ZnlwTEdYUldyNzVFTTBoT1hETTJuelFJclY2UU1aU1lqQ0x0MVNlZHRGLVlnZzlaUjFOZEZNMGNZS0x4UlhvWnVOTWtFUU1XMTJ1MUtaWXlwZ2J0RkNfcHB2MWNmdzlhWnYzQnE5UQ?oc=5"
-        },
-        {
-          "title": "Nebius Stock Ahead of Q3 Earnings: Should You Buy, Hold or Sell? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd0JnQy1ycXRSM3RseUZIeVJESlYwUC1oOFZPeUt5M0FwLVRDdm9qT2k4VmYwdzRQLXR5YTR4S2dmeWZYNnlhWUN6czE5MnRoZHVjMjNUTzc1V0plbVNveE9FSG1SaFoycVYwS0t1cnRiSmNuVG5NN2x5bm0zS2hhUHF4SEg1Rjk0a1FCSnZTNXdjdmVROUU0c0NUQUpxMVRDV1ItRzlnc1lGTzJXbjNTdlBFb2N0bXB0MVJzRnNfcmdDRGdWVmNYZE15Y0tRdnpPMjIyTmJaMVV1dGd5V3g4?oc=5"
-        },
-        {
-          "title": "CoreWeave Stock Hits Turbulence Monday: What's Going On? - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmpMaW5zVmt1Q05OR1AtOUhNWHZkZ1Jnd1ktMnlpaU9FMTRneXpVYkoycE91dFR4VTlOZjBKT3VMVHh5Q3ZpZ3d6WDlKU3RfY3J2UW1UTVJfMjBnVWVqbW9wemowRjVwR0paRXB1OExQN3E2WnA5MnJPemduRnlTWkxwd0szLTdTX0IwRzl6QWN5ay1KV2E1ZGJlSWljcnJERkV2Y1FwRk1McXVtTGVBUk5raw?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 176.013,
+      "currentPrice": 177.6,
       "weekAgoPrice": 202.05999755859375,
-      "percentChange": -12.89,
+      "percentChange": -12.11,
       "flagged": true,
-      "news": [
-        {
-          "title": "Dow rallies 900 points, Nasdaq jumps 2% as stocks climb out of postelection slump: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5"
-        },
-        {
-          "title": "Nvidia Is A Hot Surface: Do Not Touch (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWJnQl9ZVmR3T0NMT0NVVkMyYVZOOWRtQWdHc1lCUWpPS1lRaXFMd3k0dlJyVzlVM2RMVm5ETHNmekhWUm4tUHNzclhLUWtzTFFFTzVBZ3Q1YTJCbE9oakw4OFh2V1ZsUjBrZjhCelYwLXBtU1d4T2pwNWtrblFneDExWnpnT2JPQnc5UV9UWkFpa3NQU0JRUWlIM2FPNmhETlAzMWxvaTljOGdzNUNlcUh3?oc=5"
-        },
-        {
-          "title": "Stocks making the biggest moves in early trading: Nvidia, AMD, Eli Lilly, cruise lines \u2014 Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBETjEzVzFLTXhVVm5IMDQ2YS1uRTV6UWFtblVkY2xhZ3BzclA5dFJ5WFJkbklySl9ZMDZQZXRGWE5ZV0FJXzN4X0xpdU9yUFotUllSTk1UTVpscU5MeDM0RzFFQ1RYcHVkbjk4TWlnSGozT0NpaXRCbw?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "1295.KL",
@@ -107,16 +81,7 @@
       "weekAgoPrice": 1.2899999618530273,
       "percentChange": -5.43,
       "flagged": true,
-      "news": [
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-        },
-        {
-          "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5341.KL",
