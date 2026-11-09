@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-05T11:15:49.433176Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 200.13,
-        "weekAgoPrice": 215.3800048828125,
-        "percentChange": -7.08,
-        "flagged": true,
-        "news": [
-          {
-            "title": "US Futures Mixed After Rally On Wednesday \u2014 MU, TSLA, AAPL, MSFT, APP, NVDA, IREN In Focus - Stocktwits",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTlRsVXVtVDFHcndnT29WcW9XaFB5ZE9ESG5MLVZWM3hMRExKdUxGMWpvTHUxZ2hRTDNQWUN3T2FXOHZMeExkSVd4UU5sUkJiVlRTRFpYZDNsS1ZYcWUxSmdtWjVYTEFHcmR2QmppN1hQRjlQVzcyVHptU3pTVGpfTWhiejFlMHBod3JtMEVybFlIamwtTk1FOEhHQlNpcTUzY2lhcTRIUU5uYlNoNHB1czkxbVU1aFFKWWtxV1FnbzNWTnBmV0Yxcmp6eUFjVTFCVmFOMTF4TEFMR2prdHE0?oc=5"
-          },
-          {
-            "title": "Is NVIDIA Stock A Buy Right Now? - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFFnRjNUS0pReENldVc2ZjV1M0Jvd1I2NjJDTmVrMWlDSFJVZGhWN1V4dW1pLVhzVmJqNFNwUkVzZFVGZ0NvU0txZ0F4UFZQblkwQzVBSHB1SjRWOFlhYWJoaUlpcEVfbkVJSWNqQ3FoY1ctamxzWVpreE4zVldQWW9TRWVaR1FNNTJPSFd4djNBMDUwVFpR?oc=5"
-          },
-          {
-            "title": "4,743 NVIDIA Corporation $NVDA Shares Purchased by Krilogy Financial LLC - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1pHNUc1SGNpRmctX2hOdkxSd0tRSk1vM0RhbURKcW0wVEZNRjVaRjBhUzZIOWtUYU9wbGlGYVNiT3dHWGFxeDNwVVJqQTNuNC1oM1ZwZUdza3ZZempWV3BBMWk0UTJVRXduUHhXdzVfTDZDSWp0RHBieGJZWjA2Ujh1OTgyMUZ1aHlxMnBpRlFMME1vaXYwNndERk01dl9Yand6VWF5cXcxY3pMWlJIamk4NTV5UVRkRzlQYmFuQW52b0tEdHNTTUFNSQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 5.26,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 6.38,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-05T12:16:31.279219Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1832,6 +1789,50 @@
           {
             "title": "NVIDIA stock Analysis closes at $186.64, up 2.78% - The Cryptonomist",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaMlJMdmNTZktOM0YzaGlvbTNzNUZxNjJhZ3NXaWk2NjdSR0pUN090M1BWRG5pS2U1TFBqVmhkZFRZaWx2OEtEVXAyYmRzMWtFT012bFlmOFpfdjlmMmlQMnpZVG1TbXUwQVhBM2hkczJuYldWT0hwNWtpTQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
+          },
+          {
+            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-09T12:23:40.890778Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 186.64,
+        "weekAgoPrice": 204.63999938964844,
+        "percentChange": -8.8,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia (NVDA) Shares Drop Premarket Amid CEO Controversy; Market Eyes Valuation and Insider Trends - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjFGYXdkZGNvU2RiZHBiQ3hrUVluRk11azhkVFZHSlVlck4yMkxjenBIMEJ3dzZHWndoYkdMSUNtdU5LYmx5VVNlckpfQ2tEdlg4T2xhQ3NkV080SHhfbGNqV1ZRYk9ONEhUSFBKSlJhdnFpTU1neENVMHRPakhmdnlzRmRVS0JPd1Z6X1BfWEE3eGFoSFZCcGV6aUpxTWYxV1pwUjd5bXdmMnF6R3UzX3dKTjJPWVkzSmtvM21YekVzUkJtcDV3clNRTmtDQlU?oc=5"
+          },
+          {
+            "title": "Nvidia (NVDA) Shares Drop Amid CEO Scandal, Raising Security Con - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVRHU1VSQkNNMWJhZWhjczNKX0swNVd4S3ZOSFU1Sjc2U2xrT0RRd2NvQk9wNUNSdFlVblM4RHNIZzFlMkhVM2Z3UFJGdTJsZXNGZVpRdmVBUjhUZm15d1psWWZHZUV4bjRqbFNaZlk3VWVpSDdfQkMwc2NacjRIM0E2YWc1ZG56QVZjWTZ0WlEya0pHc3pKUjhwT0xTUXZpWUw4aDlQXzA?oc=5"
+          },
+          {
+            "title": "NVDA Stock On Track To Hit 5-Month Low, $200B Wipeout: Yale Professor Sees 50/50 Chance Jensen Huang Keeps CEO Job - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQTzk5T2xFT1RXbEJrSmp0WkRnQzNMNkVjUm1KWlFDVFZmOHFoazk0NzBQR1VLd0lNRklOTW9sSVdsWjlhMmdPcGV2b1pBcWdxdzdvcm5ZLV9wQThZRG5CczM3Ri11ZlZTaHp3cFprWWRFZmM1NTFITzNxU01Qc0NFTDdWQWhaMEdOa3FsdGhlUXB0ZGFWMHBXS0VObUJjcFlMSEthN0I3MFhqNC1pM2NNZGdUbHVNMTFHd0UtTnVjWjFzWEVkaGs3VV9hUGV0RG10WndGWTlCVHozYkxaS0llcWN3ZlJSV19sdFFpV0dwSTFxRzZMM21YQ3VQbVRUVFYtU2ZIX2hhUFNzSHJHMFE?oc=5"
           }
         ]
       },
