@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-06T07:15:58.350656Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 181.6,
-        "weekAgoPrice": 213.66000366210938,
-        "percentChange": -15.01,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock Loses $1.39 Trillion Since October Peak \u2014 Jim Cramer Says NVDA Can 'Buy and Reload' - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmJ3NGFObTl6ZGs5MUFnbk04S0hSREVIeWdxT3JVNjlXUGMyT0tvbWExS0lPQjZDUFB4akdvc2FFYVMzYWZyR3BfYjBsS1gxZGtXalV3MEhDMjlYZ2Z3alBSblQzT2dWTkN6UkR6NXl2RWJPVWtRYm8zbVpEVVZQd29xdmEyR1RWVGxfcWNodTUwVzZqV2VJeERvSkU4NlhvVmtTRnZRcERSTUZWQWhPalBn?oc=5"
-          },
-          {
-            "title": "Nvidia Stock (NVDA) Falls 9.3% as AI Chip Stocks Slide (Nov 5) - Gotrade",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93bm5wem9HNG84WW92S0tlbHkyRnl2TTlqWnJaSE9BdDEwYTRCck5TNXl5d0ZBdEMzRmx3UExlMHZnZDUyLXZlYkd0NGFpN0JJc3AxZVZucWZLQ3ZRTTFvM3VEeElYaW54LS0zbDdtZVRpWHBqUjBfUDRXcG10WTQ?oc=5"
-          },
-          {
-            "title": "Should You Buy Nvidia Stock Before Nov. 17? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHoxdVI4MTRJRWR4VmQycnkxX01ZeklUYlJlRXJCcDZnTG1FQ1AtZGh3YTBndWZVSWZsZEdYZkxad1ljNkdTMGlmZFp3R0Vrcmt4VTNrcnBzcEtQSlNNejhrNDJvUHdjanBFLXA1YUZYMjNuRlcyVmN6RHBub3JQNXZaaDNrcHpIYlZmWW1kRHhRUQ?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-06T08:16:11.741724Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2271,6 +2244,67 @@
           {
             "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-10T08:17:18.320372Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 545.18,
+        "weekAgoPrice": 507.1199951171875,
+        "percentChange": 7.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "What Does Microsoft (MSFT) Gain From AI Safety Leadership And New AI Deals? - Simply Wall St",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMzFjRXd6N284eVUyeGdWSWZGbmVVenJuNFNYM09iakQzUjFEWHVYbUNfX2JZSGxrbDJhdzBIa2dxd2lSZXFwQzlwU3lTSXlHVUNHZFUxN19ZYmJXOGpzRUE3b2FsNGR6dDVBdzJHWFNSUC1BcEl1dlprejVwLTlZcEJMYk9rek5lOWRQak1RNWtTaVh0X2RMN2dUMDVXNjB5cXpmUDQ3WFQySnhiNGlTaktHNktadEpQczFQRjBhdHhNaTRST3fSAcsBQVVfeXFMTVQ1Y3dMdHFTdFBCQjVadWZlMEhnVkxnTWpmZnMtMTZ5ODl0UVVQT0ZSbjA0OXRMVEE3ZmRJRnA5UnNNS2ltNllpRENfamItcVc3V0llMklwWDVOUkdhWnp1Q2QxeGhrcU1qV0JrMmlpMlNIQWRocGRhcFY5LUQ1NWVoZnZXQ3NrMWNWSmY4Y3ZtRWdUUW8zVnJsSXlHNjlBemh1ZXNnV0l6el84c3hRdXR6TmdLdnZsamRXZHR0OWJYNW9OckZkclVicFk?oc=5"
+          },
+          {
+            "title": "Is Microsoft Stock Worth More Than Its Competitors? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcXZEajhWdjJNdjlucVNFRFl3QVkyRG1JR05kVUF3QTdkcFpTemZEUjlmMEswdENXWjhOaVh3dzUyYllZSko1WU5Jc1ZaUjRmS3pyQlJqSTNvclhSdlVWbjFfdzlLT2l4Z0NuVndDb1VoRmZ3a0Z1b2h1ZS1fQnpsbDBBRVN3VXhqS1JiUW9wNFZ3dk0wOTF2SzE0VkVLYzJRQTJxMkM3X2duTFp0SWhVag?oc=5"
+          },
+          {
+            "title": "Microsoft (MSFT) Stock: $545 Tuesday After a 2.75% Gain, $610 or $505 Next - FinanceFeeds",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1JYc0s5Z20xZnl6RXdiSGdDajFwZ1dWdVp4YlFldTU0TjlZdGsxQkVrdDFvT2d5d0oyVGRjbWJjNjVIMHpzcWZ0UVpKM2EtQ2NxYVI1cFN0anV2RURPcFZEUHBySk1kaV9JSE0wRXpaYnVLcGtZNDZPQ0o3ZmpsMU90R1BWMDdOZW9zYWFiS0duS1FEOGl0VGlacGtILWJ2ZHc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 178.67,
+        "weekAgoPrice": 202.05999755859375,
+        "percentChange": -11.58,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AMD Stock Clocks Best Day In 6 Months \u2014 But Michael Burry Won\u2019t Touch The Nvidia Headline Trade - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzVGZHFrUzZYRzREWUJ6eUZJcFBkaVZ1OElTLWswTC1QWU5OLV83X1hfQWFiaXRBWWJob1liZFZaR2otS3VESFNjbXRuNU4tMUprdjZZdXZVYmd2ZW5LWnZ1NmJ6TGNneUo3amJ2NWJzcVJXbHBtdW8wbUpuVTMwYUwwQk5YU19HYU5Ha2Zadzh0QVZG?oc=5"
+          },
+          {
+            "title": "FBI probing Nvidia CEO Huang amid China spy allegations, Trump says (NVDA:NASDAQ) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUld1eHhRQ1ppSlVpQ21OQ0RvRnlRN1R6NTlqX1NfRV9ueVQ0SDNxMEdhSW9rWTNBNVNCVFphMHMxS0hsNjVVWHBETGZnLXAxV0tyZDJqRXkxaTJ3MktjSHNfZHRsODdmbFNuRGt5YXVYTlNidFltMWV2WXRkeTRDVjU0Zkx2bmF0MmJmUlZzdlhoT05aeHlBQ3ZwZFFRNS1PM2ZjbDkyVQ?oc=5"
+          },
+          {
+            "title": "3 US AI Chip Stocks Beyond Nvidia Stock Key Person Risk - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10V3U5NklZMnVJSy1OT2dEZmdUSXBLWFM0V0pwc2tmVmQ1VjRZMWpHVFdoRHZjZWlYbnFsQmE2LUlpZGUtV3EtR2pmR3Job0pBRlJOMHJKQzdtek41dGZKU0h4YzN1ZE91eWJCR3B5djlwYmF3MnNF?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
           }
         ]
       }
