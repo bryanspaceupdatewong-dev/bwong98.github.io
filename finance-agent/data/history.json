@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-06T00:16:33.273219Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 181.6,
-        "weekAgoPrice": 213.66000366210938,
-        "percentChange": -15.01,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 9.3% - Should You Sell? - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWo2cmp4MXVFbWpoQi1YeHFYcmFJQUNHcDJuR1Q2VkpRNDM1RVV3OTRyMkg5c1hOUkVSVktmR01nUE9UTTU3c2ZHUTVrYWh5dUtsQXpjNzlxYUk5aUMyWVdOX0I5WlhBVElwMXZUaklXMlVrR2Y5R3dkR01OM0U4MFZRS1RLS1pIeE1CZHltM2NtUzN0OFk5LUo0UzV1QzgyQ25wYXBUVUtIXy1zekE?oc=5"
-          },
-          {
-            "title": "Stock Market Today, Nov. 5: Nvidia Slides on AI Chip Selloff as Election Uncertainty Weighs - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZjFFTGpNdlBzMFNvNUpoYm53NjhkNVFIcHRHa3NYWGR2SC1JaEdvUENjTzdjX3hUOFdGNFBHenZGamFxSjgzLVQ0NHlSc01UUUJ3alplQTFDNnNqY3d3cGk2cUxXMUgwbVpkdnR2Nng5MlJZd05xUk5LWDgzbGZ1RjNFS0ZhdjB2ZklObU9FbEJGd2dVY0x3MU9SbmZNNUNfY0EwbVRrMWxoSmhINTBkOXlncU1Jb0J4alhGa05fODlpWjJjNUV5Mkh6d0pWZGJRMXp1bDVuSnhDXzl3RC1CQTlYazhpUXBOdXlrNnktQ2VLWE1zWEY3ZnlyTFdyQUt4Qkl3?oc=5"
-          },
-          {
-            "title": "Nvidia Eyes Apollo\u2019s Struggling Telecom Sites To Sidestep Data Center Moratoriums: Report - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmVvdU10eVBoekxBY2E5Tk4xeWxMTEljeTdKWUVDZWQyY2hjQUhWRXBxb21lNkFwb3pLa0FYclJjUTFWZW1nOUlvV1JFSl9hbGgwUkVyNVJQXzRkbWJaMm5td2ZreVBYcVRZMUE1aHVMQkZNcm1iem1rTHVoYU13MU9JSUtYWDVXMnl4STc0V2ZSQ09STjZvNFNpNVhEX0FfU1Br?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.2,
-        "weekAgoPrice": 1.1399999856948853,
-        "percentChange": 5.26,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 6.38,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-06T01:16:18.858263Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2028,6 +1985,54 @@
           {
             "title": "Is NVIDIA Corp (NVDA) a Bargain After 4.3% Drop? GF Value Says U - GuruFocus",
             "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWR4ZFJmeVFnR2xseWJvV19vZmJ2U000YjhuQjdEUGhfdDRqQWR0UmhaanJRbFZ4N1Z4QmRWU1ZzYmdJM29fRm40TW50TUp4czJESXlMVVp1QjF1M3JmNjAyTVRLeHZZN1E5VEhqeW0zYlJfZEkzbjE0NUQwQXdHSzFEdWtvRkRTUC1Bc2tQc1lxeVRIRnVibTRIMFhBdzFLYkNEcmplTk5Dc0Nw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.22,
+        "weekAgoPrice": 1.2899999618530273,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+          },
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
+          },
+          {
+            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-10T01:15:52.246482Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 178.67,
+        "weekAgoPrice": 204.63999938964844,
+        "percentChange": -12.69,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Why Nvidia Stock Was Down Today - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVEpYdmpLay1McEtHNGlrWWFMWVVnN29oaFhoWDczcGJ6R0lGcnNyUGVVV3h1YkhqVThCOG5KWWo3cDZlcWcwY0Uzem1NUlVPdmRid2d1Wi1wMWo2T3dCTU41RW1RRDBic19Ud2N2bjJrVHl4bjhIT2V5dXEtS1BNNlFNZGVUOWJBcXpNSE80c19mTnA4cVVN?oc=5"
+          },
+          {
+            "title": "Why Nvidia Stock Was Down Today - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6WDRPMFN0enJuVlBhekpMUkhycC1QdjhfOXQxLVZhalROMDFIR0dQSGdQZmdZQWxhYzQ1akZuaVN2cGlqSmR5ekRad09XVUpobEZ2T1JkTE94RkItdDJRX3RWTGt0NjZpNnctWGw4cG53ek5wclNwTzAzS3JiS0U?oc=5"
+          },
+          {
+            "title": "Stock Market Today: Dow Pushes 1000 Points Higher, Nvidia Stock Slides Over Jensen Huang Affair Probe - WSJ",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSV9fWHdCZGw4OGdCbVpVMVJreGluVnp1TVhmT1JkemQ0RGdWQTZfNFNuODhETWJUQUt6NTVlUlRGY0NwNkRXOVd6VFlLSWFlTERpMEJWODJraHlyX3ZtRnFpSjUtVzhmOVVKNkRfS0RPZ3l4WHBnWEdwTTRRaVVDdmM3TEhxR0k?oc=5"
           }
         ]
       },
