@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:19:29.294083Z",
+  "generatedAt": "2026-11-10T07:24:01.270238Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -11,16 +11,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "What Does Microsoft (MSFT) Gain From AI Safety Leadership And New AI Deals? - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMzFjRXd6N284eVUyeGdWSWZGbmVVenJuNFNYM09iakQzUjFEWHVYbUNfX2JZSGxrbDJhdzBIa2dxd2lSZXFwQzlwU3lTSXlHVUNHZFUxN19ZYmJXOGpzRUE3b2FsNGR6dDVBdzJHWFNSUC1BcEl1dlprejVwLTlZcEJMYk9rek5lOWRQak1RNWtTaVh0X2RMN2dUMDVXNjB5cXpmUDQ3WFQySnhiNGlTaktHNktadEpQczFQRjBhdHhNaTRST3fSAcsBQVVfeXFMTVQ1Y3dMdHFTdFBCQjVadWZlMEhnVkxnTWpmZnMtMTZ5ODl0UVVQT0ZSbjA0OXRMVEE3ZmRJRnA5UnNNS2ltNllpRENfamItcVc3V0llMklwWDVOUkdhWnp1Q2QxeGhrcU1qV0JrMmlpMlNIQWRocGRhcFY5LUQ1NWVoZnZXQ3NrMWNWSmY4Y3ZtRWdUUW8zVnJsSXlHNjlBemh1ZXNnV0l6el84c3hRdXR6TmdLdnZsamRXZHR0OWJYNW9OckZkclVicFk?oc=5"
+        },
+        {
+          "title": "Microsoft (MSFT) Stock: $545 Tuesday After a 2.75% Gain, $610 or $505 Next - FinanceFeeds",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1JYc0s5Z20xZnl6RXdiSGdDajFwZ1dWdVp4YlFldTU0TjlZdGsxQkVrdDFvT2d5d0oyVGRjbWJjNjVIMHpzcWZ0UVpKM2EtQ2NxYVI1cFN0anV2RURPcFZEUHBySk1kaV9JSE0wRXpaYnVLcGtZNDZPQ0o3ZmpsMU90R1BWMDdOZW9zYWFiS0duS1FEOGl0VGlacGtILWJ2ZHc?oc=5"
+        },
+        {
           "title": "Satya Nadella holds 482,059 Microsoft (MSFT) shares directly after gifting 4,704. - Stock Titan",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1hBMzB0SF9YTVhwN1ZOUk0zeU1CRlhjLXc4MnR0QUs2ektXWWJ6RXVxNnBaWU1BaWxuT1ptdHppaEJSZVU1WTIzdXBwWVRVLUNfRWh0SjdxLWdjZWlVckh5SFFIbjVqb1loak5fTVNJQnhpanRkOXMxeXB5Wkk3Ql9mcTRsVmwtenBRMFYyZEd4Vmt3YnVmcm5IWERJS3RFZHZ3NDNsUENwcFJY?oc=5"
-        },
-        {
-          "title": "Microsoft Corp Stock (MSFT) Moved Up by 3.24% on Nov 9: Facts Behind the Movement - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTV9JenpiWDE3bXZSWERMblpmMi1zY1VBbHZuNnRDUXpVWml3TzhDSmJ0RDVxX0xPV25uTnpMQ3ZhU0NnVm5lcDg3dVlnMUZ5d2I1bGl6R0k4RUJSSlVXQTB5anNNb2YzNmR6NGwyendtWWNzblVEenlnNFhYRzhlWExvTkE4c3M2NWY0?oc=5"
-        },
-        {
-          "title": "Nvidia vs. Microsoft: One Stock Is Too Cheap to Ignore, the Other Deserves a Downgrade, Says Top Investor - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTWFVX1lWYldUdXU0OHJHS1otVnE1U19UMzdlYS1taDNBdndoVGdJUFdjVWVxU1F3RkNrMFBlaFNoYTRSQVdCTVN1eUxHZVV3TS1TQV9NWUxzZGpBeTNMeGU4SGtUOWd6aWFNRTNiY0ZrdXgzNUU5RER3WmtPeGpLbnNDN0M2eGxWcWlnVWZrZEtZdk9DM0hPTkI0VjF2WlNYWElDYnEwbktpdkpkak1kVTlGZFNGaGNLUEF2TkZwTVB3dlA1YUNCclJ1WlhqYng0TjdlZzJB?oc=5"
         }
       ]
     },
@@ -47,17 +47,17 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.72,
+      "currentPrice": 4.73,
       "weekAgoPrice": 4.789999961853027,
-      "percentChange": -1.46,
+      "percentChange": -1.25,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.71,
+      "currentPrice": 7.69,
       "weekAgoPrice": 7.5,
-      "percentChange": 2.8,
+      "percentChange": 2.53,
       "flagged": false,
       "news": []
     },
@@ -71,9 +71,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.51,
+      "currentPrice": 1.52,
       "weekAgoPrice": 1.559999942779541,
-      "percentChange": -3.21,
+      "percentChange": -2.56,
       "flagged": false,
       "news": []
     },
@@ -100,11 +100,24 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.245,
+      "currentPrice": 0.25,
       "weekAgoPrice": 0.23499999940395355,
-      "percentChange": 4.26,
-      "flagged": false,
-      "news": []
+      "percentChange": 6.38,
+      "flagged": true,
+      "news": [
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+        },
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+        },
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5352.KL",
@@ -116,12 +129,12 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.635,
+      "currentPrice": 0.64,
       "weekAgoPrice": 0.6600000262260437,
-      "percentChange": -3.79,
+      "percentChange": -3.03,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 4
 }
