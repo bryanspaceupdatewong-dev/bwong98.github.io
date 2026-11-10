@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-06T16:17:49.238058Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 187.677,
-        "weekAgoPrice": 204.63999938964844,
-        "percentChange": -8.29,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock Rises on Dip-Buying: 3 Reasons to Be Optimistic - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpbHc0aG5OM2dVRUpBUEFXeVRDZnB3WWpwemtTYU44MGx0MHNRUkRlUFgzUFZyaV9UTFZWSG1GekFBSktPLTl3ZzFSeEVaYnpEUUpWMkxmN3lyanNXTVhYbDNDVU1kOEh5RVdaemdOekM0Z3NMZGVZ?oc=5"
-          },
-          {
-            "title": "Nvidia stock oversold setup: Key levels after a 9% drop - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjhTc0JFcEFDRDdXX3N3VDROUHZWS25HV0loYWVGV2tYaC05U3Vvc3hxdW91UERlREdKQVIxS2Y0c1M1UmE5LXUtdU9WT0pqVFJBRWZzRU0zS1hPWTByX2QtRUp3SFN2dGRyekZPSV9VdVY2NHBkSEJjdnc4T2JaRU9RdVhiaDdRY1VUR2NYWUI5cnVVMHJVaE1faGE?oc=5"
-          },
-          {
-            "title": "Breaking News: AI Hardware Rebounds: MU +9.5%, NVDA +6.4% - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRFBZTDNBZ3R0a2VlYzU1NFhrNUQzS3otY1Q4NUVyOS1qVkxNbnBFSHVUcGthYUNSY0lHOVd1cjFvbGI2Ym83M3lXRjFHeGNzSV9zZVNoVnJ3clRvd1RnZGlvckN5TXlmbHYwYTBXYXFlSXRZRldQdEJHTXlrZmNpTWtBUnZVeERpLUlzSXJZRWg2T3B2ZF9kazJNcUs2SnJudWVUVg?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-06T17:15:57.482972Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2634,6 +2607,67 @@
           {
             "title": "NVIDIA Falls 4% as Board Probe of Jensen Huang Weighs on Shares; AMD and Broadcom Gain 3% - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2N0VF9zX294SXp2LWpvU25XNDlfY3JpVXhlOEJobDl2SUNHNDFPYXd3MEkyVFc5QXRYbFZZb1czSWptc0ZjWmFNZUN1T2RLSTV5SHdJQk5Ia0FyZnNCLUQyOWJhRk9nLXVrZU1sSjFfNjV3YzhfOC1LZFk5YjEzWFl6cUYxcGV6b05JMVdIeU1yVm5RZUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.255,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 8.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-10T16:18:05.771460Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 168.945,
+        "weekAgoPrice": 206.69000244140625,
+        "percentChange": -18.26,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Falls 4.27% to $178.67 as Board Probes CEO Jensen Huang - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUpTazRkVVpBNnppeGJLLWR4QkZld09zd1ZjTTE2RmowaWEweTZldjJiNmVpUWFaakdZV2JrMzcxZGM2YkdKdmtTZUZON3Z5SGRQWkw5OFVyS1lMcVVYRWM2MUFKWEZDX0hOLXpNd1EyUVc1TEJrRjNKR2xfZW90WlUxMjN5bW5adGJBbENwYzUyWDF5RWR4TWt6THk5azJUQ3JiRVVnUEthcUU?oc=5"
+          },
+          {
+            "title": "SA analyst upgrades/downgrades: NVDA, SNDK, PLTR, SAP - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXp0NlU1YmoxWU9Id2hIM2E0eE1MeVpVRklPOVpnVUFMbW80Y0F5THBtNjdWZ1FJY3VaWUFLZHFCWVVTUDFrd3dWWGQ4SHJ6SVN0S215dmxLTGNEUUFJSXZsWWZPb0hWbTJVelJtZjRoMGpaRHNJei1semstdHBManNuNFFBTnN3dXltejhEVQ?oc=5"
+          },
+          {
+            "title": "Nvidia stock drops 3%, extending decline on report alleged Chinese spy linked to Nvidia CEO aided $7.5 billion in China chip shipments - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQaTMzXy1sdW5VeFphNTFTbjYzWUZmdHJLNmhXMTE3cVBybWQ1NFhBUU5lUEZqcWUzNnBMN0J2RmdoYWtidXBQc1pPbFNhZV8zcGVJX2VxX3pzU01JZTV1cFpKanZVWHhSVE5IbWUyaVo5bXoxaUdkQ2Jwd0poWXNrX1VrOGI4SlBNOVExdUMyT0NDeS15dHY3N3FRZ1YyMHpZWmRtOC1MTXFhVEFvMm1xREZmb0xBSWpJTUt1aHdMVTl4NHY5TFY3QjZPSWFqNDNCM2xfeFJDM1FLN18zbmZfMG5OeS1lQ25jWUs1R3hIVkc5amVmMHBIS3kyQl8wS3B3T0d5bjFqM2lYQkt1UDk5Rm9kdlMtZw?oc=5"
           }
         ]
       },
