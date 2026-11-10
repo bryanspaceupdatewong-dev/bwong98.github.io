@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-06T17:15:57.482972Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 188.05,
-        "weekAgoPrice": 204.63999938964844,
-        "percentChange": -8.11,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA Stocks Rebound 6.78% as Lawmakers Call Jensen Huang to Closed-Door Briefing - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnZ2Y1c3VTFIcmJCY2kwcjBRdFBzcWMzV1UyaXJzWDN5YkhRWXJweVdpQlF4dXRpRmRaSTZDbk9PeUtUR2tjbjFMYTBVMG9hM1E4ZEgxZVM2TVBYSlMxcEVoaDlxMWFpQkJfS0RKbDB5YXRRaTVYZWdoSmxNSXlxUjRFbW83ajdhcEhRRXpTUHhIVHhuWlE?oc=5"
-          },
-          {
-            "title": "Nvidia, AMD and other chip stocks rebound. Is the \u2018violent\u2019 AI selloff over? - MarketWatch",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5"
-          },
-          {
-            "title": "Stock Market Today: Dow Pares Losses After Jobs Surprise; Nvidia, AMD Lead Tech Rebound (Live Coverage) - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXpPb0ctNHctc1ZBczhHQW12ZE5YZDdyd2MzcG1tUlNMYjBiaE9MT05XOS1RRVpaekgtWThPY3BSYVVYODZhV0hiVXZUMmxHdGtoSGtqR0lDSno3Z2FHRUZWX040ZEZldFI2UlRRb2p6WjN3MEhSVUlYZjNhdjRtOTU4T2htSkhRUHdXVE5ralJMUjJ3MXh3Yl9SdVcxcy1WY01WdmdmWUptMW1pLVZ2RDR1NW5TeExLQzY0?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-06T18:16:13.716988Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2668,6 +2641,67 @@
           {
             "title": "Nvidia stock drops 3%, extending decline on report alleged Chinese spy linked to Nvidia CEO aided $7.5 billion in China chip shipments - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQaTMzXy1sdW5VeFphNTFTbjYzWUZmdHJLNmhXMTE3cVBybWQ1NFhBUU5lUEZqcWUzNnBMN0J2RmdoYWtidXBQc1pPbFNhZV8zcGVJX2VxX3pzU01JZTV1cFpKanZVWHhSVE5IbWUyaVo5bXoxaUdkQ2Jwd0poWXNrX1VrOGI4SlBNOVExdUMyT0NDeS15dHY3N3FRZ1YyMHpZWmRtOC1MTXFhVEFvMm1xREZmb0xBSWpJTUt1aHdMVTl4NHY5TFY3QjZPSWFqNDNCM2xfeFJDM1FLN18zbmZfMG5OeS1lQ25jWUs1R3hIVkc5amVmMHBIS3kyQl8wS3B3T0d5bjFqM2lYQkt1UDk5Rm9kdlMtZw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.255,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 8.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-10T17:16:10.218191Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 167.29,
+        "weekAgoPrice": 206.69000244140625,
+        "percentChange": -19.06,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Risks Breakdown to $120 If the Last Support Goes as CPI Jumps and Huang Controversy Weighs - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeXpIanlPbjFGX09fVDhnNFZEazB3eGR0TGxTOFBkMWpLSEhuTjl0czFlMGZ2LTJHRjVDS04wMl80aV95eldDNnAwNnhWZVVuN3o3ZkRkUWZUaU5lMDFiMXkydk9VSjZGaUZPd0dxUVNqZjFCQndSQUU1Um1GTzFqbHhuU0d1NHJxcl9xcndpX1JVam4xTzlTRjNjS0YydDRYLUdyYlU2aVNkQWpkei1Va1BfdGtKUUZCMWxaemZLcXEyMDU1MnRpcGc3YXZ1RG04T0ZmSWNzQkdzWHc?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Has Its Lowest Price Compared With Profit in Over Seven Years - Stock Titan",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdkVFaUhoanUyOG10ckpWcUNBUXdrbzg5M3doTHhkdjRaak1tSHgtbzhBckdaWFlmTnF0czhIdERYLTVQaHlEa29peHE0OVpSbXVwZTZUNEN1Nl9YaG9yNjRTYkpzdzVtRU5hbnFvNHZucGF4UVdfXzFhN2dTREhqbw?oc=5"
+          },
+          {
+            "title": "Cathie Wood Is Buying Nvidia Again, Adding 90,443 Shares During the Huang Selloff - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3A5aXduRkRfbkNOSzlNVjlqWEtQdjRIRldxWG9VSWJiLTlYVW9Nc3VnZlZxUy1hanJURndZalgtS2ZBb0QzaTBQWkdBWTVwYnE2ak4yVVdxbnp5Q1NiMEdZeWhfSzRkNjkwZVpILXRqeEVqNlhtYzVxVV9OR0V2dnNRcXlaX1JQNk5jVHRINnVvQzhOSnU0dzZZWlA?oc=5"
           }
         ]
       },
