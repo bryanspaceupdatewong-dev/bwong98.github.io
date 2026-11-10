@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:15:52.246482Z",
+  "generatedAt": "2026-11-10T02:20:06.210882Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,104 +19,96 @@
       "flagged": true,
       "news": [
         {
-          "title": "Why Nvidia Stock Was Down Today - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVEpYdmpLay1McEtHNGlrWWFMWVVnN29oaFhoWDczcGJ6R0lGcnNyUGVVV3h1YkhqVThCOG5KWWo3cDZlcWcwY0Uzem1NUlVPdmRid2d1Wi1wMWo2T3dCTU41RW1RRDBic19Ud2N2bjJrVHl4bjhIT2V5dXEtS1BNNlFNZGVUOWJBcXpNSE80c19mTnA4cVVN?oc=5"
+          "title": "What Does Nvidia (NVDA) Need To Prove As AI Rivalry And CEO Scrutiny Build? - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CNTYzZE1vRGVZdmtuLWl3Z01hRDlVZUJLVk5OZkVOd0NRbThhUTdWZVBleWd6NVdncHFaNE5kMzk5OGU0MW9ZMVRLZ2RBZXg5OFo1ZWk2MzNBRFNGWVBXMFotSnc5eWVteERGRzU0aThtb083MktLSXVkQ0pneWs?oc=5"
         },
         {
-          "title": "Why Nvidia Stock Was Down Today - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6WDRPMFN0enJuVlBhekpMUkhycC1QdjhfOXQxLVZhalROMDFIR0dQSGdQZmdZQWxhYzQ1akZuaVN2cGlqSmR5ekRad09XVUpobEZ2T1JkTE94RkItdDJRX3RWTGt0NjZpNnctWGw4cG53ek5wclNwTzAzS3JiS0U?oc=5"
-        },
-        {
-          "title": "Stock Market Today: Dow Pushes 1000 Points Higher, Nvidia Stock Slides Over Jensen Huang Affair Probe - WSJ",
+          "title": "Stock Market News, November 9, 2026: Nvidia Stock Slides After Chip Maker Opens Probe - WSJ",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSV9fWHdCZGw4OGdCbVpVMVJreGluVnp1TVhmT1JkemQ0RGdWQTZfNFNuODhETWJUQUt6NTVlUlRGY0NwNkRXOVd6VFlLSWFlTERpMEJWODJraHlyX3ZtRnFpSjUtVzhmOVVKNkRfS0RPZ3l4WHBnWEdwTTRRaVVDdmM3TEhxR0k?oc=5"
+        },
+        {
+          "title": "NVDA Stock Attempts to Recover after Breakdown on Nvidia Board CEO Jensen Huang Investigation Over Espionage Target - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSThwYkM1V2tMaWpBcEx0Vk8tUXJTcUpkZUNXdlFCbzVtMG1Yd2NUWUdDcTQzOWRHZDI2TTRBdW5LSDNYYU9QbS02M2FGUnBIaHJIaFhUa25MdFZDWmVEWVhpeEE2VG1OdEU0M0ppM3AwNWJRUzlwVDcwYVVmS053MkJIbVhSUGJQTG5BZUZsNGRnTVVtenVlX2VKZmhhQmY3eWtrbGwxcEN1OHI4R1VVUi12bkcteG9BaXFWRnIwU056TkhJT2phNlAxUnExRHlUOWplTWlwQ3dud3owTHFUSUYwMnpDSjdaWjZTbWJwQQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.9,
-      "weekAgoPrice": 4.75,
-      "percentChange": 3.16,
+      "currentPrice": 4.71,
+      "weekAgoPrice": 4.789999961853027,
+      "percentChange": -1.67,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.73,
-      "weekAgoPrice": 7.449999809265137,
-      "percentChange": 3.76,
+      "currentPrice": 7.66,
+      "weekAgoPrice": 7.5,
+      "percentChange": 2.13,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.22,
-      "weekAgoPrice": 1.25,
-      "percentChange": -2.4,
+      "weekAgoPrice": 1.2599999904632568,
+      "percentChange": -3.17,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.48,
-      "weekAgoPrice": 1.5399999618530273,
-      "percentChange": -3.9,
-      "flagged": false,
+      "weekAgoPrice": 1.559999942779541,
+      "percentChange": -5.13,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.45,
+      "currentPrice": 1.46,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -0.0,
+      "percentChange": 0.69,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.17,
-      "weekAgoPrice": 1.190000057220459,
-      "percentChange": -1.68,
-      "flagged": false,
-      "news": []
+      "currentPrice": 1.12,
+      "weekAgoPrice": 1.1799999475479126,
+      "percentChange": -5.08,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.24,
-      "weekAgoPrice": 0.24500000476837158,
-      "percentChange": -2.04,
+      "weekAgoPrice": 0.23499999940395355,
+      "percentChange": 2.13,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.22,
-      "weekAgoPrice": 1.2899999618530273,
-      "percentChange": -5.43,
-      "flagged": true,
-      "news": [
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-        },
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
-        },
-        {
-          "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
-        }
-      ]
+      "currentPrice": 1.27,
+      "weekAgoPrice": 1.2799999713897705,
+      "percentChange": -0.78,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.65,
-      "weekAgoPrice": 0.6700000166893005,
-      "percentChange": -2.99,
+      "currentPrice": 0.635,
+      "weekAgoPrice": 0.6600000262260437,
+      "percentChange": -3.79,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 3
 }

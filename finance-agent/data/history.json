@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-06T01:16:18.858263Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 181.6,
-        "weekAgoPrice": 215.3800048828125,
-        "percentChange": -15.68,
-        "flagged": true,
-        "news": [
-          {
-            "title": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory \u2014 NVDA, AAPL, UBER, SOXX In Focus - Stocktwits",
-            "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOOUZJMF9jRkMxOGtlTFhzMVFwcGhwY1Bid29EanBuZkJONU4wd0tnR203b3JwelBVQnhtU1J4aVdwRE1TZExmdl9CVEhvN1IxY2N4OGktU1JDelJTZ1IzdmQ4cG5CX2xzd1lURE1yN2pKODZhaXJwbk5IaWRuTm9QaGZVUFJ6YVpWRkhGbzdCYWUwX2haeWJOa00xYmpfM2xhb3ZFY0h3aFpPTmtDakRzVHFNd0ZEd2FlVzVPRDBQbnR4N3MtaXppRGJxZDBnaE1KeG9xNmw1bWxEWHdBVDZSY0o3cnhDSG1YN01hLW9leDZOSVRmTWluVmpycUh3NUNrbEV5MjlJd0VBVDlndG5sbDZ6RElkbm5mNVZiX1cwQ0hObzVzQTRkMF9BNA?oc=5"
-          },
-          {
-            "title": "Nvidia (NVDA) Stock Plunges Nearly 8% as Broad AI and Chip Sell-Off Erases Over 1,000 Nasdaq Points - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNkhpUUlaNGhDM0duTm12bGV0N0phOGRPV2xIbFI4b1NQaW8xTWZFYUstcFdjdV9DeDNFeGZReGZmY0c4SGF4MXBqMTBfRkEyWjBuTndnM2lBaTlqNEMxVU1LWlhYVHhISjRRRjJhd3R0UUVwR3drNV9iVFZNOERKOTl5NDg1bHFFTWg3bUhueDJRM0J0aVRQZVJxVmZpVmhzMHNCU1p0S0hDazdCOTl4ZWdFb0xQT2xIc0NWVE1nTnE2SDBsajJZTlN2TWs3X0pVdGl4cA?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Just Crashed 22%. Jim Cramer Says It\u2019s the Cheapest in a Decade - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDZYVFlNUEs5R3oxN2piM1FfQl84SUdVN1ZadFhDV2ZaaC1IX25BMVZjQ0ZUQUs5aWg3NGdTdGhRdG1UMU5XN2YyVWRUVlk0eVJ3SHo3SnlULUZmbnNFeGVEQVlTZE9jQzBGQ01vMHQ3dWZLNFA3VFVPMFFiWGh3Q3BROE5WODIwckV2anIxMnZfUHVrbG1fdQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 6.38,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.19,
-        "weekAgoPrice": 1.2899999618530273,
-        "percentChange": -7.75,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-06T02:15:50.712333Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2054,6 +2011,54 @@
           {
             "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-10T02:20:06.210882Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 178.67,
+        "weekAgoPrice": 204.63999938964844,
+        "percentChange": -12.69,
+        "flagged": true,
+        "news": [
+          {
+            "title": "What Does Nvidia (NVDA) Need To Prove As AI Rivalry And CEO Scrutiny Build? - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CNTYzZE1vRGVZdmtuLWl3Z01hRDlVZUJLVk5OZkVOd0NRbThhUTdWZVBleWd6NVdncHFaNE5kMzk5OGU0MW9ZMVRLZ2RBZXg5OFo1ZWk2MzNBRFNGWVBXMFotSnc5eWVteERGRzU0aThtb083MktLSXVkQ0pneWs?oc=5"
+          },
+          {
+            "title": "Stock Market News, November 9, 2026: Nvidia Stock Slides After Chip Maker Opens Probe - WSJ",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSV9fWHdCZGw4OGdCbVpVMVJreGluVnp1TVhmT1JkemQ0RGdWQTZfNFNuODhETWJUQUt6NTVlUlRGY0NwNkRXOVd6VFlLSWFlTERpMEJWODJraHlyX3ZtRnFpSjUtVzhmOVVKNkRfS0RPZ3l4WHBnWEdwTTRRaVVDdmM3TEhxR0k?oc=5"
+          },
+          {
+            "title": "NVDA Stock Attempts to Recover after Breakdown on Nvidia Board CEO Jensen Huang Investigation Over Espionage Target - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSThwYkM1V2tMaWpBcEx0Vk8tUXJTcUpkZUNXdlFCbzVtMG1Yd2NUWUdDcTQzOWRHZDI2TTRBdW5LSDNYYU9QbS02M2FGUnBIaHJIaFhUa25MdFZDWmVEWVhpeEE2VG1OdEU0M0ppM3AwNWJRUzlwVDcwYVVmS053MkJIbVhSUGJQTG5BZUZsNGRnTVVtenVlX2VKZmhhQmY3eWtrbGwxcEN1OHI4R1VVUi12bkcteG9BaXFWRnIwU056TkhJT2phNlAxUnExRHlUOWplTWlwQ3dud3owTHFUSUYwMnpDSjdaWjZTbWJwQQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.48,
+        "weekAgoPrice": 1.559999942779541,
+        "percentChange": -5.13,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
           }
         ]
       }
