@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-06T14:19:27.517735Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 181.6,
-        "weekAgoPrice": 213.66000366210938,
-        "percentChange": -15.01,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia: Competitive Moat Widening; Buy (NASDAQ:NVDA) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3JjdG55eXd4UHpTU0FsNkw5Szl3MVgzckZGM2dUN1l3bmxiVENVdGhaV2hfcmRIbW9zWUVLTEZZX3FlS0U0WmprUW5lRHZ6a09GM3E1WXRuWUphVVJMT3ludVFnblZoN2ZENVRmS0MxSnpuYnc2N3hnQ1p0dU1nZW5vTQ?oc=5"
-          },
-          {
-            "title": "Cathie Wood Is Buying The Dip In Nvidia As She Adds $45.9 Million Of NVDA And Sells $119.7 Million Of Broadcom - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmgwMG1nNDhvejFLdEVSS25ad0V2SjZnOG9HWmRndXhXWnpsUTZ1YXNpVGh1Q3VtbXlWcTdOajFybF9ZUEFNRktBd1FJc0dfd2ZLTnpwdENKeXhmczhMTnRyNkp2WHlfeW8xdzZDNVlxZ280d0k4QVZKZ2l6N1BNX1pFS2NYVnNhNEVJWF9nTzJ1TjVOaDFHenV3?oc=5"
-          },
-          {
-            "title": "What Sent NVIDIA Stock Lower? - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONUlEREwxZEE1QjhqTlcxN20yYjV2LUdnV2t6d2M4VGpKRVN1QUZVR0V6V2RnMFJRaHlFRXh3N2Z1YXlNR04xWGc3TzY4X0NkZGZFZC0zNDNzcHRPUm1vclpORU92N3pKY1JWdlhSLTQweGFlS1RhWFJxMTU0OUJmS1dXQVRubklEaUMwczRUdWhXckE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.2899999618530273,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-06T15:17:04.549092Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2561,6 +2526,88 @@
           {
             "title": "Nvidia down 27% from its high! Investors could consider these 2 dividend stocks over the S&P 500 today - Yahoo Finance UK",
             "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3M3anIwRUtCclpRWUNZT05NWGdtdmRFVFh1a2FKd2NSZDBMLTVuaGlWWFoxQXhwZUZuZ2pIUDNYc1JqTC02V2tEWGxKVGpqY2NyOGFrWlduRml4NW03Q01xdDJxcjFnZ0V5LUUyU1FSWXRreFlJX2wtR3JuUHZzb29FaVQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.255,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 8.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-10T14:21:31.557425Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 545.18,
+        "weekAgoPrice": 507.1199951171875,
+        "percentChange": 7.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stocks After Midterms Vs Presidential Elections: Which Year Is Better? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYXNmN3dscUZLYkhEVlVKUU52WUtEVVVvcFVZSUlRSVh1MEk0TUdJLVBHOHF5THJSS09CNTVPMWdwYm9FTXBHOXNEaUVtNG0xNXdDQkI4cFVFNHVkUnZORkdxQVRBYnNJVzBvRmFfUXJqSTM3RV9ST2Q0dlpMUmROZEYySWNYbXJTOVdpRVV1ZVR2VHVlWlp0WU9sNHFiMnc3bTRpTS1Zbk9JWXdMTVJ6Y0owejR3WkNlVnVxZ09BaUZiZmhFeUZKUQ?oc=5"
+          },
+          {
+            "title": "How Microsoft Missed $2 Trillion In AI - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkJ1MHhZdm1hVG05V1g1VHdiTjlsZnZkMnM2cFlpWHI1dVBEcnk0VUZfd1BjSm9pRUx1X0N4dU1BMEtMWWNKLVZsMzI5Q203QVdKcXRuY3Via0Rydm5kZ1lreDNaNjg3ZmdYOVQyVERva2RvdG5IMVl2TEc2SkF2SmJ6dFFueTZqYzF1TlVvR0kwSTA4eEk2bl9TcDRHVFk?oc=5"
+          },
+          {
+            "title": "3 AI Power Stocks to Buy in November - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemFzN0l3c1g5eHMxb3BybFVGeHhFNWJpeUlvQ255LTRUME5idHF4LTZYVFdLelhiXzZjUFV5cjVIdUdkUkxzYkZZajlJRmFvQldzNFlzVkEyeXJqVFluMlgwUjFxWTRUQURwamtxU0lWODBSNl83dUF4elJvZDlCaTExRlhEVlViY1U1MURDMlZQYzhPSWZCZExORlVZNVlsTGJvZGh0cWlqTkRFczNnTnlyWl82Nk1HaDN1ZnJ3?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 178.67,
+        "weekAgoPrice": 202.05999755859375,
+        "percentChange": -11.58,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia's China Chip Scandal Reaches Shanghai-Listed Firm - NVIDIA (NASDAQ:NVDA) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOGpkOFkyNXRmVUJ6M0haR3ZCdG1kZ2JUV082Nll5NUxZTTM2U2RSUDFZMDhJd0RicnVEQWlhZU5fOG01bi1JTGdkVFlRNV9iSjNWT0RCUDZjNlh3QW01bEg2dThOVzE4S1dfbDJGb2lsRlNWOWZtakg5aGJhYUZuTDRLaEVGSlVwTFN1WUJiVQ?oc=5"
+          },
+          {
+            "title": "Investor Cathie Wood Buys The Dip In Nvidia Stock - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTc1QUg1S0FraFV1elRjVEFLUzJnVEZ1LWF0bGpwc2dDU051ZnZJOURzNVhyUFRqdTJJWEVkeEhVVXFNbnM1T3lVM01IZHc1OVFTTkJkNEpId3E4bVVETUhRNnYtcnJDOTd0WHh4ek1JWWVMdjFBYWhyNkNWa011OXdmZFJyUlNSSnc3VGw0MFBOSUhmWGUzNFBR?oc=5"
+          },
+          {
+            "title": "Nvidia To $300? Here Are 10 Top Analyst Forecasts For Tuesday - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUC1iRlBUTWZnQy1tSXljOFBOQ1RhVWlFT29ZbThiVGp1YVpFaldBN0pRRFFWTnpTbFZpVlAwa1didVpJSnBwM21IOGx2ak01VVo3dkM5WE9CeE94SC1WQnRQVFBEU0pEQ2VtRUFPck1iQ29tajZqS1U5a3lYelpTMkk0eWdJNlY2dDVpUGd2TmFtT3FVWGJ1NkttZkN2Q0laTDZHR3AtMWNNczV5NWRWa0xucmFKRGsxOXdqLWg2NzRkRTBfOUdUQ3V4SElEYzg?oc=5"
           }
         ]
       },
