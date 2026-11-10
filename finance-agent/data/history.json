@@ -1,32 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-06T03:15:33.161259Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 181.6,
-        "weekAgoPrice": 213.66000366210938,
-        "percentChange": -15.01,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Should You Buy Nvidia Stock Before Nov. 17? - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVF3endQaExLeXJxb3hWc1laY3ZyQUt3QVpucUh4MW5fZUVsY1lkSlp4ejVPSDVqVTBRQi1DZkdfY2N0aGJVbnp3VFNpbHNtZk1mRkFEdWd6RnRDeWtwY2JQZEY3RHhkTFdSeFFRTXFtbEdSVDNhbE83bzNRVXVRTC1FWkRESzhtY0FUclRuU2hNU21CY2xlS0hmVTZfVDJ4cFBPNnZpQUIxdE5EWnBlUkFRSTU2TG84azhOdWNEZ29tOTRw?oc=5"
-          },
-          {
-            "title": "Should You Buy Nvidia Stock Before Nov. 17? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHoxdVI4MTRJRWR4VmQycnkxX01ZeklUYlJlRXJCcDZnTG1FQ1AtZGh3YTBndWZVSWZsZEdYZkxad1ljNkdTMGlmZFp3R0Vrcmt4VTNrcnBzcEtQSlNNejhrNDJvUHdjanBFLXA1YUZYMjNuRlcyVmN6RHBub3JQNXZaaDNrcHpIYlZmWW1kRHhRUQ?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Price Forecast: Drops Below $190 to 7-Month Low, Could Plunge Over 10% Further - TradingKey",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWhhM29idTQwSVFvVWZvQnB3ZUFkc0FpLUhENkYwWWEwRnNkbzZxenM0dDF3SWsteERVeXp2NzBjVW50WjJSUHBEalBuUmlrOWdVeUJSUDdqa0tvaWhkQUR6MUQ2czYzcVRZV2puNXFmSkJVeWZmY3hUQWdQWW43N0N5NEtTWE9oMUJ1cnZwbnpTa1R3OTF3TUZYYmYzVzUtQXZLd0hDZjg?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-06T04:16:15.878456Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2114,6 +2087,67 @@
           {
             "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-10T04:16:05.451051Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 545.18,
+        "weekAgoPrice": 507.1199951171875,
+        "percentChange": 7.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Satya Nadella holds 482,059 Microsoft (MSFT) shares directly after gifting 4,704. - Stock Titan",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1hBMzB0SF9YTVhwN1ZOUk0zeU1CRlhjLXc4MnR0QUs2ektXWWJ6RXVxNnBaWU1BaWxuT1ptdHppaEJSZVU1WTIzdXBwWVRVLUNfRWh0SjdxLWdjZWlVckh5SFFIbjVqb1loak5fTVNJQnhpanRkOXMxeXB5Wkk3Ql9mcTRsVmwtenBRMFYyZEd4Vmt3YnVmcm5IWERJS3RFZHZ3NDNsUENwcFJY?oc=5"
+          },
+          {
+            "title": "Microsoft Corp Stock (MSFT) Moved Up by 3.24% on Nov 9: Facts Behind the Movement - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTV9JenpiWDE3bXZSWERMblpmMi1zY1VBbHZuNnRDUXpVWml3TzhDSmJ0RDVxX0xPV25uTnpMQ3ZhU0NnVm5lcDg3dVlnMUZ5d2I1bGl6R0k4RUJSSlVXQTB5anNNb2YzNmR6NGwyendtWWNzblVEenlnNFhYRzhlWExvTkE4c3M2NWY0?oc=5"
+          },
+          {
+            "title": "Nvidia vs. Microsoft: One Stock Is Too Cheap to Ignore, the Other Deserves a Downgrade, Says Top Investor - TipRanks",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTWFVX1lWYldUdXU0OHJHS1otVnE1U19UMzdlYS1taDNBdndoVGdJUFdjVWVxU1F3RkNrMFBlaFNoYTRSQVdCTVN1eUxHZVV3TS1TQV9NWUxzZGpBeTNMeGU4SGtUOWd6aWFNRTNiY0ZrdXgzNUU5RER3WmtPeGpLbnNDN0M2eGxWcWlnVWZrZEtZdk9DM0hPTkI0VjF2WlNYWElDYnEwbktpdkpkak1kVTlGZFNGaGNLUEF2TkZwTVB3dlA1YUNCclJ1WlhqYng0TjdlZzJB?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 178.67,
+        "weekAgoPrice": 202.05999755859375,
+        "percentChange": -11.58,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA Faces CEO Investigation as Stock Drops (NVDA) - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaEgzeE9tUkFrR2t4ZkJON18yWTVOSnRoYy04aFRhYkhzMTN2SHBjQ2ZIdDNDR0syczhDYmV3bVhXNlZXNVZxWUFiSjQ2M092bjQyOVVQN01Lbk5FODBsWS02bkE0T3Q4Tlh3UTVSRmR5aXg2VnNDS3hjV21LWl81TXFITDFWS2k2dUtjN3FqTU9fSGs?oc=5"
+          },
+          {
+            "title": "NVDA Stock Attempts to Recover after Breakdown on Nvidia CEO Jensen Huang Facing Investigation Over Espionage Target - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQVp0a1p1QUxuZ3dLbURmZTlGVWhmNVNVZzh1MExQODV2RUVBcm81SnpFWXYwdkhqdXUzZ0NpZzJudHJjT2VsSElNaDdOVkxNank1RUlpVV9kbElaZm9qYVVLUmlXSmI0NTlFbklobGdlVGZUcjZiYVEzbG9vZkd2QWFiT1JNTzBtQklRQVVqejFwdl90VC1Pc2lXX1d6TkpVUTR4allSekxoTGMwdFdCNGh2RTkzUWVHeDU1M3ZleThacVphTXZWWl9fWmhiV2R1OUVjeXFRNWNXejdYbDdOeG53TXJwY3IxcDY5RGo3OWw?oc=5"
+          },
+          {
+            "title": "Why Nvidia Stock Was Down Today - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVEpYdmpLay1McEtHNGlrWWFMWVVnN29oaFhoWDczcGJ6R0lGcnNyUGVVV3h1YkhqVThCOG5KWWo3cDZlcWcwY0Uzem1NUlVPdmRid2d1Wi1wMWo2T3dCTU41RW1RRDBic19Ud2N2bjJrVHl4bjhIT2V5dXEtS1BNNlFNZGVUOWJBcXpNSE80c19mTnA4cVVN?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
           }
         ]
       }

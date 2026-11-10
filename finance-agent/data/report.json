@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T03:16:29.987867Z",
+  "generatedAt": "2026-11-10T04:16:05.451051Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -32,16 +32,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "NVIDIA Faces CEO Investigation as Stock Drops (NVDA) - GuruFocus",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaEgzeE9tUkFrR2t4ZkJON18yWTVOSnRoYy04aFRhYkhzMTN2SHBjQ2ZIdDNDR0syczhDYmV3bVhXNlZXNVZxWUFiSjQ2M092bjQyOVVQN01Lbk5FODBsWS02bkE0T3Q4Tlh3UTVSRmR5aXg2VnNDS3hjV21LWl81TXFITDFWS2k2dUtjN3FqTU9fSGs?oc=5"
+        },
+        {
+          "title": "NVDA Stock Attempts to Recover after Breakdown on Nvidia CEO Jensen Huang Facing Investigation Over Espionage Target - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQVp0a1p1QUxuZ3dLbURmZTlGVWhmNVNVZzh1MExQODV2RUVBcm81SnpFWXYwdkhqdXUzZ0NpZzJudHJjT2VsSElNaDdOVkxNank1RUlpVV9kbElaZm9qYVVLUmlXSmI0NTlFbklobGdlVGZUcjZiYVEzbG9vZkd2QWFiT1JNTzBtQklRQVVqejFwdl90VC1Pc2lXX1d6TkpVUTR4allSekxoTGMwdFdCNGh2RTkzUWVHeDU1M3ZleThacVphTXZWWl9fWmhiV2R1OUVjeXFRNWNXejdYbDdOeG53TXJwY3IxcDY5RGo3OWw?oc=5"
+        },
+        {
           "title": "Why Nvidia Stock Was Down Today - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVEpYdmpLay1McEtHNGlrWWFMWVVnN29oaFhoWDczcGJ6R0lGcnNyUGVVV3h1YkhqVThCOG5KWWo3cDZlcWcwY0Uzem1NUlVPdmRid2d1Wi1wMWo2T3dCTU41RW1RRDBic19Ud2N2bjJrVHl4bjhIT2V5dXEtS1BNNlFNZGVUOWJBcXpNSE80c19mTnA4cVVN?oc=5"
-        },
-        {
-          "title": "Nvidia's succession dilemma just got real. Here's who could take over if Jensen Huang steps down. - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2Mtd2hCa2E0bWdnVzc3VG5JajlzVkdvcENXLVhudm1IVkpla1Z0eVctdHJQdVN0YjdPcHVhTW0tcndEcUQtMDBSSkJldXVpQUxpREwyTjd0SmFuRUlucWs4YjNTaVJkM2hZVFNPUzYyckhxRjNnLXEzZlBRaXZ2WExPdnFreFkwWjJSMXVCdGgyLTFzWXRQVnNB?oc=5"
-        },
-        {
-          "title": "Why Nvidia Stock Was Down Today - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6WDRPMFN0enJuVlBhekpMUkhycC1QdjhfOXQxLVZhalROMDFIR0dQSGdQZmdZQWxhYzQ1akZuaVN2cGlqSmR5ekRad09XVUpobEZ2T1JkTE94RkItdDJRX3RWTGt0NjZpNnctWGw4cG53ek5wclNwTzAzS3JiS0U?oc=5"
         }
       ]
     },
@@ -55,17 +55,17 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.7,
+      "currentPrice": 7.69,
       "weekAgoPrice": 7.5,
-      "percentChange": 2.67,
+      "percentChange": 2.53,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.23,
+      "currentPrice": 1.22,
       "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -2.38,
+      "percentChange": -3.17,
       "flagged": false,
       "news": []
     },
@@ -79,9 +79,9 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.46,
+      "currentPrice": 1.44,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": 0.69,
+      "percentChange": -0.69,
       "flagged": false,
       "news": []
     },
@@ -100,24 +100,11 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.25,
+      "currentPrice": 0.24,
       "weekAgoPrice": 0.23499999940395355,
-      "percentChange": 6.38,
-      "flagged": true,
-      "news": [
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
-        },
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-        },
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
-        }
-      ]
+      "percentChange": 2.13,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5352.KL",
@@ -136,5 +123,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 3
 }
