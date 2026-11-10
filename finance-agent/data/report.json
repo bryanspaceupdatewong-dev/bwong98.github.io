@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-10T19:18:17.514816Z",
+  "generatedAt": "2026-11-10T20:16:17.500047Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 534.19,
+      "currentPrice": 532.605,
       "weekAgoPrice": 520.989990234375,
-      "percentChange": 2.53,
+      "percentChange": 2.23,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 168.045,
+      "currentPrice": 168.195,
       "weekAgoPrice": 206.69000244140625,
-      "percentChange": -18.7,
+      "percentChange": -18.62,
       "flagged": true,
       "news": [
         {
@@ -23,12 +23,12 @@
           "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWldTaHlFa1FDMTZiZldtdUlEVFkybDRmU3BUWms1eXNTR21qc1owdUVmSVAya1VBMnFwOTFBTUNlb005WU1kdDFBd0JUcVUwTWYta2RDZjRNRjNhQS13dElEY2Y4aXpNaGJDV1ZHWmp1SVdjMUpuekdNQ0hKX0paRkJENGtHSDNpQnZaZEMzeDJ5YnczVk1jUG93MEJRT05zN1FQbklPVklhR0FVa0ZCVFBiSHN3SGlzTUt4OER2RWIxaDhTMzJ5RVA4NmFXWXQyU2hjQnpKbFY0YU8tTmRzN1BoZmpmbDZmRnVMLVZsX2tpNXc?oc=5"
         },
         {
-          "title": "Nvidia Stock and AI World Rocked by CEO Jensen Huang\u2019s Affair With Alleged Chinese Spy - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0NvTjU3QVI1SFBnSm05ajZPbi1DZzg4RWMtRm9URko4cmNDemlmREFvMjRVSWVCdHFoajVXWElGVmtkdmItNjRzQ0RVMW5TclhReWRjQ0YwNFZlaWlVOGNfNk42ZHhMa0EtOEZucGdZejlmdmpoNVZwa0hmUEJINGVsWQ?oc=5"
+          "title": "NVDA Stock Risks Breakdown to $120 If Last Support Goes as CPI Jumps and Huang Spy Controversy Weighs - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPak9abWVZTGFRd2dYdGtIM05TWWJkVVhCOHhCamtkZmJzaTBwcHJ2S2Q2dnQtc2xRN2MtOW43YktnVWZRc0IzQTZWbUVQdTA1ZEx4eGtaYnpvekUwazlpT05IYXRuMldtLW9hQmVYSmJULXB1enZ3a3ZiR3NOUkpnZFRpSXJVNkI2eWRuakJKM1lzUldxUjVSU0JzNy1lT2NDWEtCd1dSMzF5YkEyd1JBMml6YXpaM2NSRDFTUDMtZjBWZEpVUC05THhmdmk2NFF6WE16V2gyUGVwMm8?oc=5"
         },
         {
-          "title": "Nvidia Shares Sink as CEO\u2019s Alleged Spy Connection Raises Questions About $7.5 Billion in Chips - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHpXUmhGTk1oVlFGYl9Yd2Joa3NIYXhEeXMySExsMGFYUG5jNVFtakFFY3E0WmFxM3Rzazg4OGJFVzNnSHRaaVY5QndreVhTYWJ4aXZUNE5ON0p3RWhxMHFJMEJPOGQwZU1aZ0tlNU5WT1hLV0R0Qm40NEllNjVuRVdFcHVHWWVPb1B2U0VKVS1IQ2ZaQUpHQ3BJVQ?oc=5"
+          "title": "AMD Gains 25% Against NVDA in 2 Days: Chip Analyst Says Lisa Su Is \u2018at Her Best\u2019 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0FIQVdoN2dpcDVvT1FZNnkxeWJfbU9xVTFhSUFkLTZ6SVlsTGczdUVhcVlwcElfbk1rVlJBSmxheFY0OXo0RTFQU2pSd1lxVkFsZllMcG42MlExYTlEbENPTFp1eTVwMnUxMFA4MWRjNzZ1Y0Y3Tk53SGVsVWJRdTNtSlAza2NFOWlEMHVINA?oc=5"
         }
       ]
     },
