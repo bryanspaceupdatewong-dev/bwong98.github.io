@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-06T11:16:28.505848Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 181.6,
-        "weekAgoPrice": 213.66000366210938,
-        "percentChange": -15.01,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia (NVDA) Stock: $181.60, Down 9.26% Nov 5 - JournalArta",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXhQT0JNXzg3eURlaVdMbFBkWE14d3N4cjZneUVuaFEydXRWSTJvcVNFOFZvRGdqbkV2ZHc0WGxVMlVhVFlSa1N1MnA0YmRFVzVWdlREYTNuYnlDNDg1S1h4UVV5aHA5Zms5UHhvT3VJcXFEZnJ2ZkNPcEltM2o0c05SRURiNGs2c1hYUldPUHJhUHFDZWlR?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Stock Sold by KMG Fiduciary Partners LLC - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMnBXR1ZMazNVUVdlMVN6ZnI1TjhBaDF3VUNEQVN1RF9WSmV5TXpRb2g0czZybEtHMzd6OTVIQjBlRlBPc01pT012cGEzS01Gd3NuMEt2SnJteXJ2QUFQVjcyT1pGUXEtc0wyMXdNS3dsQVFncURIRmJ2Z25idFdxbGIxbEFhdmJCTms4dzVNRDJSaWpQNGhPUEV1QVVXNU9vNzdMNjBWa3U2ai1tTHRfbFp0aHBGZTdfanIwMUVOVkpndm8?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Shares Sold by Salem Investment Counselors Inc. - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXRpSjZ1T216MDNyLVJPVXRzcUY0MjZBQ2hHVEhhelNHTDNfaE14akprM1hoSDdsVVBJRmJla3MzVC11c0tGbkZWNnpIa0laZzN6QmVqenpSZkNIc2RCRzdUcVluWm5NNUhzNUZwWC1IT3FKNGpQWFVrSGZPb0V2LVVWYzRzbGJSSE1Wcm81YXhSNEZTMnYtLWxjVmdNN29nc0dwT3I0enJJQm5FVEFEZUg4RE5LYVFNNnk2WXFTNk1PZ2pXWHBOOFpJaw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.2899999618530273,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-06T12:16:14.214832Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2420,6 +2385,88 @@
           {
             "title": "Nvidia\u2019s China Spy Fallout Deepens: Report Says Moonshot AI Accessed NVDA\u2019s Advanced Chips Despite Export Controls - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU01rTHBJTGN0TTIyVU8yTlF4OTViNDJHWWJzUzFEUk5NZ3hWeWxrSldHenEyN0piMlZ0TmdkaUNEWWVKczlUbXJSTUl3R0tGQnlTcDBpLVNnQmZFanc0VWpOckNWWmFGc08wUTh0UTU0Tkt5OUpHY3haSU5NU1J6UnByQmVabVdKX01IZUhDanRoOTktUjQ1WG5mX2o?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.255,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 8.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-10T12:20:26.096097Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 545.18,
+        "weekAgoPrice": 507.1199951171875,
+        "percentChange": 7.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stocks After Midterms Vs Presidential Elections: Which Year Is Better? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYXNmN3dscUZLYkhEVlVKUU52WUtEVVVvcFVZSUlRSVh1MEk0TUdJLVBHOHF5THJSS09CNTVPMWdwYm9FTXBHOXNEaUVtNG0xNXdDQkI4cFVFNHVkUnZORkdxQVRBYnNJVzBvRmFfUXJqSTM3RV9ST2Q0dlpMUmROZEYySWNYbXJTOVdpRVV1ZVR2VHVlWlp0WU9sNHFiMnc3bTRpTS1Zbk9JWXdMTVJ6Y0owejR3WkNlVnVxZ09BaUZiZmhFeUZKUQ?oc=5"
+          },
+          {
+            "title": "How Microsoft Missed $2 Trillion In AI - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkJ1MHhZdm1hVG05V1g1VHdiTjlsZnZkMnM2cFlpWHI1dVBEcnk0VUZfd1BjSm9pRUx1X0N4dU1BMEtMWWNKLVZsMzI5Q203QVdKcXRuY3Via0Rydm5kZ1lreDNaNjg3ZmdYOVQyVERva2RvdG5IMVl2TEc2SkF2SmJ6dFFueTZqYzF1TlVvR0kwSTA4eEk2bl9TcDRHVFk?oc=5"
+          },
+          {
+            "title": "ETFs Are Buying Microsoft (MSFT) on Nov. 6 - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRktZRlRLUExuVU1CRjJ5Ym9aNFFrVWNGMWdjYjlGS1hEQ0NEbEJ5aGYtcFJIWGMydGJWcmY2S1FjS3gyYjU0a1dWYkRGVGFudW5XOE1CYTVPTVJTbWhFcHk3YlhpZUh3SHNvaEw5VGt1dUdmU3Nfa0VKclZTWkNzVTFEVWRSMDhNdFE2UGlDM2hQWXVPMVpLa0lfVQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 178.67,
+        "weekAgoPrice": 202.05999755859375,
+        "percentChange": -11.58,
+        "flagged": true,
+        "news": [
+          {
+            "title": "FBI Investigates Nvidia CEO Amid Espionage Allegations; NVDA Sto - GuruFocus",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRmtqaFBKOWJkd2ZvcHBZbldkdVFBbV8yTDV2SG1kcWR6aS03WGJqb3hYTFZ2OFZ4RWhIc3ZaWDMyaHAtNTZzV1NQYnN1MEdJblNyZUtKS3VIZTYyaE16Z3NCbXlUT19zaEhHRGozWE9aUjJWdlZyLWlucmZnaml5aWp6U29kTnlSOUhYelVsYTRUU0VsYy1BQndOUWJFVkFla295dnRiWFVRN0llNTZBdU9NLVRLMlFKQi04?oc=5"
+          },
+          {
+            "title": "Prediction: Nov. 17 Will Be a Huge Day for the Stock Market - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1JOZlBwRTJSMUdwak5YSzgwdkNyUHhrencwdGdNZGg1eW9hVjZQMHBIeU5ra0N1ZU1JVVdJeExCMC1lYjNnbm0tQ1lGOTczdmZLbzFuQ2N6bkM5WHZLTnJtVTBVaEltRHJxWWl6Y1pPaHRxdFNOVGtSYmY1dEoyM1pWSmI3UFNtM2g2Z3hmRXcxcUxyNkNDYTNweWlQYjJsV2c?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Rises as President Trump Backs Huang in China Spy Storm - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdktLbWtmTXpkdWIzektvSXR4czFQZ0V1Q0hfaTNRdmpoWGpGWVlFOE1NbHJPb1BIYllFYmZ6WERDUXRJMEN4SWZ3aDZXRnlvZVp0UUdRVFo0bmt3aFdOeVZEaEN3UHM3dWZUbXR2QWc4SUdpdjlQRURTbUViVkdqSlhPd3VHdk9nSFlVQzBnX0JXbGNxTUJRaEpMZF95UnQy?oc=5"
           }
         ]
       },
