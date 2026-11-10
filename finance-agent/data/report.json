@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T05:15:56.426423Z",
+  "generatedAt": "2026-11-10T06:19:29.294083Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -11,16 +11,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Microsoft (MSFT) Signs Global AI Safety Declaration - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUFtZkhMUXRyWkJOTWJXNGZzM2dPT2ltTWxtc3NoYmN4UkdnRTNpRkd6NTNndlJsc1pieEZLd2hyWHJLVTdkaFdsU0pWNUhBTFN4UUlNTzd2ZmRvQ0pMQWFTUXliRm1JVEtEckJoZmpYdGNTYXRIVFduYXMzdXBNRDFjNFZzdw?oc=5"
-        },
-        {
           "title": "Satya Nadella holds 482,059 Microsoft (MSFT) shares directly after gifting 4,704. - Stock Titan",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1hBMzB0SF9YTVhwN1ZOUk0zeU1CRlhjLXc4MnR0QUs2ektXWWJ6RXVxNnBaWU1BaWxuT1ptdHppaEJSZVU1WTIzdXBwWVRVLUNfRWh0SjdxLWdjZWlVckh5SFFIbjVqb1loak5fTVNJQnhpanRkOXMxeXB5Wkk3Ql9mcTRsVmwtenBRMFYyZEd4Vmt3YnVmcm5IWERJS3RFZHZ3NDNsUENwcFJY?oc=5"
         },
         {
           "title": "Microsoft Corp Stock (MSFT) Moved Up by 3.24% on Nov 9: Facts Behind the Movement - TradingKey",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTV9JenpiWDE3bXZSWERMblpmMi1zY1VBbHZuNnRDUXpVWml3TzhDSmJ0RDVxX0xPV25uTnpMQ3ZhU0NnVm5lcDg3dVlnMUZ5d2I1bGl6R0k4RUJSSlVXQTB5anNNb2YzNmR6NGwyendtWWNzblVEenlnNFhYRzhlWExvTkE4c3M2NWY0?oc=5"
+        },
+        {
+          "title": "Nvidia vs. Microsoft: One Stock Is Too Cheap to Ignore, the Other Deserves a Downgrade, Says Top Investor - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTWFVX1lWYldUdXU0OHJHS1otVnE1U19UMzdlYS1taDNBdndoVGdJUFdjVWVxU1F3RkNrMFBlaFNoYTRSQVdCTVN1eUxHZVV3TS1TQV9NWUxzZGpBeTNMeGU4SGtUOWd6aWFNRTNiY0ZrdXgzNUU5RER3WmtPeGpLbnNDN0M2eGxWcWlnVWZrZEtZdk9DM0hPTkI0VjF2WlNYWElDYnEwbktpdkpkak1kVTlGZFNGaGNLUEF2TkZwTVB3dlA1YUNCclJ1WlhqYng0TjdlZzJB?oc=5"
         }
       ]
     },
@@ -32,16 +32,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "FBI probing Nvidia CEO Huang amid China spy allegations, Trump says (NVDA:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUld1eHhRQ1ppSlVpQ21OQ0RvRnlRN1R6NTlqX1NfRV9ueVQ0SDNxMEdhSW9rWTNBNVNCVFphMHMxS0hsNjVVWHBETGZnLXAxV0tyZDJqRXkxaTJ3MktjSHNfZHRsODdmbFNuRGt5YXVYTlNidFltMWV2WXRkeTRDVjU0Zkx2bmF0MmJmUlZzdlhoT05aeHlBQ3ZwZFFRNS1PM2ZjbDkyVQ?oc=5"
+        },
+        {
           "title": "3 US AI Chip Stocks Beyond Nvidia Stock Key Person Risk - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10V3U5NklZMnVJSy1OT2dEZmdUSXBLWFM0V0pwc2tmVmQ1VjRZMWpHVFdoRHZjZWlYbnFsQmE2LUlpZGUtV3EtR2pmR3Job0pBRlJOMHJKQzdtek41dGZKU0h4YzN1ZE91eWJCR3B5djlwYmF3MnNF?oc=5"
         },
         {
           "title": "NVIDIA Faces CEO Investigation as Stock Drops (NVDA) - GuruFocus",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaEgzeE9tUkFrR2t4ZkJON18yWTVOSnRoYy04aFRhYkhzMTN2SHBjQ2ZIdDNDR0syczhDYmV3bVhXNlZXNVZxWUFiSjQ2M092bjQyOVVQN01Lbk5FODBsWS02bkE0T3Q4Tlh3UTVSRmR5aXg2VnNDS3hjV21LWl81TXFITDFWS2k2dUtjN3FqTU9fSGs?oc=5"
-        },
-        {
-          "title": "NVDA Stock Attempts to Recover after Breakdown on Nvidia CEO Jensen Huang Facing Investigation Over Espionage Target - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQVp0a1p1QUxuZ3dLbURmZTlGVWhmNVNVZzh1MExQODV2RUVBcm81SnpFWXYwdkhqdXUzZ0NpZzJudHJjT2VsSElNaDdOVkxNank1RUlpVV9kbElaZm9qYVVLUmlXSmI0NTlFbklobGdlVGZUcjZiYVEzbG9vZkd2QWFiT1JNTzBtQklRQVVqejFwdl90VC1Pc2lXX1d6TkpVUTR4allSekxoTGMwdFdCNGh2RTkzUWVHeDU1M3ZleThacVphTXZWWl9fWmhiV2R1OUVjeXFRNWNXejdYbDdOeG53TXJwY3IxcDY5RGo3OWw?oc=5"
         }
       ]
     },
