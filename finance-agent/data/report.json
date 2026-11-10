@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-10T18:15:57.067852Z",
+  "generatedAt": "2026-11-10T19:18:17.514816Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 530.98,
+      "currentPrice": 534.19,
       "weekAgoPrice": 520.989990234375,
-      "percentChange": 1.92,
+      "percentChange": 2.53,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 167.79,
+      "currentPrice": 168.045,
       "weekAgoPrice": 206.69000244140625,
-      "percentChange": -18.82,
+      "percentChange": -18.7,
       "flagged": true,
       "news": [
         {
-          "title": "NVIDIA Stocks Slide 4.43% as Report Alleges $7.5 Billion in Chips Reached China - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVl2ZFFBek9qU2Q4a29xd1BPVzdMS2VWaXBFdkVMRmRBRC1IOGVaRU1ISktjbkZ5d0xJNlpUNUhTeHFIUFE2ZHpldFVFZW15MnV1amhId1V1NmFzX3d2VmhVZEhnQ2lZREFkNzVpVHVzbVo1ejd3QXFzcVJ6N2plYVNJaDc5VFNrTy1KMjlNaFMtWFk?oc=5"
-        },
-        {
-          "title": "NVDA Stock Risks Breakdown to $120 If the Last Support Goes as CPI Jumps and Huang Spy Controversy Weighs - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmt2TXhacmtuUWh0cUlCN25lQU9LQUxCZ2NaSUNRYUJiODVNNzFUOWpDRFNueHRBcy00RnIyU3AxOWZxTXh1Ql9zT1U3bGdib1o5SmhsZ2laWWpFSnFwSnVZMWo3aWRXTkRSQ0tJcnpEQzMwNUhxbHdJRk5oNXN4b1VRVktpOTBhcHBEVElDcWdfT3hsSTdMVXVzQkl6alRldTRja3c2bzJuRFVZaHFXV25wZ05LaFp5ZzVrLXJyOEFfd00tSUxHaGdhamZxbEV0MFlER1hlTjJxeVFXRVByUg?oc=5"
-        },
-        {
-          "title": "Nvidia live updates: Nvidia extends fall as board investigates CEO's affair with alleged Chinese spy - Yahoo Finance",
+          "title": "Nvidia live updates: Nvidia stock drops as spy fiasco involving CEO Jensen Huang raises broader risk concerns - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWldTaHlFa1FDMTZiZldtdUlEVFkybDRmU3BUWms1eXNTR21qc1owdUVmSVAya1VBMnFwOTFBTUNlb005WU1kdDFBd0JUcVUwTWYta2RDZjRNRjNhQS13dElEY2Y4aXpNaGJDV1ZHWmp1SVdjMUpuekdNQ0hKX0paRkJENGtHSDNpQnZaZEMzeDJ5YnczVk1jUG93MEJRT05zN1FQbklPVklhR0FVa0ZCVFBiSHN3SGlzTUt4OER2RWIxaDhTMzJ5RVA4NmFXWXQyU2hjQnpKbFY0YU8tTmRzN1BoZmpmbDZmRnVMLVZsX2tpNXc?oc=5"
+        },
+        {
+          "title": "Nvidia Stock and AI World Rocked by CEO Jensen Huang\u2019s Affair With Alleged Chinese Spy - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0NvTjU3QVI1SFBnSm05ajZPbi1DZzg4RWMtRm9URko4cmNDemlmREFvMjRVSWVCdHFoajVXWElGVmtkdmItNjRzQ0RVMW5TclhReWRjQ0YwNFZlaWlVOGNfNk42ZHhMa0EtOEZucGdZejlmdmpoNVZwa0hmUEJINGVsWQ?oc=5"
+        },
+        {
+          "title": "Nvidia Shares Sink as CEO\u2019s Alleged Spy Connection Raises Questions About $7.5 Billion in Chips - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHpXUmhGTk1oVlFGYl9Yd2Joa3NIYXhEeXMySExsMGFYUG5jNVFtakFFY3E0WmFxM3Rzazg4OGJFVzNnSHRaaVY5QndreVhTYWJ4aXZUNE5ON0p3RWhxMHFJMEJPOGQwZU1aZ0tlNU5WT1hLV0R0Qm40NEllNjVuRVdFcHVHWWVPb1B2U0VKVS1IQ2ZaQUpHQ3BJVQ?oc=5"
         }
       ]
     },
