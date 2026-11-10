@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-06T15:17:04.549092Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 191.44,
-        "weekAgoPrice": 204.63999938964844,
-        "percentChange": -6.45,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Breaking News: AI Hardware Rebounds: MU +9.5%, NVDA +6.4% - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRFBZTDNBZ3R0a2VlYzU1NFhrNUQzS3otY1Q4NUVyOS1qVkxNbnBFSHVUcGthYUNSY0lHOVd1cjFvbGI2Ym83M3lXRjFHeGNzSV9zZVNoVnJ3clRvd1RnZGlvckN5TXlmbHYwYTBXYXFlSXRZRldQdEJHTXlrZmNpTWtBUnZVeERpLUlzSXJZRWg2T3B2ZF9kazJNcUs2SnJudWVUVg?oc=5"
-          },
-          {
-            "title": "Pennsylvania Rep. Daniel Meuser Sold Up to $15K Worth of NVIDIA Stock - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUowT0RQY0FRckRnRXJtNktISWdJMm5ZY1JNZ3VoMDBrZV96d2Uya0c2akEtbzBMLXNuRVBFTWVubnRSbmNiTDg1NDF4T1ZIUHlWb0hjMERKVVBJSmJvRlhOc05aZmV5NUVYLVczUGU2a09BWUg5NFRPT3k4X0lIeHowWmpnaDNxNTNlVEFTMWhkYm9kOFhqbXFzengzeVRyS0FtTVF1WVktMFMyV0E?oc=5"
-          },
-          {
-            "title": "U.S. Stock Market Movements | NVIDIA (NVDA.US) Surges Over 6% as It Plans Data Center Retrofitting Projects with Capacity Reaching 1 Gigawatt - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGs5d3lFcWd5WEVwZlBvelNFUWdkUFpJeEgwNGhxckJ1aVdHTmlEVHpmbnZyUEZFMHJnbnZ3c1JVUE1zZmx6eXFhUG04dnp4RzBrRF9Xa3RjVjA3ektfYmZhb0NEaFR3MVFMOUU2QTJDeGZuR2owUTJoYTVYWWdOTnZJRmkzaHhqYlBJMWlHTlZfWWpXTng2V3BzSWFPa2kzWlE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.2899999618530273,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-06T16:17:49.238058Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2608,6 +2573,67 @@
           {
             "title": "Nvidia To $300? Here Are 10 Top Analyst Forecasts For Tuesday - Benzinga",
             "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUC1iRlBUTWZnQy1tSXljOFBOQ1RhVWlFT29ZbThiVGp1YVpFaldBN0pRRFFWTnpTbFZpVlAwa1didVpJSnBwM21IOGx2ak01VVo3dkM5WE9CeE94SC1WQnRQVFBEU0pEQ2VtRUFPck1iQ29tajZqS1U5a3lYelpTMkk0eWdJNlY2dDVpUGd2TmFtT3FVWGJ1NkttZkN2Q0laTDZHR3AtMWNNczV5NWRWa0xucmFKRGsxOXdqLWg2NzRkRTBfOUdUQ3V4SElEYzg?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.255,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 8.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-10T15:19:46.774047Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 172.731,
+        "weekAgoPrice": 206.69000244140625,
+        "percentChange": -16.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock market today: Dow, S&P 500 sink after CPI data raises Fed rate-hike bets - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREVVTENmTlJlY1Bnc0hHM044UjZReF9oT2s4c1lpSnVGdEtmYmN1eGZqRE5RSWszazktSkR0NmhpNW5hd2MzR1ZiSzNmdTU4UGI4aEFuMHpqSHZ3TVZnbjJRSlhBYWxsRk5sNERlSVhGM01RVlNfMW9hVkkwa3BsOHBJeGdxVWU4cmVxZDFrLTZnbW42NzFZOXBKOFhxTjNRYUFTUXVDS2ZLaUhZSElyT1VSOUFURGV0YWRwZ2ZqZy1feUdEdXdLaA?oc=5"
+          },
+          {
+            "title": "Nvidia live updates: Nvidia extends fall as board investigates CEO's affair with alleged Chinese spy - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWldTaHlFa1FDMTZiZldtdUlEVFkybDRmU3BUWms1eXNTR21qc1owdUVmSVAya1VBMnFwOTFBTUNlb005WU1kdDFBd0JUcVUwTWYta2RDZjRNRjNhQS13dElEY2Y4aXpNaGJDV1ZHWmp1SVdjMUpuekdNQ0hKX0paRkJENGtHSDNpQnZaZEMzeDJ5YnczVk1jUG93MEJRT05zN1FQbklPVklhR0FVa0ZCVFBiSHN3SGlzTUt4OER2RWIxaDhTMzJ5RVA4NmFXWXQyU2hjQnpKbFY0YU8tTmRzN1BoZmpmbDZmRnVMLVZsX2tpNXc?oc=5"
+          },
+          {
+            "title": "NVIDIA Falls 4% as Board Probe of Jensen Huang Weighs on Shares; AMD and Broadcom Gain 3% - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2N0VF9zX294SXp2LWpvU25XNDlfY3JpVXhlOEJobDl2SUNHNDFPYXd3MEkyVFc5QXRYbFZZb1czSWptc0ZjWmFNZUN1T2RLSTV5SHdJQk5Ia0FyZnNCLUQyOWJhRk9nLXVrZU1sSjFfNjV3YzhfOC1LZFk5YjEzWFl6cUYxcGV6b05JMVdIeU1yVm5RZUE?oc=5"
           }
         ]
       },
