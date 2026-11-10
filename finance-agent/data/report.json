@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T08:17:18.320372Z",
+  "generatedAt": "2026-11-10T09:15:53.473786Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -32,56 +32,56 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia\u2019s China Spy Fallout Deepens: Report Says Moonshot AI Accessed NVDA\u2019s Advanced Chips Despite Export Controls - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTnhobzhEQnYwLVYyNTUyN2M4Zk1ydXNJdmlDTk56eHpkSjd2MnFYUnU4bzlHb3dZbElDTW5nakNhSkZPbGpQUXctR2huYUpRUF9sT1l6RDMwVWNkYkIzZV90Zl82TlVfNGdjUkRLcVc1bm5Ycm8yRldId01mYTQ4b0ZFU2ZYbW96RXYwYnd6bGNKSTRIVXJqdUJmRHoyb1UyUWJoS2cyNTFNTkgteEgyc3FrM252Rko1X3ZKM0VUMzhUNVVBbWVWUnJkZlRrVTIwbENwM0FhTHlWTWU4aFhaclU5amVaamZvU1c5cGZoaThKbV9VSkd0LUx0V29xUXQ2d0FpXw?oc=5"
+        },
+        {
           "title": "AMD Stock Clocks Best Day In 6 Months \u2014 But Michael Burry Won\u2019t Touch The Nvidia Headline Trade - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzVGZHFrUzZYRzREWUJ6eUZJcFBkaVZ1OElTLWswTC1QWU5OLV83X1hfQWFiaXRBWWJob1liZFZaR2otS3VESFNjbXRuNU4tMUprdjZZdXZVYmd2ZW5LWnZ1NmJ6TGNneUo3amJ2NWJzcVJXbHBtdW8wbUpuVTMwYUwwQk5YU19HYU5Ha2Zadzh0QVZG?oc=5"
         },
         {
           "title": "FBI probing Nvidia CEO Huang amid China spy allegations, Trump says (NVDA:NASDAQ) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUld1eHhRQ1ppSlVpQ21OQ0RvRnlRN1R6NTlqX1NfRV9ueVQ0SDNxMEdhSW9rWTNBNVNCVFphMHMxS0hsNjVVWHBETGZnLXAxV0tyZDJqRXkxaTJ3MktjSHNfZHRsODdmbFNuRGt5YXVYTlNidFltMWV2WXRkeTRDVjU0Zkx2bmF0MmJmUlZzdlhoT05aeHlBQ3ZwZFFRNS1PM2ZjbDkyVQ?oc=5"
-        },
-        {
-          "title": "3 US AI Chip Stocks Beyond Nvidia Stock Key Person Risk - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10V3U5NklZMnVJSy1OT2dEZmdUSXBLWFM0V0pwc2tmVmQ1VjRZMWpHVFdoRHZjZWlYbnFsQmE2LUlpZGUtV3EtR2pmR3Job0pBRlJOMHJKQzdtek41dGZKU0h4YzN1ZE91eWJCR3B5djlwYmF3MnNF?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.72,
+      "currentPrice": 4.68,
       "weekAgoPrice": 4.789999961853027,
-      "percentChange": -1.46,
+      "percentChange": -2.3,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.71,
+      "currentPrice": 7.69,
       "weekAgoPrice": 7.5,
-      "percentChange": 2.8,
+      "percentChange": 2.53,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.22,
+      "currentPrice": 1.24,
       "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -3.17,
+      "percentChange": -1.59,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.52,
+      "currentPrice": 1.53,
       "weekAgoPrice": 1.559999942779541,
-      "percentChange": -2.56,
+      "percentChange": -1.92,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.45,
+      "currentPrice": 1.46,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -0.0,
+      "percentChange": 0.69,
       "flagged": false,
       "news": []
     },
@@ -100,11 +100,24 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.245,
+      "currentPrice": 0.255,
       "weekAgoPrice": 0.23499999940395355,
-      "percentChange": 4.26,
-      "flagged": false,
-      "news": []
+      "percentChange": 8.51,
+      "flagged": true,
+      "news": [
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+        },
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+        },
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5352.KL",
@@ -116,12 +129,12 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.635,
+      "currentPrice": 0.64,
       "weekAgoPrice": 0.6600000262260437,
-      "percentChange": -3.79,
+      "percentChange": -3.03,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 4
 }
