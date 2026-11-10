@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-10T17:16:10.218191Z",
+  "generatedAt": "2026-11-10T18:15:57.067852Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 543.375,
+      "currentPrice": 530.98,
       "weekAgoPrice": 520.989990234375,
-      "percentChange": 4.3,
+      "percentChange": 1.92,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 167.29,
+      "currentPrice": 167.79,
       "weekAgoPrice": 206.69000244140625,
-      "percentChange": -19.06,
+      "percentChange": -18.82,
       "flagged": true,
       "news": [
         {
-          "title": "NVDA Stock Risks Breakdown to $120 If the Last Support Goes as CPI Jumps and Huang Controversy Weighs - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeXpIanlPbjFGX09fVDhnNFZEazB3eGR0TGxTOFBkMWpLSEhuTjl0czFlMGZ2LTJHRjVDS04wMl80aV95eldDNnAwNnhWZVVuN3o3ZkRkUWZUaU5lMDFiMXkydk9VSjZGaUZPd0dxUVNqZjFCQndSQUU1Um1GTzFqbHhuU0d1NHJxcl9xcndpX1JVam4xTzlTRjNjS0YydDRYLUdyYlU2aVNkQWpkei1Va1BfdGtKUUZCMWxaemZLcXEyMDU1MnRpcGc3YXZ1RG04T0ZmSWNzQkdzWHc?oc=5"
+          "title": "NVIDIA Stocks Slide 4.43% as Report Alleges $7.5 Billion in Chips Reached China - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZVl2ZFFBek9qU2Q4a29xd1BPVzdMS2VWaXBFdkVMRmRBRC1IOGVaRU1ISktjbkZ5d0xJNlpUNUhTeHFIUFE2ZHpldFVFZW15MnV1amhId1V1NmFzX3d2VmhVZEhnQ2lZREFkNzVpVHVzbVo1ejd3QXFzcVJ6N2plYVNJaDc5VFNrTy1KMjlNaFMtWFk?oc=5"
         },
         {
-          "title": "Nvidia Stock Has Its Lowest Price Compared With Profit in Over Seven Years - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdkVFaUhoanUyOG10ckpWcUNBUXdrbzg5M3doTHhkdjRaak1tSHgtbzhBckdaWFlmTnF0czhIdERYLTVQaHlEa29peHE0OVpSbXVwZTZUNEN1Nl9YaG9yNjRTYkpzdzVtRU5hbnFvNHZucGF4UVdfXzFhN2dTREhqbw?oc=5"
+          "title": "NVDA Stock Risks Breakdown to $120 If the Last Support Goes as CPI Jumps and Huang Spy Controversy Weighs - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmt2TXhacmtuUWh0cUlCN25lQU9LQUxCZ2NaSUNRYUJiODVNNzFUOWpDRFNueHRBcy00RnIyU3AxOWZxTXh1Ql9zT1U3bGdib1o5SmhsZ2laWWpFSnFwSnVZMWo3aWRXTkRSQ0tJcnpEQzMwNUhxbHdJRk5oNXN4b1VRVktpOTBhcHBEVElDcWdfT3hsSTdMVXVzQkl6alRldTRja3c2bzJuRFVZaHFXV25wZ05LaFp5ZzVrLXJyOEFfd00tSUxHaGdhamZxbEV0MFlER1hlTjJxeVFXRVByUg?oc=5"
         },
         {
-          "title": "Cathie Wood Is Buying Nvidia Again, Adding 90,443 Shares During the Huang Selloff - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3A5aXduRkRfbkNOSzlNVjlqWEtQdjRIRldxWG9VSWJiLTlYVW9Nc3VnZlZxUy1hanJURndZalgtS2ZBb0QzaTBQWkdBWTVwYnE2ak4yVVdxbnp5Q1NiMEdZeWhfSzRkNjkwZVpILXRqeEVqNlhtYzVxVV9OR0V2dnNRcXlaX1JQNk5jVHRINnVvQzhOSnU0dzZZWlA?oc=5"
+          "title": "Nvidia live updates: Nvidia extends fall as board investigates CEO's affair with alleged Chinese spy - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWldTaHlFa1FDMTZiZldtdUlEVFkybDRmU3BUWms1eXNTR21qc1owdUVmSVAya1VBMnFwOTFBTUNlb005WU1kdDFBd0JUcVUwTWYta2RDZjRNRjNhQS13dElEY2Y4aXpNaGJDV1ZHWmp1SVdjMUpuekdNQ0hKX0paRkJENGtHSDNpQnZaZEMzeDJ5YnczVk1jUG93MEJRT05zN1FQbklPVklhR0FVa0ZCVFBiSHN3SGlzTUt4OER2RWIxaDhTMzJ5RVA4NmFXWXQyU2hjQnpKbFY0YU8tTmRzN1BoZmpmbDZmRnVMLVZsX2tpNXc?oc=5"
         }
       ]
     },
