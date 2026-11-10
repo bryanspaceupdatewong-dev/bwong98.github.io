@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-06T22:16:29.088543Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 186.64,
-        "weekAgoPrice": 204.63999938964844,
-        "percentChange": -8.8,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary? - MarketWatch",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5"
-          },
-          {
-            "title": "NVDA Stock Rebounds 4% but $180 Support Remains Critical After Midterm Selloff for Nvidia - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmJnVGV0bDlYY3Q0OVBJLXExYkgtakQ4emVyUktySWkwUHVsWkhia0s1bXZIeXEyWW8wREJLUXRIMHlfbHpzTEpRdmRQeHA3c0R1amRFWVVfd2RxTGY3WmI3cmJUYWF2X3lYckxPMVVQV1c5MXBvaE55R2dCMXBzb0FNYl9lV1JxeHNqbmc4OFNNcllXWXJyZVkzOTg5dENjcUdDVGRzeWJYQUxKejJXWktPS25NUUpYLVR2bnpKanFzeUg3NUt2QlNn?oc=5"
-          },
-          {
-            "title": "Cathie Wood buys $47 million of popular semiconductor stock - TheStreet",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0Y4Smk5cndEWlN1S1pzQjdGQWdVVXJxaUFVM3JMT0xVVEtLVTFVMHp2TWJLV2pDckxfdHJTYUF5R2dqYnV3azVmeXVYUkl0bmJFQjJmc1htb3MzZjVNTjk3dnhXdjNLNGIxXzgwTUpBT1JRRmpIRFpaU1dBalJkajdWLUs2U1pKek8zaTBsc0xFN3lEeW9EUVpMZEtYRExrYUhoeWduTWJBaFlGOHVIMVdmcw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.2899999618530273,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-06T23:16:09.634872Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2838,6 +2803,67 @@
           {
             "title": "Prediction: Nov. 18 Will Be a Huge Day for the Stock Market - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWU0xYU9DckhqWVBtUTdIMmhHc3RPRHFDMlA1aXExSnl0Q3RLMFhUTU0tTm5obkhRWm9jU1JnaDU3SWk2b1VSY0xvTC13SzJiZXozczduQVJMdVRCNU1wcVl2NVRKRm9obVN1cHJBeXhVWUdmYWxZU3daOS1mNURjMUJCeXJYWEtZOEZsR3FuY1dUVC1MRlE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.255,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 8.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-10T22:19:53.950603Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 168.89,
+        "weekAgoPrice": 206.69000244140625,
+        "percentChange": -18.29,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Why Nvidia Stock Just Fell Again - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckllOURiV0I3Wm8tM3I3M0hxTUJESUxra21vY2ZURGdSZC1tMjRtYWp5Z3o3bXJRam1NZWhWM01hVnhsVlZOU0I4R29uaVJqbV8yeWpVemxQZzA0RmZCZ3JhY0lqR0VNWmV6b1NmVW9XX2NJNmpsUEpKRl9Hb2JwUk02cldVUDd5aFJIVUZBUWR4MnNrSVo0WnZKcmdDclZrbngyc1pJUUZ6cDRXam9YdUVpR3phbllfT2xN?oc=5"
+          },
+          {
+            "title": "Why Nvidia Stock Just Fell Again - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmtybzdycmQ0VmZnWUU4OXBtbUs3ZUNsM1BzZG9FNi1Temw4enFfN09LQXhHS3VvSF9oSkNkLWZwaWxDeHRnU0lQTVNPbWJUSGtYTmlqaHBlVUN2bW9zTzl5VWVfNUd0Z3AxQ1pIbGxtRHJ5M2h4MFk0WldqbXVvM2dWQ2NaYVNiRFJQb0Njd2RpZ2RlLWc?oc=5"
+          },
+          {
+            "title": "Jensen Huang\u2019s Love Life Just Made Nvidia the Dow\u2019s Cheapest Stock - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczFUVjZBMG0wSVRhU1cxWEtMNkx4U2JuSDNtVXU2eU5DeElNUWZxWlU3U0dScEYtNTZNMlBiaFgtMnBwOFUyQy16cTVrX2ZZOXZHR3dYNk04NEpvOXRXWTJOc1lqMks4TVkyWWJjM3pXeHcxNEtaTDluelRWaUx4dlZEOTlZZkFrLWRWUEJTNFlYcDl1LWtvbFpZcmwxT0paWmtFcm1LdFF4YUpidHJhNEZiODA2TVdYTWh4dFJ6MkZtaGc?oc=5"
           }
         ]
       },
