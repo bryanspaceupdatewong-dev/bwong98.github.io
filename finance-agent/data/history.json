@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-06T10:15:45.837052Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 181.6,
-        "weekAgoPrice": 213.66000366210938,
-        "percentChange": -15.01,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA Corporation $NVDA Shares Sold by Salem Investment Counselors Inc. - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXRpSjZ1T216MDNyLVJPVXRzcUY0MjZBQ2hHVEhhelNHTDNfaE14akprM1hoSDdsVVBJRmJla3MzVC11c0tGbkZWNnpIa0laZzN6QmVqenpSZkNIc2RCRzdUcVluWm5NNUhzNUZwWC1IT3FKNGpQWFVrSGZPb0V2LVVWYzRzbGJSSE1Wcm81YXhSNEZTMnYtLWxjVmdNN29nc0dwT3I0enJJQm5FVEFEZUg4RE5LYVFNNnk2WXFTNk1PZ2pXWHBOOFpJaw?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Stock: Focus Financial Network Inc. Reduces Stake - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0dmUHpMWTBCSERDaEYxWkVqVU9GZHg4MFg4UFF5NEVDaFBKZTJhUmdmeGNkeDBXMHJLRWk3eXlqTndIc3htV0JlLWNuVnlSWUN6cHI2dGEySkJ2Y2NFYUV0Zk55RDd3Z0pXd1VlaldUbzVXNGZFSnAtU2d2Y1NYQmtlTlNmb1ItWGJrdElJR0drdF92Snh2VjFxZWt3bmFsVWJsWGR3OFAyX0VkY0ducVdvNzg2UzlqY05ZdlFpa0E4ckZucTZrSXNsOWg?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation $NVDA Stock: Cohen Capital Management Inc. Grows Stake - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc0lMbmJSUE5ENXhxcmFxaUYzVEhOT2lVYW51STgwa0FBanJVX1R1UjhrekRidHpYeUkyOWM1OHpfa2dneTFsSVpMMjdwYjRGcmJfNzZVdFo5eEl2SVdxa0hnblM3SnZIR2JUTkNZRWpFVkNuN3dKLUVxbXZKV0RoMnFQU0NzeTZUSUkyTWZ2RzJJbnlFZlJqN0JuWHZUN3g3b0RiM3BxVHZOZmF4WHoyMDNCQkxxWGpXVWVac3EzRUExd3hzVmhMbmNTdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.2899999618530273,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-06T11:16:28.505848Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2373,6 +2338,88 @@
           {
             "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance UK",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.12,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.255,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 8.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-10T11:16:28.810991Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 545.18,
+        "weekAgoPrice": 507.1199951171875,
+        "percentChange": 7.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "3 AI Power Stocks to Buy in November - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNWt4UDg5WDcxQlpqLUlxanV3Vzh4cGx5ZHV6YW5VTjd3TTI4ZHpHSF9QNTlzSlo4bEMtRHRWWXJuWFZHbnFGZExxbVBjdXhiNzdzV3ZRMUp4M0dKS3pPNS1KWVdvWmlSSXIzSVdQSVlsUlJlbUhacHpqa2dadF82V2JpRGVqVmJaWFZfUUljdEpWYXN2Q1BsNXQ4bjJONVlZUUcwd0FjZEVIU01PWHpUTmx2TWRYZ1RnenZCNWhJZy0?oc=5"
+          },
+          {
+            "title": "MSFY Stock Latest News - TipRanks",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UUzVMdEdxSXAyb2NyM2RTQUJSc3hPU28xM1JaajV2YTNxV05aWU0tVjgwZVRVUzdFTE1YQllRRm1zbFl1Sk5lellsdF8zYmpVX2c?oc=5"
+          },
+          {
+            "title": "What Does Microsoft (MSFT) Gain From AI Safety Leadership And New AI Deals? - Simply Wall St",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMzFjRXd6N284eVUyeGdWSWZGbmVVenJuNFNYM09iakQzUjFEWHVYbUNfX2JZSGxrbDJhdzBIa2dxd2lSZXFwQzlwU3lTSXlHVUNHZFUxN19ZYmJXOGpzRUE3b2FsNGR6dDVBdzJHWFNSUC1BcEl1dlprejVwLTlZcEJMYk9rek5lOWRQak1RNWtTaVh0X2RMN2dUMDVXNjB5cXpmUDQ3WFQySnhiNGlTaktHNktadEpQczFQRjBhdHhNaTRST3fSAcsBQVVfeXFMTVQ1Y3dMdHFTdFBCQjVadWZlMEhnVkxnTWpmZnMtMTZ5ODl0UVVQT0ZSbjA0OXRMVEE3ZmRJRnA5UnNNS2ltNllpRENfamItcVc3V0llMklwWDVOUkdhWnp1Q2QxeGhrcU1qV0JrMmlpMlNIQWRocGRhcFY5LUQ1NWVoZnZXQ3NrMWNWSmY4Y3ZtRWdUUW8zVnJsSXlHNjlBemh1ZXNnV0l6el84c3hRdXR6TmdLdnZsamRXZHR0OWJYNW9OckZkclVicFk?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 178.67,
+        "weekAgoPrice": 202.05999755859375,
+        "percentChange": -11.58,
+        "flagged": true,
+        "news": [
+          {
+            "title": "A Message to Our Company - NVIDIA Newsroom",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yQ0N5UXF4YktmNkhwcXFNMldwM2dYWkRVRXNHcFBvN3FqMkpSZTZvYV9OeEZnOXh0cVMwekUtcVo3UXdEZXVqbDlLQTQzUHVLQUdtcHAzTk1sLTNSM1JLVGFhS0Z5YVEySzNV?oc=5"
+          },
+          {
+            "title": "Beyond Nvidia: 6 stocks winning the AI infrastructure buildout - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbFB2ZDlmTFBacXFMYnVsS2FpVS1NY25BaDI4RWdoX1RkTW85R2Fsei1adDR0Z09IcnNDcjdhZU1FSzRJV3pSYlJMazhxT1FYU204X0Z0TEtJMFNSZ0NEalNMLXpFRHBka2VtbVI2VlB0Z1VmTGVkM1RCa2JKTG5LNnAzSS1uRGE0ckU0SVhGMFVHUTBPOVEzUW9R?oc=5"
+          },
+          {
+            "title": "Nvidia\u2019s China Spy Fallout Deepens: Report Says Moonshot AI Accessed NVDA\u2019s Advanced Chips Despite Export Controls - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU01rTHBJTGN0TTIyVU8yTlF4OTViNDJHWWJzUzFEUk5NZ3hWeWxrSldHenEyN0piMlZ0TmdkaUNEWWVKczlUbXJSTUl3R0tGQnlTcDBpLVNnQmZFanc0VWpOckNWWmFGc08wUTh0UTU0Tkt5OUpHY3haSU5NU1J6UnByQmVabVdKX01IZUhDanRoOTktUjQ1WG5mX2o?oc=5"
           }
         ]
       },
