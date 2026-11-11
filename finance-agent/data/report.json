@@ -1,34 +1,47 @@
 {
-  "generatedAt": "2026-11-11T14:15:36.329216Z",
+  "generatedAt": "2026-11-11T15:15:59.300473Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 533.16,
-      "weekAgoPrice": 520.989990234375,
-      "percentChange": 2.34,
-      "flagged": false,
-      "news": []
-    },
-    {
-      "ticker": "NVDA",
-      "currentPrice": 168.89,
-      "weekAgoPrice": 206.69000244140625,
-      "percentChange": -18.29,
+      "currentPrice": 523.95,
+      "weekAgoPrice": 555.7999877929688,
+      "percentChange": -5.73,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZWdSbHUwUHp3b2d6LXhNcWR5NGpEeC1Nd2hsN2pUNHl3aVRrR09oSFhYdGQyNFVSdXVxZkZadDA1TTNwcV9ycF9jUlRJcnpSaUFnenIwdzlpM1g1V0lERE1ScEIwalZZb1JrYXVvVXZySUJyRmZXMmZWYmE5TlFUR2hmcy1Id20ydlB0dElabUtPU0l2WGI1dHZqNExXSmNZSEJCUmZhdnk2SklpeUlENWdwanVtZGFIdndGVXBQSUQ3V0dLbW5JZlktYWRSWlp3RVVnM3R2UlNuUTBqbG5kc0lnZzJpWmJaNFlITExJLVpkM1ZKUTQ4bWU4ekl4eVhod3h5Q0pUUmhobGZHRG05MUFoVU15OG5IUG9Xaw?oc=5"
+          "title": "Microsoft Stock (MSFT): Why RBC Capital Is Bullish Ahead of Ignite Conference 2026 - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQajVWdElicHViOHRESUNmWlotSWYzam5mbHd4c1lFVFVZR05EaDNPdVBRTkR4R3RNdUotYTJGbHFZRkNrNzYyckJ5U19oT0oyRGhHSzhiR3Jmb0V3bFBqcnhYVlNOUkpCZ2x3UUtvYXdHQXFzU0ZIcjBFclo4ZmtmQzMweVBLS1RBV0NoQ2pod0pZTUxSY05kYWY1SFZrbjZuNFpXTWJEQjB3MmV1NFE?oc=5"
         },
         {
-          "title": "4 stocks to watch on Wednesday: LLY, BABA, PYPL, and NVDA (SP500:) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEQtU0U2M2hWaHRXd0pvSllHX281QXNUX2VuMlZvVVZ6c25DMk9XLV9vc1REeThLRWhNcE4zWDFIWmdsZ0dFRWRxYlE3dU5Nck5WQ091NElCTl9fRWtsRHo5V0d0bkFBU3pwQ3BJT05Nd25URzROSDZNSW9VUlZQQWVpemVtUUNiWW5JUjFHVjB2LURFSUE?oc=5"
+          "title": "Why Is Microsoft (MSFT) Teaming Up To Bring AI Into Healthcare And Education? - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTWlQRUxsZ0EyYjViaDJjR1Q1NEtOWUoxM3pxLUR2SmFnZFEzQ3VGbXhfOFJSbnloWk1EVWRaQWpzb2RzTzBudGJURzdjZnFzQ0VFU1hmTG5BRFNOQjNzWWZHLUpZOXRRQVZOVzJqbGJ0RGs2ZUJhSEJQTXZqa09EYk5BaFFCY3V6bHptbE9JQ0N5RkNXZGxrNmUzZlp4MXd2V2hLdnFRMHR0NDkzX1VLdHFzRFdaMkRWaW44NTd1NFd0Z0M2bS1j0gHMAUFVX3lxTE1VNlprbERjN1d1WGRLN0dBZk9ndDkxWVB1X3RMcGlkLTV3N2FSRnluclJiVkVVMGloaFMyN1hobENtT1VKWnFjaVpYNlhsSjNDVTBqb2RBb3lzcVNkbGZSVFQ2dG0wS0RLek4zai1veTd2ZjcwRnowWFh6WFQ0T2FFcmMxcmkwdlJnNTc0WC1GbFFTNzdaSVVUeWJYVFIxcmU2QjA3SllGNGVuMmRJZEI0a3d4bWhmRldpMXBYX29DVnNPV1NSRXBoOGp2cg?oc=5"
         },
         {
-          "title": "Why Is NVIDIA Stock Gaining Wednesday? - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWHl2ZkwxdWtWSnNXSDJkeUFNZE1vUlNuVXYxYWFXT2s3R1gwS0FnQ2VsUWxsV29qaDlfRUxSRWkyaEZrZXJIQ0Z2MlNpZU4zTDR5R29fTmFwaWtJc01QbDNjdk5TU1paUFNPVTAtM2FmSkktQmc3ekl1WFR0WTFxTHB3ZzJlc2loTzdBVW9FVENJeWFf?oc=5"
+          "title": "Microsoft (MSFT) Is Getting Paid for AI Agents. That\u2019s Why I\u2019m Bullish - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaG1WLUdneVpvTzFsdE5aano1cUIyLU5NejJsSWN6cWctVUl4SkZOQ2U1THlsY0NEWVgxU0RVY2xyWTdYUXk3b2JmZVN6Vl81eVlFZHhlOFFubzVnOFk4MUVTa3hNV1VnX0I5U1d5MXBGRUp6cmsybVpmRFlkSXhOeWcwbjJMUWlZbmpoTjVMcnlxdkJHWDYtOVFmYjNpb2xQMXJqM2UwRTlIdThJUFFsaDNTNENSOEtuYzRsUm5QNEQyaUgtZ29SWU5SdGx4dmgyRngyb2VKQ2VMVWtxMmJ3aW5mYmU?oc=5"
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "currentPrice": 172.565,
+      "weekAgoPrice": 200.1300048828125,
+      "percentChange": -13.77,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Nvidia live updates: Nvidia stock rebounds as spy fiasco involving CEO Jensen Huang raises broader risk concerns - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWldTaHlFa1FDMTZiZldtdUlEVFkybDRmU3BUWms1eXNTR21qc1owdUVmSVAya1VBMnFwOTFBTUNlb005WU1kdDFBd0JUcVUwTWYta2RDZjRNRjNhQS13dElEY2Y4aXpNaGJDV1ZHWmp1SVdjMUpuekdNQ0hKX0paRkJENGtHSDNpQnZaZEMzeDJ5YnczVk1jUG93MEJRT05zN1FQbklPVklhR0FVa0ZCVFBiSHN3SGlzTUt4OER2RWIxaDhTMzJ5RVA4NmFXWXQyU2hjQnpKbFY0YU8tTmRzN1BoZmpmbDZmRnVMLVZsX2tpNXc?oc=5"
+        },
+        {
+          "title": "Odds Jensen Huang Will Be Out At Nvidia Hit 16 % - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnI3VXpFc0Z6SWoyUXl1cjN6V1FzcWJ0VHR6bXlkQmhBZ2pXXzZrR2RfTl8tR0U5VEVrTzdlVzBxeUJWZUYwek5mV2NLeHFSa0ZROGNuRTUxTVdSMkQ5YTdMNTVSUUJhUGhkUk5Ja3BJMVpvai1rSnRycUl3ZjNmZjFpOGwtOVhvREx5MlpFNU43ajBLV09Tcw?oc=5"
+        },
+        {
+          "title": "Nvidia Stock Gets Rare Downgrade: Baird Slashes Target 60% on Jensen Huang Scandal - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmFyV1VWbHkzX1R2SDM5bkFmWUtFYWgxaDBkOHVUMmtLVktRRmx2TWh2YmZ4c0tyMkktLThvWEZrSXYxX0U1aWJuSEJqeE9PNGFsTllual9qNkZoV2M1NFdsMi1yRmhOQmE2bk1tVWdPUGx2SWx1TVhJcURSU3B1R0lhTWpyRFlrWjZjcEdPVnRwMnBwQnhzT2NaUWRSUVVKTUNlNkQzWkZCNmpqQnlTa0lIT3A2Ylk5el9HN1p1bU1IOUd6d3hKbFhrOGtyZw?oc=5"
         }
       ]
     },
@@ -137,5 +150,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 6
 }
