@@ -1,49 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-09T11:00:09.258233Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 186.64,
-        "weekAgoPrice": 204.63999938964844,
-        "percentChange": -8.8,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA stock Analysis closes at $186.64, up 2.78% - The Cryptonomist",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaMlJMdmNTZktOM0YzaGlvbTNzNUZxNjJhZ3NXaWk2NjdSR0pUN090M1BWRG5pS2U1TFBqVmhkZFRZaWx2OEtEVXAyYmRzMWtFT012bFlmOFpfdjlmMmlQMnpZVG1TbXUwQVhBM2hkczJuYldWT0hwNWtpTQ?oc=5"
-          },
-          {
-            "title": "NVIDIA (NVDA) Launches Investigation Amid CEO Controversy - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGo4UW1SWjlGU2lzLTNld1dyWFRCdmpLWUxwT2hSbDdLU3VCTWk2UzByRDNxVzMyWkJnbXJZSGRzTzJwbmVvYl9KQ2R2d20xcHcxT2FteGluU0Y0bnpaSzNzYnZva0xWaXpsQW03TDF4RDdnc21LMWlpcEk4V0Y2SktwSzZuXzNmS0VUMG9YSy12Z2FRSFJ0czdB?oc=5"
-          },
-          {
-            "title": "NVIDIA CEO Huang Renxun Under Investigation, Stock Ticker NVDA D - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN3pQSVU3UDJzeTFjcDVZQmZKRWFTLThneVdQNGVseV94QmwyVnduOEdieW1aTVM4ODk3azVldkZZdkREbHhFbWNpNjcxRHJhcHlIVHNIemliX3BQMGktRUNiSjVXWUNoQi1qNzFmSXdVb1lQbGVSOGF3UkFYR2ZjbzlvbkE1RmJndGluMVJMR1JudEtNc0hSX3BGUVZQR3JIenJnWE12U3hKdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.2899999618530273,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
-          },
-          {
-            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-09T11:20:50.064316Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3250,6 +3206,97 @@
           {
             "title": "Nvidia Stock: Why Jensen Huang Scrutiny Might Be a Buying Opportunity - Barron's",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UZzI1WVJLZk1fSkxrcWZvOHhNRm5YTWp6bkxqOFN0ZjBTVkJBd2w2dG92eXY5U21SZUdYLU1vQjFRcHpyNkpmTTRYSUdFeWNVZVJmaVpGdWFqNzJhYWtPYzZ2U1lrQWZDZ3BMdFZXTUFKR2hRbURCbEln?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.53,
+        "weekAgoPrice": 4.809999942779541,
+        "percentChange": -5.82,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.25,
+        "weekAgoPrice": 0.23000000417232513,
+        "percentChange": 8.7,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.34,
+        "weekAgoPrice": 1.2699999809265137,
+        "percentChange": 5.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+          },
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-11T11:15:46.775556Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 168.89,
+        "weekAgoPrice": 206.69000244140625,
+        "percentChange": -18.29,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia shares rebound 4% as Huang faces scrutiny ahead of earnings - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalRRWWRUS0VHb2Q4Y0dhNFdWY1BzTWlqWG8yOXBwZVJtRlFOck5iZlMzcmJlTHZnRkNaZ0hNUXBrTkptb0xqU3RBSUo5V09ERzlxb095YmRmRHNZaFVYVVhUY0ZxN1E4Q0twdFhLTzA0N0lDTnpXUGl3Szc2eHVUcw?oc=5"
+          },
+          {
+            "title": "NVDY: Harvesting Income From NVDA's -30% Drawdown (NYSEARCA:NVDY) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmg1NzRoSlZrejhQQ1BHSmRwMFZxeGxINF9HaUFxWEJlVEZHRUMzY2tudTZEWDF3NlFQd3RjNHBhXzgtVVhjbktvQXpsZjZOa3oyd1lJajBrXzFleUpiRFpXc1FydU5FSmpzd053TVZNbmxfMzUwamVWa2xPTUg1ZTE0WU5TcXlRaVU2YS1CeU8tb1B1bWg2OWJYNExEQVN5emc?oc=5"
+          },
+          {
+            "title": "Is Your S&P 500 Fund A Bet On 7 CEOs? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYzBBMHlWUUhjM1NOTThINWZEZUp2WEVHYmZSMjZWMEZIZ1haYjcwYlhRWUNHclZzTjdTeXZQenBXOVVkVkVlU3A3ZF9EaDMycEVPTXVnYmVOVlRmZTlFN3JlMHA1N0daWnhtRUVxaktkX24wc2NHUmtna2NkWFQ4V2VLd3VRUE1aVnlIbExSSUFodGhyazVIZ1JxTlcxdw?oc=5"
           }
         ]
       },
