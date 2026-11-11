@@ -1,45 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-09T01:17:23.642411Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 186.64,
-        "weekAgoPrice": 204.63999938964844,
-        "percentChange": -8.8,
-        "flagged": true,
-        "news": [
-          {
-            "title": "$NVIDIA (NVDA.US)$ - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14UGNlZW9zYk5ab3hYX2Q0aFlyWlowUWk1TVh4cWhLVThQRE5QVDNKQmRPYzFJYmhXUkZPRGU4OEZHOHJlZmZYcUlXNXpXd3d0UXdMR18xYm5GNUtBZ2Z2Uy1veFRsM0NzMmpMOEh6Z3VIY3JSQXlN?oc=5"
-          },
-          {
-            "title": "$NVIDIA (NVDA.US)$ - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBQ3pmYzRhX0t3SlI1Q2hjUzcwc3h6d1hjWnJxUkxkSkVOamZUeHI4b1FwbmZmYXpteUtUWkZTUEtHVkN2Z2FGU0JLR3BrLTRvUnVyQ1UzRThMaXBtUjdUSlczU0xmYmNYb0VsOTUxQXJWbHk0clNr?oc=5"
-          },
-          {
-            "title": "Nvidia Board Investigates CEO Amid Espionage Allegations, Pressu - GuruFocus",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakNDR1FvWEx3Ty1rdFpENWVXdXh1M2gwU1RRbkNtS3F0SzNNbmJKRmxVOWtNSDFxOFJCLXoyX0JJWDFpZmVqeUhGVmtvR0JqbUozclNzN3JuZ1Vpc1ItV05NTlU1WWFiVHpyLVBuRTI4dWFSRWxkSEVnWlY5MDFOQ1hJU3Job0QzVE5zQTlpYkdPdi15SGQ3WHhPTWd5UWlMcmZTQjlfTWtCSWxqaS1XV3lHa0YtaU5LQXc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.2899999618530273,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-09T02:15:45.271554Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2945,6 +2905,88 @@
           {
             "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-11T01:20:12.200127Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 533.16,
+        "weekAgoPrice": 507.1199951171875,
+        "percentChange": 5.13,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft Beats Nvidia for the First Time Since 2025: So Why Is MSFT Stock Falling? - BeInCrypto",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91eUs1YWhlZWFWaU1LSnhPN2hiLW05ZG42M256MXZLYUhqM2QwcWNyUUVpekxLRlN1MzMyS093UElEaEtQS29TZXpaRkxBYXBBUFd5WHhHclI5UEk3SFgzWUdRb3lEcm5BVkVqb3FfVEw?oc=5"
+          },
+          {
+            "title": "Microsoft (MSFT) CFO sells 5,912 and 1,393 shares under a prearranged trading plan. - Stock Titan",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSE5HZjRRaEw3S2NEZk4zZXlhZmVPNHdTdExfTzFHOTl3ZlljdndSMGxPRVYyeEFKYnFKT09QMklYckZwY3VrWkJZMTIyRUt2cW0xUFY0OTJyNXNJanh1WEZRclZXZ3M1VU50RzVwRzZrdU96SlgtOTNXcl9lZUJsSnllNnBDNkZ0YXRwYldxQ1dyc05OQWlwdWpwaFRGUVpGcTZpYldfLVdLdVhY?oc=5"
+          },
+          {
+            "title": "Microsoft Stock Falls On Anthropic\u2019s Challenge To Office Software - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVU1YdlJPSUlEcmx5OUpyelIxZlBYSnp5QmUzbTJpNE5IcG4xSURIbndrNWlHSXJpMGVacnM2QlpmWGdUbWRtY0xJQ3l1Z3RqN0RCRDM5VXZEOFlQWktpNTBDdHZqTTJDRnhlUkFVS1VOQS1Dakx2VmFhSVU3WXlaTGFicjRpcnBPWjJkbHBtcExZbXQySktYOWRB?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 168.89,
+        "weekAgoPrice": 202.05999755859375,
+        "percentChange": -16.42,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXEtNjBGQmkySUh6d3RIZlo0M3lpY2txS25RcW00YURRZnlpWWJ5UWJlRU8wbE1vNERBUUFZMDhad253YUw4NTl6Smt2ODVDZFVOOEtzLVlKTHIxa2hZbEJiYXZMOEFmN3hwcUFqWm40UkRfdk9Vd29qS1FEdE85UElxTQ?oc=5"
+          },
+          {
+            "title": "Cathie Wood buys $15.3 million of tumbling semiconductor stock - TheStreet",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkJFTXgtalNXQk1lYzhYbEg2bGV2aDdqLVZMUkpxeTlhV1ZPd3djRkQ0TmNjZmZKcTl1YzJZcFNsZXJ5V2RzNWlzUUczTUM5TzROQnFjV09UZ3M4RjVsSnNRb2ZOeDB4MWlQazVzYVJsMS1JZkxGUHpCMncycm5IRzlEbl8xWUN0bXNzR2J2R0lKRU5DenBaTFF5SFNPX2hPMWFNWUZpd0FyVXp3bDBITHpJWjlTb0U?oc=5"
+          },
+          {
+            "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wRWhMQVVPSndyZG1Hb1FDM0M4UEpxREhfZGlYb3BTcWh6UDZXc0tXUTVhU2xzeWR4b2VYT29vTXJGa0RxRzdrOV9KMmUzN1dMb0FtWXJYcUNVdjRJaVlRT0M2NXpnWkVaNWlNR0pUYUxsWURHaDBLTldn?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.11,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.93,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.255,
+        "weekAgoPrice": 0.23000000417232513,
+        "percentChange": 10.87,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
           }
         ]
       }
