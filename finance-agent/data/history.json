@@ -1,70 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-09T16:18:01.243789Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 540.12,
-        "weekAgoPrice": 507.1199951171875,
-        "percentChange": 6.51,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft and Northern Trust use AI to cut client data prep from about 2\u00bd weeks to 3 days. - Stock Titan",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjdjaFVEclMyQmY5ZW0xZ25mOFJ1RlJRVGVGV1l1c2IzdEE2Q0I2RVZlcG1uRnk4cXJURzhmT0p3QVZmUDNoVk5GdEJVbHF6ZnlwTEdYUldyNzVFTTBoT1hETTJuelFJclY2UU1aU1lqQ0x0MVNlZHRGLVlnZzlaUjFOZEZNMGNZS0x4UlhvWnVOTWtFUU1XMTJ1MUtaWXlwZ2J0RkNfcHB2MWNmdzlhWnYzQnE5UQ?oc=5"
-          },
-          {
-            "title": "Nebius Stock Ahead of Q3 Earnings: Should You Buy, Hold or Sell? - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd0JnQy1ycXRSM3RseUZIeVJESlYwUC1oOFZPeUt5M0FwLVRDdm9qT2k4VmYwdzRQLXR5YTR4S2dmeWZYNnlhWUN6czE5MnRoZHVjMjNUTzc1V0plbVNveE9FSG1SaFoycVYwS0t1cnRiSmNuVG5NN2x5bm0zS2hhUHF4SEg1Rjk0a1FCSnZTNXdjdmVROUU0c0NUQUpxMVRDV1ItRzlnc1lGTzJXbjNTdlBFb2N0bXB0MVJzRnNfcmdDRGdWVmNYZE15Y0tRdnpPMjIyTmJaMVV1dGd5V3g4?oc=5"
-          },
-          {
-            "title": "CoreWeave Stock Hits Turbulence Monday: What's Going On? - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmpMaW5zVmt1Q05OR1AtOUhNWHZkZ1Jnd1ktMnlpaU9FMTRneXpVYkoycE91dFR4VTlOZjBKT3VMVHh5Q3ZpZ3d6WDlKU3RfY3J2UW1UTVJfMjBnVWVqbW9wemowRjVwR0paRXB1OExQN3E2WnA5MnJPemduRnlTWkxwd0szLTdTX0IwRzl6QWN5ay1KV2E1ZGJlSWljcnJERkV2Y1FwRk1McXVtTGVBUk5raw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 176.013,
-        "weekAgoPrice": 202.05999755859375,
-        "percentChange": -12.89,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Dow rallies 900 points, Nasdaq jumps 2% as stocks climb out of postelection slump: Live updates - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5"
-          },
-          {
-            "title": "Nvidia Is A Hot Surface: Do Not Touch (NASDAQ:NVDA) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWJnQl9ZVmR3T0NMT0NVVkMyYVZOOWRtQWdHc1lCUWpPS1lRaXFMd3k0dlJyVzlVM2RMVm5ETHNmekhWUm4tUHNzclhLUWtzTFFFTzVBZ3Q1YTJCbE9oakw4OFh2V1ZsUjBrZjhCelYwLXBtU1d4T2pwNWtrblFneDExWnpnT2JPQnc5UV9UWkFpa3NQU0JRUWlIM2FPNmhETlAzMWxvaTljOGdzNUNlcUh3?oc=5"
-          },
-          {
-            "title": "Stocks making the biggest moves in early trading: Nvidia, AMD, Eli Lilly, cruise lines \u2014 Live updates - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBETjEzVzFLTXhVVm5IMDQ2YS1uRTV6UWFtblVkY2xhZ3BzclA5dFJ5WFJkbklySl9ZMDZQZXRGWE5ZV0FJXzN4X0xpdU9yUFotUllSTk1UTVpscU5MeDM0RzFFQ1RYcHVkbjk4TWlnSGozT0NpaXRCbw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.2899999618530273,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-          },
-          {
-            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-09T17:16:27.450517Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3553,6 +3488,101 @@
           {
             "title": "Nvidia Downgraded Ahead Of Report, But Stock Joins AI Rebound - Investor's Business Daily",
             "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnpPLXNLMDVpTUxSWkd4ZVZlTk9Uck1vMkNhZHpndWVxbUt3YURlM09hTzRWOVd1VU9oVTgtdTJjeXlkRjE5MzMwZlgtZVgwMFJlSjJFNG1sRm9PYnRMWWJsRmxvRG1vYkduLXpRX1pfRFV4dmEwdTdfR3pCSEhaVmFjNnczV0x1LUFqTk9tUTMxN2paM3l4Ry1jWQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.53,
+        "weekAgoPrice": 4.789999961853027,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.25,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 6.38,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-11T17:16:07.921852Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 520.83,
+        "weekAgoPrice": 555.7999877929688,
+        "percentChange": -6.29,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft Stocks Decline 2.5% as $1 Billion Anthropic Stake Tests Partner-Rival Balance - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdkdBMHRzUkt3Wk1TSnFPVmp0UERsVjFEMnJCOGVQS3N0TjhuaHZLVHF1VU1LOHJyQ3RmZmczTlppVUdveDNVZnFjOGxVUG5LTWxUZ1BmMVhNMkxncGdLVjY3enRXMF9sRW9ubFI3UER5TTNOc2lzZ0RVR1R5OEhSWk9IMA?oc=5"
+          },
+          {
+            "title": "MSFT Nov 2026 535.000 call (MSFT261111C00535000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CbjZITjMtYUlLdU95YW40QjRkYzAtSFFiNlVhRjhpU2V1Vkh5UUxDbjVmczdHUXNKU2xLSXg1a0ZhWXdsaWx2Q2VMUXBDWXZ6cDJfQ0l1X294Z3lvNWtneVJZN0REZw?oc=5"
+          },
+          {
+            "title": "3 Artificial Intelligence (AI) Stocks to Buy on the Post-Election Dip and Hold for 5 Years - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMS1USFFDMERINlZPdkxUUm5VVTBueHhHT0dsUm5IbW9UY0JibkR2bHQxZm05bzNhdHBuOEFtTHVQTGg0U0dGU05OQXpKVURXYXdweE1vYlZ3V3ZadmJqbVpkbFBtaWUwZnBwU0dLMG1lOEJpQjhEcDkxNHE4b1RRaFJiRXFieXp1ZjBaQ2pLSkN1SE5vNTRBaF9qdENYcXhQbXVUNFNJRThSYTVoWER1REh1NmVYWm5XdE5NMkExS0kwUk5LNldjT09waWdwTGVDWkdja0NmaXRYSWtoUXpWYUdVQUc0S0d5bFljdGlNT1EtX0trNmRYRFFBdnJaV052SEl3?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 176.44,
+        "weekAgoPrice": 200.1300048828125,
+        "percentChange": -11.84,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia gets a rare stock downgrade from Wall Street on Jensen Huang pressures - Business Insider",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSUVZRjM0RGdJbW5aYS14Zmp0UUNQS1BmS3RIc21RcU92VS1ob1VtMTZMeS1GQ1VDZ0FyeEZEQ3hBcDVWQ2NTdmhRak1aR2dJV2NFWHNlSERNaHZDUXowU2ZQSHVUTmVvMjJQNXA4czV1Vm10T0drTGFudnRvY1pIb01NQTFLVV95bEN2UlVjdlViNUY0di1jUHVONUdLZkl0?oc=5"
+          },
+          {
+            "title": "NVIDIA (NVDA) Stock Dropped, So What Is Driving Attention Now? - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaVBaOWRrdXZuVG93U2l2VVBrTGwxeWhNQS1nVWliT2p3ZjJ5SDA3YmxKT2hRVS0tc2g2bWdHTXNkSFR4eFdpR3NoaGNfeER3b0NJYm01MXNpdFl0U1Rtc0VUOGgtT0pGd1E5MUE3N3djcWRhZWhBSkswV1p5WVB4bmZfNFdvMkVReUE?oc=5"
+          },
+          {
+            "title": "Prediction: After Losing Over $1.7 Trillion in Market Cap This Year, Nvidia Stock Will Rebound in Epic Fashion. Here's Why. - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNZzNFcmYxZDJ5dU1wX2FoLUR1ZWQ1bnpIczh5V2dYeTNIeC1PWkxIN0FKWW5uNXA3RWZZX2JYb0dNUi1hM2lrWFpfUHdoMEd0Qlo4OG9vYzA0RGFreDNwc3NJZGE1YTRPSUVFV3BhTTVUMFU2U2FCczVkZ3h3VVBENDVsYm1DSXFIUzhBaHR2NUlYcFFfYldtckRzT3gycWNfUUJKWXBpTWJuUkoxeXhoWEhkM1hJRHV2enpELVRsRWtkNGFDZ1NzWE5NWm9PbXJNYkU0aWRiUTlQR0JNUFhxNGF1b0RYd1ZsaXV4SlNBSHNGRVlxSk4zRU9TOTI4amNra0FKWm1BeVljN1hCUm5CdEdJVDA1RWhtZGR2ZVd0SktKbWlKRnRQeEVSbXhIdw?oc=5"
           }
         ]
       },
