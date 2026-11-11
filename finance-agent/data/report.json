@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-11T19:16:02.969515Z",
+  "generatedAt": "2026-11-11T20:15:35.429408Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 520.335,
+      "currentPrice": 519.78,
       "weekAgoPrice": 555.7999877929688,
-      "percentChange": -6.38,
+      "percentChange": -6.48,
       "flagged": true,
       "news": [
         {
@@ -19,29 +19,29 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWd3REhYZ1hQUlJRbjBNa2kwOURNLWU5ZnBIX1ZZdW1pYmp2bHVmLTljVURoNmJXWGswSkxJTy16MnFVd0FUSmFlNkh3TnR5Z005RkpXeXd0Q3RyQ3k2c0dOMlJaSFg3eTZ1cmxvaU9kSzY3SzNtY3NFci1LZ3d2VGZqUkktS19tcW51WmFGR1ZIT0w5aU1QWXo3cm5Tak16THc?oc=5"
         },
         {
-          "title": "Microsoft Stocks Decline 2.5% as $1 Billion Anthropic Stake Tests Partner-Rival Balance - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdkdBMHRzUkt3Wk1TSnFPVmp0UERsVjFEMnJCOGVQS3N0TjhuaHZLVHF1VU1LOHJyQ3RmZmczTlppVUdveDNVZnFjOGxVUG5LTWxUZ1BmMVhNMkxncGdLVjY3enRXMF9sRW9ubFI3UER5TTNOc2lzZ0RVR1R5OEhSWk9IMA?oc=5"
+          "title": "Microsoft Stocks Decline 2.5% as $1 Billion Anthropic Stake Tests Partner-Rival Balance - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2NEVEtyeThmMlBlejQ5YS0xdkVsTnhiczZRSkY2VUlWSFc1ZmhNek0tTVU5THZvZjdGbW5JWF9rSWFkanM3WkxyTlp6NDhWTHJwcGlzWFdGLXlIcXBOcndpVDlOQTZCanZOZ2VsNFdkMUdKOXZhUDlrS1lNUE9OakVMRVZnQVozTkdtYkFEM3Z3SnBQcjlFSw?oc=5"
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 175.82,
+      "currentPrice": 175.1699,
       "weekAgoPrice": 200.1300048828125,
-      "percentChange": -12.15,
+      "percentChange": -12.47,
       "flagged": true,
       "news": [
         {
+          "title": "Analysts Set Nvidia (NVDA) Stock Price Target For 12 Months - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83WnZzaGhtYldnbHhOakMyM0ZONG5ldEk0U3dWT2FMc1pTOV9xSENJSWZxdnhQUDVlTXRLYXo2NnVHOGkxZUZSQlBoa2lxX25WQUFienV5Tk5WN00?oc=5"
+        },
+        {
+          "title": "Prediction: Nvidia Stock Will Be Worth This Much by Year-End 2027 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTl4aHROdlJPMWR0ZFJtdE1vdzItUTlfRHA4MkJDajJzODd6NmRqRXpvUHdlaVZvSWhOMzVnNUE5T3gtX1dlYzFWY3QycVoycVZpSjlEMFcwdnF6TGJmaUtoMzBoMngyQ0E5dzFUTngycVJMZVEzNHpZbi1ocEsxNDI5Yzd1LTZSODlXU1k0djAxeDdiOXFHNVlKZTdxYjVH?oc=5"
+        },
+        {
           "title": "Nvidia stock is pricing in 2 major risks as CEO Jensen Huang's affair fallout plays out - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblRWcW9rakVSOGNoV081cEI1U0FiZ19PN0hlNHA1VV9DbXlqUEhjdDRNNEpvNGg4NF83TDlBYUNRSnNpNGo0c3FYM3ZEODFOZXQ5YUpBTHFHRkhqc0hwemlLdVlBN2s5aDlua19kVTRPVFkxLXdWZW51STd1U1ctVmtYbGR5c01GY0EzYldiMmViU3kzR0JRelRwLVNEVWtrOUxrV202emNfcFY2SWozUVplRGdFR2NKWjVSWDhDUWdzdkhreXFJVHhVOU9wTnRvbng4T2FpOThOam9lVVhJLUZybGE?oc=5"
-        },
-        {
-          "title": "Jensen Huang Controversy Overshadows Nvidia's Q3 Financials - NVIDIA (NASDAQ:NVDA) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUU5OdWVRSXNrVWVvT1dXMDBoTkE2SnhxekhpdnEwUjVGRUkxY1JnbHB3Rll3ZUFjWDQtLXBqMUFsallOUzRscHNDNFB2MFNBQUU5Rl9QQ3lDMWZtaVhVR2JJRjFBUjJGSXpRS0ZHZVBMaUhFNXc5bjRtUUlxYUlyS0F2ZUtnbmcyQjhZcENLVTFwWl9sNnpJSVEzUlFSNHRDOERLM25tM0FBellSUW5JcWV5X3ZXQ1gtOXRnU1JVX2c1WWhRV0h6M0JyTG1iYVk3SGtHejAtTGhGczdxd3pPY0s2SjFVTURGOGM4SVlKRndnYVZnbW5UV21OWUZuZDNmV1NkTEFPZkZYTmM?oc=5"
-        },
-        {
-          "title": "NVIDIA Earnings Could Put Your 401(k) to the Test - NVIDIA (NASDAQ:NVDA) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGNhcVpETHF4U2lra3JnZmZqd05nUVlOTnhEa0ZGbVRMcW5qWi0zVU9jS2ctc1FFWTlveTh4LVZKR1dKMTJLT0djMHlEWnZKT0ZBMGdYcVdhbjRYbXBqRGRUbG5sWmVaTEFzZWt5bFZyODRWdk5hMXJNSnUwUUt4YU9GN0F1M0NxSlZuYmpUYUtQcmg2eVlv?oc=5"
         }
       ]
     },
