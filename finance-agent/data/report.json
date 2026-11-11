@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T07:16:19.137773Z",
+  "generatedAt": "2026-11-11T08:16:14.373089Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "NVDA Stock Slides To Fresh 7-Month Low: Microsoft Briefly Overtakes Nvidia\u2019s Market Value - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxONVNnajF3ZnhJNTl0UGM2X25sOEw0MV9PWHltTlpiTnR5RDRabHJsaDV0Qzg3RnFSa3o2cmJlUU1yblNvREQzTVMtcnE2d2YzZkJsNVhDOVotcVVFME1tdFltYVBNZ0FnY0ZsaDBVWnlyeHRkeUV1Q3VzaDN3OUZ2UkJUT0Jaa2xyUS1US0NfVEVYMmFDYmYxaXVhMmxxbGp0T3NmODMtelJNaktvX1NHWXlDRE1OY19wYktUOG0wdHd6WWUwTnVvS0ZvbEJqQjFHc3czQV9wUFlkR01zRjllUkNTemd6WmVTRW1ualRKM0VLUVhxMkRINEk3N2VacVgxQllRa0VaMGdQWGhuWVZlV1o0bVNCSlYxSmc?oc=5"
+        },
+        {
+          "title": "\u00a35,000 invested in Nvidia stock 7 days ago is now worth\u2026 - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdUxzNlctbFlEVjdqZU1HaDFNaDZYcVgzakgyWTBHNXZXYl8xNTV0bEF4X2h6YWhYVUh0bmhfM1ljdk0zeEZqbzRGWDRRRmF2cjVKbzZXWnBPaHUyRmpsaUt3RnZlN21XMEVldTZCV1doSVZOYW1pQ2VnbVJVRzhNNFBn?oc=5"
+        },
+        {
           "title": "Nvidia's Woes Push It Toward 52-Week Lows (NVDA) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNTZYV28wVzFIeU1aYVU1cG1uRFNoaldRZGNuRlc1bFF5M0tVcHd4bjFSZFhzVGZMUU9MN3BsRFAyOU5BbnEycVZlNnZMdElhSm5JR1J4aHFMQUp6ZXNueG9aR1dmbEo1MTJydXh5akJocjI3OW1XX0dVQjRqN0JEWGlydk5MRGc?oc=5"
-        },
-        {
-          "title": "Nvidia Bloodbath Over by November\u2019s End? Crypto Bettors Weigh NVDA Stock\u2019s Next Move as Jensen Huang Cont - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajhfVkwxRnJNOFh0N2tscVkwMy1GdDJmUjZRWE9uc2MzZ2oyUlQtSFloNDVzUHdVMjhNYXJ4OF9wQktmYWRLWkpCRmxSVDVFeWNUdXRIVVgtbThnNUpKWHM5X3RzekE0VGE0UFJ6Vnd2Q2hzRUhzaVJUS0lzLTJuVkZWV3BsNVN0UTEtcXhXQ19SZDAtZ1o4MW9nVlBTQ1Jqb0JDQzYwQmdCcjQ?oc=5"
-        },
-        {
-          "title": "NVIDIA Shares Rise 1% After Hours After Sharp Sell-Off and Leadership Probe - NVIDIA (NASDAQ:NVDA) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUFNnaWVBSmp5dHI5MTB3ZVJITUdsd1o4MWp0WVdWRDdGcFF0YV9CTHVuREphX2pfQU00akpMRUlFUEN5TDUtTE5ycXBXSUdUNm5wYTNYcnZlSGFwcktwblRYcG5SZjhMV3N1a3A2RlhGbEJQbnNMNU1Wak8wazdnbGJIdjdoQkFXMnUtbE94Mi1jX0dFU1l1TjFxVGJEVFdLb0FUQ1V3aXhkc0FvbS1KVU1JQ3lvenpYREtmWFFNZlVlZw?oc=5"
         }
       ]
     },
@@ -47,9 +47,9 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.55,
+      "currentPrice": 7.56,
       "weekAgoPrice": 7.710000038146973,
-      "percentChange": -2.08,
+      "percentChange": -1.95,
       "flagged": false,
       "news": []
     },
@@ -63,25 +63,25 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.51,
+      "currentPrice": 1.52,
       "weekAgoPrice": 1.5499999523162842,
-      "percentChange": -2.58,
+      "percentChange": -1.94,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.47,
+      "currentPrice": 1.46,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": 1.38,
+      "percentChange": 0.69,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.12,
+      "currentPrice": 1.1,
       "weekAgoPrice": 1.1799999475479126,
-      "percentChange": -5.08,
+      "percentChange": -6.78,
       "flagged": true,
       "news": [
         {
@@ -92,9 +92,9 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.255,
+      "currentPrice": 0.25,
       "weekAgoPrice": 0.23000000417232513,
-      "percentChange": 10.87,
+      "percentChange": 8.7,
       "flagged": true,
       "news": [
         {
@@ -113,20 +113,29 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.33,
+      "currentPrice": 1.34,
       "weekAgoPrice": 1.2699999809265137,
-      "percentChange": 4.72,
-      "flagged": false,
-      "news": []
+      "percentChange": 5.51,
+      "flagged": true,
+      "news": [
+        {
+          "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+        },
+        {
+          "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.65,
+      "currentPrice": 0.655,
       "weekAgoPrice": 0.6650000214576721,
-      "percentChange": -2.26,
+      "percentChange": -1.5,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 5
 }
