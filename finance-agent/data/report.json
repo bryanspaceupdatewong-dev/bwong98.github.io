@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T02:16:27.714868Z",
+  "generatedAt": "2026-11-11T03:15:53.991458Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,32 +19,32 @@
       "flagged": true,
       "news": [
         {
+          "title": "NVIDIA Shares Rise 1% After Hours After Sharp Sell-Off and Leadership Probe - NVIDIA (NASDAQ:NVDA) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUFNnaWVBSmp5dHI5MTB3ZVJITUdsd1o4MWp0WVdWRDdGcFF0YV9CTHVuREphX2pfQU00akpMRUlFUEN5TDUtTE5ycXBXSUdUNm5wYTNYcnZlSGFwcktwblRYcG5SZjhMV3N1a3A2RlhGbEJQbnNMNU1Wak8wazdnbGJIdjdoQkFXMnUtbE94Mi1jX0dFU1l1TjFxVGJEVFdLb0FUQ1V3aXhkc0FvbS1KVU1JQ3lvenpYREtmWFFNZlVlZw?oc=5"
+        },
+        {
+          "title": "Michael Burry Sees Nvidia Becoming \u2018A Heck Of A Trade\u2019 \u2014 Reveals His 2 Biggest Bets And Where He\u2019s Buying More - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGtjRlAyQkNSTWY2SE5uQVh6cUZqQkNHcGl0SEptX1VFUXJtV1FMakhDTWlQbEFFYzZuWkZrRXlkZDVQTEtmbUFad2ZxUlhoUTdNZmo1Ym9vQ3c4Qk5kakpYbVlzTF9UQS0xbTl1Q0xqRDlaNWFnVGdSd0ZLVTdBUlItd3hRVEJWdjkyVVk4b3pPdUNMSmRxSHY3aXBpbUpr?oc=5"
+        },
+        {
           "title": "NVDA Stock Risks A Breakdown to $120 If Last Support Goes as Huang Spy Controversy Weighs - FXLeaders",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcnE1NXVXd0VpSEpOSDhyMU9OdVVickVXSS0wUzRhc2N2Vjd5aE9oY1JUMlRaWFVWLUhKV0FWLWRYUTFMcVdMcUsxSkh0WnYzWGtxc0NrNGtRUFh5QXpQNUZCSklLWWwyRFBCaXdKNm1QdkQzVzJyc3prSnY0TDRoeTNlY0lWMXlxNkI2amlNbXJQZ29Gd3cxb0t1cFhiZEtrVVBvaGQ4VW14NzlwUFEtVWhmVVNDeVduVTdWbkNmeW5ZUWs3Q0NjVF9hYw?oc=5"
-        },
-        {
-          "title": "CRWV, RGTI, NOW, COST, NVDA: 5 Trending Stocks Today - CoreWeave (NASDAQ:CRWV) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPS2M1b3Y1TDhXZmRvYXZ4dnF4M0ZUWTZ5RldpbW5OUVVoS3RVUzdMa25YTUo5TmNVNXBVRlk1WWZrbU9aeGFsMU01d3VvcGZtRmc4M3R2Q2Ntd1ktTzV5ZlE2V1RqSlNhSkVTQlp5a1ROek1rRjVMWmhUVXBFV0pNbF9EVVJyQkx5V0xDUFVvWG5oZjk1Qm9FcDJmZ2xkTEhuc0lBMTVRR1F5bENQY3doZ2JQOGVhZ0hSTGNYakhJbGpsQ3Y4VHdKeGRHUkdXMzBEUEhvWWIwTGJkTkEwY3F1VnJBaFF1NDdSZWcxQkxLMnJ4dldQ?oc=5"
-        },
-        {
-          "title": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXEtNjBGQmkySUh6d3RIZlo0M3lpY2txS25RcW00YURRZnlpWWJ5UWJlRU8wbE1vNERBUUFZMDhad253YUw4NTl6Smt2ODVDZFVOOEtzLVlKTHIxa2hZbEJiYXZMOEFmN3hwcUFqWm40UkRfdk9Vd29qS1FEdE85UElxTQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.66,
+      "currentPrice": 4.63,
       "weekAgoPrice": 4.809999942779541,
-      "percentChange": -3.12,
+      "percentChange": -3.74,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.56,
+      "currentPrice": 7.55,
       "weekAgoPrice": 7.710000038146973,
-      "percentChange": -1.95,
+      "percentChange": -2.08,
       "flagged": false,
       "news": []
     },
@@ -58,9 +58,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.51,
+      "currentPrice": 1.52,
       "weekAgoPrice": 1.5499999523162842,
-      "percentChange": -2.58,
+      "percentChange": -1.94,
       "flagged": false,
       "news": []
     },
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.12,
+      "currentPrice": 1.11,
       "weekAgoPrice": 1.1799999475479126,
-      "percentChange": -5.08,
+      "percentChange": -5.93,
       "flagged": true,
       "news": [
         {
@@ -108,9 +108,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.28,
+      "currentPrice": 1.3,
       "weekAgoPrice": 1.2699999809265137,
-      "percentChange": 0.79,
+      "percentChange": 2.36,
       "flagged": false,
       "news": []
     },

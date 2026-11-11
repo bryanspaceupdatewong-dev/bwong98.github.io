@@ -1,45 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-09T03:16:23.241578Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 186.64,
-        "weekAgoPrice": 204.63999938964844,
-        "percentChange": -8.8,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Tech firms claw back some losses after midterms rout, eyes on Nvidia - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGZVbHI5bFlhN0F4dG1yOW9sR1dzLTFLS0MxekZqb3FhUm9kVkVQRUNrMFNFNFhQSG9vQlF2VTVHeUpKME8yQ1Qwc3lLMUVjeWFCU0x2ZUZMZUt2NVVtVjdrMXhGVTJmUDNRNEl4V1ZKSy0xYTJ4X05IYmZUakVPRE13?oc=5"
-          },
-          {
-            "title": "$NVIDIA (NVDA.US)$ h pattern emerging - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbnVjQTYwVk45NXNIVEtvQXF3OV81VENfUnNKMUlGd1JpQXdrTjdCTXBJRVVzd3AzbUo0R0ZTT2JwSWV3cFg0d3JiMHFkYXdyVlo2VTBTcml0RzFvWjk5R2xfZGMwZURpbl9wVkxObUM5UUhCSjBndkl2dG5VVUZCbzB0ZDFjQnplZUZqTVNDUkU?oc=5"
-          },
-          {
-            "title": "South Korea says Nvidia issues won't affect contracted GPU supplies - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMnRrSE9jMmVueFFGU2RTbE1UWlJleWF0Qm50WHVtcUxOT1otMDNaNGREOEdXbVVkWXUzLU55ajdZSmZIUGV6ME9fNnJCbGJrUTNMZWZCYW10MDNKZG1LeXMwMm9iejN6aXp5UE9OY0FVdzRBLVNGNHRyc19jNV8wQ0lNa1dDMjlNZTR5dkVyYXE0Q2tsN1E?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.2899999618530273,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-09T04:16:08.543240Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2982,6 +2942,67 @@
         "currentPrice": 1.12,
         "weekAgoPrice": 1.1799999475479126,
         "percentChange": -5.08,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.25,
+        "weekAgoPrice": 0.23000000417232513,
+        "percentChange": 8.7,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-11T03:15:53.991458Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 168.89,
+        "weekAgoPrice": 206.69000244140625,
+        "percentChange": -18.29,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA Shares Rise 1% After Hours After Sharp Sell-Off and Leadership Probe - NVIDIA (NASDAQ:NVDA) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUFNnaWVBSmp5dHI5MTB3ZVJITUdsd1o4MWp0WVdWRDdGcFF0YV9CTHVuREphX2pfQU00akpMRUlFUEN5TDUtTE5ycXBXSUdUNm5wYTNYcnZlSGFwcktwblRYcG5SZjhMV3N1a3A2RlhGbEJQbnNMNU1Wak8wazdnbGJIdjdoQkFXMnUtbE94Mi1jX0dFU1l1TjFxVGJEVFdLb0FUQ1V3aXhkc0FvbS1KVU1JQ3lvenpYREtmWFFNZlVlZw?oc=5"
+          },
+          {
+            "title": "Michael Burry Sees Nvidia Becoming \u2018A Heck Of A Trade\u2019 \u2014 Reveals His 2 Biggest Bets And Where He\u2019s Buying More - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGtjRlAyQkNSTWY2SE5uQVh6cUZqQkNHcGl0SEptX1VFUXJtV1FMakhDTWlQbEFFYzZuWkZrRXlkZDVQTEtmbUFad2ZxUlhoUTdNZmo1Ym9vQ3c4Qk5kakpYbVlzTF9UQS0xbTl1Q0xqRDlaNWFnVGdSd0ZLVTdBUlItd3hRVEJWdjkyVVk4b3pPdUNMSmRxSHY3aXBpbUpr?oc=5"
+          },
+          {
+            "title": "NVDA Stock Risks A Breakdown to $120 If Last Support Goes as Huang Spy Controversy Weighs - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcnE1NXVXd0VpSEpOSDhyMU9OdVVickVXSS0wUzRhc2N2Vjd5aE9oY1JUMlRaWFVWLUhKV0FWLWRYUTFMcVdMcUsxSkh0WnYzWGtxc0NrNGtRUFh5QXpQNUZCSklLWWwyRFBCaXdKNm1QdkQzVzJyc3prSnY0TDRoeTNlY0lWMXlxNkI2amlNbXJQZ29Gd3cxb0t1cFhiZEtrVVBvaGQ4VW14NzlwUFEtVWhmVVNDeVduVTdWbkNmeW5ZUWs3Q0NjVF9hYw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.11,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -5.93,
         "flagged": true,
         "news": [
           {
