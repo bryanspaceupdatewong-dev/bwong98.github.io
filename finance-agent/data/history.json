@@ -1,70 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-09T18:20:12.200570Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 542.865,
-        "weekAgoPrice": 507.1199951171875,
-        "percentChange": 7.05,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft Stock (NASDAQ:MSFT) Gains Despite New, Overzealous Outlook Security - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEhMamI2YjVpOVNWUHJ3WDdPZ1hGa2xKMnhETTB0Uk1Yd0l1OFY2Sk5TanNoaExwR00yY0lKcHV3Q2JEVDlhbWpLUE80SV9LTno1T0NRdVBMaFIzZDR0LWN5VnhlcVlXLVhtbUlhQ0cwZkI2N2FhZGtWRU5heF9VMFMwZ295eDF4TnNSSVp1eE9hdWdpbThEaW1ZX0NnUURxOHFFMV9B?oc=5"
-          },
-          {
-            "title": "MSFT Nov 2026 525.000 put (MSFT261109P00525000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYWlM3bkxnLUJtRWx0d1c2UGVaZ0tNRlJWLUQ2QzJMdEhLRTZZVkJJU1Z2dmJSY1pSbmgxbDBIU2ZLZW1Zb19zTE4xcGtrY0otZDNkeDVWY3dJZ1RsQ3JOTktfU3JJUQ?oc=5"
-          },
-          {
-            "title": "Microsoft, Oracle, SAP considered 'AI winners' among software companies: Oppenheimer (MSFT:NASDAQ) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUw3cXRyR2pWU2hkLTVEMlJsRlNaSGZIZWpXRUg1UjVEbjAwY0RjWTlJM291UmJBaUFCaUxsQURYNFVWcUxpWHhaM1gxdnlIQUl0TUNqYWRTSWVOSmQ1OHozd200dXJOUUpuZTY4eG12bkhvV3laZlAwX29GTzl4bEJFeGNQaE5OZEVSbkhwRkFZNzNaX1h2U3VrazlZMFZreVJVRkp3dkZoaTVRbWh1SF9oN3M?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 176.33,
-        "weekAgoPrice": 202.05999755859375,
-        "percentChange": -12.73,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stock market today: Nasdaq rallies despite Nvidia stock slide, Dow and S&P 500 rise as AI stocks rebound - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdG53R1lmOWxNelNURjQwQjh1a25leVVnRjdkU2lrX2VDemx5VDlJdk56Y24zeXE3dzVOdGtETjlEblo1UGNxdkRXQkR6UXZrT3VVU0pNamhlM0RpMldLdXhxSEdEUnF1WXo0MVZLLW4zb28wclBSdE5ZWmJ6aWVnelpVWUxjcTZLZ1pKNGhpNUVCREExWnJJV3JDMzVFQUF0V0hud2ZYSUJnTVVRV0diNFdpanlSZw?oc=5"
-          },
-          {
-            "title": "Nvidia: Attractive Even Under Cautious Assumptions, Especially With This Strategy (NVDA) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdi04aGZtWl9yeWxvQXFfcFoyMk13RTRIbUxhQWJfbWxoTW1XVksyaWZ1SkpjRXNOdW0wOFlwWlRxSWg2Nm1EVDNxY1JYOVV1VjNOTVJmRjZaQVNjME93QUdueHQzNk40Z1oyc3VNR1dpM1BEeUp4ekZaSjZCem9kQVh4bWNqNXcxeHNycWxXYklNcENmc1NRN2s2Y1RibVYxWnpTZk16RGJmNE1aa2RIN0ZScEFyX01wWkpvag?oc=5"
-          },
-          {
-            "title": "Stocks making the biggest moves midday: AST SpaceMobile, First Solar, Coherent & more \u2014 Live updates - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBETjEzVzFLTXhVVm5IMDQ2YS1uRTV6UWFtblVkY2xhZ3BzclA5dFJ5WFJkbklySl9ZMDZQZXRGWE5ZV0FJXzN4X0xpdU9yUFotUllSTk1UTVpscU5MeDM0RzFFQ1RYcHVkbjk4TWlnSGozT0NpaXRCbw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.2899999618530273,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-          },
-          {
-            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-09T19:15:52.590190Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3648,6 +3583,101 @@
           {
             "title": "Nvidia slapped with rare Wall Street downgrade after Jensen Huang's affair - Business Insider",
             "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSUVZRjM0RGdJbW5aYS14Zmp0UUNQS1BmS3RIc21RcU92VS1ob1VtMTZMeS1GQ1VDZ0FyeEZEQ3hBcDVWQ2NTdmhRak1aR2dJV2NFWHNlSERNaHZDUXowU2ZQSHVUTmVvMjJQNXA4czV1Vm10T0drTGFudnRvY1pIb01NQTFLVV95bEN2UlVjdlViNUY0di1jUHVONUdLZkl0?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.53,
+        "weekAgoPrice": 4.789999961853027,
+        "percentChange": -5.43,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.25,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 6.38,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-11T19:16:02.969515Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 520.335,
+        "weekAgoPrice": 555.7999877929688,
+        "percentChange": -6.38,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft Fixes Overzealous Outlook Security Issue: Microsoft Stock (NASDAQ:MSFT) Slips - TipRanks",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ09qTUdsLXdVTTlxc3IzcFRBMTBkYWhYVW5oUHk3ZjZqZ0c0OGlWdFRxOHNjWlJPNVk4R0ZGRVlNN1VWbHU0eW5QeUxGOEVJRkt4ckNEUmQySW16ZVRvb3RyRlhPd2Q2c2JDNVB5emJlQVhtQ1pscnBzWDl0WFNjdGhKTlpOSmphUkVmZlRGeXZ6Y1ZuS1ZjTjhGamNfOWhRUTJJRjFvUnlqZjNrc3hYcU9FYw?oc=5"
+          },
+          {
+            "title": "What's Going On With Microsoft Stock Wednesday? - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWd3REhYZ1hQUlJRbjBNa2kwOURNLWU5ZnBIX1ZZdW1pYmp2bHVmLTljVURoNmJXWGswSkxJTy16MnFVd0FUSmFlNkh3TnR5Z005RkpXeXd0Q3RyQ3k2c0dOMlJaSFg3eTZ1cmxvaU9kSzY3SzNtY3NFci1LZ3d2VGZqUkktS19tcW51WmFGR1ZIT0w5aU1QWXo3cm5Tak16THc?oc=5"
+          },
+          {
+            "title": "Microsoft Stocks Decline 2.5% as $1 Billion Anthropic Stake Tests Partner-Rival Balance - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdkdBMHRzUkt3Wk1TSnFPVmp0UERsVjFEMnJCOGVQS3N0TjhuaHZLVHF1VU1LOHJyQ3RmZmczTlppVUdveDNVZnFjOGxVUG5LTWxUZ1BmMVhNMkxncGdLVjY3enRXMF9sRW9ubFI3UER5TTNOc2lzZ0RVR1R5OEhSWk9IMA?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 175.82,
+        "weekAgoPrice": 200.1300048828125,
+        "percentChange": -12.15,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia stock is pricing in 2 major risks as CEO Jensen Huang's affair fallout plays out - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblRWcW9rakVSOGNoV081cEI1U0FiZ19PN0hlNHA1VV9DbXlqUEhjdDRNNEpvNGg4NF83TDlBYUNRSnNpNGo0c3FYM3ZEODFOZXQ5YUpBTHFHRkhqc0hwemlLdVlBN2s5aDlua19kVTRPVFkxLXdWZW51STd1U1ctVmtYbGR5c01GY0EzYldiMmViU3kzR0JRelRwLVNEVWtrOUxrV202emNfcFY2SWozUVplRGdFR2NKWjVSWDhDUWdzdkhreXFJVHhVOU9wTnRvbng4T2FpOThOam9lVVhJLUZybGE?oc=5"
+          },
+          {
+            "title": "Jensen Huang Controversy Overshadows Nvidia's Q3 Financials - NVIDIA (NASDAQ:NVDA) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUU5OdWVRSXNrVWVvT1dXMDBoTkE2SnhxekhpdnEwUjVGRUkxY1JnbHB3Rll3ZUFjWDQtLXBqMUFsallOUzRscHNDNFB2MFNBQUU5Rl9QQ3lDMWZtaVhVR2JJRjFBUjJGSXpRS0ZHZVBMaUhFNXc5bjRtUUlxYUlyS0F2ZUtnbmcyQjhZcENLVTFwWl9sNnpJSVEzUlFSNHRDOERLM25tM0FBellSUW5JcWV5X3ZXQ1gtOXRnU1JVX2c1WWhRV0h6M0JyTG1iYVk3SGtHejAtTGhGczdxd3pPY0s2SjFVTURGOGM4SVlKRndnYVZnbW5UV21OWUZuZDNmV1NkTEFPZkZYTmM?oc=5"
+          },
+          {
+            "title": "NVIDIA Earnings Could Put Your 401(k) to the Test - NVIDIA (NASDAQ:NVDA) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGNhcVpETHF4U2lra3JnZmZqd05nUVlOTnhEa0ZGbVRMcW5qWi0zVU9jS2ctc1FFWTlveTh4LVZKR1dKMTJLT0djMHlEWnZKT0ZBMGdYcVdhbjRYbXBqRGRUbG5sWmVaTEFzZWt5bFZyODRWdk5hMXJNSnUwUUt4YU9GN0F1M0NxSlZuYmpUYUtQcmg2eVlv?oc=5"
           }
         ]
       },
