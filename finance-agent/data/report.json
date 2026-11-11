@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-11-11T15:15:59.300473Z",
+  "generatedAt": "2026-11-11T16:16:00.368011Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 523.95,
+      "currentPrice": 520.13,
       "weekAgoPrice": 555.7999877929688,
-      "percentChange": -5.73,
+      "percentChange": -6.42,
       "flagged": true,
       "news": [
         {
-          "title": "Microsoft Stock (MSFT): Why RBC Capital Is Bullish Ahead of Ignite Conference 2026 - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQajVWdElicHViOHRESUNmWlotSWYzam5mbHd4c1lFVFVZR05EaDNPdVBRTkR4R3RNdUotYTJGbHFZRkNrNzYyckJ5U19oT0oyRGhHSzhiR3Jmb0V3bFBqcnhYVlNOUkpCZ2x3UUtvYXdHQXFzU0ZIcjBFclo4ZmtmQzMweVBLS1RBV0NoQ2pod0pZTUxSY05kYWY1SFZrbjZuNFpXTWJEQjB3MmV1NFE?oc=5"
+          "title": "MSFT Nov 2026 535.000 call (MSFT261111C00535000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CbjZITjMtYUlLdU95YW40QjRkYzAtSFFiNlVhRjhpU2V1Vkh5UUxDbjVmczdHUXNKU2xLSXg1a0ZhWXdsaWx2Q2VMUXBDWXZ6cDJfQ0l1X294Z3lvNWtneVJZN0REZw?oc=5"
         },
         {
-          "title": "Why Is Microsoft (MSFT) Teaming Up To Bring AI Into Healthcare And Education? - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTWlQRUxsZ0EyYjViaDJjR1Q1NEtOWUoxM3pxLUR2SmFnZFEzQ3VGbXhfOFJSbnloWk1EVWRaQWpzb2RzTzBudGJURzdjZnFzQ0VFU1hmTG5BRFNOQjNzWWZHLUpZOXRRQVZOVzJqbGJ0RGs2ZUJhSEJQTXZqa09EYk5BaFFCY3V6bHptbE9JQ0N5RkNXZGxrNmUzZlp4MXd2V2hLdnFRMHR0NDkzX1VLdHFzRFdaMkRWaW44NTd1NFd0Z0M2bS1j0gHMAUFVX3lxTE1VNlprbERjN1d1WGRLN0dBZk9ndDkxWVB1X3RMcGlkLTV3N2FSRnluclJiVkVVMGloaFMyN1hobENtT1VKWnFjaVpYNlhsSjNDVTBqb2RBb3lzcVNkbGZSVFQ2dG0wS0RLek4zai1veTd2ZjcwRnowWFh6WFQ0T2FFcmMxcmkwdlJnNTc0WC1GbFFTNzdaSVVUeWJYVFIxcmU2QjA3SllGNGVuMmRJZEI0a3d4bWhmRldpMXBYX29DVnNPV1NSRXBoOGp2cg?oc=5"
+          "title": "3 Artificial Intelligence (AI) Stocks to Buy on the Post-Election Dip and Hold for 5 Years - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMS1USFFDMERINlZPdkxUUm5VVTBueHhHT0dsUm5IbW9UY0JibkR2bHQxZm05bzNhdHBuOEFtTHVQTGg0U0dGU05OQXpKVURXYXdweE1vYlZ3V3ZadmJqbVpkbFBtaWUwZnBwU0dLMG1lOEJpQjhEcDkxNHE4b1RRaFJiRXFieXp1ZjBaQ2pLSkN1SE5vNTRBaF9qdENYcXhQbXVUNFNJRThSYTVoWER1REh1NmVYWm5XdE5NMkExS0kwUk5LNldjT09waWdwTGVDWkdja0NmaXRYSWtoUXpWYUdVQUc0S0d5bFljdGlNT1EtX0trNmRYRFFBdnJaV052SEl3?oc=5"
         },
         {
-          "title": "Microsoft (MSFT) Is Getting Paid for AI Agents. That\u2019s Why I\u2019m Bullish - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaG1WLUdneVpvTzFsdE5aano1cUIyLU5NejJsSWN6cWctVUl4SkZOQ2U1THlsY0NEWVgxU0RVY2xyWTdYUXk3b2JmZVN6Vl81eVlFZHhlOFFubzVnOFk4MUVTa3hNV1VnX0I5U1d5MXBGRUp6cmsybVpmRFlkSXhOeWcwbjJMUWlZbmpoTjVMcnlxdkJHWDYtOVFmYjNpb2xQMXJqM2UwRTlIdThJUFFsaDNTNENSOEtuYzRsUm5QNEQyaUgtZ29SWU5SdGx4dmgyRngyb2VKQ2VMVWtxMmJ3aW5mYmU?oc=5"
+          "title": "The Nasdaq Just Entered Correction Territory. 2 ETFs to Buy on the Dip. - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNjA0T0w1a3Rac19TS0JnblVueTVDdl9KX2RQQ2ZlazQ1cXQ1ZXBIdU5HaktzSU5yZUdFRU00R0dUdTg1c0Fqb095RXRwMjg0WXdMSVRaRm9hUlg1MFdSaTNlVDFHRWJqVXVMS2xoV0owZ0FuOURyTGNBc25UZ3V2LVNGU3k5M1k1N01nUkgxTGdTNXdiNWJhYUI4SFFVaFZkWjF5X3hSXzliTFNkeC1qeks5Qnl2M2ZoVDQ2S0hPVVFVX0U2VVVQZGJDeUIxT0FqUmZ1Y0d1R21pSDNISkhBRzZLMnc0ZUtSdWc?oc=5"
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 172.565,
+      "currentPrice": 174.86,
       "weekAgoPrice": 200.1300048828125,
-      "percentChange": -13.77,
+      "percentChange": -12.63,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia live updates: Nvidia stock rebounds as spy fiasco involving CEO Jensen Huang raises broader risk concerns - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWldTaHlFa1FDMTZiZldtdUlEVFkybDRmU3BUWms1eXNTR21qc1owdUVmSVAya1VBMnFwOTFBTUNlb005WU1kdDFBd0JUcVUwTWYta2RDZjRNRjNhQS13dElEY2Y4aXpNaGJDV1ZHWmp1SVdjMUpuekdNQ0hKX0paRkJENGtHSDNpQnZaZEMzeDJ5YnczVk1jUG93MEJRT05zN1FQbklPVklhR0FVa0ZCVFBiSHN3SGlzTUt4OER2RWIxaDhTMzJ5RVA4NmFXWXQyU2hjQnpKbFY0YU8tTmRzN1BoZmpmbDZmRnVMLVZsX2tpNXc?oc=5"
+          "title": "Nasdaq surges as CoreWeave leads tech rebound: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNUpWaERRaEpZWXFmM0tBRnFQQlBPVzlJUm9ldF9teW53ZjY0WHZ5X1FBdXZRWk1UR0dWRlZXX19VTDAyT2N5QVA4RzlST1FFcFpBUEVMek5OTVN1Vzk3eUNra1puWVlyVk9SMVVXX01YWm1BbUVZ?oc=5"
         },
         {
-          "title": "Odds Jensen Huang Will Be Out At Nvidia Hit 16 % - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnI3VXpFc0Z6SWoyUXl1cjN6V1FzcWJ0VHR6bXlkQmhBZ2pXXzZrR2RfTl8tR0U5VEVrTzdlVzBxeUJWZUYwek5mV2NLeHFSa0ZROGNuRTUxTVdSMkQ5YTdMNTVSUUJhUGhkUk5Ja3BJMVpvai1rSnRycUl3ZjNmZjFpOGwtOVhvREx5MlpFNU43ajBLV09Tcw?oc=5"
+          "title": "Prediction: After Losing Over $1.7 Trillion in Market Cap This Year, Nvidia Stock Will Rebound in Epic Fashion. Here's Why. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUk5yd1l5YjdaOTM2dDFiWmQ4U0V2QTd3ZHlkLWtnVV9zUzN1SXZYSE93NzQyVWZ1Rk5BZldqZ1BiQmp0YXNKb19Zc2lxanhqQUViWGtPeWhjWUt0WHgyVTd5QmhKUmZlSXhHbmtMRDJlZlBXLW9PYUZoMEF2ZkdJa2RKUlJRV2FlR244MGp5OUFmSEc5UmlEOFh6MncwNENJOG1hSVlxUk80dFVDM3BGc1A5RmY3MFM1OFFvdU5VWmpHRmlxb0hCYmh0c0JBZ3Y1aVNKM2Z3ZFlVbjhKYWM2LTFGbFY3Smt3R2ZoZm13UExrU3o3N0RN?oc=5"
         },
         {
-          "title": "Nvidia Stock Gets Rare Downgrade: Baird Slashes Target 60% on Jensen Huang Scandal - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmFyV1VWbHkzX1R2SDM5bkFmWUtFYWgxaDBkOHVUMmtLVktRRmx2TWh2YmZ4c0tyMkktLThvWEZrSXYxX0U1aWJuSEJqeE9PNGFsTllual9qNkZoV2M1NFdsMi1yRmhOQmE2bk1tVWdPUGx2SWx1TVhJcURSU3B1R0lhTWpyRFlrWjZjcEdPVnRwMnBwQnhzT2NaUWRSUVVKTUNlNkQzWkZCNmpqQnlTa0lIT3A2Ylk5el9HN1p1bU1IOUd6d3hKbFhrOGtyZw?oc=5"
+          "title": "Nvidia Downgraded Ahead Of Report, But Stock Joins AI Rebound - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnpPLXNLMDVpTUxSWkd4ZVZlTk9Uck1vMkNhZHpndWVxbUt3YURlM09hTzRWOVd1VU9oVTgtdTJjeXlkRjE5MzMwZlgtZVgwMFJlSjJFNG1sRm9PYnRMWWJsRmxvRG1vYkduLXpRX1pfRFV4dmEwdTdfR3pCSEhaVmFjNnczV0x1LUFqTk9tUTMxN2paM3l4Ry1jWQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.53,
-      "weekAgoPrice": 4.809999942779541,
-      "percentChange": -5.82,
+      "weekAgoPrice": 4.789999961853027,
+      "percentChange": -5.43,
       "flagged": true,
       "news": [
         {
@@ -61,8 +61,8 @@
     {
       "ticker": "1066.KL",
       "currentPrice": 7.54,
-      "weekAgoPrice": 7.710000038146973,
-      "percentChange": -2.2,
+      "weekAgoPrice": 7.5,
+      "percentChange": 0.53,
       "flagged": false,
       "news": []
     },
@@ -77,8 +77,8 @@
     {
       "ticker": "3182.KL",
       "currentPrice": 1.52,
-      "weekAgoPrice": 1.5499999523162842,
-      "percentChange": -1.94,
+      "weekAgoPrice": 1.559999942779541,
+      "percentChange": -2.56,
       "flagged": false,
       "news": []
     },
@@ -106,8 +106,8 @@
     {
       "ticker": "0397.KL",
       "currentPrice": 0.25,
-      "weekAgoPrice": 0.23000000417232513,
-      "percentChange": 8.7,
+      "weekAgoPrice": 0.23499999940395355,
+      "percentChange": 6.38,
       "flagged": true,
       "news": [
         {
@@ -127,28 +127,19 @@
     {
       "ticker": "5352.KL",
       "currentPrice": 1.34,
-      "weekAgoPrice": 1.2699999809265137,
-      "percentChange": 5.51,
-      "flagged": true,
-      "news": [
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-        },
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
-        }
-      ]
+      "weekAgoPrice": 1.2799999713897705,
+      "percentChange": 4.69,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.66,
-      "weekAgoPrice": 0.6650000214576721,
-      "percentChange": -0.75,
+      "weekAgoPrice": 0.6600000262260437,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 6
+  "flaggedCount": 5
 }
