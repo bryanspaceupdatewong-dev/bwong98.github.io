@@ -1,49 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-09T13:24:04.829436Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 186.64,
-        "weekAgoPrice": 204.63999938964844,
-        "percentChange": -8.8,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock Drops 5%: What the Jensen Huang Investigation Means for NVDA - Coinpedia",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUnNlc2ZWbTIyUk1CTHVENnpBQTlITFhwSGJEc0RxV2F0YXRFdEVvaDdqNVh6cV81aTFVODl0X0tROHhMalJGdHE1bTEyYUk0VlMyTFo1eTcxS0JtQ3ZwV0pDbmFfeU0xeVdzaG1xSk9yNDN2MTNNOTRWTW5jU05wWnlVZ0xSdGppSTl4bFFGRXBPWFhxUHcyWUFqaTJsU2U4MnhWYzQtbzlZd3BSZnJLS3lSeWtWaUnSAbcBQVVfeXFMTVJzZXNmVm0yMlJNQkx1RDZ6QUE5SExYcEhiRHNEcVdhdGF0RXRFb2g3ajVYenFfNWkxVTg5dF9LUTh4TGpSRnRxNW0xMmFJNFZTMkxaNXk3MUtCbUN2cFdKQ25hX3lNMXlXc2htcUpPcjQzdjEzTTk0Vk1uY1NOcFp5VWdMUnRqaUk5eGxRRkVwT1hYcVB3MllBamkybFNlODJ4VmM0LW85WXdwUmZyS0t5UnlrVmlJ?oc=5"
-          },
-          {
-            "title": "Risk-On Open as Oil Drops, NVDA Slumps - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb250alVBN3VCZTNXSFRTSGlPcGUxUFJZdGdwQUxqa2FKS3Rqc0lqM3c1ZV9qR09aUkFoZkNVck5VVnJEb3IyTHR2RDEwbDdkNDNMSThvRG1wU3YtNUNJU0RrMmJycmlXeEV6S19FWXRhU3kyWXFvRnhXYlNST09zSFFuMGZMSE5jclpfU3o3bG1EWEdGeEE?oc=5"
-          },
-          {
-            "title": "Nvidia stock sinks 5% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObWVFY2cxQURmMnJ2aWFxSlRfeFJzeGJDOEhxbjVqUWVpMU96Mm4wcFNBVG5BaVdBZUIwYnN3WXNsWEZld000V1ZrMl9SR0pVZFB0a21rTUV1U3NJajhTUTN6bjBmVmtIQmhtRWxyV1dyemhvcDFrT1J5TmItcGJyVmt6VGY0VW9nZVBVZ2RIalNEOUhKRGRybVgtdzBPMkpzRTBicXpTaGw3c29vUXhiR21hVmVlWk10NzgySGJwbV9MSWpLeXVpT2hJT1FqU05XTXlZMGQwS285QlhudnBJdkhrMGlRbVJsX0h5alBn?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.2899999618530273,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
-          },
-          {
-            "title": "Pos Malaysia Berhad (4634.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82bEplM1Vlek9jUE5hZUc0d0ZHaFlMQ1g2MHNfejlhcEFyNkVXZkdRQmprTDBsV3ZFcXdnVGJVR3RDWDFnZENtNGJoYzcyUmVRMzkzZVNIQnhheDdLQ1ZwaC12ZFB2Zw?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-09T14:21:22.329536Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3391,6 +3347,97 @@
           {
             "title": "Nvidia stock gets a rare Wall Street downgrade on supply issues - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2RVUEhGdlpJdDhvQzZDRW1fVFZVV2VYMUd5N2VSUnh6Tnc0cktHOFhmYTRMblRxQ1JnLUQ0ZXJSZUpQT0hpeERfZkJpQ3gyWnY2QndZak40UXVCbHZrQTVqNTdqMllwVWpxZnpMUjFUdkhqY1lHN1c2SXJjR0ZuT3lPdmkzYkRiVEs4THRzaFBnYWlCTzFJ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.53,
+        "weekAgoPrice": 4.809999942779541,
+        "percentChange": -5.82,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.1,
+        "weekAgoPrice": 1.1799999475479126,
+        "percentChange": -6.78,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.25,
+        "weekAgoPrice": 0.23000000417232513,
+        "percentChange": 8.7,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.34,
+        "weekAgoPrice": 1.2699999809265137,
+        "percentChange": 5.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+          },
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-11T14:15:36.329216Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 168.89,
+        "weekAgoPrice": 206.69000244140625,
+        "percentChange": -18.29,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZWdSbHUwUHp3b2d6LXhNcWR5NGpEeC1Nd2hsN2pUNHl3aVRrR09oSFhYdGQyNFVSdXVxZkZadDA1TTNwcV9ycF9jUlRJcnpSaUFnenIwdzlpM1g1V0lERE1ScEIwalZZb1JrYXVvVXZySUJyRmZXMmZWYmE5TlFUR2hmcy1Id20ydlB0dElabUtPU0l2WGI1dHZqNExXSmNZSEJCUmZhdnk2SklpeUlENWdwanVtZGFIdndGVXBQSUQ3V0dLbW5JZlktYWRSWlp3RVVnM3R2UlNuUTBqbG5kc0lnZzJpWmJaNFlITExJLVpkM1ZKUTQ4bWU4ekl4eVhod3h5Q0pUUmhobGZHRG05MUFoVU15OG5IUG9Xaw?oc=5"
+          },
+          {
+            "title": "4 stocks to watch on Wednesday: LLY, BABA, PYPL, and NVDA (SP500:) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEQtU0U2M2hWaHRXd0pvSllHX281QXNUX2VuMlZvVVZ6c25DMk9XLV9vc1REeThLRWhNcE4zWDFIWmdsZ0dFRWRxYlE3dU5Nck5WQ091NElCTl9fRWtsRHo5V0d0bkFBU3pwQ3BJT05Nd25URzROSDZNSW9VUlZQQWVpemVtUUNiWW5JUjFHVjB2LURFSUE?oc=5"
+          },
+          {
+            "title": "Why Is NVIDIA Stock Gaining Wednesday? - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWHl2ZkwxdWtWSnNXSDJkeUFNZE1vUlNuVXYxYWFXT2s3R1gwS0FnQ2VsUWxsV29qaDlfRUxSRWkyaEZrZXJIQ0Z2MlNpZU4zTDR5R29fTmFwaWtJc01QbDNjdk5TU1paUFNPVTAtM2FmSkktQmc3ekl1WFR0WTFxTHB3ZzJlc2loTzdBVW9FVENJeWFf?oc=5"
           }
         ]
       },
