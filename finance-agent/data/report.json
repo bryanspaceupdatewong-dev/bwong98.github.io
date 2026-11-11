@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T04:15:59.763395Z",
+  "generatedAt": "2026-11-11T05:15:48.074302Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,32 +19,32 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia Bloodbath Over by November\u2019s End? Crypto Bettors Weigh NVDA Stock\u2019s Next Move as Jensen Huang Cont - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajhfVkwxRnJNOFh0N2tscVkwMy1GdDJmUjZRWE9uc2MzZ2oyUlQtSFloNDVzUHdVMjhNYXJ4OF9wQktmYWRLWkpCRmxSVDVFeWNUdXRIVVgtbThnNUpKWHM5X3RzekE0VGE0UFJ6Vnd2Q2hzRUhzaVJUS0lzLTJuVkZWV3BsNVN0UTEtcXhXQ19SZDAtZ1o4MW9nVlBTQ1Jqb0JDQzYwQmdCcjQ?oc=5"
+        },
+        {
           "title": "NVIDIA Shares Rise 1% After Hours After Sharp Sell-Off and Leadership Probe - NVIDIA (NASDAQ:NVDA) - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUFNnaWVBSmp5dHI5MTB3ZVJITUdsd1o4MWp0WVdWRDdGcFF0YV9CTHVuREphX2pfQU00akpMRUlFUEN5TDUtTE5ycXBXSUdUNm5wYTNYcnZlSGFwcktwblRYcG5SZjhMV3N1a3A2RlhGbEJQbnNMNU1Wak8wazdnbGJIdjdoQkFXMnUtbE94Mi1jX0dFU1l1TjFxVGJEVFdLb0FUQ1V3aXhkc0FvbS1KVU1JQ3lvenpYREtmWFFNZlVlZw?oc=5"
         },
         {
           "title": "Michael Burry Sees Nvidia Becoming \u2018A Heck Of A Trade\u2019 \u2014 Reveals His 2 Biggest Bets And Where He\u2019s Buying More - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGtjRlAyQkNSTWY2SE5uQVh6cUZqQkNHcGl0SEptX1VFUXJtV1FMakhDTWlQbEFFYzZuWkZrRXlkZDVQTEtmbUFad2ZxUlhoUTdNZmo1Ym9vQ3c4Qk5kakpYbVlzTF9UQS0xbTl1Q0xqRDlaNWFnVGdSd0ZLVTdBUlItd3hRVEJWdjkyVVk4b3pPdUNMSmRxSHY3aXBpbUpr?oc=5"
-        },
-        {
-          "title": "Did Jensen Huang Mislead the Board? Gary Black Raises Questions As Nvidia CEO Returns to \u2018Business As Usual\u2019 Amid Affair Fallout - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0xXMzk5b2Fvd1g3Z2Y4YjlLc0JQbmVZQTVERklzLWk5dmRkSjFLNC1pVFJjYTcta0FDTy1NUTAtZzhyQUxHaFhzSU5LZzVWckU2cDJvazZQZjE5SG9KaHVnX01JUnMtbE82bTVfZ1NTWHVUM3Z4YjFaQUJGSnhCZ2MzRTNKMVdlcVpiM0JLV3VNQ2ExWWpzZmotcw?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.58,
+      "currentPrice": 4.57,
       "weekAgoPrice": 4.809999942779541,
-      "percentChange": -4.78,
+      "percentChange": -4.99,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.58,
+      "currentPrice": 7.55,
       "weekAgoPrice": 7.710000038146973,
-      "percentChange": -1.69,
+      "percentChange": -2.08,
       "flagged": false,
       "news": []
     },
@@ -66,17 +66,17 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.46,
+      "currentPrice": 1.47,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": 0.69,
+      "percentChange": 1.38,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.12,
+      "currentPrice": 1.11,
       "weekAgoPrice": 1.1799999475479126,
-      "percentChange": -5.08,
+      "percentChange": -5.93,
       "flagged": true,
       "news": [
         {
@@ -108,9 +108,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.35,
+      "currentPrice": 1.34,
       "weekAgoPrice": 1.2699999809265137,
-      "percentChange": 6.3,
+      "percentChange": 5.51,
       "flagged": true,
       "news": [
         {
