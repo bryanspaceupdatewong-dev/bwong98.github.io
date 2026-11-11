@@ -1,71 +1,58 @@
 {
-  "generatedAt": "2026-11-11T01:20:12.200127Z",
+  "generatedAt": "2026-11-11T02:16:27.714868Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 533.16,
-      "weekAgoPrice": 507.1199951171875,
-      "percentChange": 5.13,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Microsoft Beats Nvidia for the First Time Since 2025: So Why Is MSFT Stock Falling? - BeInCrypto",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91eUs1YWhlZWFWaU1LSnhPN2hiLW05ZG42M256MXZLYUhqM2QwcWNyUUVpekxLRlN1MzMyS093UElEaEtQS29TZXpaRkxBYXBBUFd5WHhHclI5UEk3SFgzWUdRb3lEcm5BVkVqb3FfVEw?oc=5"
-        },
-        {
-          "title": "Microsoft (MSFT) CFO sells 5,912 and 1,393 shares under a prearranged trading plan. - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSE5HZjRRaEw3S2NEZk4zZXlhZmVPNHdTdExfTzFHOTl3ZlljdndSMGxPRVYyeEFKYnFKT09QMklYckZwY3VrWkJZMTIyRUt2cW0xUFY0OTJyNXNJanh1WEZRclZXZ3M1VU50RzVwRzZrdU96SlgtOTNXcl9lZUJsSnllNnBDNkZ0YXRwYldxQ1dyc05OQWlwdWpwaFRGUVpGcTZpYldfLVdLdVhY?oc=5"
-        },
-        {
-          "title": "Microsoft Stock Falls On Anthropic\u2019s Challenge To Office Software - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVU1YdlJPSUlEcmx5OUpyelIxZlBYSnp5QmUzbTJpNE5IcG4xSURIbndrNWlHSXJpMGVacnM2QlpmWGdUbWRtY0xJQ3l1Z3RqN0RCRDM5VXZEOFlQWktpNTBDdHZqTTJDRnhlUkFVS1VOQS1Dakx2VmFhSVU3WXlaTGFicjRpcnBPWjJkbHBtcExZbXQySktYOWRB?oc=5"
-        }
-      ]
+      "weekAgoPrice": 520.989990234375,
+      "percentChange": 2.34,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 168.89,
-      "weekAgoPrice": 202.05999755859375,
-      "percentChange": -16.42,
+      "weekAgoPrice": 206.69000244140625,
+      "percentChange": -18.29,
       "flagged": true,
       "news": [
         {
+          "title": "NVDA Stock Risks A Breakdown to $120 If Last Support Goes as Huang Spy Controversy Weighs - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcnE1NXVXd0VpSEpOSDhyMU9OdVVickVXSS0wUzRhc2N2Vjd5aE9oY1JUMlRaWFVWLUhKV0FWLWRYUTFMcVdMcUsxSkh0WnYzWGtxc0NrNGtRUFh5QXpQNUZCSklLWWwyRFBCaXdKNm1QdkQzVzJyc3prSnY0TDRoeTNlY0lWMXlxNkI2amlNbXJQZ29Gd3cxb0t1cFhiZEtrVVBvaGQ4VW14NzlwUFEtVWhmVVNDeVduVTdWbkNmeW5ZUWs3Q0NjVF9hYw?oc=5"
+        },
+        {
+          "title": "CRWV, RGTI, NOW, COST, NVDA: 5 Trending Stocks Today - CoreWeave (NASDAQ:CRWV) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPS2M1b3Y1TDhXZmRvYXZ4dnF4M0ZUWTZ5RldpbW5OUVVoS3RVUzdMa25YTUo5TmNVNXBVRlk1WWZrbU9aeGFsMU01d3VvcGZtRmc4M3R2Q2Ntd1ktTzV5ZlE2V1RqSlNhSkVTQlp5a1ROek1rRjVMWmhUVXBFV0pNbF9EVVJyQkx5V0xDUFVvWG5oZjk1Qm9FcDJmZ2xkTEhuc0lBMTVRR1F5bENQY3doZ2JQOGVhZ0hSTGNYakhJbGpsQ3Y4VHdKeGRHUkdXMzBEUEhvWWIwTGJkTkEwY3F1VnJBaFF1NDdSZWcxQkxLMnJ4dldQ?oc=5"
+        },
+        {
           "title": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right - CNBC",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXEtNjBGQmkySUh6d3RIZlo0M3lpY2txS25RcW00YURRZnlpWWJ5UWJlRU8wbE1vNERBUUFZMDhad253YUw4NTl6Smt2ODVDZFVOOEtzLVlKTHIxa2hZbEJiYXZMOEFmN3hwcUFqWm40UkRfdk9Vd29qS1FEdE85UElxTQ?oc=5"
-        },
-        {
-          "title": "Cathie Wood buys $15.3 million of tumbling semiconductor stock - TheStreet",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkJFTXgtalNXQk1lYzhYbEg2bGV2aDdqLVZMUkpxeTlhV1ZPd3djRkQ0TmNjZmZKcTl1YzJZcFNsZXJ5V2RzNWlzUUczTUM5TzROQnFjV09UZ3M4RjVsSnNRb2ZOeDB4MWlQazVzYVJsMS1JZkxGUHpCMncycm5IRzlEbl8xWUN0bXNzR2J2R0lKRU5DenBaTFF5SFNPX2hPMWFNWUZpd0FyVXp3bDBITHpJWjlTb0U?oc=5"
-        },
-        {
-          "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wRWhMQVVPSndyZG1Hb1FDM0M4UEpxREhfZGlYb3BTcWh6UDZXc0tXUTVhU2xzeWR4b2VYT29vTXJGa0RxRzdrOV9KMmUzN1dMb0FtWXJYcUNVdjRJaVlRT0M2NXpnWkVaNWlNR0pUYUxsWURHaDBLTldn?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.7,
+      "currentPrice": 4.66,
       "weekAgoPrice": 4.809999942779541,
-      "percentChange": -2.29,
+      "percentChange": -3.12,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.62,
+      "currentPrice": 7.56,
       "weekAgoPrice": 7.710000038146973,
-      "percentChange": -1.17,
+      "percentChange": -1.95,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.23,
+      "currentPrice": 1.22,
       "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -2.38,
+      "percentChange": -3.17,
       "flagged": false,
       "news": []
     },
@@ -87,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.11,
+      "currentPrice": 1.12,
       "weekAgoPrice": 1.1799999475479126,
-      "percentChange": -5.93,
+      "percentChange": -5.08,
       "flagged": true,
       "news": [
         {
@@ -100,9 +87,9 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.255,
+      "currentPrice": 0.25,
       "weekAgoPrice": 0.23000000417232513,
-      "percentChange": 10.87,
+      "percentChange": 8.7,
       "flagged": true,
       "news": [
         {
@@ -121,20 +108,20 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.28,
       "weekAgoPrice": 1.2699999809265137,
-      "percentChange": 1.57,
+      "percentChange": 0.79,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.645,
+      "currentPrice": 0.635,
       "weekAgoPrice": 0.6650000214576721,
-      "percentChange": -3.01,
+      "percentChange": -4.51,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 3
 }
