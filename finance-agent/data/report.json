@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T08:16:04.730413Z",
+  "generatedAt": "2026-11-12T09:15:45.449737Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -11,8 +11,8 @@
       "flagged": true,
       "news": [
         {
-          "title": "Microsoft Corporation (MSFT.O) | Stock Price & Latest News - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mc1U3MkxiZ00yS0FLaXVrTG1GRkFVdFRNTVRBV2cxQm1vSGl4bThaMXdGRHI2Q09oUkpsTE5mcElfN2ppbnlkcTQ2eE5jYlZETzBnNTdCN2lUNDluNkE?oc=5"
+          "title": "How Big Could Microsoft Stock\u2019s Next Fall Be? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWpVM3R6MlUwVEVFaTR5NktpdnhuZzBfUEluX0dLS0JIRXV6QlJVRXM0VXctZDlmWDUyYTdZTE9GaHFqUUVWX0x2OVVjRnZqTzhTNGo1VTJUb3poWjJhLTJlelRJQnVZWmNQSWhwZDlKS2NZM1UtVWE5dVNlVXJudnRVampfYng5WmtRWTdkT2lZcDdhV3hnZFdIODQzUzlLbE5zTFJzZw?oc=5"
         },
         {
           "title": "Why CoreWeave Stock Skyrocketed Today - The Globe and Mail",
@@ -32,16 +32,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia stock falls 7% as investors await Jensen Huang\u2019s fate - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVFBOVnFZT1F2M3oteUktWm1qb29oLW5DLW9MZ2pBRzhEenlNZWFERC1NRXJlSV9saDN5MmNRZzdzQm0xQ0hWSzVpSktBSy00aDZlUTcyQzd2Vmlia1F1UTlEdE11anNMVE10RDNEVlc4cUlMcW5CRlpxaWFEbDh2Mg?oc=5"
+        },
+        {
           "title": "Nvidia shares fall on reports board may oust CEO Jensen Huang - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHlEc2Vzc1JNU2pTTGJTZW50MkFkUlZlQzVFSENGdVdPTFRKRmVwbmZ6Vk5neThpZ2pjS1R6c0dUUVZtbU1GU2Vyd0VtbE5DZVJXREtTYjdENXdRZTJaeF9ucWpPLXNNMmNVTV9aWUFQb2NWMW9faVdWa0lVZnh6TmFmN1p5ZDV4?oc=5"
         },
         {
-          "title": "Michael Burry Says Nvidia Earnings Will Be 'Great' \u2014 So Why Is He Telling NVDA Bulls To 'Get Out'? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlhvNHZTWjA5WjZhT2RzM3ZNRkFwUk9BelVRWHhWRmhVZGxoQTVndmRuUmVwZm5sNkRheWNqdEhsSDNTRVFZWDZqUEcyaEFPM19NenE5TDBFc2h1UzNSa1dHb0UtSHI2bzVubFFPaF9Ia2dIbFNuczlmakFheTEwN3diSUktZVJlLXk2NElka2FGSkJnTG92N2U3ZTBjRW5m?oc=5"
-        },
-        {
-          "title": "Nvidia faces governance risks; watch these 2 chip stocks for buy opportunities - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTU55WVRTWHNKa3FxWk9uSVd3YnhmTHRGQVcwTHA3NWRjelhsQVlCYnV0amdDZEhZTTZGQU5sV09HNFd5a1RmVzdWMUVPX0k5T0IwQ25RUk1mTkN2ZmZGX2NIRDhDbE82TTVadHVsZmJ5RGZoZnhFNC1kdE5RTVdYdjhUdUxLSU0zVVFTV05Cb284dTV6UW9QTEVLSkhGYm44NHc?oc=5"
+          "title": "Asian stocks tumble, Nvidia stings as board to decide CEO's fate - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3B6b0hjZ0hod2RPeGhEbGNER2dVUk1vTU90aUI2V0U0WDJxVW9fUTBFc3NjRzEwXzZaNWYtY3VBcUhpZUlWS056MjItbGE0QTZvS2E1Q2tsdnYwd24yZU5aS1REMzVINTBjWTV3OWYwX1RGM21NdW9BeVBBUjRSMXZkcHRXd0tPUTBpNE5FWnBpdHVMcmhTMkd0bHVodnFxQUpR?oc=5"
         }
       ]
     },
@@ -60,17 +60,17 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.51,
+      "currentPrice": 7.53,
       "weekAgoPrice": 7.730000019073486,
-      "percentChange": -2.85,
+      "percentChange": -2.59,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.24,
+      "currentPrice": 1.25,
       "weekAgoPrice": 1.2300000190734863,
-      "percentChange": 0.81,
+      "percentChange": 1.63,
       "flagged": false,
       "news": []
     },
@@ -92,9 +92,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.06,
+      "currentPrice": 1.05,
       "weekAgoPrice": 1.190000057220459,
-      "percentChange": -10.92,
+      "percentChange": -11.76,
       "flagged": true,
       "news": [
         {
@@ -105,41 +105,28 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.25,
+      "currentPrice": 0.245,
       "weekAgoPrice": 0.23499999940395355,
-      "percentChange": 6.38,
-      "flagged": true,
-      "news": [
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
-        },
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-        },
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
-        }
-      ]
+      "percentChange": 4.26,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.33,
+      "currentPrice": 1.35,
       "weekAgoPrice": 1.2899999618530273,
-      "percentChange": 3.1,
+      "percentChange": 4.65,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.7,
+      "currentPrice": 0.695,
       "weekAgoPrice": 0.6650000214576721,
-      "percentChange": 5.26,
-      "flagged": true,
+      "percentChange": 4.51,
+      "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 6
+  "flaggedCount": 4
 }

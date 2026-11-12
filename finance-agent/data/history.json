@@ -1,66 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-10T08:17:18.320372Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 545.18,
-        "weekAgoPrice": 507.1199951171875,
-        "percentChange": 7.51,
-        "flagged": true,
-        "news": [
-          {
-            "title": "What Does Microsoft (MSFT) Gain From AI Safety Leadership And New AI Deals? - Simply Wall St",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMzFjRXd6N284eVUyeGdWSWZGbmVVenJuNFNYM09iakQzUjFEWHVYbUNfX2JZSGxrbDJhdzBIa2dxd2lSZXFwQzlwU3lTSXlHVUNHZFUxN19ZYmJXOGpzRUE3b2FsNGR6dDVBdzJHWFNSUC1BcEl1dlprejVwLTlZcEJMYk9rek5lOWRQak1RNWtTaVh0X2RMN2dUMDVXNjB5cXpmUDQ3WFQySnhiNGlTaktHNktadEpQczFQRjBhdHhNaTRST3fSAcsBQVVfeXFMTVQ1Y3dMdHFTdFBCQjVadWZlMEhnVkxnTWpmZnMtMTZ5ODl0UVVQT0ZSbjA0OXRMVEE3ZmRJRnA5UnNNS2ltNllpRENfamItcVc3V0llMklwWDVOUkdhWnp1Q2QxeGhrcU1qV0JrMmlpMlNIQWRocGRhcFY5LUQ1NWVoZnZXQ3NrMWNWSmY4Y3ZtRWdUUW8zVnJsSXlHNjlBemh1ZXNnV0l6el84c3hRdXR6TmdLdnZsamRXZHR0OWJYNW9OckZkclVicFk?oc=5"
-          },
-          {
-            "title": "Is Microsoft Stock Worth More Than Its Competitors? - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcXZEajhWdjJNdjlucVNFRFl3QVkyRG1JR05kVUF3QTdkcFpTemZEUjlmMEswdENXWjhOaVh3dzUyYllZSko1WU5Jc1ZaUjRmS3pyQlJqSTNvclhSdlVWbjFfdzlLT2l4Z0NuVndDb1VoRmZ3a0Z1b2h1ZS1fQnpsbDBBRVN3VXhqS1JiUW9wNFZ3dk0wOTF2SzE0VkVLYzJRQTJxMkM3X2duTFp0SWhVag?oc=5"
-          },
-          {
-            "title": "Microsoft (MSFT) Stock: $545 Tuesday After a 2.75% Gain, $610 or $505 Next - FinanceFeeds",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1JYc0s5Z20xZnl6RXdiSGdDajFwZ1dWdVp4YlFldTU0TjlZdGsxQkVrdDFvT2d5d0oyVGRjbWJjNjVIMHpzcWZ0UVpKM2EtQ2NxYVI1cFN0anV2RURPcFZEUHBySk1kaV9JSE0wRXpaYnVLcGtZNDZPQ0o3ZmpsMU90R1BWMDdOZW9zYWFiS0duS1FEOGl0VGlacGtILWJ2ZHc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 178.67,
-        "weekAgoPrice": 202.05999755859375,
-        "percentChange": -11.58,
-        "flagged": true,
-        "news": [
-          {
-            "title": "AMD Stock Clocks Best Day In 6 Months \u2014 But Michael Burry Won\u2019t Touch The Nvidia Headline Trade - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzVGZHFrUzZYRzREWUJ6eUZJcFBkaVZ1OElTLWswTC1QWU5OLV83X1hfQWFiaXRBWWJob1liZFZaR2otS3VESFNjbXRuNU4tMUprdjZZdXZVYmd2ZW5LWnZ1NmJ6TGNneUo3amJ2NWJzcVJXbHBtdW8wbUpuVTMwYUwwQk5YU19HYU5Ha2Zadzh0QVZG?oc=5"
-          },
-          {
-            "title": "FBI probing Nvidia CEO Huang amid China spy allegations, Trump says (NVDA:NASDAQ) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUld1eHhRQ1ppSlVpQ21OQ0RvRnlRN1R6NTlqX1NfRV9ueVQ0SDNxMEdhSW9rWTNBNVNCVFphMHMxS0hsNjVVWHBETGZnLXAxV0tyZDJqRXkxaTJ3MktjSHNfZHRsODdmbFNuRGt5YXVYTlNidFltMWV2WXRkeTRDVjU0Zkx2bmF0MmJmUlZzdlhoT05aeHlBQ3ZwZFFRNS1PM2ZjbDkyVQ?oc=5"
-          },
-          {
-            "title": "3 US AI Chip Stocks Beyond Nvidia Stock Key Person Risk - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10V3U5NklZMnVJSy1OT2dEZmdUSXBLWFM0V0pwc2tmVmQ1VjRZMWpHVFdoRHZjZWlYbnFsQmE2LUlpZGUtV3EtR2pmR3Job0pBRlJOMHJKQzdtek41dGZKU0h4YzN1ZE91eWJCR3B5djlwYmF3MnNF?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -5.08,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-10T09:15:53.473786Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -4182,6 +4121,80 @@
         "percentChange": 5.26,
         "flagged": true,
         "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-12T09:15:45.449737Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 521.125,
+        "weekAgoPrice": 555.7999877929688,
+        "percentChange": -6.24,
+        "flagged": true,
+        "news": [
+          {
+            "title": "How Big Could Microsoft Stock\u2019s Next Fall Be? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdWpVM3R6MlUwVEVFaTR5NktpdnhuZzBfUEluX0dLS0JIRXV6QlJVRXM0VXctZDlmWDUyYTdZTE9GaHFqUUVWX0x2OVVjRnZqTzhTNGo1VTJUb3poWjJhLTJlelRJQnVZWmNQSWhwZDlKS2NZM1UtVWE5dVNlVXJudnRVampfYng5WmtRWTdkT2lZcDdhV3hnZFdIODQzUzlLbE5zTFJzZw?oc=5"
+          },
+          {
+            "title": "Why CoreWeave Stock Skyrocketed Today - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0VfNUh1X19scHNrNk1WSW9vaU9QQ2RGd3FDcENZTWdMVFVRTGYzdVlOeno3cXFXTi1Pd094WDVueE1DZEVPQk05OUtMU2lHRmp2V1FBdDlHNDNWalpRTlVQQWJ4emd2alFSS1dCZDdLaGtZcG9yZGQtLXZJQ0xUY0l3SUpXby1tekNBWWdFY0NtdERfWXl3c2hBLVZGVENZaUtFME4zNnppdnFTUmFQeFdxeGxJMU1fVEVLYXBjOUxzdw?oc=5"
+          },
+          {
+            "title": "MSFT Stock Heads to $500 as Microsoft Data-Centre Spending and Anthropic Workplace Competition Intensify - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmRmblVraFZUY3FENjZyMWxMN2NRVVowQW12VGtOVGMwSTRGZDdyQnNlV1FRVXFIb2w0N0tIdzVDNGs4cllUdW1ibmpMSTFmdXA1NHVHZm5jWFdYWm1NcEtHc3hKbVFlMHhnWC1TcTl2OUVDeUI1OXR1M0NZR1drRFdMVThDS0ROOXpmSVpxLXkzNjVDRVl3TzhvRk44SUZGQzZrY0U3RDZGM0tXdGM0ZEsyeV9FRUJmNGlfUmZWU2tUT0J1SlkzdzBtZ2tISG9JT3Y2X2JpNlVSNVYyNGc4?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 173.73,
+        "weekAgoPrice": 200.1300048828125,
+        "percentChange": -13.19,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia stock falls 7% as investors await Jensen Huang\u2019s fate - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVFBOVnFZT1F2M3oteUktWm1qb29oLW5DLW9MZ2pBRzhEenlNZWFERC1NRXJlSV9saDN5MmNRZzdzQm0xQ0hWSzVpSktBSy00aDZlUTcyQzd2Vmlia1F1UTlEdE11anNMVE10RDNEVlc4cUlMcW5CRlpxaWFEbDh2Mg?oc=5"
+          },
+          {
+            "title": "Nvidia shares fall on reports board may oust CEO Jensen Huang - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHlEc2Vzc1JNU2pTTGJTZW50MkFkUlZlQzVFSENGdVdPTFRKRmVwbmZ6Vk5neThpZ2pjS1R6c0dUUVZtbU1GU2Vyd0VtbE5DZVJXREtTYjdENXdRZTJaeF9ucWpPLXNNMmNVTV9aWUFQb2NWMW9faVdWa0lVZnh6TmFmN1p5ZDV4?oc=5"
+          },
+          {
+            "title": "Asian stocks tumble, Nvidia stings as board to decide CEO's fate - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3B6b0hjZ0hod2RPeGhEbGNER2dVUk1vTU90aUI2V0U0WDJxVW9fUTBFc3NjRzEwXzZaNWYtY3VBcUhpZUlWS056MjItbGE0QTZvS2E1Q2tsdnYwd24yZU5aS1REMzVINTBjWTV3OWYwX1RGM21NdW9BeVBBUjRSMXZkcHRXd0tPUTBpNE5FWnBpdHVMcmhTMkd0bHVodnFxQUpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.53,
+        "weekAgoPrice": 4.769999980926514,
+        "percentChange": -5.03,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.05,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": -11.76,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
       }
     ]
   }
