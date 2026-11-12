@@ -1,66 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-10T22:19:53.950603Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 168.89,
-        "weekAgoPrice": 206.69000244140625,
-        "percentChange": -18.29,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Why Nvidia Stock Just Fell Again - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckllOURiV0I3Wm8tM3I3M0hxTUJESUxra21vY2ZURGdSZC1tMjRtYWp5Z3o3bXJRam1NZWhWM01hVnhsVlZOU0I4R29uaVJqbV8yeWpVemxQZzA0RmZCZ3JhY0lqR0VNWmV6b1NmVW9XX2NJNmpsUEpKRl9Hb2JwUk02cldVUDd5aFJIVUZBUWR4MnNrSVo0WnZKcmdDclZrbngyc1pJUUZ6cDRXam9YdUVpR3phbllfT2xN?oc=5"
-          },
-          {
-            "title": "Why Nvidia Stock Just Fell Again - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmtybzdycmQ0VmZnWUU4OXBtbUs3ZUNsM1BzZG9FNi1Temw4enFfN09LQXhHS3VvSF9oSkNkLWZwaWxDeHRnU0lQTVNPbWJUSGtYTmlqaHBlVUN2bW9zTzl5VWVfNUd0Z3AxQ1pIbGxtRHJ5M2h4MFk0WldqbXVvM2dWQ2NaYVNiRFJQb0Njd2RpZ2RlLWc?oc=5"
-          },
-          {
-            "title": "Jensen Huang\u2019s Love Life Just Made Nvidia the Dow\u2019s Cheapest Stock - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczFUVjZBMG0wSVRhU1cxWEtMNkx4U2JuSDNtVXU2eU5DeElNUWZxWlU3U0dScEYtNTZNMlBiaFgtMnBwOFUyQy16cTVrX2ZZOXZHR3dYNk04NEpvOXRXWTJOc1lqMks4TVkyWWJjM3pXeHcxNEtaTDluelRWaUx4dlZEOTlZZkFrLWRWUEJTNFlYcDl1LWtvbFpZcmwxT0paWmtFcm1LdFF4YUpidHJhNEZiODA2TVdYTWh4dFJ6MkZtaGc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -5.08,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.255,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 8.51,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-10T23:16:04.769845Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -4310,6 +4249,59 @@
           {
             "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-12T22:15:41.465099Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 166.19,
+        "weekAgoPrice": 181.60000610351562,
+        "percentChange": -8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia, AMD, CoreWeave, Nebius, Tesla, and More Stocks That Explain Today\u2019s Market - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzVGlZeWgydGNGS3FZeHNaSGNLWHFILVRKWlpjbHNwbFJaU3BFSGlnWVRQdlZoTERtT1RvN2tYaE1QY0tNc2pZZDFNV3E2d0xRRjV2NklzaWh1UEdDWndublZQYjI?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Scandal: 4 Experts Weigh In on NVDA\u2019s Future - InvestorPlace",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TOUh2VklmaWZON1A5V3NQWlBaTTd0dy1MYnRJSUU0Z0ZqVUIxVzh2TXpONDhKTndXZ2FUWnJwWC05bm41UVZsT2FaTF9IRlJpUGhVZUJ0TzR0Z3BFdC1MQTBtd191YnNBaDR1LWw3ZjlXZEpDMmYweVpQYw?oc=5"
+          },
+          {
+            "title": "Equities close lower as Nvidia drop outweighs energy gains - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWJOVUNfczJuRFhCMUJkNHMtMWplYV8zdDN3ZXdNaVotam9MOTZHY3lFWVpLbzc5Qm9uOFpaaXF2bmVBNjVseEdYQmV2aUJCaEJVT3JNaTJneTB4TVpRUFVlcGZReTFST0YtYXZHOGdFNXFYZEVDR3dwTXNPUmdZX0d4X2ppTE9DTGpDNWFNU3hHVGdwbjFQYlB0OHUweF9s?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.53,
+        "weekAgoPrice": 4.769999980926514,
+        "percentChange": -5.03,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.05,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": -11.76,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
           }
         ]
       }

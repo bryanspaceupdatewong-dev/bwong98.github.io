@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T21:16:10.485010Z",
+  "generatedAt": "2026-11-12T22:15:41.465099Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,24 +19,24 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang\u2019s exit; oil prices jump: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00cTdQYjhOUVlzVEZnQndNN1NKNzBJSjIta1lDWVlVXzhDcXkwWWpVRnE3c1VMTVF2bkZ5WnhHU2NSd2ZRZlI4RVRjREJvbG9xWDZJRF9QMG1MNE40ZGdESkpmZXhsOUhCTUcyZGZiOGhfTjdiSUk4?oc=5"
+          "title": "Nvidia, AMD, CoreWeave, Nebius, Tesla, and More Stocks That Explain Today\u2019s Market - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzVGlZeWgydGNGS3FZeHNaSGNLWHFILVRKWlpjbHNwbFJaU3BFSGlnWVRQdlZoTERtT1RvN2tYaE1QY0tNc2pZZDFNV3E2d0xRRjV2NklzaWh1UEdDWndublZQYjI?oc=5"
         },
         {
-          "title": "NVDA Stock Price Forecast \u2014 Top Analysts Give Multiple Downgrades Ahead of November 17 Earnings amid CEO Jensen Huang Fiasco - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzU2YmpfQXpJMHVJel9uQWFUc1NVa2tySzllZUdfbUVSeFFFcmQwZkNLNFFVQTNtQkc0QS1LQzVTcEd6N21qNjZqVzc1Y3BRcFFOWW5hX3hMeENBTG1pUFV5UDZ5RjR1ZUtZa29mNlRmRlVUMVNUNVZVTFZDS01xaVhBMzUtdlVIVHVObEZlOXcwaFZuWExrUTlR?oc=5"
+          "title": "Nvidia Stock Scandal: 4 Experts Weigh In on NVDA\u2019s Future - InvestorPlace",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TOUh2VklmaWZON1A5V3NQWlBaTTd0dy1MYnRJSUU0Z0ZqVUIxVzh2TXpONDhKTndXZ2FUWnJwWC05bm41UVZsT2FaTF9IRlJpUGhVZUJ0TzR0Z3BFdC1MQTBtd191YnNBaDR1LWw3ZjlXZEpDMmYweVpQYw?oc=5"
         },
         {
-          "title": "Nvidia Live Updates: NVDA Stock Price Down 5% After CEO Jensen Huang Resignation - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzdoajdJLXc3MUJTYU9DWVVGZHlwamh3MUxkRWxRTEt4eXVaMnBzdXZpYXc4SWFoTmVQUF9sNEhhaHlzaFhFQ1dnMk1zblo5V1hqbDJ4M1d3ZmxZaTluZjhrUVNaT3k4OVZaMWtmX1FBWVIyOVlVM3BlRE9lM0RvYVZGVVFMYkE?oc=5"
+          "title": "Equities close lower as Nvidia drop outweighs energy gains - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWJOVUNfczJuRFhCMUJkNHMtMWplYV8zdDN3ZXdNaVotam9MOTZHY3lFWVpLbzc5Qm9uOFpaaXF2bmVBNjVseEdYQmV2aUJCaEJVT3JNaTJneTB4TVpRUFVlcGZReTFST0YtYXZHOGdFNXFYZEVDR3dwTXNPUmdZX0d4X2ppTE9DTGpDNWFNU3hHVGdwbjFQYlB0OHUweF9s?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.53,
-      "weekAgoPrice": 4.809999942779541,
-      "percentChange": -5.82,
+      "weekAgoPrice": 4.769999980926514,
+      "percentChange": -5.03,
       "flagged": true,
       "news": [
         {
@@ -48,40 +48,40 @@
     {
       "ticker": "1066.KL",
       "currentPrice": 7.53,
-      "weekAgoPrice": 7.710000038146973,
-      "percentChange": -2.33,
+      "weekAgoPrice": 7.730000019073486,
+      "percentChange": -2.59,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.25,
-      "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -0.79,
+      "weekAgoPrice": 1.2300000190734863,
+      "percentChange": 1.63,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.48,
-      "weekAgoPrice": 1.5499999523162842,
-      "percentChange": -4.52,
+      "weekAgoPrice": 1.5099999904632568,
+      "percentChange": -1.99,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.45,
-      "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -0.0,
+      "weekAgoPrice": 1.4700000286102295,
+      "percentChange": -1.36,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.05,
-      "weekAgoPrice": 1.1799999475479126,
-      "percentChange": -11.02,
+      "weekAgoPrice": 1.190000057220459,
+      "percentChange": -11.76,
       "flagged": true,
       "news": [
         {
@@ -93,36 +93,18 @@
     {
       "ticker": "0397.KL",
       "currentPrice": 0.245,
-      "weekAgoPrice": 0.23000000417232513,
-      "percentChange": 6.52,
-      "flagged": true,
-      "news": [
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
-        },
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-        },
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
-        }
-      ]
+      "weekAgoPrice": 0.23499999940395355,
+      "percentChange": 4.26,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.35,
-      "weekAgoPrice": 1.2699999809265137,
-      "percentChange": 6.3,
-      "flagged": true,
-      "news": [
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
-        }
-      ]
+      "weekAgoPrice": 1.2899999618530273,
+      "percentChange": 4.65,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5341.KL",
@@ -133,5 +115,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 3
 }
