@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T07:16:11.586478Z",
+  "generatedAt": "2026-11-12T08:16:04.730413Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -11,16 +11,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Microsoft Corporation (MSFT.O) | Stock Price & Latest News - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mc1U3MkxiZ00yS0FLaXVrTG1GRkFVdFRNTVRBV2cxQm1vSGl4bThaMXdGRHI2Q09oUkpsTE5mcElfN2ppbnlkcTQ2eE5jYlZETzBnNTdCN2lUNDluNkE?oc=5"
+        },
+        {
           "title": "Why CoreWeave Stock Skyrocketed Today - The Globe and Mail",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0VfNUh1X19scHNrNk1WSW9vaU9QQ2RGd3FDcENZTWdMVFVRTGYzdVlOeno3cXFXTi1Pd094WDVueE1DZEVPQk05OUtMU2lHRmp2V1FBdDlHNDNWalpRTlVQQWJ4emd2alFSS1dCZDdLaGtZcG9yZGQtLXZJQ0xUY0l3SUpXby1tekNBWWdFY0NtdERfWXl3c2hBLVZGVENZaUtFME4zNnppdnFTUmFQeFdxeGxJMU1fVEVLYXBjOUxzdw?oc=5"
         },
         {
           "title": "MSFT Stock Heads to $500 as Microsoft Data-Centre Spending and Anthropic Workplace Competition Intensify - FXLeaders",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmRmblVraFZUY3FENjZyMWxMN2NRVVowQW12VGtOVGMwSTRGZDdyQnNlV1FRVXFIb2w0N0tIdzVDNGs4cllUdW1ibmpMSTFmdXA1NHVHZm5jWFdYWm1NcEtHc3hKbVFlMHhnWC1TcTl2OUVDeUI1OXR1M0NZR1drRFdMVThDS0ROOXpmSVpxLXkzNjVDRVl3TzhvRk44SUZGQzZrY0U3RDZGM0tXdGM0ZEsyeV9FRUJmNGlfUmZWU2tUT0J1SlkzdzBtZ2tISG9JT3Y2X2JpNlVSNVYyNGc4?oc=5"
-        },
-        {
-          "title": "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMm1vREJQazlKYXlaaHNFRDJJdVlrWktscGplZWdQamZaczBjMVNDN09QTEpDMXVPQ0x2MUtfTGh1c244azMwR1VqcjhDRzBjUl9MN29CVjVIVmVoN3RqaGFaWUtBa2hDRmQ4RnhJVi1GaThITW9XTUxyaG1xbDFMY1RUVU1rWF80RjhITUwtalRrQlpFQXFWQXZybkZ6MUJJOUxZN2pmTmFYWXJIeUY5ckFXTGhxMExYYml4S2JsU2IteUhOMjlFNTBFMHVIV3VVZ0tRWDlMb2kwbVNxekQ5UmRUVHdMZWdBLW9VLVdDOXk2cGg2dEg0ZEstNzVCZG50MnZRR1VTZFVJeVNVdVJRWWhBMVV6QjBRU2lmM2V2bU9xYlU?oc=5"
         }
       ]
     },
@@ -32,24 +32,24 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia board weighs Jensen Huang\u2019s future as mounting scandal upends US tech giant - CNN",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXBTU3VDVzhyWkZsZWt4X3dGZkY5Q0tiMV83VkJzeHBPWTRvSGIyVTQ0TEdfRDJPVHVnRXVUZnhERnBKTjZtcUJrTVFQRW5idEk0UElvNjB5bENMTDdETkNDLU5nLU8wbUpPWUhKQlp0d01iTm01b3dJeEFLVzRuSGVrQUEwM0pUdF9VT05MM2FNSzBMS0E?oc=5"
+          "title": "Nvidia shares fall on reports board may oust CEO Jensen Huang - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHlEc2Vzc1JNU2pTTGJTZW50MkFkUlZlQzVFSENGdVdPTFRKRmVwbmZ6Vk5neThpZ2pjS1R6c0dUUVZtbU1GU2Vyd0VtbE5DZVJXREtTYjdENXdRZTJaeF9ucWpPLXNNMmNVTV9aWUFQb2NWMW9faVdWa0lVZnh6TmFmN1p5ZDV4?oc=5"
         },
         {
-          "title": "Nvidia\u2019s Next CEO Could Come From Inside \u2013 Or Arm: Here\u2019s Who Traders Are Watching In The Succession Race - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNUZrb00yb3NfUUNvNmhwSmpmX2xWMDhZS0VTYS1xVjRxRFNqUzBjQkRPTU5Qelc1akhTU1RFdUIxZ1N6MU1TSlltZ1VnS3VPR3BRMk0zZzdVWGlhMWVtZnNQYzhIUjU3cjA2ZXYtWWd0NHNqU0VTRXFWTE5rRHc3ZFJkOWY4WHFyaXRHNV9aeHRLVl9YNHc?oc=5"
+          "title": "Michael Burry Says Nvidia Earnings Will Be 'Great' \u2014 So Why Is He Telling NVDA Bulls To 'Get Out'? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlhvNHZTWjA5WjZhT2RzM3ZNRkFwUk9BelVRWHhWRmhVZGxoQTVndmRuUmVwZm5sNkRheWNqdEhsSDNTRVFZWDZqUEcyaEFPM19NenE5TDBFc2h1UzNSa1dHb0UtSHI2bzVubFFPaF9Ia2dIbFNuczlmakFheTEwN3diSUktZVJlLXk2NElka2FGSkJnTG92N2U3ZTBjRW5m?oc=5"
         },
         {
-          "title": "Nvidia's Jensen Huang Is on the Hot Seat. Here's What I'm Doing With My Nvidia Stock - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY1psZGd1QXlnd1dGNUdaOHY1QUozejJwRHBUTUI3Mkc2dWxrMUQ1VTkzRGxWVXhYTUpaV19pRThKNEduaUtEV2c2dV81VGlQZUd0STdBRWhoYTBGYzNCbWpnVXpfZ0N3SEhNSTRaYnRUVzQ1Umsta2JjV0VCZUpLVkY0WEFsbFJEbjZPNTdlR1VGWXBjVFRkakNn?oc=5"
+          "title": "Nvidia faces governance risks; watch these 2 chip stocks for buy opportunities - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTU55WVRTWHNKa3FxWk9uSVd3YnhmTHRGQVcwTHA3NWRjelhsQVlCYnV0amdDZEhZTTZGQU5sV09HNFd5a1RmVzdWMUVPX0k5T0IwQ25RUk1mTkN2ZmZGX2NIRDhDbE82TTVadHVsZmJ5RGZoZnhFNC1kdE5RTVdYdjhUdUxLSU0zVVFTV05Cb284dTV6UW9QTEVLSkhGYm44NHc?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.52,
+      "currentPrice": 4.53,
       "weekAgoPrice": 4.769999980926514,
-      "percentChange": -5.24,
+      "percentChange": -5.03,
       "flagged": true,
       "news": [
         {
@@ -76,9 +76,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.49,
+      "currentPrice": 1.48,
       "weekAgoPrice": 1.5099999904632568,
-      "percentChange": -1.32,
+      "percentChange": -1.99,
       "flagged": false,
       "news": []
     },
@@ -115,12 +115,12 @@
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
         },
         {
-          "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
-        },
-        {
           "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+        },
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
         }
       ]
     },
