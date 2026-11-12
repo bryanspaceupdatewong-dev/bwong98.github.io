@@ -1,47 +1,34 @@
 {
-  "generatedAt": "2026-11-12T14:16:07.834789Z",
+  "generatedAt": "2026-11-12T15:16:04.903993Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 521.125,
-      "weekAgoPrice": 555.7999877929688,
-      "percentChange": -6.24,
-      "flagged": true,
-      "news": [
-        {
-          "title": "What Do Rising Moving Averages and Neutral Momentum Signal for MSFT (NASDAQ:MSFT) Now? - Kalkine Media",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSEc1ejllMHUyM3puMkhwTnd2c3pxR3pvVkN2czYzZXZIRUZXeS13dDd0Zlp6MWNlZ0piSzk2dmctd1RwTXJTd3ZxOVdQZGhWTFcyeGdSRlUxbW54d1VsRWN4Sk9acVQ1bDNVdEc3YlBNS2NMQnE5akVuLS1MX2w2Nm5IeFd2ZG9EOGZMbHlQTUp2U0xqWmZMUE9SVGNvd2dxaGd5bHA2QW1FYldCM1VuVldIV0MzTUpCaDFnZExNU3JlUW81Und5T1FxTVFMQm81bkE?oc=5"
-        },
-        {
-          "title": "MSFT Stock at $521: Why Microsoft Is Spending $117 Billion and Still Losing Ground to Its Own Partners - Financial-News.co.uk",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLTlYaFBLVVpuU2t2dTQ3YjdLTFlDdGpqZEczSFVla3NTbkNWUkVrZ2lfeFY5R0FWX3kzODVHZEpvT3RNOW9ieVRYMkZOZXNoLUlpRm5rZmZfa3BEZnd4eXBlOFl1NXBnMGdZaFpkalpiMEptaFp6dFlVNTc1X0huZEFRN0ZhUGJFRjFFV3F3VlBZdElzbS0zT2x0TnNVWHFVTXA1eXM3akVZWUtTYW9Ed2Ytd1NuenpfOXo3N25FNU1xdUs0cnhkOEt4dVBhZw?oc=5"
-        },
-        {
-          "title": "Where Will IonQ Stock Be in 5 Years? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVk0UGE0dnZyOE9udGJSaUl6WG14UXYwdktlSUt2OWlpNFVFazkzQnl5MUhnOU1zZ29jYldqOF9idmVKT0NQU0dub0JlOVVBS085RC1BZWRFb29FV1M4T0ZCclIwdmhfd1BldU5jVlBoZF9XeWVPaEpsMXllOURuTkZUeVBCN1hhdDRsYTR2ZUttWUdpdXJxMUgzMGFacE5ucFN1ZDVxa05lNjRDR2I2WERyN2JHUmNHRXNKNQ?oc=5"
-        }
-      ]
+      "currentPrice": 524.68,
+      "weekAgoPrice": 535.9299926757812,
+      "percentChange": -2.1,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 173.73,
-      "weekAgoPrice": 200.1300048828125,
-      "percentChange": -13.19,
+      "currentPrice": 162.955,
+      "weekAgoPrice": 181.60000610351562,
+      "percentChange": -10.27,
       "flagged": true,
       "news": [
         {
-          "title": "Wall St set to open lower after Nvidia CEO steps down - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5"
-        },
-        {
-          "title": "Nvidia CEO Jensen Huang Resigns - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5"
+          "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVkIxWkJDaHpKZmg4emJ3RW9FVWRleFBqSU9fckJzb1JCN3FBY25PblRkTmg4UG53VWRJSERhMHp5eUlqNmphQkh5cXRJcE1oWjVxUUNuVkZIOWpGLWw2YS1JQ0JGV0FYS3JwWHVKcU9CeHFLX3JJelVIZXI3cWRNcWhOZ2Z0TkRZYk0yX281dVlPX2d5b2hnblIxdnRwdjRSZDhYZ3FHMFg0UTJpMXhvdUFYWFZPbmM?oc=5"
         },
         {
           "title": "Nvidia live updates: Jensen Huang resigns, CFO Colette Kress to serve as interim CEO - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVHFEUUxwdVhBcllKSHlTWTVtdEtxaFdEY2ZXb01lZThoVGhkWHh5WEFLbGhPV2k0WWM5Uk1aajlaUzFyeGxzek9KaEVoS2lCU1hMcm03TXdnNjE5Tk5aR2R1dFUzNjQtVE8tVGxhYlhZZWx6TEtSeWpRYTY4bVZONmY3ZkZScHoyRkJnMjlWYnBLdmlNc0p6Rm5CcW85Qm9zRTUwZmVIVnRNcnJkRE9veWoxalk3TFduRlltZ05IaFh0b1hxMjQ4anRGWVlkeUlkWDItT3NR?oc=5"
+        },
+        {
+          "title": "Nvidia: Goodbye Jensen Huang (NASDAQ:NVDA) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vYVB2N0Z5ZUp3Vko4cV9TOUdER2N3THg0dkRWc0d1UnJpWWpNTGI1eW5iMXFwUVFHZW5hZzFLeGFsQjZYOGJmQ1VMMlRMaEJMcGYwNmMzeHM4MXJDN3VvaHNvM1lrN05iUEVfS0NwMUkteWVkY2pr?oc=5"
         }
       ]
     },
@@ -52,10 +39,6 @@
       "percentChange": -5.03,
       "flagged": true,
       "news": [
-        {
-          "title": "Public Bank Berhad (1295.KL) latest stock news and headlines - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nSWdkM3pETUtueXJoRUFTWDE3bGo3Z3U0cUY4bWRuNUlsTVlveE05MHdNNmQzOXZJTU45cXFsT3hpVWZxLVU4LWZNZjE0Qks5aURLVktmVHcyZDJV?oc=5"
-        },
         {
           "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
@@ -132,5 +115,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 3
 }
