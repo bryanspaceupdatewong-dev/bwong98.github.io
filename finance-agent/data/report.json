@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:15:34.608065Z",
+  "generatedAt": "2026-11-12T14:16:07.834789Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -32,16 +32,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Bernstein Just Gave Up on Nvidia, Cutting Its Target in Half to $200 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORnRiLWZBX3JTQ0dPWDZXLUw3SjEzUTJQRjFmc3lielhZUkEzNGVIaTVfM1p6dXZZSG92UVljakw2V2ZFTnllYzc0eGViaWRpNHQ2YjFmWU9lMVY5RjdrLXp2YjBKZGZ3N09KaExaRERqUTNVUDc5TnZodEwxaVdYLTZJd0N3RXU0c1JqTEppVkNlQWtlRTFzNF9aVlY1amxF?oc=5"
+          "title": "Wall St set to open lower after Nvidia CEO steps down - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5"
         },
         {
-          "title": "3 challenges for Nvidia if Jensen Huang is removed as CEO - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnlvYkRORnZxSHE3ZWdiWGdtRFNTS2Fjcko2ZTZRTU5CdWRhbUhRa1k2eTltNjRWOTZ5eXBQWFcteHRhTHBxbXBMNTczajZOQU96MEplU1FkaWctcmNFQzhlenpycXUyNXVCclpUajNNODFnaWc4LUlQZDlKcnpvZEF2aFo3TFZCakZmeDdNMVlQRnhnUENJdTgtUUd2cllrcHp3VmpkZENtc1RnTkJQOVA1bTI?oc=5"
+          "title": "Nvidia CEO Jensen Huang Resigns - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5"
         },
         {
-          "title": "Nvidia live updates: Stock tanks after new affair allegations, board reportedly preparing to oust Jensen Huang - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOVpSMjRTWHdZLUc5Z0xfWUplcDFRVFVLRU5iV0p3bXd6TjM2TlhXYnV4bkp2elFhVklxbko1cnlJZ1lQal9HV1RZVEdqSVlaSldqNjJ0bGtPdnRuc2ZOWXN3T1k4VDdObTVkZWlzTlExSE5RYXBheFhtMF9NUGxPdWJMSmRGVm1mY09aSGQ3WTFBVndsUVZhdnJpQzhTQVBwdW0yVGVhb29URlhMTGtIbWpIdFlhTG9KVS0xekYyekx0OW9uNjFfOHB0ZnZlQUNsa1M1OGEwNGxVeVVlZGNCVW5Xd0JVX2lneXFxcUhPVFViYkRnMzdjWg?oc=5"
+          "title": "Nvidia live updates: Jensen Huang resigns, CFO Colette Kress to serve as interim CEO - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVHFEUUxwdVhBcllKSHlTWTVtdEtxaFdEY2ZXb01lZThoVGhkWHh5WEFLbGhPV2k0WWM5Uk1aajlaUzFyeGxzek9KaEVoS2lCU1hMcm03TXdnNjE5Tk5aR2R1dFUzNjQtVE8tVGxhYlhZZWx6TEtSeWpRYTY4bVZONmY3ZkZScHoyRkJnMjlWYnBLdmlNc0p6Rm5CcW85Qm9zRTUwZmVIVnRNcnJkRE9veWoxalk3TFduRlltZ05IaFh0b1hxMjQ4anRGWVlkeUlkWDItT3NR?oc=5"
         }
       ]
     },
@@ -52,6 +52,10 @@
       "percentChange": -5.03,
       "flagged": true,
       "news": [
+        {
+          "title": "Public Bank Berhad (1295.KL) latest stock news and headlines - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nSWdkM3pETUtueXJoRUFTWDE3bGo3Z3U0cUY4bWRuNUlsTVlveE05MHdNNmQzOXZJTU45cXFsT3hpVWZxLVU4LWZNZjE0Qks5aURLVktmVHcyZDJV?oc=5"
+        },
         {
           "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"

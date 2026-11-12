@@ -1,87 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-10T13:22:50.219734Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 545.18,
-        "weekAgoPrice": 507.1199951171875,
-        "percentChange": 7.51,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stocks After Midterms Vs Presidential Elections: Which Year Is Better? - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYXNmN3dscUZLYkhEVlVKUU52WUtEVVVvcFVZSUlRSVh1MEk0TUdJLVBHOHF5THJSS09CNTVPMWdwYm9FTXBHOXNEaUVtNG0xNXdDQkI4cFVFNHVkUnZORkdxQVRBYnNJVzBvRmFfUXJqSTM3RV9ST2Q0dlpMUmROZEYySWNYbXJTOVdpRVV1ZVR2VHVlWlp0WU9sNHFiMnc3bTRpTS1Zbk9JWXdMTVJ6Y0owejR3WkNlVnVxZ09BaUZiZmhFeUZKUQ?oc=5"
-          },
-          {
-            "title": "How Microsoft Missed $2 Trillion In AI - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkJ1MHhZdm1hVG05V1g1VHdiTjlsZnZkMnM2cFlpWHI1dVBEcnk0VUZfd1BjSm9pRUx1X0N4dU1BMEtMWWNKLVZsMzI5Q203QVdKcXRuY3Via0Rydm5kZ1lreDNaNjg3ZmdYOVQyVERva2RvdG5IMVl2TEc2SkF2SmJ6dFFueTZqYzF1TlVvR0kwSTA4eEk2bl9TcDRHVFk?oc=5"
-          },
-          {
-            "title": "3 AI Power Stocks to Buy in November - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemFzN0l3c1g5eHMxb3BybFVGeHhFNWJpeUlvQ255LTRUME5idHF4LTZYVFdLelhiXzZjUFV5cjVIdUdkUkxzYkZZajlJRmFvQldzNFlzVkEyeXJqVFluMlgwUjFxWTRUQURwamtxU0lWODBSNl83dUF4elJvZDlCaTExRlhEVlViY1U1MURDMlZQYzhPSWZCZExORlVZNVlsTGJvZGh0cWlqTkRFczNnTnlyWl82Nk1HaDN1ZnJ3?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 178.67,
-        "weekAgoPrice": 202.05999755859375,
-        "percentChange": -11.58,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA (NASDAQ:NVDA) Stock Price Target Lowered at Wells Fargo & Company - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGF5SDRjdlFKM3lHbmZmYTlVei1SVXhUZ1VFQjd4QWJ5ckVmRVZJaFNJU0ZsZmlzZkp5MWNLQU5yS3pJLUpldHFRckZaU1VhWFRXM1BsZWZ1WjRTa1Ztc1h1d0RURGh0MU5RYVpicjdLUGF5RGs1THBoM2JkeGJmdXcxcU1vczlUTkVXTlBwandMR185TU15UFQtUVdvbWhuRnhIRTJ0T1dzUlpBV3YtY29JT3lONjJ6el9XQkNWZThMRDdDaUtFVUN3?oc=5"
-          },
-          {
-            "title": "Prediction: Nov. 17 Will Be a Huge Day for the Stock Market - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWpaaHF4Zy11dTZfQXRrRzk2ZnMwdDRsSE5WNjRjYW1BMnFPX1Utczc0Vi1QSkp5THNzYkpBcUtaVnlVcFk1WHduUjRzenk2TlpQc3NHYkcyb25kUDJ0VktmQ1dHd1lhRTM5M3NBdXV4dXh0T29YSlV3TTR3UUZkZ0w2WllIVlNOck8xbjh1bTNNcjVWeXc?oc=5"
-          },
-          {
-            "title": "Nvidia down 27% from its high! Investors could consider these 2 dividend stocks over the S&P 500 today - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3M3anIwRUtCclpRWUNZT05NWGdtdmRFVFh1a2FKd2NSZDBMLTVuaGlWWFoxQXhwZUZuZ2pIUDNYc1JqTC02V2tEWGxKVGpqY2NyOGFrWlduRml4NW03Q01xdDJxcjFnZ0V5LUUyU1FSWXRreFlJX2wtR3JuUHZzb29FaVQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -5.08,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.255,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 8.51,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-10T14:21:31.557425Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -4137,6 +4055,84 @@
         "percentChange": -5.03,
         "flagged": true,
         "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.05,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": -11.76,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-12T14:16:07.834789Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 521.125,
+        "weekAgoPrice": 555.7999877929688,
+        "percentChange": -6.24,
+        "flagged": true,
+        "news": [
+          {
+            "title": "What Do Rising Moving Averages and Neutral Momentum Signal for MSFT (NASDAQ:MSFT) Now? - Kalkine Media",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSEc1ejllMHUyM3puMkhwTnd2c3pxR3pvVkN2czYzZXZIRUZXeS13dDd0Zlp6MWNlZ0piSzk2dmctd1RwTXJTd3ZxOVdQZGhWTFcyeGdSRlUxbW54d1VsRWN4Sk9acVQ1bDNVdEc3YlBNS2NMQnE5akVuLS1MX2w2Nm5IeFd2ZG9EOGZMbHlQTUp2U0xqWmZMUE9SVGNvd2dxaGd5bHA2QW1FYldCM1VuVldIV0MzTUpCaDFnZExNU3JlUW81Und5T1FxTVFMQm81bkE?oc=5"
+          },
+          {
+            "title": "MSFT Stock at $521: Why Microsoft Is Spending $117 Billion and Still Losing Ground to Its Own Partners - Financial-News.co.uk",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLTlYaFBLVVpuU2t2dTQ3YjdLTFlDdGpqZEczSFVla3NTbkNWUkVrZ2lfeFY5R0FWX3kzODVHZEpvT3RNOW9ieVRYMkZOZXNoLUlpRm5rZmZfa3BEZnd4eXBlOFl1NXBnMGdZaFpkalpiMEptaFp6dFlVNTc1X0huZEFRN0ZhUGJFRjFFV3F3VlBZdElzbS0zT2x0TnNVWHFVTXA1eXM3akVZWUtTYW9Ed2Ytd1NuenpfOXo3N25FNU1xdUs0cnhkOEt4dVBhZw?oc=5"
+          },
+          {
+            "title": "Where Will IonQ Stock Be in 5 Years? - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVk0UGE0dnZyOE9udGJSaUl6WG14UXYwdktlSUt2OWlpNFVFazkzQnl5MUhnOU1zZ29jYldqOF9idmVKT0NQU0dub0JlOVVBS085RC1BZWRFb29FV1M4T0ZCclIwdmhfd1BldU5jVlBoZF9XeWVPaEpsMXllOURuTkZUeVBCN1hhdDRsYTR2ZUttWUdpdXJxMUgzMGFacE5ucFN1ZDVxa05lNjRDR2I2WERyN2JHUmNHRXNKNQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 173.73,
+        "weekAgoPrice": 200.1300048828125,
+        "percentChange": -13.19,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Wall St set to open lower after Nvidia CEO steps down - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5"
+          },
+          {
+            "title": "Nvidia CEO Jensen Huang Resigns - WSJ",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5"
+          },
+          {
+            "title": "Nvidia live updates: Jensen Huang resigns, CFO Colette Kress to serve as interim CEO - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVHFEUUxwdVhBcllKSHlTWTVtdEtxaFdEY2ZXb01lZThoVGhkWHh5WEFLbGhPV2k0WWM5Uk1aajlaUzFyeGxzek9KaEVoS2lCU1hMcm03TXdnNjE5Tk5aR2R1dFUzNjQtVE8tVGxhYlhZZWx6TEtSeWpRYTY4bVZONmY3ZkZScHoyRkJnMjlWYnBLdmlNc0p6Rm5CcW85Qm9zRTUwZmVIVnRNcnJkRE9veWoxalk3TFduRlltZ05IaFh0b1hxMjQ4anRGWVlkeUlkWDItT3NR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.53,
+        "weekAgoPrice": 4.769999980926514,
+        "percentChange": -5.03,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) latest stock news and headlines - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nSWdkM3pETUtueXJoRUFTWDE3bGo3Z3U0cUY4bWRuNUlsTVlveE05MHdNNmQzOXZJTU45cXFsT3hpVWZxLVU4LWZNZjE0Qks5aURLVktmVHcyZDJV?oc=5"
+          },
           {
             "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
