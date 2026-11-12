@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-12T19:15:38.267446Z",
+  "generatedAt": "2026-11-12T20:16:31.175323Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 525.14,
+      "currentPrice": 521.055,
       "weekAgoPrice": 535.9299926757812,
-      "percentChange": -2.01,
+      "percentChange": -2.78,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 164.453,
+      "currentPrice": 163.752,
       "weekAgoPrice": 181.60000610351562,
-      "percentChange": -9.44,
+      "percentChange": -9.83,
       "flagged": true,
       "news": [
         {
-          "title": "Jensen Huang Is Out at Nvidia. Where Does NVDA Stock Go From Here? - Kiplinger",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSm54cFIzY0lRUW93M3lxbXp3TERlTHd5ZmFwSTRTam94ZFJmTnRlUEFWWGhSYTNLbm5OVFR1MnZIU204ZW5femJoMHo4RkpiVngzR3hoZ3F4UHgyUWdlQmxPaW1idHFQLWFwZ3hjcGZfMG94bFNiVTUxXzJSaDR2aWRacnMyN3NfUUJyVEl6ZTRnUTZqSVFyTmtDM1ZROE0wNlE?oc=5"
+          "title": "Nvidia live updates: Jensen Huang had \u2018intimate relationship\u2019 with second employee, Reuters reports - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQLXdpNk1zM3AtTjV1OFB4d0xkbXhnQkhIYUtYVWRxalR2dVJLZ0d6ajJDdS1Nb05ycVZnNnkxbGkzLXF4WVB1NnVlREtiVWdBOE9vbFRERGh2NGxjUGt0T01CbjVrZEUzZjB3UVhacUlZYnBxMURYV2pmQXBMdw?oc=5"
         },
         {
-          "title": "Breakingviews - COMMENTARY: Nvidia stock discounts China, but not other risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTGlvRFZjcC1oT0hVMW5Ja24yMGhVXzkyeVBOb0V6bWZ3a1IyVzZpLVhCVkpHck1mVWQxUm5wbkFpcjRSVHN3aktDSF9KNkFLNlVYTVQ0QlRCbEg3Y0FiWVROaXJ1UmpyeFpXUTZKcUF4Umx0SldENDE0dEgwZ0RXczBiQnpfMUQzLTdhc2dINEppekRDWUlYaFZBSzRZNkJXdnUzaGlfYU8?oc=5"
+          "title": "Stock market today: S&P 500, Nasdaq fall as Nvidia CEO exit, rising bond yields roil markets - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOakhyOEU1UkhseUJ0dmJPSExTWHZrVjVpT0F4dzlZRjl5cW84SG1yeklXbURtdEtlVlprSC03YVRKMHFSSHVqTW53MlVxZElKSkhJWnFpWW8zbHZHck5pLURFd3ZNTGZQeHVPckliZFVzRUxYdmxueGtxa29HTGY5ZFRTVnN1bHE3b2Zib3FicU13M2lYN3pzdzlhYmMzU0pDSE5QX2IyeXotLXlwVk9FbnhuTWIwcnpXZVBJU0hXN0tSaDRMbVhHOTR3dWZURWdDay1VbzIzNnlVQQ?oc=5"
         },
         {
-          "title": "Stocks making the biggest moves Thursday: Nvidia, CoreWeave, Nebius, Yeti & more - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnRjVVEyQTc5NnhZY0wwMEZ2dk9kOHVPVzVOWDBXbVR6bW1WYVVuUUpsRzlPRzJCdTBWa3FoSUo1d3ZaMy1EamVyV3NDQktCN3FTMHRlMjNBalVhaUdXdHpjQ3JhSWJxVndhNVdIVDk5NnNJZmZlVGM5UjlUUjVTeE85ekw?oc=5"
+          "title": "Equities little changed, Nvidia drop offsets lift in energy shares - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5"
         }
       ]
     },
@@ -118,10 +118,6 @@
       "percentChange": 6.3,
       "flagged": true,
       "news": [
-        {
-          "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
-        },
         {
           "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
