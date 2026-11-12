@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-12T18:15:32.453196Z",
+  "generatedAt": "2026-11-12T19:15:38.267446Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 527.711,
+      "currentPrice": 525.14,
       "weekAgoPrice": 535.9299926757812,
-      "percentChange": -1.53,
+      "percentChange": -2.01,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 165.24,
+      "currentPrice": 164.453,
       "weekAgoPrice": 181.60000610351562,
-      "percentChange": -9.01,
+      "percentChange": -9.44,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia live updates: Jensen Huang agrees to testify before Congress following resignation - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQLXdpNk1zM3AtTjV1OFB4d0xkbXhnQkhIYUtYVWRxalR2dVJLZ0d6ajJDdS1Nb05ycVZnNnkxbGkzLXF4WVB1NnVlREtiVWdBOE9vbFRERGh2NGxjUGt0T01CbjVrZEUzZjB3UVhacUlZYnBxMURYV2pmQXBMdw?oc=5"
+          "title": "Jensen Huang Is Out at Nvidia. Where Does NVDA Stock Go From Here? - Kiplinger",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSm54cFIzY0lRUW93M3lxbXp3TERlTHd5ZmFwSTRTam94ZFJmTnRlUEFWWGhSYTNLbm5OVFR1MnZIU204ZW5femJoMHo4RkpiVngzR3hoZ3F4UHgyUWdlQmxPaW1idHFQLWFwZ3hjcGZfMG94bFNiVTUxXzJSaDR2aWRacnMyN3NfUUJyVEl6ZTRnUTZqSVFyTmtDM1ZROE0wNlE?oc=5"
         },
         {
-          "title": "Nvidia Shareholders Won\u2019t Miss Jensen Huang for Long - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEFoT3FBbG94TXpqVFdZSnh5dno5ZzF2LXh2N2hoNlV1ZEdiXzlxNTB5ZXR4b0ozRUN3ZVR1dW11amJCVk9YT2RPdkVGYVVuLTVlSHZDYmJVVXlMWFlOdUZYZVFURjlYSGQ2MG42Z1JQbnROREl3YXRMcnNEQlBQTHg3M0JOWUZsX0NmU004UnlDUEpCUVlQYUNUQQ?oc=5"
+          "title": "Breakingviews - COMMENTARY: Nvidia stock discounts China, but not other risks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTGlvRFZjcC1oT0hVMW5Ja24yMGhVXzkyeVBOb0V6bWZ3a1IyVzZpLVhCVkpHck1mVWQxUm5wbkFpcjRSVHN3aktDSF9KNkFLNlVYTVQ0QlRCbEg3Y0FiWVROaXJ1UmpyeFpXUTZKcUF4Umx0SldENDE0dEgwZ0RXczBiQnpfMUQzLTdhc2dINEppekRDWUlYaFZBSzRZNkJXdnUzaGlfYU8?oc=5"
         },
         {
-          "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5"
+          "title": "Stocks making the biggest moves Thursday: Nvidia, CoreWeave, Nebius, Yeti & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnRjVVEyQTc5NnhZY0wwMEZ2dk9kOHVPVzVOWDBXbVR6bW1WYVVuUUpsRzlPRzJCdTBWa3FoSUo1d3ZaMy1EamVyV3NDQktCN3FTMHRlMjNBalVhaUdXdHpjQ3JhSWJxVndhNVdIVDk5NnNJZmZlVGM5UjlUUjVTeE85ekw?oc=5"
         }
       ]
     },
@@ -118,6 +118,10 @@
       "percentChange": 6.3,
       "flagged": true,
       "news": [
+        {
+          "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
+        },
         {
           "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
