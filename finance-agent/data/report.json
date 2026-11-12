@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-11-12T15:16:04.903993Z",
+  "generatedAt": "2026-11-12T16:16:09.716766Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 524.68,
+      "currentPrice": 529.0,
       "weekAgoPrice": 535.9299926757812,
-      "percentChange": -2.1,
+      "percentChange": -1.29,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 162.955,
+      "currentPrice": 166.268,
       "weekAgoPrice": 181.60000610351562,
-      "percentChange": -10.27,
+      "percentChange": -8.44,
       "flagged": true,
       "news": [
         {
-          "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVkIxWkJDaHpKZmg4emJ3RW9FVWRleFBqSU9fckJzb1JCN3FBY25PblRkTmg4UG53VWRJSERhMHp5eUlqNmphQkh5cXRJcE1oWjVxUUNuVkZIOWpGLWw2YS1JQ0JGV0FYS3JwWHVKcU9CeHFLX3JJelVIZXI3cWRNcWhOZ2Z0TkRZYk0yX281dVlPX2d5b2hnblIxdnRwdjRSZDhYZ3FHMFg0UTJpMXhvdUFYWFZPbmM?oc=5"
+          "title": "Nvidia stock: Support levels, buy zones to watch after Huang exit hits shares - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNU01SlZDRHc2VFAySlZMUkE3VXY4WjB4NENMaUZJY0RmZXZ4MGFQMHV3eXRtbEwxZHJzUWtSNUtiWms4VlFiMFhRRTNYLTdLQ2FTZ3F1OTRhRFNTNk94dktTaXVDeVlwbWlsUEpVcGlfR2xQVExmMXUyTURzNGt4Yk5IVnl0Rk0?oc=5"
         },
         {
-          "title": "Nvidia live updates: Jensen Huang resigns, CFO Colette Kress to serve as interim CEO - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVHFEUUxwdVhBcllKSHlTWTVtdEtxaFdEY2ZXb01lZThoVGhkWHh5WEFLbGhPV2k0WWM5Uk1aajlaUzFyeGxzek9KaEVoS2lCU1hMcm03TXdnNjE5Tk5aR2R1dFUzNjQtVE8tVGxhYlhZZWx6TEtSeWpRYTY4bVZONmY3ZkZScHoyRkJnMjlWYnBLdmlNc0p6Rm5CcW85Qm9zRTUwZmVIVnRNcnJkRE9veWoxalk3TFduRlltZ05IaFh0b1hxMjQ4anRGWVlkeUlkWDItT3NR?oc=5"
+          "title": "Nasdaq turns positive as traders shake off Nvidia CEO exit, AMD shares gain: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00cTdQYjhOUVlzVEZnQndNN1NKNzBJSjIta1lDWVlVXzhDcXkwWWpVRnE3c1VMTVF2bkZ5WnhHU2NSd2ZRZlI4RVRjREJvbG9xWDZJRF9QMG1MNE40ZGdESkpmZXhsOUhCTUcyZGZiOGhfTjdiSUk4?oc=5"
         },
         {
-          "title": "Nvidia: Goodbye Jensen Huang (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vYVB2N0Z5ZUp3Vko4cV9TOUdER2N3THg0dkRWc0d1UnJpWWpNTGI1eW5iMXFwUVFHZW5hZzFLeGFsQjZYOGJmQ1VMMlRMaEJMcGYwNmMzeHM4MXJDN3VvaHNvM1lrN05iUEVfS0NwMUkteWVkY2pr?oc=5"
+          "title": "S&P 500, Nasdaq fall as Nvidia CEO's exit rattles AI stocks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.53,
-      "weekAgoPrice": 4.769999980926514,
-      "percentChange": -5.03,
+      "weekAgoPrice": 4.809999942779541,
+      "percentChange": -5.82,
       "flagged": true,
       "news": [
         {
@@ -48,40 +48,40 @@
     {
       "ticker": "1066.KL",
       "currentPrice": 7.53,
-      "weekAgoPrice": 7.730000019073486,
-      "percentChange": -2.59,
+      "weekAgoPrice": 7.710000038146973,
+      "percentChange": -2.33,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.25,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": 1.63,
+      "weekAgoPrice": 1.2599999904632568,
+      "percentChange": -0.79,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.48,
-      "weekAgoPrice": 1.5099999904632568,
-      "percentChange": -1.99,
+      "weekAgoPrice": 1.5499999523162842,
+      "percentChange": -4.52,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.45,
-      "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -1.36,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.05,
-      "weekAgoPrice": 1.190000057220459,
-      "percentChange": -11.76,
+      "weekAgoPrice": 1.1799999475479126,
+      "percentChange": -11.02,
       "flagged": true,
       "news": [
         {
@@ -93,18 +93,40 @@
     {
       "ticker": "0397.KL",
       "currentPrice": 0.245,
-      "weekAgoPrice": 0.23499999940395355,
-      "percentChange": 4.26,
-      "flagged": false,
-      "news": []
+      "weekAgoPrice": 0.23000000417232513,
+      "percentChange": 6.52,
+      "flagged": true,
+      "news": [
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
+        },
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
+        },
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.35,
-      "weekAgoPrice": 1.2899999618530273,
-      "percentChange": 4.65,
-      "flagged": false,
-      "news": []
+      "weekAgoPrice": 1.2699999809265137,
+      "percentChange": 6.3,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
+        },
+        {
+          "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5341.KL",
@@ -115,5 +137,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 5
 }
