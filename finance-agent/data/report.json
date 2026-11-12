@@ -1,42 +1,55 @@
 {
-  "generatedAt": "2026-11-12T02:16:14.808377Z",
+  "generatedAt": "2026-11-12T03:16:01.981101Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 521.125,
-      "weekAgoPrice": 520.989990234375,
-      "percentChange": 0.03,
-      "flagged": false,
-      "news": []
+      "weekAgoPrice": 555.7999877929688,
+      "percentChange": -6.24,
+      "flagged": true,
+      "news": [
+        {
+          "title": "AI Data Center Demand Revives Microsoft After Selling Pressure - FXEmpire",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlBYbTRjaGZnQmtxLUdVVDU5ME40WjhRdGlJNk1ENnBhRFJHZE1RS3VYQThRZzdSUzV6LUo5RmwwVThaa2I3S3hOLU1adVpaMDFXYnVORkROMGpTRlJKeE9tSXhDN2dDOE8td01qNFpabzAtVTNTZm9WMmZEVWVGWl9KSzZ5NWRRYk9zWmdoYVVtdzNGb2RiN011R2paRmZ6aDJDc2xnVlhUTE1PVjM5R2xSNA?oc=5"
+        },
+        {
+          "title": "Microsoft Beats Nvidia for the First Time Since 2025: So Why Is MSFT Stock Falling? - BeInCrypto",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91eUs1YWhlZWFWaU1LSnhPN2hiLW05ZG42M256MXZLYUhqM2QwcWNyUUVpekxLRlN1MzMyS093UElEaEtQS29TZXpaRkxBYXBBUFd5WHhHclI5UEk3SFgzWUdRb3lEcm5BVkVqb3FfVEw?oc=5"
+        },
+        {
+          "title": "MSFT Stock Heads to $500 as Microsoft Data-Centre Spending and Anthropic Competition Intensify - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZFo3TEdJeXZCVUFCV3pKVWdBZWczcjNzSTBDOFZsTEc1TkVhQ01wWDRCRGo0NDFvcndvbFdwSEVQYms3S1YyNlMwUnJidE1zVzJrdUpZNG1XMjZ5ejlERmF2MDI3V2ozVEpmbUJLOTVET3YxNHh5elV6QVpBR3dLS25JdmQwdFdvcWFYaWFJcmU2QXBWTjVrLWdLWFFsSDR3Y1A1UFBnN2RqZU9FcjY0d0JIcXBEemU3Y2k4QjlTU3dnLS10VjZlYlJ3VkR0X2VtQnc?oc=5"
+        }
+      ]
     },
     {
       "ticker": "NVDA",
       "currentPrice": 173.73,
-      "weekAgoPrice": 206.69000244140625,
-      "percentChange": -15.95,
+      "weekAgoPrice": 200.1300048828125,
+      "percentChange": -13.19,
       "flagged": true,
       "news": [
+        {
+          "title": "Nvidia board discusses CEO Jensen Huang\u2019s future as scandal roils one of America\u2019s most valuable companies - CNN",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXBTU3VDVzhyWkZsZWt4X3dGZkY5Q0tiMV83VkJzeHBPWTRvSGIyVTQ0TEdfRDJPVHVnRXVUZnhERnBKTjZtcUJrTVFQRW5idEk0UElvNjB5bENMTDdETkNDLU5nLU8wbUpPWUhKQlp0d01iTm01b3dJeEFLVzRuSGVrQUEwM0pUdF9VT05MM2FNSzBMS0E?oc=5"
+        },
         {
           "title": "Nvidia live updates: Stock tanks after new affair allegations, board reportedly preparing to oust Jensen Huang - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORXJGN3VRS0JCdkxWaTMzYWhuVjh1b2Q4QWtsZDJWSFozTVdONzZJWnVvdGE0NWZJQTFyamExSGlUNXZTUDJ6ZWZ5WlVPa0huVGJPMUZXNUc5bzZyX0F6VjAtQzdmNnZMN3czOF9uWTU1SzZJMnJtdDBRMXZROXdCOVhmQjU4OTd4bEFIbDBDeHRFT0Zoc29kY2Z6Nnhnd0NyanBYcXBuX1VvdDdTT2FZaGdHbmZ2VDZaU18yUEtRZjBJdkxzeXJReFhaeVlPbWE1eFJTRDFUS0hCSjJVM2lQTHczUFRiUHp3VmJB?oc=5"
         },
         {
-          "title": "Nvidia Stock Sinks as Jensen Huang Ouster Report Sends Investors Toward AMD, Broadcom - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWhLdk5fdmlqYVlqUm5HM0JyQWMzemc2STRWcC16ODNaNWhmdWNyY0VSSElLMzlnQTBwbXNRUmtfUm1HYUs5ek9sRndOYjFnUlFYNUFHQVkwMjRiMmFJVTF0OXBEVm1WcWtqdlNtNUVIYWtJMDhPREJmbjFDd0hrNWd3TWwyOVNQRDJuTzhLN1NzWjFGU1pUZ0ZIWUM?oc=5"
-        },
-        {
-          "title": "Nvidia board discusses CEO Jensen Huang\u2019s future as scandal roils one of America\u2019s most valuable companies - CNN",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXBTU3VDVzhyWkZsZWt4X3dGZkY5Q0tiMV83VkJzeHBPWTRvSGIyVTQ0TEdfRDJPVHVnRXVUZnhERnBKTjZtcUJrTVFQRW5idEk0UElvNjB5bENMTDdETkNDLU5nLU8wbUpPWUhKQlp0d01iTm01b3dJeEFLVzRuSGVrQUEwM0pUdF9VT05MM2FNSzBMS0E?oc=5"
+          "title": "Asian stocks fragile, Nvidia plummets as board to decide CEO's fate - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ODl5LXpyQ0RZanVjSnZGS1NjS1ljMjZvdW9xY3ZSSUxvNkY2Z3dCMThiSjdKNHI1TFRCZnBIRHdYY0UxTGh0QjRZX3Y2S25sY0k4M0dKN3VZdGNMSGk5N0tPUmVJa3ozWXRCcmluOWxVVjVfblRLdmttMA?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.53,
+      "currentPrice": 4.5,
       "weekAgoPrice": 4.769999980926514,
-      "percentChange": -5.03,
+      "percentChange": -5.66,
       "flagged": true,
       "news": [
         {
@@ -55,17 +68,17 @@
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.24,
+      "currentPrice": 1.23,
       "weekAgoPrice": 1.2300000190734863,
-      "percentChange": 0.81,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.51,
+      "currentPrice": 1.5,
       "weekAgoPrice": 1.5099999904632568,
-      "percentChange": 0.0,
+      "percentChange": -0.66,
       "flagged": false,
       "news": []
     },
@@ -79,9 +92,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.1,
+      "currentPrice": 1.08,
       "weekAgoPrice": 1.190000057220459,
-      "percentChange": -7.56,
+      "percentChange": -9.24,
       "flagged": true,
       "news": [
         {
@@ -102,12 +115,12 @@
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
         },
         {
-          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
         },
         {
-          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
         }
       ]
     },
@@ -121,12 +134,12 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.72,
+      "currentPrice": 0.73,
       "weekAgoPrice": 0.6650000214576721,
-      "percentChange": 8.27,
+      "percentChange": 9.77,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 6
 }
