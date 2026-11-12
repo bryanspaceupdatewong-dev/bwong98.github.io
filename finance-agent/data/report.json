@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T04:15:56.163154Z",
+  "generatedAt": "2026-11-12T05:15:37.272702Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -11,16 +11,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Why CoreWeave Stock Skyrocketed Today - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0VfNUh1X19scHNrNk1WSW9vaU9QQ2RGd3FDcENZTWdMVFVRTGYzdVlOeno3cXFXTi1Pd094WDVueE1DZEVPQk05OUtMU2lHRmp2V1FBdDlHNDNWalpRTlVQQWJ4emd2alFSS1dCZDdLaGtZcG9yZGQtLXZJQ0xUY0l3SUpXby1tekNBWWdFY0NtdERfWXl3c2hBLVZGVENZaUtFME4zNnppdnFTUmFQeFdxeGxJMU1fVEVLYXBjOUxzdw?oc=5"
+        },
+        {
           "title": "MSFT Stock Heads to $500 as Microsoft Data-Centre Spending and Anthropic Workplace Competition Intensify - FXLeaders",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmRmblVraFZUY3FENjZyMWxMN2NRVVowQW12VGtOVGMwSTRGZDdyQnNlV1FRVXFIb2w0N0tIdzVDNGs4cllUdW1ibmpMSTFmdXA1NHVHZm5jWFdYWm1NcEtHc3hKbVFlMHhnWC1TcTl2OUVDeUI1OXR1M0NZR1drRFdMVThDS0ROOXpmSVpxLXkzNjVDRVl3TzhvRk44SUZGQzZrY0U3RDZGM0tXdGM0ZEsyeV9FRUJmNGlfUmZWU2tUT0J1SlkzdzBtZ2tISG9JT3Y2X2JpNlVSNVYyNGc4?oc=5"
         },
         {
-          "title": "Anthropic Now Makes Its Own Spreadsheet Software. Here's What I'd Do With Microsoft Stock. - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNODZBOFhXU0lCNjFXLTVyakRwa2FoMkhqaVh0U3hTUGRMZHBnMUhSQTVzQ1hqN2tieUg3WFphaDU0bHEzckxkU2g2UkFLbC1hTEZPalh0OTB0WjZQZ25IRWJEcC1NSVNaRGRwb0R6ZFJIRGFWTGg5TzNFSjljd1liZ3VxVU80NmRSRDNvZnRINDdSY0ZjelIxZUtmQXZlSktWRWJoeTZsUjE3Mld5dXBkUV9temhyU0RrekFKQlFYYU15b2FIUTBzcUotbnpWd0tEaGJVdElBVXU3eWNsdERjTXdVTDhDMjhRcW03QWZOa2dmSTR0MVlJd1Vwc2laSVVBYW56TzZn?oc=5"
-        },
-        {
-          "title": "AI Data Center Demand Revives Microsoft After Selling Pressure - FXEmpire",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlBYbTRjaGZnQmtxLUdVVDU5ME40WjhRdGlJNk1ENnBhRFJHZE1RS3VYQThRZzdSUzV6LUo5RmwwVThaa2I3S3hOLU1adVpaMDFXYnVORkROMGpTRlJKeE9tSXhDN2dDOE8td01qNFpabzAtVTNTZm9WMmZEVWVGWl9KSzZ5NWRRYk9zWmdoYVVtdzNGb2RiN011R2paRmZ6aDJDc2xnVlhUTE1PVjM5R2xSNA?oc=5"
+          "title": "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMm1vREJQazlKYXlaaHNFRDJJdVlrWktscGplZWdQamZaczBjMVNDN09QTEpDMXVPQ0x2MUtfTGh1c244azMwR1VqcjhDRzBjUl9MN29CVjVIVmVoN3RqaGFaWUtBa2hDRmQ4RnhJVi1GaThITW9XTUxyaG1xbDFMY1RUVU1rWF80RjhITUwtalRrQlpFQXFWQXZybkZ6MUJJOUxZN2pmTmFYWXJIeUY5ckFXTGhxMExYYml4S2JsU2IteUhOMjlFNTBFMHVIV3VVZ0tRWDlMb2kwbVNxekQ5UmRUVHdMZWdBLW9VLVdDOXk2cGg2dEg0ZEstNzVCZG50MnZRR1VTZFVJeVNVdVJRWWhBMVV6QjBRU2lmM2V2bU9xYlU?oc=5"
         }
       ]
     },
@@ -32,16 +32,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia board discusses CEO Jensen Huang\u2019s future as scandal roils one of America\u2019s most valuable companies - CNN",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXBTU3VDVzhyWkZsZWt4X3dGZkY5Q0tiMV83VkJzeHBPWTRvSGIyVTQ0TEdfRDJPVHVnRXVUZnhERnBKTjZtcUJrTVFQRW5idEk0UElvNjB5bENMTDdETkNDLU5nLU8wbUpPWUhKQlp0d01iTm01b3dJeEFLVzRuSGVrQUEwM0pUdF9VT05MM2FNSzBMS0E?oc=5"
+          "title": "AAPL, GOOG Stocks Gain Overnight As NVDA Slides: Are Retail Investors Rotating Into Traditional Tech Amid Leadership Turmoil? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmFOcWctQVBwOGxDTHBOeDkyRlBsalJCMVlpYlc0YU9LX25YN1FhUWhIUjFTNndYRjJnZC0zbVFOb0FhT1g1bF9LRkItMUNSV0dvQml4NzYwb2Z5bkllWGdIUndvUlRpM21aLUNucnV3aENTUHJOYi1pX2E0TDNVa2NRTkhRajVsa2hERXBoczgyNGVOd0xEZl9kSEo?oc=5"
         },
         {
-          "title": "Nvidia live updates: Stock tanks after new affair allegations, board reportedly preparing to oust Jensen Huang - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORXJGN3VRS0JCdkxWaTMzYWhuVjh1b2Q4QWtsZDJWSFozTVdONzZJWnVvdGE0NWZJQTFyamExSGlUNXZTUDJ6ZWZ5WlVPa0huVGJPMUZXNUc5bzZyX0F6VjAtQzdmNnZMN3czOF9uWTU1SzZJMnJtdDBRMXZROXdCOVhmQjU4OTd4bEFIbDBDeHRFT0Zoc29kY2Z6Nnhnd0NyanBYcXBuX1VvdDdTT2FZaGdHbmZ2VDZaU18yUEtRZjBJdkxzeXJReFhaeVlPbWE1eFJTRDFUS0hCSjJVM2lQTHczUFRiUHp3VmJB?oc=5"
+          "title": "Hyperliquid\u2019s Biggest Nvidia Bull Sits On Over $2M Paper Loss As Huang Scandal Rattles NVDA Stock - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNExLcnhDd0ttWVpndllzdUt5allSRHgwSWtvckNDMUtNckZxTHhCRlBiZWhQX19vYVBxcFplVDZPZzM3M0R6QzBjYWtZa0hJcHhybFBEQnR2OFdPOGVwWGxxRVREUHRoQ0FhaEwxVW5HbGZfNzNKa05JeEhraWoyaWJmaGl0ZWs4MDM5bFVoUERkWU5lUWU0dkVTSDVGRHVkUXZV?oc=5"
         },
         {
-          "title": "NVDA Stock Faces $150, Shaking Investors, with Nvidia Board Preparing to Oust CEO Jensen Huan over Alleged Chinese Spy Alice Huang - FXLeaders",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQaTZTQ3VsWldOLWhiNkhTVC1Na1hvR2EyVWczNk5xNENqTlVFVUhONzN1VnRDYzFoN2l2TmduNTZGZXJCOTlUc01IV1daZEFtd19BZkVHR01SVmlHQnN2TkM2b2FqZFhnX2VvblNuV2lKcXFwNlFvMHdKbjVGSFljNGxWTzZ4NHRTTHlLWWFRYkx6TFNXTFBXMWNKbzlBaHBTSzR1NEpER29pSEdlQ09vWWFsWkk5ejJZTC00RDdKQUwxMkVMVkVNRXQzYjBpZEljY25sRVNncWF0SGgyRkw5SXlRdjAxNkRDZVdmYWhnNk1kQmhOVExkUzhOVDQ5X0N0?oc=5"
+          "title": "Nvidia Board Weighs Ousting Jensen Huang With No AI Successor Ready - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0F4MEJmeFB5SERCQVZjdEFRb1dBeTI3NHF2RENwVm5ZRGJRY3FnWjF0LXhfQUFjb2NEdUh6WGRZZ19tVnljSDhrZVZmVE5ramg5UHZFS0FzcUN5VlFxbS02cDE3b2c3MHFkN3hyTC1BY3VHX0VVdlZlRDRRSVduVFd2OFowTk1Oc015NkwzNTQ5Z1BCQm5La0I0cUZjSGNJ?oc=5"
         }
       ]
     },
@@ -92,9 +92,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.1,
+      "currentPrice": 1.09,
       "weekAgoPrice": 1.190000057220459,
-      "percentChange": -7.56,
+      "percentChange": -8.4,
       "flagged": true,
       "news": [
         {
@@ -105,9 +105,9 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.255,
+      "currentPrice": 0.25,
       "weekAgoPrice": 0.23499999940395355,
-      "percentChange": 8.51,
+      "percentChange": 6.38,
       "flagged": true,
       "news": [
         {
@@ -115,28 +115,28 @@
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
         },
         {
-          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
         },
         {
-          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
         }
       ]
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.31,
+      "currentPrice": 1.34,
       "weekAgoPrice": 1.2899999618530273,
-      "percentChange": 1.55,
+      "percentChange": 3.88,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.71,
+      "currentPrice": 0.7,
       "weekAgoPrice": 0.6650000214576721,
-      "percentChange": 6.77,
+      "percentChange": 5.26,
       "flagged": true,
       "news": []
     }
