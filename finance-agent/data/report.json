@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:16:00.386244Z",
+  "generatedAt": "2026-11-12T00:16:12.854812Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -11,16 +11,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Microsoft Beats Nvidia for the First Time Since 2025: So Why Is MSFT Stock Falling? - BeInCrypto",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91eUs1YWhlZWFWaU1LSnhPN2hiLW05ZG42M256MXZLYUhqM2QwcWNyUUVpekxLRlN1MzMyS093UElEaEtQS29TZXpaRkxBYXBBUFd5WHhHclI5UEk3SFgzWUdRb3lEcm5BVkVqb3FfVEw?oc=5"
+        },
+        {
           "title": "MSFT Stock Heads to $500 as Microsoft Data-Centre Spending and Anthropic Competition Intensify - FXLeaders",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZFo3TEdJeXZCVUFCV3pKVWdBZWczcjNzSTBDOFZsTEc1TkVhQ01wWDRCRGo0NDFvcndvbFdwSEVQYms3S1YyNlMwUnJidE1zVzJrdUpZNG1XMjZ5ejlERmF2MDI3V2ozVEpmbUJLOTVET3YxNHh5elV6QVpBR3dLS25JdmQwdFdvcWFYaWFJcmU2QXBWTjVrLWdLWFFsSDR3Y1A1UFBnN2RqZU9FcjY0d0JIcXBEemU3Y2k4QjlTU3dnLS10VjZlYlJ3VkR0X2VtQnc?oc=5"
         },
         {
           "title": "Why Microsoft stock is down over 2% on Wednesday when tech names are rebounding? - Invezz",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ20zaW02aGhzYWU0T1I1UGFtTmFEODFEbkhzTFJfUXlCa09sSmF6ZWZ6T0V3bWFTbTYxWGVSN3JKVjEwSUZjT0R4V3RvYUo4azRBdERpZXlXRzFtbGp0cmM3d1F2QUtCMEpveTgtNE9WamtDTVhfNjFuX3NzeUFvY3BNSkFOUzNlZ1ZnTUIyQWFlRTNYcG50Z1M2SEpnRnZFdEYwVzY3RGV2dFA0dy1JMmh2R00?oc=5"
-        },
-        {
-          "title": "Microsoft Fixes Overzealous Outlook Security Issue: Microsoft Stock (NASDAQ:MSFT) Slips - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ09qTUdsLXdVTTlxc3IzcFRBMTBkYWhYVW5oUHk3ZjZqZ0c0OGlWdFRxOHNjWlJPNVk4R0ZGRVlNN1VWbHU0eW5QeUxGOEVJRkt4ckNEUmQySW16ZVRvb3RyRlhPd2Q2c2JDNVB5emJlQVhtQ1pscnBzWDl0WFNjdGhKTlpOSmphUkVmZlRGeXZ6Y1ZuS1ZjTjhGamNfOWhRUTJJRjFvUnlqZjNrc3hYcU9FYw?oc=5"
         }
       ]
     },
@@ -32,16 +32,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5"
+          "title": "Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5"
         },
         {
-          "title": "U.S. Stocks Leap Despite Nvidia Slide - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0N4MG4xaFJUQjN1c2hSV2dIbjI3UlptZ3BDenpiYmFNdVkzOFVlSFcxSGJiSDY1bTBkckZnMldxaTBzaWxqWkRzaGlaTmtzVXI3MkRqM2NHeHhsZHJsVDNSQWdtRTA1cEM1OWNkYnlYeVZGRjBlZldWSklJVVIxN0NFQnhsbFF4dGRocHRSa1BuZXJaMmRLOFpCQ3A0RlY4cC0xbEVYU2gzeW0xTkhoSjRPSEx3cEV0?oc=5"
+          "title": "Nvidia\u2019s Board Is Reportedly Preparing to Oust Jensen Huang. When Intel and McDonald\u2019s Pushed Out CEOs Over Workplace Relationships, Shareholders Got Opposite Results - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM2w3ckhfTVpKeVQxOFQ3bzh3TmZ1WUtacUpya2EwVzMtc19JLVAzRnNkS0NYVmtOak9EdzVva3d2QjVCWWd5Q0NnNWpSUzNtbFNUNzFYZTR6aDdRdkJxODd2TERReGFKX08zY2xuZHpqY0xQMWcxTFNLSFVkU2VyaW11WXZZZk8xZlZGVU54emJid3pUYUlFSWlTcFNJUHVuVW9BRE1B?oc=5"
         },
         {
-          "title": "Nvidia and Alphabet Just Agreed to Buy $10 Billion Each of Anthropic Stock at Its IPO Price - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ1NPRnN4V1I4SmpvVG5PU1FQYnUwMDA2Y3pOc1FRclg1cm1hR1hmR042TUFGYzNETTdPVlFJR2hWUVBCeXZMQ3g4bVhYYjB1R3FLdzVQZjNUUW85ZHNKZDBHTlBEc0VEUC1ud0pXR3U2VUZJZ1BfdnMyeVNJWDRTMWY0Yktwd0pWWGh5Qm1qX2hqT0lCMlo1ckI0MnNad0ZmWTdQS2c4ZldwcnE3VGZiczB5QmZPY3NyZWQzZkZ1YzNnLTk1M2Q4SmQwM21ub0NfeWc?oc=5"
+          "title": "Nvidia Stock Drops Amid Reports Company Could Oust CEO Huang - Investopedia",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0V0VzUxQUVwenlXXzBJLWxPR3hEbjRqSkVvMlFaaEJPc01RWjNyVVVLYlVxVWdJWkxGNVBKSWxBRVhOZ0M1T08wRExEelBMOXFVRHlmQVVVb0IydjFEVDQtYU5CRXA4UU5GT1ZFcV9XVk9ZQXc2M3dFZkdrQWxnREVmd2pJUmt5cnk4b0V6R2ZqNWk2aDN2TlM3SUk5Y1I0NHpNMXpB?oc=5"
         }
       ]
     },
