@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T04:16:25.997112Z",
+  "generatedAt": "2026-11-13T05:15:59.816265Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,24 +19,24 @@
       "flagged": true,
       "news": [
         {
-          "title": "Why Did NVDA, ALT, PLUG Stocks Plunge To 52-Week Lows Today? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS1IzWUt4WVAzSkhqV1ZVcFQ5N2l2OTRmNzVIOFg1NEF2Y3NRRTVrSkxoNmwzTktXMnM3U1c1cXcyWGlwNGRHcnZLYkg1ekE2LXV1aGY5aHBMY1B5S0tucm92YVEtUkU3OElpQ28tUGgxaVRCb2MwU05IaHlrdEk5LVVJRXZidGJzeVN1THZ0QQ?oc=5"
+          "title": "Despite NVDA Rout, Investors Have Poured In $37.5B In US Stock ETFs In 5 Days \u2013 Here\u2019s Where The Money Went - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVngxYkdOcTdodlNJRnFIclFGMERlRFdYVlZHQkhuOUZVZmlaVDEtUzRJSTV4U0JGazdaOVJWeUFkS2l3cVdlTnJDVFNzZHlNdlNjSDBFVTI4TGtzNUt2bnlGVU1fS3NOSS1HWU5wYmRDc1cxVHFWaUhkbGFhQ01HTEY0R2EzbXV1MUFMbDdFTnBBeGhyM1pjQkZhejRNRDZs?oc=5"
         },
         {
-          "title": "NVDA Stock Heads for Worst Week In Over A Year As Jensen Huang\u2019s CEO Saga Ends: Are Retail Traders Still Buying The Dip? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT01iZUhhUlJVTG1XbTlKanJKckM3TjljeDJyZlhVXzZRN0NxNmtmME1qYlUtWmQ3ZlFfVFlHaGd4NFdHOTBBdjB4ODhMV0YxZmdDcm1CbFpfc3UtNU82bmNNeUNaOENIZUthU25TdFF5ZGNOT25zOHhfdXUwX1Y0XzBucGNxNnhHSW5ocGdDelYtRFJEaVZJ?oc=5"
+          "title": "CoreWeave stuns Wall Street as Nvidia scandal deepens - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFZQejJtTlhuZDF3RXEwZTJwTTRPT01yejhZUXY5c2Q3ZFRJd1BkUzUxTXVJMWg4M1Y4eE5jZHhTMzBHVU5sOXNhSjhrUVI1Z0E1Y3lBbHVxUXUtLWljSXA2Y0dSSFpUbHJJYlNObFhZQkNBWGhibkxMV25wSjRlR0VWNEVpZlc4ZGFTVWtibFhyenFuZFNoWVhYZ0U4SFhf?oc=5"
         },
         {
-          "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5"
+          "title": "Michael Burry Sees A \u2018Mechanical Bid\u2019 Under NVDA Stock \u2013 Even As He Questions Nvidia\u2019s Succession Plan And Asia Sales - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnhfVE1scE5nTUJyNWhaYXZPMTA3bGlVVy1LY3RWZ0ltczdZNklGUHZicENiTU9PdkdMT0prcldrdUxpZXZCX3ZCbFo2ay1RWmxmNVNIeDBSQUtRczhFYVZzTVRaSDhkV2hiS1FYcGUxd05FWFd4dGNzWWRnNFVPd2VuRmxZaEhKOUppN0REa3l5V2NwZl9CRGFHSVA2bmc?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.56,
+      "currentPrice": 4.53,
       "weekAgoPrice": 4.960000038146973,
-      "percentChange": -8.06,
+      "percentChange": -8.67,
       "flagged": true,
       "news": []
     },
@@ -50,9 +50,9 @@
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.23,
+      "currentPrice": 1.24,
       "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -2.38,
+      "percentChange": -1.59,
       "flagged": false,
       "news": []
     },
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.05,
+      "currentPrice": 1.04,
       "weekAgoPrice": 1.2000000476837158,
-      "percentChange": -12.5,
+      "percentChange": -13.33,
       "flagged": true,
       "news": [
         {
@@ -108,9 +108,9 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.725,
+      "currentPrice": 0.73,
       "weekAgoPrice": 0.6549999713897705,
-      "percentChange": 10.69,
+      "percentChange": 11.45,
       "flagged": true,
       "news": []
     }
