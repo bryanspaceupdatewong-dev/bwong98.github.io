@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T08:16:19.633687Z",
+  "generatedAt": "2026-11-13T09:15:45.824961Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia CEO Jensen Huang resigns: Is the stock now a 50% bargain? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ0g1NEgwNTluYkZZM2hOazdKTTh2eG02b0NHNjktZzRDX01BTVJJQXA4eGJOOXlJMW9NeGxVM0dwb2N4bWo1R2pfbG1lWjdLRUlDbTEteVYzU1pMVTMzUmJscFZyRnFfYTFDQTdpVnY3R1o5R0U0YUJnbWJobWlBQUNDNzNSNVVXejB0NUJqRTRPWkcxd2lyTjZCZlQ?oc=5"
+        },
+        {
+          "title": "Nvidia's stock may look cheaper now, but many unknowns remain: CIO - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXJhVTBxeEVJZk8tSTFoY3pleWhyRThkcUJXMVZuSHd4MUlQT2pxT1lGMVkwckZNejRRSHdSanNyaHRDTFIxTElEemJYamJrZmgwWm5zNkVoXzNYQXE4TmNMazZzRUUzdkZFbkdVa2tzRmt0RHh2UFVWQW5WSmVscEdXNnVIQS1OUmotbnBSdTJjTUlIWUZ2SVgyY1h6N04zc1VROEgzbXlodw?oc=5"
+        },
+        {
           "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion - CNBC",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DR2p3RENoZjJmOGRjTWRtaHZvSmtBVDRVUTRoMGFNNDB6Y1k4Y1J0T2xvTFF2ZENxZndVZVllTTZwc0dtNnRadFBGQVg2TmdUbkVUeXJ3Y0o2SmlBb1VLdXpkWndDMWdRZk9rSjhvaVphTENR0gF6QVVfeXFMUDJHWXl4WTl2eHVOV05LM0d1U1p3WHl5WjNsYkNjSDFpenJxODdDUm5hbU5YamhIQkF4RFVSVWluQ1FySERjQnA0X2o5Zms4Qzk4eF83akdEVEZKa094bjVzLVRsQ2U1SE5ZZmt0ODZmeGFyblptMWJsbkE?oc=5"
-        },
-        {
-          "title": "Cathie Wood Sees Nvidia\u2019s CAGR Slowing To 25% From 50% Over The Next Five Years: \u2018You\u2019ve Got Powerful Forces Like Elon Musk\u2019 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNlAyVU5na0Nqa0wyLXVwdldNT21hTlZxTDZ6bjJwSlA5OFNna3NCY093R1hjeG40UUltaXd0eHFDQmZnUUN6a3dmNFdlVEdYS0dpdUt6NWtPZEtreWEwRjJkMThjRkpSMjluMHVKTldKbm85MFZDRUdPWi00alYyOUhkNFBQWFZLdkxONDhPWUR1RnV0TGJ0YQ?oc=5"
-        },
-        {
-          "title": "Despite NVDA Rout, Investors Have Poured In $37.5B In US Stock ETFs In 5 Days \u2013 Here\u2019s Where The Money Went - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVngxYkdOcTdodlNJRnFIclFGMERlRFdYVlZHQkhuOUZVZmlaVDEtUzRJSTV4U0JGazdaOVJWeUFkS2l3cVdlTnJDVFNzZHlNdlNjSDBFVTI4TGtzNUt2bnlGVU1fS3NOSS1HWU5wYmRDc1cxVHFWaUhkbGFhQ01HTEY0R2EzbXV1MUFMbDdFTnBBeGhyM1pjQkZhejRNRDZs?oc=5"
         }
       ]
     },
@@ -42,25 +42,25 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.56,
+      "currentPrice": 7.73,
       "weekAgoPrice": 7.739999771118164,
-      "percentChange": -2.33,
+      "percentChange": -0.13,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.24,
+      "currentPrice": 1.22,
       "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -1.59,
+      "percentChange": -3.17,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.44,
+      "currentPrice": 1.45,
       "weekAgoPrice": 1.5399999618530273,
-      "percentChange": -6.49,
+      "percentChange": -5.84,
       "flagged": true,
       "news": [
         {
@@ -83,12 +83,7 @@
       "weekAgoPrice": 1.2000000476837158,
       "percentChange": -14.17,
       "flagged": true,
-      "news": [
-        {
-          "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "0397.KL",
@@ -113,9 +108,9 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.745,
+      "currentPrice": 0.72,
       "weekAgoPrice": 0.6549999713897705,
-      "percentChange": 13.74,
+      "percentChange": 9.92,
       "flagged": true,
       "news": []
     }
