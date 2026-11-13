@@ -1,72 +1,80 @@
 {
-  "generatedAt": "2026-11-13T00:16:10.967999Z",
+  "generatedAt": "2026-11-13T01:16:12.619639Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 523.0,
-      "weekAgoPrice": 535.9299926757812,
-      "percentChange": -2.41,
-      "flagged": false,
-      "news": []
+      "weekAgoPrice": 555.7999877929688,
+      "percentChange": -5.9,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Microsoft (MSFT) marketing chief sells shares at $531 each. - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXpkX29KdEwtdUxSYUJ2OHI2Sk5aT1VrVHd1UlhncHBELU9YQjZCNmJHQ183VWNlS1VzcFJzRUJ2Y2J2ZzJfaGYyNE5fUzRrelpkazdka1lHOFRhaVI1OERUMmZ6RWpoZWUtd1RWZXpSRHBBNkxfN0t3ajJtNWNfVjY2ekEtSWtlMHVTRmRTTW54X1VlcDMwR0w1SmFfdUNSYWh3QlUwLWRDNGVE?oc=5"
+        },
+        {
+          "title": "Azure Grew 48%, Yet Griffin Securities Downgraded Microsoft (MSFT). Here\u2019s the Catch - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTNUbVRXMnF2WU1sMW9vbFRLNFg4VUhFUzNZcTBJUUM3V1ZQT1BfWExkbDF6Z1c5LUdvUUZobko2Ykg1eU5aZUlaS3ZPZFJRdG1fYVpZVU1wYlVNYTNaU25henhkc1I3WHAwMDhZeGtSU3FuUGUtLW94Y2dYSDNLTldXWnRQWHBOUy00Qk9fYVA0Q3ZR?oc=5"
+        },
+        {
+          "title": "Xbox themes get a Candy Crush makeover, with orchestra, choir and accordion. - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1Z3SnU5aXl0djZVRTZsX0ZXX3lpZjRsUTM2aHpvSFFxMDltUkRoVmZnbVlpX2VFQjFyZm1NV1FWa3g3Q1hXLWloZkNpeVFub3pEUHhqYWlEU3N5Y3hhNHA0VHBOUXdoR0FVWnM4Snpza1ZQWktXX3RwaGY5VlhES2lfOXhtbjhibm5FQnFFSzB0ZmNlMWVjN2V6bDJxdzlkbm5wMHE3cDl3WjFUaEZVT1ZNSG9OSEs2?oc=5"
+        }
+      ]
     },
     {
       "ticker": "NVDA",
       "currentPrice": 166.19,
-      "weekAgoPrice": 181.60000610351562,
-      "percentChange": -8.49,
+      "weekAgoPrice": 200.1300048828125,
+      "percentChange": -16.96,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUjN6ZHpwVTN4R3loaDYzLThpNnhsUmY5NGoxLWJIaG5WSWlSNE5iVi1OS0RxNnpZNUFDLWhXWUY0TDZ3UUlpYThqWFc3SlhRV185N2RGNmFpYjlGWUg5TUVWNzhEUkF6TVdxbGVLN3VGc19xZHM4QjQ4eWkwZUxGaXB6LXBydzloUHpySXpWZ0NVSHh4VWtuSWtidnBJNEZYem96el9VOXVVZmVvWGVQNEJlb1RKdkVqWUNhY2hyT2VuZjZIdWd4TVNhT1VhY0NRWWV0VHVsZjlwS3pGdkxLLUJJS0JtNDJxaFVzNQ?oc=5"
+          "title": "Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGJwaGlFaHdoRlkyak8zUFBjSmhrVVJxQnIzOGt0N0tsNThnUlM2NGYySmJxVFp5Tnh1ZDdJckhPQTI3ZC1nSDhYeGFjamdhUWN4ZC1KREI3bEt6dloyMVEzS1VEaDQ2OE03ZklZbXJYMTVuUGxLSFV2YkZ6cTh1Uw?oc=5"
         },
         {
-          "title": "Baird Cut Its Nvidia (NVDA) Target From $500 to $200. Here\u2019s What It Wants Next - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXZ3N1h4MFE2Wm5BazlxS1pLUjctYmhLUFB2ZG04MlRXQlVZaThWN1ozTVllSmJCMTFzV2NBMHFmSDdHVDZuWjZWYV9OV3M0eHF0R1BSOHJybmNlamI3QjVYTFRVOFpFcDJyMjdCRC1NeFRtUkcyMy1oc3JfTTY3RkNSaU1rWU1mVnBmUlMzUnVucVpVZzhtUQ?oc=5"
+          "title": "Nvidia (NVDA) Stock Gets Fair Value Trim As Analyst Views Turn More Divided - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRElTSFhVQUZmVlR1QXFPRko3NkRfbUMwdWRTdWxpcjBmenpxbnJja0ZEOFVQU19DZURySnM2NDZJc25wMFQtdV9jd21RYVNXT2tNaHl4eU9nSmw1TzhWTF9GdmhwMlFnMloxOC1hZEMwa3VtdG9WY1dRTVdpQXdvQlQ0NjJaakUtd0JzcUZ6OTRLRzNvU0I0?oc=5"
         },
         {
-          "title": "NVDA Stock Alert: Why Baird Just Slashed Its Nvidia Price Target from $500 to $200 - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVXNwX1BMQ2xudnlVbE5GQmJoZ1JZZnlpZncydE5BZXo0Y2tmOHlRdV9ybm9EbjlTcVAxSEhkYkprNlVLNW91OG5HQjFtLUJaVEFscXlqOVFZRGRQcklCTmQyQWZ4amlsQlFVeEdobXNYelUzWGNyZTRmWXU4dmFtSXB0bzliZFMzQzdLNmlIRFE0ZUdRakgwUjNFd2VHMVUzLTBaNVpjUTVFX013OGpiSjRqLV81VlpIMmo2Q3dveWw?oc=5"
+          "title": "Stock Market News, Nov. 12, 2026: Chip Giant\u2019s Stock Falls 4% After Jensen Huang Exit - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzdoajdJLXc3MUJTYU9DWVVGZHlwamh3MUxkRWxRTEt4eXVaMnBzdXZpYXc4SWFoTmVQUF9sNEhhaHlzaFhFQ1dnMk1zblo5V1hqbDJ4M1d3ZmxZaTluZjhrUVNaT3k4OVZaMWtmX1FBWVIyOVlVM3BlRE9lM0RvYVZGVVFMYkE?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.53,
-      "weekAgoPrice": 4.769999980926514,
-      "percentChange": -5.03,
+      "weekAgoPrice": 4.960000038146973,
+      "percentChange": -8.67,
       "flagged": true,
-      "news": [
-        {
-          "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.53,
-      "weekAgoPrice": 7.730000019073486,
-      "percentChange": -2.59,
+      "currentPrice": 7.51,
+      "weekAgoPrice": 7.739999771118164,
+      "percentChange": -2.97,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.25,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": 1.63,
+      "currentPrice": 1.23,
+      "weekAgoPrice": 1.2599999904632568,
+      "percentChange": -2.38,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.48,
-      "weekAgoPrice": 1.5099999904632568,
-      "percentChange": -1.99,
-      "flagged": false,
+      "currentPrice": 1.46,
+      "weekAgoPrice": 1.5399999618530273,
+      "percentChange": -5.19,
+      "flagged": true,
       "news": []
     },
     {
@@ -79,9 +87,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.05,
-      "weekAgoPrice": 1.190000057220459,
-      "percentChange": -11.76,
+      "currentPrice": 1.06,
+      "weekAgoPrice": 1.2000000476837158,
+      "percentChange": -11.67,
       "flagged": true,
       "news": [
         {
@@ -92,9 +100,9 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.245,
-      "weekAgoPrice": 0.23499999940395355,
-      "percentChange": 4.26,
+      "currentPrice": 0.25,
+      "weekAgoPrice": 0.25,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
@@ -108,12 +116,12 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.695,
-      "weekAgoPrice": 0.6650000214576721,
-      "percentChange": 4.51,
-      "flagged": false,
+      "currentPrice": 0.715,
+      "weekAgoPrice": 0.6549999713897705,
+      "percentChange": 9.16,
+      "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 6
 }
