@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T13:19:06.232147Z",
+  "generatedAt": "2026-11-13T14:20:33.368886Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Stock In Peril After Jensen Huang Resignation; Earnings Now In Focus - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYVhtMm81MkVaRFk5X1VuSmNUZGRDWFd4aTh5ajNpVUVod1I3Rm5qdUpEbHJENkVJNXNPb0xVRlZ4aE1lWWx2blM5QzZrOE1XS1JwMDgxbVM2dUgtTEctNDJ0VXoySE5zRXNBUFJzTlM3T005ZUprYnZ0cEEtWUJsa25qLVFvSnItdlQwNXdoeVJsZjVzNkhRSzhDYmhtVnlsYVc4VUlqTE5yYzY1SndVV1cteE5QYTA5ZUxRWUVnaw?oc=5"
+          "title": "How Much Is Nvidia Stock Worth Without Jensen Huang? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOUxtMjdBYXBoZ1VFQW8tRWRtSzY5WHlydE5jSWdZRUlJdzdmMzg5M01lY2hWdWxUZ2VzS2dVUlM0dGlyQlA1Zk9ISXNMLXA0Y19kZlBFbkhjN2N5TTJtYmJZd1JuZ2IwckIxdHNDMUZvMVRNT1gyQXJhYW8wZVpuY2o3dXNQcDJnbWQ1c2NRNWlGRk1OeUctdG0wWms?oc=5"
         },
         {
-          "title": "Breakfast News: What NVDA\u2019s CEO Exit Means for You - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GT1J1amRqV2NPUHZqSWk5eDdKR29VcWl1LTdpbnowVG5FNDRFUjVpbEkwbTQzQjFzTlpMM0wzV3R3NmFTZTZHQWlJbzN4RFAyd055Q3hqcEUtcW53enZadE40VnVMMk01QmFiSmdmUjlNSFdzYmZWS19pQ2g?oc=5"
+          "title": "Nvidia Stock Is Still a Buy After CEO Jensen Huang\u2019s Departure - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTbHVXbEZWNnBkNlRaU1A5QWdvS3pNV1lWdF9yRkU2UVNpUUpLWlNEY0JhX1ZJLWYtMjFXZXlmeWgxV09DRUdRZ19HbEhrSlBVZ1ZzWVVVSkl3bFN2azlEM0VQMloydHY4MERiYTJzWU9qNlVGczlkcUhJRQ?oc=5"
         },
         {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge higher as Nvidia tumult deepens - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlFnOGhDYjBhQ1U3Y2IxUFI2c3cwTEZGS19OU2M4SG5ZNmJiTjkwWnJibFZBV0tGUFF2b0t2VXBSY1pKVV9HNENTaWJVaDg4X2MxNnhtNXBBQll6UGJuZjM0VGlyRmN6YlVuZG50M1VVSk9YNDRxcDBydTZ5andqMENtWEcwa0JDTlNreWxnNnU0UkItaEllY1ZESGVxNGlSaXRNdDllbGN0ZEZ0bmpUTV9xQ25xRzg?oc=5"
+          "title": "Nvidia Stock Rises. It Faces One Big Threat in Life After Jensen. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUpieHEtVm55SjR2ak9lSXFic1VjZk9XVG1XUklXQS1TVTNFb2k5ejV2cVp2MnBPZUpYLWZfNWJoUnhEOEpmSkhsNnNwMjYzVmxTWFhEMnVQaVNNbG5ObkhjTnd1MS1tT2c1WldfNHRUcm1RSjhDRW41UmVUZTdoeVQwZjBwZw?oc=5"
         }
       ]
     },
@@ -62,12 +62,7 @@
       "weekAgoPrice": 1.5399999618530273,
       "percentChange": -5.84,
       "flagged": true,
-      "news": [
-        {
-          "title": "Genting Berhad (3182.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5271.KL",

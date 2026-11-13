@@ -1,117 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-11T15:15:59.300473Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 523.95,
-        "weekAgoPrice": 555.7999877929688,
-        "percentChange": -5.73,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft Stock (MSFT): Why RBC Capital Is Bullish Ahead of Ignite Conference 2026 - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQajVWdElicHViOHRESUNmWlotSWYzam5mbHd4c1lFVFVZR05EaDNPdVBRTkR4R3RNdUotYTJGbHFZRkNrNzYyckJ5U19oT0oyRGhHSzhiR3Jmb0V3bFBqcnhYVlNOUkpCZ2x3UUtvYXdHQXFzU0ZIcjBFclo4ZmtmQzMweVBLS1RBV0NoQ2pod0pZTUxSY05kYWY1SFZrbjZuNFpXTWJEQjB3MmV1NFE?oc=5"
-          },
-          {
-            "title": "Why Is Microsoft (MSFT) Teaming Up To Bring AI Into Healthcare And Education? - Simply Wall St",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTWlQRUxsZ0EyYjViaDJjR1Q1NEtOWUoxM3pxLUR2SmFnZFEzQ3VGbXhfOFJSbnloWk1EVWRaQWpzb2RzTzBudGJURzdjZnFzQ0VFU1hmTG5BRFNOQjNzWWZHLUpZOXRRQVZOVzJqbGJ0RGs2ZUJhSEJQTXZqa09EYk5BaFFCY3V6bHptbE9JQ0N5RkNXZGxrNmUzZlp4MXd2V2hLdnFRMHR0NDkzX1VLdHFzRFdaMkRWaW44NTd1NFd0Z0M2bS1j0gHMAUFVX3lxTE1VNlprbERjN1d1WGRLN0dBZk9ndDkxWVB1X3RMcGlkLTV3N2FSRnluclJiVkVVMGloaFMyN1hobENtT1VKWnFjaVpYNlhsSjNDVTBqb2RBb3lzcVNkbGZSVFQ2dG0wS0RLek4zai1veTd2ZjcwRnowWFh6WFQ0T2FFcmMxcmkwdlJnNTc0WC1GbFFTNzdaSVVUeWJYVFIxcmU2QjA3SllGNGVuMmRJZEI0a3d4bWhmRldpMXBYX29DVnNPV1NSRXBoOGp2cg?oc=5"
-          },
-          {
-            "title": "Microsoft (MSFT) Is Getting Paid for AI Agents. That\u2019s Why I\u2019m Bullish - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaG1WLUdneVpvTzFsdE5aano1cUIyLU5NejJsSWN6cWctVUl4SkZOQ2U1THlsY0NEWVgxU0RVY2xyWTdYUXk3b2JmZVN6Vl81eVlFZHhlOFFubzVnOFk4MUVTa3hNV1VnX0I5U1d5MXBGRUp6cmsybVpmRFlkSXhOeWcwbjJMUWlZbmpoTjVMcnlxdkJHWDYtOVFmYjNpb2xQMXJqM2UwRTlIdThJUFFsaDNTNENSOEtuYzRsUm5QNEQyaUgtZ29SWU5SdGx4dmgyRngyb2VKQ2VMVWtxMmJ3aW5mYmU?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 172.565,
-        "weekAgoPrice": 200.1300048828125,
-        "percentChange": -13.77,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia live updates: Nvidia stock rebounds as spy fiasco involving CEO Jensen Huang raises broader risk concerns - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWldTaHlFa1FDMTZiZldtdUlEVFkybDRmU3BUWms1eXNTR21qc1owdUVmSVAya1VBMnFwOTFBTUNlb005WU1kdDFBd0JUcVUwTWYta2RDZjRNRjNhQS13dElEY2Y4aXpNaGJDV1ZHWmp1SVdjMUpuekdNQ0hKX0paRkJENGtHSDNpQnZaZEMzeDJ5YnczVk1jUG93MEJRT05zN1FQbklPVklhR0FVa0ZCVFBiSHN3SGlzTUt4OER2RWIxaDhTMzJ5RVA4NmFXWXQyU2hjQnpKbFY0YU8tTmRzN1BoZmpmbDZmRnVMLVZsX2tpNXc?oc=5"
-          },
-          {
-            "title": "Odds Jensen Huang Will Be Out At Nvidia Hit 16 % - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnI3VXpFc0Z6SWoyUXl1cjN6V1FzcWJ0VHR6bXlkQmhBZ2pXXzZrR2RfTl8tR0U5VEVrTzdlVzBxeUJWZUYwek5mV2NLeHFSa0ZROGNuRTUxTVdSMkQ5YTdMNTVSUUJhUGhkUk5Ja3BJMVpvai1rSnRycUl3ZjNmZjFpOGwtOVhvREx5MlpFNU43ajBLV09Tcw?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Gets Rare Downgrade: Baird Slashes Target 60% on Jensen Huang Scandal - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmFyV1VWbHkzX1R2SDM5bkFmWUtFYWgxaDBkOHVUMmtLVktRRmx2TWh2YmZ4c0tyMkktLThvWEZrSXYxX0U1aWJuSEJqeE9PNGFsTllual9qNkZoV2M1NFdsMi1yRmhOQmE2bk1tVWdPUGx2SWx1TVhJcURSU3B1R0lhTWpyRFlrWjZjcEdPVnRwMnBwQnhzT2NaUWRSUVVKTUNlNkQzWkZCNmpqQnlTa0lIT3A2Ylk5el9HN1p1bU1IOUd6d3hKbFhrOGtyZw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.53,
-        "weekAgoPrice": 4.809999942779541,
-        "percentChange": -5.82,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -6.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23000000417232513,
-        "percentChange": 8.7,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.34,
-        "weekAgoPrice": 1.2699999809265137,
-        "percentChange": 5.51,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-          },
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-11T16:16:00.368011Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -4241,6 +4129,78 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
           }
         ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.03,
+        "weekAgoPrice": 1.2000000476837158,
+        "percentChange": -14.17,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.31,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": 6.5,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.72,
+        "weekAgoPrice": 0.6549999713897705,
+        "percentChange": 9.92,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-13T14:20:33.368886Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 166.19,
+        "weekAgoPrice": 181.60000610351562,
+        "percentChange": -8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "How Much Is Nvidia Stock Worth Without Jensen Huang? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOUxtMjdBYXBoZ1VFQW8tRWRtSzY5WHlydE5jSWdZRUlJdzdmMzg5M01lY2hWdWxUZ2VzS2dVUlM0dGlyQlA1Zk9ISXNMLXA0Y19kZlBFbkhjN2N5TTJtYmJZd1JuZ2IwckIxdHNDMUZvMVRNT1gyQXJhYW8wZVpuY2o3dXNQcDJnbWQ1c2NRNWlGRk1OeUctdG0wWms?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Is Still a Buy After CEO Jensen Huang\u2019s Departure - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTbHVXbEZWNnBkNlRaU1A5QWdvS3pNV1lWdF9yRkU2UVNpUUpLWlNEY0JhX1ZJLWYtMjFXZXlmeWgxV09DRUdRZ19HbEhrSlBVZ1ZzWVVVSkl3bFN2azlEM0VQMloydHY4MERiYTJzWU9qNlVGczlkcUhJRQ?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Rises. It Faces One Big Threat in Life After Jensen. - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUpieHEtVm55SjR2ak9lSXFic1VjZk9XVG1XUklXQS1TVTNFb2k5ejV2cVp2MnBPZUpYLWZfNWJoUnhEOEpmSkhsNnNwMjYzVmxTWFhEMnVQaVNNbG5ObkhjTnd1MS1tT2c1WldfNHRUcm1RSjhDRW41UmVUZTdoeVQwZjBwZw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.54,
+        "weekAgoPrice": 4.960000038146973,
+        "percentChange": -8.47,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.5399999618530273,
+        "percentChange": -5.84,
+        "flagged": true,
+        "news": []
       },
       {
         "ticker": "5296.KL",
