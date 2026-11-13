@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T01:16:12.619639Z",
+  "generatedAt": "2026-11-13T01:20:36.822909Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -32,49 +32,54 @@
       "flagged": true,
       "news": [
         {
+          "title": "U.S. stock futures rise after Nvidia CEO exit spooks Wall St - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakdzLTNVTjhwd1J2aGphRzJBMTRQU21iMlVLRGNmNE5aUHdxZWk2dUNkN0o3bGU0VC1SWkEtYnkzUEhkY0VmN2lGTUEzaW41V3AwVEdXaHdqa1lUT0w4bzZrTXRvYlVkYUZUUGJyTGhrVDY3WlJmeWRONVNMUVA4Wk5qVGo3WDNYUnl2RTNLSUhHTElPa2Jv?oc=5"
+        },
+        {
           "title": "Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGJwaGlFaHdoRlkyak8zUFBjSmhrVVJxQnIzOGt0N0tsNThnUlM2NGYySmJxVFp5Tnh1ZDdJckhPQTI3ZC1nSDhYeGFjamdhUWN4ZC1KREI3bEt6dloyMVEzS1VEaDQ2OE03ZklZbXJYMTVuUGxLSFV2YkZ6cTh1Uw?oc=5"
         },
         {
           "title": "Nvidia (NVDA) Stock Gets Fair Value Trim As Analyst Views Turn More Divided - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRElTSFhVQUZmVlR1QXFPRko3NkRfbUMwdWRTdWxpcjBmenpxbnJja0ZEOFVQU19DZURySnM2NDZJc25wMFQtdV9jd21RYVNXT2tNaHl4eU9nSmw1TzhWTF9GdmhwMlFnMloxOC1hZEMwa3VtdG9WY1dRTVdpQXdvQlQ0NjJaakUtd0JzcUZ6OTRLRzNvU0I0?oc=5"
-        },
-        {
-          "title": "Stock Market News, Nov. 12, 2026: Chip Giant\u2019s Stock Falls 4% After Jensen Huang Exit - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzdoajdJLXc3MUJTYU9DWVVGZHlwamh3MUxkRWxRTEt4eXVaMnBzdXZpYXc4SWFoTmVQUF9sNEhhaHlzaFhFQ1dnMk1zblo5V1hqbDJ4M1d3ZmxZaTluZjhrUVNaT3k4OVZaMWtmX1FBWVIyOVlVM3BlRE9lM0RvYVZGVVFMYkE?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.53,
+      "currentPrice": 4.52,
       "weekAgoPrice": 4.960000038146973,
-      "percentChange": -8.67,
+      "percentChange": -8.87,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.51,
+      "currentPrice": 7.5,
       "weekAgoPrice": 7.739999771118164,
-      "percentChange": -2.97,
+      "percentChange": -3.1,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.23,
+      "currentPrice": 1.22,
       "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -2.38,
+      "percentChange": -3.17,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.46,
+      "currentPrice": 1.47,
       "weekAgoPrice": 1.5399999618530273,
-      "percentChange": -5.19,
-      "flagged": true,
+      "percentChange": -4.55,
+      "flagged": false,
       "news": []
     },
     {
@@ -87,9 +92,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.06,
+      "currentPrice": 1.05,
       "weekAgoPrice": 1.2000000476837158,
-      "percentChange": -11.67,
+      "percentChange": -12.5,
       "flagged": true,
       "news": [
         {
@@ -123,5 +128,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 6
+  "flaggedCount": 5
 }

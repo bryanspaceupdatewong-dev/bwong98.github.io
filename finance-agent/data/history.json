@@ -1,66 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-11T02:16:27.714868Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 168.89,
-        "weekAgoPrice": 206.69000244140625,
-        "percentChange": -18.29,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVDA Stock Risks A Breakdown to $120 If Last Support Goes as Huang Spy Controversy Weighs - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcnE1NXVXd0VpSEpOSDhyMU9OdVVickVXSS0wUzRhc2N2Vjd5aE9oY1JUMlRaWFVWLUhKV0FWLWRYUTFMcVdMcUsxSkh0WnYzWGtxc0NrNGtRUFh5QXpQNUZCSklLWWwyRFBCaXdKNm1QdkQzVzJyc3prSnY0TDRoeTNlY0lWMXlxNkI2amlNbXJQZ29Gd3cxb0t1cFhiZEtrVVBvaGQ4VW14NzlwUFEtVWhmVVNDeVduVTdWbkNmeW5ZUWs3Q0NjVF9hYw?oc=5"
-          },
-          {
-            "title": "CRWV, RGTI, NOW, COST, NVDA: 5 Trending Stocks Today - CoreWeave (NASDAQ:CRWV) - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPS2M1b3Y1TDhXZmRvYXZ4dnF4M0ZUWTZ5RldpbW5OUVVoS3RVUzdMa25YTUo5TmNVNXBVRlk1WWZrbU9aeGFsMU01d3VvcGZtRmc4M3R2Q2Ntd1ktTzV5ZlE2V1RqSlNhSkVTQlp5a1ROek1rRjVMWmhUVXBFV0pNbF9EVVJyQkx5V0xDUFVvWG5oZjk1Qm9FcDJmZ2xkTEhuc0lBMTVRR1F5bENQY3doZ2JQOGVhZ0hSTGNYakhJbGpsQ3Y4VHdKeGRHUkdXMzBEUEhvWWIwTGJkTkEwY3F1VnJBaFF1NDdSZWcxQkxLMnJ4dldQ?oc=5"
-          },
-          {
-            "title": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXEtNjBGQmkySUh6d3RIZlo0M3lpY2txS25RcW00YURRZnlpWWJ5UWJlRU8wbE1vNERBUUFZMDhad253YUw4NTl6Smt2ODVDZFVOOEtzLVlKTHIxa2hZbEJiYXZMOEFmN3hwcUFqWm40UkRfdk9Vd29qS1FEdE85UElxTQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -5.08,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23000000417232513,
-        "percentChange": 8.7,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-11T03:15:53.991458Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -4276,6 +4215,88 @@
         "currentPrice": 1.06,
         "weekAgoPrice": 1.2000000476837158,
         "percentChange": -11.67,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.715,
+        "weekAgoPrice": 0.6549999713897705,
+        "percentChange": 9.16,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-13T01:20:36.822909Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 523.0,
+        "weekAgoPrice": 555.7999877929688,
+        "percentChange": -5.9,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft (MSFT) marketing chief sells shares at $531 each. - Stock Titan",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXpkX29KdEwtdUxSYUJ2OHI2Sk5aT1VrVHd1UlhncHBELU9YQjZCNmJHQ183VWNlS1VzcFJzRUJ2Y2J2ZzJfaGYyNE5fUzRrelpkazdka1lHOFRhaVI1OERUMmZ6RWpoZWUtd1RWZXpSRHBBNkxfN0t3ajJtNWNfVjY2ekEtSWtlMHVTRmRTTW54X1VlcDMwR0w1SmFfdUNSYWh3QlUwLWRDNGVE?oc=5"
+          },
+          {
+            "title": "Azure Grew 48%, Yet Griffin Securities Downgraded Microsoft (MSFT). Here\u2019s the Catch - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTNUbVRXMnF2WU1sMW9vbFRLNFg4VUhFUzNZcTBJUUM3V1ZQT1BfWExkbDF6Z1c5LUdvUUZobko2Ykg1eU5aZUlaS3ZPZFJRdG1fYVpZVU1wYlVNYTNaU25henhkc1I3WHAwMDhZeGtSU3FuUGUtLW94Y2dYSDNLTldXWnRQWHBOUy00Qk9fYVA0Q3ZR?oc=5"
+          },
+          {
+            "title": "Xbox themes get a Candy Crush makeover, with orchestra, choir and accordion. - Stock Titan",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1Z3SnU5aXl0djZVRTZsX0ZXX3lpZjRsUTM2aHpvSFFxMDltUkRoVmZnbVlpX2VFQjFyZm1NV1FWa3g3Q1hXLWloZkNpeVFub3pEUHhqYWlEU3N5Y3hhNHA0VHBOUXdoR0FVWnM4Snpza1ZQWktXX3RwaGY5VlhES2lfOXhtbjhibm5FQnFFSzB0ZmNlMWVjN2V6bDJxdzlkbm5wMHE3cDl3WjFUaEZVT1ZNSG9OSEs2?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 166.19,
+        "weekAgoPrice": 200.1300048828125,
+        "percentChange": -16.96,
+        "flagged": true,
+        "news": [
+          {
+            "title": "U.S. stock futures rise after Nvidia CEO exit spooks Wall St - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakdzLTNVTjhwd1J2aGphRzJBMTRQU21iMlVLRGNmNE5aUHdxZWk2dUNkN0o3bGU0VC1SWkEtYnkzUEhkY0VmN2lGTUEzaW41V3AwVEdXaHdqa1lUT0w4bzZrTXRvYlVkYUZUUGJyTGhrVDY3WlJmeWRONVNMUVA4Wk5qVGo3WDNYUnl2RTNLSUhHTElPa2Jv?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGJwaGlFaHdoRlkyak8zUFBjSmhrVVJxQnIzOGt0N0tsNThnUlM2NGYySmJxVFp5Tnh1ZDdJckhPQTI3ZC1nSDhYeGFjamdhUWN4ZC1KREI3bEt6dloyMVEzS1VEaDQ2OE03ZklZbXJYMTVuUGxLSFV2YkZ6cTh1Uw?oc=5"
+          },
+          {
+            "title": "Nvidia (NVDA) Stock Gets Fair Value Trim As Analyst Views Turn More Divided - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRElTSFhVQUZmVlR1QXFPRko3NkRfbUMwdWRTdWxpcjBmenpxbnJja0ZEOFVQU19DZURySnM2NDZJc25wMFQtdV9jd21RYVNXT2tNaHl4eU9nSmw1TzhWTF9GdmhwMlFnMloxOC1hZEMwa3VtdG9WY1dRTVdpQXdvQlQ0NjJaakUtd0JzcUZ6OTRLRzNvU0I0?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.52,
+        "weekAgoPrice": 4.960000038146973,
+        "percentChange": -8.87,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.05,
+        "weekAgoPrice": 1.2000000476837158,
+        "percentChange": -12.5,
         "flagged": true,
         "news": [
           {
