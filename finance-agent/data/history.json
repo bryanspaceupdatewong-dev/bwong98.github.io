@@ -1,100 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-11T21:16:18.704106Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 521.125,
-        "weekAgoPrice": 555.7999877929688,
-        "percentChange": -6.24,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Why Microsoft stock is down over 2% on Wednesday when tech names are rebounding? - Invezz",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ20zaW02aGhzYWU0T1I1UGFtTmFEODFEbkhzTFJfUXlCa09sSmF6ZWZ6T0V3bWFTbTYxWGVSN3JKVjEwSUZjT0R4V3RvYUo4azRBdERpZXlXRzFtbGp0cmM3d1F2QUtCMEpveTgtNE9WamtDTVhfNjFuX3NzeUFvY3BNSkFOUzNlZ1ZnTUIyQWFlRTNYcG50Z1M2SEpnRnZFdEYwVzY3RGV2dFA0dy1JMmh2R00?oc=5"
-          },
-          {
-            "title": "Microsoft Fixes Overzealous Outlook Security Issue: Microsoft Stock (NASDAQ:MSFT) Slips - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ09qTUdsLXdVTTlxc3IzcFRBMTBkYWhYVW5oUHk3ZjZqZ0c0OGlWdFRxOHNjWlJPNVk4R0ZGRVlNN1VWbHU0eW5QeUxGOEVJRkt4ckNEUmQySW16ZVRvb3RyRlhPd2Q2c2JDNVB5emJlQVhtQ1pscnBzWDl0WFNjdGhKTlpOSmphUkVmZlRGeXZ6Y1ZuS1ZjTjhGamNfOWhRUTJJRjFvUnlqZjNrc3hYcU9FYw?oc=5"
-          },
-          {
-            "title": "What's Going On With Microsoft Stock Wednesday? - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWd3REhYZ1hQUlJRbjBNa2kwOURNLWU5ZnBIX1ZZdW1pYmp2bHVmLTljVURoNmJXWGswSkxJTy16MnFVd0FUSmFlNkh3TnR5Z005RkpXeXd0Q3RyQ3k2c0dOMlJaSFg3eTZ1cmxvaU9kSzY3SzNtY3NFci1LZ3d2VGZqUkktS19tcW51WmFGR1ZIT0w5aU1QWXo3cm5Tak16THc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 173.73,
-        "weekAgoPrice": 200.1300048828125,
-        "percentChange": -13.19,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia: The Market Is Giving You Another Chance (NASDAQ:NVDA) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYjE1MlRYZWktVWY1aUtaMXhsNTdDX3dQd3hIb3R4R2RTeTdzQmJiRWNHNU94M0R3OHpSMm5BbU93TWFyaDNJbFhpWVlYalJLTURJeXJnRkRJaFRqZ3RDdWtwX29CczREdS1QeGptTE45VVRJbE5LaUo2NVgxMVhzNld3VGM4c0RsS1V6aEM1OTU?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Rises Despite Wall Street\u2019s First Call for CEO Huang to Step Down - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UZzI1WVJLZk1fSkxrcWZvOHhNRm5YTWp6bkxqOFN0ZjBTVkJBd2w2dG92eXY5U21SZUdYLU1vQjFRcHpyNkpmTTRYSUdFeWNVZVJmaVpGdWFqNzJhYWtPYzZ2U1lrQWZDZ3BMdFZXTUFKR2hRbURCbEln?oc=5"
-          },
-          {
-            "title": "Nvidia: Why I\u2019m Buying The Fear (NASDAQ:NVDA) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zb29UY0lpdkhmOVczVERFVHRuRWNvWVc2OUhrNE8tV3NiTkRFa2kwdHczdmV5LXM0dzlsd0x5aFhLZGZhQ3JsSDNLeTFjNjZqNjdtcllqZjgyUHRudlFYWE12ZEUtcHRwMDNFeHRnU3Y1MGhwamdOWklR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.53,
-        "weekAgoPrice": 4.789999961853027,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -6.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 6.38,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-11T22:16:05.514494Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -4036,6 +3941,57 @@
           {
             "title": "U.S. Stocks Fall as Nvidia Shares Slide Again - WSJ",
             "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEdLelU4VXpMTmdPeTgxTjBhZkd3NEIyZDg5ZnZCWXdtVnVFd3Fxbm95Z2ZfbkNZRnh2WVppWUhnR0pvZXZsRHdEaWdkaEJ1emVweFpFbG9WUTBPV3B1UktyeVNodWY0SXBtOGNUbXZQWXcyRmNWUnRGR21vYWt0WmxraHFsZ2haSGRCdHZacG1uTkpMTTlNQUpsNEFSRUY4Z2MzaUZn?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.03,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": -13.45,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.25,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 6.38,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.72,
+        "weekAgoPrice": 0.6650000214576721,
+        "percentChange": 8.27,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-13T20:16:12.154008Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 162.91,
+        "weekAgoPrice": 186.63999938964844,
+        "percentChange": -12.71,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Deepwater\u2019s Gene Munster: Nvidia stock will likely outperform rest of AI trade in the next year - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPckFLWEYxVFZZUzlKb1dERkNzZHVVblpRUW5kN29DZXRnT21VUWZUYmE0WDI0LXZNYVJUMmZJYzZMeV9PbDk2bXp3XzkxdWczSU5zRjE1Z3RleWhpQktUdXplWnNVd3BvUHZsN0UtbGdxMlI4YjN1alBIa3BXelF2Nk45X0lyZlJQQk41Wk5aVHVtSG0xaEZwZlAzcE5CN2hDTUlQOTJUVGpFcVhyWTBMbVpHYXdaNk1DVXpxZm1wRkFhOEhuVEJBMVNXMzA1VnVHeC0w?oc=5"
+          },
+          {
+            "title": "Wall Street Is Writing Off Nvidia Stock. Here's Why That's a Mistake. - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcmRpZTdtOHZKeW9QTERCbGQ1VjNHcW9Qdm9lVnFTZWE3Wk1oQzJ4VHdjYWFYNEpCX0c1VFhoWjh0UGFfeGkzTG9PTE1xTWZGXzZ5SHNLclA4NHFqejdjbmdxZlBGWFNHRzI3VzBhVV9HRE5CaEVLS3BBbjR1b2RzaHZDUEU3ZWF3d3ZZVnZ0WmJ0RTBYSF8tSXczYw?oc=5"
+          },
+          {
+            "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVdxZVJOWE9WMFlTd3k2OVQ4RDVvUUI4NFk2TjJOMkNJc3Y4TGphb1JfY3lCTnRxQW1lRHdBd2NwelVrUVFYYV9xVks4dFdWOThnWnpBR0tXSWRZQWsyeWk3WndnaThDY3FIY292T2pCeFpVS1BKa2tyWmpFdUN6N0xkYk4tVkxtVWY4Vm5QSURmbnA2Unc5TmFKT3daQ0VySmhoSHhIZUpPS1Z3N1dUYVpUd1lFWnZTUVg3cTBLZzc0clXSAcgBQVVfeXFMTk1objdHMmRGSV9ibWdjTk40N2FvTDJ0YXZyMXdTaFdKU0lIYnRZUEFNVjdKUnN0Y2plU1REZGVFSHVKR2J0aW5Gdmp4bFJHS2g5cXpEUmt1c1UydzNkZ1JlLTJ3WVpYbkxpVVl4QlQxd0lRVnMyd2t1OWlybC1UY19kMnF3TFJ6eUotMTExM29yeGkwRjN0UzdKRUItV3k5dFBITkpfUFhxdjZmWE43R25IM3hmRFVQbTRSeFpubjBWOTRPQ3ZvSTc?oc=5"
           }
         ]
       },
