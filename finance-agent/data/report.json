@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:16:16.762723Z",
+  "generatedAt": "2026-11-13T04:16:25.997112Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,56 +19,56 @@
       "flagged": true,
       "news": [
         {
-          "title": "What Does Nvidia (NVDA) CEO Resignation Mean For Its AI Leadership? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzhldlk5Z2dEaVZIYTRYV29WcTc1Q2xsYUJGcGQ0Z3lSRVl2cFNrNFM3RmRuRUhkSml3RGtCeEtFYUxXNFVwOWs3cy1obmhFYkYzRnh1emg3ci1TMldWdlluczNlLVhkMDdwVU8wamVLQmxCWUthRGx1UDVqc2VrZlY1aE5qNDYzRWJtZEVQbk9iNUhCWkFQbm82cVY?oc=5"
+          "title": "Why Did NVDA, ALT, PLUG Stocks Plunge To 52-Week Lows Today? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS1IzWUt4WVAzSkhqV1ZVcFQ5N2l2OTRmNzVIOFg1NEF2Y3NRRTVrSkxoNmwzTktXMnM3U1c1cXcyWGlwNGRHcnZLYkg1ekE2LXV1aGY5aHBMY1B5S0tucm92YVEtUkU3OElpQ28tUGgxaVRCb2MwU05IaHlrdEk5LVVJRXZidGJzeVN1THZ0QQ?oc=5"
         },
         {
-          "title": "U.S. stock futures rise after Nvidia CEO exit spooks Wall St - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakdzLTNVTjhwd1J2aGphRzJBMTRQU21iMlVLRGNmNE5aUHdxZWk2dUNkN0o3bGU0VC1SWkEtYnkzUEhkY0VmN2lGTUEzaW41V3AwVEdXaHdqa1lUT0w4bzZrTXRvYlVkYUZUUGJyTGhrVDY3WlJmeWRONVNMUVA4Wk5qVGo3WDNYUnl2RTNLSUhHTElPa2Jv?oc=5"
+          "title": "NVDA Stock Heads for Worst Week In Over A Year As Jensen Huang\u2019s CEO Saga Ends: Are Retail Traders Still Buying The Dip? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT01iZUhhUlJVTG1XbTlKanJKckM3TjljeDJyZlhVXzZRN0NxNmtmME1qYlUtWmQ3ZlFfVFlHaGd4NFdHOTBBdjB4ODhMV0YxZmdDcm1CbFpfc3UtNU82bmNNeUNaOENIZUthU25TdFF5ZGNOT25zOHhfdXUwX1Y0XzBucGNxNnhHSW5ocGdDelYtRFJEaVZJ?oc=5"
         },
         {
-          "title": "Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGJwaGlFaHdoRlkyak8zUFBjSmhrVVJxQnIzOGt0N0tsNThnUlM2NGYySmJxVFp5Tnh1ZDdJckhPQTI3ZC1nSDhYeGFjamdhUWN4ZC1KREI3bEt6dloyMVEzS1VEaDQ2OE03ZklZbXJYMTVuUGxLSFV2YkZ6cTh1Uw?oc=5"
+          "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.52,
+      "currentPrice": 4.56,
       "weekAgoPrice": 4.960000038146973,
-      "percentChange": -8.87,
+      "percentChange": -8.06,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.5,
+      "currentPrice": 7.51,
       "weekAgoPrice": 7.739999771118164,
-      "percentChange": -3.1,
+      "percentChange": -2.97,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.24,
+      "currentPrice": 1.23,
       "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -1.59,
+      "percentChange": -2.38,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.45,
+      "currentPrice": 1.44,
       "weekAgoPrice": 1.5399999618530273,
-      "percentChange": -5.84,
+      "percentChange": -6.49,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.47,
+      "currentPrice": 1.45,
       "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -0.0,
+      "percentChange": -1.36,
       "flagged": false,
       "news": []
     },
@@ -87,17 +87,17 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.255,
+      "currentPrice": 0.25,
       "weekAgoPrice": 0.25,
-      "percentChange": 2.0,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.34,
+      "currentPrice": 1.32,
       "weekAgoPrice": 1.2300000190734863,
-      "percentChange": 8.94,
+      "percentChange": 7.32,
       "flagged": true,
       "news": [
         {
