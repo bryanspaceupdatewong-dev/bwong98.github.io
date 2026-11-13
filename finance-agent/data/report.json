@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T06:16:18.151640Z",
+  "generatedAt": "2026-11-13T07:15:51.396101Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -23,28 +23,28 @@
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DR2p3RENoZjJmOGRjTWRtaHZvSmtBVDRVUTRoMGFNNDB6Y1k4Y1J0T2xvTFF2ZENxZndVZVllTTZwc0dtNnRadFBGQVg2TmdUbkVUeXJ3Y0o2SmlBb1VLdXpkWndDMWdRZk9rSjhvaVphTENR0gF6QVVfeXFMUDJHWXl4WTl2eHVOV05LM0d1U1p3WHl5WjNsYkNjSDFpenJxODdDUm5hbU5YamhIQkF4RFVSVWluQ1FySERjQnA0X2o5Zms4Qzk4eF83akdEVEZKa094bjVzLVRsQ2U1SE5ZZmt0ODZmeGFyblptMWJsbkE?oc=5"
         },
         {
-          "title": "Despite NVDA Rout, Investors Have Poured In $37.5B In US Stock ETFs In 5 Days \u2013 Here\u2019s Where The Money Went - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVngxYkdOcTdodlNJRnFIclFGMERlRFdYVlZHQkhuOUZVZmlaVDEtUzRJSTV4U0JGazdaOVJWeUFkS2l3cVdlTnJDVFNzZHlNdlNjSDBFVTI4TGtzNUt2bnlGVU1fS3NOSS1HWU5wYmRDc1cxVHFWaUhkbGFhQ01HTEY0R2EzbXV1MUFMbDdFTnBBeGhyM1pjQkZhejRNRDZs?oc=5"
+          "title": "Cathie Wood Sees Nvidia\u2019s CAGR Slowing To 25% From 50% Over The Next Five Years: \u2018You\u2019ve Got Powerful Forces Like Elon Musk\u2019 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNlAyVU5na0Nqa0wyLXVwdldNT21hTlZxTDZ6bjJwSlA5OFNna3NCY093R1hjeG40UUltaXd0eHFDQmZnUUN6a3dmNFdlVEdYS0dpdUt6NWtPZEtreWEwRjJkMThjRkpSMjluMHVKTldKbm85MFZDRUdPWi00alYyOUhkNFBQWFZLdkxONDhPWUR1RnV0TGJ0YQ?oc=5"
         },
         {
-          "title": "CEO Resignation Might Change The Case For Investing In Nvidia (NVDA) - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZVQydmRUQVRzYW16VnVfenRwd05yR0NnVW5EajFNR2JieUZCSi0zWmdoc2NmQWM4MjJ0d0EySTN0a0dZSTh1cTU2ekJ3UlR4V19KSkh5XzhzdDNPR29JcWtNM05lcFNiTUxHTTdSNEVhSk0yNGlTYS16ZmRzWklUWFJ1RUU1MUVaR2syaEptNVhuWjlJX29VOXh3UnZSSG8?oc=5"
+          "title": "Despite NVDA Rout, Investors Have Poured In $37.5B In US Stock ETFs In 5 Days \u2013 Here\u2019s Where The Money Went - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVngxYkdOcTdodlNJRnFIclFGMERlRFdYVlZHQkhuOUZVZmlaVDEtUzRJSTV4U0JGazdaOVJWeUFkS2l3cVdlTnJDVFNzZHlNdlNjSDBFVTI4TGtzNUt2bnlGVU1fS3NOSS1HWU5wYmRDc1cxVHFWaUhkbGFhQ01HTEY0R2EzbXV1MUFMbDdFTnBBeGhyM1pjQkZhejRNRDZs?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.53,
+      "currentPrice": 4.54,
       "weekAgoPrice": 4.960000038146973,
-      "percentChange": -8.67,
+      "percentChange": -8.47,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.51,
+      "currentPrice": 7.55,
       "weekAgoPrice": 7.739999771118164,
-      "percentChange": -2.97,
+      "percentChange": -2.45,
       "flagged": false,
       "news": []
     },
@@ -71,17 +71,17 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.45,
+      "currentPrice": 1.46,
       "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -1.36,
+      "percentChange": -0.68,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.04,
+      "currentPrice": 1.05,
       "weekAgoPrice": 1.2000000476837158,
-      "percentChange": -13.33,
+      "percentChange": -12.5,
       "flagged": true,
       "news": [
         {
@@ -92,17 +92,17 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.25,
+      "currentPrice": 0.255,
       "weekAgoPrice": 0.25,
-      "percentChange": 0.0,
+      "percentChange": 2.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.32,
+      "currentPrice": 1.31,
       "weekAgoPrice": 1.2300000190734863,
-      "percentChange": 7.32,
+      "percentChange": 6.5,
       "flagged": true,
       "news": [
         {
