@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-13T17:16:16.091350Z",
+  "generatedAt": "2026-11-13T18:15:55.560371Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 523.38,
+      "currentPrice": 524.83,
       "weekAgoPrice": 530.6099853515625,
-      "percentChange": -1.36,
+      "percentChange": -1.09,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 160.1,
+      "currentPrice": 160.935,
       "weekAgoPrice": 186.63999938964844,
-      "percentChange": -14.22,
+      "percentChange": -13.77,
       "flagged": true,
       "news": [
         {
-          "title": "Stock market today: Nasdaq leads Dow, S&P 500 lower as chip stock sell-off accelerates - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHNBdWVhWllRY0IzSV9JUGtmWVdfQk5EaGVSVVNNXzVtUWtITW1xRUhYRDA3SVdSbWFaWjExbkI0VXA1ZjVuWXNWWkI2M3hUTVpxeUxvekxyZmhLOGdBMFZXdktzTWdvT0tOdnVIenp6UFQtdWt5bkJtNWlMSGpGdDZ2WEZmbTlidlQ2QVhSREdGdXNDb0F0ZzNJUGNSejZwSXE4Y2NCdHRHQWxKNkZrTWNQbUtVYXFGU3k4Tw?oc=5"
+          "title": "Nvidia Stock Falls. It Faces One Big Threat in Life After Jensen. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUpieHEtVm55SjR2ak9lSXFic1VjZk9XVG1XUklXQS1TVTNFb2k5ejV2cVp2MnBPZUpYLWZfNWJoUnhEOEpmSkhsNnNwMjYzVmxTWFhEMnVQaVNNbG5ObkhjTnd1MS1tT2c1WldfNHRUcm1RSjhDRW41UmVUZTdoeVQwZjBwZw?oc=5"
         },
         {
-          "title": "Chip stocks slide as Nvidia rebound fades (NVDA:NASDAQ) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYms1WmQwR1NZWERFQzRHODVwcUlKVGFsT052c0h3eUVwTzdJR2NoSHAtYk5LX2hGZWdOVGdrX3FjdVVkMU9WY29tWmxkb08tczZNUmppa2ZCWFdnNEZyNks3cTdKcm9vRGZDVEROMUk0eFllV2I3X0JTcnhibldNZjVVSGZMZw?oc=5"
+          "title": "Here\u2019s How Much Traders Expect Nvidia Stock to Move After Earnings Next Week - Investopedia",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQVhIYXNZbFpjNVdYNUQ1VUdubkR5WmNvRlIxZGg0X1V2dWpiS1JBMXRxU1ZlRzVkaVNfZXZMV1Uza2o1SlFlRGdWMkt0dU9ia3VxNmNXb2RzM0NocHhReHlQVTJPbFBHYXpEc0NLcGRJQ2JjSjFEei1XRHdkc1ZfZ2dsQkxIZ2VFMG1WTnZvZGZ6Xzh3SnNOUmdOdjJSRUtqRWlYNEdOU1UtNUlqLXc?oc=5"
         },
         {
-          "title": "What to Watch in Nvidia Earnings: Leadership, China, Data Center Concerns Take Center Stage - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDhxQUxlWkU3SVVSNUZiZ0x2ZWo1WmZtRklVbWpZYThjVHBRZ28zS05kbGtNS2lzSHJsdXRRc09JcXU1clpOcWZ4VE9IT3BwMWIyNS1OS29vcEgyaVlfVnBjVUdudnJtOUdSZFFMWUFnTVpMTlc4UENmLWZwSTM2bnhoalpGME45ZGNqTFFUX2ExcXJ2WXlJMTVPVDY2d3JNZ3lucGRudVR3Y1pZLVhXeDROZEpDcEFxYnJtZ051Tk8?oc=5"
+          "title": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU1MbkhnZll4OHpIdGV2VlI1ZVFhWGhKX1F1bnZvWVRGWnVkYnBfcmRIaG1PRzcyN1pTUFJzY2VWVzRMN2VqNjQ1Tkwyb3E5bGpQN1NOcTFnTVFQVmdPRjdZX2h3LTh2d2F1Y1F6SW5JWTVPWmRwXzBsVlpIbGNEWTBZLUhaRnFIWTVIY1gxSVc0T2J0blE?oc=5"
         }
       ]
     },
@@ -86,20 +86,7 @@
       "weekAgoPrice": 0.23499999940395355,
       "percentChange": 6.38,
       "flagged": true,
-      "news": [
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-        },
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
-        },
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) Stock Forum & Discussion - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LWHR0S05yZW1NSUViZjNhZ2tWVWdWUzVxTVNRbG5MeVh3Qi0zVVhNT3d1c2hCb0RhaEIzWmtDd2Fidm1BS0FHb3YwSm1HNXRzM2ZyVW15V2k1QUo5dnRHbTJJQQ?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5352.KL",

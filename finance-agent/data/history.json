@@ -1,100 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-11T19:16:02.969515Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 520.335,
-        "weekAgoPrice": 555.7999877929688,
-        "percentChange": -6.38,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft Fixes Overzealous Outlook Security Issue: Microsoft Stock (NASDAQ:MSFT) Slips - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ09qTUdsLXdVTTlxc3IzcFRBMTBkYWhYVW5oUHk3ZjZqZ0c0OGlWdFRxOHNjWlJPNVk4R0ZGRVlNN1VWbHU0eW5QeUxGOEVJRkt4ckNEUmQySW16ZVRvb3RyRlhPd2Q2c2JDNVB5emJlQVhtQ1pscnBzWDl0WFNjdGhKTlpOSmphUkVmZlRGeXZ6Y1ZuS1ZjTjhGamNfOWhRUTJJRjFvUnlqZjNrc3hYcU9FYw?oc=5"
-          },
-          {
-            "title": "What's Going On With Microsoft Stock Wednesday? - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWd3REhYZ1hQUlJRbjBNa2kwOURNLWU5ZnBIX1ZZdW1pYmp2bHVmLTljVURoNmJXWGswSkxJTy16MnFVd0FUSmFlNkh3TnR5Z005RkpXeXd0Q3RyQ3k2c0dOMlJaSFg3eTZ1cmxvaU9kSzY3SzNtY3NFci1LZ3d2VGZqUkktS19tcW51WmFGR1ZIT0w5aU1QWXo3cm5Tak16THc?oc=5"
-          },
-          {
-            "title": "Microsoft Stocks Decline 2.5% as $1 Billion Anthropic Stake Tests Partner-Rival Balance - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdkdBMHRzUkt3Wk1TSnFPVmp0UERsVjFEMnJCOGVQS3N0TjhuaHZLVHF1VU1LOHJyQ3RmZmczTlppVUdveDNVZnFjOGxVUG5LTWxUZ1BmMVhNMkxncGdLVjY3enRXMF9sRW9ubFI3UER5TTNOc2lzZ0RVR1R5OEhSWk9IMA?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 175.82,
-        "weekAgoPrice": 200.1300048828125,
-        "percentChange": -12.15,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia stock is pricing in 2 major risks as CEO Jensen Huang's affair fallout plays out - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblRWcW9rakVSOGNoV081cEI1U0FiZ19PN0hlNHA1VV9DbXlqUEhjdDRNNEpvNGg4NF83TDlBYUNRSnNpNGo0c3FYM3ZEODFOZXQ5YUpBTHFHRkhqc0hwemlLdVlBN2s5aDlua19kVTRPVFkxLXdWZW51STd1U1ctVmtYbGR5c01GY0EzYldiMmViU3kzR0JRelRwLVNEVWtrOUxrV202emNfcFY2SWozUVplRGdFR2NKWjVSWDhDUWdzdkhreXFJVHhVOU9wTnRvbng4T2FpOThOam9lVVhJLUZybGE?oc=5"
-          },
-          {
-            "title": "Jensen Huang Controversy Overshadows Nvidia's Q3 Financials - NVIDIA (NASDAQ:NVDA) - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUU5OdWVRSXNrVWVvT1dXMDBoTkE2SnhxekhpdnEwUjVGRUkxY1JnbHB3Rll3ZUFjWDQtLXBqMUFsallOUzRscHNDNFB2MFNBQUU5Rl9QQ3lDMWZtaVhVR2JJRjFBUjJGSXpRS0ZHZVBMaUhFNXc5bjRtUUlxYUlyS0F2ZUtnbmcyQjhZcENLVTFwWl9sNnpJSVEzUlFSNHRDOERLM25tM0FBellSUW5JcWV5X3ZXQ1gtOXRnU1JVX2c1WWhRV0h6M0JyTG1iYVk3SGtHejAtTGhGczdxd3pPY0s2SjFVTURGOGM4SVlKRndnYVZnbW5UV21OWUZuZDNmV1NkTEFPZkZYTmM?oc=5"
-          },
-          {
-            "title": "NVIDIA Earnings Could Put Your 401(k) to the Test - NVIDIA (NASDAQ:NVDA) - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGNhcVpETHF4U2lra3JnZmZqd05nUVlOTnhEa0ZGbVRMcW5qWi0zVU9jS2ctc1FFWTlveTh4LVZKR1dKMTJLT0djMHlEWnZKT0ZBMGdYcVdhbjRYbXBqRGRUbG5sWmVaTEFzZWt5bFZyODRWdk5hMXJNSnUwUUt4YU9GN0F1M0NxSlZuYmpUYUtQcmg2eVlv?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.53,
-        "weekAgoPrice": 4.789999961853027,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -6.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 6.38,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-11T20:15:35.429408Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -4142,6 +4047,57 @@
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LWHR0S05yZW1NSUViZjNhZ2tWVWdWUzVxTVNRbG5MeVh3Qi0zVVhNT3d1c2hCb0RhaEIzWmtDd2Fidm1BS0FHb3YwSm1HNXRzM2ZyVW15V2k1QUo5dnRHbTJJQQ?oc=5"
           }
         ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.72,
+        "weekAgoPrice": 0.6650000214576721,
+        "percentChange": 8.27,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-13T18:15:55.560371Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 160.935,
+        "weekAgoPrice": 186.63999938964844,
+        "percentChange": -13.77,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stock Falls. It Faces One Big Threat in Life After Jensen. - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUpieHEtVm55SjR2ak9lSXFic1VjZk9XVG1XUklXQS1TVTNFb2k5ejV2cVp2MnBPZUpYLWZfNWJoUnhEOEpmSkhsNnNwMjYzVmxTWFhEMnVQaVNNbG5ObkhjTnd1MS1tT2c1WldfNHRUcm1RSjhDRW41UmVUZTdoeVQwZjBwZw?oc=5"
+          },
+          {
+            "title": "Here\u2019s How Much Traders Expect Nvidia Stock to Move After Earnings Next Week - Investopedia",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQVhIYXNZbFpjNVdYNUQ1VUdubkR5WmNvRlIxZGg0X1V2dWpiS1JBMXRxU1ZlRzVkaVNfZXZMV1Uza2o1SlFlRGdWMkt0dU9ia3VxNmNXb2RzM0NocHhReHlQVTJPbFBHYXpEc0NLcGRJQ2JjSjFEei1XRHdkc1ZfZ2dsQkxIZ2VFMG1WTnZvZGZ6Xzh3SnNOUmdOdjJSRUtqRWlYNEdOU1UtNUlqLXc?oc=5"
+          },
+          {
+            "title": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5% - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU1MbkhnZll4OHpIdGV2VlI1ZVFhWGhKX1F1bnZvWVRGWnVkYnBfcmRIaG1PRzcyN1pTUFJzY2VWVzRMN2VqNjQ1Tkwyb3E5bGpQN1NOcTFnTVFQVmdPRjdZX2h3LTh2d2F1Y1F6SW5JWTVPWmRwXzBsVlpIbGNEWTBZLUhaRnFIWTVIY1gxSVc0T2J0blE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.03,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": -13.45,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.25,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 6.38,
+        "flagged": true,
+        "news": []
       },
       {
         "ticker": "5341.KL",
