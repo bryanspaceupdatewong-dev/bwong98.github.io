@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T05:15:59.816265Z",
+  "generatedAt": "2026-11-13T06:16:18.151640Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DR2p3RENoZjJmOGRjTWRtaHZvSmtBVDRVUTRoMGFNNDB6Y1k4Y1J0T2xvTFF2ZENxZndVZVllTTZwc0dtNnRadFBGQVg2TmdUbkVUeXJ3Y0o2SmlBb1VLdXpkWndDMWdRZk9rSjhvaVphTENR0gF6QVVfeXFMUDJHWXl4WTl2eHVOV05LM0d1U1p3WHl5WjNsYkNjSDFpenJxODdDUm5hbU5YamhIQkF4RFVSVWluQ1FySERjQnA0X2o5Zms4Qzk4eF83akdEVEZKa094bjVzLVRsQ2U1SE5ZZmt0ODZmeGFyblptMWJsbkE?oc=5"
+        },
+        {
           "title": "Despite NVDA Rout, Investors Have Poured In $37.5B In US Stock ETFs In 5 Days \u2013 Here\u2019s Where The Money Went - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVngxYkdOcTdodlNJRnFIclFGMERlRFdYVlZHQkhuOUZVZmlaVDEtUzRJSTV4U0JGazdaOVJWeUFkS2l3cVdlTnJDVFNzZHlNdlNjSDBFVTI4TGtzNUt2bnlGVU1fS3NOSS1HWU5wYmRDc1cxVHFWaUhkbGFhQ01HTEY0R2EzbXV1MUFMbDdFTnBBeGhyM1pjQkZhejRNRDZs?oc=5"
         },
         {
-          "title": "CoreWeave stuns Wall Street as Nvidia scandal deepens - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFZQejJtTlhuZDF3RXEwZTJwTTRPT01yejhZUXY5c2Q3ZFRJd1BkUzUxTXVJMWg4M1Y4eE5jZHhTMzBHVU5sOXNhSjhrUVI1Z0E1Y3lBbHVxUXUtLWljSXA2Y0dSSFpUbHJJYlNObFhZQkNBWGhibkxMV25wSjRlR0VWNEVpZlc4ZGFTVWtibFhyenFuZFNoWVhYZ0U4SFhf?oc=5"
-        },
-        {
-          "title": "Michael Burry Sees A \u2018Mechanical Bid\u2019 Under NVDA Stock \u2013 Even As He Questions Nvidia\u2019s Succession Plan And Asia Sales - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnhfVE1scE5nTUJyNWhaYXZPMTA3bGlVVy1LY3RWZ0ltczdZNklGUHZicENiTU9PdkdMT0prcldrdUxpZXZCX3ZCbFo2ay1RWmxmNVNIeDBSQUtRczhFYVZzTVRaSDhkV2hiS1FYcGUxd05FWFd4dGNzWWRnNFVPd2VuRmxZaEhKOUppN0REa3l5V2NwZl9CRGFHSVA2bmc?oc=5"
+          "title": "CEO Resignation Might Change The Case For Investing In Nvidia (NVDA) - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZVQydmRUQVRzYW16VnVfenRwd05yR0NnVW5EajFNR2JieUZCSi0zWmdoc2NmQWM4MjJ0d0EySTN0a0dZSTh1cTU2ekJ3UlR4V19KSkh5XzhzdDNPR29JcWtNM05lcFNiTUxHTTdSNEVhSk0yNGlTYS16ZmRzWklUWFJ1RUU1MUVaR2syaEptNVhuWjlJX29VOXh3UnZSSG8?oc=5"
         }
       ]
     },
@@ -62,7 +62,12 @@
       "weekAgoPrice": 1.5399999618530273,
       "percentChange": -6.49,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Genting Berhad (3182.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5271.KL",
