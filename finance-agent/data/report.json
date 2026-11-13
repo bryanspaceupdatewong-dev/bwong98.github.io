@@ -1,55 +1,42 @@
 {
-  "generatedAt": "2026-11-13T02:15:31.284151Z",
+  "generatedAt": "2026-11-13T03:16:16.762723Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 523.0,
-      "weekAgoPrice": 555.7999877929688,
-      "percentChange": -5.9,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Microsoft Pulls Back 8% From Record High as Technicals Warn of Over 10% Further Downside - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHF1ZjRKbk9qa3o2ZDNtclBWZGZPdGZuZHdVckppRTdtQzB4dFhoV1plZnh1X2dtZWZBS0lLeV9fRnBvZkR2bUx1cDdHZnEzYl9SMWp3RzFHQndCaWZBU0lHc0dCUS1sWldTSV9NTzF6djNmLXpLUmp3SlVvckJ4M1RYcDBvTXBDUWhXZkllQmMzcWxYckNKNEhVNHpLNGFjdWt0aURwSFJuUHpUZEFDLXFsZVdxeEgxcVZXdjM3UG1vbUVEUTRV?oc=5"
-        },
-        {
-          "title": "Microsoft (MSFT) marketing chief sells shares at $531 each. - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXpkX29KdEwtdUxSYUJ2OHI2Sk5aT1VrVHd1UlhncHBELU9YQjZCNmJHQ183VWNlS1VzcFJzRUJ2Y2J2ZzJfaGYyNE5fUzRrelpkazdka1lHOFRhaVI1OERUMmZ6RWpoZWUtd1RWZXpSRHBBNkxfN0t3ajJtNWNfVjY2ekEtSWtlMHVTRmRTTW54X1VlcDMwR0w1SmFfdUNSYWh3QlUwLWRDNGVE?oc=5"
-        },
-        {
-          "title": "Azure Grew 48%, Yet Griffin Securities Downgraded Microsoft (MSFT). Here\u2019s the Catch - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTNUbVRXMnF2WU1sMW9vbFRLNFg4VUhFUzNZcTBJUUM3V1ZQT1BfWExkbDF6Z1c5LUdvUUZobko2Ykg1eU5aZUlaS3ZPZFJRdG1fYVpZVU1wYlVNYTNaU25henhkc1I3WHAwMDhZeGtSU3FuUGUtLW94Y2dYSDNLTldXWnRQWHBOUy00Qk9fYVA0Q3ZR?oc=5"
-        }
-      ]
+      "weekAgoPrice": 535.9299926757812,
+      "percentChange": -2.41,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 166.19,
-      "weekAgoPrice": 200.1300048828125,
-      "percentChange": -16.96,
+      "weekAgoPrice": 181.60000610351562,
+      "percentChange": -8.49,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see' - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQLXdpNk1zM3AtTjV1OFB4d0xkbXhnQkhIYUtYVWRxalR2dVJLZ0d6ajJDdS1Nb05ycVZnNnkxbGkzLXF4WVB1NnVlREtiVWdBOE9vbFRERGh2NGxjUGt0T01CbjVrZEUzZjB3UVhacUlZYnBxMURYV2pmQXBMd9IBgwFBVV95cUxQRGpRX1ZWVEtRV19IaDNsX3RYT0pXaFJtOXhSWFRpd0w4NDdpTGpMQ0FvdjBkTXJ3alI3b2Q1NkFjWTYxck91LS1fY1hwdXAybnRMOU13dVNfT2Y3Q2FScVkwbXVnbE9UUUFyY1pQRmVObjVnQWhOZW56SmJwWnBIb1hnbw?oc=5"
+          "title": "What Does Nvidia (NVDA) CEO Resignation Mean For Its AI Leadership? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzhldlk5Z2dEaVZIYTRYV29WcTc1Q2xsYUJGcGQ0Z3lSRVl2cFNrNFM3RmRuRUhkSml3RGtCeEtFYUxXNFVwOWs3cy1obmhFYkYzRnh1emg3ci1TMldWdlluczNlLVhkMDdwVU8wamVLQmxCWUthRGx1UDVqc2VrZlY1aE5qNDYzRWJtZEVQbk9iNUhCWkFQbm82cVY?oc=5"
+        },
+        {
+          "title": "U.S. stock futures rise after Nvidia CEO exit spooks Wall St - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakdzLTNVTjhwd1J2aGphRzJBMTRQU21iMlVLRGNmNE5aUHdxZWk2dUNkN0o3bGU0VC1SWkEtYnkzUEhkY0VmN2lGTUEzaW41V3AwVEdXaHdqa1lUT0w4bzZrTXRvYlVkYUZUUGJyTGhrVDY3WlJmeWRONVNMUVA4Wk5qVGo3WDNYUnl2RTNLSUhHTElPa2Jv?oc=5"
         },
         {
           "title": "Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGJwaGlFaHdoRlkyak8zUFBjSmhrVVJxQnIzOGt0N0tsNThnUlM2NGYySmJxVFp5Tnh1ZDdJckhPQTI3ZC1nSDhYeGFjamdhUWN4ZC1KREI3bEt6dloyMVEzS1VEaDQ2OE03ZklZbXJYMTVuUGxLSFV2YkZ6cTh1Uw?oc=5"
-        },
-        {
-          "title": "Nvidia (NVDA) Stock Gets Fair Value Trim As Analyst Views Turn More Divided - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRElTSFhVQUZmVlR1QXFPRko3NkRfbUMwdWRTdWxpcjBmenpxbnJja0ZEOFVQU19DZURySnM2NDZJc25wMFQtdV9jd21RYVNXT2tNaHl4eU9nSmw1TzhWTF9GdmhwMlFnMloxOC1hZEMwa3VtdG9WY1dRTVdpQXdvQlQ0NjJaakUtd0JzcUZ6OTRLRzNvU0I0?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.53,
+      "currentPrice": 4.52,
       "weekAgoPrice": 4.960000038146973,
-      "percentChange": -8.67,
+      "percentChange": -8.87,
       "flagged": true,
       "news": []
     },
@@ -63,9 +50,9 @@
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.23,
+      "currentPrice": 1.24,
       "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -2.38,
+      "percentChange": -1.59,
       "flagged": false,
       "news": []
     },
@@ -108,29 +95,25 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.32,
+      "currentPrice": 1.34,
       "weekAgoPrice": 1.2300000190734863,
-      "percentChange": 7.32,
+      "percentChange": 8.94,
       "flagged": true,
       "news": [
         {
           "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
-        },
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
         }
       ]
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.715,
+      "currentPrice": 0.725,
       "weekAgoPrice": 0.6549999713897705,
-      "percentChange": 9.16,
+      "percentChange": 10.69,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 7
+  "flaggedCount": 6
 }
