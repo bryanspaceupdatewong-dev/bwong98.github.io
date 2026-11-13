@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T21:16:10.470817Z",
+  "generatedAt": "2026-11-13T22:15:57.117476Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,50 +19,55 @@
       "flagged": true,
       "news": [
         {
-          "title": "'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNElWbE1lOVJadXoxSXhxYy04M3B4ZG9PeWhIaW1lZE9maF91M3N1OXd6eFhSSDJZcVlkMm5oZFdoeDJiaVRqYnJBRVkzczJ0TG1kSjFVT0Y1dG5iV1JMS0NPTW9oeVNlYXZZS0haUThFQVNlcnhJbTlMTjAtZ1pQaFc5WDNhd1VDTFVqY1dDOF9NYlRhTE9xamFUdkpBVVo2MlIyOXJsYVdRYVNDV0RCTDRBS2dKRFc1YkR1Tnczc0VSbGNUX21pRTFsWUpDR0dNMmpLT2V4UmtheUs0WWs2YXRB?oc=5"
+          "title": "Better Chip Stock: Nvidia vs. AMD - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTVvMDVuZjc0aGVFSFZkVVc4UVBCc1RnUHJhVHJBWmVoSVdvUE9jZGd4TjRGdXVVc0s5MHRmQmlETVQ2bVkxS3JLdEdiN3JBWEJKN205bzVZanFGdV9IcV8tSTZRY2RuWjkzQXpOSWFHcG5hdW1GZDVSd3M3a0FEaVpyb2xhRDVmUndld0VqRzZhMFhpZ09N?oc=5"
         },
         {
-          "title": "Jensen Huang was a \u2018China salesman\u2019 for Nvidia. His exit is weighing on Chinese tech stocks. - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZERTMEZjeFI5UFlwSnk2dlo1c0xWQ21MX0V0RnB2c3FLcDZBRjg5VGdvQjlyb0FrQjliMm1rZVVVeFE1VUVRZ2NaVml4cWRjZExIYnl4dkFSaWR4MURSTkNXb0N5b1VzT1J5UDVrZGdwa3VfR1BBY2I3cVlVOENBUF9yQlVEUXVTczlMMzJwMlNxVWpWT3VWZXlmWHl3UjBCVjY5Ui03SlpJekRmckZvUXhDSDV1RjZwWWZ6bUo5Uk9XZnhxbTRQTWozMA?oc=5"
+          "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUjN6ZHpwVTN4R3loaDYzLThpNnhsUmY5NGoxLWJIaG5WSWlSNE5iVi1OS0RxNnpZNUFDLWhXWUY0TDZ3UUlpYThqWFc3SlhRV185N2RGNmFpYjlGWUg5TUVWNzhEUkF6TVdxbGVLN3VGc19xZHM4QjQ4eWkwZUxGaXB6LXBydzloUHpySXpWZ0NVSHh4VWtuSWtidnBJNEZYem96el9VOXVVZmVvWGVQNEJlb1RKdkVqWUNhY2hyT2VuZjZIdWd4TVNhT1VhY0NRWWV0VHVsZjlwS3pGdkxLLUJJS0JtNDJxaFVzNQ?oc=5"
         },
         {
-          "title": "Deepwater\u2019s Gene Munster: Nvidia stock will likely outperform rest of AI trade in the next year - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPckFLWEYxVFZZUzlKb1dERkNzZHVVblpRUW5kN29DZXRnT21VUWZUYmE0WDI0LXZNYVJUMmZJYzZMeV9PbDk2bXp3XzkxdWczSU5zRjE1Z3RleWhpQktUdXplWnNVd3BvUHZsN0UtbGdxMlI4YjN1alBIa3BXelF2Nk45X0lyZlJQQk41Wk5aVHVtSG0xaEZwZlAzcE5CN2hDTUlQOTJUVGpFcVhyWTBMbVpHYXdaNk1DVXpxZm1wRkFhOEhuVEJBMVNXMzA1VnVHeC0w?oc=5"
+          "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYVlEMXlPemQ5eVY1Y2F2Tmc1Ukx3bHBYSlZBQWVpamplYUNRcE5PdEd5a21IcGVRVlVIWW1jdDVfdTVVV0pTeENORTVvc3hpeGg1MTRrZDRTNnI3QktKbEJYZTdCOXQtRFBlb0wta2ZMc1otTElpV252bS1uQnFXX21zVEdsYlBhUUhzQnNpLWpTQTl2eWIyRGxsX0pURDJFaWZPY0dkeGs0ZTM4U2RpWU9uX2RmdGZtVUhnbnNidDBVWFJzRGt6QVhWREw?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.54,
-      "weekAgoPrice": 4.769999980926514,
-      "percentChange": -4.82,
-      "flagged": false,
+      "weekAgoPrice": 4.960000038146973,
+      "percentChange": -8.47,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.73,
-      "weekAgoPrice": 7.730000019073486,
-      "percentChange": -0.0,
+      "weekAgoPrice": 7.739999771118164,
+      "percentChange": -0.13,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.22,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -0.81,
+      "weekAgoPrice": 1.2599999904632568,
+      "percentChange": -3.17,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.45,
-      "weekAgoPrice": 1.5099999904632568,
-      "percentChange": -3.97,
-      "flagged": false,
-      "news": []
+      "weekAgoPrice": 1.5399999618530273,
+      "percentChange": -5.84,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Genting Berhad (3182.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5271.KL",
@@ -75,35 +80,40 @@
     {
       "ticker": "5296.KL",
       "currentPrice": 1.03,
-      "weekAgoPrice": 1.190000057220459,
-      "percentChange": -13.45,
+      "weekAgoPrice": 1.2000000476837158,
+      "percentChange": -14.17,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.25,
-      "weekAgoPrice": 0.23499999940395355,
-      "percentChange": 6.38,
-      "flagged": true,
+      "weekAgoPrice": 0.25,
+      "percentChange": 0.0,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.31,
-      "weekAgoPrice": 1.2899999618530273,
-      "percentChange": 1.55,
-      "flagged": false,
-      "news": []
+      "weekAgoPrice": 1.2300000190734863,
+      "percentChange": 6.5,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.72,
-      "weekAgoPrice": 0.6650000214576721,
-      "percentChange": 8.27,
+      "weekAgoPrice": 0.6549999713897705,
+      "percentChange": 9.92,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 6
 }
