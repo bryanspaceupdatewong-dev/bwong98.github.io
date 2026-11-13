@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-13T20:16:12.154008Z",
+  "generatedAt": "2026-11-13T21:16:10.470817Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 524.55,
+      "currentPrice": 523.88,
       "weekAgoPrice": 530.6099853515625,
-      "percentChange": -1.14,
+      "percentChange": -1.27,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 162.91,
+      "currentPrice": 162.85,
       "weekAgoPrice": 186.63999938964844,
-      "percentChange": -12.71,
+      "percentChange": -12.75,
       "flagged": true,
       "news": [
         {
+          "title": "'Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNElWbE1lOVJadXoxSXhxYy04M3B4ZG9PeWhIaW1lZE9maF91M3N1OXd6eFhSSDJZcVlkMm5oZFdoeDJiaVRqYnJBRVkzczJ0TG1kSjFVT0Y1dG5iV1JMS0NPTW9oeVNlYXZZS0haUThFQVNlcnhJbTlMTjAtZ1pQaFc5WDNhd1VDTFVqY1dDOF9NYlRhTE9xamFUdkpBVVo2MlIyOXJsYVdRYVNDV0RCTDRBS2dKRFc1YkR1Tnczc0VSbGNUX21pRTFsWUpDR0dNMmpLT2V4UmtheUs0WWs2YXRB?oc=5"
+        },
+        {
+          "title": "Jensen Huang was a \u2018China salesman\u2019 for Nvidia. His exit is weighing on Chinese tech stocks. - MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZERTMEZjeFI5UFlwSnk2dlo1c0xWQ21MX0V0RnB2c3FLcDZBRjg5VGdvQjlyb0FrQjliMm1rZVVVeFE1VUVRZ2NaVml4cWRjZExIYnl4dkFSaWR4MURSTkNXb0N5b1VzT1J5UDVrZGdwa3VfR1BBY2I3cVlVOENBUF9yQlVEUXVTczlMMzJwMlNxVWpWT3VWZXlmWHl3UjBCVjY5Ui03SlpJekRmckZvUXhDSDV1RjZwWWZ6bUo5Uk9XZnhxbTRQTWozMA?oc=5"
+        },
+        {
           "title": "Deepwater\u2019s Gene Munster: Nvidia stock will likely outperform rest of AI trade in the next year - CNBC",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPckFLWEYxVFZZUzlKb1dERkNzZHVVblpRUW5kN29DZXRnT21VUWZUYmE0WDI0LXZNYVJUMmZJYzZMeV9PbDk2bXp3XzkxdWczSU5zRjE1Z3RleWhpQktUdXplWnNVd3BvUHZsN0UtbGdxMlI4YjN1alBIa3BXelF2Nk45X0lyZlJQQk41Wk5aVHVtSG0xaEZwZlAzcE5CN2hDTUlQOTJUVGpFcVhyWTBMbVpHYXdaNk1DVXpxZm1wRkFhOEhuVEJBMVNXMzA1VnVHeC0w?oc=5"
-        },
-        {
-          "title": "Wall Street Is Writing Off Nvidia Stock. Here's Why That's a Mistake. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcmRpZTdtOHZKeW9QTERCbGQ1VjNHcW9Qdm9lVnFTZWE3Wk1oQzJ4VHdjYWFYNEpCX0c1VFhoWjh0UGFfeGkzTG9PTE1xTWZGXzZ5SHNLclA4NHFqejdjbmdxZlBGWFNHRzI3VzBhVV9HRE5CaEVLS3BBbjR1b2RzaHZDUEU3ZWF3d3ZZVnZ0WmJ0RTBYSF8tSXczYw?oc=5"
-        },
-        {
-          "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVdxZVJOWE9WMFlTd3k2OVQ4RDVvUUI4NFk2TjJOMkNJc3Y4TGphb1JfY3lCTnRxQW1lRHdBd2NwelVrUVFYYV9xVks4dFdWOThnWnpBR0tXSWRZQWsyeWk3WndnaThDY3FIY292T2pCeFpVS1BKa2tyWmpFdUN6N0xkYk4tVkxtVWY4Vm5QSURmbnA2Unc5TmFKT3daQ0VySmhoSHhIZUpPS1Z3N1dUYVpUd1lFWnZTUVg3cTBLZzc0clXSAcgBQVVfeXFMTk1objdHMmRGSV9ibWdjTk40N2FvTDJ0YXZyMXdTaFdKU0lIYnRZUEFNVjdKUnN0Y2plU1REZGVFSHVKR2J0aW5Gdmp4bFJHS2g5cXpEUmt1c1UydzNkZ1JlLTJ3WVpYbkxpVVl4QlQxd0lRVnMyd2t1OWlybC1UY19kMnF3TFJ6eUotMTExM29yeGkwRjN0UzdKRUItV3k5dFBITkpfUFhxdjZmWE43R25IM3hmRFVQbTRSeFpubjBWOTRPQ3ZvSTc?oc=5"
         }
       ]
     },
