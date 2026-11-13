@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-13T16:15:41.652230Z",
+  "generatedAt": "2026-11-13T17:16:16.091350Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 522.84,
+      "currentPrice": 523.38,
       "weekAgoPrice": 530.6099853515625,
-      "percentChange": -1.46,
+      "percentChange": -1.36,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 158.93,
+      "currentPrice": 160.1,
       "weekAgoPrice": 186.63999938964844,
-      "percentChange": -14.85,
+      "percentChange": -14.22,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal broke \u2014 and no trading plan was flagged - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTktc1RQNWQxUnRyQXVkcVRpYUtRSUV6Y2dXX0lpYmduS2Q5NHBLXzc1Q2trUktLdi1RMGs4ekJycno1Q0pSTWpna29rV1p2LWNkVkhDQ2RuNmNHaGxHdkZTSEh2czQtS1RfVnFCb29DNU04a2ZjYnZXQ05nZlI3MThaQVZUTlFEMmliVmJ3R1FycnBtRFV6UndwNA?oc=5"
-        },
-        {
-          "title": "Is Nvidia stock a falling knife or a rare buy-the-dip opportunity? - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXJxZnVTNDdHMmRWWDhxeklzSlFLZGpWQWVubnV6ak5HVDlyRHNzYzVLbUk5UW5wTW5EWmVGNGpXVkFVT041V2Z6Zmx5SmluTWFPVUs3Z0FHMmV0M3dma1lSazljSFVLT1hzZXUtazZVSHBzRUJxWFViblBBUTVGTTlPUkRyc2c?oc=5"
-        },
-        {
-          "title": "Stock market today: S&P 500, Nasdaq turn lower as wholesale inflation rises, Nvidia stock falls - Yahoo Finance",
+          "title": "Stock market today: Nasdaq leads Dow, S&P 500 lower as chip stock sell-off accelerates - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHNBdWVhWllRY0IzSV9JUGtmWVdfQk5EaGVSVVNNXzVtUWtITW1xRUhYRDA3SVdSbWFaWjExbkI0VXA1ZjVuWXNWWkI2M3hUTVpxeUxvekxyZmhLOGdBMFZXdktzTWdvT0tOdnVIenp6UFQtdWt5bkJtNWlMSGpGdDZ2WEZmbTlidlQ2QVhSREdGdXNDb0F0ZzNJUGNSejZwSXE4Y2NCdHRHQWxKNkZrTWNQbUtVYXFGU3k4Tw?oc=5"
+        },
+        {
+          "title": "Chip stocks slide as Nvidia rebound fades (NVDA:NASDAQ) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYms1WmQwR1NZWERFQzRHODVwcUlKVGFsT052c0h3eUVwTzdJR2NoSHAtYk5LX2hGZWdOVGdrX3FjdVVkMU9WY29tWmxkb08tczZNUmppa2ZCWFdnNEZyNks3cTdKcm9vRGZDVEROMUk0eFllV2I3X0JTcnhibldNZjVVSGZMZw?oc=5"
+        },
+        {
+          "title": "What to Watch in Nvidia Earnings: Leadership, China, Data Center Concerns Take Center Stage - Morningstar",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDhxQUxlWkU3SVVSNUZiZ0x2ZWo1WmZtRklVbWpZYThjVHBRZ28zS05kbGtNS2lzSHJsdXRRc09JcXU1clpOcWZ4VE9IT3BwMWIyNS1OS29vcEgyaVlfVnBjVUdudnJtOUdSZFFMWUFnTVpMTlc4UENmLWZwSTM2bnhoalpGME45ZGNqTFFUX2ExcXJ2WXlJMTVPVDY2d3JNZ3lucGRudVR3Y1pZLVhXeDROZEpDcEFxYnJtZ051Tk8?oc=5"
         }
       ]
     },
