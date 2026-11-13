@@ -1,66 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-11T00:16:10.757502Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 168.89,
-        "weekAgoPrice": 206.69000244140625,
-        "percentChange": -18.29,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Cathie Wood buys $15.3 million of tumbling semiconductor stock - TheStreet",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkJFTXgtalNXQk1lYzhYbEg2bGV2aDdqLVZMUkpxeTlhV1ZPd3djRkQ0TmNjZmZKcTl1YzJZcFNsZXJ5V2RzNWlzUUczTUM5TzROQnFjV09UZ3M4RjVsSnNRb2ZOeDB4MWlQazVzYVJsMS1JZkxGUHpCMncycm5IRzlEbl8xWUN0bXNzR2J2R0lKRU5DenBaTFF5SFNPX2hPMWFNWUZpd0FyVXp3bDBITHpJWjlTb0U?oc=5"
-          },
-          {
-            "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wRWhMQVVPSndyZG1Hb1FDM0M4UEpxREhfZGlYb3BTcWh6UDZXc0tXUTVhU2xzeWR4b2VYT29vTXJGa0RxRzdrOV9KMmUzN1dMb0FtWXJYcUNVdjRJaVlRT0M2NXpnWkVaNWlNR0pUYUxsWURHaDBLTldn?oc=5"
-          },
-          {
-            "title": "Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWldvSFZJVkE2dnE0Ym1nMUlmMTdJSTZnZGJvUXlWck1jcl9JdHR1bFBUaDIyRV8xRmtKSXFraEZkM2RMUWh0bzRMYThSSWpaR0l6cUphT3J0MG5KWDFVVEJWUk9sT1ptcEJWZWdwZV9zQTByU2xSU3RHM2NoXzRrOHV2SnRaOHVIX0MyaU80VUJpcW5q?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.12,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -5.08,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.255,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 8.51,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-11T01:20:12.200127Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -4268,6 +4207,59 @@
           {
             "title": "Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWlBYUmlLWEp0czJpdmtRRHVQQVRPQkhKUVVvdTY2OVB5SzlMb0ExX0tzTVZhQVdiNDZqel9OMDNINWNqME5Ia3JBdVJuVk9fQWo4NzlJXzdXUHFKTlhmUVlKNC15N3FpZnVjdjVXLUdienpqMDJ3OG9QQlhwcFE0VmE1SDRuaERpa0Uzb2RxclJCczN0ZTNEaHpDOUdVZHRKVmRaaWhkdTJ3NE5sdmxFcDcwSHA3UXNzRmg4Wl9vRzc1S0hJT3VnS1lFc01SUGlTMUY5aE1GOExYS0xsemFrX3hqbklCUDQ2UEpISkVBc25BQQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.53,
+        "weekAgoPrice": 4.769999980926514,
+        "percentChange": -5.03,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.05,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": -11.76,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-13T00:16:10.967999Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 166.19,
+        "weekAgoPrice": 181.60000610351562,
+        "percentChange": -8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUjN6ZHpwVTN4R3loaDYzLThpNnhsUmY5NGoxLWJIaG5WSWlSNE5iVi1OS0RxNnpZNUFDLWhXWUY0TDZ3UUlpYThqWFc3SlhRV185N2RGNmFpYjlGWUg5TUVWNzhEUkF6TVdxbGVLN3VGc19xZHM4QjQ4eWkwZUxGaXB6LXBydzloUHpySXpWZ0NVSHh4VWtuSWtidnBJNEZYem96el9VOXVVZmVvWGVQNEJlb1RKdkVqWUNhY2hyT2VuZjZIdWd4TVNhT1VhY0NRWWV0VHVsZjlwS3pGdkxLLUJJS0JtNDJxaFVzNQ?oc=5"
+          },
+          {
+            "title": "Baird Cut Its Nvidia (NVDA) Target From $500 to $200. Here\u2019s What It Wants Next - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXZ3N1h4MFE2Wm5BazlxS1pLUjctYmhLUFB2ZG04MlRXQlVZaThWN1ozTVllSmJCMTFzV2NBMHFmSDdHVDZuWjZWYV9OV3M0eHF0R1BSOHJybmNlamI3QjVYTFRVOFpFcDJyMjdCRC1NeFRtUkcyMy1oc3JfTTY3RkNSaU1rWU1mVnBmUlMzUnVucVpVZzhtUQ?oc=5"
+          },
+          {
+            "title": "NVDA Stock Alert: Why Baird Just Slashed Its Nvidia Price Target from $500 to $200 - Barchart.com",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVXNwX1BMQ2xudnlVbE5GQmJoZ1JZZnlpZncydE5BZXo0Y2tmOHlRdV9ybm9EbjlTcVAxSEhkYkprNlVLNW91OG5HQjFtLUJaVEFscXlqOVFZRGRQcklCTmQyQWZ4amlsQlFVeEdobXNYelUzWGNyZTRmWXU4dmFtSXB0bzliZFMzQzdLNmlIRFE0ZUdRakgwUjNFd2VHMVUzLTBaNVpjUTVFX013OGpiSjRqLV81VlpIMmo2Q3dveWw?oc=5"
           }
         ]
       },
