@@ -1,100 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-11T17:16:07.921852Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 520.83,
-        "weekAgoPrice": 555.7999877929688,
-        "percentChange": -6.29,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft Stocks Decline 2.5% as $1 Billion Anthropic Stake Tests Partner-Rival Balance - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdkdBMHRzUkt3Wk1TSnFPVmp0UERsVjFEMnJCOGVQS3N0TjhuaHZLVHF1VU1LOHJyQ3RmZmczTlppVUdveDNVZnFjOGxVUG5LTWxUZ1BmMVhNMkxncGdLVjY3enRXMF9sRW9ubFI3UER5TTNOc2lzZ0RVR1R5OEhSWk9IMA?oc=5"
-          },
-          {
-            "title": "MSFT Nov 2026 535.000 call (MSFT261111C00535000) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CbjZITjMtYUlLdU95YW40QjRkYzAtSFFiNlVhRjhpU2V1Vkh5UUxDbjVmczdHUXNKU2xLSXg1a0ZhWXdsaWx2Q2VMUXBDWXZ6cDJfQ0l1X294Z3lvNWtneVJZN0REZw?oc=5"
-          },
-          {
-            "title": "3 Artificial Intelligence (AI) Stocks to Buy on the Post-Election Dip and Hold for 5 Years - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMS1USFFDMERINlZPdkxUUm5VVTBueHhHT0dsUm5IbW9UY0JibkR2bHQxZm05bzNhdHBuOEFtTHVQTGg0U0dGU05OQXpKVURXYXdweE1vYlZ3V3ZadmJqbVpkbFBtaWUwZnBwU0dLMG1lOEJpQjhEcDkxNHE4b1RRaFJiRXFieXp1ZjBaQ2pLSkN1SE5vNTRBaF9qdENYcXhQbXVUNFNJRThSYTVoWER1REh1NmVYWm5XdE5NMkExS0kwUk5LNldjT09waWdwTGVDWkdja0NmaXRYSWtoUXpWYUdVQUc0S0d5bFljdGlNT1EtX0trNmRYRFFBdnJaV052SEl3?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 176.44,
-        "weekAgoPrice": 200.1300048828125,
-        "percentChange": -11.84,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia gets a rare stock downgrade from Wall Street on Jensen Huang pressures - Business Insider",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSUVZRjM0RGdJbW5aYS14Zmp0UUNQS1BmS3RIc21RcU92VS1ob1VtMTZMeS1GQ1VDZ0FyeEZEQ3hBcDVWQ2NTdmhRak1aR2dJV2NFWHNlSERNaHZDUXowU2ZQSHVUTmVvMjJQNXA4czV1Vm10T0drTGFudnRvY1pIb01NQTFLVV95bEN2UlVjdlViNUY0di1jUHVONUdLZkl0?oc=5"
-          },
-          {
-            "title": "NVIDIA (NVDA) Stock Dropped, So What Is Driving Attention Now? - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaVBaOWRrdXZuVG93U2l2VVBrTGwxeWhNQS1nVWliT2p3ZjJ5SDA3YmxKT2hRVS0tc2g2bWdHTXNkSFR4eFdpR3NoaGNfeER3b0NJYm01MXNpdFl0U1Rtc0VUOGgtT0pGd1E5MUE3N3djcWRhZWhBSkswV1p5WVB4bmZfNFdvMkVReUE?oc=5"
-          },
-          {
-            "title": "Prediction: After Losing Over $1.7 Trillion in Market Cap This Year, Nvidia Stock Will Rebound in Epic Fashion. Here's Why. - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNZzNFcmYxZDJ5dU1wX2FoLUR1ZWQ1bnpIczh5V2dYeTNIeC1PWkxIN0FKWW5uNXA3RWZZX2JYb0dNUi1hM2lrWFpfUHdoMEd0Qlo4OG9vYzA0RGFreDNwc3NJZGE1YTRPSUVFV3BhTTVUMFU2U2FCczVkZ3h3VVBENDVsYm1DSXFIUzhBaHR2NUlYcFFfYldtckRzT3gycWNfUUJKWXBpTWJuUkoxeXhoWEhkM1hJRHV2enpELVRsRWtkNGFDZ1NzWE5NWm9PbXJNYkU0aWRiUTlQR0JNUFhxNGF1b0RYd1ZsaXV4SlNBSHNGRVlxSk4zRU9TOTI4amNra0FKWm1BeVljN1hCUm5CdEdJVDA1RWhtZGR2ZVd0SktKbWlKRnRQeEVSbXhIdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.53,
-        "weekAgoPrice": 4.789999961853027,
-        "percentChange": -5.43,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -6.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 6.38,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-11T18:16:32.170954Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -4210,6 +4115,70 @@
         "currentPrice": 0.72,
         "weekAgoPrice": 0.6549999713897705,
         "percentChange": 9.92,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-13T16:15:41.652230Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 158.93,
+        "weekAgoPrice": 186.63999938964844,
+        "percentChange": -14.85,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal broke \u2014 and no trading plan was flagged - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTktc1RQNWQxUnRyQXVkcVRpYUtRSUV6Y2dXX0lpYmduS2Q5NHBLXzc1Q2trUktLdi1RMGs4ekJycno1Q0pSTWpna29rV1p2LWNkVkhDQ2RuNmNHaGxHdkZTSEh2czQtS1RfVnFCb29DNU04a2ZjYnZXQ05nZlI3MThaQVZUTlFEMmliVmJ3R1FycnBtRFV6UndwNA?oc=5"
+          },
+          {
+            "title": "Is Nvidia stock a falling knife or a rare buy-the-dip opportunity? - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXJxZnVTNDdHMmRWWDhxeklzSlFLZGpWQWVubnV6ak5HVDlyRHNzYzVLbUk5UW5wTW5EWmVGNGpXVkFVT041V2Z6Zmx5SmluTWFPVUs3Z0FHMmV0M3dma1lSazljSFVLT1hzZXUtazZVSHBzRUJxWFViblBBUTVGTTlPUkRyc2c?oc=5"
+          },
+          {
+            "title": "Stock market today: S&P 500, Nasdaq turn lower as wholesale inflation rises, Nvidia stock falls - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHNBdWVhWllRY0IzSV9JUGtmWVdfQk5EaGVSVVNNXzVtUWtITW1xRUhYRDA3SVdSbWFaWjExbkI0VXA1ZjVuWXNWWkI2M3hUTVpxeUxvekxyZmhLOGdBMFZXdktzTWdvT0tOdnVIenp6UFQtdWt5bkJtNWlMSGpGdDZ2WEZmbTlidlQ2QVhSREdGdXNDb0F0ZzNJUGNSejZwSXE4Y2NCdHRHQWxKNkZrTWNQbUtVYXFGU3k4Tw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.03,
+        "weekAgoPrice": 1.190000057220459,
+        "percentChange": -13.45,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.25,
+        "weekAgoPrice": 0.23499999940395355,
+        "percentChange": 6.38,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
+          },
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Stock Forum & Discussion - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LWHR0S05yZW1NSUViZjNhZ2tWVWdWUzVxTVNRbG5MeVh3Qi0zVVhNT3d1c2hCb0RhaEIzWmtDd2Fidm1BS0FHb3YwSm1HNXRzM2ZyVW15V2k1QUo5dnRHbTJJQQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.72,
+        "weekAgoPrice": 0.6650000214576721,
+        "percentChange": 8.27,
         "flagged": true,
         "news": []
       }
