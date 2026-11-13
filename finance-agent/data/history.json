@@ -1,96 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-11T11:15:46.775556Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 168.89,
-        "weekAgoPrice": 206.69000244140625,
-        "percentChange": -18.29,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia shares rebound 4% as Huang faces scrutiny ahead of earnings - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalRRWWRUS0VHb2Q4Y0dhNFdWY1BzTWlqWG8yOXBwZVJtRlFOck5iZlMzcmJlTHZnRkNaZ0hNUXBrTkptb0xqU3RBSUo5V09ERzlxb095YmRmRHNZaFVYVVhUY0ZxN1E4Q0twdFhLTzA0N0lDTnpXUGl3Szc2eHVUcw?oc=5"
-          },
-          {
-            "title": "NVDY: Harvesting Income From NVDA's -30% Drawdown (NYSEARCA:NVDY) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUmg1NzRoSlZrejhQQ1BHSmRwMFZxeGxINF9HaUFxWEJlVEZHRUMzY2tudTZEWDF3NlFQd3RjNHBhXzgtVVhjbktvQXpsZjZOa3oyd1lJajBrXzFleUpiRFpXc1FydU5FSmpzd053TVZNbmxfMzUwamVWa2xPTUg1ZTE0WU5TcXlRaVU2YS1CeU8tb1B1bWg2OWJYNExEQVN5emc?oc=5"
-          },
-          {
-            "title": "Is Your S&P 500 Fund A Bet On 7 CEOs? - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYzBBMHlWUUhjM1NOTThINWZEZUp2WEVHYmZSMjZWMEZIZ1haYjcwYlhRWUNHclZzTjdTeXZQenBXOVVkVkVlU3A3ZF9EaDMycEVPTXVnYmVOVlRmZTlFN3JlMHA1N0daWnhtRUVxaktkX24wc2NHUmtna2NkWFQ4V2VLd3VRUE1aVnlIbExSSUFodGhyazVIZ1JxTlcxdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.53,
-        "weekAgoPrice": 4.809999942779541,
-        "percentChange": -5.82,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.1,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -6.78,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23000000417232513,
-        "percentChange": 8.7,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) interactive stock chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40TzF3UXlRVnJ5dXBiVTl4NHJLZ3BvZ01zWHNuVXk1Qi1nbXZLdGtJak5lelJtYnpkb3pWV1pKeUVzQWNQdWN6YjhvRU1hWnNReWpJRE1abmJtczViWWc?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.34,
-        "weekAgoPrice": 1.2699999809265137,
-        "percentChange": 5.51,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-          },
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-11T12:16:27.786112Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -4270,6 +4179,83 @@
           {
             "title": "Nvidia's stock may look cheaper now, but many unknowns remain: CIO - CNBC",
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXJhVTBxeEVJZk8tSTFoY3pleWhyRThkcUJXMVZuSHd4MUlQT2pxT1lGMVkwckZNejRRSHdSanNyaHRDTFIxTElEemJYamJrZmgwWm5zNkVoXzNYQXE4TmNMazZzRUUzdkZFbkdVa2tzRmt0RHh2UFVWQW5WSmVscEdXNnVIQS1OUmotbnBSdTJjTUlIWUZ2SVgyY1h6N04zc1VROEgzbXlodw?oc=5"
+          },
+          {
+            "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DR2p3RENoZjJmOGRjTWRtaHZvSmtBVDRVUTRoMGFNNDB6Y1k4Y1J0T2xvTFF2ZENxZndVZVllTTZwc0dtNnRadFBGQVg2TmdUbkVUeXJ3Y0o2SmlBb1VLdXpkWndDMWdRZk9rSjhvaVphTENR0gF6QVVfeXFMUDJHWXl4WTl2eHVOV05LM0d1U1p3WHl5WjNsYkNjSDFpenJxODdDUm5hbU5YamhIQkF4RFVSVWluQ1FySERjQnA0X2o5Zms4Qzk4eF83akdEVEZKa094bjVzLVRsQ2U1SE5ZZmt0ODZmeGFyblptMWJsbkE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.54,
+        "weekAgoPrice": 4.960000038146973,
+        "percentChange": -8.47,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.45,
+        "weekAgoPrice": 1.5399999618530273,
+        "percentChange": -5.84,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Genting Berhad (3182.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.03,
+        "weekAgoPrice": 1.2000000476837158,
+        "percentChange": -14.17,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.31,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": 6.5,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.72,
+        "weekAgoPrice": 0.6549999713897705,
+        "percentChange": 9.92,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-13T10:26:33.467029Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 166.19,
+        "weekAgoPrice": 181.60000610351562,
+        "percentChange": -8.49,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Has Been the Market\u2019s Golden Goose. Now It\u2019s in Crisis - Morningstar",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFA1eG9SbnUwSXBySHFhRnpaZWNiSTAzdFVNUTZySHQzNXlNdjI4ek1wYjdwR2hORUVPalZwanVGc0dSVS1VcU5LSUtneG9vWVNfalBjMF9CZFAwSUNqZHduQXRxMGx1UmNFUzJ3SEpsa0VrVnJxQWdCcWNTam5HUnFBeGRvQ0xILWF3Xzl5NzdUQzZtamNNNmVpUQ?oc=5"
+          },
+          {
+            "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang\u2019s departure - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHRJRmZaWDY1TDNwelllbWd6OUZiV1NzaEllNG9aekhVYVVGWWhOREZuczlHQzJEZXFoeUotM2wwOW5ZTEJTOWlkb2JqSV82U2hmU01GeVhzYVlmZDZVYVFMZFo4UTNBenhOa0N4ejd0bkczZ0Nsa0I5YThHbk9iVGFkWlHSAYoBQVVfeXFMTlpCeWpuYTJhM2NHaUxJc2dkRlVSQUZ4TWxuUjh1QU1NOFE0WjJ2QUVlc0E1VWhjLUZZeGJGdEw1emRmWHM1aUNXSDdjWGRXMUhGLXJXMEpqaWlZSjUzTmY3b3lVTWhSTENiV0M0WjNZeGJTREpab09JczdLejZRTzh3SGNZWGxGVUZB?oc=5"
           },
           {
             "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion - CNBC",
