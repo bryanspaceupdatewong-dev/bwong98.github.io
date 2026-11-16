@@ -21,7 +21,7 @@
       "previousQuarterLabel": "2026-07-31",
       "previousQuarterEpsActual": "2.22",
       "previousQuarterEpsEstimate": "2.09",
-      "reminderSent": false
+      "reminderSent": true
     },
     {
       "ticker": "1295.KL",
