@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T09:16:28.471720Z",
+  "generatedAt": "2026-11-16T10:16:10.058463Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "NVIDIA Earnings Ahead: What Past Reactions Say About The Stock - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMjNKOHZXcjlvMTJvXzhyRGxBRzE0eUtoTFVDWGFOT0tReFBUU2dSbm1aM2lqajdkRDlOQlFmR1MyWkJRU09sZU1IS3hDY01FakY0ZFVvcUdzem5mZllxYkVUb1pXWjlRakE0M3ZBcGdTcnFaOHZPWGI0cTJlVFBVX1FBRGs0bXVId1VMbEVLZmVCTklSMWZDM0ZLTTdKSm5URXhkaVRHMTNENWV6d3VvSDFRMDNYR1EzUkNFOFlIRQ?oc=5"
+          "title": "Nvidia Stock Doesn\u2019t Need a Jensen Huang Comeback to Thrive - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcVZqLW05Y1FaS0xnVEM2T3EwUGlwZ21LSHJUQVdYWnMwcVczbDFYWE91MlQtcHNhdWhlbVdVUnE5a1JqeUE4aEpOSUtlTEdBMnJnMFl0UVdXOUNodGJCNDRSbzlLbXpZVXljR3QwVGdYWTVDNldJRHRPUXRqZFV6RWxHZlV2RWFsZGc?oc=5"
         },
         {
-          "title": "November 2026 Cash Flow Stocks Like NVIDIA Stock - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQWtFQ0x4dDJXVDFFR1VsQ0twLW11NnlwTFlWdFNxN1dpTUhNQl85Zm85bFAzd0NqODJZN29sMmQ1UEJkQTRTYXotTnFRSVotUWQ1RUNNU1dQNWtxQWhRekpTcGFDRHRhSDYwWkdDS2k0SHZnWDhfNjN5TVRaaVFCNFBtNmlXUQ?oc=5"
+          "title": "The Market\u2019s Resilience Faces Its Toughest Week Yet, and It Starts With Nvidia - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzk1eHVGb0pEa2JnSmNqbFdNMldGekNHVkRJUkF6YXJXcDlqaFZvcTRfcm1LbmJFXzNoNDFPNjk4dC1ZYmhLT0thTUlQajFlVS1vWjlDWlczX0x5VTVyWGJFWHNmeUxRRHdTV2tULWREWUZndU9JZmExamVPYUJnMXFR?oc=5"
         },
         {
-          "title": "Jensen Huang's return would boost Nvidia stock: Analyst - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YVmNCcHJNeHNXTHlTWHdISWx1YXYxMXRwTFV6UzF6RWV3eHZ4dEZmRnBWQjAtMVNWMThXbzJQeDVTeFlJU1ZMS2taYURVZUlyYVRfRUJ2b05mVHZwS0staTBneXgteE1XLThxd0x5VUJqUDFUNEE?oc=5"
+          "title": "Nvidia stock falls again as investors price in fallout from Jensen Huang's resignation - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53UFpfSlRJTklnVTZHbEJWQ29ic1VqUDRmRWYwT1RIc1YydzJjZFJEWkxMQTZBUU9VSmxvYURtUzRSa2hnVE5qSEJTOV9kTmxMbzlvS3ZEcUx3b0MtMmJYUV9YLWYzNUVpZUNGaHJZd24tdjlTNFRv0gF8QVVfeXFMTzVxV0pSc1dzazBhVTgzZldNM0dCaXdSeGk4d3JnVUp0TG05R2RHZUJkSmVub1E1SUF4dkM2ZTlQMG1ORXpLSlU5clZZb1RmMjYwd29WaVNVQkExS3FDVmp5amMxQUZGa3RFaTlMX3pSMGxUZzRhampCT1V2LQ?oc=5"
         }
       ]
     },
@@ -38,12 +38,7 @@
       "weekAgoPrice": 4.900000095367432,
       "percentChange": -7.14,
       "flagged": true,
-      "news": [
-        {
-          "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "1066.KL",
