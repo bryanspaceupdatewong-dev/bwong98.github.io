@@ -1,79 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-12T11:15:52.493185Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 521.125,
-        "weekAgoPrice": 555.7999877929688,
-        "percentChange": -6.24,
-        "flagged": true,
-        "news": [
-          {
-            "title": "CoreWeave stock rises 24.7% after raising 2026 revenue forecast - qz.com",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uWlU0N05nX3RDMHNlbTR3TF8xWnNRU0dBTXppZENjU2NaR3dVZEs2ZXFCczFBZ0J2QXRtb2RkaUhhR05oeXlxSlp6eVdqSFdkM0JrSlNBOFlqSDZndUNKUXphWC1ycHNjcTUzSHo3eG1ZLWFjaEktaUlaUWtQRmc?oc=5"
-          },
-          {
-            "title": "ETFs Are Buying Microsoft (MSFT) on Nov. 10 - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWWxCVUhHQ1NaNThLRkJZVmZJR2RVXzJfNVdTMWNOZTMtd3NjQ2NpLUt4MERvSVV6bXZIZ3YzUXpIZ3Bfdjk2WTRsZXc2dkpiRDJTYk9OMThONTNWMk1CdzlkR0J6RmM0Uk95WC03RExtcENTTWVwQWFxRU14Qy1NM1NXV2htU3RMcTFUdzdYZjl4WkJEOC14bDVrdw?oc=5"
-          },
-          {
-            "title": "Stock Market Today: CoreWeave (CRWV) Reignites the AI Trade, Then Nvidia\u2019s (NVDA) Boardroom Takes Over the Story - ChartMill",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWJGMWFGU2twZmtQdXRnUVNoSjFwbW5HRUhtNWJrSmp1VGRtLUQ0bW5NRzFiUkNkVXdBR212VTlTSEJQNEVCOUdFRHVIT3ZkSFJ6ZHZGRDJrN2ZaQUZWWFAtM0lialBrbVhINE1EU2k3Q1FPOU1OcGs4bmZvOG9rNXZhLThpSkdXWVNxYzh1VXBNa1RfbEx6XzRYejlGaUNhZkVqX1VRV05DU2l0RXVrQmRGcXpRU29XQnNKam9kX0NMa1ZRZ1NFMGV5OA?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 173.73,
-        "weekAgoPrice": 200.1300048828125,
-        "percentChange": -13.19,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia live updates: Stock tanks after new affair allegations, board reportedly preparing to oust Jensen Huang - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORXJGN3VRS0JCdkxWaTMzYWhuVjh1b2Q4QWtsZDJWSFozTVdONzZJWnVvdGE0NWZJQTFyamExSGlUNXZTUDJ6ZWZ5WlVPa0huVGJPMUZXNUc5bzZyX0F6VjAtQzdmNnZMN3czOF9uWTU1SzZJMnJtdDBRMXZROXdCOVhmQjU4OTd4bEFIbDBDeHRFT0Zoc29kY2Z6Nnhnd0NyanBYcXBuX1VvdDdTT2FZaGdHbmZ2VDZaU18yUEtRZjBJdkxzeXJReFhaeVlPbWE1eFJTRDFUS0hCSjJVM2lQTHczUFRiUHp3VmJB?oc=5"
-          },
-          {
-            "title": "Nasdaq futures fall as Nvidia turmoil rattles AI stocks - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWJOVUNfczJuRFhCMUJkNHMtMWplYV8zdDN3ZXdNaVotam9MOTZHY3lFWVpLbzc5Qm9uOFpaaXF2bmVBNjVseEdYQmV2aUJCaEJVT3JNaTJneTB4TVpRUFVlcGZReTFST0YtYXZHOGdFNXFYZEVDR3dwTXNPUmdZX0d4X2ppTE9DTGpDNWFNU3hHVGdwbjFQYlB0OHUweF9s?oc=5"
-          },
-          {
-            "title": "Nvidia Stock At $174: Could It Repeat Microsoft\u2019s Lost Decade? - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmYyY20zWVQzbk92eUduRW5iNTlYdlFOSjJoTWxCRUdKamFLWHZCN0pMZE5HdnJGMWxUREhPdllRcmZodmRPNDJhV3AyVXVWZldVUEZNTlViMU1XZDVXTkFBYW9EaUpFVFY2MnBaa0ZjRE5QNDc2SDV0QVJVUTgtR1hfWDNzM29KTVNRazN1Y3RhWjN3azk0ZWUyQUp6LWJWajV1VlhfbHE1UDBHaElqdm0wTGFXXzhmcEV5Mg?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.53,
-        "weekAgoPrice": 4.769999980926514,
-        "percentChange": -5.03,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.05,
-        "weekAgoPrice": 1.190000057220459,
-        "percentChange": -11.76,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-12T12:16:02.232483Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3639,6 +3565,75 @@
         "currentPrice": 1.05,
         "weekAgoPrice": 1.1699999570846558,
         "percentChange": -10.26,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.33,
+        "weekAgoPrice": 1.2200000286102295,
+        "percentChange": 9.02,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.715,
+        "weekAgoPrice": 0.6499999761581421,
+        "percentChange": 10.0,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-16T07:16:27.585398Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 162.85,
+        "weekAgoPrice": 186.63999938964844,
+        "percentChange": -12.75,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Michael Burry Holds NVDA Puts Into Earnings, But Sees A Retail-Fueled Rally \u2014 Even As Musk Questions Jensen\u2019s Handshake Deals - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR2N5TVV3SFd1bkFzTm9OLXRwSk53UThFckMwWDM0andUajhSVVRUN2kwRXU2cV85akgtRGdxRGRuS1dJR0NxdnY5VWxxQV9LNEJTc1BRd3ZqZVc1cTZ4Yk5HVzIzbFFhdnphNGowOFBZZ3lpX1o2MFBXVmV3V1owMDJER3FKVmZqMExOaGxJOHQ2d1JBZ1lvbFlB?oc=5"
+          },
+          {
+            "title": "Stocks extend losses as traders await Nvidia earnings and Anthropic IPO - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFdiYXVZMURsYVZfd2JIMENSaDJvWW9SMkN0cklBemV6czFJN3pQNzJuNVZPOGZPcnViNndpX2E2WU5OTkhPbjNYVkRFcFg3VHd4WmVBYkc2aTZNZEs0X2t5dWtkalN4WjNWSmxsdVRiZUg2T3g5WXdMUWZPNV9UMjNCQ1QxUlY5ZmdZ?oc=5"
+          },
+          {
+            "title": "U.S. plans to name Nvidia among AI \u2018national champions\u2019, WSJ reports - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUlyVXF4VGRYZk5aS2ItdkUxcFFTZVc0WUxLMTRBQkozNDBoS1J2VUtZbjdkX0FLRnpqUWdjV1VhMEpiLTFfR01WdjE2dHFQOWFJcDhwSU54U2lzNXhUeDc3NWZ1S1JWU2JWbmtHWG4teUkzWGhadFdJY1FiajlBSlBQa0R2SUk2RnRHTFBzN3FQcVE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.57,
+        "weekAgoPrice": 4.900000095367432,
+        "percentChange": -6.73,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.04,
+        "weekAgoPrice": 1.1699999570846558,
+        "percentChange": -11.11,
         "flagged": true,
         "news": []
       },
