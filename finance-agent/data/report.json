@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T03:16:25.360002Z",
+  "generatedAt": "2026-11-16T04:16:13.461371Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,32 +19,32 @@
       "flagged": true,
       "news": [
         {
-          "title": "NVDA Stock Dips Again After Worst Week In 19 Months: Why Michael Burry Sees \u2018Mild Manipulation\u2019 In AI Chipmaker\u2019s China Sales? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUpiZUVERkM4STZrc285dWFDVkUyYkdna3dyNzFvS3hlZHZsNkVON1ZqY1pfeURDZ2tEa3J6RU9rU2pNdTc4RE9sU2RIZFp2YnpnRnMxYU54Zm1tZVdpRDQwQlhHYTA0NHdFNkhjWE02YVZsM2RpZHo2b0pWTDRmVTlEQTRvUE1BMFJuVkVNZ2NhS3hZMVIw?oc=5"
+          "title": "Nvidia Edges Higher As Jensen Huang Reportedly Mulls Return - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObnZlZ3R2VmlSM0oyellyM1Mydkp2MWo0VkE0Njk4NFJkOU9HTlNvY2h4eXpUZ1h5LTBCLUFTOGV6eWMyQ3U1RVJia2dFbXY3cXZUOVNmakhJdHlGT1l6VkFZWG83OUF3RHN4YlBDb3BEMklJdURMRDFBX0ZRZTlNaDA0dDUxWGhUbjVacHlvdUtjaWhOdUE?oc=5"
         },
         {
-          "title": "Nvidia Stock Is Down About a Third From Its October Peak. Here's My Estimate for 2030. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk1yWk1TLXhuY09nZ0VzWnFMc1BUYnBFd1hQaTNXTFdWOVh3cG9aTzNUS05vNnJPMmVXZkhSOEcxcDFGeGtTODE0dlhGSEE0TDAyRnZoYXpnWlNtZjhyRUxPVTRRUHVSQkROV2xjZmdVcjk2cUwwY1ctS1dOendWRDRidTdnd1ZnNDdMNFZQODByV3lhWjQ4emJSd3NXUFlGeTNnOHRSVi1uYXRwb09IdVBhWDQ1X09VN1k4TEFoOVU5Tmt2NlE?oc=5"
+          "title": "Nvidia (NVDA) Is Under Multiple US Justice Department Investigations - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX0RBNjNHLXc1REtobHJHUTVnTzZvTGkzWnVzQlk4cWRiNm1HdG9aWW1kRDk1LTZ2NlYwUmtsdERzcjdUdHdkY0lob3dTeXc1cEY3aF84MW82R1RYVzRKX2lEVHAtcnNDcVU2RXRic3kxQ2J5dm1VV01IS0IzMWZ4ZThKdDFRc1pCOUFLZmlZUE5lS0UzUzJfWg?oc=5"
         },
         {
-          "title": "U.S. stock futures little changed as investors await Nvidia earnings - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXJyVkc2TDFaclFWbGJJZFpwQlRrenNkazZLZ01QanNxcWF6QlJ6dDNLT1lMODh6aXh4TnFXTlpka0U5a2xKY3lLQVlxT2RObHN6UlpaNlFQQ2xyZVh2dUNvdk9iZ2huTFl2a0M1MEU4cWVxOVlkV3QzTnVxMTlNQWxYc1c3RGRMal9lSXljUGxrOFdhQy1iWVp1bw?oc=5"
+          "title": "Stocks extend losses as traders digest Nvidia fallout - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWlN0Vi1YZkdwazNnZHhDVm90NjlydVcwUDh4OFZiZE8zMS01c1ZFeWg2X1R0LWJpNjBxd19DS2pkaHg4STVOVGpjTHI0WmltQVZ3WWxFY1QtRGNfOEFfX2dPWlF5QXlvb0FRbThRamhlb3hRSEFMSldJUDBubkRxRHZkUnB5b200SUlPag?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.57,
+      "currentPrice": 4.59,
       "weekAgoPrice": 4.900000095367432,
-      "percentChange": -6.73,
+      "percentChange": -6.33,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.61,
+      "currentPrice": 7.59,
       "weekAgoPrice": 7.730000019073486,
-      "percentChange": -1.55,
+      "percentChange": -1.81,
       "flagged": false,
       "news": []
     },
@@ -58,17 +58,17 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.41,
+      "currentPrice": 1.42,
       "weekAgoPrice": 1.4800000190734863,
-      "percentChange": -4.73,
+      "percentChange": -4.05,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.45,
+      "currentPrice": 1.46,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -0.0,
+      "percentChange": 0.69,
       "flagged": false,
       "news": []
     },
@@ -90,9 +90,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.32,
+      "currentPrice": 1.33,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": 8.2,
+      "percentChange": 9.02,
       "flagged": true,
       "news": [
         {
@@ -103,9 +103,9 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.72,
+      "currentPrice": 0.715,
       "weekAgoPrice": 0.6499999761581421,
-      "percentChange": 10.77,
+      "percentChange": 10.0,
       "flagged": true,
       "news": []
     }
