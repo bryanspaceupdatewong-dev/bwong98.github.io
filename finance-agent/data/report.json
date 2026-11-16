@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-16T14:16:20.641415Z",
+  "generatedAt": "2026-11-16T15:15:50.808561Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 523.88,
-      "weekAgoPrice": 530.6099853515625,
-      "percentChange": -1.27,
+      "currentPrice": 518.695,
+      "weekAgoPrice": 545.1799926757812,
+      "percentChange": -4.86,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 162.85,
-      "weekAgoPrice": 186.63999938964844,
-      "percentChange": -12.75,
+      "currentPrice": 160.1,
+      "weekAgoPrice": 178.6699981689453,
+      "percentChange": -10.39,
       "flagged": true,
       "news": [
         {
-          "title": "Stock futures slide as Nvidia leads AI stocks lower: Live updates - CNBC",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq slip ahead of pivotal week for AI - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm1pRzVJd0lQc2F6aUtMUGIzUnVtazZTRFQtUndVeHZCSzhTTkVTSEJJRnIyN0JhVnN0eTVuZkFiVEN5a0xWbk54cjlXejFPTjlkb3JhTDdjQnNNMXFvblF0S3ZNUmtiTmFDdEd2NkdpZmtLSG01eldfYWZDT3lIcldSc2VlZnNQSGRkWmRmYmh3b195WDY1bnNoU25neEFTc3dwX21yTkRGdkRiSW5FMDZrdmpRZTdDZUpHaw?oc=5"
+        },
+        {
+          "title": "Stocks making the biggest moves Monday: L3Harris, Nvidia, Take-Two Interactive, Yeti, American Airlines & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQME9iTDItMnB6RV9JdTQ4a25oVlpKbEJiSGljYndud2Y0ZTRWcXdpbEZrZVE0c09ZdzlYWGN4SU5wZEptSW1CdTFqSG9QakN1eHQ4V1F6TzlHejZ2WTNYaG40b3lBVDltSTBCeUhGS2J3YVZqNVYwclE5WVQyME1YZ0dwYUPSAYoBQVVfeXFMT09rbGlHMzNQa29QNXR4Vk1sZko1RU5pQ21VdkNOZGxZNWc4RzRTYzlYaGRHZTNLbWxuZGhaZVdmbkFYeHU3OGxVTFlzT21QZUxpTnhIVkVic3E3TWw2UzhyWndBaGN2anl6ZE5HS0NveW9YRXZpaktHNEpsT2hhdUdpNXAwYWxLaEx3?oc=5"
+        },
+        {
+          "title": "Stocks slide as Nvidia leads AI names lower: Live updates - CNBC",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mcjluX1NZUEVzZ0dXVXFRX3c3SkZubmJJclpoSlNQVDV2TTloVERqNU54dnBhNG9oVTVObVJzMExPSkQyVEZzNkpmQ09sTWRTaWZwSjc1cEJiZ0k1U1NNZ1pJSVlKQlNidFcwT2NRLVJCbGVLMzln0gF8QVVfeXFMUG1YMkpQVmR5RkUzM0x4dkxzdjZsbV9MUTZWbl92M3BvT1lfWWYwX3RxZjBIMHd1cGdBYndYbkdXVmk4Y2hObFVKVUVlT0xmdTBNR21qd3M1YV80ZFI1eFQtbUpqbG1kQUpqSlVDc3hWbVJRUV8yU2lhcmRpeA?oc=5"
-        },
-        {
-          "title": "If Staying in Nvidia Stock Scares You, You Might Want To Consider This ETF - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2JRdVVWYXBxREtLV2FNMXhSOG1PR1E2T3NUa05Ddk8tM0ZlY2ZMbkUwLWVqeFpSeGQ2N2czbU9sVm1RWW0yUkFPTTg3amxVQnJ4Q3JpazF6Ukh4UVlRQ0Y4SWc5RVp0dzBHd2ZRVFNUbll5MjlnQXpEMGNMWXhPRzZnVHEtSlRCZVVCRVBqOUM4QUJueDlzQ3ZLOTY3bTg?oc=5"
-        },
-        {
-          "title": "NVIDIA (NASDAQ:NVDA) Stock Price Target Cut by Mizuho - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaERZMnYxRm5xOUc1dmc5RXh0X0VudnlTdmstaGdyX0Y4bE1GYVdzUWNVMkR2V1lYY05tSXVDV1MtSXV0WDVGanN1YlFka3ZDMWRrWXVnX0pPb3EtWXRkdEhEamg3Z2RobUlRVEVKQXBQMGYxQkFtVjFMWldwRHVrVG1GUVBIbE5NV3dFTFBuZF9EYWM4REwwbEQwMkh1X0IzanhidDhUcWo1UU1POUdEcjZINA?oc=5"
         }
       ]
     },
