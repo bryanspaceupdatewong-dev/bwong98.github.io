@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:16:04.270735Z",
+  "generatedAt": "2026-11-16T03:16:25.360002Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,55 +19,50 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia stock steady as Jensen Huang reportedly weighs CEO comeback, Musk backs return - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVzVrZl9udUdNTVdUdnNoUG1meHJncG1HUVN6WXlXQ3JkTGNSOE9HQU1pcHJ5RFhEZ01STzQ0ZHFlNUh4YVV6eVNpN3NHNXR0eUpoT2l6bTY2QW5hT05yaXMzaGtZcVBrUWdOa25YeWNkckJ6SW80U3Q1VFhsUUJjUjV1dzNyM0EtUlR5OWh6T1paRnVjeUIzSjVqS0hIaDA1REVkMGMxM3lzMDhYdG1wOFZCLVdxRjRleXNDNTdYc2pQSDVmZVhzZ1ZTUThfWUgwdkRnUzhQOGc?oc=5"
+          "title": "NVDA Stock Dips Again After Worst Week In 19 Months: Why Michael Burry Sees \u2018Mild Manipulation\u2019 In AI Chipmaker\u2019s China Sales? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUpiZUVERkM4STZrc285dWFDVkUyYkdna3dyNzFvS3hlZHZsNkVON1ZqY1pfeURDZ2tEa3J6RU9rU2pNdTc4RE9sU2RIZFp2YnpnRnMxYU54Zm1tZVdpRDQwQlhHYTA0NHdFNkhjWE02YVZsM2RpZHo2b0pWTDRmVTlEQTRvUE1BMFJuVkVNZ2NhS3hZMVIw?oc=5"
         },
         {
-          "title": "Futures Fall In Shaky Market; Jensen Huang Mulls Nvidia Return - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5"
+          "title": "Nvidia Stock Is Down About a Third From Its October Peak. Here's My Estimate for 2030. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdk1yWk1TLXhuY09nZ0VzWnFMc1BUYnBFd1hQaTNXTFdWOVh3cG9aTzNUS05vNnJPMmVXZkhSOEcxcDFGeGtTODE0dlhGSEE0TDAyRnZoYXpnWlNtZjhyRUxPVTRRUHVSQkROV2xjZmdVcjk2cUwwY1ctS1dOendWRDRidTdnd1ZnNDdMNFZQODByV3lhWjQ4emJSd3NXUFlGeTNnOHRSVi1uYXRwb09IdVBhWDQ1X09VN1k4TEFoOVU5Tmt2NlE?oc=5"
         },
         {
-          "title": "Jensen Huang weighs Nvidia comeback: Morgan Stanley sees 67% share price upside - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZEoySjh5SW1yS296b2tMNnN5NU9BMUtOOVdnT2U5UV9jUGR2eHVvTUJfSFlxZGpERnpHVG4zVV9oWi0tcThJdUQxMEIyZWNVRVlKUGhNMXI1blRnT2hNcDFuLUNZRUZ5R0FNcXlnNFpRUTh6VHcxeTN1MHVJT3RRdGxoMXg1M1BKV05hNw?oc=5"
+          "title": "U.S. stock futures little changed as investors await Nvidia earnings - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXJyVkc2TDFaclFWbGJJZFpwQlRrenNkazZLZ01QanNxcWF6QlJ6dDNLT1lMODh6aXh4TnFXTlpka0U5a2xKY3lLQVlxT2RObHN6UlpaNlFQQ2xyZVh2dUNvdk9iZ2huTFl2a0M1MEU4cWVxOVlkV3QzTnVxMTlNQWxYc1c3RGRMal9lSXljUGxrOFdhQy1iWVp1bw?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.52,
+      "currentPrice": 4.57,
       "weekAgoPrice": 4.900000095367432,
-      "percentChange": -7.76,
+      "percentChange": -6.73,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.58,
+      "currentPrice": 7.61,
       "weekAgoPrice": 7.730000019073486,
-      "percentChange": -1.94,
+      "percentChange": -1.55,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.2,
+      "currentPrice": 1.22,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": -1.64,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.4,
+      "currentPrice": 1.41,
       "weekAgoPrice": 1.4800000190734863,
-      "percentChange": -5.41,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Genting Berhad (3182.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
-        }
-      ]
+      "percentChange": -4.73,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5271.KL",
@@ -79,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.02,
+      "currentPrice": 1.04,
       "weekAgoPrice": 1.1699999570846558,
-      "percentChange": -12.82,
+      "percentChange": -11.11,
       "flagged": true,
       "news": []
     },
@@ -95,9 +90,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.31,
+      "currentPrice": 1.32,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": 7.38,
+      "percentChange": 8.2,
       "flagged": true,
       "news": [
         {
@@ -108,12 +103,12 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.71,
+      "currentPrice": 0.72,
       "weekAgoPrice": 0.6499999761581421,
-      "percentChange": 9.23,
+      "percentChange": 10.77,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 6
+  "flaggedCount": 5
 }
