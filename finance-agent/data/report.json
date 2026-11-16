@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T10:16:10.058463Z",
+  "generatedAt": "2026-11-16T11:16:06.680543Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Stock Doesn\u2019t Need a Jensen Huang Comeback to Thrive - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcVZqLW05Y1FaS0xnVEM2T3EwUGlwZ21LSHJUQVdYWnMwcVczbDFYWE91MlQtcHNhdWhlbVdVUnE5a1JqeUE4aEpOSUtlTEdBMnJnMFl0UVdXOUNodGJCNDRSbzlLbXpZVXljR3QwVGdYWTVDNldJRHRPUXRqZFV6RWxHZlV2RWFsZGc?oc=5"
+          "title": "NVDA sold Shares Run First - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUjVMOHVEMUFsdUVTTDBROTQ4Y1VJOGNjOG5kZFJOWml5b2h1MWVEbVRWZFg3V2tPYWxBUTJhSEdVcmVJYU01cU1jai1uZmswV09aSHVoMXFfSF84TEI2bThwOUNRU1dqdGl5OGxxNDVOVXpWNXg0TDN4UGprT0JBWjhlR0RYeE0?oc=5"
         },
         {
-          "title": "The Market\u2019s Resilience Faces Its Toughest Week Yet, and It Starts With Nvidia - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzk1eHVGb0pEa2JnSmNqbFdNMldGekNHVkRJUkF6YXJXcDlqaFZvcTRfcm1LbmJFXzNoNDFPNjk4dC1ZYmhLT0thTUlQajFlVS1vWjlDWlczX0x5VTVyWGJFWHNmeUxRRHdTV2tULWREWUZndU9JZmExamVPYUJnMXFR?oc=5"
+          "title": "Nvidia Just Fell 32% From Its Record. Here\u2019s Warren Buffett\u2019s Rule for a 67-Year-Old With $1.6 Million in Nvidia Stock and $2,900 a Month in Social Security - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTWNKZUtuakx6dHhUdFNDV0I3Q0dZRjlfUjFxUUs0WnhIdWJncVBBc3pkZ0hEOFFSRmd3WGk4UDltSkxPaWRvbkhWMWxWSFpjNDBvSUI5bzFvUXg2T1dzam1ZRV9EVWJXU3F2ekMyeS1GbGI0M1hPY0FUSTZkOUVDb05qOEVIbGdMTS1BSE1JQW5LdFFZanc?oc=5"
         },
         {
-          "title": "Nvidia stock falls again as investors price in fallout from Jensen Huang's resignation - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53UFpfSlRJTklnVTZHbEJWQ29ic1VqUDRmRWYwT1RIc1YydzJjZFJEWkxMQTZBUU9VSmxvYURtUzRSa2hnVE5qSEJTOV9kTmxMbzlvS3ZEcUx3b0MtMmJYUV9YLWYzNUVpZUNGaHJZd24tdjlTNFRv0gF8QVVfeXFMTzVxV0pSc1dzazBhVTgzZldNM0dCaXdSeGk4d3JnVUp0TG05R2RHZUJkSmVub1E1SUF4dkM2ZTlQMG1ORXpLSlU5clZZb1RmMjYwd29WaVNVQkExS3FDVmp5amMxQUZGa3RFaTlMX3pSMGxUZzRhampCT1V2LQ?oc=5"
+          "title": "Don\u2019t Know What to Do With Nvidia Stock After Jensen Huang Stepped Down as CEO? Consider These 5 Warren Buffett Quotes. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYUw1cXRIWlpzMktWREVOVnp4dnB1WEpzWXBhZWJLSktFeWNqaG1MNTdjRFEtQ2R4bk1pWVJlNWdfNFlGWFNqMExweDhqRnlBbVJtZHdNNWhJYklJSF9YTS1idUVsa3ppY1NtSHhPMnZZQVR1WGVJUldXS0hyQUJwYXRnUmoyV3pJTWFjcElWZktTNGE5TTVuajlSNkgtbnhZOGJjVm10cmRZalhKS2tXc1l4NFJ5NjRqOUxCWURfMVJ0VlAxNUZEcV82MzRkQWhPeDNTRFh3bDltM0ZpOW5yT2lJRDV3ZHlVUkc4OTh4WHNwQQ?oc=5"
         }
       ]
     },
@@ -38,7 +38,12 @@
       "weekAgoPrice": 4.900000095367432,
       "percentChange": -7.14,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1066.KL",

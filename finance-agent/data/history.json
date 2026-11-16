@@ -1,83 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-12T14:16:07.834789Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 521.125,
-        "weekAgoPrice": 555.7999877929688,
-        "percentChange": -6.24,
-        "flagged": true,
-        "news": [
-          {
-            "title": "What Do Rising Moving Averages and Neutral Momentum Signal for MSFT (NASDAQ:MSFT) Now? - Kalkine Media",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSEc1ejllMHUyM3puMkhwTnd2c3pxR3pvVkN2czYzZXZIRUZXeS13dDd0Zlp6MWNlZ0piSzk2dmctd1RwTXJTd3ZxOVdQZGhWTFcyeGdSRlUxbW54d1VsRWN4Sk9acVQ1bDNVdEc3YlBNS2NMQnE5akVuLS1MX2w2Nm5IeFd2ZG9EOGZMbHlQTUp2U0xqWmZMUE9SVGNvd2dxaGd5bHA2QW1FYldCM1VuVldIV0MzTUpCaDFnZExNU3JlUW81Und5T1FxTVFMQm81bkE?oc=5"
-          },
-          {
-            "title": "MSFT Stock at $521: Why Microsoft Is Spending $117 Billion and Still Losing Ground to Its Own Partners - Financial-News.co.uk",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLTlYaFBLVVpuU2t2dTQ3YjdLTFlDdGpqZEczSFVla3NTbkNWUkVrZ2lfeFY5R0FWX3kzODVHZEpvT3RNOW9ieVRYMkZOZXNoLUlpRm5rZmZfa3BEZnd4eXBlOFl1NXBnMGdZaFpkalpiMEptaFp6dFlVNTc1X0huZEFRN0ZhUGJFRjFFV3F3VlBZdElzbS0zT2x0TnNVWHFVTXA1eXM3akVZWUtTYW9Ed2Ytd1NuenpfOXo3N25FNU1xdUs0cnhkOEt4dVBhZw?oc=5"
-          },
-          {
-            "title": "Where Will IonQ Stock Be in 5 Years? - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVk0UGE0dnZyOE9udGJSaUl6WG14UXYwdktlSUt2OWlpNFVFazkzQnl5MUhnOU1zZ29jYldqOF9idmVKT0NQU0dub0JlOVVBS085RC1BZWRFb29FV1M4T0ZCclIwdmhfd1BldU5jVlBoZF9XeWVPaEpsMXllOURuTkZUeVBCN1hhdDRsYTR2ZUttWUdpdXJxMUgzMGFacE5ucFN1ZDVxa05lNjRDR2I2WERyN2JHUmNHRXNKNQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 173.73,
-        "weekAgoPrice": 200.1300048828125,
-        "percentChange": -13.19,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Wall St set to open lower after Nvidia CEO steps down - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5"
-          },
-          {
-            "title": "Nvidia CEO Jensen Huang Resigns - WSJ",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5"
-          },
-          {
-            "title": "Nvidia live updates: Jensen Huang resigns, CFO Colette Kress to serve as interim CEO - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVHFEUUxwdVhBcllKSHlTWTVtdEtxaFdEY2ZXb01lZThoVGhkWHh5WEFLbGhPV2k0WWM5Uk1aajlaUzFyeGxzek9KaEVoS2lCU1hMcm03TXdnNjE5Tk5aR2R1dFUzNjQtVE8tVGxhYlhZZWx6TEtSeWpRYTY4bVZONmY3ZkZScHoyRkJnMjlWYnBLdmlNc0p6Rm5CcW85Qm9zRTUwZmVIVnRNcnJkRE9veWoxalk3TFduRlltZ05IaFh0b1hxMjQ4anRGWVlkeUlkWDItT3NR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.53,
-        "weekAgoPrice": 4.769999980926514,
-        "percentChange": -5.03,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) latest stock news and headlines - Yahoo Finance Australia",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nSWdkM3pETUtueXJoRUFTWDE3bGo3Z3U0cUY4bWRuNUlsTVlveE05MHdNNmQzOXZJTU45cXFsT3hpVWZxLVU4LWZNZjE0Qks5aURLVktmVHcyZDJV?oc=5"
-          },
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.05,
-        "weekAgoPrice": 1.190000057220459,
-        "percentChange": -11.76,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-12T15:16:04.903993Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3603,6 +3525,75 @@
         "percentChange": -7.14,
         "flagged": true,
         "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.05,
+        "weekAgoPrice": 1.1699999570846558,
+        "percentChange": -10.26,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.2200000286102295,
+        "percentChange": 11.48,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6499999761581421,
+        "percentChange": 15.38,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-16T11:16:06.680543Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 162.85,
+        "weekAgoPrice": 186.63999938964844,
+        "percentChange": -12.75,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA sold Shares Run First - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUjVMOHVEMUFsdUVTTDBROTQ4Y1VJOGNjOG5kZFJOWml5b2h1MWVEbVRWZFg3V2tPYWxBUTJhSEdVcmVJYU01cU1jai1uZmswV09aSHVoMXFfSF84TEI2bThwOUNRU1dqdGl5OGxxNDVOVXpWNXg0TDN4UGprT0JBWjhlR0RYeE0?oc=5"
+          },
+          {
+            "title": "Nvidia Just Fell 32% From Its Record. Here\u2019s Warren Buffett\u2019s Rule for a 67-Year-Old With $1.6 Million in Nvidia Stock and $2,900 a Month in Social Security - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTWNKZUtuakx6dHhUdFNDV0I3Q0dZRjlfUjFxUUs0WnhIdWJncVBBc3pkZ0hEOFFSRmd3WGk4UDltSkxPaWRvbkhWMWxWSFpjNDBvSUI5bzFvUXg2T1dzam1ZRV9EVWJXU3F2ekMyeS1GbGI0M1hPY0FUSTZkOUVDb05qOEVIbGdMTS1BSE1JQW5LdFFZanc?oc=5"
+          },
+          {
+            "title": "Don\u2019t Know What to Do With Nvidia Stock After Jensen Huang Stepped Down as CEO? Consider These 5 Warren Buffett Quotes. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYUw1cXRIWlpzMktWREVOVnp4dnB1WEpzWXBhZWJLSktFeWNqaG1MNTdjRFEtQ2R4bk1pWVJlNWdfNFlGWFNqMExweDhqRnlBbVJtZHdNNWhJYklJSF9YTS1idUVsa3ppY1NtSHhPMnZZQVR1WGVJUldXS0hyQUJwYXRnUmoyV3pJTWFjcElWZktTNGE5TTVuajlSNkgtbnhZOGJjVm10cmRZalhKS2tXc1l4NFJ5NjRqOUxCWURfMVJ0VlAxNUZEcV82MzRkQWhPeDNTRFh3bDltM0ZpOW5yT2lJRDV3ZHlVUkc4OTh4WHNwQQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.55,
+        "weekAgoPrice": 4.900000095367432,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
       },
       {
         "ticker": "5296.KL",
