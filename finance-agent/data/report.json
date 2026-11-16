@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T05:15:45.272925Z",
+  "generatedAt": "2026-11-16T06:16:05.317480Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Stocks extend losses as traders await Nvidia earnings and Anthropic IPO - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFdiYXVZMURsYVZfd2JIMENSaDJvWW9SMkN0cklBemV6czFJN3pQNzJuNVZPOGZPcnViNndpX2E2WU5OTkhPbjNYVkRFcFg3VHd4WmVBYkc2aTZNZEs0X2t5dWtkalN4WjNWSmxsdVRiZUg2T3g5WXdMUWZPNV9UMjNCQ1QxUlY5ZmdZ?oc=5"
+        },
+        {
           "title": "Nvidia Edges Higher As Jensen Huang Reportedly Mulls Return - Investor's Business Daily",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObnZlZ3R2VmlSM0oyellyM1Mydkp2MWo0VkE0Njk4NFJkOU9HTlNvY2h4eXpUZ1h5LTBCLUFTOGV6eWMyQ3U1RVJia2dFbXY3cXZUOVNmakhJdHlGT1l6VkFZWG83OUF3RHN4YlBDb3BEMklJdURMRDFBX0ZRZTlNaDA0dDUxWGhUbjVacHlvdUtjaWhOdUE?oc=5"
         },
         {
           "title": "Nvidia (NVDA) Is Under Multiple US Justice Department Investigations - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX0RBNjNHLXc1REtobHJHUTVnTzZvTGkzWnVzQlk4cWRiNm1HdG9aWW1kRDk1LTZ2NlYwUmtsdERzcjdUdHdkY0lob3dTeXc1cEY3aF84MW82R1RYVzRKX2lEVHAtcnNDcVU2RXRic3kxQ2J5dm1VV01IS0IzMWZ4ZThKdDFRc1pCOUFLZmlZUE5lS0UzUzJfWg?oc=5"
-        },
-        {
-          "title": "Stocks extend losses as traders digest Nvidia fallout - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWlN0Vi1YZkdwazNnZHhDVm90NjlydVcwUDh4OFZiZE8zMS01c1ZFeWg2X1R0LWJpNjBxd19DS2pkaHg4STVOVGpjTHI0WmltQVZ3WWxFY1QtRGNfOEFfX2dPWlF5QXlvb0FRbThRamhlb3hRSEFMSldJUDBubkRxRHZkUnB5b200SUlPag?oc=5"
         }
       ]
     },
