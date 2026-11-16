@@ -1,96 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-12T19:15:38.267446Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 164.453,
-        "weekAgoPrice": 181.60000610351562,
-        "percentChange": -9.44,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Jensen Huang Is Out at Nvidia. Where Does NVDA Stock Go From Here? - Kiplinger",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSm54cFIzY0lRUW93M3lxbXp3TERlTHd5ZmFwSTRTam94ZFJmTnRlUEFWWGhSYTNLbm5OVFR1MnZIU204ZW5femJoMHo4RkpiVngzR3hoZ3F4UHgyUWdlQmxPaW1idHFQLWFwZ3hjcGZfMG94bFNiVTUxXzJSaDR2aWRacnMyN3NfUUJyVEl6ZTRnUTZqSVFyTmtDM1ZROE0wNlE?oc=5"
-          },
-          {
-            "title": "Breakingviews - COMMENTARY: Nvidia stock discounts China, but not other risks - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTGlvRFZjcC1oT0hVMW5Ja24yMGhVXzkyeVBOb0V6bWZ3a1IyVzZpLVhCVkpHck1mVWQxUm5wbkFpcjRSVHN3aktDSF9KNkFLNlVYTVQ0QlRCbEg3Y0FiWVROaXJ1UmpyeFpXUTZKcUF4Umx0SldENDE0dEgwZ0RXczBiQnpfMUQzLTdhc2dINEppekRDWUlYaFZBSzRZNkJXdnUzaGlfYU8?oc=5"
-          },
-          {
-            "title": "Stocks making the biggest moves Thursday: Nvidia, CoreWeave, Nebius, Yeti & more - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnRjVVEyQTc5NnhZY0wwMEZ2dk9kOHVPVzVOWDBXbVR6bW1WYVVuUUpsRzlPRzJCdTBWa3FoSUo1d3ZaMy1EamVyV3NDQktCN3FTMHRlMjNBalVhaUdXdHpjQ3JhSWJxVndhNVdIVDk5NnNJZmZlVGM5UjlUUjVTeE85ekw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.53,
-        "weekAgoPrice": 4.809999942779541,
-        "percentChange": -5.82,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.05,
-        "weekAgoPrice": 1.1799999475479126,
-        "percentChange": -11.02,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.245,
-        "weekAgoPrice": 0.23000000417232513,
-        "percentChange": 6.52,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) options chain - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb3dVTUZadjJ3dUp5V1ZsWXA2QU9JOGJUUE1jN0RjbG1EMDZMN3IzVnBlWDdJNE55MkpPUHpNbHR4dkVycklHemVfMG5TWExhd3lCUjJQdzJ6eHQ4bFhBbw?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56bHNYZ0ZVT3d6YjB4aHRRLXIyVC1lVmlRcWZvNVJDSlpCclJiRDFUVGlMTnVzNFM2Wk40M3U3NFRGQzd6d0xpUW1PNndYaVZrRjQwOEJR?oc=5"
-          },
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) stock price, news, quote and history - Yahoo Finance Australia",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aTlBCLXBXMVNWYXdQZ3RObUZ2ck1nVEEyX2tmdUtZSjhscnJBdjBCU3ZOcEtkZVFwTUZCRWlVMTFkQmRZakZFY2pTLUhtN0tGVUtTeGtranhSSGtqZHFEVl9Qdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.35,
-        "weekAgoPrice": 1.2699999809265137,
-        "percentChange": 6.3,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
-          },
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-12T20:16:31.175323Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3579,6 +3488,83 @@
         "currentPrice": 0.75,
         "weekAgoPrice": 0.6499999761581421,
         "percentChange": 15.38,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-16T16:16:03.151257Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 158.89,
+        "weekAgoPrice": 178.6699981689453,
+        "percentChange": -11.07,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm1pRzVJd0lQc2F6aUtMUGIzUnVtazZTRFQtUndVeHZCSzhTTkVTSEJJRnIyN0JhVnN0eTVuZkFiVEN5a0xWbk54cjlXejFPTjlkb3JhTDdjQnNNMXFvblF0S3ZNUmtiTmFDdEd2NkdpZmtLSG01eldfYWZDT3lIcldSc2VlZnNQSGRkWmRmYmh3b195WDY1bnNoU25neEFTc3dwX21yTkRGdkRiSW5FMDZrdmpRZTdDZUpHaw?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Might Have a Bigger Problem Than Replacing Jensen Huang. What Happens If It Loses 15% of Its Revenue? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjF0a3BnRmc5S3VoYWlfUHdHdTFaSlduZDJCa3IyeVpZQ1RFc2R2Q0V2NTAzdWZuenZRZ1J1Y2FtWWowdzk4OFlFWUkyZ1V2SnpvYVdSQkpNbjNKRXk1TXVxX3lXdDVsMkZMRDNYNDRLYXEzWjVhMXVhQlZrSUNfNFRONE8xTHE0ZXQ2aG1sYTJaUzdVWS1RMG9KQ0l5OUk?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Might Have a Bigger Problem Than Replacing Jensen Huang. What Happens If It Loses 15% of Its Revenue? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdzFKX3g1bVh3dGJ3a3VwMkF3WGlYVGxkUWRzODhqVmQ1RjVKYkxSMXZhUDJ6VDJiZ1VpSmwzclk5dVhRWms0Z1plZmtVYk5vLWZMQzNEZ3loc0xzQWpIT2Nxb2t3ZlRqUUFoZ2pKLVY4QnM2NnRrZDFZUzhidUVVcDBhUjlUY1c4eF9tX0hwQmtnMUZlRlQ4QXlmZWRrXzl1Z3BnUHVsSHlCVWdLYUJQU0lPaERXbGgzTVgyeEFXa3BONG1Za3NPNXRDTWE4LTFMYjlFLVl6RFY1aTFLcl84cDRISUo1T2g3OGc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.55,
+        "weekAgoPrice": 4.960000038146973,
+        "percentChange": -8.27,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.43,
+        "weekAgoPrice": 1.5399999618530273,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.05,
+        "weekAgoPrice": 1.2000000476837158,
+        "percentChange": -12.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.2300000190734863,
+        "percentChange": 10.57,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6549999713897705,
+        "percentChange": 14.5,
         "flagged": true,
         "news": []
       }

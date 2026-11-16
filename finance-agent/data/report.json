@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-11-16T15:15:50.808561Z",
+  "generatedAt": "2026-11-16T16:16:03.151257Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 518.695,
+      "currentPrice": 523.345,
       "weekAgoPrice": 545.1799926757812,
-      "percentChange": -4.86,
+      "percentChange": -4.01,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 160.1,
+      "currentPrice": 158.89,
       "weekAgoPrice": 178.6699981689453,
-      "percentChange": -10.39,
+      "percentChange": -11.07,
       "flagged": true,
       "news": [
         {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq slip ahead of pivotal week for AI - Yahoo Finance",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm1pRzVJd0lQc2F6aUtMUGIzUnVtazZTRFQtUndVeHZCSzhTTkVTSEJJRnIyN0JhVnN0eTVuZkFiVEN5a0xWbk54cjlXejFPTjlkb3JhTDdjQnNNMXFvblF0S3ZNUmtiTmFDdEd2NkdpZmtLSG01eldfYWZDT3lIcldSc2VlZnNQSGRkWmRmYmh3b195WDY1bnNoU25neEFTc3dwX21yTkRGdkRiSW5FMDZrdmpRZTdDZUpHaw?oc=5"
         },
         {
-          "title": "Stocks making the biggest moves Monday: L3Harris, Nvidia, Take-Two Interactive, Yeti, American Airlines & more - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQME9iTDItMnB6RV9JdTQ4a25oVlpKbEJiSGljYndud2Y0ZTRWcXdpbEZrZVE0c09ZdzlYWGN4SU5wZEptSW1CdTFqSG9QakN1eHQ4V1F6TzlHejZ2WTNYaG40b3lBVDltSTBCeUhGS2J3YVZqNVYwclE5WVQyME1YZ0dwYUPSAYoBQVVfeXFMT09rbGlHMzNQa29QNXR4Vk1sZko1RU5pQ21VdkNOZGxZNWc4RzRTYzlYaGRHZTNLbWxuZGhaZVdmbkFYeHU3OGxVTFlzT21QZUxpTnhIVkVic3E3TWw2UzhyWndBaGN2anl6ZE5HS0NveW9YRXZpaktHNEpsT2hhdUdpNXAwYWxLaEx3?oc=5"
+          "title": "Nvidia Stock Might Have a Bigger Problem Than Replacing Jensen Huang. What Happens If It Loses 15% of Its Revenue? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjF0a3BnRmc5S3VoYWlfUHdHdTFaSlduZDJCa3IyeVpZQ1RFc2R2Q0V2NTAzdWZuenZRZ1J1Y2FtWWowdzk4OFlFWUkyZ1V2SnpvYVdSQkpNbjNKRXk1TXVxX3lXdDVsMkZMRDNYNDRLYXEzWjVhMXVhQlZrSUNfNFRONE8xTHE0ZXQ2aG1sYTJaUzdVWS1RMG9KQ0l5OUk?oc=5"
         },
         {
-          "title": "Stocks slide as Nvidia leads AI names lower: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mcjluX1NZUEVzZ0dXVXFRX3c3SkZubmJJclpoSlNQVDV2TTloVERqNU54dnBhNG9oVTVObVJzMExPSkQyVEZzNkpmQ09sTWRTaWZwSjc1cEJiZ0k1U1NNZ1pJSVlKQlNidFcwT2NRLVJCbGVLMzln0gF8QVVfeXFMUG1YMkpQVmR5RkUzM0x4dkxzdjZsbV9MUTZWbl92M3BvT1lfWWYwX3RxZjBIMHd1cGdBYndYbkdXVmk4Y2hObFVKVUVlT0xmdTBNR21qd3M1YV80ZFI1eFQtbUpqbG1kQUpqSlVDc3hWbVJRUV8yU2lhcmRpeA?oc=5"
+          "title": "Nvidia Stock Might Have a Bigger Problem Than Replacing Jensen Huang. What Happens If It Loses 15% of Its Revenue? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdzFKX3g1bVh3dGJ3a3VwMkF3WGlYVGxkUWRzODhqVmQ1RjVKYkxSMXZhUDJ6VDJiZ1VpSmwzclk5dVhRWms0Z1plZmtVYk5vLWZMQzNEZ3loc0xzQWpIT2Nxb2t3ZlRqUUFoZ2pKLVY4QnM2NnRrZDFZUzhidUVVcDBhUjlUY1c4eF9tX0hwQmtnMUZlRlQ4QXlmZWRrXzl1Z3BnUHVsSHlCVWdLYUJQU0lPaERXbGgzTVgyeEFXa3BONG1Za3NPNXRDTWE4LTFMYjlFLVl6RFY1aTFLcl84cDRISUo1T2g3OGc?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.55,
-      "weekAgoPrice": 4.900000095367432,
-      "percentChange": -7.14,
+      "weekAgoPrice": 4.960000038146973,
+      "percentChange": -8.27,
       "flagged": true,
       "news": [
         {
@@ -48,56 +48,56 @@
     {
       "ticker": "1066.KL",
       "currentPrice": 7.59,
-      "weekAgoPrice": 7.730000019073486,
-      "percentChange": -1.81,
+      "weekAgoPrice": 7.739999771118164,
+      "percentChange": -1.94,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.22,
-      "weekAgoPrice": 1.2200000286102295,
-      "percentChange": -0.0,
+      "weekAgoPrice": 1.2599999904632568,
+      "percentChange": -3.17,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.43,
-      "weekAgoPrice": 1.4800000190734863,
-      "percentChange": -3.38,
-      "flagged": false,
+      "weekAgoPrice": 1.5399999618530273,
+      "percentChange": -7.14,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.43,
-      "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -1.38,
+      "weekAgoPrice": 1.4700000286102295,
+      "percentChange": -2.72,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.05,
-      "weekAgoPrice": 1.1699999570846558,
-      "percentChange": -10.26,
+      "weekAgoPrice": 1.2000000476837158,
+      "percentChange": -12.5,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.25,
-      "weekAgoPrice": 0.23999999463558197,
-      "percentChange": 4.17,
+      "weekAgoPrice": 0.25,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.36,
-      "weekAgoPrice": 1.2200000286102295,
-      "percentChange": 11.48,
+      "weekAgoPrice": 1.2300000190734863,
+      "percentChange": 10.57,
       "flagged": true,
       "news": [
         {
@@ -109,11 +109,11 @@
     {
       "ticker": "5341.KL",
       "currentPrice": 0.75,
-      "weekAgoPrice": 0.6499999761581421,
-      "percentChange": 15.38,
+      "weekAgoPrice": 0.6549999713897705,
+      "percentChange": 14.5,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 6
 }
