@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:17:03.719504Z",
+  "generatedAt": "2026-11-16T22:17:10.203454Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,91 +19,101 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nasdaq falls more than 2%, extending slide to third day as Nvidia drags down AI trade: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mcjluX1NZUEVzZ0dXVXFRX3c3SkZubmJJclpoSlNQVDV2TTloVERqNU54dnBhNG9oVTVObVJzMExPSkQyVEZzNkpmQ09sTWRTaWZwSjc1cEJiZ0k1U1NNZ1pJSVlKQlNidFcwT2NRLVJCbGVLMzln0gF8QVVfeXFMUG1YMkpQVmR5RkUzM0x4dkxzdjZsbV9MUTZWbl92M3BvT1lfWWYwX3RxZjBIMHd1cGdBYndYbkdXVmk4Y2hObFVKVUVlT0xmdTBNR21qd3M1YV80ZFI1eFQtbUpqbG1kQUpqSlVDc3hWbVJRUV8yU2lhcmRpeA?oc=5"
+          "title": "Nvidia live updates: Interim CEO Kress prepares for Q3 earnings, with Huang reportedly planning comeback - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdXFsd2l6azZDWWJyWDItT0hudzBhMUloOWF4V3FMV1ZlTUhsODg4d0RoY1ZuaXNJeExyWFNjallKQ2wzcW13ektmSzdwTjFYeUxrUkp2T3lPTG5raHY4Q0FEcWhnTmxCLXVYd2hwU05UOXdKcXFobjhRZFpXS3VqQmhsS0pGMFhQY1ZzMW9LS3ZvNGU4bTlJVDdXSTRWYkljem1mSUp0ekNsWWREb0R6OGZnYnM1YzBJTWlFTU1vZG1ubjV5Q2lkZTE2M3JrSWRQam0wb20zZ0Jad1Vud2FaX1Q4NjlncDRIbHQ2Mk5tYjM?oc=5"
         },
         {
-          "title": "Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower, Anthropic IPO looms - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm1pRzVJd0lQc2F6aUtMUGIzUnVtazZTRFQtUndVeHZCSzhTTkVTSEJJRnIyN0JhVnN0eTVuZkFiVEN5a0xWbk54cjlXejFPTjlkb3JhTDdjQnNNMXFvblF0S3ZNUmtiTmFDdEd2NkdpZmtLSG01eldfYWZDT3lIcldSc2VlZnNQSGRkWmRmYmh3b195WDY1bnNoU25neEFTc3dwX21yTkRGdkRiSW5FMDZrdmpRZTdDZUpHaw?oc=5"
+          "title": "Nvidia stock valuation looks 'draconian,' even without Jensen Huang: Analyst - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDl4WHFaaUdid1hZWl9vazlpQTJwbmxuR2xyT3RUblBjemlFOHRnR3BGemhCUmI3ZWktSHlib1NqUDl5SnFPVWlFenh6NUFUMUk1YWdyWmxfTmRKbzJDSDFZdUJCU3FTb3UzbVF0NXBJS25QMWxIOHFiSmhLXzR5clZqYmZYZkRHYi1WVXdnYkdwOUNVX2JrS1ZxUWhkaXZJdnJTcTBWMzRPbm42dm1zVEE2NmNhOEcyRUtjTkFFZU1KWWJUZk5WTVhxd1dmYXpSQlE?oc=5"
         },
         {
-          "title": "Trump Heads To The Philippines And China. This is What He Wants. - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHV1Zlh6N2VyWWc1LWNmNU5wTl8xUE1rbHZEbmZvTnZVd3V2UU1OU0xmNFlDc2pyQXZNdXdIQUZZSmlBTGtLcEZmbDExQTlpd0h4cUhXb0JoM3FTZDVmY3B4VmlQd0pXSWo4aWMybDBGUFR4V1ZRQzFwNGdPMnVnYzNuY29zdWlxbFAyTlh4dWpIcWZJeUdtM3pTY2hfZDZNT2N2ekNrYTc?oc=5"
+          "title": "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White House access - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTBVdnBsa3dsRmN0X3c2YjR4REozem9ZUW5UcGx4WEdMTS1qYUhjbjNRU3J5UE81VjhPR0Q4cUV1UFBVSlUzSEtwTW5saFh0QTE3ZkJkZXF1V013cDFMaTNXRThwT2lBdkF0aVdxZXlIRXc4cFR4WXJjOTNMZUJZMtIBhgFBVV95cUxQMGFndkM3RUMtUkFEVDRPZmZmTHZVdXlVbl9GQ1RWY3dsMUhSVzE5SjNGcVJOLUVJb2szbmNudy1oZUVScGhoQklaUzdPV0hpTmZvYktWUFpBLXhVMnV3WG5PVkdIdTFDU1NKQ3o5al9TM1Q5VDE2Ul9GUFVEQWIwWUUzcFlTQQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.55,
-      "weekAgoPrice": 4.960000038146973,
-      "percentChange": -8.27,
+      "weekAgoPrice": 4.900000095367432,
+      "percentChange": -7.14,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.59,
-      "weekAgoPrice": 7.739999771118164,
-      "percentChange": -1.94,
+      "weekAgoPrice": 7.730000019073486,
+      "percentChange": -1.81,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.22,
-      "weekAgoPrice": 1.2599999904632568,
-      "percentChange": -3.17,
+      "weekAgoPrice": 1.2200000286102295,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.43,
-      "weekAgoPrice": 1.5399999618530273,
-      "percentChange": -7.14,
-      "flagged": true,
+      "weekAgoPrice": 1.4800000190734863,
+      "percentChange": -3.38,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.43,
-      "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -2.72,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": -1.38,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.05,
-      "weekAgoPrice": 1.2000000476837158,
-      "percentChange": -12.5,
+      "weekAgoPrice": 1.1699999570846558,
+      "percentChange": -10.26,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.25,
-      "weekAgoPrice": 0.25,
-      "percentChange": 0.0,
+      "weekAgoPrice": 0.23999999463558197,
+      "percentChange": 4.17,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.36,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": 10.57,
+      "weekAgoPrice": 1.2200000286102295,
+      "percentChange": 11.48,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.75,
-      "weekAgoPrice": 0.6549999713897705,
-      "percentChange": 14.5,
+      "weekAgoPrice": 0.6499999761581421,
+      "percentChange": 15.38,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 6
+  "flaggedCount": 5
 }
