@@ -1,58 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-12T15:16:04.903993Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 162.955,
-        "weekAgoPrice": 181.60000610351562,
-        "percentChange": -10.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVkIxWkJDaHpKZmg4emJ3RW9FVWRleFBqSU9fckJzb1JCN3FBY25PblRkTmg4UG53VWRJSERhMHp5eUlqNmphQkh5cXRJcE1oWjVxUUNuVkZIOWpGLWw2YS1JQ0JGV0FYS3JwWHVKcU9CeHFLX3JJelVIZXI3cWRNcWhOZ2Z0TkRZYk0yX281dVlPX2d5b2hnblIxdnRwdjRSZDhYZ3FHMFg0UTJpMXhvdUFYWFZPbmM?oc=5"
-          },
-          {
-            "title": "Nvidia live updates: Jensen Huang resigns, CFO Colette Kress to serve as interim CEO - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVHFEUUxwdVhBcllKSHlTWTVtdEtxaFdEY2ZXb01lZThoVGhkWHh5WEFLbGhPV2k0WWM5Uk1aajlaUzFyeGxzek9KaEVoS2lCU1hMcm03TXdnNjE5Tk5aR2R1dFUzNjQtVE8tVGxhYlhZZWx6TEtSeWpRYTY4bVZONmY3ZkZScHoyRkJnMjlWYnBLdmlNc0p6Rm5CcW85Qm9zRTUwZmVIVnRNcnJkRE9veWoxalk3TFduRlltZ05IaFh0b1hxMjQ4anRGWVlkeUlkWDItT3NR?oc=5"
-          },
-          {
-            "title": "Nvidia: Goodbye Jensen Huang (NASDAQ:NVDA) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vYVB2N0Z5ZUp3Vko4cV9TOUdER2N3THg0dkRWc0d1UnJpWWpNTGI1eW5iMXFwUVFHZW5hZzFLeGFsQjZYOGJmQ1VMMlRMaEJMcGYwNmMzeHM4MXJDN3VvaHNvM1lrN05iUEVfS0NwMUkteWVkY2pr?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.53,
-        "weekAgoPrice": 4.769999980926514,
-        "percentChange": -5.03,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.05,
-        "weekAgoPrice": 1.190000057220459,
-        "percentChange": -11.76,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-12T16:16:09.716766Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3579,6 +3526,75 @@
           {
             "title": "Don\u2019t Know What to Do With Nvidia Stock After Jensen Huang Stepped Down as CEO? Consider These 5 Warren Buffett Quotes. - The Motley Fool",
             "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYUw1cXRIWlpzMktWREVOVnp4dnB1WEpzWXBhZWJLSktFeWNqaG1MNTdjRFEtQ2R4bk1pWVJlNWdfNFlGWFNqMExweDhqRnlBbVJtZHdNNWhJYklJSF9YTS1idUVsa3ppY1NtSHhPMnZZQVR1WGVJUldXS0hyQUJwYXRnUmoyV3pJTWFjcElWZktTNGE5TTVuajlSNkgtbnhZOGJjVm10cmRZalhKS2tXc1l4NFJ5NjRqOUxCWURfMVJ0VlAxNUZEcV82MzRkQWhPeDNTRFh3bDltM0ZpOW5yT2lJRDV3ZHlVUkc4OTh4WHNwQQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.55,
+        "weekAgoPrice": 4.900000095367432,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.05,
+        "weekAgoPrice": 1.1699999570846558,
+        "percentChange": -10.26,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.2200000286102295,
+        "percentChange": 11.48,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6499999761581421,
+        "percentChange": 15.38,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-16T12:16:34.041774Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 162.85,
+        "weekAgoPrice": 186.63999938964844,
+        "percentChange": -12.75,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Prediction Ahead of November 17 Nvidia Earnings - CoinGape",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGMzakc3STlhVUc5UkVmbm9tQnV4dkkxMzgzNWNCSjVmM1BfYTZWLXRPZ2w0R3A5OXREeW5LbTRwbVZjdHFRQWl5QzJVcnRGdGxqYkNMcXJ5MDVCRERBNXN1dXl1eVdyd0M0SGNoOVE0Z29BRlhWbk1aMnhKRjI5bG1Tb1U0YkNSVnQwemdOUU9ZUQ?oc=5"
+          },
+          {
+            "title": "ETFs Are Net Sellers of NVIDIA (NVDA) on Nov. 12 - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUVpDTUFiOUszSlFlSm1tcTliaWdZaDI5QVdoeU80MHdGQkl6bzE1SVVXakJuUFZrWU5LVmpjclpES1FUYzdsemJOYVZjcWYwQ0plZ2E5N2ZSMjUzNTkwU1VzN2RzcGFnNk5GcVJLaXVJQkhSWkFBdHJsM21Xbm5waXRMenMzSWVybTZ4THp5QTBfNURXWE9qQQ?oc=5"
+          },
+          {
+            "title": "Nvidia earnings and Anthropic's IPO put Wall Street's AI boom in a pressure cooker this week - Business Insider",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONGRhZFhxYm9uNXYtV1F6NXJpRzY4ZGpQbWRhLWlkV19jOFcwS0dUSWZ3eEctQlBCRXgwYzdDTnJHaTNyc2JQeFpOQTE1VlBXY3RVQjFsMEhjS1NvWUEzdUxGOXlJYldwaGhLdlFXZmlUZU04YWtrS1FRUDVkYTFTUk5zcXlqNU1WRDdJSTRYZE8zT2pyQXlRbWl5OExHRmRTMkptdXVnNA?oc=5"
           }
         ]
       },
