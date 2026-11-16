@@ -1,79 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-12T12:16:02.232483Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 521.125,
-        "weekAgoPrice": 555.7999877929688,
-        "percentChange": -6.24,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MSFT Stock at $521: Why Microsoft Is Spending $117 Billion and Still Losing Ground to Its Own Partners - Financial-News.co.uk",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLTlYaFBLVVpuU2t2dTQ3YjdLTFlDdGpqZEczSFVla3NTbkNWUkVrZ2lfeFY5R0FWX3kzODVHZEpvT3RNOW9ieVRYMkZOZXNoLUlpRm5rZmZfa3BEZnd4eXBlOFl1NXBnMGdZaFpkalpiMEptaFp6dFlVNTc1X0huZEFRN0ZhUGJFRjFFV3F3VlBZdElzbS0zT2x0TnNVWHFVTXA1eXM3akVZWUtTYW9Ed2Ytd1NuenpfOXo3N25FNU1xdUs0cnhkOEt4dVBhZw?oc=5"
-          },
-          {
-            "title": "Where Will IonQ Stock Be in 5 Years? - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVk0UGE0dnZyOE9udGJSaUl6WG14UXYwdktlSUt2OWlpNFVFazkzQnl5MUhnOU1zZ29jYldqOF9idmVKT0NQU0dub0JlOVVBS085RC1BZWRFb29FV1M4T0ZCclIwdmhfd1BldU5jVlBoZF9XeWVPaEpsMXllOURuTkZUeVBCN1hhdDRsYTR2ZUttWUdpdXJxMUgzMGFacE5ucFN1ZDVxa05lNjRDR2I2WERyN2JHUmNHRXNKNQ?oc=5"
-          },
-          {
-            "title": "Microsoft stock may plunge 31% from $521 to $36... - Pluang",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGpOdjBSWWJfTHMzdVhpQnZ5QTRwaVdocHBqT1ZmRDhvTmtRY0NjT3JUS1YtY09Gd2JTR2xMbTJiLXpMMlRFSTRuLXFHTGQ5SzgzZ2U1Qlc0QkhkSHVPZUhTeW1zZHRBeXl4eFRYcVJtWk12VlZuSkxDX2pNTk01TzhRUjNlSkMtWTczTHVTSFI1NXZVWUVKdEY3U1g3ODVpTEgyY1V3?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 173.73,
-        "weekAgoPrice": 200.1300048828125,
-        "percentChange": -13.19,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang - WSJ",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5"
-          },
-          {
-            "title": "NVDA Stock On Track To Hit Lowest Level In Over A Year: Dan Ives Values Nvidia At $225 Without Jensen Huang - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZmZDSmJZc19mNE9SWlRoRmhoZ2kxWmozU3gzc0djcWtuUE14MGJuZHdfeDF4MTVCbjUtQ3dsd25meDNTSWJnRjRtdXhQa2I4d2NNcmRoVmp1NkJVcDZGNHZLb2JITndxckV5ZXZIWHhoaDh2YlZkVk5hVjV3OTNNeHlYZWpjR05XT1ZvVDI2SXVWSU8wZkZSc1pSWlkzS01QakM5ZjdtUDlvdDR0VE5fUS1JMlc3YjN1QVRrSUxOd3gta2c0UVRZUkphM2JwWDRpMG9JbmlvcHZ3VmxnSDNENy1UOUJGUnJpSUR5ZGltOUV3cWs1V0VfQzR3?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Sinks -- Who Could Replace Jensen Huang - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGhhS0xXMVRYNFFSRXFtR3RWR3k0VXlMVkJqRktlbWJpX3c3QkZ1NzEzVVpuWjc3QzdkeGJNRFhSdmVUX08tMDdIajlmN0FsaUxhWm50cmN6cTU4RDZCRVpkM3RZWEpRX1pLZFZlTTd3b2tEeHpIVTN1UVBYOG1VLV9LZ3FBenpaSXJ5STlyOWdqUW85cnZrY2x1TzdTUQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.53,
-        "weekAgoPrice": 4.769999980926514,
-        "percentChange": -5.03,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.05,
-        "weekAgoPrice": 1.190000057220459,
-        "percentChange": -11.76,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-12T12:17:23.009640Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3655,6 +3581,70 @@
         "currentPrice": 0.715,
         "weekAgoPrice": 0.6499999761581421,
         "percentChange": 10.0,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-16T08:15:53.327382Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 162.85,
+        "weekAgoPrice": 186.63999938964844,
+        "percentChange": -12.75,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Jensen Huang's return would boost Nvidia stock: Analyst - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YVmNCcHJNeHNXTHlTWHdISWx1YXYxMXRwTFV6UzF6RWV3eHZ4dEZmRnBWQjAtMVNWMThXbzJQeDVTeFlJU1ZMS2taYURVZUlyYVRfRUJ2b05mVHZwS0staTBneXgteE1XLThxd0x5VUJqUDFUNEE?oc=5"
+          },
+          {
+            "title": "Losing Jensen Was Bad Enough. Losing NVIDIA\u2019s Bench Would Be Worse - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSnhWR0c3bXZxLXdrNEl6SGtZZzZJcDhCT0EyVnl2VGJ4cmgyZWh1WXVTa0lsQldUV0VzNjgzN25JVzI2WUNfRW9qOTRCQUt5UldueHdzSEJaS1FPdjZlcl93Mi1iaU1LMzlsbDNiR3lheV9BZ1NiWURySjVaQlJDZk9Va2JOWW51XzdpaUtJcWphV21xdUJBMnpjc2I?oc=5"
+          },
+          {
+            "title": "Stocks extend losses as traders await Nvidia earnings and Anthropic IPO - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFdiYXVZMURsYVZfd2JIMENSaDJvWW9SMkN0cklBemV6czFJN3pQNzJuNVZPOGZPcnViNndpX2E2WU5OTkhPbjNYVkRFcFg3VHd4WmVBYkc2aTZNZEs0X2t5dWtkalN4WjNWSmxsdVRiZUg2T3g5WXdMUWZPNV9UMjNCQ1QxUlY5ZmdZ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.56,
+        "weekAgoPrice": 4.900000095367432,
+        "percentChange": -6.94,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.04,
+        "weekAgoPrice": 1.1699999570846558,
+        "percentChange": -11.11,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.33,
+        "weekAgoPrice": 1.2200000286102295,
+        "percentChange": 9.02,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.735,
+        "weekAgoPrice": 0.6499999761581421,
+        "percentChange": 13.08,
         "flagged": true,
         "news": []
       }

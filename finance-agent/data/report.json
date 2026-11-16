@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T07:16:27.585398Z",
+  "generatedAt": "2026-11-16T08:15:53.327382Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,31 +19,26 @@
       "flagged": true,
       "news": [
         {
-          "title": "Michael Burry Holds NVDA Puts Into Earnings, But Sees A Retail-Fueled Rally \u2014 Even As Musk Questions Jensen\u2019s Handshake Deals - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR2N5TVV3SFd1bkFzTm9OLXRwSk53UThFckMwWDM0andUajhSVVRUN2kwRXU2cV85akgtRGdxRGRuS1dJR0NxdnY5VWxxQV9LNEJTc1BRd3ZqZVc1cTZ4Yk5HVzIzbFFhdnphNGowOFBZZ3lpX1o2MFBXVmV3V1owMDJER3FKVmZqMExOaGxJOHQ2d1JBZ1lvbFlB?oc=5"
+          "title": "Jensen Huang's return would boost Nvidia stock: Analyst - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YVmNCcHJNeHNXTHlTWHdISWx1YXYxMXRwTFV6UzF6RWV3eHZ4dEZmRnBWQjAtMVNWMThXbzJQeDVTeFlJU1ZMS2taYURVZUlyYVRfRUJ2b05mVHZwS0staTBneXgteE1XLThxd0x5VUJqUDFUNEE?oc=5"
+        },
+        {
+          "title": "Losing Jensen Was Bad Enough. Losing NVIDIA\u2019s Bench Would Be Worse - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSnhWR0c3bXZxLXdrNEl6SGtZZzZJcDhCT0EyVnl2VGJ4cmgyZWh1WXVTa0lsQldUV0VzNjgzN25JVzI2WUNfRW9qOTRCQUt5UldueHdzSEJaS1FPdjZlcl93Mi1iaU1LMzlsbDNiR3lheV9BZ1NiWURySjVaQlJDZk9Va2JOWW51XzdpaUtJcWphV21xdUJBMnpjc2I?oc=5"
         },
         {
           "title": "Stocks extend losses as traders await Nvidia earnings and Anthropic IPO - Yahoo Finance UK",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFdiYXVZMURsYVZfd2JIMENSaDJvWW9SMkN0cklBemV6czFJN3pQNzJuNVZPOGZPcnViNndpX2E2WU5OTkhPbjNYVkRFcFg3VHd4WmVBYkc2aTZNZEs0X2t5dWtkalN4WjNWSmxsdVRiZUg2T3g5WXdMUWZPNV9UMjNCQ1QxUlY5ZmdZ?oc=5"
-        },
-        {
-          "title": "U.S. plans to name Nvidia among AI \u2018national champions\u2019, WSJ reports - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUlyVXF4VGRYZk5aS2ItdkUxcFFTZVc0WUxLMTRBQkozNDBoS1J2VUtZbjdkX0FLRnpqUWdjV1VhMEpiLTFfR01WdjE2dHFQOWFJcDhwSU54U2lzNXhUeDc3NWZ1S1JWU2JWbmtHWG4teUkzWGhadFdJY1FiajlBSlBQa0R2SUk2RnRHTFBzN3FQcVE?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.57,
+      "currentPrice": 4.56,
       "weekAgoPrice": 4.900000095367432,
-      "percentChange": -6.73,
+      "percentChange": -6.94,
       "flagged": true,
-      "news": [
-        {
-          "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "1066.KL",
@@ -63,17 +58,17 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.42,
+      "currentPrice": 1.43,
       "weekAgoPrice": 1.4800000190734863,
-      "percentChange": -4.05,
+      "percentChange": -3.38,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.46,
+      "currentPrice": 1.43,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": 0.69,
+      "percentChange": -1.38,
       "flagged": false,
       "news": []
     },
@@ -87,9 +82,9 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.25,
+      "currentPrice": 0.245,
       "weekAgoPrice": 0.23999999463558197,
-      "percentChange": 4.17,
+      "percentChange": 2.08,
       "flagged": false,
       "news": []
     },
@@ -108,9 +103,9 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.715,
+      "currentPrice": 0.735,
       "weekAgoPrice": 0.6499999761581421,
-      "percentChange": 10.0,
+      "percentChange": 13.08,
       "flagged": true,
       "news": []
     }
