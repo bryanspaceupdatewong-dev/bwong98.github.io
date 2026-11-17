@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T08:15:46.218318Z",
+  "generatedAt": "2026-11-17T09:00:00.056670Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia to halt chip sales to data centers renting over half to China - report - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUVYTk5PcHhTdG5RN2dJdW02YTUwaktGSUE4bnl2cnhHM1RBcE1jRVFFOHlyTTViWlRMQi1lTGdjajd3amw4S01XNnFaOHlZTWRUVXpJMkdxaldUbXJzRkU1N3U0Z0VmUm5lQVhuMGlfM1VjUTNnalg0RDk5R1N3OXg0dko0djMzZjBZdXBuV0VBNTBVbXc?oc=5"
+        },
+        {
           "title": "Stock market drops amid continued Nvidia fallout - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFFWkM0QU81aEJfWUszZ083R0l0MVEwOGJDTmF5MzJRRnI2eDhLd2RhaUoxVHRzSzRud3JKVEtsNmJmZWxrZkg0R3NpaVQ4QTJGZnZXZGstZy1OMl9TYXotOG41blRaTUVFd21xT2NLUlI1aTE0TThlb0tyX2lJbDE2MGczejYwcmU0UHNwbFd5UXZCYnRISGJXOEh4dXBNMnc?oc=5"
         },
         {
           "title": "The Nvidia share price is down 30% and UK investors are buying. I\u2019m not convinced it\u2019s a bargain - Yahoo Finance UK",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR25BeWt0Y2VoV0lpS3o0X1NUWFhtLWpNSHBKSHhPaTNaYzNOMnV2Vjh1VDI5UnZNNmsxNEhncVVrMVlyWWVkdDV6VHIwWUVRS04yR2hjRVQ1aUpiczVFekJEV0NQQlJTSkZHUFRrNml3Y0pQemRPaXRDc2hmWFZ0Ug?oc=5"
-        },
-        {
-          "title": "Nvidia faces alarming revenue questions before earnings - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVThFYkJqb0EzcGg3MXBNdnJadUl3eUpuVEt1ck90aUFPdWI4MGJHSHd6Sm9Qb0VhRktVVmdHNl9xdTdfU2gtNERVZ000alNLcjRXS0lsR2tBTVhUVUYtMzBKMlo5clU3VlA3ZTJPWGFBUXBnWWttRmU5Rnk1UG1sc2tIbzhBdEF1eXRGWWg2UURmYmFDU0I1WDdTN1pranBCUl91RkhTUQ?oc=5"
         }
       ]
     },
@@ -42,9 +42,9 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.61,
+      "currentPrice": 7.63,
       "weekAgoPrice": 7.690000057220459,
-      "percentChange": -1.04,
+      "percentChange": -0.78,
       "flagged": false,
       "news": []
     },
@@ -58,9 +58,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.39,
+      "currentPrice": 1.4,
       "weekAgoPrice": 1.5299999713897705,
-      "percentChange": -9.15,
+      "percentChange": -8.5,
       "flagged": true,
       "news": []
     },
@@ -82,28 +82,41 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.245,
+      "currentPrice": 0.24,
       "weekAgoPrice": 0.2549999952316284,
-      "percentChange": -3.92,
-      "flagged": false,
-      "news": []
+      "percentChange": -5.88,
+      "flagged": true,
+      "news": [
+        {
+          "title": "National Environmental Recycling Company (9540.SR) Seasonal returns chart - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jajl4YWV4enFXMnZabG9hcWFOS3NZNkdSNjhoMzRiS2VmVWVpd2FQR2tCanEtRDA2clF2OHBvZ2piSGhJeGU1NEFhNTVnU1kzTGp6VFhhcW1HUmVqbjFGX1N4eTE1Zw?oc=5"
+        },
+        {
+          "title": "JAG Berhad (0024.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ob21IMVBhZl9jQW04WFNlTFdlT3FlRWphcFcxdF8tU3BqRGF1THdmak9USHFaYzd0NkFhNWh6emdBYlVoaHN3ZTJMQjBlMXlFeUhtaUVZREYyTFBfcGg2Y3FRSVVYQQ?oc=5"
+        },
+        {
+          "title": "0397.KL Interactive Stock Chart | 5ER Stock - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rd1QtZHNLcG1Fd05ra25NeWx2QmtLOUI4VzJfUEtuRE1FU0FHLUR5Mm5vdzdFc0hKRXlQSHRNSks0dzdwS1h0TU1BTFBZWkh3?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.28,
       "weekAgoPrice": 1.2899999618530273,
-      "percentChange": 0.0,
+      "percentChange": -0.78,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.725,
+      "currentPrice": 0.74,
       "weekAgoPrice": 0.6399999856948853,
-      "percentChange": 13.28,
+      "percentChange": 15.63,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 5
 }
