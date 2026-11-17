@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T09:00:00.056670Z",
+  "generatedAt": "2026-11-17T09:15:47.105907Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -17,26 +17,13 @@
       "weekAgoPrice": 178.6699981689453,
       "percentChange": -12.61,
       "flagged": true,
-      "news": [
-        {
-          "title": "Nvidia to halt chip sales to data centers renting over half to China - report - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUVYTk5PcHhTdG5RN2dJdW02YTUwaktGSUE4bnl2cnhHM1RBcE1jRVFFOHlyTTViWlRMQi1lTGdjajd3amw4S01XNnFaOHlZTWRUVXpJMkdxaldUbXJzRkU1N3U0Z0VmUm5lQVhuMGlfM1VjUTNnalg0RDk5R1N3OXg0dko0djMzZjBZdXBuV0VBNTBVbXc?oc=5"
-        },
-        {
-          "title": "Stock market drops amid continued Nvidia fallout - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFFWkM0QU81aEJfWUszZ083R0l0MVEwOGJDTmF5MzJRRnI2eDhLd2RhaUoxVHRzSzRud3JKVEtsNmJmZWxrZkg0R3NpaVQ4QTJGZnZXZGstZy1OMl9TYXotOG41blRaTUVFd21xT2NLUlI1aTE0TThlb0tyX2lJbDE2MGczejYwcmU0UHNwbFd5UXZCYnRISGJXOEh4dXBNMnc?oc=5"
-        },
-        {
-          "title": "The Nvidia share price is down 30% and UK investors are buying. I\u2019m not convinced it\u2019s a bargain - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR25BeWt0Y2VoV0lpS3o0X1NUWFhtLWpNSHBKSHhPaTNaYzNOMnV2Vjh1VDI5UnZNNmsxNEhncVVrMVlyWWVkdDV6VHIwWUVRS04yR2hjRVQ1aUpiczVFekJEV0NQQlJTSkZHUFRrNml3Y0pQemRPaXRDc2hmWFZ0Ug?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.55,
+      "currentPrice": 4.56,
       "weekAgoPrice": 4.679999828338623,
-      "percentChange": -2.78,
+      "percentChange": -2.56,
       "flagged": false,
       "news": []
     },

@@ -1,82 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-13T12:15:42.422066Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 166.19,
-        "weekAgoPrice": 181.60000610351562,
-        "percentChange": -8.49,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia, AMD, Microsoft, Broadcom, and More Stocks That Explain Today\u2019s Market - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xNUN1dEs4N0hEbVFCd3JKNGlNTTkycmp5al82X1RBdWxPSzgxc181eF8zZHpyWHVtYlR3OWlxMTFySzlKQjVLNUg1aWFJLUVQa3c3enFtMER5QUd6OUZ0VzNvQ3o?oc=5"
-          },
-          {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver as Nvidia tumult deepens - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlFnOGhDYjBhQ1U3Y2IxUFI2c3cwTEZGS19OU2M4SG5ZNmJiTjkwWnJibFZBV0tGUFF2b0t2VXBSY1pKVV9HNENTaWJVaDg4X2MxNnhtNXBBQll6UGJuZjM0VGlyRmN6YlVuZG50M1VVSk9YNDRxcDBydTZ5andqMENtWEcwa0JDTlNreWxnNnU0UkItaEllY1ZESGVxNGlSaXRNdDllbGN0ZEZ0bmpUTV9xQ25xRzg?oc=5"
-          },
-          {
-            "title": "Nvidia Stock: 2 Big Positives and One Big Threat for Life After Jensen Huang - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUpieHEtVm55SjR2ak9lSXFic1VjZk9XVG1XUklXQS1TVTNFb2k5ejV2cVp2MnBPZUpYLWZfNWJoUnhEOEpmSkhsNnNwMjYzVmxTWFhEMnVQaVNNbG5ObkhjTnd1MS1tT2c1WldfNHRUcm1RSjhDRW41UmVUZTdoeVQwZjBwZw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.54,
-        "weekAgoPrice": 4.960000038146973,
-        "percentChange": -8.47,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.5399999618530273,
-        "percentChange": -5.84,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Genting Berhad (3182.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.03,
-        "weekAgoPrice": 1.2000000476837158,
-        "percentChange": -14.17,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.31,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": 6.5,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.6549999713897705,
-        "percentChange": 9.92,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-13T13:19:06.232147Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3274,6 +3197,65 @@
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR25BeWt0Y2VoV0lpS3o0X1NUWFhtLWpNSHBKSHhPaTNaYzNOMnV2Vjh1VDI5UnZNNmsxNEhncVVrMVlyWWVkdDV6VHIwWUVRS04yR2hjRVQ1aUpiczVFekJEV0NQQlJTSkZHUFRrNml3Y0pQemRPaXRDc2hmWFZ0Ug?oc=5"
           }
         ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.4,
+        "weekAgoPrice": 1.5299999713897705,
+        "percentChange": -8.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.04,
+        "weekAgoPrice": 1.1200000047683716,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.24,
+        "weekAgoPrice": 0.2549999952316284,
+        "percentChange": -5.88,
+        "flagged": true,
+        "news": [
+          {
+            "title": "National Environmental Recycling Company (9540.SR) Seasonal returns chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jajl4YWV4enFXMnZabG9hcWFOS3NZNkdSNjhoMzRiS2VmVWVpd2FQR2tCanEtRDA2clF2OHBvZ2piSGhJeGU1NEFhNTVnU1kzTGp6VFhhcW1HUmVqbjFGX1N4eTE1Zw?oc=5"
+          },
+          {
+            "title": "JAG Berhad (0024.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ob21IMVBhZl9jQW04WFNlTFdlT3FlRWphcFcxdF8tU3BqRGF1THdmak9USHFaYzd0NkFhNWh6emdBYlVoaHN3ZTJMQjBlMXlFeUhtaUVZREYyTFBfcGg2Y3FRSVVYQQ?oc=5"
+          },
+          {
+            "title": "0397.KL Interactive Stock Chart | 5ER Stock - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rd1QtZHNLcG1Fd05ra25NeWx2QmtLOUI4VzJfUEtuRE1FU0FHLUR5Mm5vdzdFc0hKRXlQSHRNSks0dzdwS1h0TU1BTFBZWkh3?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.74,
+        "weekAgoPrice": 0.6399999856948853,
+        "percentChange": 15.63,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-17T09:15:47.105907Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 156.14,
+        "weekAgoPrice": 178.6699981689453,
+        "percentChange": -12.61,
+        "flagged": true,
+        "news": []
       },
       {
         "ticker": "3182.KL",
