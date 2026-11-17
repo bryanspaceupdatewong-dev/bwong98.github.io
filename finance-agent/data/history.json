@@ -1,82 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-13T09:15:45.824961Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 166.19,
-        "weekAgoPrice": 181.60000610351562,
-        "percentChange": -8.49,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia CEO Jensen Huang resigns: Is the stock now a 50% bargain? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ0g1NEgwNTluYkZZM2hOazdKTTh2eG02b0NHNjktZzRDX01BTVJJQXA4eGJOOXlJMW9NeGxVM0dwb2N4bWo1R2pfbG1lWjdLRUlDbTEteVYzU1pMVTMzUmJscFZyRnFfYTFDQTdpVnY3R1o5R0U0YUJnbWJobWlBQUNDNzNSNVVXejB0NUJqRTRPWkcxd2lyTjZCZlQ?oc=5"
-          },
-          {
-            "title": "Nvidia's stock may look cheaper now, but many unknowns remain: CIO - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXJhVTBxeEVJZk8tSTFoY3pleWhyRThkcUJXMVZuSHd4MUlQT2pxT1lGMVkwckZNejRRSHdSanNyaHRDTFIxTElEemJYamJrZmgwWm5zNkVoXzNYQXE4TmNMazZzRUUzdkZFbkdVa2tzRmt0RHh2UFVWQW5WSmVscEdXNnVIQS1OUmotbnBSdTJjTUlIWUZ2SVgyY1h6N04zc1VROEgzbXlodw?oc=5"
-          },
-          {
-            "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DR2p3RENoZjJmOGRjTWRtaHZvSmtBVDRVUTRoMGFNNDB6Y1k4Y1J0T2xvTFF2ZENxZndVZVllTTZwc0dtNnRadFBGQVg2TmdUbkVUeXJ3Y0o2SmlBb1VLdXpkWndDMWdRZk9rSjhvaVphTENR0gF6QVVfeXFMUDJHWXl4WTl2eHVOV05LM0d1U1p3WHl5WjNsYkNjSDFpenJxODdDUm5hbU5YamhIQkF4RFVSVWluQ1FySERjQnA0X2o5Zms4Qzk4eF83akdEVEZKa094bjVzLVRsQ2U1SE5ZZmt0ODZmeGFyblptMWJsbkE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.54,
-        "weekAgoPrice": 4.960000038146973,
-        "percentChange": -8.47,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.5399999618530273,
-        "percentChange": -5.84,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Genting Berhad (3182.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.03,
-        "weekAgoPrice": 1.2000000476837158,
-        "percentChange": -14.17,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.31,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": 6.5,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.6549999713897705,
-        "percentChange": 9.92,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-13T10:26:33.467029Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3350,6 +3273,57 @@
           {
             "title": "Nvidia faces alarming revenue questions before earnings - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVThFYkJqb0EzcGg3MXBNdnJadUl3eUpuVEt1ck90aUFPdWI4MGJHSHd6Sm9Qb0VhRktVVmdHNl9xdTdfU2gtNERVZ000alNLcjRXS0lsR2tBTVhUVUYtMzBKMlo5clU3VlA3ZTJPWGFBUXBnWWttRmU5Rnk1UG1sc2tIbzhBdEF1eXRGWWg2UURmYmFDU0I1WDdTN1pranBCUl91RkhTUQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.39,
+        "weekAgoPrice": 1.5299999713897705,
+        "percentChange": -9.15,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.04,
+        "weekAgoPrice": 1.1200000047683716,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.73,
+        "weekAgoPrice": 0.6399999856948853,
+        "percentChange": 14.06,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-17T07:16:42.113466Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 156.14,
+        "weekAgoPrice": 178.6699981689453,
+        "percentChange": -12.61,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock market drops amid continued Nvidia fallout - The Washington Post",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFFWkM0QU81aEJfWUszZ083R0l0MVEwOGJDTmF5MzJRRnI2eDhLd2RhaUoxVHRzSzRud3JKVEtsNmJmZWxrZkg0R3NpaVQ4QTJGZnZXZGstZy1OMl9TYXotOG41blRaTUVFd21xT2NLUlI1aTE0TThlb0tyX2lJbDE2MGczejYwcmU0UHNwbFd5UXZCYnRISGJXOEh4dXBNMnc?oc=5"
+          },
+          {
+            "title": "Nvidia faces alarming revenue questions before earnings - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVThFYkJqb0EzcGg3MXBNdnJadUl3eUpuVEt1ck90aUFPdWI4MGJHSHd6Sm9Qb0VhRktVVmdHNl9xdTdfU2gtNERVZ000alNLcjRXS0lsR2tBTVhUVUYtMzBKMlo5clU3VlA3ZTJPWGFBUXBnWWttRmU5Rnk1UG1sc2tIbzhBdEF1eXRGWWg2UURmYmFDU0I1WDdTN1pranBCUl91RkhTUQ?oc=5"
+          },
+          {
+            "title": "Nvidia set for first earnings call since Jensen Huang's resignation - USA Today",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3l3SUpuemVJRWNaUHZ1U25EcFRZODZhckVnYVN1SU9BeWVyakxRZmhpU2JQWnVNTUhCekJHMXdSaTNFSjBEU0ZGSkdULWJ4clJtR295Y3pINWZYZGFoSzUxaEpRSW9JOHBPUXhXTmRpaUthd0FNcDV6dzY0d3lhdmNBNDZmZ1EtTFBMaWZsSF9fRDEzNlY3NS13?oc=5"
           }
         ]
       },
