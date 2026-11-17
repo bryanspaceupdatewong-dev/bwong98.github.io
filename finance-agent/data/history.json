@@ -1,82 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-13T23:16:07.265523Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 162.85,
-        "weekAgoPrice": 186.63999938964844,
-        "percentChange": -12.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next? - MarketWatch",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUZkTG9OV01qMG84Q2Y4MzJvYlhDUmFXWkliQjcxNTA2enVqazJLWTlmUmdWNmt4bkVnWlRmUVlfb2ZHaDU0SXlLdnJnaDdzajlLWlhRNTdncGdkVnRkVW9lb2hsbGVwUFB6ZmQtRUVQNExpVmYybDFPZGdfaTk0NDJHZ19kNVd3bkVoWjBCdmpYLWtKUFlhQ0VHcVlzUFFGWjdia1NZRU5WMEJPdXdDbVhENDNZQQ?oc=5"
-          },
-          {
-            "title": "Better Chip Stock: Nvidia vs. AMD - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTVvMDVuZjc0aGVFSFZkVVc4UVBCc1RnUHJhVHJBWmVoSVdvUE9jZGd4TjRGdXVVc0s5MHRmQmlETVQ2bVkxS3JLdEdiN3JBWEJKN205bzVZanFGdV9IcV8tSTZRY2RuWjkzQXpOSWFHcG5hdW1GZDVSd3M3a0FEaVpyb2xhRDVmUndld0VqRzZhMFhpZ09N?oc=5"
-          },
-          {
-            "title": "Nvidia lost $600B in value as the Jensen Huang scandal exploded \u2014 but insiders had already sold $1B+. Lucky or illegal? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRU9hZVJZS3VxLU5GV0Y4ZHlGaW81czJINHNiMGluWjNaMUhmX21aV1lzMDA1TDFFRGkyWjh1akVhelE1V1lJbXlrc0g5S0F1LW9xN1dTQXZoMzlqQlo2aGt1WDRfdHNobTZwalN3dWQ2YkItT0Y3WlpnN1lMbG5jZXhxU3VhQVBSbWcyZ0s5LTkyQ1lEb2ZoUGxR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.54,
-        "weekAgoPrice": 4.960000038146973,
-        "percentChange": -8.47,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.5399999618530273,
-        "percentChange": -5.84,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Genting Berhad (3182.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.03,
-        "weekAgoPrice": 1.2000000476837158,
-        "percentChange": -14.17,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.31,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": 6.5,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.6549999713897705,
-        "percentChange": 9.92,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-16T00:15:58.227485Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3368,6 +3291,91 @@
           {
             "title": "Why Sandisk Stock Keeps On Going Down - The Motley Fool",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLUZFT3kweGFraTVWVTdUUnNjVnhoR0ZwTmVaLVBiamhoRlltVmtHXzNmTlNaVHBXZVVyOGd6SGw5RDZQbmhsemtUaWdsZ0FvNHU0MkFjMU9tcW9WdWs1c2xnX1kweGpqemZUWDNfYzFDSWUzVnpJTlZnZndGT0c3eWxiVlFzYVE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.56,
+        "weekAgoPrice": 4.900000095367432,
+        "percentChange": -6.94,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.4,
+        "weekAgoPrice": 1.4800000190734863,
+        "percentChange": -5.41,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.04,
+        "weekAgoPrice": 1.1699999570846558,
+        "percentChange": -11.11,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.74,
+        "weekAgoPrice": 0.6499999761581421,
+        "percentChange": 13.85,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-17T20:16:14.941310Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 505.725,
+        "weekAgoPrice": 533.1599731445312,
+        "percentChange": -5.15,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft Stock Falls Amid Sector Weakness and Outages - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU2lsc3FrLXo4S1lodE02VFdNc3RlbGY5a2NTTTVjVmtPRDhic3FfME5UQmc3cWhVSWVjbFY0RlBpZ2dTUGMyX2J2N2hQSnBScjhFMjdrMUFXVzNjYldjcExQeEJvYkpEazUxQ3djbU9POXRpWjJpbjd3c3NqeGpKR0QxY0lod3JvdXd4QUFiQ2JmVXRaMmt2cUt4Z2dlNlloYTBpOE55RE40SUlmbG81WFplY1dfQQ?oc=5"
+          },
+          {
+            "title": "AI agents can act without human approval at every step. Microsoft is helping develop standards to verify their actions. - Stock Titan",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNE9GSEE2TVdwcnV6VTVjcTdRY19zNTJSTUZRcW5WdC1Yb0hDLThGcXpWNWxJb3FuTGp2TXplRU1wUG1PRjJOa08tZXA3TUo3TTFNeW54MGdOTFVWalJkZzk2d0ZJYWZ3X25qRjY0Y19kVkIwYVowdWpjN0V6ZmxnM1dsbnZJMjU2T3FuWXJvSDdaa3p0Q3J2eFNsZkdvVVkycHFnQ05mRmJ4TTI0TllKaDRXRjh3QkFlal93UzZkR2M?oc=5"
+          },
+          {
+            "title": "Microsoft Stock (NASDAQ:MSFT) Drops as Bill Ackman Sells 35% of His Stake - TipRanks",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2VnYmp6ZTM1SFVFMGlXbzVud2dja1c1RlBRaUdleDQ2eUFiZEY4WDhYM2VRTnNGUTlGZl9DbF9FMG1sNTVfVFNDcW9SRlpXZXFlZVp5ZlpJWXZyY2JQSWdNd3RySzUtMi1pYTZScl8xQm9jaFdSMVdNNzEwbUpjS19OTGw1aVFua1NKQkNfMjZNTHVBdzRQZ3BWRWpBVXM4?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 152.92,
+        "weekAgoPrice": 168.88999938964844,
+        "percentChange": -9.46,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock market today: Dow, S&P 500, Nasdaq losses pick up in countdown to Nvidia earnings - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNlo3VXhMalBfa2JwdDF2VnBsa1E5RnVPSG5lekhEOXRQa0tqS0RIRW5qYmxQRzFZOGdyTlU5VUM1RGgwWENlYlR5RDUtMFRQdlhxRkRhNU1CdWRiR0dQUm1MMldMbUlOM295UVZ2eFRFOTlRUUVEX0swd1YzVTkyRkRYeEI2VW00LTRZUG5JX3RiVHh1UVBKN3VoUUlidWgwaWJvR2lSZHdmaVUzTmJWYUFMX21LaUVjeTJMWU94NUZtRm1DTmhlQUZTY0RSNXhTM1hGTnRR?oc=5"
+          },
+          {
+            "title": "Nvidia live updates: Nvidia to report Q3 earnings after the bell with Colette Kress to host first call as interim CEO - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdXFsd2l6azZDWWJyWDItT0hudzBhMUloOWF4V3FMV1ZlTUhsODg4d0RoY1ZuaXNJeExyWFNjallKQ2wzcW13ektmSzdwTjFYeUxrUkp2T3lPTG5raHY4Q0FEcWhnTmxCLXVYd2hwU05UOXdKcXFobjhRZFpXS3VqQmhsS0pGMFhQY1ZzMW9LS3ZvNGU4bTlJVDdXSTRWYkljem1mSUp0ekNsWWREb0R6OGZnYnM1YzBJTWlFTU1vZG1ubjV5Q2lkZTE2M3JrSWRQam0wb20zZ0Jad1Vud2FaX1Q4NjlncDRIbHQ2Mk5tYjM?oc=5"
+          },
+          {
+            "title": "Nvidia's insurance protects board but not company coffers from litigation - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdU9PZWl4NWx6T0xLbFo5OHV4THh2STNtRWpkeE16alJLSWpkOF9FM045cl9CallmaVRfQzVtRWYyeE4tUUlXb1hxRmpVR2JoR2VBYU9zLVJSdTdkMWFBYllRQUVrbFRUNXFfVm5CNnVjTm5OcUFEcVo0VDNMLWpkTkhHcmdvTWlSWThVTzFNWU1pNFo1MU9pdEdwRzdWUTM0WTdjZVc3d3RJUW5V?oc=5"
           }
         ]
       },
