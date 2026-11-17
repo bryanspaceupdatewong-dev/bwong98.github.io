@@ -1,15 +1,19 @@
 {
-  "generatedAt": "2026-11-17T18:26:54.948529Z",
+  "generatedAt": "2026-11-17T19:16:32.107497Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 503.42,
+      "currentPrice": 506.36,
       "weekAgoPrice": 533.1599731445312,
-      "percentChange": -5.58,
+      "percentChange": -5.03,
       "flagged": true,
       "news": [
+        {
+          "title": "Microsoft (MSFT) Launches AI Transparency Initiative With 40+ Organizations - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNHpjS3VWb2owUy10aHlVZ2V0aU5nZ214UU1vOVJoem12aXVJUWMxRkd3NWZYbW1IQjByVEh3RHlFVjg3b0NnSHZRZmNZbi1sb3N0UjJSZjVVVVJjNW9kbFFkZDlydVBKOUtpZGtFdnE5UGhuaFR2ZTRxV3htRmdUMG8tZ3Yxa1E1eHFTQ2xWMTJfQ1k3MS1MZVhZb2pRTXdnSkxUYlIxemdXeUVZeDVnd2g5RWZoeVJNMFFDbl9JYTNKcjFmaV9SR1B3VGxXVmM?oc=5"
+        },
         {
           "title": "AI agents can act without human approval at every step. Microsoft is helping develop standards to verify their actions. - Stock Titan",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNE9GSEE2TVdwcnV6VTVjcTdRY19zNTJSTUZRcW5WdC1Yb0hDLThGcXpWNWxJb3FuTGp2TXplRU1wUG1PRjJOa08tZXA3TUo3TTFNeW54MGdOTFVWalJkZzk2d0ZJYWZ3X25qRjY0Y19kVkIwYVowdWpjN0V6ZmxnM1dsbnZJMjU2T3FuWXJvSDdaa3p0Q3J2eFNsZkdvVVkycHFnQ05mRmJ4TTI0TllKaDRXRjh3QkFlal93UzZkR2M?oc=5"
@@ -17,31 +21,27 @@
         {
           "title": "Microsoft Stock (NASDAQ:MSFT) Drops as Bill Ackman Sells 35% of His Stake - TipRanks",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2VnYmp6ZTM1SFVFMGlXbzVud2dja1c1RlBRaUdleDQ2eUFiZEY4WDhYM2VRTnNGUTlGZl9DbF9FMG1sNTVfVFNDcW9SRlpXZXFlZVp5ZlpJWXZyY2JQSWdNd3RySzUtMi1pYTZScl8xQm9jaFdSMVdNNzEwbUpjS19OTGw1aVFua1NKQkNfMjZNTHVBdzRQZ3BWRWpBVXM4?oc=5"
-        },
-        {
-          "title": "Wells Fargo Sticks to Their Buy Rating for Microsoft (MSFT) - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWmhQa3hzQjhacXhmVlA2NWFtMW1RWGd0c1J5VktvRkZLRTNTMTdBWENRQ3pCbFVIbi11SkF1dTY4SW5KM01pYlg4WkpzaTV2akhDMGVoaXRSOVVNTmpXcy1KSXBSLXNhTWI2SkgzNk05QlFJWmVNUEN0X0ZWMnh6dW10VW11ZlAwVXFFLVVxVnFRS0FWZ0h0S1BPa3dQdm1wWXhGVEJJQUtsSmk2QTFia0xXMW45RVJHeVFHS1U1TlNMbmt0UjlOSlRyTHZqNzJuUnYyam9Xb3UtUQ?oc=5"
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 154.131,
+      "currentPrice": 154.475,
       "weekAgoPrice": 168.88999938964844,
-      "percentChange": -8.74,
+      "percentChange": -8.54,
       "flagged": true,
       "news": [
-        {
-          "title": "Stocks making the biggest moves Tuesday: Salesforce, Nvidia, SpaceX, Strategy & more - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVdJdXVnZWRscjRjWktRd2UwcEdOYmZmMWRIVHdHYjZTSU5td2tGeHZPM2NVUWkwLWRJWVhFRHFWVklXMURwUDVQMmJCMEx3T0FCZHRVckh2b3VFanJ5N2tqOWpkWWF0c01yZlc0RFV0ZEZtdXAxekgteHVCcDZ4eXF1SDHSAYoBQVVfeXFMTkFLOE5jcnhTN2VWaHgtaWplbUs4RUM4SzNLd2VONUJaZkxuUkZEV2poOG9weUM4MERQRzF3Wkw4TXlKeTI5UHA1Ni1xd0FlUXRtd3lrMktVbmRoTDlRaEJ4TmplUlFxNHVpVDNrclZmOGMwYXpmOXlaRlViNU1xcUZBSzctS3VaVXpR?oc=5"
-        },
         {
           "title": "Nvidia live updates: Nvidia to report Q3 earnings after the bell with Colette Kress to host first call as interim CEO - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdXFsd2l6azZDWWJyWDItT0hudzBhMUloOWF4V3FMV1ZlTUhsODg4d0RoY1ZuaXNJeExyWFNjallKQ2wzcW13ektmSzdwTjFYeUxrUkp2T3lPTG5raHY4Q0FEcWhnTmxCLXVYd2hwU05UOXdKcXFobjhRZFpXS3VqQmhsS0pGMFhQY1ZzMW9LS3ZvNGU4bTlJVDdXSTRWYkljem1mSUp0ekNsWWREb0R6OGZnYnM1YzBJTWlFTU1vZG1ubjV5Q2lkZTE2M3JrSWRQam0wb20zZ0Jad1Vud2FaX1Q4NjlncDRIbHQ2Mk5tYjM?oc=5"
         },
         {
-          "title": "Wall St falls before Nvidia earnings in key AI test; Huang says open to return - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5"
+          "title": "Is AMD Stock a Buy Amid the Uncertainty Around Nvidia? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0RabkRYQjV0NTd3aHhnNzhPN0pWbGE3WklWaWNsNHNqdG8tVGNpS0JzSGNXS09IcmNwQXVRUHAwVHphVXh0QzBRWFJidGZwaWgxaWdmQTRQWl9vN0NNbE1aWmtkSzBIZzNzMVRIX0dMRjZvaE1tbi1uSGJtdEJLZXY4SjNfWi1HS2pLU0NTWS1PUFpOZG5KWDFqUQ?oc=5"
+        },
+        {
+          "title": "Why Sandisk Stock Keeps On Going Down - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLUZFT3kweGFraTVWVTdUUnNjVnhoR0ZwTmVaLVBiamhoRlltVmtHXzNmTlNaVHBXZVVyOGd6SGw5RDZQbmhsemtUaWdsZ0FvNHU0MkFjMU9tcW9WdWs1c2xnX1kweGpqemZUWDNfYzFDSWUzVnpJTlZnZndGT0c3eWxiVlFzYVE?oc=5"
         }
       ]
     },
