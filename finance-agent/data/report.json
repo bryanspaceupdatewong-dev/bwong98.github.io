@@ -1,36 +1,23 @@
 {
-  "generatedAt": "2026-11-17T14:16:05.809365Z",
+  "generatedAt": "2026-11-17T15:16:10.032697Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 517.99,
-      "weekAgoPrice": 545.1799926757812,
-      "percentChange": -4.99,
+      "currentPrice": 511.92,
+      "weekAgoPrice": 533.1599731445312,
+      "percentChange": -3.98,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 156.14,
-      "weekAgoPrice": 178.6699981689453,
-      "percentChange": -12.61,
+      "currentPrice": 154.07,
+      "weekAgoPrice": 168.88999938964844,
+      "percentChange": -8.77,
       "flagged": true,
-      "news": [
-        {
-          "title": "Nvidia live updates: Nvidia to report Q3 earnings after the bell with Colette Kress to host first call as interim CEO - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdXFsd2l6azZDWWJyWDItT0hudzBhMUloOWF4V3FMV1ZlTUhsODg4d0RoY1ZuaXNJeExyWFNjallKQ2wzcW13ektmSzdwTjFYeUxrUkp2T3lPTG5raHY4Q0FEcWhnTmxCLXVYd2hwU05UOXdKcXFobjhRZFpXS3VqQmhsS0pGMFhQY1ZzMW9LS3ZvNGU4bTlJVDdXSTRWYkljem1mSUp0ekNsWWREb0R6OGZnYnM1YzBJTWlFTU1vZG1ubjV5Q2lkZTE2M3JrSWRQam0wb20zZ0Jad1Vud2FaX1Q4NjlncDRIbHQ2Mk5tYjM?oc=5"
-        },
-        {
-          "title": "Is Nvidia Stock's Trading at 10x Forward Earnings the Bargain of the Century or Dead Money Hiding in Plain Sight? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVlQSDcwX19ydDlub3RLd2ZMbjVLVnNHckxGWnlMRGtVUkNfZ1hxRndIVTloT0hWaURMT3JIUjFVYmpzU1dxTnptQXVndkcxTzFjanNQMUdIekhTQkZZV0tEYnhRbG1DcEhCNHV5aHAyUWQxUjdGSTdRR1RqcVE4T3E1d04tT3RWZHNidF9DRi13NWw1d2doOVhfN3dxMFk?oc=5"
-        },
-        {
-          "title": "Nvidia earnings set to kick off with Jensen Huang's resignation in focus, and the stock down 17% this year - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnlJT01CWFkwRnFkemZTOGJPaG83S0RhdTZsbmgwTXlTdlBFeWRNMENFNUY4bnNsSVp6YlZZSnluanlLUWQzOGpNN0lOVmxwdU5TRWhYZHBVQ09tVlhmV1hBVXY5dTV3ekh0bmhVRnY3NS1IbXF2UzBEcFpXM1NhQVo0RzhUWXNLWmdZX2s5dEJ2YlE?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "1295.KL",

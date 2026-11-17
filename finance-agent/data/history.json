@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-13T18:15:55.560371Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 160.935,
-        "weekAgoPrice": 186.63999938964844,
-        "percentChange": -13.77,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock Falls. It Faces One Big Threat in Life After Jensen. - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUpieHEtVm55SjR2ak9lSXFic1VjZk9XVG1XUklXQS1TVTNFb2k5ejV2cVp2MnBPZUpYLWZfNWJoUnhEOEpmSkhsNnNwMjYzVmxTWFhEMnVQaVNNbG5ObkhjTnd1MS1tT2c1WldfNHRUcm1RSjhDRW41UmVUZTdoeVQwZjBwZw?oc=5"
-          },
-          {
-            "title": "Here\u2019s How Much Traders Expect Nvidia Stock to Move After Earnings Next Week - Investopedia",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQVhIYXNZbFpjNVdYNUQ1VUdubkR5WmNvRlIxZGg0X1V2dWpiS1JBMXRxU1ZlRzVkaVNfZXZMV1Uza2o1SlFlRGdWMkt0dU9ia3VxNmNXb2RzM0NocHhReHlQVTJPbFBHYXpEc0NLcGRJQ2JjSjFEei1XRHdkc1ZfZ2dsQkxIZ2VFMG1WTnZvZGZ6Xzh3SnNOUmdOdjJSRUtqRWlYNEdOU1UtNUlqLXc?oc=5"
-          },
-          {
-            "title": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5% - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU1MbkhnZll4OHpIdGV2VlI1ZVFhWGhKX1F1bnZvWVRGWnVkYnBfcmRIaG1PRzcyN1pTUFJzY2VWVzRMN2VqNjQ1Tkwyb3E5bGpQN1NOcTFnTVFQVmdPRjdZX2h3LTh2d2F1Y1F6SW5JWTVPWmRwXzBsVlpIbGNEWTBZLUhaRnFIWTVIY1gxSVc0T2J0blE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.03,
-        "weekAgoPrice": 1.190000057220459,
-        "percentChange": -13.45,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.25,
-        "weekAgoPrice": 0.23499999940395355,
-        "percentChange": 6.38,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.6650000214576721,
-        "percentChange": 8.27,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-13T19:15:51.829104Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3262,6 +3211,65 @@
             "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnlJT01CWFkwRnFkemZTOGJPaG83S0RhdTZsbmgwTXlTdlBFeWRNMENFNUY4bnNsSVp6YlZZSnluanlLUWQzOGpNN0lOVmxwdU5TRWhYZHBVQ09tVlhmV1hBVXY5dTV3ekh0bmhVRnY3NS1IbXF2UzBEcFpXM1NhQVo0RzhUWXNLWmdZX2s5dEJ2YlE?oc=5"
           }
         ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.4,
+        "weekAgoPrice": 1.5299999713897705,
+        "percentChange": -8.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.04,
+        "weekAgoPrice": 1.1200000047683716,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.24,
+        "weekAgoPrice": 0.2549999952316284,
+        "percentChange": -5.88,
+        "flagged": true,
+        "news": [
+          {
+            "title": "National Environmental Recycling Company (9540.SR) Seasonal returns chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jajl4YWV4enFXMnZabG9hcWFOS3NZNkdSNjhoMzRiS2VmVWVpd2FQR2tCanEtRDA2clF2OHBvZ2piSGhJeGU1NEFhNTVnU1kzTGp6VFhhcW1HUmVqbjFGX1N4eTE1Zw?oc=5"
+          },
+          {
+            "title": "JAG Berhad (0024.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ob21IMVBhZl9jQW04WFNlTFdlT3FlRWphcFcxdF8tU3BqRGF1THdmak9USHFaYzd0NkFhNWh6emdBYlVoaHN3ZTJMQjBlMXlFeUhtaUVZREYyTFBfcGg2Y3FRSVVYQQ?oc=5"
+          },
+          {
+            "title": "0397.KL Interactive Stock Chart | 5ER Stock - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rd1QtZHNLcG1Fd05ra25NeWx2QmtLOUI4VzJfUEtuRE1FU0FHLUR5Mm5vdzdFc0hKRXlQSHRNSks0dzdwS1h0TU1BTFBZWkh3?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.74,
+        "weekAgoPrice": 0.6399999856948853,
+        "percentChange": 15.63,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-17T15:16:10.032697Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 154.07,
+        "weekAgoPrice": 168.88999938964844,
+        "percentChange": -8.77,
+        "flagged": true,
+        "news": []
       },
       {
         "ticker": "3182.KL",
