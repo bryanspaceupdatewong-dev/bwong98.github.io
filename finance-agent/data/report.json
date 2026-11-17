@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T23:15:56.270563Z",
+  "generatedAt": "2026-11-17T00:15:58.730211Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -17,7 +17,20 @@
       "weekAgoPrice": 178.6699981689453,
       "percentChange": -12.61,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Daniel Loeb\u2019s Third Point Returned to Nvidia Stock Just Before Its Fall - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDltRGtfTHd2QlFRQ3RlRFlZaVVzOC1PM3E2WU1WYk85M1VXMFpWdW5xTzBkN04ycEhqWWJzaUlnelozZHBzUEVrNWdwbFlWZ01PdXdQTUh1aHZfTUhvblFPM3lMeVdwS2xpakZpQWJyeXl0UlVVT2lNOEtNYXBWRmttVUF5WDNZdjlKRGZDd0E0aS1ONGlTbkh1bmh5SzNqY2RiRVRpRjg5cTREQmhfbjBn?oc=5"
+        },
+        {
+          "title": "Intel Stock Sell-Off Deepens After Nvidia Cuts Stake - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlzcVRDWDhOYUlXa3htU0hKa3JKMGh4NkZpV1hoTXY3YzBVLUlWSVk4Q3Y5My15VFBxbEZyQVBqRmR0Z1ozaWtEZnEzdlZycHdkXzIzMDJtOHppbzdzamU0MjJyR0FENk9vU3pWNlNsZld3eTE4Z09Mc2U3d290bWp6b29vRjlXdl9IRmpGa0pTbVJvZ2h4eVR2czBMaWlTMER3cEh6UThxMXlIUWNKQ2ZXYw?oc=5"
+        },
+        {
+          "title": "Nvidia rules out Huang comeback as campaign for his return grows - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnJmVHNCR2NpOGp0dlZibjRKMHA2S0hJM21UQTlDUmpTdXJwekFtbWxwdGVEZDVSRm0tUjZyWHQ3dGZVSmdBQkdCMHgwS0E1MU1MczV4c0p1cjRZT2I0dFpvWEZQU3VDSXNPZ1hKZHhQenJ6RVNpbFhIUm5KeVFSdHgxNGx5U2dHd0hsanhrMW1vWEUybU9maXg0cUJNUlpzcnp6NG9LS25kcjllZ3REY0o3Z3R1blU?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",

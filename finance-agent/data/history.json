@@ -1,107 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-13T02:15:31.284151Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 523.0,
-        "weekAgoPrice": 555.7999877929688,
-        "percentChange": -5.9,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft Pulls Back 8% From Record High as Technicals Warn of Over 10% Further Downside - TradingKey",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONHF1ZjRKbk9qa3o2ZDNtclBWZGZPdGZuZHdVckppRTdtQzB4dFhoV1plZnh1X2dtZWZBS0lLeV9fRnBvZkR2bUx1cDdHZnEzYl9SMWp3RzFHQndCaWZBU0lHc0dCUS1sWldTSV9NTzF6djNmLXpLUmp3SlVvckJ4M1RYcDBvTXBDUWhXZkllQmMzcWxYckNKNEhVNHpLNGFjdWt0aURwSFJuUHpUZEFDLXFsZVdxeEgxcVZXdjM3UG1vbUVEUTRV?oc=5"
-          },
-          {
-            "title": "Microsoft (MSFT) marketing chief sells shares at $531 each. - Stock Titan",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXpkX29KdEwtdUxSYUJ2OHI2Sk5aT1VrVHd1UlhncHBELU9YQjZCNmJHQ183VWNlS1VzcFJzRUJ2Y2J2ZzJfaGYyNE5fUzRrelpkazdka1lHOFRhaVI1OERUMmZ6RWpoZWUtd1RWZXpSRHBBNkxfN0t3ajJtNWNfVjY2ekEtSWtlMHVTRmRTTW54X1VlcDMwR0w1SmFfdUNSYWh3QlUwLWRDNGVE?oc=5"
-          },
-          {
-            "title": "Azure Grew 48%, Yet Griffin Securities Downgraded Microsoft (MSFT). Here\u2019s the Catch - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTNUbVRXMnF2WU1sMW9vbFRLNFg4VUhFUzNZcTBJUUM3V1ZQT1BfWExkbDF6Z1c5LUdvUUZobko2Ykg1eU5aZUlaS3ZPZFJRdG1fYVpZVU1wYlVNYTNaU25henhkc1I3WHAwMDhZeGtSU3FuUGUtLW94Y2dYSDNLTldXWnRQWHBOUy00Qk9fYVA0Q3ZR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 166.19,
-        "weekAgoPrice": 200.1300048828125,
-        "percentChange": -16.96,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see' - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQLXdpNk1zM3AtTjV1OFB4d0xkbXhnQkhIYUtYVWRxalR2dVJLZ0d6ajJDdS1Nb05ycVZnNnkxbGkzLXF4WVB1NnVlREtiVWdBOE9vbFRERGh2NGxjUGt0T01CbjVrZEUzZjB3UVhacUlZYnBxMURYV2pmQXBMd9IBgwFBVV95cUxQRGpRX1ZWVEtRV19IaDNsX3RYT0pXaFJtOXhSWFRpd0w4NDdpTGpMQ0FvdjBkTXJ3alI3b2Q1NkFjWTYxck91LS1fY1hwdXAybnRMOU13dVNfT2Y3Q2FScVkwbXVnbE9UUUFyY1pQRmVObjVnQWhOZW56SmJwWnBIb1hnbw?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGJwaGlFaHdoRlkyak8zUFBjSmhrVVJxQnIzOGt0N0tsNThnUlM2NGYySmJxVFp5Tnh1ZDdJckhPQTI3ZC1nSDhYeGFjamdhUWN4ZC1KREI3bEt6dloyMVEzS1VEaDQ2OE03ZklZbXJYMTVuUGxLSFV2YkZ6cTh1Uw?oc=5"
-          },
-          {
-            "title": "Nvidia (NVDA) Stock Gets Fair Value Trim As Analyst Views Turn More Divided - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRElTSFhVQUZmVlR1QXFPRko3NkRfbUMwdWRTdWxpcjBmenpxbnJja0ZEOFVQU19DZURySnM2NDZJc25wMFQtdV9jd21RYVNXT2tNaHl4eU9nSmw1TzhWTF9GdmhwMlFnMloxOC1hZEMwa3VtdG9WY1dRTVdpQXdvQlQ0NjJaakUtd0JzcUZ6OTRLRzNvU0I0?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.53,
-        "weekAgoPrice": 4.960000038146973,
-        "percentChange": -8.67,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.5399999618530273,
-        "percentChange": -5.84,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.05,
-        "weekAgoPrice": 1.2000000476837158,
-        "percentChange": -12.5,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.32,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": 7.32,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
-          },
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESEJmREJlNFd6Y0xReGR0Q3R6RExQMGExbFk5WW1RT2tlS21DTTdyUXk1VzlqZ1VaZHM1NlBYRXVDX3hyemxzME56eU9CR1pJR2F3akF5UHNLMlIzS2tWcQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.715,
-        "weekAgoPrice": 0.6549999713897705,
-        "percentChange": 9.16,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-13T03:16:16.762723Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3520,6 +3418,75 @@
         "percentChange": -12.61,
         "flagged": true,
         "news": []
+      },
+      {
+        "ticker": "1295.KL",
+        "currentPrice": 4.55,
+        "weekAgoPrice": 4.900000095367432,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.05,
+        "weekAgoPrice": 1.1699999570846558,
+        "percentChange": -10.26,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.2200000286102295,
+        "percentChange": 11.48,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6499999761581421,
+        "percentChange": 15.38,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-17T00:15:58.730211Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 156.14,
+        "weekAgoPrice": 178.6699981689453,
+        "percentChange": -12.61,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Daniel Loeb\u2019s Third Point Returned to Nvidia Stock Just Before Its Fall - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDltRGtfTHd2QlFRQ3RlRFlZaVVzOC1PM3E2WU1WYk85M1VXMFpWdW5xTzBkN04ycEhqWWJzaUlnelozZHBzUEVrNWdwbFlWZ01PdXdQTUh1aHZfTUhvblFPM3lMeVdwS2xpakZpQWJyeXl0UlVVT2lNOEtNYXBWRmttVUF5WDNZdjlKRGZDd0E0aS1ONGlTbkh1bmh5SzNqY2RiRVRpRjg5cTREQmhfbjBn?oc=5"
+          },
+          {
+            "title": "Intel Stock Sell-Off Deepens After Nvidia Cuts Stake - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlzcVRDWDhOYUlXa3htU0hKa3JKMGh4NkZpV1hoTXY3YzBVLUlWSVk4Q3Y5My15VFBxbEZyQVBqRmR0Z1ozaWtEZnEzdlZycHdkXzIzMDJtOHppbzdzamU0MjJyR0FENk9vU3pWNlNsZld3eTE4Z09Mc2U3d290bWp6b29vRjlXdl9IRmpGa0pTbVJvZ2h4eVR2czBMaWlTMER3cEh6UThxMXlIUWNKQ2ZXYw?oc=5"
+          },
+          {
+            "title": "Nvidia rules out Huang comeback as campaign for his return grows - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnJmVHNCR2NpOGp0dlZibjRKMHA2S0hJM21UQTlDUmpTdXJwekFtbWxwdGVEZDVSRm0tUjZyWHQ3dGZVSmdBQkdCMHgwS0E1MU1MczV4c0p1cjRZT2I0dFpvWEZQU3VDSXNPZ1hKZHhQenJ6RVNpbFhIUm5KeVFSdHgxNGx5U2dHd0hsanhrMW1vWEUybU9maXg0cUJNUlpzcnp6NG9LS25kcjllZ3REY0o3Z3R1blU?oc=5"
+          }
+        ]
       },
       {
         "ticker": "1295.KL",
