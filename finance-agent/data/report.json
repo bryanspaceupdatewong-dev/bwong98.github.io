@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T09:15:47.105907Z",
+  "generatedAt": "2026-11-17T10:16:30.507799Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -17,7 +17,20 @@
       "weekAgoPrice": 178.6699981689453,
       "percentChange": -12.61,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Nvidia Board Not Considering Jensen Huang's Return: Report - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTFvNWl5bDQxVlRqc2pHSDNwUjlGUHV4ckkzY1JrN3NYMlE5dHA4NFVlblVpVXZVbEhqQkhWUU0wcVhma0dvWU5aTVlvUk5FYkJzTloyQlJTWjRXOUFSSGRqenVhTHpGU0Q0TExhSTNpanJxcUd1RjlmcVJnRzVEMXJkV2NkNXNQRUtlbnZraVFuTHA5VHo0d0ZDdFJUY0JxZFE?oc=5"
+        },
+        {
+          "title": "Nvidia stock valuation looks 'draconian,' even without Jensen Huang: Analyst - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDl4WHFaaUdid1hZWl9vazlpQTJwbmxuR2xyT3RUblBjemlFOHRnR3BGemhCUmI3ZWktSHlib1NqUDl5SnFPVWlFenh6NUFUMUk1YWdyWmxfTmRKbzJDSDFZdUJCU3FTb3UzbVF0NXBJS25QMWxIOHFiSmhLXzR5clZqYmZYZkRHYi1WVXdnYkdwOUNVX2JrS1ZxUWhkaXZJdnJTcTBWMzRPbm42dm1zVEE2NmNhOEcyRUtjTkFFZU1KWWJUZk5WTVhxd1dmYXpSQlE?oc=5"
+        },
+        {
+          "title": "Nvidia Stock Fell Below $170. Here\u2019s Why It Could Be a Screaming Buy. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNazRXV0tjMkxIejNDc3djWHA1TkZzbUhFeWd1LVJLQ3J6VnB6V3FfcHFCbllfUTNUZVoxZjVBQWprV3BZT3ZTV2ZwUGF5bDlxRnU0Tk5LSF96LW45Q0xtWjBFdXl5NFpDcFRWVE5rLXhBWFlqR29BMEdBeUxCMHNZOXdrZ2h3bkxSRnB4YmxERmVpNFRsOU9F?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
@@ -75,16 +88,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "JAG Berhad (0024.KL) Seasonal returns chart - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00Nk41UDlkRkFJaXQyWVpXNm9HVXV2aVp1NDJzSnpfVm5lY3VNaXJiVnRpS1A0MU11QVhHLUdQWFpQVzJmcHpyblFaSUZzcGJYaDQzUHQ3THpaa3JJVkVwbS1lQWg0UQ?oc=5"
+        },
+        {
           "title": "National Environmental Recycling Company (9540.SR) Seasonal returns chart - Yahoo Finance UK",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jajl4YWV4enFXMnZabG9hcWFOS3NZNkdSNjhoMzRiS2VmVWVpd2FQR2tCanEtRDA2clF2OHBvZ2piSGhJeGU1NEFhNTVnU1kzTGp6VFhhcW1HUmVqbjFGX1N4eTE1Zw?oc=5"
         },
         {
           "title": "JAG Berhad (0024.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ob21IMVBhZl9jQW04WFNlTFdlT3FlRWphcFcxdF8tU3BqRGF1THdmak9USHFaYzd0NkFhNWh6emdBYlVoaHN3ZTJMQjBlMXlFeUhtaUVZREYyTFBfcGg2Y3FRSVVYQQ?oc=5"
-        },
-        {
-          "title": "0397.KL Interactive Stock Chart | 5ER Stock - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rd1QtZHNLcG1Fd05ra25NeWx2QmtLOUI4VzJfUEtuRE1FU0FHLUR5Mm5vdzdFc0hKRXlQSHRNSks0dzdwS1h0TU1BTFBZWkh3?oc=5"
         }
       ]
     },
