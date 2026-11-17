@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:16:01.409446Z",
+  "generatedAt": "2026-11-17T04:15:50.804738Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,24 +19,24 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia's Biggest Jensen Huang Problem Was Hiding in Plain Sight - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUdfT05qSXdMWjNJVElnRU1lQUJNNjkzYVBmTW9odkhvZmtCZUJuQkp4cW5qSHRiQkpleno3TzY0QTBFcHZRZ1p5LTFHaU9XbEpKd0xWM3FQTjNidTh4Q0VLV1c3R2VDSU5KZlBmOVdwTjh6NzQ4dFB0MC1fdVlFZmNKQjlvbk5rdFYxbVFUQWxVandtc2FoYVNudURodC1ES3ln?oc=5"
+        },
+        {
+          "title": "How Nvidia\u2019s Board Made Billions While Overseeing the Company - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaElGSXRGa2ZfTVl4cGtPY09zWHlKMWR4d2RidXpGQXBQRHlNYlRXYU5GaGp6NVFYcTdGb0dWbW9LaC1ua2ttckNKNHlRdlZ0SlNwbnFxMHJxYkQwbm1OR1ROVGtud2h1ZXpUYXhEODIzX0JmT2gyVzJZR01hZXFsa2VhVTExeG4xSjREdTV4dlZXZldsWGd1emlQZUZPa2M?oc=5"
+        },
+        {
           "title": "Stock market drops amid continued Nvidia fallout - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFFWkM0QU81aEJfWUszZ083R0l0MVEwOGJDTmF5MzJRRnI2eDhLd2RhaUoxVHRzSzRud3JKVEtsNmJmZWxrZkg0R3NpaVQ4QTJGZnZXZGstZy1OMl9TYXotOG41blRaTUVFd21xT2NLUlI1aTE0TThlb0tyX2lJbDE2MGczejYwcmU0UHNwbFd5UXZCYnRISGJXOEh4dXBNMnc?oc=5"
-        },
-        {
-          "title": "NVIDIA Corporation (NVDA) Stock Forecasts - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzFMZ09jVGVQVHpSU0dzclowcE9vNTVNVGFGMC1TV1NqLTJlb2I4NE0tN2haWEtMelFTYjktQ1BkNjBJQ1VlcFNWcE9SUmJQN1pkTUZpeWpiV0tvcVRQUV9aU0tnWTQ5WWtoUDAxTGlHN3JrOGtXWUl5b2cxdWl3X3VKeW9sMWxhQkk0RDNaM0kxN1dPMGp1d3lKMnVpQQ?oc=5"
-        },
-        {
-          "title": "AMD\u2019s Nvidia Rally Fades: Michael Burry Calls AMD \u2018Too Expensive As Eternal Alternative\u2019 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTko2RWtHaDczOXQweUt1UDl5X2ozam9EMmtUVDdfY1JibHdnaGFIWVdzSy00SWEwcEtRZkN6aFdfZVpiOXpjNE5rZXRPNHBxdkJkeml3RmVzeENKT2RjaW4wMlJnNTVNWGw0R1d4ODRPd3F2YUdzMWdMcWpvTmtmc2pCV2N4VTd5Yjlub2Y3RnIzeTI3NzAxZWxDVQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.55,
+      "currentPrice": 4.56,
       "weekAgoPrice": 4.679999828338623,
-      "percentChange": -2.78,
+      "percentChange": -2.56,
       "flagged": false,
       "news": []
     },
@@ -66,17 +66,17 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.44,
+      "currentPrice": 1.43,
       "weekAgoPrice": 1.4600000381469727,
-      "percentChange": -1.37,
+      "percentChange": -2.05,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.06,
+      "currentPrice": 1.05,
       "weekAgoPrice": 1.1200000047683716,
-      "percentChange": -5.36,
+      "percentChange": -6.25,
       "flagged": true,
       "news": []
     },
@@ -90,17 +90,17 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.3,
+      "currentPrice": 1.28,
       "weekAgoPrice": 1.2899999618530273,
-      "percentChange": 0.78,
+      "percentChange": -0.78,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.73,
+      "currentPrice": 0.72,
       "weekAgoPrice": 0.6399999856948853,
-      "percentChange": 14.06,
+      "percentChange": 12.5,
       "flagged": true,
       "news": []
     }
