@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-11-17T00:15:58.730211Z",
+  "generatedAt": "2026-11-17T01:16:09.190618Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 517.99,
-      "weekAgoPrice": 545.1799926757812,
-      "percentChange": -4.99,
+      "weekAgoPrice": 530.6099853515625,
+      "percentChange": -2.38,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 156.14,
-      "weekAgoPrice": 178.6699981689453,
-      "percentChange": -12.61,
+      "weekAgoPrice": 186.63999938964844,
+      "percentChange": -16.34,
       "flagged": true,
       "news": [
         {
-          "title": "Daniel Loeb\u2019s Third Point Returned to Nvidia Stock Just Before Its Fall - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDltRGtfTHd2QlFRQ3RlRFlZaVVzOC1PM3E2WU1WYk85M1VXMFpWdW5xTzBkN04ycEhqWWJzaUlnelozZHBzUEVrNWdwbFlWZ01PdXdQTUh1aHZfTUhvblFPM3lMeVdwS2xpakZpQWJyeXl0UlVVT2lNOEtNYXBWRmttVUF5WDNZdjlKRGZDd0E0aS1ONGlTbkh1bmh5SzNqY2RiRVRpRjg5cTREQmhfbjBn?oc=5"
+          "title": "Nvidia Directors Rule Out Huang\u2019s Return as Company Prepares to Report Earnings - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnMyVTl1YTN0bW14WmZsZUQ1S0x2QUZsajVRZjNKYmw2N2dPXzFybmt0YW0wNFlyd1d6OXRmck9TendUcTVibFZnTjFfcl9iUGp0My04dHBjOF9uTEd5SnRYdE9GUFBuQUVDbzlJTHlwdHRoSzBOR1lKWWlnLUhSU0YwZkFzeFQxQThiWUFXLWdydlQzNnJqY2NxMGZFY2F4?oc=5"
         },
         {
-          "title": "Intel Stock Sell-Off Deepens After Nvidia Cuts Stake - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlzcVRDWDhOYUlXa3htU0hKa3JKMGh4NkZpV1hoTXY3YzBVLUlWSVk4Q3Y5My15VFBxbEZyQVBqRmR0Z1ozaWtEZnEzdlZycHdkXzIzMDJtOHppbzdzamU0MjJyR0FENk9vU3pWNlNsZld3eTE4Z09Mc2U3d290bWp6b29vRjlXdl9IRmpGa0pTbVJvZ2h4eVR2czBMaWlTMER3cEh6UThxMXlIUWNKQ2ZXYw?oc=5"
+          "title": "Jensen Huang and Wife Transferred More Than $10.5 Billion to Family Trust in March 2026 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSlJLSThaTGlySHN1SUM0eUJoeXpVblhqV01sMXU4M2ZoSUlRbWp0dnduNE1ablF1cGlyaWw3aDBqZXF1Y1Q1dk9HNU84X3FzT2FkWFVMQ193OWZ6VUl4OTJ0akhvQk9OVjVwcDZKcXNEdUNNRkpEVmt5aHpiVlRHNEdOM1F5eXNFMXhkTld0Z0hVWEp1am4yVnU5RVd5Ykwt?oc=5"
         },
         {
-          "title": "Nvidia rules out Huang comeback as campaign for his return grows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnJmVHNCR2NpOGp0dlZibjRKMHA2S0hJM21UQTlDUmpTdXJwekFtbWxwdGVEZDVSRm0tUjZyWHQ3dGZVSmdBQkdCMHgwS0E1MU1MczV4c0p1cjRZT2I0dFpvWEZQU3VDSXNPZ1hKZHhQenJ6RVNpbFhIUm5KeVFSdHgxNGx5U2dHd0hsanhrMW1vWEUybU9maXg0cUJNUlpzcnp6NG9LS25kcjllZ3REY0o3Z3R1blU?oc=5"
+          "title": "Tech Leaders Want Jensen Huang to Return to Nvidia. Here\u2019s What That Would Mean for the Stock Price. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcTdGMlQwdmZzb1JVejBNbnk0c25zTW0tUFoxQnBQM2tIVVhWdTNVbWlBQ1ZNczBkQjlhYnZXQl9BbkZmZDV6dWZ6WGJZZFota05mbVBkRTZUQlJUZTB5YThxNnNCN0FlcExyckh2MEhfZW9EQ2NZWWp3cTZGNU81WXVMb2pxMTBqdVpKTDRtTG1aRjd1eWxrNlNKcFFYLUlqb2J0Y2lkQXFTMUUzT0JOY2FobV9wUkpCVEk4VDRlWGUxbUVJN3NUb3VNaDRxODQ2UHBIaHFSYkQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.55,
-      "weekAgoPrice": 4.900000095367432,
-      "percentChange": -7.14,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-        }
-      ]
+      "currentPrice": 4.56,
+      "weekAgoPrice": 4.679999828338623,
+      "percentChange": -2.56,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.59,
-      "weekAgoPrice": 7.730000019073486,
-      "percentChange": -1.81,
+      "weekAgoPrice": 7.690000057220459,
+      "percentChange": -1.3,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.22,
-      "weekAgoPrice": 1.2200000286102295,
-      "percentChange": -0.0,
+      "weekAgoPrice": 1.2400000095367432,
+      "percentChange": -1.61,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.43,
-      "weekAgoPrice": 1.4800000190734863,
-      "percentChange": -3.38,
-      "flagged": false,
-      "news": []
+      "currentPrice": 1.42,
+      "weekAgoPrice": 1.5299999713897705,
+      "percentChange": -7.19,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Genting Berhad (3182.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5271.KL",

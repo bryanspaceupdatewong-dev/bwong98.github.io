@@ -1,82 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-13T03:16:16.762723Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 166.19,
-        "weekAgoPrice": 181.60000610351562,
-        "percentChange": -8.49,
-        "flagged": true,
-        "news": [
-          {
-            "title": "What Does Nvidia (NVDA) CEO Resignation Mean For Its AI Leadership? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzhldlk5Z2dEaVZIYTRYV29WcTc1Q2xsYUJGcGQ0Z3lSRVl2cFNrNFM3RmRuRUhkSml3RGtCeEtFYUxXNFVwOWs3cy1obmhFYkYzRnh1emg3ci1TMldWdlluczNlLVhkMDdwVU8wamVLQmxCWUthRGx1UDVqc2VrZlY1aE5qNDYzRWJtZEVQbk9iNUhCWkFQbm82cVY?oc=5"
-          },
-          {
-            "title": "U.S. stock futures rise after Nvidia CEO exit spooks Wall St - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakdzLTNVTjhwd1J2aGphRzJBMTRQU21iMlVLRGNmNE5aUHdxZWk2dUNkN0o3bGU0VC1SWkEtYnkzUEhkY0VmN2lGTUEzaW41V3AwVEdXaHdqa1lUT0w4bzZrTXRvYlVkYUZUUGJyTGhrVDY3WlJmeWRONVNMUVA4Wk5qVGo3WDNYUnl2RTNLSUhHTElPa2Jv?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGJwaGlFaHdoRlkyak8zUFBjSmhrVVJxQnIzOGt0N0tsNThnUlM2NGYySmJxVFp5Tnh1ZDdJckhPQTI3ZC1nSDhYeGFjamdhUWN4ZC1KREI3bEt6dloyMVEzS1VEaDQ2OE03ZklZbXJYMTVuUGxLSFV2YkZ6cTh1Uw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.52,
-        "weekAgoPrice": 4.960000038146973,
-        "percentChange": -8.87,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.45,
-        "weekAgoPrice": 1.5399999618530273,
-        "percentChange": -5.84,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.05,
-        "weekAgoPrice": 1.2000000476837158,
-        "percentChange": -12.5,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.34,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": 8.94,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.725,
-        "weekAgoPrice": 0.6549999713897705,
-        "percentChange": 10.69,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-13T04:16:25.997112Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3498,6 +3421,75 @@
           {
             "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.05,
+        "weekAgoPrice": 1.1699999570846558,
+        "percentChange": -10.26,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.2200000286102295,
+        "percentChange": 11.48,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6499999761581421,
+        "percentChange": 15.38,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-17T01:16:09.190618Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 156.14,
+        "weekAgoPrice": 186.63999938964844,
+        "percentChange": -16.34,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Directors Rule Out Huang\u2019s Return as Company Prepares to Report Earnings - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnMyVTl1YTN0bW14WmZsZUQ1S0x2QUZsajVRZjNKYmw2N2dPXzFybmt0YW0wNFlyd1d6OXRmck9TendUcTVibFZnTjFfcl9iUGp0My04dHBjOF9uTEd5SnRYdE9GUFBuQUVDbzlJTHlwdHRoSzBOR1lKWWlnLUhSU0YwZkFzeFQxQThiWUFXLWdydlQzNnJqY2NxMGZFY2F4?oc=5"
+          },
+          {
+            "title": "Jensen Huang and Wife Transferred More Than $10.5 Billion to Family Trust in March 2026 - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSlJLSThaTGlySHN1SUM0eUJoeXpVblhqV01sMXU4M2ZoSUlRbWp0dnduNE1ablF1cGlyaWw3aDBqZXF1Y1Q1dk9HNU84X3FzT2FkWFVMQ193OWZ6VUl4OTJ0akhvQk9OVjVwcDZKcXNEdUNNRkpEVmt5aHpiVlRHNEdOM1F5eXNFMXhkTld0Z0hVWEp1am4yVnU5RVd5Ykwt?oc=5"
+          },
+          {
+            "title": "Tech Leaders Want Jensen Huang to Return to Nvidia. Here\u2019s What That Would Mean for the Stock Price. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcTdGMlQwdmZzb1JVejBNbnk0c25zTW0tUFoxQnBQM2tIVVhWdTNVbWlBQ1ZNczBkQjlhYnZXQl9BbkZmZDV6dWZ6WGJZZFota05mbVBkRTZUQlJUZTB5YThxNnNCN0FlcExyckh2MEhfZW9EQ2NZWWp3cTZGNU81WXVMb2pxMTBqdVpKTDRtTG1aRjd1eWxrNlNKcFFYLUlqb2J0Y2lkQXFTMUUzT0JOY2FobV9wUkpCVEk4VDRlWGUxbUVJN3NUb3VNaDRxODQ2UHBIaHFSYkQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.42,
+        "weekAgoPrice": 1.5299999713897705,
+        "percentChange": -7.19,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Genting Berhad (3182.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
           }
         ]
       },
