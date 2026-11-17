@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-17T16:16:35.559614Z",
+  "generatedAt": "2026-11-17T17:16:07.404320Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 499.69,
+      "currentPrice": 501.22,
       "weekAgoPrice": 533.1599731445312,
-      "percentChange": -6.28,
+      "percentChange": -5.99,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 154.956,
+      "currentPrice": 154.215,
       "weekAgoPrice": 168.88999938964844,
-      "percentChange": -8.25,
+      "percentChange": -8.69,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia earnings preview: How Jensen Huang updates could impact the stock, whether the results are strong or not - Fast Company",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2ZMemQ4a2ZmVFpfb3BkcVFOV1lpbG10NmxWNjFPUmZsZ0xQTEQ3MFBaYkNvOUlNYVdsWWdxeDJIdzd1Qldsb1ZLRjRfRXRBYy14MjZfY2hzTEs4NDdqb1psWnBkdl91TzhHYzNrVF9UVmMtaEc4U180MnlZekNRTEgwSGhyNWF3SFNDVE05MlRVRkVJdHdSbnp3VlA?oc=5"
-        },
-        {
-          "title": "Stocks making the biggest moves Tuesday: Disney, Home Depot, Nvidia & more - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVdJdXVnZWRscjRjWktRd2UwcEdOYmZmMWRIVHdHYjZTSU5td2tGeHZPM2NVUWkwLWRJWVhFRHFWVklXMURwUDVQMmJCMEx3T0FCZHRVckh2b3VFanJ5N2tqOWpkWWF0c01yZlc0RFV0ZEZtdXAxekgteHVCcDZ4eXF1SDHSAYoBQVVfeXFMTkFLOE5jcnhTN2VWaHgtaWplbUs4RUM4SzNLd2VONUJaZkxuUkZEV2poOG9weUM4MERQRzF3Wkw4TXlKeTI5UHA1Ni1xd0FlUXRtd3lrMktVbmRoTDlRaEJ4TmplUlFxNHVpVDNrclZmOGMwYXpmOXlaRlViNU1xcUZBSzctS3VaVXpR?oc=5"
-        },
-        {
           "title": "Nvidia live updates: Nvidia to report Q3 earnings after the bell with Colette Kress to host first call as interim CEO - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdXFsd2l6azZDWWJyWDItT0hudzBhMUloOWF4V3FMV1ZlTUhsODg4d0RoY1ZuaXNJeExyWFNjallKQ2wzcW13ektmSzdwTjFYeUxrUkp2T3lPTG5raHY4Q0FEcWhnTmxCLXVYd2hwU05UOXdKcXFobjhRZFpXS3VqQmhsS0pGMFhQY1ZzMW9LS3ZvNGU4bTlJVDdXSTRWYkljem1mSUp0ekNsWWREb0R6OGZnYnM1YzBJTWlFTU1vZG1ubjV5Q2lkZTE2M3JrSWRQam0wb20zZ0Jad1Vud2FaX1Q4NjlncDRIbHQ2Mk5tYjM?oc=5"
+        },
+        {
+          "title": "Jensen Huang breaks his silence ahead of Nvidia earnings \u2014 plus, 1 stock to buy on weakness - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNjRIYi1yMVRaX1RUeWV1Rlhabm81M184cldpa2s3UllLT1h1S3htNkFMUWNRS0ZEUDBMenM2cENkM0pCR2RXY19ORmdhb1Z2SDBVbFBCMVAxcWVrVnpQQVhXUW93aUVxY08tT1FlcnVCdTdITzFlRTZRWmR1LUFfcVdXWGt0VzVSOFFSeUxPU1Q5eV9VbzZkeTRMNUhlNWJneWs3WWNuS2pIcThld3pBa1lGeVJyazhucjRoME10M0pFTlRVOGc?oc=5"
+        },
+        {
+          "title": "Jensen Huang says he would return as Nvidia CEO if asked, shares gain - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGRrRXZ6bDBQOXJGeXY1QzFXVnp3LXliZWtJT2hsdHpmU1U2T0lGVm9DMU9SUWMzb1JRRE95SWlGcDU4akN0YzktMFo1ak80eXpvNGJrSDRqdFNCbURmc3V2QkhFT1B4YlBIZFZjM0FWNmdfRmJ0WmlycWxMeGdNUEZSRkp0ak44MHBoVmxQMTJZbzhsdG81U1V0YW4?oc=5"
         }
       ]
     },
