@@ -1,15 +1,19 @@
 {
-  "generatedAt": "2026-11-17T18:16:12.292925Z",
+  "generatedAt": "2026-11-17T18:26:54.948529Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 502.125,
+      "currentPrice": 503.42,
       "weekAgoPrice": 533.1599731445312,
-      "percentChange": -5.82,
+      "percentChange": -5.58,
       "flagged": true,
       "news": [
+        {
+          "title": "AI agents can act without human approval at every step. Microsoft is helping develop standards to verify their actions. - Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNE9GSEE2TVdwcnV6VTVjcTdRY19zNTJSTUZRcW5WdC1Yb0hDLThGcXpWNWxJb3FuTGp2TXplRU1wUG1PRjJOa08tZXA3TUo3TTFNeW54MGdOTFVWalJkZzk2d0ZJYWZ3X25qRjY0Y19kVkIwYVowdWpjN0V6ZmxnM1dsbnZJMjU2T3FuWXJvSDdaa3p0Q3J2eFNsZkdvVVkycHFnQ05mRmJ4TTI0TllKaDRXRjh3QkFlal93UzZkR2M?oc=5"
+        },
         {
           "title": "Microsoft Stock (NASDAQ:MSFT) Drops as Bill Ackman Sells 35% of His Stake - TipRanks",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2VnYmp6ZTM1SFVFMGlXbzVud2dja1c1RlBRaUdleDQ2eUFiZEY4WDhYM2VRTnNGUTlGZl9DbF9FMG1sNTVfVFNDcW9SRlpXZXFlZVp5ZlpJWXZyY2JQSWdNd3RySzUtMi1pYTZScl8xQm9jaFdSMVdNNzEwbUpjS19OTGw1aVFua1NKQkNfMjZNTHVBdzRQZ3BWRWpBVXM4?oc=5"
@@ -17,27 +21,23 @@
         {
           "title": "Wells Fargo Sticks to Their Buy Rating for Microsoft (MSFT) - The Globe and Mail",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWmhQa3hzQjhacXhmVlA2NWFtMW1RWGd0c1J5VktvRkZLRTNTMTdBWENRQ3pCbFVIbi11SkF1dTY4SW5KM01pYlg4WkpzaTV2akhDMGVoaXRSOVVNTmpXcy1KSXBSLXNhTWI2SkgzNk05QlFJWmVNUEN0X0ZWMnh6dW10VW11ZlAwVXFFLVVxVnFRS0FWZ0h0S1BPa3dQdm1wWXhGVEJJQUtsSmk2QTFia0xXMW45RVJHeVFHS1U1TlNMbmt0UjlOSlRyTHZqNzJuUnYyam9Xb3UtUQ?oc=5"
-        },
-        {
-          "title": "Palantir Technologies Inc Stock (PLTR) Moved Down by 3.21% on Nov 17: Key Drivers Unveiled - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTGloZHZMVnZ4LWlvSTltTEE4UDFuTlhtQUhJNjQyYVNpRmlKVWxZUlRrdUZzY09ZS09PMWlRQUlnTW9FZ21jSkpwdF9oOG5PMXVzZDQ2T1NQbEJ1YWRmRFJTZUxzcC1jcG01ck9VMkpla1gtdGQwZVZmbVBqMlJxLUozNWU5b1dqTXZn?oc=5"
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 153.65,
+      "currentPrice": 154.131,
       "weekAgoPrice": 168.88999938964844,
-      "percentChange": -9.02,
+      "percentChange": -8.74,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iM3pFNTMyc0NDSXdVbjV1RFhtMjMybWRUcWtGOGRsVllWSS1Yd2Y0emU4MXNVbUpoUUUxTVZ5ck8xem1nNjVuNUl2VVFzLXNMZU1nZlRPNDJTRG9uaFhkbXpSdzNhQW9lWDZQbUtHUnRZeDBlaUl2Y3pDcErSAYIBQVVfeXFMTXV5dkdmRTlzLVlhbUdHREtUSWs2M09MRm8yYldyTkhnZllMWUdFZHh4cVo1Z0FlUmRld3ZnUmVuMV9OanU0em9oTmF2MjNoNGZ0T282eDZialBxU3g1Nkt5aFVrSzdHbmh0Y1I5aFZhRDZjQWdWX0Q3aXNVaV9DeFA2UQ?oc=5"
+          "title": "Stocks making the biggest moves Tuesday: Salesforce, Nvidia, SpaceX, Strategy & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVdJdXVnZWRscjRjWktRd2UwcEdOYmZmMWRIVHdHYjZTSU5td2tGeHZPM2NVUWkwLWRJWVhFRHFWVklXMURwUDVQMmJCMEx3T0FCZHRVckh2b3VFanJ5N2tqOWpkWWF0c01yZlc0RFV0ZEZtdXAxekgteHVCcDZ4eXF1SDHSAYoBQVVfeXFMTkFLOE5jcnhTN2VWaHgtaWplbUs4RUM4SzNLd2VONUJaZkxuUkZEV2poOG9weUM4MERQRzF3Wkw4TXlKeTI5UHA1Ni1xd0FlUXRtd3lrMktVbmRoTDlRaEJ4TmplUlFxNHVpVDNrclZmOGMwYXpmOXlaRlViNU1xcUZBSzctS3VaVXpR?oc=5"
         },
         {
-          "title": "Stocks making the biggest moves midday: Salesforce, Nvidia, SpaceX, Strategy & more - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVdJdXVnZWRscjRjWktRd2UwcEdOYmZmMWRIVHdHYjZTSU5td2tGeHZPM2NVUWkwLWRJWVhFRHFWVklXMURwUDVQMmJCMEx3T0FCZHRVckh2b3VFanJ5N2tqOWpkWWF0c01yZlc0RFV0ZEZtdXAxekgteHVCcDZ4eXF1SDHSAYoBQVVfeXFMTkFLOE5jcnhTN2VWaHgtaWplbUs4RUM4SzNLd2VONUJaZkxuUkZEV2poOG9weUM4MERQRzF3Wkw4TXlKeTI5UHA1Ni1xd0FlUXRtd3lrMktVbmRoTDlRaEJ4TmplUlFxNHVpVDNrclZmOGMwYXpmOXlaRlViNU1xcUZBSzctS3VaVXpR?oc=5"
+          "title": "Nvidia live updates: Nvidia to report Q3 earnings after the bell with Colette Kress to host first call as interim CEO - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdXFsd2l6azZDWWJyWDItT0hudzBhMUloOWF4V3FMV1ZlTUhsODg4d0RoY1ZuaXNJeExyWFNjallKQ2wzcW13ektmSzdwTjFYeUxrUkp2T3lPTG5raHY4Q0FEcWhnTmxCLXVYd2hwU05UOXdKcXFobjhRZFpXS3VqQmhsS0pGMFhQY1ZzMW9LS3ZvNGU4bTlJVDdXSTRWYkljem1mSUp0ekNsWWREb0R6OGZnYnM1YzBJTWlFTU1vZG1ubjV5Q2lkZTE2M3JrSWRQam0wb20zZ0Jad1Vud2FaX1Q4NjlncDRIbHQ2Mk5tYjM?oc=5"
         },
         {
           "title": "Wall St falls before Nvidia earnings in key AI test; Huang says open to return - Reuters",
