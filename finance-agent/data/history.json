@@ -1,82 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-13T05:15:59.816265Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 166.19,
-        "weekAgoPrice": 181.60000610351562,
-        "percentChange": -8.49,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Despite NVDA Rout, Investors Have Poured In $37.5B In US Stock ETFs In 5 Days \u2013 Here\u2019s Where The Money Went - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVngxYkdOcTdodlNJRnFIclFGMERlRFdYVlZHQkhuOUZVZmlaVDEtUzRJSTV4U0JGazdaOVJWeUFkS2l3cVdlTnJDVFNzZHlNdlNjSDBFVTI4TGtzNUt2bnlGVU1fS3NOSS1HWU5wYmRDc1cxVHFWaUhkbGFhQ01HTEY0R2EzbXV1MUFMbDdFTnBBeGhyM1pjQkZhejRNRDZs?oc=5"
-          },
-          {
-            "title": "CoreWeave stuns Wall Street as Nvidia scandal deepens - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFZQejJtTlhuZDF3RXEwZTJwTTRPT01yejhZUXY5c2Q3ZFRJd1BkUzUxTXVJMWg4M1Y4eE5jZHhTMzBHVU5sOXNhSjhrUVI1Z0E1Y3lBbHVxUXUtLWljSXA2Y0dSSFpUbHJJYlNObFhZQkNBWGhibkxMV25wSjRlR0VWNEVpZlc4ZGFTVWtibFhyenFuZFNoWVhYZ0U4SFhf?oc=5"
-          },
-          {
-            "title": "Michael Burry Sees A \u2018Mechanical Bid\u2019 Under NVDA Stock \u2013 Even As He Questions Nvidia\u2019s Succession Plan And Asia Sales - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnhfVE1scE5nTUJyNWhaYXZPMTA3bGlVVy1LY3RWZ0ltczdZNklGUHZicENiTU9PdkdMT0prcldrdUxpZXZCX3ZCbFo2ay1RWmxmNVNIeDBSQUtRczhFYVZzTVRaSDhkV2hiS1FYcGUxd05FWFd4dGNzWWRnNFVPd2VuRmxZaEhKOUppN0REa3l5V2NwZl9CRGFHSVA2bmc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.53,
-        "weekAgoPrice": 4.960000038146973,
-        "percentChange": -8.67,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.44,
-        "weekAgoPrice": 1.5399999618530273,
-        "percentChange": -6.49,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.04,
-        "weekAgoPrice": 1.2000000476837158,
-        "percentChange": -13.33,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Mr D.I.Y. Group (M) Berhad (5296.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kTEIyYkZVRHkyWl9jd1RSRW42RUFoQUNyOWZtWHVVLTBPMkJBbVhacTRiUGR2Q1dqQlczcDlXclg4MUtEYjhDWXJaSjBsTk5fQTdfMXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.32,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": 7.32,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Swift Haulage Berhad (5303.KL) Seasonal returns chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IdU5PWVRSYjZCcFliMncwbngtamo1SmNTMExlU0tRMHVNbTA2VkdXVDlCUnd5Zi1jV1dERzczakc4NFgtZlFTdUFmV0t5UXdNeFFObGZvX25WZm9GMW1VOG16TW9jdw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.73,
-        "weekAgoPrice": 0.6549999713897705,
-        "percentChange": 11.45,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-13T06:16:18.151640Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3493,6 +3416,57 @@
         "currentPrice": 0.74,
         "weekAgoPrice": 0.6399999856948853,
         "percentChange": 15.63,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-17T03:16:01.409446Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 156.14,
+        "weekAgoPrice": 178.6699981689453,
+        "percentChange": -12.61,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock market drops amid continued Nvidia fallout - The Washington Post",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFFWkM0QU81aEJfWUszZ083R0l0MVEwOGJDTmF5MzJRRnI2eDhLd2RhaUoxVHRzSzRud3JKVEtsNmJmZWxrZkg0R3NpaVQ4QTJGZnZXZGstZy1OMl9TYXotOG41blRaTUVFd21xT2NLUlI1aTE0TThlb0tyX2lJbDE2MGczejYwcmU0UHNwbFd5UXZCYnRISGJXOEh4dXBNMnc?oc=5"
+          },
+          {
+            "title": "NVIDIA Corporation (NVDA) Stock Forecasts - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzFMZ09jVGVQVHpSU0dzclowcE9vNTVNVGFGMC1TV1NqLTJlb2I4NE0tN2haWEtMelFTYjktQ1BkNjBJQ1VlcFNWcE9SUmJQN1pkTUZpeWpiV0tvcVRQUV9aU0tnWTQ5WWtoUDAxTGlHN3JrOGtXWUl5b2cxdWl3X3VKeW9sMWxhQkk0RDNaM0kxN1dPMGp1d3lKMnVpQQ?oc=5"
+          },
+          {
+            "title": "AMD\u2019s Nvidia Rally Fades: Michael Burry Calls AMD \u2018Too Expensive As Eternal Alternative\u2019 - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTko2RWtHaDczOXQweUt1UDl5X2ozam9EMmtUVDdfY1JibHdnaGFIWVdzSy00SWEwcEtRZkN6aFdfZVpiOXpjNE5rZXRPNHBxdkJkeml3RmVzeENKT2RjaW4wMlJnNTVNWGw0R1d4ODRPd3F2YUdzMWdMcWpvTmtmc2pCV2N4VTd5Yjlub2Y3RnIzeTI3NzAxZWxDVQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.4,
+        "weekAgoPrice": 1.5299999713897705,
+        "percentChange": -8.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.06,
+        "weekAgoPrice": 1.1200000047683716,
+        "percentChange": -5.36,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.73,
+        "weekAgoPrice": 0.6399999856948853,
+        "percentChange": 14.06,
         "flagged": true,
         "news": []
       }

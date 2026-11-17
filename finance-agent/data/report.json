@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-17T02:15:59.986216Z",
+  "generatedAt": "2026-11-17T03:16:01.409446Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 517.99,
-      "weekAgoPrice": 530.6099853515625,
-      "percentChange": -2.38,
+      "weekAgoPrice": 545.1799926757812,
+      "percentChange": -4.99,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 156.14,
-      "weekAgoPrice": 186.63999938964844,
-      "percentChange": -16.34,
+      "weekAgoPrice": 178.6699981689453,
+      "percentChange": -12.61,
       "flagged": true,
       "news": [
         {
@@ -23,20 +23,20 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFFWkM0QU81aEJfWUszZ083R0l0MVEwOGJDTmF5MzJRRnI2eDhLd2RhaUoxVHRzSzRud3JKVEtsNmJmZWxrZkg0R3NpaVQ4QTJGZnZXZGstZy1OMl9TYXotOG41blRaTUVFd21xT2NLUlI1aTE0TThlb0tyX2lJbDE2MGczejYwcmU0UHNwbFd5UXZCYnRISGJXOEh4dXBNMnc?oc=5"
         },
         {
-          "title": "Prediction: Nov. 18 Will Be a Huge Day for AI Power Stocks. Here\u2019s Why. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc3JhM0o3LUJUVnpLWFJBaE5qdk5zNExKMWxRYVA0OHlEVHhGU1Y4TjYySWF2Q0tEUk85RzFIeHF2cUF1QUc1Ul9vb3V5UWFzVjU0dXNHandkVTZOUk9QTmtIYXJ0NU5IZFMzcS1NeEtYbmxiRV9Fa3NDcVhmV0xKbHBNeUQ1amN1R0RqYnkzUVV5Nmpp?oc=5"
+          "title": "NVIDIA Corporation (NVDA) Stock Forecasts - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzFMZ09jVGVQVHpSU0dzclowcE9vNTVNVGFGMC1TV1NqLTJlb2I4NE0tN2haWEtMelFTYjktQ1BkNjBJQ1VlcFNWcE9SUmJQN1pkTUZpeWpiV0tvcVRQUV9aU0tnWTQ5WWtoUDAxTGlHN3JrOGtXWUl5b2cxdWl3X3VKeW9sMWxhQkk0RDNaM0kxN1dPMGp1d3lKMnVpQQ?oc=5"
         },
         {
-          "title": "Nvidia Directors Rule Out Huang\u2019s Return as Company Prepares to Report Earnings - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnMyVTl1YTN0bW14WmZsZUQ1S0x2QUZsajVRZjNKYmw2N2dPXzFybmt0YW0wNFlyd1d6OXRmck9TendUcTVibFZnTjFfcl9iUGp0My04dHBjOF9uTEd5SnRYdE9GUFBuQUVDbzlJTHlwdHRoSzBOR1lKWWlnLUhSU0YwZkFzeFQxQThiWUFXLWdydlQzNnJqY2NxMGZFY2F4?oc=5"
+          "title": "AMD\u2019s Nvidia Rally Fades: Michael Burry Calls AMD \u2018Too Expensive As Eternal Alternative\u2019 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTko2RWtHaDczOXQweUt1UDl5X2ozam9EMmtUVDdfY1JibHdnaGFIWVdzSy00SWEwcEtRZkN6aFdfZVpiOXpjNE5rZXRPNHBxdkJkeml3RmVzeENKT2RjaW4wMlJnNTVNWGw0R1d4ODRPd3F2YUdzMWdMcWpvTmtmc2pCV2N4VTd5Yjlub2Y3RnIzeTI3NzAxZWxDVQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.54,
+      "currentPrice": 4.55,
       "weekAgoPrice": 4.679999828338623,
-      "percentChange": -2.99,
+      "percentChange": -2.78,
       "flagged": false,
       "news": []
     },
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.04,
+      "currentPrice": 1.06,
       "weekAgoPrice": 1.1200000047683716,
-      "percentChange": -7.14,
+      "percentChange": -5.36,
       "flagged": true,
       "news": []
     },
@@ -90,17 +90,17 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.33,
+      "currentPrice": 1.3,
       "weekAgoPrice": 1.2899999618530273,
-      "percentChange": 3.1,
+      "percentChange": 0.78,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.74,
+      "currentPrice": 0.73,
       "weekAgoPrice": 0.6399999856948853,
-      "percentChange": 15.63,
+      "percentChange": 14.06,
       "flagged": true,
       "news": []
     }
