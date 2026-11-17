@@ -1,109 +1,114 @@
 {
-  "generatedAt": "2026-11-17T15:16:10.032697Z",
+  "generatedAt": "2026-11-17T16:16:35.559614Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 511.92,
+      "currentPrice": 499.69,
       "weekAgoPrice": 533.1599731445312,
-      "percentChange": -3.98,
-      "flagged": false,
-      "news": []
-    },
-    {
-      "ticker": "NVDA",
-      "currentPrice": 154.07,
-      "weekAgoPrice": 168.88999938964844,
-      "percentChange": -8.77,
+      "percentChange": -6.28,
       "flagged": true,
       "news": []
     },
     {
+      "ticker": "NVDA",
+      "currentPrice": 154.956,
+      "weekAgoPrice": 168.88999938964844,
+      "percentChange": -8.25,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Nvidia earnings preview: How Jensen Huang updates could impact the stock, whether the results are strong or not - Fast Company",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2ZMemQ4a2ZmVFpfb3BkcVFOV1lpbG10NmxWNjFPUmZsZ0xQTEQ3MFBaYkNvOUlNYVdsWWdxeDJIdzd1Qldsb1ZLRjRfRXRBYy14MjZfY2hzTEs4NDdqb1psWnBkdl91TzhHYzNrVF9UVmMtaEc4U180MnlZekNRTEgwSGhyNWF3SFNDVE05MlRVRkVJdHdSbnp3VlA?oc=5"
+        },
+        {
+          "title": "Stocks making the biggest moves Tuesday: Disney, Home Depot, Nvidia & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVdJdXVnZWRscjRjWktRd2UwcEdOYmZmMWRIVHdHYjZTSU5td2tGeHZPM2NVUWkwLWRJWVhFRHFWVklXMURwUDVQMmJCMEx3T0FCZHRVckh2b3VFanJ5N2tqOWpkWWF0c01yZlc0RFV0ZEZtdXAxekgteHVCcDZ4eXF1SDHSAYoBQVVfeXFMTkFLOE5jcnhTN2VWaHgtaWplbUs4RUM4SzNLd2VONUJaZkxuUkZEV2poOG9weUM4MERQRzF3Wkw4TXlKeTI5UHA1Ni1xd0FlUXRtd3lrMktVbmRoTDlRaEJ4TmplUlFxNHVpVDNrclZmOGMwYXpmOXlaRlViNU1xcUZBSzctS3VaVXpR?oc=5"
+        },
+        {
+          "title": "Nvidia live updates: Nvidia to report Q3 earnings after the bell with Colette Kress to host first call as interim CEO - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdXFsd2l6azZDWWJyWDItT0hudzBhMUloOWF4V3FMV1ZlTUhsODg4d0RoY1ZuaXNJeExyWFNjallKQ2wzcW13ektmSzdwTjFYeUxrUkp2T3lPTG5raHY4Q0FEcWhnTmxCLXVYd2hwU05UOXdKcXFobjhRZFpXS3VqQmhsS0pGMFhQY1ZzMW9LS3ZvNGU4bTlJVDdXSTRWYkljem1mSUp0ekNsWWREb0R6OGZnYnM1YzBJTWlFTU1vZG1ubjV5Q2lkZTE2M3JrSWRQam0wb20zZ0Jad1Vud2FaX1Q4NjlncDRIbHQ2Mk5tYjM?oc=5"
+        }
+      ]
+    },
+    {
       "ticker": "1295.KL",
       "currentPrice": 4.56,
-      "weekAgoPrice": 4.679999828338623,
-      "percentChange": -2.56,
-      "flagged": false,
-      "news": []
+      "weekAgoPrice": 4.900000095367432,
+      "percentChange": -6.94,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.63,
-      "weekAgoPrice": 7.690000057220459,
-      "percentChange": -0.78,
+      "weekAgoPrice": 7.730000019073486,
+      "percentChange": -1.29,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.21,
-      "weekAgoPrice": 1.2400000095367432,
-      "percentChange": -2.42,
+      "weekAgoPrice": 1.2200000286102295,
+      "percentChange": -0.82,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.4,
-      "weekAgoPrice": 1.5299999713897705,
-      "percentChange": -8.5,
+      "weekAgoPrice": 1.4800000190734863,
+      "percentChange": -5.41,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.42,
-      "weekAgoPrice": 1.4600000381469727,
-      "percentChange": -2.74,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": -2.07,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.04,
-      "weekAgoPrice": 1.1200000047683716,
-      "percentChange": -7.14,
+      "weekAgoPrice": 1.1699999570846558,
+      "percentChange": -11.11,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.24,
-      "weekAgoPrice": 0.2549999952316284,
-      "percentChange": -5.88,
-      "flagged": true,
-      "news": [
-        {
-          "title": "National Environmental Recycling Company (9540.SR) Seasonal returns chart - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jajl4YWV4enFXMnZabG9hcWFOS3NZNkdSNjhoMzRiS2VmVWVpd2FQR2tCanEtRDA2clF2OHBvZ2piSGhJeGU1NEFhNTVnU1kzTGp6VFhhcW1HUmVqbjFGX1N4eTE1Zw?oc=5"
-        },
-        {
-          "title": "JAG Berhad (0024.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ob21IMVBhZl9jQW04WFNlTFdlT3FlRWphcFcxdF8tU3BqRGF1THdmak9USHFaYzd0NkFhNWh6emdBYlVoaHN3ZTJMQjBlMXlFeUhtaUVZREYyTFBfcGg2Y3FRSVVYQQ?oc=5"
-        },
-        {
-          "title": "0397.KL Interactive Stock Chart | 5ER Stock - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rd1QtZHNLcG1Fd05ra25NeWx2QmtLOUI4VzJfUEtuRE1FU0FHLUR5Mm5vdzdFc0hKRXlQSHRNSks0dzdwS1h0TU1BTFBZWkh3?oc=5"
-        }
-      ]
+      "weekAgoPrice": 0.23999999463558197,
+      "percentChange": 0.0,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.28,
-      "weekAgoPrice": 1.2899999618530273,
-      "percentChange": -0.78,
+      "weekAgoPrice": 1.2200000286102295,
+      "percentChange": 4.92,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.74,
-      "weekAgoPrice": 0.6399999856948853,
-      "percentChange": 15.63,
+      "weekAgoPrice": 0.6499999761581421,
+      "percentChange": 13.85,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 6
 }
