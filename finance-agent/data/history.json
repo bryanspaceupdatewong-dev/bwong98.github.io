@@ -1,69 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-16T08:15:53.327382Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 162.85,
-        "weekAgoPrice": 186.63999938964844,
-        "percentChange": -12.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Jensen Huang's return would boost Nvidia stock: Analyst - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YVmNCcHJNeHNXTHlTWHdISWx1YXYxMXRwTFV6UzF6RWV3eHZ4dEZmRnBWQjAtMVNWMThXbzJQeDVTeFlJU1ZMS2taYURVZUlyYVRfRUJ2b05mVHZwS0staTBneXgteE1XLThxd0x5VUJqUDFUNEE?oc=5"
-          },
-          {
-            "title": "Losing Jensen Was Bad Enough. Losing NVIDIA\u2019s Bench Would Be Worse - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSnhWR0c3bXZxLXdrNEl6SGtZZzZJcDhCT0EyVnl2VGJ4cmgyZWh1WXVTa0lsQldUV0VzNjgzN25JVzI2WUNfRW9qOTRCQUt5UldueHdzSEJaS1FPdjZlcl93Mi1iaU1LMzlsbDNiR3lheV9BZ1NiWURySjVaQlJDZk9Va2JOWW51XzdpaUtJcWphV21xdUJBMnpjc2I?oc=5"
-          },
-          {
-            "title": "Stocks extend losses as traders await Nvidia earnings and Anthropic IPO - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFdiYXVZMURsYVZfd2JIMENSaDJvWW9SMkN0cklBemV6czFJN3pQNzJuNVZPOGZPcnViNndpX2E2WU5OTkhPbjNYVkRFcFg3VHd4WmVBYkc2aTZNZEs0X2t5dWtkalN4WjNWSmxsdVRiZUg2T3g5WXdMUWZPNV9UMjNCQ1QxUlY5ZmdZ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.56,
-        "weekAgoPrice": 4.900000095367432,
-        "percentChange": -6.94,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.04,
-        "weekAgoPrice": 1.1699999570846558,
-        "percentChange": -11.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.33,
-        "weekAgoPrice": 1.2200000286102295,
-        "percentChange": 9.02,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.735,
-        "weekAgoPrice": 0.6499999761581421,
-        "percentChange": 13.08,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-16T09:16:28.471720Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3501,6 +3437,78 @@
           {
             "title": "Kevin O\u2019Leary Says Nvidia Needs Leader Who Can Manage \u2018International Pressure\u2019 as Crypto Punters Raise Odds of NVDA Stock Hitting $180 By Month-End - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmNJTEMxMmdWbXlyZElKU0Z3cEtHVGNzQ3hjOGxYVDBidDEtQWpVNEQxSy1uR0xfbE0xekxfZnZFQlYyT1J5V0loQ05zRnNONjZhSnJjT09Ta0h3c0x5MzJXZDRXY1dzMUc3SGJFb2VpSU9JRDNpcXo0VjRsZ0FmaWd4ME85LVFhcFJTWGpVYU9mZlVm?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.5199999809265137,
+        "percentChange": -9.87,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.03,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": -6.36,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.340000033378601,
+        "percentChange": -5.22,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.755,
+        "weekAgoPrice": 0.6600000262260437,
+        "percentChange": 14.39,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-18T06:15:51.254932Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 506.24,
+        "weekAgoPrice": 533.1599731445312,
+        "percentChange": -5.05,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 155.46,
+        "weekAgoPrice": 168.88999938964844,
+        "percentChange": -7.95,
+        "flagged": true,
+        "news": [
+          {
+            "title": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1hUb0ZMNTdVdlRaU3NVMXlUODNRZmhzZjVNRFVocktEWXJ4ZkF5eTVmVXBQcXRMOWFpdHZMQ2hxeUE1OER5TkpmRTlLV0JBdGV5RWVDVTl2TWtZamNmMXBTV2Y4eTVXdFpBdmZNSlFtZklNQnBLWHNDU251eElyd191OGs4ajktX2NvRVpNQ1M1cDNEU0ZzYnpWMmpnQ1E1d3NuUzhMSXZfdEowVWN6QWZldW0?oc=5"
+          },
+          {
+            "title": "Michael Burry Passed On Nvidia Calls Before Earnings \u2014 Here\u2019s What Caught His Eye At Alibaba, Netflix And JD - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWEx3ZUwwVzNVYnhXUjNNdC02WWdnNElUcklFa3ZsNnZGTmZrZkVMeWcwQXdTaW5GdFp0VTlIVUpYb2IwWmRKMjFpQTJqVmNZRVdUdnFlQ28zQzloUW9xTjFxcUhsb2pfU1pKMExHYTRJYldwdkRvUzZfR1ZIa19oNk42RDlMdVppNjliclc1LWZNSF83YWptNXI3Rzl0dzQ?oc=5"
+          },
+          {
+            "title": "\u2018Not the Nvidia I Know\u2019: Jim Cramer Questions Employee Morale; Colette Kress Has \u2018High Confidence\u2019 Staff Still \u2018Enjoy\u2019 Their Work - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQTBjaGJrNGxnN09WVTVFV3BJTTRuUExMalBnUzhwWkpSSkxKbkhZeF96Y2lqSXJFbGlxb25wTmczOWlaZTRaVDY3Z0NuNjVyRUl3QlRRMDlUWmhjalFFRzJEMzJPdlI4OGtIQlpCaGk3Q2VTaFlETkN5TWFvNUVQaEJtTDd4MXF3Yk1Ea2JkSmpTQy1iWXc?oc=5"
           }
         ]
       },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T05:15:45.413354Z",
+  "generatedAt": "2026-11-18T06:15:51.254932Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -9,20 +9,7 @@
       "weekAgoPrice": 533.1599731445312,
       "percentChange": -5.05,
       "flagged": true,
-      "news": [
-        {
-          "title": "Microsoft Stock Hits Seven-Week Low: Is a Bigger Drop Coming? - BeInCrypto",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MNUlzT3liQ3N6bGx5RjJsLU5mNk5LdUFCVE8tNk1HMzBCbVlZa0F3Rzg5S3VSZjF5UlVLN2xSYXFqbS1ZX0oyS3BsbUVKOVliTXEzYVRsZTk2ZFk3bFpOc1ZXNGk3ckUtTkc5RGF3?oc=5"
-        },
-        {
-          "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT00tV0lrRWN1RWtUNV9XcXpjRktjSklPRTJVT0F1OFNWUzdsYW01Qm1KXzdSYTJKOUFuM1MwSHVaQUJnWDJxRUcwVHZtX1dudjFoVVRmX05iSUkwVUdjVGNiYzdwMFpyZkNOSGtqZVpEeFdLUnZOLXh1MUFYQkJMeTB2cjMzQkVXQlBzWG9tTGVON016MWdJMmd2QlRhQ1g4dHg5NFlDR1lkdFY1YnBBUVRiWXpZTWNNUmZMNUhDZHRFN1k3dmZWQjR3?oc=5"
-        },
-        {
-          "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3NIZnJhRTlaT25EMWdOVUgwb3EzMHlaQmhVX2NvdmJwV3ctR3IwYlRvNW1ObmxpVldiYjR3elhBUE9OZ2E1Mm05ckpTcDJxLXRNbmNyLXNYaGJ2dXJaMmxKVVEwdWNCSGFDNzJqTGJzTTlrVGczZWVvQUJ6MHVsY2JJdEVabUgxM2hyV2VlVkpWUjFWNEFoYkJTNndXa0x2UFZ0QWhNbTU?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "NVDA",
@@ -32,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1hUb0ZMNTdVdlRaU3NVMXlUODNRZmhzZjVNRFVocktEWXJ4ZkF5eTVmVXBQcXRMOWFpdHZMQ2hxeUE1OER5TkpmRTlLV0JBdGV5RWVDVTl2TWtZamNmMXBTV2Y4eTVXdFpBdmZNSlFtZklNQnBLWHNDU251eElyd191OGs4ajktX2NvRVpNQ1M1cDNEU0ZzYnpWMmpnQ1E1d3NuUzhMSXZfdEowVWN6QWZldW0?oc=5"
+        },
+        {
+          "title": "Michael Burry Passed On Nvidia Calls Before Earnings \u2014 Here\u2019s What Caught His Eye At Alibaba, Netflix And JD - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWEx3ZUwwVzNVYnhXUjNNdC02WWdnNElUcklFa3ZsNnZGTmZrZkVMeWcwQXdTaW5GdFp0VTlIVUpYb2IwWmRKMjFpQTJqVmNZRVdUdnFlQ28zQzloUW9xTjFxcUhsb2pfU1pKMExHYTRJYldwdkRvUzZfR1ZIa19oNk42RDlMdVppNjliclc1LWZNSF83YWptNXI3Rzl0dzQ?oc=5"
+        },
+        {
           "title": "\u2018Not the Nvidia I Know\u2019: Jim Cramer Questions Employee Morale; Colette Kress Has \u2018High Confidence\u2019 Staff Still \u2018Enjoy\u2019 Their Work - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQTBjaGJrNGxnN09WVTVFV3BJTTRuUExMalBnUzhwWkpSSkxKbkhZeF96Y2lqSXJFbGlxb25wTmczOWlaZTRaVDY3Z0NuNjVyRUl3QlRRMDlUWmhjalFFRzJEMzJPdlI4OGtIQlpCaGk3Q2VTaFlETkN5TWFvNUVQaEJtTDd4MXF3Yk1Ea2JkSmpTQy1iWXc?oc=5"
-        },
-        {
-          "title": "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTGswLW45X25uQXNodGZiZnNWeFk1dTdSWm5SRktfUXBTaTY3QlA2dFR3U3hFNnpDX2dwa3VHYllDS3Roa1VyWGFEMk16alc1dHRXR1p0eUVsRk1LMEliNDJyYlJIczVmam1OT25jMjRKbUZ2UE05bGtKLWUtdldySHpvOWMyRUdmenJUaFk0eTYtalRlZll0RkkzdGdzcnMwYkR1eWpKZTdqU3VRYXpLY1BSU2MwM04yMEJmbW9YOWZvZlRleUpqd3BseDhrTE5GVEFNN0FTM0hjUjdDTFBGUUQyOWVfUQ?oc=5"
-        },
-        {
-          "title": "Kevin O\u2019Leary Says Nvidia Needs Leader Who Can Manage \u2018International Pressure\u2019 as Crypto Punters Raise Odds of NVDA Stock Hitting $180 By Month-End - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmNJTEMxMmdWbXlyZElKU0Z3cEtHVGNzQ3hjOGxYVDBidDEtQWpVNEQxSy1uR0xfbE0xekxfZnZFQlYyT1J5V0loQ05zRnNONjZhSnJjT09Ta0h3c0x5MzJXZDRXY1dzMUc3SGJFb2VpSU9JRDNpcXo0VjRsZ0FmaWd4ME85LVFhcFJTWGpVYU9mZlVm?oc=5"
         }
       ]
     },
