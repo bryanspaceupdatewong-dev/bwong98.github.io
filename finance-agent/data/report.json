@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-18T02:16:08.951836Z",
+  "generatedAt": "2026-11-18T03:16:04.370203Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 506.24,
-      "weekAgoPrice": 545.1799926757812,
-      "percentChange": -7.14,
+      "weekAgoPrice": 533.1599731445312,
+      "percentChange": -5.05,
       "flagged": true,
       "news": [
         {
@@ -27,21 +27,21 @@
     {
       "ticker": "NVDA",
       "currentPrice": 155.46,
-      "weekAgoPrice": 178.6699981689453,
-      "percentChange": -12.99,
+      "weekAgoPrice": 168.88999938964844,
+      "percentChange": -7.95,
       "flagged": true,
       "news": [
+        {
+          "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won\u2019t Return as CEO - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOERUMkVEZEttRVd6TG92RVVFUzc4RU10anVtbFoxeV9RN1VneDJiUkc5NXpVWWNhM09PUWhGMHNHcmJNeTU0WTltdjA1TE5BbUtvOWx1QU4ySmJJc2lPWmoydVJld09sOER4Rk4xRE9QbXpKSVMzNE9ldENzQWZWVGZGRlY?oc=5"
+        },
         {
           "title": "NVDA, CRM, NBIS, AAOI, NKE: 5 Trending Stocks Today - NVIDIA (NASDAQ:NVDA) - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdnA0YXk1VkJoVlh2WVU5NEgwemhPeVE4VzA5b2xaVzYta2dnU0taMEFpUkNBTDZ2cGZNRnZwN2NUUldUNi1aS1FiTDgxNEZCWXllRXFucS05RU1MRkZFa0RfV24yVHV0bzQwcmFYckJPOXBWNWo1dWVXSzhtT2ZTSkswem5CNFQybUZqN09CM181UXg5T2FhZlZUSnFWN1F2dXJaVzh3QURCeDNYdnBpd2kzMlU4TVd0TjR5VWtvRzg?oc=5"
         },
         {
-          "title": "NVIDIA Q3 Earnings Call Highlights - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaHRnb1V1RmZrVDVjY3g4VTdJNEpTemVmNXlSczNVMkdFcndkQWtjSXpBWDhUUEhIRjg0S2tTdXFDUmJPZHRERXY0WG9SZGRzU1Zhb2puOTYtOVBBODkzaks4VEpkX1RYeUdTTEpmbWxDR2djNGZ0a0FhZ01nMlBQMWNPUkVGcnA4UnVpU1AxWTg0a3BsSU9jR0Z4dVR5a0xz?oc=5"
-        },
-        {
-          "title": "Nvidia rules out Huang's return as CEO as revenue doubles - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRnZTNFdIdW9wNFlvYlVBZEFUN3ZmbUt6b2VfM1Z3X3lsY1NnYXFnTU4wWndDWmI0elJibE8yWUp2bEVfYTRXbkJJZlZLdk1md3pHdlZiODFPOUt3NVRRVXZJYmJjOHpRRHJYakpvQUF3aUNTeXVJbm8yWmZDSmF4TzlLZ3VQUk5jT001RVVYQy12M3ZySHJPNnhPSQ?oc=5"
+          "title": "Nvidia Has a $118 Billion Promise Tucked Inside Its Blowout Quarter. Here's What It Means for the Stock - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeXRFZm5BTU5RbV8xX2ZiTEoxR3RpeUg0YUE4bHdBRl9OSEdnY214Z2taMldNU3VLZWhrT1lUdGV2TXlSeldhQUcwU0VrUl9mS2RRNkI3QWp6WURPNTVOWC1heGlyWXJnRHVtRHlDNDZZNGVvQk43LVZtZXlGMEw5OGFBbnhOTE5NM01mcUluRnJSaHlrZWtCSUNmZF9naFpnNm5YNkk0NE5wb2hwMHF6MjhaX2UwZG5qYUdBeTdSUEthM3d5QmZ5aWpMaElOZ1lXSV9tMXVOUExFcXM4Q0pIdw?oc=5"
         }
       ]
     },
@@ -63,34 +63,34 @@
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.19,
+      "currentPrice": 1.2,
       "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -3.25,
+      "percentChange": -2.44,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.38,
+      "currentPrice": 1.39,
       "weekAgoPrice": 1.5199999809265137,
-      "percentChange": -9.21,
+      "percentChange": -8.55,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.42,
+      "currentPrice": 1.41,
       "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -3.4,
+      "percentChange": -4.08,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.05,
+      "currentPrice": 1.03,
       "weekAgoPrice": 1.100000023841858,
-      "percentChange": -4.55,
-      "flagged": false,
+      "percentChange": -6.36,
+      "flagged": true,
       "news": []
     },
     {
@@ -118,5 +118,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 5
 }
