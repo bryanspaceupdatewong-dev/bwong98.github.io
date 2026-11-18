@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:15:51.254932Z",
+  "generatedAt": "2026-11-18T07:16:03.341334Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -9,7 +9,20 @@
       "weekAgoPrice": 533.1599731445312,
       "percentChange": -5.05,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Microsoft: The Market Is Rewarding Financial Discipline, Not AI Monetization (NASDAQ:MSFT) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2ZkeWlmRWZsZm5KMDhVLVBTdWpZYllDS2lHcldmVDJEY3VqclR4aXp2dmRYQVB3NHVoRTV1SjBMUXdhVFlubnFnNHZTdjVFVlE0TS11aHE0cXR4U3JycHgzdFdYQmJWMGNUc3R1YjlKSlBtMkNhamZGWEJIeDdWX25oZHJ3dXVIaHpsUFBEczRPSXE5V3JEcU1xTHJ4NWhpU1dSSDlIajNBZ09id25WcXhkR1FMdw?oc=5"
+        },
+        {
+          "title": "Microsoft Stock Hits Seven-Week Low: Is a Bigger Drop Coming? - BeInCrypto",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MNUlzT3liQ3N6bGx5RjJsLU5mNk5LdUFCVE8tNk1HMzBCbVlZa0F3Rzg5S3VSZjF5UlVLN2xSYXFqbS1ZX0oyS3BsbUVKOVliTXEzYVRsZTk2ZFk3bFpOc1ZXNGk3ckUtTkc5RGF3?oc=5"
+        },
+        {
+          "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3NIZnJhRTlaT25EMWdOVUgwb3EzMHlaQmhVX2NvdmJwV3ctR3IwYlRvNW1ObmxpVldiYjR3elhBUE9OZ2E1Mm05ckpTcDJxLXRNbmNyLXNYaGJ2dXJaMmxKVVEwdWNCSGFDNzJqTGJzTTlrVGczZWVvQUJ6MHVsY2JJdEVabUgxM2hyV2VlVkpWUjFWNEFoYkJTNndXa0x2UFZ0QWhNbTU?oc=5"
+        }
+      ]
     },
     {
       "ticker": "NVDA",
@@ -19,48 +32,48 @@
       "flagged": true,
       "news": [
         {
-          "title": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1hUb0ZMNTdVdlRaU3NVMXlUODNRZmhzZjVNRFVocktEWXJ4ZkF5eTVmVXBQcXRMOWFpdHZMQ2hxeUE1OER5TkpmRTlLV0JBdGV5RWVDVTl2TWtZamNmMXBTV2Y4eTVXdFpBdmZNSlFtZklNQnBLWHNDU251eElyd191OGs4ajktX2NvRVpNQ1M1cDNEU0ZzYnpWMmpnQ1E1d3NuUzhMSXZfdEowVWN6QWZldW0?oc=5"
+          "title": "Jim Cramer Asked Nvidia\u2019s Interim CEO the Uncomfortable Question - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRkRQZVN1X0xfdkNtNkV2ekNsRlJoX2JRemtCa3dCd0NjU3Yxc1VxX2pLc1FqRnhHb24xS25kbXhIYkE1Nk1aOWE2SldKV3QwRlIzaTJzMndrX2x2SzR6enBtMC1pTGtwd2IwbzRWSkx0dklPV0FGcExCZFVfck5wOFdpM2Z0RDhfcDlPd2drNlpqT3pqNUl0dW1SQ28?oc=5"
         },
         {
-          "title": "Michael Burry Passed On Nvidia Calls Before Earnings \u2014 Here\u2019s What Caught His Eye At Alibaba, Netflix And JD - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWEx3ZUwwVzNVYnhXUjNNdC02WWdnNElUcklFa3ZsNnZGTmZrZkVMeWcwQXdTaW5GdFp0VTlIVUpYb2IwWmRKMjFpQTJqVmNZRVdUdnFlQ28zQzloUW9xTjFxcUhsb2pfU1pKMExHYTRJYldwdkRvUzZfR1ZIa19oNk42RDlMdVppNjliclc1LWZNSF83YWptNXI3Rzl0dzQ?oc=5"
+          "title": "Morning Bid: Jensen Huang's last hurrah, and a nervy future for Nvidia - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkhVeHlSOHlwY3dfOWVqSnVzNmhhcmtGWHk4SkdYQVlXSmxHdmtUVnBDMEpKbG5YQVpSVGJnbERVQUJPSElNbUh3Y3VTcURWQ2MyVlVKenZCRmtDVk9vcVlTSmJGbmdROVF6LUNORzd0UUI0TWo4M2JOSXFfRmlkZV9nYw?oc=5"
         },
         {
-          "title": "\u2018Not the Nvidia I Know\u2019: Jim Cramer Questions Employee Morale; Colette Kress Has \u2018High Confidence\u2019 Staff Still \u2018Enjoy\u2019 Their Work - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQTBjaGJrNGxnN09WVTVFV3BJTTRuUExMalBnUzhwWkpSSkxKbkhZeF96Y2lqSXJFbGlxb25wTmczOWlaZTRaVDY3Z0NuNjVyRUl3QlRRMDlUWmhjalFFRzJEMzJPdlI4OGtIQlpCaGk3Q2VTaFlETkN5TWFvNUVQaEJtTDd4MXF3Yk1Ea2JkSmpTQy1iWXc?oc=5"
+          "title": "Colette Kress Just Delivered Excellent News for Nvidia Investors - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTm56RWFEcXV6NWdweUtlUDZLWkNzYUFUYnNlU244Mm1ObGd6dF90Z0lGOXRqeF9wY0lLb0l2OFVzY19ySVgtUERlVHNpZnF6RE16bFdwWkFCMWVMRGFTUmpxT09yUlJJekpsYkpXQ183aFM1SXlOT1ZUNjFIeUFhU3NlbkVUajA5RF8xa2ZNZmlabTlqTmNETGFHcFFCTmh6c1c3bmI0dERvdzg?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.52,
+      "currentPrice": 4.51,
       "weekAgoPrice": 4.53000020980835,
-      "percentChange": -0.22,
+      "percentChange": -0.44,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.62,
+      "currentPrice": 7.61,
       "weekAgoPrice": 7.539999961853027,
-      "percentChange": 1.06,
+      "percentChange": 0.93,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.21,
+      "currentPrice": 1.2,
       "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -1.63,
+      "percentChange": -2.44,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.37,
+      "currentPrice": 1.38,
       "weekAgoPrice": 1.5199999809265137,
-      "percentChange": -9.87,
+      "percentChange": -9.21,
       "flagged": true,
       "news": []
     },
@@ -74,18 +87,18 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.03,
+      "currentPrice": 1.02,
       "weekAgoPrice": 1.100000023841858,
-      "percentChange": -6.36,
+      "percentChange": -7.27,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.24,
+      "currentPrice": 0.235,
       "weekAgoPrice": 0.25,
-      "percentChange": -4.0,
-      "flagged": false,
+      "percentChange": -6.0,
+      "flagged": true,
       "news": []
     },
     {
@@ -94,21 +107,16 @@
       "weekAgoPrice": 1.340000033378601,
       "percentChange": -5.22,
       "flagged": true,
-      "news": [
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.755,
+      "currentPrice": 0.75,
       "weekAgoPrice": 0.6600000262260437,
-      "percentChange": 14.39,
+      "percentChange": 13.64,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 6
+  "flaggedCount": 7
 }
