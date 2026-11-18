@@ -1,74 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-16T11:16:06.680543Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 162.85,
-        "weekAgoPrice": 186.63999938964844,
-        "percentChange": -12.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVDA sold Shares Run First - Moomoo",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUjVMOHVEMUFsdUVTTDBROTQ4Y1VJOGNjOG5kZFJOWml5b2h1MWVEbVRWZFg3V2tPYWxBUTJhSEdVcmVJYU01cU1jai1uZmswV09aSHVoMXFfSF84TEI2bThwOUNRU1dqdGl5OGxxNDVOVXpWNXg0TDN4UGprT0JBWjhlR0RYeE0?oc=5"
-          },
-          {
-            "title": "Nvidia Just Fell 32% From Its Record. Here\u2019s Warren Buffett\u2019s Rule for a 67-Year-Old With $1.6 Million in Nvidia Stock and $2,900 a Month in Social Security - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTWNKZUtuakx6dHhUdFNDV0I3Q0dZRjlfUjFxUUs0WnhIdWJncVBBc3pkZ0hEOFFSRmd3WGk4UDltSkxPaWRvbkhWMWxWSFpjNDBvSUI5bzFvUXg2T1dzam1ZRV9EVWJXU3F2ekMyeS1GbGI0M1hPY0FUSTZkOUVDb05qOEVIbGdMTS1BSE1JQW5LdFFZanc?oc=5"
-          },
-          {
-            "title": "Don\u2019t Know What to Do With Nvidia Stock After Jensen Huang Stepped Down as CEO? Consider These 5 Warren Buffett Quotes. - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYUw1cXRIWlpzMktWREVOVnp4dnB1WEpzWXBhZWJLSktFeWNqaG1MNTdjRFEtQ2R4bk1pWVJlNWdfNFlGWFNqMExweDhqRnlBbVJtZHdNNWhJYklJSF9YTS1idUVsa3ppY1NtSHhPMnZZQVR1WGVJUldXS0hyQUJwYXRnUmoyV3pJTWFjcElWZktTNGE5TTVuajlSNkgtbnhZOGJjVm10cmRZalhKS2tXc1l4NFJ5NjRqOUxCWURfMVJ0VlAxNUZEcV82MzRkQWhPeDNTRFh3bDltM0ZpOW5yT2lJRDV3ZHlVUkc4OTh4WHNwQQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.55,
-        "weekAgoPrice": 4.900000095367432,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.05,
-        "weekAgoPrice": 1.1699999570846558,
-        "percentChange": -10.26,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.36,
-        "weekAgoPrice": 1.2200000286102295,
-        "percentChange": 11.48,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6499999761581421,
-        "percentChange": 15.38,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-16T12:16:34.041774Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3573,6 +3504,91 @@
         "currentPrice": 1.26,
         "weekAgoPrice": 1.340000033378601,
         "percentChange": -5.97,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6600000262260437,
+        "percentChange": 13.64,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-18T09:15:48.872602Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 506.24,
+        "weekAgoPrice": 533.1599731445312,
+        "percentChange": -5.05,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft: The Market Is Rewarding Financial Discipline, Not AI Monetization (NASDAQ:MSFT) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2ZkeWlmRWZsZm5KMDhVLVBTdWpZYllDS2lHcldmVDJEY3VqclR4aXp2dmRYQVB3NHVoRTV1SjBMUXdhVFlubnFnNHZTdjVFVlE0TS11aHE0cXR4U3JycHgzdFdYQmJWMGNUc3R1YjlKSlBtMkNhamZGWEJIeDdWX25oZHJ3dXVIaHpsUFBEczRPSXE5V3JEcU1xTHJ4NWhpU1dSSDlIajNBZ09id25WcXhkR1FMdw?oc=5"
+          },
+          {
+            "title": "Microsoft Stock Hits Seven-Week Low: Is a Bigger Drop Coming? - BeInCrypto",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MNUlzT3liQ3N6bGx5RjJsLU5mNk5LdUFCVE8tNk1HMzBCbVlZa0F3Rzg5S3VSZjF5UlVLN2xSYXFqbS1ZX0oyS3BsbUVKOVliTXEzYVRsZTk2ZFk3bFpOc1ZXNGk3ckUtTkc5RGF3?oc=5"
+          },
+          {
+            "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT00tV0lrRWN1RWtUNV9XcXpjRktjSklPRTJVT0F1OFNWUzdsYW01Qm1KXzdSYTJKOUFuM1MwSHVaQUJnWDJxRUcwVHZtX1dudjFoVVRmX05iSUkwVUdjVGNiYzdwMFpyZkNOSGtqZVpEeFdLUnZOLXh1MUFYQkJMeTB2cjMzQkVXQlBzWG9tTGVON016MWdJMmd2QlRhQ1g4dHg5NFlDR1lkdFY1YnBBUVRiWXpZTWNNUmZMNUhDZHRFN1k3dmZWQjR3?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 155.46,
+        "weekAgoPrice": 168.88999938964844,
+        "percentChange": -7.95,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA Corporation $NVDA Stock: Cornerstone National Bank & Trust Co Raises Stake - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWW1BcjJmWGlseVk5aUlRRXRvZVZVbldtMVhTYUo2TXFobnB2Z3BBa0NRcERnV3dfSllZQUdJWV9fSHJyZmtlRGhRTnhWWVI3Y20xYm44cnZrX3dyYUh4b1lBQVBFTFZFa1UyWHJkcW81RldOSjVpc1RwNEpCdVNyUF9ZdDFYWFNyV0ZnYlJBYWc5SVhsNktZWFljQ0plMjF3Uzc5NVVJcHRadlNmellmLTNJZnlGQTdZaU5OVEJ3LUV4blJnZ3NTTG1SQ3dZNnpZUmZ4Ug?oc=5"
+          },
+          {
+            "title": "CoreWeave's CEO Isn't Panicking About Nvidia Losing Jensen Huang - Business Insider",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORzZsT3RzT1lDeU9PZWlrclVrdWozUnJTZXpMeG9iU2h5STZ2c2d4a3JrVDFyMDVITDBFd0VLQngzd2tWa0l6TzhObnRLbGpJNHUwdmVBRDREb041czdKUnp1QkxXWklxU2xiWWtBZ0tnbkJISzl0MVJoSXhRN2tkdVBkaGlqaWgxalBQYnZ2WXV3N2JhYWJvN09uRkI1eTZ2bWc?oc=5"
+          },
+          {
+            "title": "Can Anthropic\u2019s IPO Burn NVDA Stock Bears? Jim Cramer Thinks So \u2014 Jeff Bezos Weighs In On Jensen Huang\u2019s Successor - Stocktwits",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTBpaDhLNnE0SzRhWlprMjBfcWlXclA5Z2F4dkNaWHVvdmt4Z2dmZEFKM2lmeFFsNmd3bHI0QlRSS1dzb2hBbG1xLWF5OVhUV3IzcjJvanF2UllQR3IzU0tRdEhKcnFJQTVhSFhmNENTRWNQQzJoYlhYdF95czlNSWpybDgyWjdtUEF4UHRXZDF1c2tfSGQ4VndWLTdfVmY1eno2ZjYxcEFRTFdVdnE3R2hrR19fVS1RWTV1ZFI2VFloRFlSdXUzblFkRWQ2Y2R0RnhEbmE5Vzl2T2tGWWVCQ2dySQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.38,
+        "weekAgoPrice": 1.5199999809265137,
+        "percentChange": -9.21,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.0,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": -9.09,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.25,
+        "weekAgoPrice": 1.340000033378601,
+        "percentChange": -6.72,
         "flagged": true,
         "news": [
           {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T08:16:05.108156Z",
+  "generatedAt": "2026-11-18T09:15:48.872602Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -32,24 +32,24 @@
       "flagged": true,
       "news": [
         {
+          "title": "NVIDIA Corporation $NVDA Stock: Cornerstone National Bank & Trust Co Raises Stake - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWW1BcjJmWGlseVk5aUlRRXRvZVZVbldtMVhTYUo2TXFobnB2Z3BBa0NRcERnV3dfSllZQUdJWV9fSHJyZmtlRGhRTnhWWVI3Y20xYm44cnZrX3dyYUh4b1lBQVBFTFZFa1UyWHJkcW81RldOSjVpc1RwNEpCdVNyUF9ZdDFYWFNyV0ZnYlJBYWc5SVhsNktZWFljQ0plMjF3Uzc5NVVJcHRadlNmellmLTNJZnlGQTdZaU5OVEJ3LUV4blJnZ3NTTG1SQ3dZNnpZUmZ4Ug?oc=5"
+        },
+        {
           "title": "CoreWeave's CEO Isn't Panicking About Nvidia Losing Jensen Huang - Business Insider",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORzZsT3RzT1lDeU9PZWlrclVrdWozUnJTZXpMeG9iU2h5STZ2c2d4a3JrVDFyMDVITDBFd0VLQngzd2tWa0l6TzhObnRLbGpJNHUwdmVBRDREb041czdKUnp1QkxXWklxU2xiWWtBZ0tnbkJISzl0MVJoSXhRN2tkdVBkaGlqaWgxalBQYnZ2WXV3N2JhYWJvN09uRkI1eTZ2bWc?oc=5"
         },
         {
-          "title": "Jim Cramer Asked Nvidia\u2019s Interim CEO the Uncomfortable Question - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRkRQZVN1X0xfdkNtNkV2ekNsRlJoX2JRemtCa3dCd0NjU3Yxc1VxX2pLc1FqRnhHb24xS25kbXhIYkE1Nk1aOWE2SldKV3QwRlIzaTJzMndrX2x2SzR6enBtMC1pTGtwd2IwbzRWSkx0dklPV0FGcExCZFVfck5wOFdpM2Z0RDhfcDlPd2drNlpqT3pqNUl0dW1SQ28?oc=5"
-        },
-        {
-          "title": "Morning Bid: Jensen Huang's last hurrah, and a nervy future for Nvidia - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkhVeHlSOHlwY3dfOWVqSnVzNmhhcmtGWHk4SkdYQVlXSmxHdmtUVnBDMEpKbG5YQVpSVGJnbERVQUJPSElNbUh3Y3VTcURWQ2MyVlVKenZCRmtDVk9vcVlTSmJGbmdROVF6LUNORzd0UUI0TWo4M2JOSXFfRmlkZV9nYw?oc=5"
+          "title": "Can Anthropic\u2019s IPO Burn NVDA Stock Bears? Jim Cramer Thinks So \u2014 Jeff Bezos Weighs In On Jensen Huang\u2019s Successor - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTBpaDhLNnE0SzRhWlprMjBfcWlXclA5Z2F4dkNaWHVvdmt4Z2dmZEFKM2lmeFFsNmd3bHI0QlRSS1dzb2hBbG1xLWF5OVhUV3IzcjJvanF2UllQR3IzU0tRdEhKcnFJQTVhSFhmNENTRWNQQzJoYlhYdF95czlNSWpybDgyWjdtUEF4UHRXZDF1c2tfSGQ4VndWLTdfVmY1eno2ZjYxcEFRTFdVdnE3R2hrR19fVS1RWTV1ZFI2VFloRFlSdXUzblFkRWQ2Y2R0RnhEbmE5Vzl2T2tGWWVCQ2dySQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.51,
+      "currentPrice": 4.5,
       "weekAgoPrice": 4.53000020980835,
-      "percentChange": -0.44,
+      "percentChange": -0.66,
       "flagged": false,
       "news": []
     },
@@ -79,33 +79,33 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.41,
+      "currentPrice": 1.42,
       "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -4.08,
+      "percentChange": -3.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.02,
+      "currentPrice": 1.0,
       "weekAgoPrice": 1.100000023841858,
-      "percentChange": -7.27,
+      "percentChange": -9.09,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.24,
+      "currentPrice": 0.25,
       "weekAgoPrice": 0.25,
-      "percentChange": -4.0,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.26,
+      "currentPrice": 1.25,
       "weekAgoPrice": 1.340000033378601,
-      "percentChange": -5.97,
+      "percentChange": -6.72,
       "flagged": true,
       "news": [
         {
