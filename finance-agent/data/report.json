@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-18T16:15:43.960656Z",
+  "generatedAt": "2026-11-18T17:15:46.061759Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 504.66,
+      "currentPrice": 501.92,
       "weekAgoPrice": 521.1300048828125,
-      "percentChange": -3.16,
+      "percentChange": -3.69,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 152.665,
+      "currentPrice": 151.7,
       "weekAgoPrice": 173.72999572753906,
-      "percentChange": -12.13,
+      "percentChange": -12.68,
       "flagged": true,
       "news": [
         {
-          "title": "Tech Stocks Fail to Benefit From Nvidia Earnings - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5"
+          "title": "Stock Market Today: Dow Drops Amid Rate-Hike 'Shock' Fears; CoreWeave Tumbles (Live Coverage) - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXBraTU4T2FpajlyR1NvUy10anpSNi0weU02QkhIbU01NGVsNHc0dU9ENHVaaTlWblBSMHdFWXR0WmFCdFpCS2YzRlR1YzgtOE1BUUw0Mlo2c3p4RjVDcDE3bm5uYUNxdHY4SnlfbnlLMWVrTk1MWUY2bzAxUVhsMTc0dHBHQXZDWUxMRDZLRk0tcGE3aVFsVEN2d2RMTUJ1MUt3R3J4akcyTzlqelBIX2F6MHVNeVFsMWktSFM1T1RXM2ozQkpJekMta00xZw?oc=5"
+        },
+        {
+          "title": "Has a Stock Market Crash Started? Here's What Sobering Lessons From the Dot-Com Bust Say Comes Next - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDAxZHltUFU3eFVyaExENnBBaVNDcTN3bERHbklEM0hJN2ZuUGRlLWZiWFhoa2FVYmUyZmtyNEJuZXdMalBLdHU2NGh2cW9xZXhhV3VwRTVmTF9fYmlnZ3ptR3o0bUd3MWdMMDR0d3JfTHhvR0xveDN4TzJyeTQtelk3eHYtVk9GOHZ1dE1qT1cxamVLTE9UM2o4RG4yQQ?oc=5"
         },
         {
           "title": "Bill Ackman Lays Out How Nvidia Shareholders Could Bring Jensen Huang Back as CEO - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnNZaTVKUVpUMUVjSjIzc3kxblpsSERMY2dtZVNoTlpWWjFYcEVZbWw4Sng3QkxKZnNsNzVyZjB0TkxJVndKR1VuYXFaYXpHd1Zid2JiUkp2VEEycUhKMVRjcVExd2NwR0tfWlVrdGR6QlBfWEhpVG5JcFJBdF9yOGRJQWllUVpPbWFJNGJpT1EwRk1Wamp6SU5IZTRVczRySTBF?oc=5"
-        },
-        {
-          "title": "How Nvidia\u2019s (NVDA) Planned $10 Billion Anthropic Investment Deepens Its AI Ties - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUl9HZ01GLXRSczBheFExZ2ZUbThOcnBQUGJvUjFBRmJvLTcyTXliWExFQzRsQlBmeE4yNWR0dExrZ3pOT25DaHprWERqQkxZOFlETnU2cnNQalNFaVNvT0VIR212ZXh3WVViV21oNFhhaVNvRTBfel9vR3FVd2xhQklCSE9GTmEwR2xKbjE5a2hXdEp4WGJkTl9n?oc=5"
         }
       ]
     },

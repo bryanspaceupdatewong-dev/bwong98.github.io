@@ -1,82 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-16T18:16:21.726088Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 155.91,
-        "weekAgoPrice": 178.6699981689453,
-        "percentChange": -12.74,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm1pRzVJd0lQc2F6aUtMUGIzUnVtazZTRFQtUndVeHZCSzhTTkVTSEJJRnIyN0JhVnN0eTVuZkFiVEN5a0xWbk54cjlXejFPTjlkb3JhTDdjQnNNMXFvblF0S3ZNUmtiTmFDdEd2NkdpZmtLSG01eldfYWZDT3lIcldSc2VlZnNQSGRkWmRmYmh3b195WDY1bnNoU25neEFTc3dwX21yTkRGdkRiSW5FMDZrdmpRZTdDZUpHaw?oc=5"
-          },
-          {
-            "title": "NVDA Stock Alert: What to Know About Jensen Huang's Alleged Nvidia Comeback Attempt - Barchart.com",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMnZlTWpNeTh2NjczS0hPS1ppN1c0VDFQX0tsOEpkaHBwcFZSMURZdXo5QjgxdUNPWElJSGt3SEQydGVvaFVOLUNINVBFMS1pSHN2dktRZU1kOWEtOHJsY0ZjdHhFRE01M3BDcTFaVEd4NEh6aW1WQVJmRmtSQk5KQU1lQjJJbVgzci16NDB5UnUxbDhRU0RlT0ZhMzdwMnVpQzVjQU5tVzVmNXNXZVQ5SUxOWDNxR25nazhNVU0tYlpXdnVu?oc=5"
-          },
-          {
-            "title": "'No chance Jensen comes back': Nvidia's leadership crisis casts a long shadow over earnings - Business Insider",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT2x3NElMaXZrYmxQRm5GQ2hmbnlSYjZIY1dOYXM2ZndWZDU2T3o1c01mWDU4bUUwVnRKdmQyWnBLVkRjMGw4SHVQQWdyTlRoUTFaVm50QjJxcUV0QlR3bFVCOW1MeXg1TVNiakFVTzhMZzh6VVBVRDhoUWNpOVBVSllsVldmbnJwSHJrN3JiNnRPVm1mWnJGVDdMR3ZwWkFMWC1V?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.55,
-        "weekAgoPrice": 4.960000038146973,
-        "percentChange": -8.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.43,
-        "weekAgoPrice": 1.5399999618530273,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.05,
-        "weekAgoPrice": 1.2000000476837158,
-        "percentChange": -12.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.36,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": 10.57,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6549999713897705,
-        "percentChange": 14.5,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-16T19:16:30.745796Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3598,6 +3521,57 @@
           {
             "title": "How Nvidia\u2019s (NVDA) Planned $10 Billion Anthropic Investment Deepens Its AI Ties - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUl9HZ01GLXRSczBheFExZ2ZUbThOcnBQUGJvUjFBRmJvLTcyTXliWExFQzRsQlBmeE4yNWR0dExrZ3pOT25DaHprWERqQkxZOFlETnU2cnNQalNFaVNvT0VIR212ZXh3WVViV21oNFhhaVNvRTBfel9vR3FVd2xhQklCSE9GTmEwR2xKbjE5a2hXdEp4WGJkTl9n?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.38,
+        "weekAgoPrice": 1.5299999713897705,
+        "percentChange": -9.8,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.0,
+        "weekAgoPrice": 1.1200000047683716,
+        "percentChange": -10.71,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6399999856948853,
+        "percentChange": 17.19,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-18T17:15:46.061759Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 151.7,
+        "weekAgoPrice": 173.72999572753906,
+        "percentChange": -12.68,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock Market Today: Dow Drops Amid Rate-Hike 'Shock' Fears; CoreWeave Tumbles (Live Coverage) - Investor's Business Daily",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXBraTU4T2FpajlyR1NvUy10anpSNi0weU02QkhIbU01NGVsNHc0dU9ENHVaaTlWblBSMHdFWXR0WmFCdFpCS2YzRlR1YzgtOE1BUUw0Mlo2c3p4RjVDcDE3bm5uYUNxdHY4SnlfbnlLMWVrTk1MWUY2bzAxUVhsMTc0dHBHQXZDWUxMRDZLRk0tcGE3aVFsVEN2d2RMTUJ1MUt3R3J4akcyTzlqelBIX2F6MHVNeVFsMWktSFM1T1RXM2ozQkpJekMta00xZw?oc=5"
+          },
+          {
+            "title": "Has a Stock Market Crash Started? Here's What Sobering Lessons From the Dot-Com Bust Say Comes Next - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDAxZHltUFU3eFVyaExENnBBaVNDcTN3bERHbklEM0hJN2ZuUGRlLWZiWFhoa2FVYmUyZmtyNEJuZXdMalBLdHU2NGh2cW9xZXhhV3VwRTVmTF9fYmlnZ3ptR3o0bUd3MWdMMDR0d3JfTHhvR0xveDN4TzJyeTQtelk3eHYtVk9GOHZ1dE1qT1cxamVLTE9UM2o4RG4yQQ?oc=5"
+          },
+          {
+            "title": "Bill Ackman Lays Out How Nvidia Shareholders Could Bring Jensen Huang Back as CEO - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnNZaTVKUVpUMUVjSjIzc3kxblpsSERMY2dtZVNoTlpWWjFYcEVZbWw4Sng3QkxKZnNsNzVyZjB0TkxJVndKR1VuYXFaYXpHd1Zid2JiUkp2VEEycUhKMVRjcVExd2NwR0tfWlVrdGR6QlBfWEhpVG5JcFJBdF9yOGRJQWllUVpPbWFJNGJpT1EwRk1Wamp6SU5IZTRVczRySTBF?oc=5"
           }
         ]
       },
