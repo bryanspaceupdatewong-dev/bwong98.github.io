@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T21:16:05.406628Z",
+  "generatedAt": "2026-11-18T22:16:38.854968Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,91 +19,100 @@
       "flagged": true,
       "news": [
         {
+          "title": "Stock Market Today: Dow Ends In Red On Rate Shock Fears; Nvidia Sinks As Anthropic IPO Looms - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXBraTU4T2FpajlyR1NvUy10anpSNi0weU02QkhIbU01NGVsNHc0dU9ENHVaaTlWblBSMHdFWXR0WmFCdFpCS2YzRlR1YzgtOE1BUUw0Mlo2c3p4RjVDcDE3bm5uYUNxdHY4SnlfbnlLMWVrTk1MWUY2bzAxUVhsMTc0dHBHQXZDWUxMRDZLRk0tcGE3aVFsVEN2d2RMTUJ1MUt3R3J4akcyTzlqelBIX2F6MHVNeVFsMWktSFM1T1RXM2ozQkpJekMta00xZw?oc=5"
+        },
+        {
+          "title": "Dow drops more than 500 points; S&P 500 falls for fifth day as Nvidia sells off: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv?oc=5"
+        },
+        {
           "title": "Nvidia retreats as strong outlook fails to dispel uncertainty - Reuters",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5"
-        },
-        {
-          "title": "Billionaire investor Bill Ackman bashes Nvidia\u2019s board for not bringing back Jensen Huang - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVRCUEhOVUstSlFsb0loaFJOdzFCXzI3dDdxSXpDWkNFWXlONzRZR3lSLVl3MlA5aWRnNXczUFdlV28zWUlEdWRaRkhvTk5pUkE2ZWpuSnFQRnNOMHpoX1AwQ1h1R3kyVk9WZ1pKUUR5bEQxa2JwMGZoTUpxamtHVEVycDlvSlVMNVRDZGY4SXUtUmZvQnNyNm9wc1VYbTFTNmJj?oc=5"
-        },
-        {
-          "title": "Stock Market Today: Dow Drops On Heightened Fed Rate-Hike Fears; Palo Alto Jumps (Live Coverage) - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXBraTU4T2FpajlyR1NvUy10anpSNi0weU02QkhIbU01NGVsNHc0dU9ENHVaaTlWblBSMHdFWXR0WmFCdFpCS2YzRlR1YzgtOE1BUUw0Mlo2c3p4RjVDcDE3bm5uYUNxdHY4SnlfbnlLMWVrTk1MWUY2bzAxUVhsMTc0dHBHQXZDWUxMRDZLRk0tcGE3aVFsVEN2d2RMTUJ1MUt3R3J4akcyTzlqelBIX2F6MHVNeVFsMWktSFM1T1RXM2ozQkpJekMta00xZw?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.5,
-      "weekAgoPrice": 4.679999828338623,
-      "percentChange": -3.85,
+      "weekAgoPrice": 4.53000020980835,
+      "percentChange": -0.66,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.63,
-      "weekAgoPrice": 7.690000057220459,
-      "percentChange": -0.78,
+      "weekAgoPrice": 7.539999961853027,
+      "percentChange": 1.19,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.21,
-      "weekAgoPrice": 1.2400000095367432,
-      "percentChange": -2.42,
+      "weekAgoPrice": 1.2300000190734863,
+      "percentChange": -1.63,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.38,
-      "weekAgoPrice": 1.5299999713897705,
-      "percentChange": -9.8,
+      "weekAgoPrice": 1.5199999809265137,
+      "percentChange": -9.21,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.42,
-      "weekAgoPrice": 1.4600000381469727,
-      "percentChange": -2.74,
+      "weekAgoPrice": 1.4700000286102295,
+      "percentChange": -3.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.0,
-      "weekAgoPrice": 1.1200000047683716,
-      "percentChange": -10.71,
+      "weekAgoPrice": 1.100000023841858,
+      "percentChange": -9.09,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.25,
-      "weekAgoPrice": 0.2549999952316284,
-      "percentChange": -1.96,
+      "weekAgoPrice": 0.25,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.25,
-      "weekAgoPrice": 1.2899999618530273,
-      "percentChange": -3.1,
-      "flagged": false,
-      "news": []
+      "weekAgoPrice": 1.340000033378601,
+      "percentChange": -6.72,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+        },
+        {
+          "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.75,
-      "weekAgoPrice": 0.6399999856948853,
-      "percentChange": 17.19,
+      "weekAgoPrice": 0.6600000262260437,
+      "percentChange": 13.64,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 5
 }
