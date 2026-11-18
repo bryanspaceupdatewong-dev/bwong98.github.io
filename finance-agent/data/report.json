@@ -1,114 +1,109 @@
 {
-  "generatedAt": "2026-11-18T15:16:20.774494Z",
+  "generatedAt": "2026-11-18T16:15:43.960656Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 506.91,
+      "currentPrice": 504.66,
       "weekAgoPrice": 521.1300048828125,
-      "percentChange": -2.73,
+      "percentChange": -3.16,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 155.29,
+      "currentPrice": 152.665,
       "weekAgoPrice": 173.72999572753906,
-      "percentChange": -10.61,
+      "percentChange": -12.13,
       "flagged": true,
       "news": [
         {
-          "title": "A Strong Q3 Puts Nvidia (NVDA) Stock on Track for a Quick 194% Options Payout - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmdOdllkSTFTeFF0OGlmamk3NmtHaWRUNVQxRlh1TEpvWWYyMFk1STI2Y0VWZTJfbHRZVFJ3NXZsbjRxNTBtWnhDNERMVjJTWWM4NS1wTGxiYXpaUHBuMXVLRjdoWTlCMXhULTRIMjFjYVc1LTlRNk03TVlISTdzZXlJcHhHczdUT0pZdkJMcWk1Q3ZkcTJ3Yjl5SVFPYmRTNVRLVWpNV3NmUWxLRjI1Ymx3Y1Z6alhMLVE?oc=5"
+          "title": "Tech Stocks Fail to Benefit From Nvidia Earnings - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5"
         },
         {
-          "title": "Dow falls 300 points as Nvidia earnings bounce fizzles: Live updates - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv0gF8QVVfeXFMT014TXpKZ2hKbVhJT0dVekl1Z2tCbjE3MnMtLWhMUG1DaUc3UUd0emE1R2xPd2pDZXMzVXhGbHFVRmdWRm1iRWJnejN6YjJJYlpDWkxJOVhDS3RuRGUyQkhHZ2wzSzJJdnVrNDVqcHQxb2ZXVkUwSVRJcjE4RA?oc=5"
+          "title": "Bill Ackman Lays Out How Nvidia Shareholders Could Bring Jensen Huang Back as CEO - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnNZaTVKUVpUMUVjSjIzc3kxblpsSERMY2dtZVNoTlpWWjFYcEVZbWw4Sng3QkxKZnNsNzVyZjB0TkxJVndKR1VuYXFaYXpHd1Zid2JiUkp2VEEycUhKMVRjcVExd2NwR0tfWlVrdGR6QlBfWEhpVG5JcFJBdF9yOGRJQWllUVpPbWFJNGJpT1EwRk1Wamp6SU5IZTRVczRySTBF?oc=5"
         },
         {
-          "title": "Another short-seller announces a bet against Nvidia over possible ties to China - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN25iRzI3cHFHRlRxeTFIRDlCZlAzc0padkdqQ1dtRWQ1cXFyazRvTVdfSnBqZEN1MVdHM3RmWHVwZ0pkQzJscW15Q01nUUlqMlFYakhFLWxNdjFZTXNYRjR5Uk5DQk5IZzFtNlY1bm84cm01ZnBiNU9jSXZ0SkVWaWt3TV9XN0dlTE02N1ZINnRyNWQzVVppMEtB?oc=5"
+          "title": "How Nvidia\u2019s (NVDA) Planned $10 Billion Anthropic Investment Deepens Its AI Ties - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUl9HZ01GLXRSczBheFExZ2ZUbThOcnBQUGJvUjFBRmJvLTcyTXliWExFQzRsQlBmeE4yNWR0dExrZ3pOT25DaHprWERqQkxZOFlETnU2cnNQalNFaVNvT0VIR212ZXh3WVViV21oNFhhaVNvRTBfel9vR3FVd2xhQklCSE9GTmEwR2xKbjE5a2hXdEp4WGJkTl9n?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.5,
-      "weekAgoPrice": 4.53000020980835,
-      "percentChange": -0.66,
+      "weekAgoPrice": 4.679999828338623,
+      "percentChange": -3.85,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.63,
-      "weekAgoPrice": 7.539999961853027,
-      "percentChange": 1.19,
+      "weekAgoPrice": 7.690000057220459,
+      "percentChange": -0.78,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.21,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -1.63,
+      "weekAgoPrice": 1.2400000095367432,
+      "percentChange": -2.42,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.38,
-      "weekAgoPrice": 1.5199999809265137,
-      "percentChange": -9.21,
+      "weekAgoPrice": 1.5299999713897705,
+      "percentChange": -9.8,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.42,
-      "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -3.4,
+      "weekAgoPrice": 1.4600000381469727,
+      "percentChange": -2.74,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.0,
-      "weekAgoPrice": 1.100000023841858,
-      "percentChange": -9.09,
+      "weekAgoPrice": 1.1200000047683716,
+      "percentChange": -10.71,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.25,
-      "weekAgoPrice": 0.25,
-      "percentChange": 0.0,
+      "weekAgoPrice": 0.2549999952316284,
+      "percentChange": -1.96,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.25,
-      "weekAgoPrice": 1.340000033378601,
-      "percentChange": -6.72,
-      "flagged": true,
-      "news": [
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-        }
-      ]
+      "weekAgoPrice": 1.2899999618530273,
+      "percentChange": -3.1,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.75,
-      "weekAgoPrice": 0.6600000262260437,
-      "percentChange": 13.64,
+      "weekAgoPrice": 0.6399999856948853,
+      "percentChange": 17.19,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 4
 }
