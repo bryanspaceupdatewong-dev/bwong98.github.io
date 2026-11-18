@@ -1,69 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-16T05:15:45.272925Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 162.85,
-        "weekAgoPrice": 186.63999938964844,
-        "percentChange": -12.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Edges Higher As Jensen Huang Reportedly Mulls Return - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObnZlZ3R2VmlSM0oyellyM1Mydkp2MWo0VkE0Njk4NFJkOU9HTlNvY2h4eXpUZ1h5LTBCLUFTOGV6eWMyQ3U1RVJia2dFbXY3cXZUOVNmakhJdHlGT1l6VkFZWG83OUF3RHN4YlBDb3BEMklJdURMRDFBX0ZRZTlNaDA0dDUxWGhUbjVacHlvdUtjaWhOdUE?oc=5"
-          },
-          {
-            "title": "Nvidia (NVDA) Is Under Multiple US Justice Department Investigations - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX0RBNjNHLXc1REtobHJHUTVnTzZvTGkzWnVzQlk4cWRiNm1HdG9aWW1kRDk1LTZ2NlYwUmtsdERzcjdUdHdkY0lob3dTeXc1cEY3aF84MW82R1RYVzRKX2lEVHAtcnNDcVU2RXRic3kxQ2J5dm1VV01IS0IzMWZ4ZThKdDFRc1pCOUFLZmlZUE5lS0UzUzJfWg?oc=5"
-          },
-          {
-            "title": "Stocks extend losses as traders digest Nvidia fallout - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWlN0Vi1YZkdwazNnZHhDVm90NjlydVcwUDh4OFZiZE8zMS01c1ZFeWg2X1R0LWJpNjBxd19DS2pkaHg4STVOVGpjTHI0WmltQVZ3WWxFY1QtRGNfOEFfX2dPWlF5QXlvb0FRbThRamhlb3hRSEFMSldJUDBubkRxRHZkUnB5b200SUlPag?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.6,
-        "weekAgoPrice": 4.900000095367432,
-        "percentChange": -6.12,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.04,
-        "weekAgoPrice": 1.1699999570846558,
-        "percentChange": -11.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.32,
-        "weekAgoPrice": 1.2200000286102295,
-        "percentChange": 8.2,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.715,
-        "weekAgoPrice": 0.6499999761581421,
-        "percentChange": 10.0,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-16T06:16:05.317480Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3498,6 +3434,70 @@
         "currentPrice": 0.74,
         "weekAgoPrice": 0.6399999856948853,
         "percentChange": 15.63,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-18T02:16:08.951836Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 506.24,
+        "weekAgoPrice": 545.1799926757812,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3NIZnJhRTlaT25EMWdOVUgwb3EzMHlaQmhVX2NvdmJwV3ctR3IwYlRvNW1ObmxpVldiYjR3elhBUE9OZ2E1Mm05ckpTcDJxLXRNbmNyLXNYaGJ2dXJaMmxKVVEwdWNCSGFDNzJqTGJzTTlrVGczZWVvQUJ6MHVsY2JJdEVabUgxM2hyV2VlVkpWUjFWNEFoYkJTNndXa0x2UFZ0QWhNbTU?oc=5"
+          },
+          {
+            "title": "Microsoft Corporation (MSFT) Stock: Fall 2.37% Despite Major AI Security Initiative Launch - Blockonomi",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYndCaktpMFZTU3oyWVY2Q3lOUnZrbDdrQmJLcmRUYjJRQUZQYUxMZFk5YU1OZzkzaUNUa1JiYWdNRjROTEY0Y0gzYnB5OWJOd1NMTVFFX0hzNmtBQmJKNGY4aWdrRExRdlB5cGdYTmk4eTN2S2R3bXNoWGRINktHWTc2LUplS1BHYVRWRlV5RnByX19NbzlpRlgtVUplNEpXaWx5NndBZEdfUm9mM1BB?oc=5"
+          },
+          {
+            "title": "Can Microsoft (NASDAQ:MSFT) Ride Demand To Fresh Records? - Kalkine Media",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXhCZVp6UGhXQXVZNFEzMmpqUjhxN0hzbWRza0Iyd2hpTk1hbnZMODJNbGs0S1VuUHhmQlRPYm1WMHJkT3AySHVwSC1kYXI3MHM4Q09XQ0Y5RUFlYnoxS2JFT0NFZi0wbmtUcVc2aVBQamw1dkJDQ2g4cm1CN1RLSjlUcUNpUmNjYUdkWENZeG1vbGJEU2l0OEJ0VTVGZw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 155.46,
+        "weekAgoPrice": 178.6699981689453,
+        "percentChange": -12.99,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA, CRM, NBIS, AAOI, NKE: 5 Trending Stocks Today - NVIDIA (NASDAQ:NVDA) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdnA0YXk1VkJoVlh2WVU5NEgwemhPeVE4VzA5b2xaVzYta2dnU0taMEFpUkNBTDZ2cGZNRnZwN2NUUldUNi1aS1FiTDgxNEZCWXllRXFucS05RU1MRkZFa0RfV24yVHV0bzQwcmFYckJPOXBWNWo1dWVXSzhtT2ZTSkswem5CNFQybUZqN09CM181UXg5T2FhZlZUSnFWN1F2dXJaVzh3QURCeDNYdnBpd2kzMlU4TVd0TjR5VWtvRzg?oc=5"
+          },
+          {
+            "title": "NVIDIA Q3 Earnings Call Highlights - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaHRnb1V1RmZrVDVjY3g4VTdJNEpTemVmNXlSczNVMkdFcndkQWtjSXpBWDhUUEhIRjg0S2tTdXFDUmJPZHRERXY0WG9SZGRzU1Zhb2puOTYtOVBBODkzaks4VEpkX1RYeUdTTEpmbWxDR2djNGZ0a0FhZ01nMlBQMWNPUkVGcnA4UnVpU1AxWTg0a3BsSU9jR0Z4dVR5a0xz?oc=5"
+          },
+          {
+            "title": "Nvidia rules out Huang's return as CEO as revenue doubles - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRnZTNFdIdW9wNFlvYlVBZEFUN3ZmbUt6b2VfM1Z3X3lsY1NnYXFnTU4wWndDWmI0elJibE8yWUp2bEVfYTRXbkJJZlZLdk1md3pHdlZiODFPOUt3NVRRVXZJYmJjOHpRRHJYakpvQUF3aUNTeXVJbm8yWmZDSmF4TzlLZ3VQUk5jT001RVVYQy12M3ZySHJPNnhPSQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.38,
+        "weekAgoPrice": 1.5199999809265137,
+        "percentChange": -9.21,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.745,
+        "weekAgoPrice": 0.6600000262260437,
+        "percentChange": 12.88,
         "flagged": true,
         "news": []
       }
