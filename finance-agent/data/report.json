@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T03:16:04.370203Z",
+  "generatedAt": "2026-11-18T04:17:19.220008Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -11,16 +11,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Microsoft Stock MSFT Drops Below $500 as New Cybersecurity Concerns Hit Tech - FXLeaders",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVk8xejJIenowemptSWQwT2l4bTB5a3FiZmxfYzlTV0twOUtoaG1RdEhkRmVIM3htMW42V3d3V3dlX0IzbTN6dGc2Wko1Q1JieDRZZ0ZacmNKbmdvYlV3QzdIWGFRdElYX196TkVWeG1fY3ZlOFd0RGZzakY3TXJUdUtoVnFoNDhwbHV0MjVLbEdsbWFfX0ZpMFYyOTVXcVkxRGttZTlkTkhzaXhsdVNMQmRPUUJFQ1pwYnc?oc=5"
+        },
+        {
+          "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT00tV0lrRWN1RWtUNV9XcXpjRktjSklPRTJVT0F1OFNWUzdsYW01Qm1KXzdSYTJKOUFuM1MwSHVaQUJnWDJxRUcwVHZtX1dudjFoVVRmX05iSUkwVUdjVGNiYzdwMFpyZkNOSGtqZVpEeFdLUnZOLXh1MUFYQkJMeTB2cjMzQkVXQlBzWG9tTGVON016MWdJMmd2QlRhQ1g4dHg5NFlDR1lkdFY1YnBBUVRiWXpZTWNNUmZMNUhDZHRFN1k3dmZWQjR3?oc=5"
+        },
+        {
           "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3NIZnJhRTlaT25EMWdOVUgwb3EzMHlaQmhVX2NvdmJwV3ctR3IwYlRvNW1ObmxpVldiYjR3elhBUE9OZ2E1Mm05ckpTcDJxLXRNbmNyLXNYaGJ2dXJaMmxKVVEwdWNCSGFDNzJqTGJzTTlrVGczZWVvQUJ6MHVsY2JJdEVabUgxM2hyV2VlVkpWUjFWNEFoYkJTNndXa0x2UFZ0QWhNbTU?oc=5"
-        },
-        {
-          "title": "Microsoft Corporation (MSFT) Stock: Fall 2.37% Despite Major AI Security Initiative Launch - Blockonomi",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYndCaktpMFZTU3oyWVY2Q3lOUnZrbDdrQmJLcmRUYjJRQUZQYUxMZFk5YU1OZzkzaUNUa1JiYWdNRjROTEY0Y0gzYnB5OWJOd1NMTVFFX0hzNmtBQmJKNGY4aWdrRExRdlB5cGdYTmk4eTN2S2R3bXNoWGRINktHWTc2LUplS1BHYVRWRlV5RnByX19NbzlpRlgtVUplNEpXaWx5NndBZEdfUm9mM1BB?oc=5"
-        },
-        {
-          "title": "Can Microsoft (NASDAQ:MSFT) Ride Demand To Fresh Records? - Kalkine Media",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXhCZVp6UGhXQXVZNFEzMmpqUjhxN0hzbWRza0Iyd2hpTk1hbnZMODJNbGs0S1VuUHhmQlRPYm1WMHJkT3AySHVwSC1kYXI3MHM4Q09XQ0Y5RUFlYnoxS2JFT0NFZi0wbmtUcVc2aVBQamw1dkJDQ2g4cm1CN1RLSjlUcUNpUmNjYUdkWENZeG1vbGJEU2l0OEJ0VTVGZw?oc=5"
         }
       ]
     },
@@ -32,8 +32,8 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won\u2019t Return as CEO - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOERUMkVEZEttRVd6TG92RVVFUzc4RU10anVtbFoxeV9RN1VneDJiUkc5NXpVWWNhM09PUWhGMHNHcmJNeTU0WTltdjA1TE5BbUtvOWx1QU4ySmJJc2lPWmoydVJld09sOER4Rk4xRE9QbXpKSVMzNE9ldENzQWZWVGZGRlY?oc=5"
+          "title": "Nvidia Signals AI Financing Flywheel Will Continue, But \u2018Disciplined\u2019: Analyst Calls Neoclouds Its \u2018Biggest Sustained Bet\u2019 As NBIS, IREN, MRVL Rally - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZnUwRE8xalhXcHVILUlpVmhHV2NNMVZVcGZrTGR2MVBZOUFFNjVnNU0tOVlacmFENmFkcW5NQWNydl84T3hERHFpWWhVeEswMy04NWgzYWZIaV82dEZrdTBEZnV6SWlmSkhXalh0M1BJeVBLb19mMFFWRld2ZjkwelNoY1lLU2EwaGZ4MGlkNEh0QkR2UFlVZFhZQXgza0g5WFE?oc=5"
         },
         {
           "title": "NVDA, CRM, NBIS, AAOI, NKE: 5 Trending Stocks Today - NVIDIA (NASDAQ:NVDA) - Benzinga",
@@ -47,9 +47,9 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.53,
+      "currentPrice": 4.52,
       "weekAgoPrice": 4.53000020980835,
-      "percentChange": -0.0,
+      "percentChange": -0.22,
       "flagged": false,
       "news": []
     },
@@ -71,9 +71,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.39,
+      "currentPrice": 1.37,
       "weekAgoPrice": 1.5199999809265137,
-      "percentChange": -8.55,
+      "percentChange": -9.87,
       "flagged": true,
       "news": []
     },
@@ -103,20 +103,25 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.28,
+      "currentPrice": 1.27,
       "weekAgoPrice": 1.340000033378601,
-      "percentChange": -4.48,
-      "flagged": false,
-      "news": []
+      "percentChange": -5.22,
+      "flagged": true,
+      "news": [
+        {
+          "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.745,
+      "currentPrice": 0.75,
       "weekAgoPrice": 0.6600000262260437,
-      "percentChange": 12.88,
+      "percentChange": 13.64,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 6
 }

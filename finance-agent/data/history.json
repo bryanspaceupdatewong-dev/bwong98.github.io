@@ -1,74 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-16T07:05:44.371345Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 162.85,
-        "weekAgoPrice": 186.63999938964844,
-        "percentChange": -12.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stocks extend losses as traders await Nvidia earnings and Anthropic IPO - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFdiYXVZMURsYVZfd2JIMENSaDJvWW9SMkN0cklBemV6czFJN3pQNzJuNVZPOGZPcnViNndpX2E2WU5OTkhPbjNYVkRFcFg3VHd4WmVBYkc2aTZNZEs0X2t5dWtkalN4WjNWSmxsdVRiZUg2T3g5WXdMUWZPNV9UMjNCQ1QxUlY5ZmdZ?oc=5"
-          },
-          {
-            "title": "U.S. plans to name Nvidia among AI \u2018national champions\u2019, WSJ reports - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUUlyVXF4VGRYZk5aS2ItdkUxcFFTZVc0WUxLMTRBQkozNDBoS1J2VUtZbjdkX0FLRnpqUWdjV1VhMEpiLTFfR01WdjE2dHFQOWFJcDhwSU54U2lzNXhUeDc3NWZ1S1JWU2JWbmtHWG4teUkzWGhadFdJY1FiajlBSlBQa0R2SUk2RnRHTFBzN3FQcVE?oc=5"
-          },
-          {
-            "title": "Jensen Huang Reportedly Considers Returning To Nvidia: FT - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObnZlZ3R2VmlSM0oyellyM1Mydkp2MWo0VkE0Njk4NFJkOU9HTlNvY2h4eXpUZ1h5LTBCLUFTOGV6eWMyQ3U1RVJia2dFbXY3cXZUOVNmakhJdHlGT1l6VkFZWG83OUF3RHN4YlBDb3BEMklJdURMRDFBX0ZRZTlNaDA0dDUxWGhUbjVacHlvdUtjaWhOdUE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.57,
-        "weekAgoPrice": 4.900000095367432,
-        "percentChange": -6.73,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.05,
-        "weekAgoPrice": 1.1699999570846558,
-        "percentChange": -10.26,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.33,
-        "weekAgoPrice": 1.2200000286102295,
-        "percentChange": 9.02,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.715,
-        "weekAgoPrice": 0.6499999761581421,
-        "percentChange": 10.0,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-16T07:16:27.585398Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3506,6 +3437,91 @@
         "currentPrice": 0.745,
         "weekAgoPrice": 0.6600000262260437,
         "percentChange": 12.88,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-18T04:17:19.220008Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 506.24,
+        "weekAgoPrice": 533.1599731445312,
+        "percentChange": -5.05,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft Stock MSFT Drops Below $500 as New Cybersecurity Concerns Hit Tech - FXLeaders",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVk8xejJIenowemptSWQwT2l4bTB5a3FiZmxfYzlTV0twOUtoaG1RdEhkRmVIM3htMW42V3d3V3dlX0IzbTN6dGc2Wko1Q1JieDRZZ0ZacmNKbmdvYlV3QzdIWGFRdElYX196TkVWeG1fY3ZlOFd0RGZzakY3TXJUdUtoVnFoNDhwbHV0MjVLbEdsbWFfX0ZpMFYyOTVXcVkxRGttZTlkTkhzaXhsdVNMQmRPUUJFQ1pwYnc?oc=5"
+          },
+          {
+            "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT00tV0lrRWN1RWtUNV9XcXpjRktjSklPRTJVT0F1OFNWUzdsYW01Qm1KXzdSYTJKOUFuM1MwSHVaQUJnWDJxRUcwVHZtX1dudjFoVVRmX05iSUkwVUdjVGNiYzdwMFpyZkNOSGtqZVpEeFdLUnZOLXh1MUFYQkJMeTB2cjMzQkVXQlBzWG9tTGVON016MWdJMmd2QlRhQ1g4dHg5NFlDR1lkdFY1YnBBUVRiWXpZTWNNUmZMNUhDZHRFN1k3dmZWQjR3?oc=5"
+          },
+          {
+            "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3NIZnJhRTlaT25EMWdOVUgwb3EzMHlaQmhVX2NvdmJwV3ctR3IwYlRvNW1ObmxpVldiYjR3elhBUE9OZ2E1Mm05ckpTcDJxLXRNbmNyLXNYaGJ2dXJaMmxKVVEwdWNCSGFDNzJqTGJzTTlrVGczZWVvQUJ6MHVsY2JJdEVabUgxM2hyV2VlVkpWUjFWNEFoYkJTNndXa0x2UFZ0QWhNbTU?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 155.46,
+        "weekAgoPrice": 168.88999938964844,
+        "percentChange": -7.95,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Signals AI Financing Flywheel Will Continue, But \u2018Disciplined\u2019: Analyst Calls Neoclouds Its \u2018Biggest Sustained Bet\u2019 As NBIS, IREN, MRVL Rally - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZnUwRE8xalhXcHVILUlpVmhHV2NNMVZVcGZrTGR2MVBZOUFFNjVnNU0tOVlacmFENmFkcW5NQWNydl84T3hERHFpWWhVeEswMy04NWgzYWZIaV82dEZrdTBEZnV6SWlmSkhXalh0M1BJeVBLb19mMFFWRld2ZjkwelNoY1lLU2EwaGZ4MGlkNEh0QkR2UFlVZFhZQXgza0g5WFE?oc=5"
+          },
+          {
+            "title": "NVDA, CRM, NBIS, AAOI, NKE: 5 Trending Stocks Today - NVIDIA (NASDAQ:NVDA) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdnA0YXk1VkJoVlh2WVU5NEgwemhPeVE4VzA5b2xaVzYta2dnU0taMEFpUkNBTDZ2cGZNRnZwN2NUUldUNi1aS1FiTDgxNEZCWXllRXFucS05RU1MRkZFa0RfV24yVHV0bzQwcmFYckJPOXBWNWo1dWVXSzhtT2ZTSkswem5CNFQybUZqN09CM181UXg5T2FhZlZUSnFWN1F2dXJaVzh3QURCeDNYdnBpd2kzMlU4TVd0TjR5VWtvRzg?oc=5"
+          },
+          {
+            "title": "Nvidia Has a $118 Billion Promise Tucked Inside Its Blowout Quarter. Here's What It Means for the Stock - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeXRFZm5BTU5RbV8xX2ZiTEoxR3RpeUg0YUE4bHdBRl9OSEdnY214Z2taMldNU3VLZWhrT1lUdGV2TXlSeldhQUcwU0VrUl9mS2RRNkI3QWp6WURPNTVOWC1heGlyWXJnRHVtRHlDNDZZNGVvQk43LVZtZXlGMEw5OGFBbnhOTE5NM01mcUluRnJSaHlrZWtCSUNmZF9naFpnNm5YNkk0NE5wb2hwMHF6MjhaX2UwZG5qYUdBeTdSUEthM3d5QmZ5aWpMaElOZ1lXSV9tMXVOUExFcXM4Q0pIdw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.5199999809265137,
+        "percentChange": -9.87,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.03,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": -6.36,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.27,
+        "weekAgoPrice": 1.340000033378601,
+        "percentChange": -5.22,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6600000262260437,
+        "percentChange": 13.64,
         "flagged": true,
         "news": []
       }
