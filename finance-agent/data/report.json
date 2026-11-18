@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-18T14:16:05.471905Z",
+  "generatedAt": "2026-11-18T15:16:20.774494Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 506.24,
-      "weekAgoPrice": 533.1599731445312,
-      "percentChange": -5.05,
-      "flagged": true,
+      "currentPrice": 506.91,
+      "weekAgoPrice": 521.1300048828125,
+      "percentChange": -2.73,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 155.46,
-      "weekAgoPrice": 168.88999938964844,
-      "percentChange": -7.95,
+      "currentPrice": 155.29,
+      "weekAgoPrice": 173.72999572753906,
+      "percentChange": -10.61,
       "flagged": true,
       "news": [
         {
-          "title": "NVIDIA Corporation (NVDA) Stock Forecasts - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblpaZUd3dV9vZlUxQUJVNms4NENoYkttTWJnMXNsYjhfM1RFVFV5R3RkaC1Sd0ZESVU1RDg3M1JlWmFPOGdINlpCc05maExwVmtLdEhGZDJLMlZBUHI1aXl0bkxMbEFJd19IOVF5VTlaRzkwd3RFS0owLXY3WDc3b3dROXdScFFSWlE?oc=5"
+          "title": "A Strong Q3 Puts Nvidia (NVDA) Stock on Track for a Quick 194% Options Payout - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmdOdllkSTFTeFF0OGlmamk3NmtHaWRUNVQxRlh1TEpvWWYyMFk1STI2Y0VWZTJfbHRZVFJ3NXZsbjRxNTBtWnhDNERMVjJTWWM4NS1wTGxiYXpaUHBuMXVLRjdoWTlCMXhULTRIMjFjYVc1LTlRNk03TVlISTdzZXlJcHhHczdUT0pZdkJMcWk1Q3ZkcTJ3Yjl5SVFPYmRTNVRLVWpNV3NmUWxLRjI1Ymx3Y1Z6alhMLVE?oc=5"
         },
         {
-          "title": "TradeXYZ leads NVDA perpetual open interest at $222.1M on Hyperliquid - Crypto Briefing",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMnM4SERGeTRlRXktNXMwenMzcEYwdm8zUVY3ckdsb1dIRHVlajkzeVIwSzdSRGowRG96SzFKZHhETk5wWl92N0tFY0l2Z25reUV6dzNoOXQtc01qV1Vrb3gxa2RQVk84dmU1YnJvMW0xUnRzLXotWVhaTEpmV0Nya1dudw?oc=5"
+          "title": "Dow falls 300 points as Nvidia earnings bounce fizzles: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv0gF8QVVfeXFMT014TXpKZ2hKbVhJT0dVekl1Z2tCbjE3MnMtLWhMUG1DaUc3UUd0emE1R2xPd2pDZXMzVXhGbHFVRmdWRm1iRWJnejN6YjJJYlpDWkxJOVhDS3RuRGUyQkhHZ2wzSzJJdnVrNDVqcHQxb2ZXVkUwSVRJcjE4RA?oc=5"
         },
         {
-          "title": "Stock Market Today: Dow Falls As Fed Official Calls For Larger Hike; Nvidia Shares Jump On Earnings (Live Coverage) - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXBraTU4T2FpajlyR1NvUy10anpSNi0weU02QkhIbU01NGVsNHc0dU9ENHVaaTlWblBSMHdFWXR0WmFCdFpCS2YzRlR1YzgtOE1BUUw0Mlo2c3p4RjVDcDE3bm5uYUNxdHY4SnlfbnlLMWVrTk1MWUY2bzAxUVhsMTc0dHBHQXZDWUxMRDZLRk0tcGE3aVFsVEN2d2RMTUJ1MUt3R3J4akcyTzlqelBIX2F6MHVNeVFsMWktSFM1T1RXM2ozQkpJekMta00xZw?oc=5"
+          "title": "Another short-seller announces a bet against Nvidia over possible ties to China - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN25iRzI3cHFHRlRxeTFIRDlCZlAzc0padkdqQ1dtRWQ1cXFyazRvTVdfSnBqZEN1MVdHM3RmWHVwZ0pkQzJscW15Q01nUUlqMlFYakhFLWxNdjFZTXNYRjR5Uk5DQk5IZzFtNlY1bm84cm01ZnBiNU9jSXZ0SkVWaWt3TV9XN0dlTE02N1ZINnRyNWQzVVppMEtB?oc=5"
         }
       ]
     },
@@ -110,5 +110,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 6
+  "flaggedCount": 5
 }

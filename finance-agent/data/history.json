@@ -1,82 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-16T17:16:09.517463Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 157.86,
-        "weekAgoPrice": 178.6699981689453,
-        "percentChange": -11.65,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Probe Focus Shifts To China Chip Smuggling - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNW0yOGhvaUt2RUNSMXZoRVRZbWc2WEVRbGlQTWdfQmo1d3VfWGpfRzYwYXR3Qko0N0txYkVBT1lIbXU3SEp3M0hHczVlS3pZVTBpdllfUUhGUVdDLWJJck9keS1nUUVxZ2JOQkV4TEpROHVuSVowd1hjOVBHZnh0a2Rsa05lMjg4TkNleE9QcDBpdw?oc=5"
-          },
-          {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm1pRzVJd0lQc2F6aUtMUGIzUnVtazZTRFQtUndVeHZCSzhTTkVTSEJJRnIyN0JhVnN0eTVuZkFiVEN5a0xWbk54cjlXejFPTjlkb3JhTDdjQnNNMXFvblF0S3ZNUmtiTmFDdEd2NkdpZmtLSG01eldfYWZDT3lIcldSc2VlZnNQSGRkWmRmYmh3b195WDY1bnNoU25neEFTc3dwX21yTkRGdkRiSW5FMDZrdmpRZTdDZUpHaw?oc=5"
-          },
-          {
-            "title": "Nvidia and Anthropic Will Really Test the Stock Market. Only One Thing Is Certain. - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHNBeWZmdmgyeDJLV2FtWXRCNkdid0pVVE9ncnl5MHZfb1NBOFI1Rks2V1V3Mm53OGpJbERpa0pYcFVMSlJUSHc3VmhXdXh5V25tcUNhR2pxdGVZZlV0d0pYRmtXR050Rl9hbnNhcmNHLWFjNWpoN0V6a3BDMURacA?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.55,
-        "weekAgoPrice": 4.960000038146973,
-        "percentChange": -8.27,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.43,
-        "weekAgoPrice": 1.5399999618530273,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.05,
-        "weekAgoPrice": 1.2000000476837158,
-        "percentChange": -12.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.36,
-        "weekAgoPrice": 1.2300000190734863,
-        "percentChange": 10.57,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6549999713897705,
-        "percentChange": 14.5,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-16T17:18:06.911559Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3624,6 +3547,70 @@
           {
             "title": "Stock Market Today: Dow Falls As Fed Official Calls For Larger Hike; Nvidia Shares Jump On Earnings (Live Coverage) - Investor's Business Daily",
             "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXBraTU4T2FpajlyR1NvUy10anpSNi0weU02QkhIbU01NGVsNHc0dU9ENHVaaTlWblBSMHdFWXR0WmFCdFpCS2YzRlR1YzgtOE1BUUw0Mlo2c3p4RjVDcDE3bm5uYUNxdHY4SnlfbnlLMWVrTk1MWUY2bzAxUVhsMTc0dHBHQXZDWUxMRDZLRk0tcGE3aVFsVEN2d2RMTUJ1MUt3R3J4akcyTzlqelBIX2F6MHVNeVFsMWktSFM1T1RXM2ozQkpJekMta00xZw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.38,
+        "weekAgoPrice": 1.5199999809265137,
+        "percentChange": -9.21,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.0,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": -9.09,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.25,
+        "weekAgoPrice": 1.340000033378601,
+        "percentChange": -6.72,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6600000262260437,
+        "percentChange": 13.64,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-18T15:16:20.774494Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 155.29,
+        "weekAgoPrice": 173.72999572753906,
+        "percentChange": -10.61,
+        "flagged": true,
+        "news": [
+          {
+            "title": "A Strong Q3 Puts Nvidia (NVDA) Stock on Track for a Quick 194% Options Payout - Barchart.com",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmdOdllkSTFTeFF0OGlmamk3NmtHaWRUNVQxRlh1TEpvWWYyMFk1STI2Y0VWZTJfbHRZVFJ3NXZsbjRxNTBtWnhDNERMVjJTWWM4NS1wTGxiYXpaUHBuMXVLRjdoWTlCMXhULTRIMjFjYVc1LTlRNk03TVlISTdzZXlJcHhHczdUT0pZdkJMcWk1Q3ZkcTJ3Yjl5SVFPYmRTNVRLVWpNV3NmUWxLRjI1Ymx3Y1Z6alhMLVE?oc=5"
+          },
+          {
+            "title": "Dow falls 300 points as Nvidia earnings bounce fizzles: Live updates - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv0gF8QVVfeXFMT014TXpKZ2hKbVhJT0dVekl1Z2tCbjE3MnMtLWhMUG1DaUc3UUd0emE1R2xPd2pDZXMzVXhGbHFVRmdWRm1iRWJnejN6YjJJYlpDWkxJOVhDS3RuRGUyQkhHZ2wzSzJJdnVrNDVqcHQxb2ZXVkUwSVRJcjE4RA?oc=5"
+          },
+          {
+            "title": "Another short-seller announces a bet against Nvidia over possible ties to China - Business Insider",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN25iRzI3cHFHRlRxeTFIRDlCZlAzc0padkdqQ1dtRWQ1cXFyazRvTVdfSnBqZEN1MVdHM3RmWHVwZ0pkQzJscW15Q01nUUlqMlFYakhFLWxNdjFZTXNYRjR5Uk5DQk5IZzFtNlY1bm84cm01ZnBiNU9jSXZ0SkVWaWt3TV9XN0dlTE02N1ZINnRyNWQzVVppMEtB?oc=5"
           }
         ]
       },
