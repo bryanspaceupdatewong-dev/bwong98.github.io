@@ -1,74 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-17T00:15:58.730211Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 156.14,
-        "weekAgoPrice": 178.6699981689453,
-        "percentChange": -12.61,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Daniel Loeb\u2019s Third Point Returned to Nvidia Stock Just Before Its Fall - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDltRGtfTHd2QlFRQ3RlRFlZaVVzOC1PM3E2WU1WYk85M1VXMFpWdW5xTzBkN04ycEhqWWJzaUlnelozZHBzUEVrNWdwbFlWZ01PdXdQTUh1aHZfTUhvblFPM3lMeVdwS2xpakZpQWJyeXl0UlVVT2lNOEtNYXBWRmttVUF5WDNZdjlKRGZDd0E0aS1ONGlTbkh1bmh5SzNqY2RiRVRpRjg5cTREQmhfbjBn?oc=5"
-          },
-          {
-            "title": "Intel Stock Sell-Off Deepens After Nvidia Cuts Stake - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlzcVRDWDhOYUlXa3htU0hKa3JKMGh4NkZpV1hoTXY3YzBVLUlWSVk4Q3Y5My15VFBxbEZyQVBqRmR0Z1ozaWtEZnEzdlZycHdkXzIzMDJtOHppbzdzamU0MjJyR0FENk9vU3pWNlNsZld3eTE4Z09Mc2U3d290bWp6b29vRjlXdl9IRmpGa0pTbVJvZ2h4eVR2czBMaWlTMER3cEh6UThxMXlIUWNKQ2ZXYw?oc=5"
-          },
-          {
-            "title": "Nvidia rules out Huang comeback as campaign for his return grows - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnJmVHNCR2NpOGp0dlZibjRKMHA2S0hJM21UQTlDUmpTdXJwekFtbWxwdGVEZDVSRm0tUjZyWHQ3dGZVSmdBQkdCMHgwS0E1MU1MczV4c0p1cjRZT2I0dFpvWEZQU3VDSXNPZ1hKZHhQenJ6RVNpbFhIUm5KeVFSdHgxNGx5U2dHd0hsanhrMW1vWEUybU9maXg0cUJNUlpzcnp6NG9LS25kcjllZ3REY0o3Z3R1blU?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.55,
-        "weekAgoPrice": 4.900000095367432,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.05,
-        "weekAgoPrice": 1.1699999570846558,
-        "percentChange": -10.26,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.36,
-        "weekAgoPrice": 1.2200000286102295,
-        "percentChange": 11.48,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6499999761581421,
-        "percentChange": 15.38,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-17T01:16:09.190618Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3463,6 +3394,74 @@
           {
             "title": "Nvidia retreats as strong outlook fails to dispel uncertainty - Reuters",
             "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.38,
+        "weekAgoPrice": 1.5199999809265137,
+        "percentChange": -9.21,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.0,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": -9.09,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.25,
+        "weekAgoPrice": 1.340000033378601,
+        "percentChange": -6.72,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+          },
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6600000262260437,
+        "percentChange": 13.64,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-18T23:16:11.173546Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 150.96,
+        "weekAgoPrice": 173.72999572753906,
+        "percentChange": -13.11,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock market today: Anthropic IPO in spotlight, Nvidia stock extends decline - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUXF4elZiRmtpU0hWaElPNjVGbHBuMkxPaDJCSzlMREtmUWs5dThVN3RCRUJWR2R6dEhGaGtibWY5bnRrMFpnRVRlb2hEazc0ekVOQjBVMkY4RVQ1U1pMYWNYdFdKQTN5a2tRM0hfeGVTNXJVeW1talprVGRjRllJZ0xxQzVtV09ZZmpDcGZIU3U3X2VZMXZCcWZDYXBGY2FrUkY1NXlwblRTamJpeHA4Rl9yOUJ6RlU2QkZXSm1PV2dBRF9vSjd5eTBjRTZmLUFBdlpCclVya2Zfdw?oc=5"
+          },
+          {
+            "title": "Arm CEO Rene Haas Reportedly Approached By Recruitment Agency Hired By Nvidia Board - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1BodzZ1VXJQR29CYVg4TmVEVU1BZXRoMkczWUtvQnFmOE03clBub0x0OFBEcmtROUVfWkdDUUZPQ1dEck9VNmNBZmF1dDJBMjdyak5namlaek5YUlp5Sk44OU9jdHJzVml0bjNVQUo3SEFtYTFVMy1BVWFvT0lFZFlUTFhfbXhtUURiN3N3S3FhM1JTTW56Zg?oc=5"
+          },
+          {
+            "title": "Inside Nvidia's all-hands meeting, executives confront the elephant in the room: Jensen Huang - Business Insider",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1k3SzVCTXpPMDZWMWNqMTRjTWxYSUxoSW9SY0dheENNanZ5c0pPdzQ3Q1NQVGFHMXd5ZkZ0aVBsM2ViX1gzcVZWQmNNTnJQREhJS3BzSGlCYk1WellXeVMyZDJGSDc1bjBEWXBOTlY3Ql90ZGFndHZsZkNOdnVRUVRzd0w5c200UG5rQXppUmJiZVNVSkVIc3pwX3pVSHA4R21KSVJn?oc=5"
           }
         ]
       },
