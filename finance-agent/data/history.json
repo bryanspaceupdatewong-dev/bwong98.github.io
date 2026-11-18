@@ -1,82 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-16T02:16:04.270735Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 162.85,
-        "weekAgoPrice": 186.63999938964844,
-        "percentChange": -12.75,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia stock steady as Jensen Huang reportedly weighs CEO comeback, Musk backs return - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVzVrZl9udUdNTVdUdnNoUG1meHJncG1HUVN6WXlXQ3JkTGNSOE9HQU1pcHJ5RFhEZ01STzQ0ZHFlNUh4YVV6eVNpN3NHNXR0eUpoT2l6bTY2QW5hT05yaXMzaGtZcVBrUWdOa25YeWNkckJ6SW80U3Q1VFhsUUJjUjV1dzNyM0EtUlR5OWh6T1paRnVjeUIzSjVqS0hIaDA1REVkMGMxM3lzMDhYdG1wOFZCLVdxRjRleXNDNTdYc2pQSDVmZVhzZ1ZTUThfWUgwdkRnUzhQOGc?oc=5"
-          },
-          {
-            "title": "Futures Fall In Shaky Market; Jensen Huang Mulls Nvidia Return - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5"
-          },
-          {
-            "title": "Jensen Huang weighs Nvidia comeback: Morgan Stanley sees 67% share price upside - Yahoo Finance Australia",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZEoySjh5SW1yS296b2tMNnN5NU9BMUtOOVdnT2U5UV9jUGR2eHVvTUJfSFlxZGpERnpHVG4zVV9oWi0tcThJdUQxMEIyZWNVRVlKUGhNMXI1blRnT2hNcDFuLUNZRUZ5R0FNcXlnNFpRUTh6VHcxeTN1MHVJT3RRdGxoMXg1M1BKV05hNw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.52,
-        "weekAgoPrice": 4.900000095367432,
-        "percentChange": -7.76,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.4,
-        "weekAgoPrice": 1.4800000190734863,
-        "percentChange": -5.41,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Genting Berhad (3182.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdGRocjI2QnhDb29oYjlmMU1xSkdnSXg1c1ZUU1BuZXJTM1M2cmY1blRKbUdWcXpWUHNYUkJIR2JpaVJHRDM3aVlnWThFUHhnNERYRVFR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.02,
-        "weekAgoPrice": 1.1699999570846558,
-        "percentChange": -12.82,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.31,
-        "weekAgoPrice": 1.2200000286102295,
-        "percentChange": 7.38,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.71,
-        "weekAgoPrice": 0.6499999761581421,
-        "percentChange": 9.23,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-16T03:16:25.360002Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3445,6 +3368,99 @@
           {
             "title": "0397.KL Interactive Stock Chart | 5ER Stock - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rd1QtZHNLcG1Fd05ra25NeWx2QmtLOUI4VzJfUEtuRE1FU0FHLUR5Mm5vdzdFc0hKRXlQSHRNSks0dzdwS1h0TU1BTFBZWkh3?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.74,
+        "weekAgoPrice": 0.6399999856948853,
+        "percentChange": 15.63,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-18T00:16:12.243161Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 506.24,
+        "weekAgoPrice": 533.1599731445312,
+        "percentChange": -5.05,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3NIZnJhRTlaT25EMWdOVUgwb3EzMHlaQmhVX2NvdmJwV3ctR3IwYlRvNW1ObmxpVldiYjR3elhBUE9OZ2E1Mm05ckpTcDJxLXRNbmNyLXNYaGJ2dXJaMmxKVVEwdWNCSGFDNzJqTGJzTTlrVGczZWVvQUJ6MHVsY2JJdEVabUgxM2hyV2VlVkpWUjFWNEFoYkJTNndXa0x2UFZ0QWhNbTU?oc=5"
+          },
+          {
+            "title": "Microsoft Corporation (MSFT) Stock: Fall 2.37% Despite Major AI Security Initiative Launch - Blockonomi",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYndCaktpMFZTU3oyWVY2Q3lOUnZrbDdrQmJLcmRUYjJRQUZQYUxMZFk5YU1OZzkzaUNUa1JiYWdNRjROTEY0Y0gzYnB5OWJOd1NMTVFFX0hzNmtBQmJKNGY4aWdrRExRdlB5cGdYTmk4eTN2S2R3bXNoWGRINktHWTc2LUplS1BHYVRWRlV5RnByX19NbzlpRlgtVUplNEpXaWx5NndBZEdfUm9mM1BB?oc=5"
+          },
+          {
+            "title": "Can Microsoft (NASDAQ:MSFT) Ride Demand To Fresh Records? - Kalkine Media",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXhCZVp6UGhXQXVZNFEzMmpqUjhxN0hzbWRza0Iyd2hpTk1hbnZMODJNbGs0S1VuUHhmQlRPYm1WMHJkT3AySHVwSC1kYXI3MHM4Q09XQ0Y5RUFlYnoxS2JFT0NFZi0wbmtUcVc2aVBQamw1dkJDQ2g4cm1CN1RLSjlUcUNpUmNjYUdkWENZeG1vbGJEU2l0OEJ0VTVGZw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 155.46,
+        "weekAgoPrice": 168.88999938964844,
+        "percentChange": -7.95,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTGswLW45X25uQXNodGZiZnNWeFk1dTdSWm5SRktfUXBTaTY3QlA2dFR3U3hFNnpDX2dwa3VHYllDS3Roa1VyWGFEMk16alc1dHRXR1p0eUVsRk1LMEliNDJyYlJIczVmam1OT25jMjRKbUZ2UE05bGtKLWUtdldySHpvOWMyRUdmenJUaFk0eTYtalRlZll0RkkzdGdzcnMwYkR1eWpKZTdqU3VRYXpLY1BSU2MwM04yMEJmbW9YOWZvZlRleUpqd3BseDhrTE5GVEFNN0FTM0hjUjdDTFBGUUQyOWVfUQ?oc=5"
+          },
+          {
+            "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won\u2019t Return as CEO - WSJ",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOERUMkVEZEttRVd6TG92RVVFUzc4RU10anVtbFoxeV9RN1VneDJiUkc5NXpVWWNhM09PUWhGMHNHcmJNeTU0WTltdjA1TE5BbUtvOWx1QU4ySmJJc2lPWmoydVJld09sOER4Rk4xRE9QbXpKSVMzNE9ldENzQWZWVGZGRlY?oc=5"
+          },
+          {
+            "title": "Nvidia earnings recap: No Jensen questions, please - Business Insider",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnlJT01CWFkwRnFkemZTOGJPaG83S0RhdTZsbmgwTXlTdlBFeWRNMENFNUY4bnNsSVp6YlZZSnluanlLUWQzOGpNN0lOVmxwdU5TRWhYZHBVQ09tVlhmV1hBVXY5dTV3ekh0bmhVRnY3NS1IbXF2UzBEcFpXM1NhQVo0RzhUWXNLWmdZX2s5dEJ2YlE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.4,
+        "weekAgoPrice": 1.5299999713897705,
+        "percentChange": -8.5,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.04,
+        "weekAgoPrice": 1.1200000047683716,
+        "percentChange": -7.14,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.24,
+        "weekAgoPrice": 0.2549999952316284,
+        "percentChange": -5.88,
+        "flagged": true,
+        "news": [
+          {
+            "title": "JAG Berhad (0024.KL) Seasonal returns chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00Nk41UDlkRkFJaXQyWVpXNm9HVXV2aVp1NDJzSnpfVm5lY3VNaXJiVnRpS1A0MU11QVhHLUdQWFpQVzJmcHpyblFaSUZzcGJYaDQzUHQ3THpaa3JJVkVwbS1lQWg0UQ?oc=5"
+          },
+          {
+            "title": "National Environmental Recycling Company (9540.SR) Seasonal returns chart - Yahoo Finance UK",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jajl4YWV4enFXMnZabG9hcWFOS3NZNkdSNjhoMzRiS2VmVWVpd2FQR2tCanEtRDA2clF2OHBvZ2piSGhJeGU1NEFhNTVnU1kzTGp6VFhhcW1HUmVqbjFGX1N4eTE1Zw?oc=5"
+          },
+          {
+            "title": "JAG Berhad (0024.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ob21IMVBhZl9jQW04WFNlTFdlT3FlRWphcFcxdF8tU3BqRGF1THdmak9USHFaYzd0NkFhNWh6emdBYlVoaHN3ZTJMQjBlMXlFeUhtaUVZREYyTFBfcGg2Y3FRSVVYQQ?oc=5"
           }
         ]
       },

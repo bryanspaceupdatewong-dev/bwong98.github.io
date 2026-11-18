@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T23:16:31.359825Z",
+  "generatedAt": "2026-11-18T00:16:12.243161Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -12,7 +12,7 @@
       "news": [
         {
           "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT00tV0lrRWN1RWtUNV9XcXpjRktjSklPRTJVT0F1OFNWUzdsYW01Qm1KXzdSYTJKOUFuM1MwSHVaQUJnWDJxRUcwVHZtX1dudjFoVVRmX05iSUkwVUdjVGNiYzdwMFpyZkNOSGtqZVpEeFdLUnZOLXh1MUFYQkJMeTB2cjMzQkVXQlBzWG9tTGVON016MWdJMmd2QlRhQ1g4dHg5NFlDR1lkdFY1YnBBUVRiWXpZTWNNUmZMNUhDZHRFN1k3dmZWQjR3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3NIZnJhRTlaT25EMWdOVUgwb3EzMHlaQmhVX2NvdmJwV3ctR3IwYlRvNW1ObmxpVldiYjR3elhBUE9OZ2E1Mm05ckpTcDJxLXRNbmNyLXNYaGJ2dXJaMmxKVVEwdWNCSGFDNzJqTGJzTTlrVGczZWVvQUJ6MHVsY2JJdEVabUgxM2hyV2VlVkpWUjFWNEFoYkJTNndXa0x2UFZ0QWhNbTU?oc=5"
         },
         {
           "title": "Microsoft Corporation (MSFT) Stock: Fall 2.37% Despite Major AI Security Initiative Launch - Blockonomi",
@@ -32,16 +32,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Stock Rises On Report. Board Says No To CEO Return Bid. - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEx5ajRyZTctMzlRWGYyelF2RHNJcEEzd3I5alJ1YktQb1NqcFgxR3NPZVpMZUFMZzdhVTlMRkxxRG5kZVBhcG1qNTMwYlEybVN5NVhUazJYX0NPUVVHc1E1Mms5SXVuWHZVakZBZ0M5ZU56U01fRzZxVjBGeEEzcU9WU0phOXc0S0I0dHNBdUNPNC16?oc=5"
-        },
-        {
           "title": "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTGswLW45X25uQXNodGZiZnNWeFk1dTdSWm5SRktfUXBTaTY3QlA2dFR3U3hFNnpDX2dwa3VHYllDS3Roa1VyWGFEMk16alc1dHRXR1p0eUVsRk1LMEliNDJyYlJIczVmam1OT25jMjRKbUZ2UE05bGtKLWUtdldySHpvOWMyRUdmenJUaFk0eTYtalRlZll0RkkzdGdzcnMwYkR1eWpKZTdqU3VRYXpLY1BSU2MwM04yMEJmbW9YOWZvZlRleUpqd3BseDhrTE5GVEFNN0FTM0hjUjdDTFBGUUQyOWVfUQ?oc=5"
         },
         {
-          "title": "Nvidia Beats Estimates, Raises Guidance in First Earnings Report After Huang\u2019s Ouster - WSJ",
+          "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won\u2019t Return as CEO - WSJ",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOERUMkVEZEttRVd6TG92RVVFUzc4RU10anVtbFoxeV9RN1VneDJiUkc5NXpVWWNhM09PUWhGMHNHcmJNeTU0WTltdjA1TE5BbUtvOWx1QU4ySmJJc2lPWmoydVJld09sOER4Rk4xRE9QbXpKSVMzNE9ldENzQWZWVGZGRlY?oc=5"
+        },
+        {
+          "title": "Nvidia earnings recap: No Jensen questions, please - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnlJT01CWFkwRnFkemZTOGJPaG83S0RhdTZsbmgwTXlTdlBFeWRNMENFNUY4bnNsSVp6YlZZSnluanlLUWQzOGpNN0lOVmxwdU5TRWhYZHBVQ09tVlhmV1hBVXY5dTV3ekh0bmhVRnY3NS1IbXF2UzBEcFpXM1NhQVo0RzhUWXNLWmdZX2s5dEJ2YlE?oc=5"
         }
       ]
     },
@@ -101,16 +101,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "JAG Berhad (0024.KL) Seasonal returns chart - Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00Nk41UDlkRkFJaXQyWVpXNm9HVXV2aVp1NDJzSnpfVm5lY3VNaXJiVnRpS1A0MU11QVhHLUdQWFpQVzJmcHpyblFaSUZzcGJYaDQzUHQ3THpaa3JJVkVwbS1lQWg0UQ?oc=5"
+        },
+        {
           "title": "National Environmental Recycling Company (9540.SR) Seasonal returns chart - Yahoo Finance UK",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jajl4YWV4enFXMnZabG9hcWFOS3NZNkdSNjhoMzRiS2VmVWVpd2FQR2tCanEtRDA2clF2OHBvZ2piSGhJeGU1NEFhNTVnU1kzTGp6VFhhcW1HUmVqbjFGX1N4eTE1Zw?oc=5"
         },
         {
           "title": "JAG Berhad (0024.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ob21IMVBhZl9jQW04WFNlTFdlT3FlRWphcFcxdF8tU3BqRGF1THdmak9USHFaYzd0NkFhNWh6emdBYlVoaHN3ZTJMQjBlMXlFeUhtaUVZREYyTFBfcGg2Y3FRSVVYQQ?oc=5"
-        },
-        {
-          "title": "0397.KL Interactive Stock Chart | 5ER Stock - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rd1QtZHNLcG1Fd05ra25NeWx2QmtLOUI4VzJfUEtuRE1FU0FHLUR5Mm5vdzdFc0hKRXlQSHRNSks0dzdwS1h0TU1BTFBZWkh3?oc=5"
         }
       ]
     },
