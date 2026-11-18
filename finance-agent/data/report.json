@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T01:11:46.501320Z",
+  "generatedAt": "2026-11-18T01:16:32.787811Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -32,48 +32,48 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTGswLW45X25uQXNodGZiZnNWeFk1dTdSWm5SRktfUXBTaTY3QlA2dFR3U3hFNnpDX2dwa3VHYllDS3Roa1VyWGFEMk16alc1dHRXR1p0eUVsRk1LMEliNDJyYlJIczVmam1OT25jMjRKbUZ2UE05bGtKLWUtdldySHpvOWMyRUdmenJUaFk0eTYtalRlZll0RkkzdGdzcnMwYkR1eWpKZTdqU3VRYXpLY1BSU2MwM04yMEJmbW9YOWZvZlRleUpqd3BseDhrTE5GVEFNN0FTM0hjUjdDTFBGUUQyOWVfUQ?oc=5"
-        },
-        {
           "title": "Nvidia Has a $118 Billion Promise Tucked Inside Its Blowout Quarter. Here's What It Means for the Stock - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeXRFZm5BTU5RbV8xX2ZiTEoxR3RpeUg0YUE4bHdBRl9OSEdnY214Z2taMldNU3VLZWhrT1lUdGV2TXlSeldhQUcwU0VrUl9mS2RRNkI3QWp6WURPNTVOWC1heGlyWXJnRHVtRHlDNDZZNGVvQk43LVZtZXlGMEw5OGFBbnhOTE5NM01mcUluRnJSaHlrZWtCSUNmZF9naFpnNm5YNkk0NE5wb2hwMHF6MjhaX2UwZG5qYUdBeTdSUEthM3d5QmZ5aWpMaElOZ1lXSV9tMXVOUExFcXM4Q0pIdw?oc=5"
         },
         {
           "title": "Jeff Bezos has tips for the Nvidia board in choosing a successor for Jensen Huang - Business Insider",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWpQbmxfYlhSc29DcWQwSUlPQUh6YjczMjdLZEd2R1lpMDUta3IwNTZYdjhNVFZYWkdwNG10WTZBOVgzbVZ1Zkg2LVY1TWJ6Nm1qREtFTDBGYjdaRW5XNjBMcE1XS1h4bzBMV1p1RXlIRXRyRVRXb1BGSVFpWFZVRlFpcUhFYWd2T1YzNGk5Mm1jRmYyNjh1czRCQVFWUndtVDJJ?oc=5"
+        },
+        {
+          "title": "Nvidia earnings live: Nvidia posts Q3 beat as revenue rose 103% YOY to $115.8B, board says it will not reinstate Jensen Huang as CEO - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTGswLW45X25uQXNodGZiZnNWeFk1dTdSWm5SRktfUXBTaTY3QlA2dFR3U3hFNnpDX2dwa3VHYllDS3Roa1VyWGFEMk16alc1dHRXR1p0eUVsRk1LMEliNDJyYlJIczVmam1OT25jMjRKbUZ2UE05bGtKLWUtdldySHpvOWMyRUdmenJUaFk0eTYtalRlZll0RkkzdGdzcnMwYkR1eWpKZTdqU3VRYXpLY1BSU2MwM04yMEJmbW9YOWZvZlRleUpqd3BseDhrTE5GVEFNN0FTM0hjUjdDTFBGUUQyOWVfUQ?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.56,
-      "weekAgoPrice": 4.679999828338623,
-      "percentChange": -2.56,
+      "currentPrice": 4.53,
+      "weekAgoPrice": 4.53000020980835,
+      "percentChange": -0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.63,
-      "weekAgoPrice": 7.690000057220459,
-      "percentChange": -0.78,
+      "weekAgoPrice": 7.539999961853027,
+      "percentChange": 1.19,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.21,
-      "weekAgoPrice": 1.2400000095367432,
-      "percentChange": -2.42,
+      "currentPrice": 1.2,
+      "weekAgoPrice": 1.2300000190734863,
+      "percentChange": -2.44,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.4,
-      "weekAgoPrice": 1.5299999713897705,
-      "percentChange": -8.5,
+      "weekAgoPrice": 1.5199999809265137,
+      "percentChange": -7.89,
       "flagged": true,
       "news": []
     },
@@ -87,38 +87,25 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.04,
-      "weekAgoPrice": 1.1200000047683716,
-      "percentChange": -7.14,
-      "flagged": true,
+      "currentPrice": 1.05,
+      "weekAgoPrice": 1.100000023841858,
+      "percentChange": -4.55,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.24,
-      "weekAgoPrice": 0.2549999952316284,
-      "percentChange": -5.88,
-      "flagged": true,
-      "news": [
-        {
-          "title": "JAG Berhad (0024.KL) Seasonal returns chart - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00Nk41UDlkRkFJaXQyWVpXNm9HVXV2aVp1NDJzSnpfVm5lY3VNaXJiVnRpS1A0MU11QVhHLUdQWFpQVzJmcHpyblFaSUZzcGJYaDQzUHQ3THpaa3JJVkVwbS1lQWg0UQ?oc=5"
-        },
-        {
-          "title": "National Environmental Recycling Company (9540.SR) Seasonal returns chart - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jajl4YWV4enFXMnZabG9hcWFOS3NZNkdSNjhoMzRiS2VmVWVpd2FQR2tCanEtRDA2clF2OHBvZ2piSGhJeGU1NEFhNTVnU1kzTGp6VFhhcW1HUmVqbjFGX1N4eTE1Zw?oc=5"
-        },
-        {
-          "title": "JAG Berhad (0024.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ob21IMVBhZl9jQW04WFNlTFdlT3FlRWphcFcxdF8tU3BqRGF1THdmak9USHFaYzd0NkFhNWh6emdBYlVoaHN3ZTJMQjBlMXlFeUhtaUVZREYyTFBfcGg2Y3FRSVVYQQ?oc=5"
-        }
-      ]
+      "weekAgoPrice": 0.25,
+      "percentChange": -4.0,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.28,
-      "weekAgoPrice": 1.2899999618530273,
-      "percentChange": -0.78,
+      "weekAgoPrice": 1.340000033378601,
+      "percentChange": -4.48,
       "flagged": false,
       "news": []
     },
@@ -131,5 +118,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 6
+  "flaggedCount": 4
 }
