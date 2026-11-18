@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:15:56.041557Z",
+  "generatedAt": "2026-11-18T14:16:05.471905Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -9,20 +9,7 @@
       "weekAgoPrice": 533.1599731445312,
       "percentChange": -5.05,
       "flagged": true,
-      "news": [
-        {
-          "title": "Microsoft Stock Loses Key Level Amid Global Outage; Is Microsoft A Buy Now? - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1ItRk5Ubm9qeE13bU4yVjRfeFZ2MVZUMlQ2Y0VGeC0ydDFqMk5YRUtUeFE3RHc5Y2YtYWFXRjNTRzdIWWh1eTItdnFsQmROZy1CblRIMDE3SGZ3NlpEX1QwUzFEUHpMQUl0SElwRWs1ajRQMG1CMXJNd1N4VGFIbnljdzdmbnBJeW42WmJR?oc=5"
-        },
-        {
-          "title": "Microsoft Stock (MSFT) Forecast \u2013 Mizuho Stays Bullish on Strong Revenue Growth Prospects - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDdfSDlXLWdfRXBMam9ibGRHY3F4dFpuZkNaTWt3Y3M2dUNDTElGOXNsaWM3UjZZNTlEcUxURVYzLVNneWJmSkdnM1VrcVB6ZlVjS0w4RGpKMWRwaWhNOWRha0VzM2I4YXJKanFPQVdGMmdMVDNqanBJX1lVeWZXblpySmpyZUt0bzMtWHoyODMxbjNqWjVUM2Y4YWVWNnNUZE5ZMF9qejZ4WTlsREVJN2FIWWdUQQ?oc=5"
-        },
-        {
-          "title": "Prediction: Colette Kress Is More Vital to Nvidia\u2019s Future Than Her Interim CEO Title Implies - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRlU1NzZBTXZ0ai1IWHFDNlduN1dSMzNCcDZGdTRBSk1tcVlQMDJrdHlkVUt3bkhwRkFBbmsxUUNwV1BqRC1kelYxT0k4M25sdDMyVUZqSnN2VHd2aWxWSkFqQU5GQWFVUUlyQzNDc3BoY0NKY0ZVZlE3X2dWaHMtdzFLejFPeGFGTUhsWUdVdHFJclU1aFFwQl82S29BUXJCRnhHcF9lbXlqUGUtaEhNZU1UQTBjQ2V1bXYwWGlFVU5Mb1pvcVFhdGVoemJ3TnMyQkFMSmhmdWxOQjY2dEkyNXJkRVJjTVlsaDM0WGo5dTE0NmpFM1V4c2JIeXpmUVEzTHMxZDNIZw?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "NVDA",
@@ -32,16 +19,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Export Decision Reportedly Draws Democrats\u2019 Question Of Whether Lutnick Decisions \u2018May Have Been Improperly Influenced\u2019 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdldmNVhTZjZRRXMwNm5hbG9ER3RHZ3NydjI0TkZ0VkJQYi1IN29FeWcwWHphTnBWN2phVmJFUWpwc01kcnhjYUgtYmhyTm9XRzBWX2V5WE9Xc0toV2NFZDF6N2JYNU5mVGdiajU4QnBaQTRIU3lHQjJTMGN4dm4wR2MyRFJ6dnZxMmlGMEctX1h2akZpX1Ayb296UGZHLUFLTkpEVi04cw?oc=5"
+          "title": "NVIDIA Corporation (NVDA) Stock Forecasts - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblpaZUd3dV9vZlUxQUJVNms4NENoYkttTWJnMXNsYjhfM1RFVFV5R3RkaC1Sd0ZESVU1RDg3M1JlWmFPOGdINlpCc05maExwVmtLdEhGZDJLMlZBUHI1aXl0bkxMbEFJd19IOVF5VTlaRzkwd3RFS0owLXY3WDc3b3dROXdScFFSWlE?oc=5"
         },
         {
-          "title": "Why Huang's Exit May Not Sink Nvidia Stock - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczMteVdmSmxHalVxWGk3TjhiUmhjMld2Z1pBVHFUSnlxYXEwbkFpR2YwR0Vhcm1OeFh6ZTJZX0Z0djI5WnAtdE1lNGdNQ0daOWpxTHczZWxvRkpkdzk3djNJZlEyT1ptd2pHdDhqUkx3dlRmUy1mV3l5WmY0dEo1MWtOeWVYWWNVYmVpa2t6UG1SUQ?oc=5"
+          "title": "TradeXYZ leads NVDA perpetual open interest at $222.1M on Hyperliquid - Crypto Briefing",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMnM4SERGeTRlRXktNXMwenMzcEYwdm8zUVY3ckdsb1dIRHVlajkzeVIwSzdSRGowRG96SzFKZHhETk5wWl92N0tFY0l2Z25reUV6dzNoOXQtc01qV1Vrb3gxa2RQVk84dmU1YnJvMW0xUnRzLXotWVhaTEpmV0Nya1dudw?oc=5"
         },
         {
-          "title": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1hUb0ZMNTdVdlRaU3NVMXlUODNRZmhzZjVNRFVocktEWXJ4ZkF5eTVmVXBQcXRMOWFpdHZMQ2hxeUE1OER5TkpmRTlLV0JBdGV5RWVDVTl2TWtZamNmMXBTV2Y4eTVXdFpBdmZNSlFtZklNQnBLWHNDU251eElyd191OGs4ajktX2NvRVpNQ1M1cDNEU0ZzYnpWMmpnQ1E1d3NuUzhMSXZfdEowVWN6QWZldW0?oc=5"
+          "title": "Stock Market Today: Dow Falls As Fed Official Calls For Larger Hike; Nvidia Shares Jump On Earnings (Live Coverage) - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXBraTU4T2FpajlyR1NvUy10anpSNi0weU02QkhIbU01NGVsNHc0dU9ENHVaaTlWblBSMHdFWXR0WmFCdFpCS2YzRlR1YzgtOE1BUUw0Mlo2c3p4RjVDcDE3bm5uYUNxdHY4SnlfbnlLMWVrTk1MWUY2bzAxUVhsMTc0dHBHQXZDWUxMRDZLRk0tcGE3aVFsVEN2d2RMTUJ1MUt3R3J4akcyTzlqelBIX2F6MHVNeVFsMWktSFM1T1RXM2ozQkpJekMta00xZw?oc=5"
         }
       ]
     },
