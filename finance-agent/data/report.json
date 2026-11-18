@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:16:03.341334Z",
+  "generatedAt": "2026-11-18T08:16:05.108156Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -20,7 +20,7 @@
         },
         {
           "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3NIZnJhRTlaT25EMWdOVUgwb3EzMHlaQmhVX2NvdmJwV3ctR3IwYlRvNW1ObmxpVldiYjR3elhBUE9OZ2E1Mm05ckpTcDJxLXRNbmNyLXNYaGJ2dXJaMmxKVVEwdWNCSGFDNzJqTGJzTTlrVGczZWVvQUJ6MHVsY2JJdEVabUgxM2hyV2VlVkpWUjFWNEFoYkJTNndXa0x2UFZ0QWhNbTU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT00tV0lrRWN1RWtUNV9XcXpjRktjSklPRTJVT0F1OFNWUzdsYW01Qm1KXzdSYTJKOUFuM1MwSHVaQUJnWDJxRUcwVHZtX1dudjFoVVRmX05iSUkwVUdjVGNiYzdwMFpyZkNOSGtqZVpEeFdLUnZOLXh1MUFYQkJMeTB2cjMzQkVXQlBzWG9tTGVON016MWdJMmd2QlRhQ1g4dHg5NFlDR1lkdFY1YnBBUVRiWXpZTWNNUmZMNUhDZHRFN1k3dmZWQjR3?oc=5"
         }
       ]
     },
@@ -32,16 +32,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "CoreWeave's CEO Isn't Panicking About Nvidia Losing Jensen Huang - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORzZsT3RzT1lDeU9PZWlrclVrdWozUnJTZXpMeG9iU2h5STZ2c2d4a3JrVDFyMDVITDBFd0VLQngzd2tWa0l6TzhObnRLbGpJNHUwdmVBRDREb041czdKUnp1QkxXWklxU2xiWWtBZ0tnbkJISzl0MVJoSXhRN2tkdVBkaGlqaWgxalBQYnZ2WXV3N2JhYWJvN09uRkI1eTZ2bWc?oc=5"
+        },
+        {
           "title": "Jim Cramer Asked Nvidia\u2019s Interim CEO the Uncomfortable Question - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRkRQZVN1X0xfdkNtNkV2ekNsRlJoX2JRemtCa3dCd0NjU3Yxc1VxX2pLc1FqRnhHb24xS25kbXhIYkE1Nk1aOWE2SldKV3QwRlIzaTJzMndrX2x2SzR6enBtMC1pTGtwd2IwbzRWSkx0dklPV0FGcExCZFVfck5wOFdpM2Z0RDhfcDlPd2drNlpqT3pqNUl0dW1SQ28?oc=5"
         },
         {
           "title": "Morning Bid: Jensen Huang's last hurrah, and a nervy future for Nvidia - Reuters",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkhVeHlSOHlwY3dfOWVqSnVzNmhhcmtGWHk4SkdYQVlXSmxHdmtUVnBDMEpKbG5YQVpSVGJnbERVQUJPSElNbUh3Y3VTcURWQ2MyVlVKenZCRmtDVk9vcVlTSmJGbmdROVF6LUNORzd0UUI0TWo4M2JOSXFfRmlkZV9nYw?oc=5"
-        },
-        {
-          "title": "Colette Kress Just Delivered Excellent News for Nvidia Investors - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTm56RWFEcXV6NWdweUtlUDZLWkNzYUFUYnNlU244Mm1ObGd6dF90Z0lGOXRqeF9wY0lLb0l2OFVzY19ySVgtUERlVHNpZnF6RE16bFdwWkFCMWVMRGFTUmpxT09yUlJJekpsYkpXQ183aFM1SXlOT1ZUNjFIeUFhU3NlbkVUajA5RF8xa2ZNZmlabTlqTmNETGFHcFFCTmh6c1c3bmI0dERvdzg?oc=5"
         }
       ]
     },
@@ -55,17 +55,17 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.61,
+      "currentPrice": 7.63,
       "weekAgoPrice": 7.539999961853027,
-      "percentChange": 0.93,
+      "percentChange": 1.19,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.2,
+      "currentPrice": 1.21,
       "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -2.44,
+      "percentChange": -1.63,
       "flagged": false,
       "news": []
     },
@@ -95,19 +95,24 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.235,
+      "currentPrice": 0.24,
       "weekAgoPrice": 0.25,
-      "percentChange": -6.0,
-      "flagged": true,
+      "percentChange": -4.0,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.27,
+      "currentPrice": 1.26,
       "weekAgoPrice": 1.340000033378601,
-      "percentChange": -5.22,
+      "percentChange": -5.97,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5341.KL",
@@ -118,5 +123,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 7
+  "flaggedCount": 6
 }
