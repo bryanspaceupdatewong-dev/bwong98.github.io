@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-18T17:15:46.061759Z",
+  "generatedAt": "2026-11-18T18:16:01.811342Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 501.92,
+      "currentPrice": 504.59,
       "weekAgoPrice": 521.1300048828125,
-      "percentChange": -3.69,
+      "percentChange": -3.17,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 151.7,
+      "currentPrice": 151.54,
       "weekAgoPrice": 173.72999572753906,
-      "percentChange": -12.68,
+      "percentChange": -12.77,
       "flagged": true,
       "news": [
         {
-          "title": "Stock Market Today: Dow Drops Amid Rate-Hike 'Shock' Fears; CoreWeave Tumbles (Live Coverage) - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXBraTU4T2FpajlyR1NvUy10anpSNi0weU02QkhIbU01NGVsNHc0dU9ENHVaaTlWblBSMHdFWXR0WmFCdFpCS2YzRlR1YzgtOE1BUUw0Mlo2c3p4RjVDcDE3bm5uYUNxdHY4SnlfbnlLMWVrTk1MWUY2bzAxUVhsMTc0dHBHQXZDWUxMRDZLRk0tcGE3aVFsVEN2d2RMTUJ1MUt3R3J4akcyTzlqelBIX2F6MHVNeVFsMWktSFM1T1RXM2ozQkpJekMta00xZw?oc=5"
+          "title": "Where Does Nvidia Stock Go After Earnings? What the Charts Tell Us. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5UHBVNVQ0dFREUnNUaEVXMXNKZnA4ODd6eWtaWExjclEzeXV4R0s2alpVNFQxR2pCbU9tZlZpb2JEVkdOQWYyeGU2OHJaR3FUZ3RaM3lRS3A0WkFUaklla0lmM3ptdUpXWGU1N3JKdWc3Y3R4cmNOXzVLa1dpUQ?oc=5"
         },
         {
-          "title": "Has a Stock Market Crash Started? Here's What Sobering Lessons From the Dot-Com Bust Say Comes Next - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDAxZHltUFU3eFVyaExENnBBaVNDcTN3bERHbklEM0hJN2ZuUGRlLWZiWFhoa2FVYmUyZmtyNEJuZXdMalBLdHU2NGh2cW9xZXhhV3VwRTVmTF9fYmlnZ3ptR3o0bUd3MWdMMDR0d3JfTHhvR0xveDN4TzJyeTQtelk3eHYtVk9GOHZ1dE1qT1cxamVLTE9UM2o4RG4yQQ?oc=5"
+          "title": "Nvidia\u2019s Board of Directors Is Not Planning to Reinstate Jensen Huang. But There's Still Another Way He Could Return as CEO - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT194SHFQeVhTeXAza21vRlUwYU9mQ3BIUmVHTUdDcjRCR1dyMmRIVktNRDhPMzZ3OHZzeHgxczgwQm9iODNuSFpfbklfMUlFV2lzR05aREZvdnYxR0ZZS3hWWDRUOUhxcU91NWJ3UUpIYW5IT1VMSzNvQTljMXpIU0U1TVRNOFRXc3llMFBCbUwzOEVPcllxREJqa09Zck1aR2c?oc=5"
         },
         {
-          "title": "Bill Ackman Lays Out How Nvidia Shareholders Could Bring Jensen Huang Back as CEO - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnNZaTVKUVpUMUVjSjIzc3kxblpsSERMY2dtZVNoTlpWWjFYcEVZbWw4Sng3QkxKZnNsNzVyZjB0TkxJVndKR1VuYXFaYXpHd1Zid2JiUkp2VEEycUhKMVRjcVExd2NwR0tfWlVrdGR6QlBfWEhpVG5JcFJBdF9yOGRJQWllUVpPbWFJNGJpT1EwRk1Wamp6SU5IZTRVczRySTBF?oc=5"
+          "title": "Nvidia stock erases earnings pop as investors face life after Jensen Huang - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzhvYkxzRld1VG11TlpOSE5wWjE5WE94RkMwVkJJWnRReDFRTUZ1X1FQWU55Rnh5b1hqU0VvTzBCay10WE5iVzJYWHdtVWJ0dlU5aFhhX2Yxa09Ub0otUkVUQ0hCTC1OUHBhRTU5UDBlRVZfNEx4cUtoVXRRanEwazFaQTBwYmpBREc2MVlsaVlDNWptenNNZkpDNzd2blFtS3pJX0oxWDl2RlcyMFNucDRILTRlRF9iUWFPRTA3VFo5NGRVZUJTaDkyTmpYcF9xcGJtMw?oc=5"
         }
       ]
     },
