@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T04:16:20.064541Z",
+  "generatedAt": "2026-11-19T05:16:11.941803Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,24 +19,24 @@
       "flagged": true,
       "news": [
         {
+          "title": "4 Things the Headlines Missed in Nvidia's First Post-Jensen Earnings Report - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2Qxczh4ZmNtdTkyWHFwcG5BbUhFTXdDN3Vnc2ZFYjlYMU5rU3JuRU9xQzlLTVBYZFZzek1lNkwxMmtpZkVsb3lfV1hwLTg0alZwUkF6NFhfZUpmWklITlU1NnNOMTVMSkhsX1NfSTRJZ0FiOElTOG1GNTlma1Utcm1KaVFVM3JWb1hScmVuMHNQc3FOMk1JRUhRX1dVVGZQNTRURlhCOHRiXzNGejFfTEpOSUx4ZjAyWmc?oc=5"
+        },
+        {
+          "title": "Grant Cardone Called Jensen Huang 'Shameful' \u2014 4 Days Later He Told Nvidia Employees 'You Know Better Than the Board' After a $600 Billion Wipeout - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVhVcE5qX1FSWUw5M3ZfX28yaWxWeVF1VDU4M1IxOS1KSjNPUmZ2ZEZTcGVFZU92N1pMNm5oOWxfTlZ5Z3JXSkZXQUVwc1R3UkN1cExGTmVrMW9zcTZfb1QwN0VsSmxkekpHMWx2MzQ4SmVpLWI3YklfV1BCbVk0RGd0b0VjbkdyMlBkOUVyUjhWTVpKa2pOSmE1aXFvRFE?oc=5"
+        },
+        {
           "title": "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmk3OExJZE10OUFFYjVVZjBZcF9CMEd0SkV6TEcxZzZUWjdFRUlrcjNKTlFkb1BBREFkMVdVNW4yVFpSYnl0VGFucG1iZjhkUlVEdm9CMTF5LVhjRENpX0RNZm1hRHhmTTJoTjloVktFbl9zdHhpYTdSeXBfTmR0RDBJUnQ1UGp4ZmRLVk5NWlNRX1FGN1FV?oc=5"
-        },
-        {
-          "title": "Nvidia Moves Up Raises and Stock Grants After Jensen Huang Exit - Mitrade",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2tsQ05tYkdyX2hiVE9odTZsOTZHVHNtLVRVN1NYbTd5V2VlT3hQRjZkVTVNNFdKcGpsRm84MVpCS2MyYTJoQU9OMWdtcFJQTS1zUkVOMnFlUHhBeGdmQ2dqaVdQN2JDejg3QnlNczdlTjhxalhoY2JncndMbWRHSHpiV3V4bGFRSGo1ajZGd3FLVTg?oc=5"
-        },
-        {
-          "title": "Elon Musk Says Nvidia Made a \u2018Mistake\u2019 by Parting Ways With Jensen Huang: Calls Ex-CEO \u2018Michael Jordan Perhaps at His Peak Level\u2019 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc1J0M0l0OVQ3UUxpWUZzUFBsY0lPYllJeUNDanp6aHUzWHVSeFNLODJRNTl1VmlUMHBNRGQtdjZ4WFhvbV9pbk1teUV4NjFsRmVyVmtneV9NZWFoTEotVXVaRFhKaEJDZmpseklva1AxaTMyZVZfY25uanZxVEJtNTBncTJaSjZFVTl5d3htYUNfM1BZQWc?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.51,
+      "currentPrice": 4.5,
       "weekAgoPrice": 4.53000020980835,
-      "percentChange": -0.44,
+      "percentChange": -0.66,
       "flagged": false,
       "news": []
     },
@@ -90,14 +90,18 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.28,
+      "currentPrice": 1.27,
       "weekAgoPrice": 1.350000023841858,
-      "percentChange": -5.19,
+      "percentChange": -5.93,
       "flagged": true,
       "news": [
         {
           "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+        },
+        {
+          "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
         }
       ]
     },
