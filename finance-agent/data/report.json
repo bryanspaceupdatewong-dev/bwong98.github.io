@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-11-19T02:16:15.223847Z",
+  "generatedAt": "2026-11-19T03:15:40.687700Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 508.29,
-      "weekAgoPrice": 533.1599731445312,
-      "percentChange": -4.66,
+      "weekAgoPrice": 521.1300048828125,
+      "percentChange": -2.46,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 150.96,
-      "weekAgoPrice": 168.88999938964844,
-      "percentChange": -10.62,
+      "weekAgoPrice": 173.72999572753906,
+      "percentChange": -13.11,
       "flagged": true,
       "news": [
         {
-          "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXdtR2s5Y3EzQXFqbmF5X1Q4X2ptUF82czA1RUd6WFNXNGNBd1RJTjhhU2hGU0RCX0EyeEF5TWlwQlhlckZfUmtMOG9ncU4zY2QyZXRPOC02aHBIMDlMd0ZZb3poeHlmNlJvRTAzUEJhQ1hGZE5wd0RzRDRRdU95MVp0MUVlZWxiRTFQRk90TnBrdG52MGZWMklsS1plUQ?oc=5"
+          "title": "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmk3OExJZE10OUFFYjVVZjBZcF9CMEd0SkV6TEcxZzZUWjdFRUlrcjNKTlFkb1BBREFkMVdVNW4yVFpSYnl0VGFucG1iZjhkUlVEdm9CMTF5LVhjRENpX0RNZm1hRHhmTTJoTjloVktFbl9zdHhpYTdSeXBfTmR0RDBJUnQ1UGp4ZmRLVk5NWlNRX1FGN1FV?oc=5"
         },
         {
-          "title": "After Nvidia\u2019s Earnings, Here\u2019s My Prediction for the Stock Price by the End of the Year - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXdmbmRvWVAtd3FqQjAtMXdoQXAtbG9lTm0zUVo3TWpYMGRaNlhxMTFrZGRjOGtsOGVuVVFLXy1QdlBMQTBmWEJ5VjJMVXV4b0Fmak1iSVpfQWVodUhOWmMtQlBSeGxtNkxGTUxIbHZPOXZLbHViN3ZuTXhRYU5kV0RpZTVJc2lTTWxPcGhzZzk0SkItT1I0SGdvWmhrTVQxa25kLW5n?oc=5"
+          "title": "Nvidia Moves Up Raises and Stock Grants After Jensen Huang Exit - Mitrade",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2tsQ05tYkdyX2hiVE9odTZsOTZHVHNtLVRVN1NYbTd5V2VlT3hQRjZkVTVNNFdKcGpsRm84MVpCS2MyYTJoQU9OMWdtcFJQTS1zUkVOMnFlUHhBeGdmQ2dqaVdQN2JDejg3QnlNczdlTjhxalhoY2JncndMbWRHSHpiV3V4bGFRSGo1ajZGd3FLVTg?oc=5"
         },
         {
-          "title": "After Nvidia\u2019s Earnings, Here\u2019s My Prediction for the Stock Price by the End of the Year - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHZLSzBzRzJHd3lrVGJiclp5VWloalN5d1BCZDNJTkZFeVh2Q0ctR2ZNdG8wSmRUTlRVbElFNlp5cTFZdkFuc0dNbGxYaUlIZS1Ud0NKUUMtWXZaeWRlWUQ0WnBzZkRWT0h0Zkx2cHBTS3NZNWZhVjJMekNjUG80QUduN2YxOFBkMzg4UzN0Z1NEaEtMOUEwYllYVXJNd3lyaUp2dDM0MnlKcGloazM2X1I3bGJEUFNNWkxrUFhpTXJMejV3czVuejln?oc=5"
+          "title": "Elon Musk Says Nvidia Made a \u2018Mistake\u2019 by Parting Ways With Jensen Huang: Calls Ex-CEO \u2018Michael Jordan Perhaps at His Peak Level\u2019 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc1J0M0l0OVQ3UUxpWUZzUFBsY0lPYllJeUNDanp6aHUzWHVSeFNLODJRNTl1VmlUMHBNRGQtdjZ4WFhvbV9pbk1teUV4NjFsRmVyVmtneV9NZWFoTEotVXVaRFhKaEJDZmpseklva1AxaTMyZVZfY25uanZxVEJtNTBncTJaSjZFVTl5d3htYUNfM1BZQWc?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.52,
+      "currentPrice": 4.51,
       "weekAgoPrice": 4.53000020980835,
-      "percentChange": -0.22,
+      "percentChange": -0.44,
       "flagged": false,
       "news": []
     },
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.04,
+      "currentPrice": 1.02,
       "weekAgoPrice": 1.0499999523162842,
-      "percentChange": -0.95,
+      "percentChange": -2.86,
       "flagged": false,
       "news": []
     },

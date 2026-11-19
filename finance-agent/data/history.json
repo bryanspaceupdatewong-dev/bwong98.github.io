@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-17T04:15:50.804738Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 156.14,
-        "weekAgoPrice": 178.6699981689453,
-        "percentChange": -12.61,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia's Biggest Jensen Huang Problem Was Hiding in Plain Sight - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUdfT05qSXdMWjNJVElnRU1lQUJNNjkzYVBmTW9odkhvZmtCZUJuQkp4cW5qSHRiQkpleno3TzY0QTBFcHZRZ1p5LTFHaU9XbEpKd0xWM3FQTjNidTh4Q0VLV1c3R2VDSU5KZlBmOVdwTjh6NzQ4dFB0MC1fdVlFZmNKQjlvbk5rdFYxbVFUQWxVandtc2FoYVNudURodC1ES3ln?oc=5"
-          },
-          {
-            "title": "How Nvidia\u2019s Board Made Billions While Overseeing the Company - WSJ",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaElGSXRGa2ZfTVl4cGtPY09zWHlKMWR4d2RidXpGQXBQRHlNYlRXYU5GaGp6NVFYcTdGb0dWbW9LaC1ua2ttckNKNHlRdlZ0SlNwbnFxMHJxYkQwbm1OR1ROVGtud2h1ZXpUYXhEODIzX0JmT2gyVzJZR01hZXFsa2VhVTExeG4xSjREdTV4dlZXZldsWGd1emlQZUZPa2M?oc=5"
-          },
-          {
-            "title": "Stock market drops amid continued Nvidia fallout - The Washington Post",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFFWkM0QU81aEJfWUszZ083R0l0MVEwOGJDTmF5MzJRRnI2eDhLd2RhaUoxVHRzSzRud3JKVEtsNmJmZWxrZkg0R3NpaVQ4QTJGZnZXZGstZy1OMl9TYXotOG41blRaTUVFd21xT2NLUlI1aTE0TThlb0tyX2lJbDE2MGczejYwcmU0UHNwbFd5UXZCYnRISGJXOEh4dXBNMnc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.4,
-        "weekAgoPrice": 1.5299999713897705,
-        "percentChange": -8.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.05,
-        "weekAgoPrice": 1.1200000047683716,
-        "percentChange": -6.25,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.72,
-        "weekAgoPrice": 0.6399999856948853,
-        "percentChange": 12.5,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-17T05:16:20.174633Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3478,6 +3427,49 @@
           {
             "title": "After Nvidia\u2019s Earnings, Here\u2019s My Prediction for the Stock Price by the End of the Year - The Motley Fool",
             "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHZLSzBzRzJHd3lrVGJiclp5VWloalN5d1BCZDNJTkZFeVh2Q0ctR2ZNdG8wSmRUTlRVbElFNlp5cTFZdkFuc0dNbGxYaUlIZS1Ud0NKUUMtWXZaeWRlWUQ0WnBzZkRWT0h0Zkx2cHBTS3NZNWZhVjJMekNjUG80QUduN2YxOFBkMzg4UzN0Z1NEaEtMOUEwYllYVXJNd3lyaUp2dDM0MnlKcGloazM2X1I3bGJEUFNNWkxrUFhpTXJMejV3czVuejln?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.4800000190734863,
+        "percentChange": -7.43,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.745,
+        "weekAgoPrice": 0.6949999928474426,
+        "percentChange": 7.19,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-19T03:15:40.687700Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 150.96,
+        "weekAgoPrice": 173.72999572753906,
+        "percentChange": -13.11,
+        "flagged": true,
+        "news": [
+          {
+            "title": "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmk3OExJZE10OUFFYjVVZjBZcF9CMEd0SkV6TEcxZzZUWjdFRUlrcjNKTlFkb1BBREFkMVdVNW4yVFpSYnl0VGFucG1iZjhkUlVEdm9CMTF5LVhjRENpX0RNZm1hRHhmTTJoTjloVktFbl9zdHhpYTdSeXBfTmR0RDBJUnQ1UGp4ZmRLVk5NWlNRX1FGN1FV?oc=5"
+          },
+          {
+            "title": "Nvidia Moves Up Raises and Stock Grants After Jensen Huang Exit - Mitrade",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2tsQ05tYkdyX2hiVE9odTZsOTZHVHNtLVRVN1NYbTd5V2VlT3hQRjZkVTVNNFdKcGpsRm84MVpCS2MyYTJoQU9OMWdtcFJQTS1zUkVOMnFlUHhBeGdmQ2dqaVdQN2JDejg3QnlNczdlTjhxalhoY2JncndMbWRHSHpiV3V4bGFRSGo1ajZGd3FLVTg?oc=5"
+          },
+          {
+            "title": "Elon Musk Says Nvidia Made a \u2018Mistake\u2019 by Parting Ways With Jensen Huang: Calls Ex-CEO \u2018Michael Jordan Perhaps at His Peak Level\u2019 - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc1J0M0l0OVQ3UUxpWUZzUFBsY0lPYllJeUNDanp6aHUzWHVSeFNLODJRNTl1VmlUMHBNRGQtdjZ4WFhvbV9pbk1teUV4NjFsRmVyVmtneV9NZWFoTEotVXVaRFhKaEJDZmpseklva1AxaTMyZVZfY25uanZxVEJtNTBncTJaSjZFVTl5d3htYUNfM1BZQWc?oc=5"
           }
         ]
       },
