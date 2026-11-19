@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:09:58.091165Z",
+  "generatedAt": "2026-11-19T07:15:58.956323Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -45,9 +45,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.37,
+      "currentPrice": 1.36,
       "weekAgoPrice": 1.4800000190734863,
-      "percentChange": -7.43,
+      "percentChange": -8.11,
       "flagged": true,
       "news": []
     },
