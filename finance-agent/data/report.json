@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-19T17:16:18.705096Z",
+  "generatedAt": "2026-11-19T18:16:26.272566Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 505.21,
+      "currentPrice": 503.1,
       "weekAgoPrice": 523.0,
-      "percentChange": -3.4,
+      "percentChange": -3.8,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 148.375,
+      "currentPrice": 148.4,
       "weekAgoPrice": 166.19000244140625,
-      "percentChange": -10.72,
+      "percentChange": -10.7,
       "flagged": true,
       "news": [
         {
-          "title": "RiverPark Advisors: NVIDIA Corp. (NVDA) Remains Central to AI Infrastructure Build-Out - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFB6b2tBSzlfNExHVHFiRG1LV0hYeWUyMjlMRnBXSGRaakxzZ0VGbHJLbXI4TEV2eHAxUE84aEYxVWM0dUZ6dEhsTE1fcl9Ob2tEc0laT0syNmQtTXUyVndtbHF4RWpjMTdPYUw3eEE4UWhhQ2NDQ1V2QnlzRUVvNWtzUDhfZnZidG8wT084Y0wzUUtkOGVWQUQxaWxmbHIx?oc=5"
+          "title": "AMD stock drops after short-seller says the chip maker has its own China problems - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbW0tRzZBUlk0UFA3dmpTQ1Z5WFBrTy1LZ2d0dnd4bWRvSWRfeGgzbzc1ZDBYbkxTNXFKcThsRWZJMUNqdkNaTHhNbUxGNDJmYk53OFZ4SXZzSlptY0xrVXlRVjRqZnZQVjYzVjlOYXBGc0tkaHFaLWRrY21ybGFJUjE1YUtDR1Q3OVlGT2Jn?oc=5"
         },
         {
           "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5"
         },
         {
-          "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcERUVFNXR0pBOXZHaGxsYjlTelMwRURMajJuMjlzREZMSnBnVmpUQ1QzTXNhNS1nOXJZR21wOWZ5d0lHS01zQ0lQVDVpSW01REpMQk9oZFgtTFppcjJxRU13Y2x5TU54TE5VNmlUb0dKQUh0YkcxYW16Vnl2aEVOa3c1V2pEd3lJQWNYWWZYMnVuWTlfR2dn?oc=5"
+          "title": "AMD stock drops after Hunterbrook Media raises export control concerns - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWUg5LTNtMXZ0UXA0a1J0Ukx1U1lEaUhIV3pzS3ZxUVZGNmdack9VOTJiUHhrRnJZd2lDRkFsVS1hbE14eFlxZGtON3ZDMnZ4VVl0REI1MmllX016cFhCSzhxa0NYZHhELTV4Um93OHhTanJXbHRqZ2VDWmRHdUZfZzJTQmtSa0l1ODFIODItcVQxenFDSlozMVcxeGUxQzhReEJERTl6am1EbDdvYkRmV3pkUzdMWWhyM0taWS1DV0lLZGFyZHdPUElB?oc=5"
         }
       ]
     },

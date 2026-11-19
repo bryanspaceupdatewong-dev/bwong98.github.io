@@ -1,90 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-17T18:26:54.948529Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 503.42,
-        "weekAgoPrice": 533.1599731445312,
-        "percentChange": -5.58,
-        "flagged": true,
-        "news": [
-          {
-            "title": "AI agents can act without human approval at every step. Microsoft is helping develop standards to verify their actions. - Stock Titan",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNE9GSEE2TVdwcnV6VTVjcTdRY19zNTJSTUZRcW5WdC1Yb0hDLThGcXpWNWxJb3FuTGp2TXplRU1wUG1PRjJOa08tZXA3TUo3TTFNeW54MGdOTFVWalJkZzk2d0ZJYWZ3X25qRjY0Y19kVkIwYVowdWpjN0V6ZmxnM1dsbnZJMjU2T3FuWXJvSDdaa3p0Q3J2eFNsZkdvVVkycHFnQ05mRmJ4TTI0TllKaDRXRjh3QkFlal93UzZkR2M?oc=5"
-          },
-          {
-            "title": "Microsoft Stock (NASDAQ:MSFT) Drops as Bill Ackman Sells 35% of His Stake - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2VnYmp6ZTM1SFVFMGlXbzVud2dja1c1RlBRaUdleDQ2eUFiZEY4WDhYM2VRTnNGUTlGZl9DbF9FMG1sNTVfVFNDcW9SRlpXZXFlZVp5ZlpJWXZyY2JQSWdNd3RySzUtMi1pYTZScl8xQm9jaFdSMVdNNzEwbUpjS19OTGw1aVFua1NKQkNfMjZNTHVBdzRQZ3BWRWpBVXM4?oc=5"
-          },
-          {
-            "title": "Wells Fargo Sticks to Their Buy Rating for Microsoft (MSFT) - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWmhQa3hzQjhacXhmVlA2NWFtMW1RWGd0c1J5VktvRkZLRTNTMTdBWENRQ3pCbFVIbi11SkF1dTY4SW5KM01pYlg4WkpzaTV2akhDMGVoaXRSOVVNTmpXcy1KSXBSLXNhTWI2SkgzNk05QlFJWmVNUEN0X0ZWMnh6dW10VW11ZlAwVXFFLVVxVnFRS0FWZ0h0S1BPa3dQdm1wWXhGVEJJQUtsSmk2QTFia0xXMW45RVJHeVFHS1U1TlNMbmt0UjlOSlRyTHZqNzJuUnYyam9Xb3UtUQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 154.131,
-        "weekAgoPrice": 168.88999938964844,
-        "percentChange": -8.74,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stocks making the biggest moves Tuesday: Salesforce, Nvidia, SpaceX, Strategy & more - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVdJdXVnZWRscjRjWktRd2UwcEdOYmZmMWRIVHdHYjZTSU5td2tGeHZPM2NVUWkwLWRJWVhFRHFWVklXMURwUDVQMmJCMEx3T0FCZHRVckh2b3VFanJ5N2tqOWpkWWF0c01yZlc0RFV0ZEZtdXAxekgteHVCcDZ4eXF1SDHSAYoBQVVfeXFMTkFLOE5jcnhTN2VWaHgtaWplbUs4RUM4SzNLd2VONUJaZkxuUkZEV2poOG9weUM4MERQRzF3Wkw4TXlKeTI5UHA1Ni1xd0FlUXRtd3lrMktVbmRoTDlRaEJ4TmplUlFxNHVpVDNrclZmOGMwYXpmOXlaRlViNU1xcUZBSzctS3VaVXpR?oc=5"
-          },
-          {
-            "title": "Nvidia live updates: Nvidia to report Q3 earnings after the bell with Colette Kress to host first call as interim CEO - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdXFsd2l6azZDWWJyWDItT0hudzBhMUloOWF4V3FMV1ZlTUhsODg4d0RoY1ZuaXNJeExyWFNjallKQ2wzcW13ektmSzdwTjFYeUxrUkp2T3lPTG5raHY4Q0FEcWhnTmxCLXVYd2hwU05UOXdKcXFobjhRZFpXS3VqQmhsS0pGMFhQY1ZzMW9LS3ZvNGU4bTlJVDdXSTRWYkljem1mSUp0ekNsWWREb0R6OGZnYnM1YzBJTWlFTU1vZG1ubjV5Q2lkZTE2M3JrSWRQam0wb20zZ0Jad1Vud2FaX1Q4NjlncDRIbHQ2Mk5tYjM?oc=5"
-          },
-          {
-            "title": "Wall St falls before Nvidia earnings in key AI test; Huang says open to return - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.56,
-        "weekAgoPrice": 4.900000095367432,
-        "percentChange": -6.94,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.4,
-        "weekAgoPrice": 1.4800000190734863,
-        "percentChange": -5.41,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.04,
-        "weekAgoPrice": 1.1699999570846558,
-        "percentChange": -11.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.74,
-        "weekAgoPrice": 0.6499999761581421,
-        "percentChange": 13.85,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-17T19:16:32.107497Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3313,6 +3228,57 @@
           {
             "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcERUVFNXR0pBOXZHaGxsYjlTelMwRURMajJuMjlzREZMSnBnVmpUQ1QzTXNhNS1nOXJZR21wOWZ5d0lHS01zQ0lQVDVpSW01REpMQk9oZFgtTFppcjJxRU13Y2x5TU54TE5VNmlUb0dKQUh0YkcxYW16Vnl2aEVOa3c1V2pEd3lJQWNYWWZYMnVuWTlfR2dn?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.5199999809265137,
+        "percentChange": -9.87,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.02,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": -7.27,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6600000262260437,
+        "percentChange": 13.64,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-19T18:16:26.272566Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 148.4,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -10.7,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AMD stock drops after short-seller says the chip maker has its own China problems - Business Insider",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbW0tRzZBUlk0UFA3dmpTQ1Z5WFBrTy1LZ2d0dnd4bWRvSWRfeGgzbzc1ZDBYbkxTNXFKcThsRWZJMUNqdkNaTHhNbUxGNDJmYk53OFZ4SXZzSlptY0xrVXlRVjRqZnZQVjYzVjlOYXBGc0tkaHFaLWRrY21ybGFJUjE1YUtDR1Q3OVlGT2Jn?oc=5"
+          },
+          {
+            "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5"
+          },
+          {
+            "title": "AMD stock drops after Hunterbrook Media raises export control concerns - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWUg5LTNtMXZ0UXA0a1J0Ukx1U1lEaUhIV3pzS3ZxUVZGNmdack9VOTJiUHhrRnJZd2lDRkFsVS1hbE14eFlxZGtON3ZDMnZ4VVl0REI1MmllX016cFhCSzhxa0NYZHhELTV4Um93OHhTanJXbHRqZ2VDWmRHdUZfZzJTQmtSa0l1ODFIODItcVQxenFDSlozMVcxeGUxQzhReEJERTl6am1EbDdvYkRmV3pkUzdMWWhyM0taWS1DV0lLZGFyZHdPUElB?oc=5"
           }
         ]
       },
