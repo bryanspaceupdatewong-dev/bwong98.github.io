@@ -1,90 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-17T19:16:32.107497Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 506.36,
-        "weekAgoPrice": 533.1599731445312,
-        "percentChange": -5.03,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft (MSFT) Launches AI Transparency Initiative With 40+ Organizations - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNHpjS3VWb2owUy10aHlVZ2V0aU5nZ214UU1vOVJoem12aXVJUWMxRkd3NWZYbW1IQjByVEh3RHlFVjg3b0NnSHZRZmNZbi1sb3N0UjJSZjVVVVJjNW9kbFFkZDlydVBKOUtpZGtFdnE5UGhuaFR2ZTRxV3htRmdUMG8tZ3Yxa1E1eHFTQ2xWMTJfQ1k3MS1MZVhZb2pRTXdnSkxUYlIxemdXeUVZeDVnd2g5RWZoeVJNMFFDbl9JYTNKcjFmaV9SR1B3VGxXVmM?oc=5"
-          },
-          {
-            "title": "AI agents can act without human approval at every step. Microsoft is helping develop standards to verify their actions. - Stock Titan",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNE9GSEE2TVdwcnV6VTVjcTdRY19zNTJSTUZRcW5WdC1Yb0hDLThGcXpWNWxJb3FuTGp2TXplRU1wUG1PRjJOa08tZXA3TUo3TTFNeW54MGdOTFVWalJkZzk2d0ZJYWZ3X25qRjY0Y19kVkIwYVowdWpjN0V6ZmxnM1dsbnZJMjU2T3FuWXJvSDdaa3p0Q3J2eFNsZkdvVVkycHFnQ05mRmJ4TTI0TllKaDRXRjh3QkFlal93UzZkR2M?oc=5"
-          },
-          {
-            "title": "Microsoft Stock (NASDAQ:MSFT) Drops as Bill Ackman Sells 35% of His Stake - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2VnYmp6ZTM1SFVFMGlXbzVud2dja1c1RlBRaUdleDQ2eUFiZEY4WDhYM2VRTnNGUTlGZl9DbF9FMG1sNTVfVFNDcW9SRlpXZXFlZVp5ZlpJWXZyY2JQSWdNd3RySzUtMi1pYTZScl8xQm9jaFdSMVdNNzEwbUpjS19OTGw1aVFua1NKQkNfMjZNTHVBdzRQZ3BWRWpBVXM4?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 154.475,
-        "weekAgoPrice": 168.88999938964844,
-        "percentChange": -8.54,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia live updates: Nvidia to report Q3 earnings after the bell with Colette Kress to host first call as interim CEO - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdXFsd2l6azZDWWJyWDItT0hudzBhMUloOWF4V3FMV1ZlTUhsODg4d0RoY1ZuaXNJeExyWFNjallKQ2wzcW13ektmSzdwTjFYeUxrUkp2T3lPTG5raHY4Q0FEcWhnTmxCLXVYd2hwU05UOXdKcXFobjhRZFpXS3VqQmhsS0pGMFhQY1ZzMW9LS3ZvNGU4bTlJVDdXSTRWYkljem1mSUp0ekNsWWREb0R6OGZnYnM1YzBJTWlFTU1vZG1ubjV5Q2lkZTE2M3JrSWRQam0wb20zZ0Jad1Vud2FaX1Q4NjlncDRIbHQ2Mk5tYjM?oc=5"
-          },
-          {
-            "title": "Is AMD Stock a Buy Amid the Uncertainty Around Nvidia? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0RabkRYQjV0NTd3aHhnNzhPN0pWbGE3WklWaWNsNHNqdG8tVGNpS0JzSGNXS09IcmNwQXVRUHAwVHphVXh0QzBRWFJidGZwaWgxaWdmQTRQWl9vN0NNbE1aWmtkSzBIZzNzMVRIX0dMRjZvaE1tbi1uSGJtdEJLZXY4SjNfWi1HS2pLU0NTWS1PUFpOZG5KWDFqUQ?oc=5"
-          },
-          {
-            "title": "Why Sandisk Stock Keeps On Going Down - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLUZFT3kweGFraTVWVTdUUnNjVnhoR0ZwTmVaLVBiamhoRlltVmtHXzNmTlNaVHBXZVVyOGd6SGw5RDZQbmhsemtUaWdsZ0FvNHU0MkFjMU9tcW9WdWs1c2xnX1kweGpqemZUWDNfYzFDSWUzVnpJTlZnZndGT0c3eWxiVlFzYVE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.56,
-        "weekAgoPrice": 4.900000095367432,
-        "percentChange": -6.94,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.4,
-        "weekAgoPrice": 1.4800000190734863,
-        "percentChange": -5.41,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.04,
-        "weekAgoPrice": 1.1699999570846558,
-        "percentChange": -11.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.74,
-        "weekAgoPrice": 0.6499999761581421,
-        "percentChange": 13.85,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-17T20:16:14.941310Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3279,6 +3194,57 @@
           {
             "title": "AMD stock drops after Hunterbrook Media raises export control concerns - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWUg5LTNtMXZ0UXA0a1J0Ukx1U1lEaUhIV3pzS3ZxUVZGNmdack9VOTJiUHhrRnJZd2lDRkFsVS1hbE14eFlxZGtON3ZDMnZ4VVl0REI1MmllX016cFhCSzhxa0NYZHhELTV4Um93OHhTanJXbHRqZ2VDWmRHdUZfZzJTQmtSa0l1ODFIODItcVQxenFDSlozMVcxeGUxQzhReEJERTl6am1EbDdvYkRmV3pkUzdMWWhyM0taWS1DV0lLZGFyZHdPUElB?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.5199999809265137,
+        "percentChange": -9.87,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.02,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": -7.27,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6600000262260437,
+        "percentChange": 13.64,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-19T19:16:07.826080Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 148.47,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -10.66,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Muddy Waters Has Issued a New Short Call on Nvidia. I Still Expect NVDA Stock to Grind Higher. - Barchart.com",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc3pmRlBsVHFuM0hHT1RqZDk5NXJNRjlndEVfLWljOHpqM0tRcnJLVmtZSndUc0RxcDdDeFdzZUQ5S1B3LTRpSHpsTmlGOUNxY2wtSEZlU3hhcEE4T0lPUDZSaW5rSkVVWnNDZHBBRVV0OTlkajNWUjlVMkVocHgzMlJnNXBnOTRZOXlUeTRiVmFxanNkLXFFTkdfVHlGM1liV1F0d1N6c0ZIbnJXNFY1SjZQV1RmYUpoNW9CLW52NUh2VmFLRW9mdU93LWhtV2RuVEE?oc=5"
+          },
+          {
+            "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Can\u2019t Shake Post-Huang Hangover. Anthropic Debut Also Not Providing a Boost. - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0V3d1ZlZG04SEFmUFJDc1lRZDRWMkZMMkVULVc2SlZqMmI2VUlfUW9sWS1UOFAydWxxdDBVZDZVU2FRODNxMUtTdGdKSnh1Z0tnOF90VDNzMThFUkk2dFE0Y0ZwenFLSWl5TFNKUDhod1pOU0VHT2lEbE0tUUtKN3hQNjk?oc=5"
           }
         ]
       },

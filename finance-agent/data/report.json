@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-19T18:16:26.272566Z",
+  "generatedAt": "2026-11-19T19:16:07.826080Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 503.1,
+      "currentPrice": 502.74,
       "weekAgoPrice": 523.0,
-      "percentChange": -3.8,
+      "percentChange": -3.87,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 148.4,
+      "currentPrice": 148.47,
       "weekAgoPrice": 166.19000244140625,
-      "percentChange": -10.7,
+      "percentChange": -10.66,
       "flagged": true,
       "news": [
         {
-          "title": "AMD stock drops after short-seller says the chip maker has its own China problems - Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbW0tRzZBUlk0UFA3dmpTQ1Z5WFBrTy1LZ2d0dnd4bWRvSWRfeGgzbzc1ZDBYbkxTNXFKcThsRWZJMUNqdkNaTHhNbUxGNDJmYk53OFZ4SXZzSlptY0xrVXlRVjRqZnZQVjYzVjlOYXBGc0tkaHFaLWRrY21ybGFJUjE1YUtDR1Q3OVlGT2Jn?oc=5"
+          "title": "Muddy Waters Has Issued a New Short Call on Nvidia. I Still Expect NVDA Stock to Grind Higher. - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc3pmRlBsVHFuM0hHT1RqZDk5NXJNRjlndEVfLWljOHpqM0tRcnJLVmtZSndUc0RxcDdDeFdzZUQ5S1B3LTRpSHpsTmlGOUNxY2wtSEZlU3hhcEE4T0lPUDZSaW5rSkVVWnNDZHBBRVV0OTlkajNWUjlVMkVocHgzMlJnNXBnOTRZOXlUeTRiVmFxanNkLXFFTkdfVHlGM1liV1F0d1N6c0ZIbnJXNFY1SjZQV1RmYUpoNW9CLW52NUh2VmFLRW9mdU93LWhtV2RuVEE?oc=5"
         },
         {
           "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5"
         },
         {
-          "title": "AMD stock drops after Hunterbrook Media raises export control concerns - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWUg5LTNtMXZ0UXA0a1J0Ukx1U1lEaUhIV3pzS3ZxUVZGNmdack9VOTJiUHhrRnJZd2lDRkFsVS1hbE14eFlxZGtON3ZDMnZ4VVl0REI1MmllX016cFhCSzhxa0NYZHhELTV4Um93OHhTanJXbHRqZ2VDWmRHdUZfZzJTQmtSa0l1ODFIODItcVQxenFDSlozMVcxeGUxQzhReEJERTl6am1EbDdvYkRmV3pkUzdMWWhyM0taWS1DV0lLZGFyZHdPUElB?oc=5"
+          "title": "Nvidia Stock Can\u2019t Shake Post-Huang Hangover. Anthropic Debut Also Not Providing a Boost. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0V3d1ZlZG04SEFmUFJDc1lRZDRWMkZMMkVULVc2SlZqMmI2VUlfUW9sWS1UOFAydWxxdDBVZDZVU2FRODNxMUtTdGdKSnh1Z0tnOF90VDNzMThFUkk2dFE0Y0ZwenFLSWl5TFNKUDhod1pOU0VHT2lEbE0tUUtKN3hQNjk?oc=5"
         }
       ]
     },
