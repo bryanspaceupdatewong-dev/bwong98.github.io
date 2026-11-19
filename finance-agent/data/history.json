@@ -1,77 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-17T10:16:30.507799Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 156.14,
-        "weekAgoPrice": 178.6699981689453,
-        "percentChange": -12.61,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Board Not Considering Jensen Huang's Return: Report - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTFvNWl5bDQxVlRqc2pHSDNwUjlGUHV4ckkzY1JrN3NYMlE5dHA4NFVlblVpVXZVbEhqQkhWUU0wcVhma0dvWU5aTVlvUk5FYkJzTloyQlJTWjRXOUFSSGRqenVhTHpGU0Q0TExhSTNpanJxcUd1RjlmcVJnRzVEMXJkV2NkNXNQRUtlbnZraVFuTHA5VHo0d0ZDdFJUY0JxZFE?oc=5"
-          },
-          {
-            "title": "Nvidia stock valuation looks 'draconian,' even without Jensen Huang: Analyst - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDl4WHFaaUdid1hZWl9vazlpQTJwbmxuR2xyT3RUblBjemlFOHRnR3BGemhCUmI3ZWktSHlib1NqUDl5SnFPVWlFenh6NUFUMUk1YWdyWmxfTmRKbzJDSDFZdUJCU3FTb3UzbVF0NXBJS25QMWxIOHFiSmhLXzR5clZqYmZYZkRHYi1WVXdnYkdwOUNVX2JrS1ZxUWhkaXZJdnJTcTBWMzRPbm42dm1zVEE2NmNhOEcyRUtjTkFFZU1KWWJUZk5WTVhxd1dmYXpSQlE?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Fell Below $170. Here\u2019s Why It Could Be a Screaming Buy. - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNazRXV0tjMkxIejNDc3djWHA1TkZzbUhFeWd1LVJLQ3J6VnB6V3FfcHFCbllfUTNUZVoxZjVBQWprV3BZT3ZTV2ZwUGF5bDlxRnU0Tk5LSF96LW45Q0xtWjBFdXl5NFpDcFRWVE5rLXhBWFlqR29BMEdBeUxCMHNZOXdrZ2h3bkxSRnB4YmxERmVpNFRsOU9F?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.4,
-        "weekAgoPrice": 1.5299999713897705,
-        "percentChange": -8.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.04,
-        "weekAgoPrice": 1.1200000047683716,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.24,
-        "weekAgoPrice": 0.2549999952316284,
-        "percentChange": -5.88,
-        "flagged": true,
-        "news": [
-          {
-            "title": "JAG Berhad (0024.KL) Seasonal returns chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00Nk41UDlkRkFJaXQyWVpXNm9HVXV2aVp1NDJzSnpfVm5lY3VNaXJiVnRpS1A0MU11QVhHLUdQWFpQVzJmcHpyblFaSUZzcGJYaDQzUHQ3THpaa3JJVkVwbS1lQWg0UQ?oc=5"
-          },
-          {
-            "title": "National Environmental Recycling Company (9540.SR) Seasonal returns chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jajl4YWV4enFXMnZabG9hcWFOS3NZNkdSNjhoMzRiS2VmVWVpd2FQR2tCanEtRDA2clF2OHBvZ2piSGhJeGU1NEFhNTVnU1kzTGp6VFhhcW1HUmVqbjFGX1N4eTE1Zw?oc=5"
-          },
-          {
-            "title": "JAG Berhad (0024.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ob21IMVBhZl9jQW04WFNlTFdlT3FlRWphcFcxdF8tU3BqRGF1THdmak9USHFaYzd0NkFhNWh6emdBYlVoaHN3ZTJMQjBlMXlFeUhtaUVZREYyTFBfcGg2Y3FRSVVYQQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.74,
-        "weekAgoPrice": 0.6399999856948853,
-        "percentChange": 15.63,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-17T11:16:05.303201Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3449,6 +3377,66 @@
         "percentChange": -5.19,
         "flagged": true,
         "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6949999928474426,
+        "percentChange": 7.91,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-19T09:15:40.696662Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 150.96,
+        "weekAgoPrice": 173.72999572753906,
+        "percentChange": -13.11,
+        "flagged": true,
+        "news": [
+          {
+            "title": "How Everyday Investors Are Playing the Nvidia Drama - WSJ",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa1BmbUdFUGFtbUNUSHVkRmt2WWFGWFRZZS1uZkUyMHdDblJJeW1xZjdlcWVsRW1ldTZPR2FINEVrTHdVSkdud1FrcHRTT1RkRXJyYWlNdFZNZHVrOFZDcXA5Nl9Ucm5raUZBbzZBQVh1ejhXRUp2VTdKYVM1ak0tQzFyX3hHNy00VTVPeVF1c1IxNlBWcVNaZWYwcw?oc=5"
+          },
+          {
+            "title": "NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reach China Within 2-3 Years - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNVFJVYUJqcl9TVjVPQV80Z1lDSHVKZGsxeEFmLVFabXV5T3IzYlZfRzJ3T1hPdms5bjVBa2hiZXRQekhtNFhnRENoTjZ2VXAzUFFidmJLS3d0UGhQMkhGaEpTenYxaEV1RmdGdy1NY2JjNzVaNEl3NXZfYTE0OVIwd2NjUlNHRlByckhkZFZ2YVg4bEZRU2ZWTFdUUHZCVk9OUTlnN0J2czdRYXVJVlNLb0R2MVpZVTE1UnRFVVY1WkdWQTMyMk1JT2ZWVGNGS216cVNWSmEtRUIxa19RajhaQzlxSDVrdDVweG93OWp0Z2E2eEdabXZqeVZldGs1Vjk0d203eklXcXE3SHFvcUFuS1VQZW92bWtueFZmNQ?oc=5"
+          },
+          {
+            "title": "A tech fund manager sold Nvidia before the drama. Here\u2019s why it won\u2019t buy the dip. - Business Insider",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ19Wc2hrbFIwbEVYNU9LeXB4cVFyNDhNRWg3NlEzamFrSUJ0SXR3VnFVdmFuRFk2ckdvLXRqR0N0R3NMWkMzUXR3b3FoTFcxQlRRWE55M0M1T1RnV2R2QXRDdGRrbkZXNm5Obk9TeFlVdDkyMW85Q3lUUVlvRHNfMHpZOExBNTM2Wm1uRm9QUlhIZV9ZZ2hWdHYxUE54VTNUZFBzX2pESTdOdw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.4800000190734863,
+        "percentChange": -7.43,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.350000023841858,
+        "percentChange": -5.19,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+          },
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          }
+        ]
       },
       {
         "ticker": "5341.KL",
