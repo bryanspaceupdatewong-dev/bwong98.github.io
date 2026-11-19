@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T23:15:53.707742Z",
+  "generatedAt": "2026-11-19T23:26:11.183002Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won\u2019t Return as CEO - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOERUMkVEZEttRVd6TG92RVVFUzc4RU10anVtbFoxeV9RN1VneDJiUkc5NXpVWWNhM09PUWhGMHNHcmJNeTU0WTltdjA1TE5BbUtvOWx1QU4ySmJJc2lPWmoydVJld09sOER4Rk4xRE9QbXpKSVMzNE9ldENzQWZWVGZGRlY?oc=5"
+        },
+        {
           "title": "Nvidia Is Financing Its Own Demand, And The Fed Noticed (NASDAQ:NVDA) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWY1d2ItZkhENElDOVhFeHBYYXpQcU0zdjZTbG4yV0Z2RHM1eGF5ZG5FTFo4YklUTUItMnNJZVd4b1gzMGZoeE9PRzhnZ3pwREQxYVBMVDNFRVo4bWNhcktfZUlBZkRacldEQUZRSG84eEJGM3Y0YWc0eEU2VUV3MVREMHJBWE1UaUk2d0tpaEY0SDFxZXN5bkZTVQ?oc=5"
         },
         {
           "title": "Stock Market Today, Nov. 19: Nvidia Slides as Investors Weigh CEO Transition Fallout Despite Strong Q3 Results - The Motley Fool",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMHRFQXJvd0VTZFAtVzVJUF94ZE13ZjR0WGFHZzYySjJLM2VDSjRoTHM1OWFOMk03NHdyVDhDWV9yeEd4dHlKQ3VSd1pCNGxYU2w3TGF4VGNjcHVZQlE5RGI1RWd6djgtcUh4X3plb1JiaHJjVzhZakJyQTl1c0VaRGFNTjZpLWZhVTJwbzV0Yi1fbk8wSG1wQ3RMUnFaU2xGZERhRmcweXM3d292N1pKWWdmZFMwQzFsUHFMMkhoODhfd21OZWJNdVlvX2pBOVBlMm1kN3JZM3F4cDVETEt6cEhtcWI2WUx3dEZsWHZpVGFVOHp5YlI4QmI3YnE?oc=5"
-        },
-        {
-          "title": "Nvidia\u2019s stock falls further. It has lost $669 billion in six trading days. - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEJ3VzdMRnFXV3ZlNU1Kc0NHZ0toc2w3aFRGSFF5QkFCYmRTQUVGOW9YVE52UE9nLWR4U1JSZmF0R0h6aUNjREs4VGVyZ1NaZkhOdGhzQ0ZQbEdHQTlrU1VuaEFMMDlQdE1YdVdRYTdtaVp2UWQtX3hZMjBVLXQ4Z1VuTDRabnRRTnl4Zy1GZlA5QW52cTJIcGw1SnBZZ2VmQ01GYVUxQWNzSzEzelctbkhWX2w?oc=5"
         }
       ]
     },
