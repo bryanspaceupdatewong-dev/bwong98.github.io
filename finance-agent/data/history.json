@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-17T08:15:46.218318Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 156.14,
-        "weekAgoPrice": 178.6699981689453,
-        "percentChange": -12.61,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stock market drops amid continued Nvidia fallout - The Washington Post",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFFWkM0QU81aEJfWUszZ083R0l0MVEwOGJDTmF5MzJRRnI2eDhLd2RhaUoxVHRzSzRud3JKVEtsNmJmZWxrZkg0R3NpaVQ4QTJGZnZXZGstZy1OMl9TYXotOG41blRaTUVFd21xT2NLUlI1aTE0TThlb0tyX2lJbDE2MGczejYwcmU0UHNwbFd5UXZCYnRISGJXOEh4dXBNMnc?oc=5"
-          },
-          {
-            "title": "The Nvidia share price is down 30% and UK investors are buying. I\u2019m not convinced it\u2019s a bargain - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR25BeWt0Y2VoV0lpS3o0X1NUWFhtLWpNSHBKSHhPaTNaYzNOMnV2Vjh1VDI5UnZNNmsxNEhncVVrMVlyWWVkdDV6VHIwWUVRS04yR2hjRVQ1aUpiczVFekJEV0NQQlJTSkZHUFRrNml3Y0pQemRPaXRDc2hmWFZ0Ug?oc=5"
-          },
-          {
-            "title": "Nvidia faces alarming revenue questions before earnings - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVThFYkJqb0EzcGg3MXBNdnJadUl3eUpuVEt1ck90aUFPdWI4MGJHSHd6Sm9Qb0VhRktVVmdHNl9xdTdfU2gtNERVZ000alNLcjRXS0lsR2tBTVhUVUYtMzBKMlo5clU3VlA3ZTJPWGFBUXBnWWttRmU5Rnk1UG1sc2tIbzhBdEF1eXRGWWg2UURmYmFDU0I1WDdTN1pranBCUl91RkhTUQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.39,
-        "weekAgoPrice": 1.5299999713897705,
-        "percentChange": -9.15,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.04,
-        "weekAgoPrice": 1.1200000047683716,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.725,
-        "weekAgoPrice": 0.6399999856948853,
-        "percentChange": 13.28,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-17T09:00:00.056670Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3497,6 +3446,53 @@
           {
             "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6949999928474426,
+        "percentChange": 7.91,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-19T07:09:58.091165Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 150.96,
+        "weekAgoPrice": 173.72999572753906,
+        "percentChange": -13.11,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.4800000190734863,
+        "percentChange": -7.43,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.350000023841858,
+        "percentChange": -5.19,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+          },
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
           }
         ]
       },
