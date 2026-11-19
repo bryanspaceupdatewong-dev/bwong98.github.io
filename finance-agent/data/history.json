@@ -1,90 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-17T18:16:12.292925Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 502.125,
-        "weekAgoPrice": 533.1599731445312,
-        "percentChange": -5.82,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft Stock (NASDAQ:MSFT) Drops as Bill Ackman Sells 35% of His Stake - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2VnYmp6ZTM1SFVFMGlXbzVud2dja1c1RlBRaUdleDQ2eUFiZEY4WDhYM2VRTnNGUTlGZl9DbF9FMG1sNTVfVFNDcW9SRlpXZXFlZVp5ZlpJWXZyY2JQSWdNd3RySzUtMi1pYTZScl8xQm9jaFdSMVdNNzEwbUpjS19OTGw1aVFua1NKQkNfMjZNTHVBdzRQZ3BWRWpBVXM4?oc=5"
-          },
-          {
-            "title": "Wells Fargo Sticks to Their Buy Rating for Microsoft (MSFT) - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWmhQa3hzQjhacXhmVlA2NWFtMW1RWGd0c1J5VktvRkZLRTNTMTdBWENRQ3pCbFVIbi11SkF1dTY4SW5KM01pYlg4WkpzaTV2akhDMGVoaXRSOVVNTmpXcy1KSXBSLXNhTWI2SkgzNk05QlFJWmVNUEN0X0ZWMnh6dW10VW11ZlAwVXFFLVVxVnFRS0FWZ0h0S1BPa3dQdm1wWXhGVEJJQUtsSmk2QTFia0xXMW45RVJHeVFHS1U1TlNMbmt0UjlOSlRyTHZqNzJuUnYyam9Xb3UtUQ?oc=5"
-          },
-          {
-            "title": "Palantir Technologies Inc Stock (PLTR) Moved Down by 3.21% on Nov 17: Key Drivers Unveiled - TradingKey",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTGloZHZMVnZ4LWlvSTltTEE4UDFuTlhtQUhJNjQyYVNpRmlKVWxZUlRrdUZzY09ZS09PMWlRQUlnTW9FZ21jSkpwdF9oOG5PMXVzZDQ2T1NQbEJ1YWRmRFJTZUxzcC1jcG01ck9VMkpla1gtdGQwZVZmbVBqMlJxLUozNWU5b1dqTXZn?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 153.65,
-        "weekAgoPrice": 168.88999938964844,
-        "percentChange": -9.02,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iM3pFNTMyc0NDSXdVbjV1RFhtMjMybWRUcWtGOGRsVllWSS1Yd2Y0emU4MXNVbUpoUUUxTVZ5ck8xem1nNjVuNUl2VVFzLXNMZU1nZlRPNDJTRG9uaFhkbXpSdzNhQW9lWDZQbUtHUnRZeDBlaUl2Y3pDcErSAYIBQVVfeXFMTXV5dkdmRTlzLVlhbUdHREtUSWs2M09MRm8yYldyTkhnZllMWUdFZHh4cVo1Z0FlUmRld3ZnUmVuMV9OanU0em9oTmF2MjNoNGZ0T282eDZialBxU3g1Nkt5aFVrSzdHbmh0Y1I5aFZhRDZjQWdWX0Q3aXNVaV9DeFA2UQ?oc=5"
-          },
-          {
-            "title": "Stocks making the biggest moves midday: Salesforce, Nvidia, SpaceX, Strategy & more - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVdJdXVnZWRscjRjWktRd2UwcEdOYmZmMWRIVHdHYjZTSU5td2tGeHZPM2NVUWkwLWRJWVhFRHFWVklXMURwUDVQMmJCMEx3T0FCZHRVckh2b3VFanJ5N2tqOWpkWWF0c01yZlc0RFV0ZEZtdXAxekgteHVCcDZ4eXF1SDHSAYoBQVVfeXFMTkFLOE5jcnhTN2VWaHgtaWplbUs4RUM4SzNLd2VONUJaZkxuUkZEV2poOG9weUM4MERQRzF3Wkw4TXlKeTI5UHA1Ni1xd0FlUXRtd3lrMktVbmRoTDlRaEJ4TmplUlFxNHVpVDNrclZmOGMwYXpmOXlaRlViNU1xcUZBSzctS3VaVXpR?oc=5"
-          },
-          {
-            "title": "Wall St falls before Nvidia earnings in key AI test; Huang says open to return - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.56,
-        "weekAgoPrice": 4.900000095367432,
-        "percentChange": -6.94,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.4,
-        "weekAgoPrice": 1.4800000190734863,
-        "percentChange": -5.41,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.04,
-        "weekAgoPrice": 1.1699999570846558,
-        "percentChange": -11.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.74,
-        "weekAgoPrice": 0.6499999761581421,
-        "percentChange": 13.85,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-17T18:26:54.948529Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3347,6 +3262,57 @@
           {
             "title": "Is Nvidia Stock Dead Money For A Year? - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNzF4MHNrcExOZFRZRHYwcmFEdnpvcGE1T3Rrb3R6MlE2Y3ZuUTZIa0tmcnpPUWxhcUg1ZGE3dzZWVEljSkh0allBMllueDR6eUhMRFBCVThoT2VRLURyOFpncU1ublI0TU1QQXZSaTA1UGVuc3ZxZnJuWkc3OUxTNnZiRTRCcTU0MHp2NVNHcEV4dw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.5199999809265137,
+        "percentChange": -9.87,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.02,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": -7.27,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6600000262260437,
+        "percentChange": 13.64,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-19T17:16:18.705096Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 148.375,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -10.72,
+        "flagged": true,
+        "news": [
+          {
+            "title": "RiverPark Advisors: NVIDIA Corp. (NVDA) Remains Central to AI Infrastructure Build-Out - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFB6b2tBSzlfNExHVHFiRG1LV0hYeWUyMjlMRnBXSGRaakxzZ0VGbHJLbXI4TEV2eHAxUE84aEYxVWM0dUZ6dEhsTE1fcl9Ob2tEc0laT0syNmQtTXUyVndtbHF4RWpjMTdPYUw3eEE4UWhhQ2NDQ1V2QnlzRUVvNWtzUDhfZnZidG8wT084Y0wzUUtkOGVWQUQxaWxmbHIx?oc=5"
+          },
+          {
+            "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5"
+          },
+          {
+            "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcERUVFNXR0pBOXZHaGxsYjlTelMwRURMajJuMjlzREZMSnBnVmpUQ1QzTXNhNS1nOXJZR21wOWZ5d0lHS01zQ0lQVDVpSW01REpMQk9oZFgtTFppcjJxRU13Y2x5TU54TE5VNmlUb0dKQUh0YkcxYW16Vnl2aEVOa3c1V2pEd3lJQWNYWWZYMnVuWTlfR2dn?oc=5"
           }
         ]
       },
