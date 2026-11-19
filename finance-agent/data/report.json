@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T01:15:40.894932Z",
+  "generatedAt": "2026-11-19T02:16:15.223847Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -27,56 +27,56 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXdmbmRvWVAtd3FqQjAtMXdoQXAtbG9lTm0zUVo3TWpYMGRaNlhxMTFrZGRjOGtsOGVuVVFLXy1QdlBMQTBmWEJ5VjJMVXV4b0Fmak1iSVpfQWVodUhOWmMtQlBSeGxtNkxGTUxIbHZPOXZLbHViN3ZuTXhRYU5kV0RpZTVJc2lTTWxPcGhzZzk0SkItT1I0SGdvWmhrTVQxa25kLW5n?oc=5"
         },
         {
-          "title": "Nvidia (NVDA) Stock Drops Despite Q3 Results Showing Huge AI Earnings - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHNRcEVuR1ViVWpUY0p5RnIyekVpWDRTVUFLXzhLYnFDZ2tfeGctTGFkcENyRFliRXVRSktrc3hiTU01ZW9oY1dzaVJ2dzBNcTBxLWZienhFM0I0dVFDYXp3NTVjM3lZNGhxMXpuZUhuLXdUd1o0RTN2VVR0bzRDNnE0LXByUDJvWFl3VUFra1JDQXZmbV9FejNKdEI?oc=5"
+          "title": "After Nvidia\u2019s Earnings, Here\u2019s My Prediction for the Stock Price by the End of the Year - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHZLSzBzRzJHd3lrVGJiclp5VWloalN5d1BCZDNJTkZFeVh2Q0ctR2ZNdG8wSmRUTlRVbElFNlp5cTFZdkFuc0dNbGxYaUlIZS1Ud0NKUUMtWXZaeWRlWUQ0WnBzZkRWT0h0Zkx2cHBTS3NZNWZhVjJMekNjUG80QUduN2YxOFBkMzg4UzN0Z1NEaEtMOUEwYllYVXJNd3lyaUp2dDM0MnlKcGloazM2X1I3bGJEUFNNWkxrUFhpTXJMejV3czVuejln?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.51,
+      "currentPrice": 4.52,
       "weekAgoPrice": 4.53000020980835,
-      "percentChange": -0.44,
+      "percentChange": -0.22,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.64,
+      "currentPrice": 7.65,
       "weekAgoPrice": 7.53000020980835,
-      "percentChange": 1.46,
+      "percentChange": 1.59,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.21,
+      "currentPrice": 1.19,
       "weekAgoPrice": 1.25,
-      "percentChange": -3.2,
+      "percentChange": -4.8,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.38,
+      "currentPrice": 1.37,
       "weekAgoPrice": 1.4800000190734863,
-      "percentChange": -6.76,
+      "percentChange": -7.43,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.44,
+      "currentPrice": 1.41,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -0.69,
+      "percentChange": -2.76,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.01,
+      "currentPrice": 1.04,
       "weekAgoPrice": 1.0499999523162842,
-      "percentChange": -3.81,
+      "percentChange": -0.95,
       "flagged": false,
       "news": []
     },
@@ -90,20 +90,20 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.26,
+      "currentPrice": 1.29,
       "weekAgoPrice": 1.350000023841858,
-      "percentChange": -6.67,
-      "flagged": true,
+      "percentChange": -4.44,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.75,
-      "weekAgoPrice": 0.6600000262260437,
-      "percentChange": 13.64,
+      "currentPrice": 0.745,
+      "weekAgoPrice": 0.6949999928474426,
+      "percentChange": 7.19,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 3
 }

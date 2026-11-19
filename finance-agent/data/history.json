@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-17T03:16:01.409446Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 156.14,
-        "weekAgoPrice": 178.6699981689453,
-        "percentChange": -12.61,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stock market drops amid continued Nvidia fallout - The Washington Post",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFFWkM0QU81aEJfWUszZ083R0l0MVEwOGJDTmF5MzJRRnI2eDhLd2RhaUoxVHRzSzRud3JKVEtsNmJmZWxrZkg0R3NpaVQ4QTJGZnZXZGstZy1OMl9TYXotOG41blRaTUVFd21xT2NLUlI1aTE0TThlb0tyX2lJbDE2MGczejYwcmU0UHNwbFd5UXZCYnRISGJXOEh4dXBNMnc?oc=5"
-          },
-          {
-            "title": "NVIDIA Corporation (NVDA) Stock Forecasts - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzFMZ09jVGVQVHpSU0dzclowcE9vNTVNVGFGMC1TV1NqLTJlb2I4NE0tN2haWEtMelFTYjktQ1BkNjBJQ1VlcFNWcE9SUmJQN1pkTUZpeWpiV0tvcVRQUV9aU0tnWTQ5WWtoUDAxTGlHN3JrOGtXWUl5b2cxdWl3X3VKeW9sMWxhQkk0RDNaM0kxN1dPMGp1d3lKMnVpQQ?oc=5"
-          },
-          {
-            "title": "AMD\u2019s Nvidia Rally Fades: Michael Burry Calls AMD \u2018Too Expensive As Eternal Alternative\u2019 - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTko2RWtHaDczOXQweUt1UDl5X2ozam9EMmtUVDdfY1JibHdnaGFIWVdzSy00SWEwcEtRZkN6aFdfZVpiOXpjNE5rZXRPNHBxdkJkeml3RmVzeENKT2RjaW4wMlJnNTVNWGw0R1d4ODRPd3F2YUdzMWdMcWpvTmtmc2pCV2N4VTd5Yjlub2Y3RnIzeTI3NzAxZWxDVQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.4,
-        "weekAgoPrice": 1.5299999713897705,
-        "percentChange": -8.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.06,
-        "weekAgoPrice": 1.1200000047683716,
-        "percentChange": -5.36,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.73,
-        "weekAgoPrice": 0.6399999856948853,
-        "percentChange": 14.06,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-17T04:15:50.804738Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3502,6 +3451,49 @@
         "currentPrice": 0.75,
         "weekAgoPrice": 0.6600000262260437,
         "percentChange": 13.64,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-19T02:16:15.223847Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 150.96,
+        "weekAgoPrice": 168.88999938964844,
+        "percentChange": -10.62,
+        "flagged": true,
+        "news": [
+          {
+            "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXdtR2s5Y3EzQXFqbmF5X1Q4X2ptUF82czA1RUd6WFNXNGNBd1RJTjhhU2hGU0RCX0EyeEF5TWlwQlhlckZfUmtMOG9ncU4zY2QyZXRPOC02aHBIMDlMd0ZZb3poeHlmNlJvRTAzUEJhQ1hGZE5wd0RzRDRRdU95MVp0MUVlZWxiRTFQRk90TnBrdG52MGZWMklsS1plUQ?oc=5"
+          },
+          {
+            "title": "After Nvidia\u2019s Earnings, Here\u2019s My Prediction for the Stock Price by the End of the Year - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXdmbmRvWVAtd3FqQjAtMXdoQXAtbG9lTm0zUVo3TWpYMGRaNlhxMTFrZGRjOGtsOGVuVVFLXy1QdlBMQTBmWEJ5VjJMVXV4b0Fmak1iSVpfQWVodUhOWmMtQlBSeGxtNkxGTUxIbHZPOXZLbHViN3ZuTXhRYU5kV0RpZTVJc2lTTWxPcGhzZzk0SkItT1I0SGdvWmhrTVQxa25kLW5n?oc=5"
+          },
+          {
+            "title": "After Nvidia\u2019s Earnings, Here\u2019s My Prediction for the Stock Price by the End of the Year - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHZLSzBzRzJHd3lrVGJiclp5VWloalN5d1BCZDNJTkZFeVh2Q0ctR2ZNdG8wSmRUTlRVbElFNlp5cTFZdkFuc0dNbGxYaUlIZS1Ud0NKUUMtWXZaeWRlWUQ0WnBzZkRWT0h0Zkx2cHBTS3NZNWZhVjJMekNjUG80QUduN2YxOFBkMzg4UzN0Z1NEaEtMOUEwYllYVXJNd3lyaUp2dDM0MnlKcGloazM2X1I3bGJEUFNNWkxrUFhpTXJMejV3czVuejln?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.4800000190734863,
+        "percentChange": -7.43,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.745,
+        "weekAgoPrice": 0.6949999928474426,
+        "percentChange": 7.19,
         "flagged": true,
         "news": []
       }
