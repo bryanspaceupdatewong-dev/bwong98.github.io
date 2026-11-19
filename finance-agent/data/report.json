@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:15:40.687700Z",
+  "generatedAt": "2026-11-19T04:16:20.064541Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.02,
+      "currentPrice": 1.03,
       "weekAgoPrice": 1.0499999523162842,
-      "percentChange": -2.86,
+      "percentChange": -1.9,
       "flagged": false,
       "news": []
     },
@@ -90,20 +90,25 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.29,
+      "currentPrice": 1.28,
       "weekAgoPrice": 1.350000023841858,
-      "percentChange": -4.44,
-      "flagged": false,
-      "news": []
+      "percentChange": -5.19,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.745,
+      "currentPrice": 0.75,
       "weekAgoPrice": 0.6949999928474426,
-      "percentChange": 7.19,
+      "percentChange": 7.91,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 4
 }
