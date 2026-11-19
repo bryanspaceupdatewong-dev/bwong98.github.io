@@ -1,23 +1,27 @@
 {
-  "generatedAt": "2026-11-19T19:16:07.826080Z",
+  "generatedAt": "2026-11-19T20:16:08.890874Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 502.74,
+      "currentPrice": 500.87,
       "weekAgoPrice": 523.0,
-      "percentChange": -3.87,
+      "percentChange": -4.23,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 148.47,
+      "currentPrice": 147.35,
       "weekAgoPrice": 166.19000244140625,
-      "percentChange": -10.66,
+      "percentChange": -11.34,
       "flagged": true,
       "news": [
+        {
+          "title": "AMD Stock Drops After Short Report Says It Isn\u2019t an Nvidia Replacement - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vOE1LWHU3SlUwbnlZRHlYTUpYZEJzTUJYRlMwdjVaRXdiTXg3NHJKSEVNcTNOVTVOLXFac0xDUUU2dy1OM0tFcERGUG1BSV9hX0Z0Wk41bTdEbW1fNmFMNjh2cEVyeE1ldHFvQ2hoMHUtVTExT0ZPb2Y2V09Kdw?oc=5"
+        },
         {
           "title": "Muddy Waters Has Issued a New Short Call on Nvidia. I Still Expect NVDA Stock to Grind Higher. - Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc3pmRlBsVHFuM0hHT1RqZDk5NXJNRjlndEVfLWljOHpqM0tRcnJLVmtZSndUc0RxcDdDeFdzZUQ5S1B3LTRpSHpsTmlGOUNxY2wtSEZlU3hhcEE4T0lPUDZSaW5rSkVVWnNDZHBBRVV0OTlkajNWUjlVMkVocHgzMlJnNXBnOTRZOXlUeTRiVmFxanNkLXFFTkdfVHlGM1liV1F0d1N6c0ZIbnJXNFY1SjZQV1RmYUpoNW9CLW52NUh2VmFLRW9mdU93LWhtV2RuVEE?oc=5"
@@ -25,10 +29,6 @@
         {
           "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5"
-        },
-        {
-          "title": "Nvidia Stock Can\u2019t Shake Post-Huang Hangover. Anthropic Debut Also Not Providing a Boost. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0V3d1ZlZG04SEFmUFJDc1lRZDRWMkZMMkVULVc2SlZqMmI2VUlfUW9sWS1UOFAydWxxdDBVZDZVU2FRODNxMUtTdGdKSnh1Z0tnOF90VDNzMThFUkk2dFE0Y0ZwenFLSWl5TFNKUDhod1pOU0VHT2lEbE0tUUtKN3hQNjk?oc=5"
         }
       ]
     },
