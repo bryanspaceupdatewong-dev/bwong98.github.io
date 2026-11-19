@@ -1,77 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-17T21:16:13.023102Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 506.24,
-        "weekAgoPrice": 533.1599731445312,
-        "percentChange": -5.05,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 155.46,
-        "weekAgoPrice": 168.88999938964844,
-        "percentChange": -7.95,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Wall Street ends lower ahead of Nvidia earnings, Anthropic debut - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5"
-          },
-          {
-            "title": "Nvidia shares set for $335 billion swing after earnings, options show - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVgtN05zY1JHMFRsZlg2WkdkdGNRMDV4bFl4RllkcWFvVEVyd0QxTUhZWERjUmhIWTlOTkxiNHpxQjJpQTV1ZU45dGNmT2M5MDd4ZkRZeHNxSGNjaTFPdHUyRXJEdHlrSGRuWUlaX0VDRkpWNG9CS2UySmxFajBDQ1NjU0JMcUl6NFNmbFZoOXYyY19GMExQSkZva2VWMWUtUGpLRG93TkRhWHRU?oc=5"
-          },
-          {
-            "title": "Nvidia earnings live: Nvidia to report Q3 results after the bell with Colette Kress to host first call as interim CEO - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSXZmeGxteXhISDdpYWJ5RllBWVZCeHVZRE1KUWdfVW1QemtGbXZVQ2QyZFZzMWV3dUMwcEkxdzZVelc3M28wMnR3QTFNSFo2SDRsMGtzNE96NjhMUXZQZEsyVHB6OGhvVTRoTDFPeUQ2bk9VekF4STZNZWxrWmp3MXRmbGdubUdJZmdaMXR3UGZRUDJhV3oydm5lbUdHR2UzR0p2LWhMTHZKeWFXbkpOdG9Ia2dNcVpiRFlDR1pGSEtLOW5aVDUzemM1ZnBWbTBFSTIyX0VVeE9XRWg0VjFjd0I3N19HVGpZdHRVcEthbHFPblZlM1pHUmwyQnVXV0JpeXVn?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "1295.KL",
-        "currentPrice": 4.56,
-        "weekAgoPrice": 4.900000095367432,
-        "percentChange": -6.94,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Public Bank Berhad (1295.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JOEI5eUhSVjRRczJVcTM1NGM3UjlESVJSRU11dGVmT3JYMEdubjNzSDZDcWtzWUhGU094NUktVUNUWVBXakdSdlZRdWR3WE9hQXdpUjdR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.4,
-        "weekAgoPrice": 1.4800000190734863,
-        "percentChange": -5.41,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.04,
-        "weekAgoPrice": 1.1699999570846558,
-        "percentChange": -11.11,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.74,
-        "weekAgoPrice": 0.6499999761581421,
-        "percentChange": 13.85,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-17T22:16:04.399616Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3211,6 +3139,57 @@
           {
             "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters",
             "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.5199999809265137,
+        "percentChange": -9.87,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.02,
+        "weekAgoPrice": 1.100000023841858,
+        "percentChange": -7.27,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6600000262260437,
+        "percentChange": 13.64,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-19T21:16:14.256038Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 145.98,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -12.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "QUICK SPARK: Nvidia Stock Is Bleeding Like It's 2008 - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3RRaGlXbTlWZ1pyYW1tc0hrRXBlV0xRTjVrTGU0UDhDTUhJbEFYZTdacGtQd0ZRdjhJQ2Zqbm9Qbk1HSmVxTjFkX1NVa0MyZkZsNkhsdkIwb29mLXpZRXFqM3M3ZzJyY21obFE1MTlocnVLU2lCUlVMOVJJWmRsRVc3SC13SE1QYzZqT2pLdG5jODJzdzY0ZkhxTWw?oc=5"
+          },
+          {
+            "title": "AMD Stock Drops After Short Report Says It Isn\u2019t an Nvidia Replacement - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vOE1LWHU3SlUwbnlZRHlYTUpYZEJzTUJYRlMwdjVaRXdiTXg3NHJKSEVNcTNOVTVOLXFac0xDUUU2dy1OM0tFcERGUG1BSV9hX0Z0Wk41bTdEbW1fNmFMNjh2cEVyeE1ldHFvQ2hoMHUtVTExT0ZPb2Y2V09Kdw?oc=5"
+          },
+          {
+            "title": "First Nvidia, Now AMD: A Short Seller Just Put Its China Business Under the Microscope - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX1haeFJ4Z0tBZVZaempzbjdNTkkyNTlfQTl0bUp4R1NsczJyUHYtdXRjcDMta0VmYU1mbmI4LU9UU2FiMlY2WmQySEdfSVcwS2dZWG9WY2c1Mzc1WGtBMmZaa0xUQVNORjREWTJMS3N3QkVQR1dpWnRkMHpXdW1SZUdoUXFYTFRCU3Izakt0TXQwdzBmaThXelZpSnB1TnpfXy0xcENqQ1pxNzl3R1FvSUZLUFFQQnd5SnVOdVN0aVVfT3Z2eHc?oc=5"
           }
         ]
       },

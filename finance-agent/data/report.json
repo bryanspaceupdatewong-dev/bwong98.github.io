@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-19T20:16:08.890874Z",
+  "generatedAt": "2026-11-19T21:16:14.256038Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 500.87,
+      "currentPrice": 498.3,
       "weekAgoPrice": 523.0,
-      "percentChange": -4.23,
+      "percentChange": -4.72,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 147.35,
+      "currentPrice": 145.98,
       "weekAgoPrice": 166.19000244140625,
-      "percentChange": -11.34,
+      "percentChange": -12.16,
       "flagged": true,
       "news": [
+        {
+          "title": "QUICK SPARK: Nvidia Stock Is Bleeding Like It's 2008 - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3RRaGlXbTlWZ1pyYW1tc0hrRXBlV0xRTjVrTGU0UDhDTUhJbEFYZTdacGtQd0ZRdjhJQ2Zqbm9Qbk1HSmVxTjFkX1NVa0MyZkZsNkhsdkIwb29mLXpZRXFqM3M3ZzJyY21obFE1MTlocnVLU2lCUlVMOVJJWmRsRVc3SC13SE1QYzZqT2pLdG5jODJzdzY0ZkhxTWw?oc=5"
+        },
         {
           "title": "AMD Stock Drops After Short Report Says It Isn\u2019t an Nvidia Replacement - Barron's",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vOE1LWHU3SlUwbnlZRHlYTUpYZEJzTUJYRlMwdjVaRXdiTXg3NHJKSEVNcTNOVTVOLXFac0xDUUU2dy1OM0tFcERGUG1BSV9hX0Z0Wk41bTdEbW1fNmFMNjh2cEVyeE1ldHFvQ2hoMHUtVTExT0ZPb2Y2V09Kdw?oc=5"
         },
         {
-          "title": "Muddy Waters Has Issued a New Short Call on Nvidia. I Still Expect NVDA Stock to Grind Higher. - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc3pmRlBsVHFuM0hHT1RqZDk5NXJNRjlndEVfLWljOHpqM0tRcnJLVmtZSndUc0RxcDdDeFdzZUQ5S1B3LTRpSHpsTmlGOUNxY2wtSEZlU3hhcEE4T0lPUDZSaW5rSkVVWnNDZHBBRVV0OTlkajNWUjlVMkVocHgzMlJnNXBnOTRZOXlUeTRiVmFxanNkLXFFTkdfVHlGM1liV1F0d1N6c0ZIbnJXNFY1SjZQV1RmYUpoNW9CLW52NUh2VmFLRW9mdU93LWhtV2RuVEE?oc=5"
-        },
-        {
-          "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5"
+          "title": "First Nvidia, Now AMD: A Short Seller Just Put Its China Business Under the Microscope - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX1haeFJ4Z0tBZVZaempzbjdNTkkyNTlfQTl0bUp4R1NsczJyUHYtdXRjcDMta0VmYU1mbmI4LU9UU2FiMlY2WmQySEdfSVcwS2dZWG9WY2c1Mzc1WGtBMmZaa0xUQVNORjREWTJMS3N3QkVQR1dpWnRkMHpXdW1SZUdoUXFYTFRCU3Izakt0TXQwdzBmaThXelZpSnB1TnpfXy0xcENqQ1pxNzl3R1FvSUZLUFFQQnd5SnVOdVN0aVVfT3Z2eHc?oc=5"
         }
       ]
     },
