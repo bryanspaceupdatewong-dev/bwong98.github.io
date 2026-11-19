@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:15:58.956323Z",
+  "generatedAt": "2026-11-19T08:16:04.216831Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,17 +21,17 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.51,
+      "currentPrice": 4.5,
       "weekAgoPrice": 4.53000020980835,
-      "percentChange": -0.44,
+      "percentChange": -0.66,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.65,
+      "currentPrice": 7.64,
       "weekAgoPrice": 7.53000020980835,
-      "percentChange": 1.59,
+      "percentChange": 1.46,
       "flagged": false,
       "news": []
     },
@@ -45,33 +45,33 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.36,
+      "currentPrice": 1.37,
       "weekAgoPrice": 1.4800000190734863,
-      "percentChange": -8.11,
+      "percentChange": -7.43,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.41,
+      "currentPrice": 1.42,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -2.76,
+      "percentChange": -2.07,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.02,
+      "currentPrice": 1.01,
       "weekAgoPrice": 1.0499999523162842,
-      "percentChange": -2.86,
+      "percentChange": -3.81,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.245,
+      "currentPrice": 0.24,
       "weekAgoPrice": 0.24500000476837158,
-      "percentChange": -0.0,
+      "percentChange": -2.04,
       "flagged": false,
       "news": []
     },
@@ -81,16 +81,7 @@
       "weekAgoPrice": 1.350000023841858,
       "percentChange": -5.19,
       "flagged": true,
-      "news": [
-        {
-          "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
-        },
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5341.KL",
