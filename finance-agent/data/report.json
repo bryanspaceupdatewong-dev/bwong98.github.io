@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T21:16:14.256038Z",
+  "generatedAt": "2026-11-19T22:15:56.684587Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "NVDA Stock Alert: What to Know as Moody's Cuts Nvidia's Outlook Rating - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmI0cjQ4cUVpYjVTeXNuNFdNRmE4bHFJTDBsbDBNLS1LZGEzeFhsUVRvYzltRjA0YUU4RnYzS1htMkNHTDRDcHdfQXk4QjdRYloyQVRJWGtlLXhHNmJiMmVQMVhJNTduQXNZdld6ald5SmN0bUVHWUJpbmRBR2RIN2tVdEI2cG9hcXNMeExDd1JWNFBtS0JLQlkzWERheDhVSWZVZ3Z1RUNsc21zRjVQNWg4cw?oc=5"
+        },
+        {
+          "title": "Is Nvidia Stock a Once-in-a-Decade Buying Opportunity After Its Latest Earnings? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSWE3SDhVLURnMWI2MzhzdHlPX1pYcTlDeURlYTNNbkZ2X2E5dS1qb3dtNFh6bUdFSlpDWGkyY0djeW04SVBDQjZJeWZlN2R0N2ZiNXZ2OEFQZlZpMk10ZzU0d0pxTHl2eDlIVGcwazYzcUJSWHk2YktyWGdTVFZ3UVNsaXdXT1pTalY0blc3aURQQklUY0NtZV9aRTNfWWdyelRycW00Zl84QTJhTmppTHhteU9RQUlHTmFXdUxkbw?oc=5"
+        },
+        {
           "title": "QUICK SPARK: Nvidia Stock Is Bleeding Like It's 2008 - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3RRaGlXbTlWZ1pyYW1tc0hrRXBlV0xRTjVrTGU0UDhDTUhJbEFYZTdacGtQd0ZRdjhJQ2Zqbm9Qbk1HSmVxTjFkX1NVa0MyZkZsNkhsdkIwb29mLXpZRXFqM3M3ZzJyY21obFE1MTlocnVLU2lCUlVMOVJJWmRsRVc3SC13SE1QYzZqT2pLdG5jODJzdzY0ZkhxTWw?oc=5"
-        },
-        {
-          "title": "AMD Stock Drops After Short Report Says It Isn\u2019t an Nvidia Replacement - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vOE1LWHU3SlUwbnlZRHlYTUpYZEJzTUJYRlMwdjVaRXdiTXg3NHJKSEVNcTNOVTVOLXFac0xDUUU2dy1OM0tFcERGUG1BSV9hX0Z0Wk41bTdEbW1fNmFMNjh2cEVyeE1ldHFvQ2hoMHUtVTExT0ZPb2Y2V09Kdw?oc=5"
-        },
-        {
-          "title": "First Nvidia, Now AMD: A Short Seller Just Put Its China Business Under the Microscope - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX1haeFJ4Z0tBZVZaempzbjdNTkkyNTlfQTl0bUp4R1NsczJyUHYtdXRjcDMta0VmYU1mbmI4LU9UU2FiMlY2WmQySEdfSVcwS2dZWG9WY2c1Mzc1WGtBMmZaa0xUQVNORjREWTJMS3N3QkVQR1dpWnRkMHpXdW1SZUdoUXFYTFRCU3Izakt0TXQwdzBmaThXelZpSnB1TnpfXy0xcENqQ1pxNzl3R1FvSUZLUFFQQnd5SnVOdVN0aVVfT3Z2eHc?oc=5"
         }
       ]
     },
@@ -43,64 +43,64 @@
     {
       "ticker": "1066.KL",
       "currentPrice": 7.65,
-      "weekAgoPrice": 7.539999961853027,
-      "percentChange": 1.46,
+      "weekAgoPrice": 7.53000020980835,
+      "percentChange": 1.59,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.19,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -3.25,
+      "weekAgoPrice": 1.25,
+      "percentChange": -4.8,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.37,
-      "weekAgoPrice": 1.5199999809265137,
-      "percentChange": -9.87,
+      "weekAgoPrice": 1.4800000190734863,
+      "percentChange": -7.43,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.44,
-      "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -2.04,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": -0.69,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.02,
-      "weekAgoPrice": 1.100000023841858,
-      "percentChange": -7.27,
-      "flagged": true,
+      "weekAgoPrice": 1.0499999523162842,
+      "percentChange": -2.86,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.24,
-      "weekAgoPrice": 0.25,
-      "percentChange": -4.0,
+      "weekAgoPrice": 0.24500000476837158,
+      "percentChange": -2.04,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.28,
-      "weekAgoPrice": 1.340000033378601,
-      "percentChange": -4.48,
-      "flagged": false,
+      "weekAgoPrice": 1.350000023841858,
+      "percentChange": -5.19,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.75,
-      "weekAgoPrice": 0.6600000262260437,
-      "percentChange": 13.64,
+      "weekAgoPrice": 0.6949999928474426,
+      "percentChange": 7.91,
       "flagged": true,
       "news": []
     }

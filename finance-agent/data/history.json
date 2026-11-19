@@ -1,98 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-17T22:16:04.399616Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 506.24,
-        "weekAgoPrice": 533.1599731445312,
-        "percentChange": -5.05,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft Corporation (MSFT) Stock: Fall 2.37% Despite Major AI Security Initiative Launch - Blockonomi",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYndCaktpMFZTU3oyWVY2Q3lOUnZrbDdrQmJLcmRUYjJRQUZQYUxMZFk5YU1OZzkzaUNUa1JiYWdNRjROTEY0Y0gzYnB5OWJOd1NMTVFFX0hzNmtBQmJKNGY4aWdrRExRdlB5cGdYTmk4eTN2S2R3bXNoWGRINktHWTc2LUplS1BHYVRWRlV5RnByX19NbzlpRlgtVUplNEpXaWx5NndBZEdfUm9mM1BB?oc=5"
-          },
-          {
-            "title": "Can Microsoft (NASDAQ:MSFT) Ride Demand To Fresh Records? - Kalkine Media",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXhCZVp6UGhXQXVZNFEzMmpqUjhxN0hzbWRza0Iyd2hpTk1hbnZMODJNbGs0S1VuUHhmQlRPYm1WMHJkT3AySHVwSC1kYXI3MHM4Q09XQ0Y5RUFlYnoxS2JFT0NFZi0wbmtUcVc2aVBQamw1dkJDQ2g4cm1CN1RLSjlUcUNpUmNjYUdkWENZeG1vbGJEU2l0OEJ0VTVGZw?oc=5"
-          },
-          {
-            "title": "Microsoft Stock MSFT Drops Below $500 as New Cybersecurity Concerns Hit Tech Stocks - FXLeaders",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXNFWG5BV3YwSzRQX0xHajhQbE1RMncxd3RKdlFVQkxuamxtTkpoRHZkbnhFMUJHUDFucmhHYjdlVVNjdmFKSHZ6QmNjeUxGOWwwZk9SX21QS3h0WmlaUFhWbllVN2dCa3djUDFvb3BRd3VtYnZ4U0xpMHhkTW9URDdjNkEtWm9JLXd4QnpLVFlsajVjdVBZOW9nSUwxOGdic0ZpVV9mZ1FKMGlvc0pkd3dWMUloYV9PdFBIRVB5NDhSWGc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 155.46,
-        "weekAgoPrice": 168.88999938964844,
-        "percentChange": -7.95,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stock market today: Dow sinks 850 points, S&P 500 and Nasdaq drop with focus on Nvidia earnings - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNlo3VXhMalBfa2JwdDF2VnBsa1E5RnVPSG5lekhEOXRQa0tqS0RIRW5qYmxQRzFZOGdyTlU5VUM1RGgwWENlYlR5RDUtMFRQdlhxRkRhNU1CdWRiR0dQUm1MMldMbUlOM295UVZ2eFRFOTlRUUVEX0swd1YzVTkyRkRYeEI2VW00LTRZUG5JX3RiVHh1UVBKN3VoUUlidWgwaWJvR2lSZHdmaVUzTmJWYUFMX21LaUVjeTJMWU94NUZtRm1DTmhlQUZTY0RSNXhTM1hGTnRR?oc=5"
-          },
-          {
-            "title": "AMD, Broadcom, and TSMC stocks rise on Nvidia earnings beat - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5"
-          },
-          {
-            "title": "Stocks making the biggest moves after hours: Nvidia, CoreWeave, Nebius & more - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVdJdXVnZWRscjRjWktRd2UwcEdOYmZmMWRIVHdHYjZTSU5td2tGeHZPM2NVUWkwLWRJWVhFRHFWVklXMURwUDVQMmJCMEx3T0FCZHRVckh2b3VFanJ5N2tqOWpkWWF0c01yZlc0RFV0ZEZtdXAxekgteHVCcDZ4eXF1SDHSAYoBQVVfeXFMTkFLOE5jcnhTN2VWaHgtaWplbUs4RUM4SzNLd2VONUJaZkxuUkZEV2poOG9weUM4MERQRzF3Wkw4TXlKeTI5UHA1Ni1xd0FlUXRtd3lrMktVbmRoTDlRaEJ4TmplUlFxNHVpVDNrclZmOGMwYXpmOXlaRlViNU1xcUZBSzctS3VaVXpR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.4,
-        "weekAgoPrice": 1.5299999713897705,
-        "percentChange": -8.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.04,
-        "weekAgoPrice": 1.1200000047683716,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.24,
-        "weekAgoPrice": 0.2549999952316284,
-        "percentChange": -5.88,
-        "flagged": true,
-        "news": [
-          {
-            "title": "JAG Berhad (0024.KL) Seasonal returns chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00Nk41UDlkRkFJaXQyWVpXNm9HVXV2aVp1NDJzSnpfVm5lY3VNaXJiVnRpS1A0MU11QVhHLUdQWFpQVzJmcHpyblFaSUZzcGJYaDQzUHQ3THpaa3JJVkVwbS1lQWg0UQ?oc=5"
-          },
-          {
-            "title": "National Environmental Recycling Company (9540.SR) Seasonal returns chart - Yahoo Finance UK",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jajl4YWV4enFXMnZabG9hcWFOS3NZNkdSNjhoMzRiS2VmVWVpd2FQR2tCanEtRDA2clF2OHBvZ2piSGhJeGU1NEFhNTVnU1kzTGp6VFhhcW1HUmVqbjFGX1N4eTE1Zw?oc=5"
-          },
-          {
-            "title": "JAG Berhad (0024.KL) Seasonal Returns Chart - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ob21IMVBhZl9jQW04WFNlTFdlT3FlRWphcFcxdF8tU3BqRGF1THdmak9USHFaYzd0NkFhNWh6emdBYlVoaHN3ZTJMQjBlMXlFeUhtaUVZREYyTFBfcGg2Y3FRSVVYQQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.74,
-        "weekAgoPrice": 0.6399999856948853,
-        "percentChange": 15.63,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-17T23:16:31.359825Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3214,6 +3121,57 @@
         "currentPrice": 0.75,
         "weekAgoPrice": 0.6600000262260437,
         "percentChange": 13.64,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-19T22:15:56.684587Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 145.98,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -12.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Alert: What to Know as Moody's Cuts Nvidia's Outlook Rating - Barchart.com",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmI0cjQ4cUVpYjVTeXNuNFdNRmE4bHFJTDBsbDBNLS1LZGEzeFhsUVRvYzltRjA0YUU4RnYzS1htMkNHTDRDcHdfQXk4QjdRYloyQVRJWGtlLXhHNmJiMmVQMVhJNTduQXNZdld6ald5SmN0bUVHWUJpbmRBR2RIN2tVdEI2cG9hcXNMeExDd1JWNFBtS0JLQlkzWERheDhVSWZVZ3Z1RUNsc21zRjVQNWg4cw?oc=5"
+          },
+          {
+            "title": "Is Nvidia Stock a Once-in-a-Decade Buying Opportunity After Its Latest Earnings? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSWE3SDhVLURnMWI2MzhzdHlPX1pYcTlDeURlYTNNbkZ2X2E5dS1qb3dtNFh6bUdFSlpDWGkyY0djeW04SVBDQjZJeWZlN2R0N2ZiNXZ2OEFQZlZpMk10ZzU0d0pxTHl2eDlIVGcwazYzcUJSWHk2YktyWGdTVFZ3UVNsaXdXT1pTalY0blc3aURQQklUY0NtZV9aRTNfWWdyelRycW00Zl84QTJhTmppTHhteU9RQUlHTmFXdUxkbw?oc=5"
+          },
+          {
+            "title": "QUICK SPARK: Nvidia Stock Is Bleeding Like It's 2008 - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3RRaGlXbTlWZ1pyYW1tc0hrRXBlV0xRTjVrTGU0UDhDTUhJbEFYZTdacGtQd0ZRdjhJQ2Zqbm9Qbk1HSmVxTjFkX1NVa0MyZkZsNkhsdkIwb29mLXpZRXFqM3M3ZzJyY21obFE1MTlocnVLU2lCUlVMOVJJWmRsRVc3SC13SE1QYzZqT2pLdG5jODJzdzY0ZkhxTWw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.37,
+        "weekAgoPrice": 1.4800000190734863,
+        "percentChange": -7.43,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.28,
+        "weekAgoPrice": 1.350000023841858,
+        "percentChange": -5.19,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6949999928474426,
+        "percentChange": 7.91,
         "flagged": true,
         "news": []
       }
