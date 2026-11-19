@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-17T02:15:59.986216Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 156.14,
-        "weekAgoPrice": 186.63999938964844,
-        "percentChange": -16.34,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stock market drops amid continued Nvidia fallout - The Washington Post",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFFWkM0QU81aEJfWUszZ083R0l0MVEwOGJDTmF5MzJRRnI2eDhLd2RhaUoxVHRzSzRud3JKVEtsNmJmZWxrZkg0R3NpaVQ4QTJGZnZXZGstZy1OMl9TYXotOG41blRaTUVFd21xT2NLUlI1aTE0TThlb0tyX2lJbDE2MGczejYwcmU0UHNwbFd5UXZCYnRISGJXOEh4dXBNMnc?oc=5"
-          },
-          {
-            "title": "Prediction: Nov. 18 Will Be a Huge Day for AI Power Stocks. Here\u2019s Why. - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc3JhM0o3LUJUVnpLWFJBaE5qdk5zNExKMWxRYVA0OHlEVHhGU1Y4TjYySWF2Q0tEUk85RzFIeHF2cUF1QUc1Ul9vb3V5UWFzVjU0dXNHandkVTZOUk9QTmtIYXJ0NU5IZFMzcS1NeEtYbmxiRV9Fa3NDcVhmV0xKbHBNeUQ1amN1R0RqYnkzUVV5Nmpp?oc=5"
-          },
-          {
-            "title": "Nvidia Directors Rule Out Huang\u2019s Return as Company Prepares to Report Earnings - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnMyVTl1YTN0bW14WmZsZUQ1S0x2QUZsajVRZjNKYmw2N2dPXzFybmt0YW0wNFlyd1d6OXRmck9TendUcTVibFZnTjFfcl9iUGp0My04dHBjOF9uTEd5SnRYdE9GUFBuQUVDbzlJTHlwdHRoSzBOR1lKWWlnLUhSU0YwZkFzeFQxQThiWUFXLWdydlQzNnJqY2NxMGZFY2F4?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.4,
-        "weekAgoPrice": 1.5299999713897705,
-        "percentChange": -8.5,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.04,
-        "weekAgoPrice": 1.1200000047683716,
-        "percentChange": -7.14,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.74,
-        "weekAgoPrice": 0.6399999856948853,
-        "percentChange": 15.63,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-17T03:16:01.409446Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3496,6 +3445,57 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
           }
         ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.75,
+        "weekAgoPrice": 0.6600000262260437,
+        "percentChange": 13.64,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-19T01:15:40.894932Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 150.96,
+        "weekAgoPrice": 168.88999938964844,
+        "percentChange": -10.62,
+        "flagged": true,
+        "news": [
+          {
+            "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXdtR2s5Y3EzQXFqbmF5X1Q4X2ptUF82czA1RUd6WFNXNGNBd1RJTjhhU2hGU0RCX0EyeEF5TWlwQlhlckZfUmtMOG9ncU4zY2QyZXRPOC02aHBIMDlMd0ZZb3poeHlmNlJvRTAzUEJhQ1hGZE5wd0RzRDRRdU95MVp0MUVlZWxiRTFQRk90TnBrdG52MGZWMklsS1plUQ?oc=5"
+          },
+          {
+            "title": "After Nvidia\u2019s Earnings, Here\u2019s My Prediction for the Stock Price by the End of the Year - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXdmbmRvWVAtd3FqQjAtMXdoQXAtbG9lTm0zUVo3TWpYMGRaNlhxMTFrZGRjOGtsOGVuVVFLXy1QdlBMQTBmWEJ5VjJMVXV4b0Fmak1iSVpfQWVodUhOWmMtQlBSeGxtNkxGTUxIbHZPOXZLbHViN3ZuTXhRYU5kV0RpZTVJc2lTTWxPcGhzZzk0SkItT1I0SGdvWmhrTVQxa25kLW5n?oc=5"
+          },
+          {
+            "title": "Nvidia (NVDA) Stock Drops Despite Q3 Results Showing Huge AI Earnings - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHNRcEVuR1ViVWpUY0p5RnIyekVpWDRTVUFLXzhLYnFDZ2tfeGctTGFkcENyRFliRXVRSktrc3hiTU01ZW9oY1dzaVJ2dzBNcTBxLWZienhFM0I0dVFDYXp3NTVjM3lZNGhxMXpuZUhuLXdUd1o0RTN2VVR0bzRDNnE0LXByUDJvWFl3VUFra1JDQXZmbV9FejNKdEI?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.38,
+        "weekAgoPrice": 1.4800000190734863,
+        "percentChange": -6.76,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.26,
+        "weekAgoPrice": 1.350000023841858,
+        "percentChange": -6.67,
+        "flagged": true,
+        "news": []
       },
       {
         "ticker": "5341.KL",

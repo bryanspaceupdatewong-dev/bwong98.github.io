@@ -1,109 +1,100 @@
 {
-  "generatedAt": "2026-11-19T00:15:49.058888Z",
+  "generatedAt": "2026-11-19T01:15:40.894932Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 508.29,
-      "weekAgoPrice": 521.1300048828125,
-      "percentChange": -2.46,
+      "weekAgoPrice": 533.1599731445312,
+      "percentChange": -4.66,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 150.96,
-      "weekAgoPrice": 173.72999572753906,
-      "percentChange": -13.11,
+      "weekAgoPrice": 168.88999938964844,
+      "percentChange": -10.62,
       "flagged": true,
       "news": [
         {
+          "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXdtR2s5Y3EzQXFqbmF5X1Q4X2ptUF82czA1RUd6WFNXNGNBd1RJTjhhU2hGU0RCX0EyeEF5TWlwQlhlckZfUmtMOG9ncU4zY2QyZXRPOC02aHBIMDlMd0ZZb3poeHlmNlJvRTAzUEJhQ1hGZE5wd0RzRDRRdU95MVp0MUVlZWxiRTFQRk90TnBrdG52MGZWMklsS1plUQ?oc=5"
+        },
+        {
+          "title": "After Nvidia\u2019s Earnings, Here\u2019s My Prediction for the Stock Price by the End of the Year - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXdmbmRvWVAtd3FqQjAtMXdoQXAtbG9lTm0zUVo3TWpYMGRaNlhxMTFrZGRjOGtsOGVuVVFLXy1QdlBMQTBmWEJ5VjJMVXV4b0Fmak1iSVpfQWVodUhOWmMtQlBSeGxtNkxGTUxIbHZPOXZLbHViN3ZuTXhRYU5kV0RpZTVJc2lTTWxPcGhzZzk0SkItT1I0SGdvWmhrTVQxa25kLW5n?oc=5"
+        },
+        {
           "title": "Nvidia (NVDA) Stock Drops Despite Q3 Results Showing Huge AI Earnings - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHNRcEVuR1ViVWpUY0p5RnIyekVpWDRTVUFLXzhLYnFDZ2tfeGctTGFkcENyRFliRXVRSktrc3hiTU01ZW9oY1dzaVJ2dzBNcTBxLWZienhFM0I0dVFDYXp3NTVjM3lZNGhxMXpuZUhuLXdUd1o0RTN2VVR0bzRDNnE0LXByUDJvWFl3VUFra1JDQXZmbV9FejNKdEI?oc=5"
-        },
-        {
-          "title": "Nvidia retreats as strong outlook fails to dispel uncertainty - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5"
-        },
-        {
-          "title": "Arm CEO Rene Haas Reportedly Approached By Recruitment Agency Hired By Nvidia Board - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1BodzZ1VXJQR29CYVg4TmVEVU1BZXRoMkczWUtvQnFmOE03clBub0x0OFBEcmtROUVfWkdDUUZPQ1dEck9VNmNBZmF1dDJBMjdyak5namlaek5YUlp5Sk44OU9jdHJzVml0bjNVQUo3SEFtYTFVMy1BVWFvT0lFZFlUTFhfbXhtUURiN3N3S3FhM1JTTW56Zg?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.5,
+      "currentPrice": 4.51,
       "weekAgoPrice": 4.53000020980835,
-      "percentChange": -0.66,
+      "percentChange": -0.44,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.63,
-      "weekAgoPrice": 7.539999961853027,
-      "percentChange": 1.19,
+      "currentPrice": 7.64,
+      "weekAgoPrice": 7.53000020980835,
+      "percentChange": 1.46,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
       "currentPrice": 1.21,
-      "weekAgoPrice": 1.2300000190734863,
-      "percentChange": -1.63,
+      "weekAgoPrice": 1.25,
+      "percentChange": -3.2,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
       "currentPrice": 1.38,
-      "weekAgoPrice": 1.5199999809265137,
-      "percentChange": -9.21,
+      "weekAgoPrice": 1.4800000190734863,
+      "percentChange": -6.76,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.42,
-      "weekAgoPrice": 1.4700000286102295,
-      "percentChange": -3.4,
+      "currentPrice": 1.44,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": -0.69,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.0,
-      "weekAgoPrice": 1.100000023841858,
-      "percentChange": -9.09,
-      "flagged": true,
+      "currentPrice": 1.01,
+      "weekAgoPrice": 1.0499999523162842,
+      "percentChange": -3.81,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.25,
-      "weekAgoPrice": 0.25,
-      "percentChange": 0.0,
+      "weekAgoPrice": 0.24500000476837158,
+      "percentChange": 2.04,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.25,
-      "weekAgoPrice": 1.340000033378601,
-      "percentChange": -6.72,
+      "currentPrice": 1.26,
+      "weekAgoPrice": 1.350000023841858,
+      "percentChange": -6.67,
       "flagged": true,
-      "news": [
-        {
-          "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
-        },
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5341.KL",
@@ -114,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 4
 }
