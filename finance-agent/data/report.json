@@ -1,53 +1,66 @@
 {
-  "generatedAt": "2026-11-20T00:16:39.148238Z",
+  "generatedAt": "2026-11-20T01:15:41.400610Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 498.3,
-      "weekAgoPrice": 523.0,
-      "percentChange": -4.72,
+      "weekAgoPrice": 521.1300048828125,
+      "percentChange": -4.38,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 145.98,
-      "weekAgoPrice": 166.19000244140625,
-      "percentChange": -12.16,
+      "weekAgoPrice": 173.72999572753906,
+      "percentChange": -15.97,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "1 Unstoppable Stock to Buy Before It Joins NVDA and AAPL in the $1 Trillion Club - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmxZUTZVZndtUFl3QkI1ZFdXV2tvWDBhNnlFR0hTZnVvMmFESl93X25RN3VUWGNiWkg0Zmc2TzEtSkVNM3N0bk14MmxBRkJ2MHBMNUQ5VjVkcmhtZmczekM3dko0ckhnb2xtNU5wc09MLUctekdxaElWU0VJZmw3Y1RYVnpBU0I5aU04WlN4Y0ZnLTBpZUFINFNB?oc=5"
+        },
+        {
+          "title": "1 Unstoppable Stock to Buy Before It Joins NVDA and AAPL in the $1 Trillion Club - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVYwUXVYXzJRbm5VcEtwTUZNakFrV1FpeTJQNWpDRDZVQjZZM3RYb0prOGxzNFVCajFqZTlIR3ZOWlQ3cnp3Yk5CVDNfUks3WU1kQ2VxOHkyQlAwUWQ0NG1hRjBpRU1wWkNwc1ZKaXExN2xFQlpwVzlSMjBFSGZMSHExR0NGbU5Na3BlR2VjRy1oRWY1dGNjUU9hQ05MM0F6SjBUM25UN1BXWktmOHdYMGM1REwxU0tGWGJpdGxTbw?oc=5"
+        },
+        {
+          "title": "AMD stock plunges after short-seller says the chip maker has its own China problems - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbW0tRzZBUlk0UFA3dmpTQ1Z5WFBrTy1LZ2d0dnd4bWRvSWRfeGgzbzc1ZDBYbkxTNXFKcThsRWZJMUNqdkNaTHhNbUxGNDJmYk53OFZ4SXZzSlptY0xrVXlRVjRqZnZQVjYzVjlOYXBGc0tkaHFaLWRrY21ybGFJUjE1YUtDR1Q3OVlGT2Jn?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.52,
-      "weekAgoPrice": 4.53000020980835,
-      "percentChange": -0.22,
+      "currentPrice": 4.48,
+      "weekAgoPrice": 4.539999961853027,
+      "percentChange": -1.32,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.65,
-      "weekAgoPrice": 7.53000020980835,
-      "percentChange": 1.59,
+      "currentPrice": 7.58,
+      "weekAgoPrice": 7.730000019073486,
+      "percentChange": -1.94,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.19,
-      "weekAgoPrice": 1.25,
-      "percentChange": -4.8,
+      "currentPrice": 1.18,
+      "weekAgoPrice": 1.2200000286102295,
+      "percentChange": -3.28,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.37,
-      "weekAgoPrice": 1.4800000190734863,
-      "percentChange": -7.43,
+      "currentPrice": 1.36,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": -6.21,
       "flagged": true,
       "news": []
     },
@@ -61,17 +74,17 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.02,
-      "weekAgoPrice": 1.0499999523162842,
-      "percentChange": -2.86,
+      "currentPrice": 1.01,
+      "weekAgoPrice": 1.0299999713897705,
+      "percentChange": -1.94,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.24,
-      "weekAgoPrice": 0.24500000476837158,
-      "percentChange": -2.04,
+      "weekAgoPrice": 0.25,
+      "percentChange": -4.0,
       "flagged": false,
       "news": []
     },
@@ -95,11 +108,11 @@
     {
       "ticker": "5341.KL",
       "currentPrice": 0.75,
-      "weekAgoPrice": 0.6949999928474426,
-      "percentChange": 7.91,
-      "flagged": true,
+      "weekAgoPrice": 0.7200000286102295,
+      "percentChange": 4.17,
+      "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 3
 }
