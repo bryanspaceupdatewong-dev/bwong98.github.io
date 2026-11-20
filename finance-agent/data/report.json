@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T01:15:41.400610Z",
+  "generatedAt": "2026-11-20T02:15:54.273225Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -34,25 +34,25 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.48,
+      "currentPrice": 4.49,
       "weekAgoPrice": 4.539999961853027,
-      "percentChange": -1.32,
+      "percentChange": -1.1,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.58,
+      "currentPrice": 7.66,
       "weekAgoPrice": 7.730000019073486,
-      "percentChange": -1.94,
+      "percentChange": -0.91,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.18,
+      "currentPrice": 1.17,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": -3.28,
+      "percentChange": -4.1,
       "flagged": false,
       "news": []
     },
@@ -66,9 +66,9 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.44,
+      "currentPrice": 1.41,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -0.69,
+      "percentChange": -2.76,
       "flagged": false,
       "news": []
     },
@@ -90,29 +90,20 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.28,
-      "weekAgoPrice": 1.350000023841858,
-      "percentChange": -5.19,
-      "flagged": true,
-      "news": [
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-        },
-        {
-          "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
-        }
-      ]
+      "currentPrice": 1.26,
+      "weekAgoPrice": 1.309999942779541,
+      "percentChange": -3.82,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.75,
+      "currentPrice": 0.74,
       "weekAgoPrice": 0.7200000286102295,
-      "percentChange": 4.17,
+      "percentChange": 2.78,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 2
 }
