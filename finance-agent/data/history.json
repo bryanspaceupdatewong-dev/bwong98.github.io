@@ -1,93 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-18T07:16:03.341334Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 506.24,
-        "weekAgoPrice": 533.1599731445312,
-        "percentChange": -5.05,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft: The Market Is Rewarding Financial Discipline, Not AI Monetization (NASDAQ:MSFT) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2ZkeWlmRWZsZm5KMDhVLVBTdWpZYllDS2lHcldmVDJEY3VqclR4aXp2dmRYQVB3NHVoRTV1SjBMUXdhVFlubnFnNHZTdjVFVlE0TS11aHE0cXR4U3JycHgzdFdYQmJWMGNUc3R1YjlKSlBtMkNhamZGWEJIeDdWX25oZHJ3dXVIaHpsUFBEczRPSXE5V3JEcU1xTHJ4NWhpU1dSSDlIajNBZ09id25WcXhkR1FMdw?oc=5"
-          },
-          {
-            "title": "Microsoft Stock Hits Seven-Week Low: Is a Bigger Drop Coming? - BeInCrypto",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MNUlzT3liQ3N6bGx5RjJsLU5mNk5LdUFCVE8tNk1HMzBCbVlZa0F3Rzg5S3VSZjF5UlVLN2xSYXFqbS1ZX0oyS3BsbUVKOVliTXEzYVRsZTk2ZFk3bFpOc1ZXNGk3ckUtTkc5RGF3?oc=5"
-          },
-          {
-            "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3NIZnJhRTlaT25EMWdOVUgwb3EzMHlaQmhVX2NvdmJwV3ctR3IwYlRvNW1ObmxpVldiYjR3elhBUE9OZ2E1Mm05ckpTcDJxLXRNbmNyLXNYaGJ2dXJaMmxKVVEwdWNCSGFDNzJqTGJzTTlrVGczZWVvQUJ6MHVsY2JJdEVabUgxM2hyV2VlVkpWUjFWNEFoYkJTNndXa0x2UFZ0QWhNbTU?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 155.46,
-        "weekAgoPrice": 168.88999938964844,
-        "percentChange": -7.95,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Jim Cramer Asked Nvidia\u2019s Interim CEO the Uncomfortable Question - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRkRQZVN1X0xfdkNtNkV2ekNsRlJoX2JRemtCa3dCd0NjU3Yxc1VxX2pLc1FqRnhHb24xS25kbXhIYkE1Nk1aOWE2SldKV3QwRlIzaTJzMndrX2x2SzR6enBtMC1pTGtwd2IwbzRWSkx0dklPV0FGcExCZFVfck5wOFdpM2Z0RDhfcDlPd2drNlpqT3pqNUl0dW1SQ28?oc=5"
-          },
-          {
-            "title": "Morning Bid: Jensen Huang's last hurrah, and a nervy future for Nvidia - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkhVeHlSOHlwY3dfOWVqSnVzNmhhcmtGWHk4SkdYQVlXSmxHdmtUVnBDMEpKbG5YQVpSVGJnbERVQUJPSElNbUh3Y3VTcURWQ2MyVlVKenZCRmtDVk9vcVlTSmJGbmdROVF6LUNORzd0UUI0TWo4M2JOSXFfRmlkZV9nYw?oc=5"
-          },
-          {
-            "title": "Colette Kress Just Delivered Excellent News for Nvidia Investors - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTm56RWFEcXV6NWdweUtlUDZLWkNzYUFUYnNlU244Mm1ObGd6dF90Z0lGOXRqeF9wY0lLb0l2OFVzY19ySVgtUERlVHNpZnF6RE16bFdwWkFCMWVMRGFTUmpxT09yUlJJekpsYkpXQ183aFM1SXlOT1ZUNjFIeUFhU3NlbkVUajA5RF8xa2ZNZmlabTlqTmNETGFHcFFCTmh6c1c3bmI0dERvdzg?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.38,
-        "weekAgoPrice": 1.5199999809265137,
-        "percentChange": -9.21,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.02,
-        "weekAgoPrice": 1.100000023841858,
-        "percentChange": -7.27,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.235,
-        "weekAgoPrice": 0.25,
-        "percentChange": -6.0,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.340000033378601,
-        "percentChange": -5.22,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6600000262260437,
-        "percentChange": 13.64,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-18T08:16:05.108156Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2862,6 +2774,41 @@
           {
             "title": "Why Did NVDA, NIO, ONDS Stocks Tumble To 52-Week Lows Today? - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMDVEX2ctNHNIVHJzWndjWVVuU29ndDBuU3ZLQXhVdmVacmxaMGVVcF9CWWRZYXBpYm1YT3JVRDRER3g2Vjl5a1JLb3J0RjByMm1ER2RjWGFLT0Y4R1N4MnNyYXhNVHJXcVpGc2F2anZ0UGtSTkN5RVhtd2VhT0txZW1kSkZiS2IxQWQ1a0RIOA?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -6.21,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-20T06:16:08.205185Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 145.98,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -12.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "\u2018Bright Red Flags\u2019: Nvidia Subpoenaed By California, Attorney General Also Probing Jensen Huang\u2019s \u2018Actions\u2019 - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUFBYc3pmY1Ntd0syclVxNzUxUXJaNlNzejdLanA3b1JOUGpjdHphTFR1cW5oMXY0czlvd2Y1d3FQZFBtREZ2NHZfMWYxcUVIQmljcjVGN0hWeVpxOHB5ZkFtMEFWeGJwalVad0I0WG9aWGdUUzMwMkxEbXBBekxDSDZBTkVHZEZLa0JjSHJSQUhfbzFMN0kyV3g0TjF6MXFH?oc=5"
+          },
+          {
+            "title": "Nvidia Just Raised Its Supply Commitments to $390 Billion, Mostly for Memory. Micron Is the Memory Stock I'd Buy. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcUxGZ2xYWjFVd1dyT0V3bkdPVHZ2U2gzUzZUUzRPd2RqRXcxemNKem9zbnplNGwzQWY4SENsdXF3dUlIMU9Dc185WmJXdmo3eVk2UzhLT2JPR3hwdUlpa3AzVE5hZEktR0lfY0xaVjZuZUVqamF0M0tDbmhTVVpjUHU1bXZnRzQtdXI2YWh2Zm1wRDlPSFpvRDJObTRUbnJ4ZGNDR3J5SmNoVC0zTmc1QXBfdTR1TExLNno3RXJ5eU8waVNCaDIwNnhkZWJrcHR6dExKemJVQmsxb0VCdEtBUUhqY2Q0STNrdVpr?oc=5"
+          },
+          {
+            "title": "Michael Burry Says He Tried to Warn Investors About AI Stocks - NVIDIA (NASDAQ:NVDA) - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXlyaHRBWXZSMS1ROFB2QTlCMEFnYXhZYkwyWFZlMUo3UWNSOWlCQnp4MnRJM25nRXIwZ2dnU2dIalZjUDFhOEF5RGtEcXdzNldEVmNVckUxdTJnbmdWb0VTMEJ4WDlKZW03QTAyemZDWWpYOXF5SDFhdEh5VkZ4YkozVGlzSWstVHBYZjk0Ym5sb3FpSFltZDhZTGJKYlFUYTVDUXBKV2J4ajZuMzI0QWpNUUxuc1RMaDNONUtFZjhhSmoxWkRn?oc=5"
           }
         ]
       },
