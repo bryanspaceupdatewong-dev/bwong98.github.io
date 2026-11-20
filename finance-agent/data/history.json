@@ -1,69 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-18T15:16:20.774494Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 155.29,
-        "weekAgoPrice": 173.72999572753906,
-        "percentChange": -10.61,
-        "flagged": true,
-        "news": [
-          {
-            "title": "A Strong Q3 Puts Nvidia (NVDA) Stock on Track for a Quick 194% Options Payout - Barchart.com",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmdOdllkSTFTeFF0OGlmamk3NmtHaWRUNVQxRlh1TEpvWWYyMFk1STI2Y0VWZTJfbHRZVFJ3NXZsbjRxNTBtWnhDNERMVjJTWWM4NS1wTGxiYXpaUHBuMXVLRjdoWTlCMXhULTRIMjFjYVc1LTlRNk03TVlISTdzZXlJcHhHczdUT0pZdkJMcWk1Q3ZkcTJ3Yjl5SVFPYmRTNVRLVWpNV3NmUWxLRjI1Ymx3Y1Z6alhMLVE?oc=5"
-          },
-          {
-            "title": "Dow falls 300 points as Nvidia earnings bounce fizzles: Live updates - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv0gF8QVVfeXFMT014TXpKZ2hKbVhJT0dVekl1Z2tCbjE3MnMtLWhMUG1DaUc3UUd0emE1R2xPd2pDZXMzVXhGbHFVRmdWRm1iRWJnejN6YjJJYlpDWkxJOVhDS3RuRGUyQkhHZ2wzSzJJdnVrNDVqcHQxb2ZXVkUwSVRJcjE4RA?oc=5"
-          },
-          {
-            "title": "Another short-seller announces a bet against Nvidia over possible ties to China - Business Insider",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN25iRzI3cHFHRlRxeTFIRDlCZlAzc0padkdqQ1dtRWQ1cXFyazRvTVdfSnBqZEN1MVdHM3RmWHVwZ0pkQzJscW15Q01nUUlqMlFYakhFLWxNdjFZTXNYRjR5Uk5DQk5IZzFtNlY1bm84cm01ZnBiNU9jSXZ0SkVWaWt3TV9XN0dlTE02N1ZINnRyNWQzVVppMEtB?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.38,
-        "weekAgoPrice": 1.5199999809265137,
-        "percentChange": -9.21,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.0,
-        "weekAgoPrice": 1.100000023841858,
-        "percentChange": -9.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.340000033378601,
-        "percentChange": -6.72,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6600000262260437,
-        "percentChange": 13.64,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-18T16:15:43.960656Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2497,6 +2433,41 @@
           {
             "title": "3 Warren Buffett Rules That Make Nvidia Stock a Buy at Today's Price - The Globe and Mail",
             "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZFM3U3FXRUl4Qy1JNEtfZEl3aVRKRjJHTU5GdlRyOEVlTHljR25hOEF4MnNVWGlOdzhhLXNoVlA3X3FJNUlZTG1pSXExSk1aSWdQUDBCaHloQ2ZHTmZ3UEFlU3NoU0E4WEcwbmdZS3NVS0RnYk9Sb0pOeU42bXB2SVI5RndfZE5SVUlmOGY0TW5aRlBJYm5uNHY3WEhNTXVjbk1JTmJZS1ZaZ1h3YnZ5U01maVlnUDhMNTBwX0QtSTI5YU1lXzRGcVY0ZTVjV2lUR0w4RXVUOVZXZXd4U3hQcHFHNlA1bDNiNzEw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -6.21,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-20T13:27:28.188376Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 145.98,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -12.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Will Jensen Huang\u2019s Exit Break NVDA Stock\u2019s Momentum? - Forbes",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXc1V2dRWWRnVm9FOHNUVG5YMFpGUnJoZGd3ZHJYcExEU0ltcGh0NDlBMmhhZzBabTVNSTIxZmFGb0d5TVBsUmZadUZfc0xmZDc2NjJlQ19JNWJaRTJaSjZMSHJsMFo4Mnk0ZmtWZHN6LThQOUJjcGVJLUZiR3EtUkZLMmhfbTBGcXo2ajh1OEtldFdXbW1KcFk1Q01hTFRfQllxaGwtb055UFlQaGc?oc=5"
+          },
+          {
+            "title": "The Stock Market Has Problems Even Anthropic Can\u2019t Solve - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFE2Zl8xYVVyMlFBdWR2OUlsV3htU0htTlRGQVg3N2NVQkg5aGF3NG9DZ0pQUi1zeVowVUJPbG5Ib3lfazRUeFNhdEwxc0dlT1B3a3JaZWd1cjRLRWxKMTNtWldpOXVBWHRyaVAzcm94el9pY05lNVVQWnRmVFNSeQ?oc=5"
+          },
+          {
+            "title": "Nasdaq Futures Slide, Anthropic Shares Reverse IPO Gains \u2014 LITE, IREN, SNDK, NVDA In Focus - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVl3Mk1wX0tMYnc3QjVEbjRXREhGdHF6ejNzTmgzQkhaS1U0RWhoaVdCeUh6aWNEREpUU3FuVzR6Rl9Ga0JWaUlodzlSZW5odjZXUTk4VkFLT0pLdGtLZHZra1JLblNDek5FM2FTZGVqd3pmNXNnMWJhYzRfY21iM1BlS1dtek16enFxdk5sZHUxN3pLSlpEMFFENTkxdlVvZE14bw?oc=5"
           }
         ]
       },
