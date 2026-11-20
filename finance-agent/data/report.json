@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-20T16:15:54.891172Z",
+  "generatedAt": "2026-11-20T17:16:13.619858Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 493.795,
+      "currentPrice": 489.03,
       "weekAgoPrice": 523.8800048828125,
-      "percentChange": -5.74,
+      "percentChange": -6.65,
       "flagged": true,
       "news": [
         {
@@ -26,24 +26,11 @@
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 137.71,
+      "currentPrice": 135.44,
       "weekAgoPrice": 162.85000610351562,
-      "percentChange": -15.44,
+      "percentChange": -16.83,
       "flagged": true,
-      "news": [
-        {
-          "title": "Nvidia Falls Behind Alphabet, Loses $2.3 Trillion In Market Value Since October Peak - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDZibUVMWTBIU2NHbTVKdTBWR2F2VXoxM0RTTmJTR01TMTg4a3NHOHNMRTN0cjlOOWFNaXpoUE1GV0lRdTZIOFZ6bXlqQWRvZXpVYlRCUHhvZzRhTlljTG5TNFpMWEk5T3psYXhPN2RsZkEyMXY5OW01UDJqRUxsT24yNUZmeTFYMktLUTBwV3lkb3JLLWdHNXExYkNqWWVl?oc=5"
-        },
-        {
-          "title": "The Stock Market Has Problems Even Anthropic Can\u2019t Solve - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFE2Zl8xYVVyMlFBdWR2OUlsV3htU0htTlRGQVg3N2NVQkg5aGF3NG9DZ0pQUi1zeVowVUJPbG5Ib3lfazRUeFNhdEwxc0dlT1B3a3JaZWd1cjRLRWxKMTNtWldpOXVBWHRyaVAzcm94el9pY05lNVVQWnRmVFNSeQ?oc=5"
-        },
-        {
-          "title": "NVIDIA faces California subpoena over China chip sales probe - Fox Business",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oUjNzY3pkOEVYd0VVSXN4eV9KR0g2VmppbS12ZDdqNWx4NHFOSEFCV3Z4Mk83NFFkaFJ5LXpPMnR6VlU2bkE5SGU2ZWFZQmJSRHprTVBZd3lqb28?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "1295.KL",

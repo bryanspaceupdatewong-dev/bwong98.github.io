@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-18T19:15:56.601631Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 151.81,
-        "weekAgoPrice": 173.72999572753906,
-        "percentChange": -12.62,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stock Market Today: Dow Drops As Nvidia Probe Deepens; Fed Minutes Loom (Live Coverage) - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXBraTU4T2FpajlyR1NvUy10anpSNi0weU02QkhIbU01NGVsNHc0dU9ENHVaaTlWblBSMHdFWXR0WmFCdFpCS2YzRlR1YzgtOE1BUUw0Mlo2c3p4RjVDcDE3bm5uYUNxdHY4SnlfbnlLMWVrTk1MWUY2bzAxUVhsMTc0dHBHQXZDWUxMRDZLRk0tcGE3aVFsVEN2d2RMTUJ1MUt3R3J4akcyTzlqelBIX2F6MHVNeVFsMWktSFM1T1RXM2ozQkpJekMta00xZw?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Is One of the Best Deals on Offer With 1 Big Catch - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9td0NBTERZZTlYUl9Wb1VQcURvejRzNk41ZGk3bWdNU1ktQmdHNEFaUWV3WlNiWEFINUNqMTZTQTdHWjNmLU1uYlBhTlhDbzRNZFg4bll6YjFqZjdDeld2b2tEVFR5YlZEREw5OHUzS0hrYmlTVUE?oc=5"
-          },
-          {
-            "title": "Why Do Nvidia's Customers Owe It $81 Billion? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWpwY2FBYWdmLWJJd3FJN3lRUjBlVzlWWm9fTXdwdTJpZkZzN3hEaHFjRjA1OElHcUVFZmpQTi1ZZnZvamNXaWtZbkNOQnRzSFlRS1U5MXBHbFhZek9QbUhRVG93TDlObVBLSTYzZGRIWHltbHVpSWFGZEd4ZWl0NmJCcFBKQURUZGtOWUFmQjN0V0pXTmZZbw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.38,
-        "weekAgoPrice": 1.5299999713897705,
-        "percentChange": -9.8,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.0,
-        "weekAgoPrice": 1.1200000047683716,
-        "percentChange": -10.71,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6399999856948853,
-        "percentChange": 17.19,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-18T20:16:15.669702Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2443,6 +2392,82 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oUjNzY3pkOEVYd0VVSXN4eV9KR0g2VmppbS12ZDdqNWx4NHFOSEFCV3Z4Mk83NFFkaFJ5LXpPMnR6VlU2bkE5SGU2ZWFZQmJSRHprTVBZd3lqb28?oc=5"
           }
         ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.16,
+        "weekAgoPrice": 1.25,
+        "percentChange": -7.2,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.4800000190734863,
+        "percentChange": -8.11,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 0.995,
+        "weekAgoPrice": 1.0499999523162842,
+        "percentChange": -5.24,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.25,
+        "weekAgoPrice": 1.350000023841858,
+        "percentChange": -7.41,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+          },
+          {
+            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-20T17:16:13.619858Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 489.03,
+        "weekAgoPrice": 523.8800048828125,
+        "percentChange": -6.65,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Why Microsoft\u2019s Full-Stack AI Strategy Could Pay Off: Analyst - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDhVY3hHTl9PRlkzeW10VmFRSTJpZFNic0V4V1d1a2xlcVFRS1pWNVl6MzRCb2VxVTVRX3hhZUQ5dmZKVkszcEt3S2stWHVCakxiUE5kcGR2RVFBOGRNRG9yZXJWLTlDOXg2U05QcEdLTlYxUWlCSDB3djhlcXZaVG9XZ3ZQSm9fazU3NFBuSklvU01BQUxOazgxZkg3bllMV0xlUHBLT0dIbFlkMU1aRWt3?oc=5"
+          },
+          {
+            "title": "Microsoft\u2019s Outages Barely Dent The Buy Case, But Watch The Move To Usage Billing (MSFT) - Seeking Alpha",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTVZXaDZKRXpXWWtxZW9FeE80dHpGM1NfT2pwTW1YYmZxazgycGNDREZhQTdLT01OeUpDMGZqRTFiZEVaMkViOE1JUjU0MVVlWVQ0d3NnWDk0TzFPSkk4aU0xVGJrMFV5N2pLWGJHd25fVnNwekJwTDdBTGllMGxyN1oxVGVVQmJ2Z3JhSG1obmdDV0ZpVW1WVXZNOW1nZ2xNSndUQ0Zva3QzYWpXUlpQYWs2RmQxbXVUWXJiQQ?oc=5"
+          },
+          {
+            "title": "New Buy Rating for Microsoft (MSFT), the Technology Giant - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcllITFdRQy1wY0NxVWxIXzQxdUczaDdXeDdyU1NwcWQzdzB4LTlUajhjUS1HQVhZM29Dek1mVGlpczUwZXZYY1F2dVB4aFZMN0lHV2FoWERYRVdmakRWMlI1Q1VvV1BvTWJTODFzc3F2aHNzY0Y1U1Z1MjZfeE1LZlU2d3R6YVcxRXhoeFlLcEwtdzlQOTZUdzNjbHBKT1BiYy1mSzZBc2NtOUN0dzctQTkwYXoxTFk3UklOT1lKRkdWMTVIVDN5OVE4ZnlxN2ZvdmZXemV3?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 135.44,
+        "weekAgoPrice": 162.85000610351562,
+        "percentChange": -16.83,
+        "flagged": true,
+        "news": []
       },
       {
         "ticker": "4715.KL",
