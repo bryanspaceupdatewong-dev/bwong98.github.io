@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-20T02:15:54.273225Z",
+  "generatedAt": "2026-11-20T03:15:44.901980Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 498.3,
-      "weekAgoPrice": 521.1300048828125,
-      "percentChange": -4.38,
+      "weekAgoPrice": 523.0,
+      "percentChange": -4.72,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
       "currentPrice": 145.98,
-      "weekAgoPrice": 173.72999572753906,
-      "percentChange": -15.97,
+      "weekAgoPrice": 166.19000244140625,
+      "percentChange": -12.16,
       "flagged": true,
       "news": [
         {
@@ -34,26 +34,26 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.49,
+      "currentPrice": 4.5,
       "weekAgoPrice": 4.539999961853027,
-      "percentChange": -1.1,
+      "percentChange": -0.88,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.66,
+      "currentPrice": 7.67,
       "weekAgoPrice": 7.730000019073486,
-      "percentChange": -0.91,
+      "percentChange": -0.78,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.17,
+      "currentPrice": 1.15,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": -4.1,
-      "flagged": false,
+      "percentChange": -5.74,
+      "flagged": true,
       "news": []
     },
     {
@@ -74,9 +74,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.01,
+      "currentPrice": 1.02,
       "weekAgoPrice": 1.0299999713897705,
-      "percentChange": -1.94,
+      "percentChange": -0.97,
       "flagged": false,
       "news": []
     },
@@ -90,9 +90,9 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.26,
+      "currentPrice": 1.27,
       "weekAgoPrice": 1.309999942779541,
-      "percentChange": -3.82,
+      "percentChange": -3.05,
       "flagged": false,
       "news": []
     },
@@ -105,5 +105,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 3
 }
