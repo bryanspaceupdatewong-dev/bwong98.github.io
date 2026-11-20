@@ -1,56 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-18T16:15:43.960656Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 152.665,
-        "weekAgoPrice": 173.72999572753906,
-        "percentChange": -12.13,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Tech Stocks Fail to Benefit From Nvidia Earnings - WSJ",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5"
-          },
-          {
-            "title": "Bill Ackman Lays Out How Nvidia Shareholders Could Bring Jensen Huang Back as CEO - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnNZaTVKUVpUMUVjSjIzc3kxblpsSERMY2dtZVNoTlpWWjFYcEVZbWw4Sng3QkxKZnNsNzVyZjB0TkxJVndKR1VuYXFaYXpHd1Zid2JiUkp2VEEycUhKMVRjcVExd2NwR0tfWlVrdGR6QlBfWEhpVG5JcFJBdF9yOGRJQWllUVpPbWFJNGJpT1EwRk1Wamp6SU5IZTRVczRySTBF?oc=5"
-          },
-          {
-            "title": "How Nvidia\u2019s (NVDA) Planned $10 Billion Anthropic Investment Deepens Its AI Ties - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUl9HZ01GLXRSczBheFExZ2ZUbThOcnBQUGJvUjFBRmJvLTcyTXliWExFQzRsQlBmeE4yNWR0dExrZ3pOT25DaHprWERqQkxZOFlETnU2cnNQalNFaVNvT0VIR212ZXh3WVViV21oNFhhaVNvRTBfel9vR3FVd2xhQklCSE9GTmEwR2xKbjE5a2hXdEp4WGJkTl9n?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.38,
-        "weekAgoPrice": 1.5299999713897705,
-        "percentChange": -9.8,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.0,
-        "weekAgoPrice": 1.1200000047683716,
-        "percentChange": -10.71,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6399999856948853,
-        "percentChange": 17.19,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-18T17:15:46.061759Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2468,6 +2417,41 @@
           {
             "title": "Nasdaq Futures Slide, Anthropic Shares Reverse IPO Gains \u2014 LITE, IREN, SNDK, NVDA In Focus - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVl3Mk1wX0tMYnc3QjVEbjRXREhGdHF6ejNzTmgzQkhaS1U0RWhoaVdCeUh6aWNEREpUU3FuVzR6Rl9Ga0JWaUlodzlSZW5odjZXUTk4VkFLT0pLdGtLZHZra1JLblNDek5FM2FTZGVqd3pmNXNnMWJhYzRfY21iM1BlS1dtek16enFxdk5sZHUxN3pLSlpEMFFENTkxdlVvZE14bw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -6.21,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-20T14:16:10.753471Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 145.98,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -12.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHB0U3N0WnlCMjZCUFZ3QlNZSEhXZnVVbUdMSElkZTJ3TkszdTFxQnlpMkpZV05ZajNXM0VJYXlDM293OEdkUWl4RHVTZXRvSG1rQnJMWVJrMEp3a00zSm9VbTF6eHByZmpwNGMxcFlEQ3ZFSDQwU0FpNHlzV2xDRndWMnVzdDUzbkdDamxKX2FZeWNBbTJBamg2SVFwamZWdEh1elZ3?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Falls 40% From Its High. Why There\u2019s Hope. - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5INVNuU2E4Z3Bsa0FYa0RqbHNYM3ZlS1lZV3BlODA2Q2F2ejlxMllHQnl2YzhmMm5IeW5RdU9tUzhGUUdlVTJtMUozbkJYZGZOMFpnMmRaWWxpRDY0OVF3a1JiTVBrZmNWMkJsTVotRERzWUZvQVNV?oc=5"
+          },
+          {
+            "title": "Prediction: Nvidia Will Hit a New All-Time High in 2027 (Hint: Watch This Metric) - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQVpsY2dCd1RhaWNHTUN5Z1didS1sZEtPWEh5RkNZVXpTdDdDYTN2MmxqZHpiLTdkWFhERmFFekN0SS1xd0U3aFBqUWFGTmoxX0ZPWlc0aS1uQ2dScUM4ZHdpS3o4T09uVW5kZHhFVFBkbTQ2a3JybC0yOXFJSE5UOWlKQ29nSEtvY1lMVXBqOTNhN3hvZ1dWQTI2amQzR2JKUlBud2FqeGUwMUU3dWtxNjgydTlYdUotUU9JRA?oc=5"
           }
         ]
       },
