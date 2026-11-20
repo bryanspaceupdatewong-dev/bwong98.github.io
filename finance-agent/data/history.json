@@ -1,90 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-18T11:16:23.805354Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 506.24,
-        "weekAgoPrice": 533.1599731445312,
-        "percentChange": -5.05,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Why Did Software Fears Push Microsoft (NASDAQ:MSFT) Under USD 500 and Leave the Stock Down 2.27%? - Kalkine",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWnZaVUZFa3FJV01lNTNZcldmZ2FXUktoVkV0STBXZmIyUUpYcWt3X25HR0ZoUk5jNGZpSTg4SnI5R0pEQWlrSlNRX1g3TjM1WktYa09ydnpRdEZEOEtiSDNtOXJ0YUpjTWZpVHlzOGxRejVESUVSclRxZVdUcGNWcU50QndVVUw3WFducFdJVHkySVNraEg4azVTZGxaN2pMSVdCZnJuQXNKUDZLTWFpaE44aHRwWXQxRUROdGpyWU5MSDV6ZHRaR2xn?oc=5"
-          },
-          {
-            "title": "What Explains Fresh Outlook Complaints Against Microsoft (NASDAQ:MSFT) Days After Its Outage? - Kalkine",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcl93QnhkdVNsRENmaGhWYWN3RFotRHJWUWFnalZWV3ZSNzlvYi1CcHVJN29iSDVWdldvUVg4UzRlampCYXFVTGxGWE9ZTm02Z0ViQ0lMVUFQZU5kMnk5NDh4ZmNWc2FCVURydGlVa3M2TWxGN2FnX2xqVkFjMEYxVHJTVHF2d3NnTmM2NVB1bHpZaGtCS3c5WklyMnI1N0VRTmh0NHFzcE40NF9xTE9DT3RKS2R6Vm10YVJFeFVvenJ6NFZXQ1l3?oc=5"
-          },
-          {
-            "title": "Microsoft (MSFT) Stock Price Prediction: Earnings strength meets a technically heavy pullback - Blockchain News",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbFNheWdZMzB4SGdqU3JyTVZfZE9razdGdWhfVFlmaUVieHRvZmJJeUNGZWY1V3k4WllvVll6MHRZcGRZRTBFUDdlN0cybXRiZ2FmVGYtSXZSY1ozUlNCSnhINEJVcDBEdTdhcTNybVRzdEF5SjVPeFZwLUo3VmpCMk5jVnZpeFBLai15aEd2MjljMTFuaWlVOUlqb1ZuemVmQTBQWlJn?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 155.46,
-        "weekAgoPrice": 168.88999938964844,
-        "percentChange": -7.95,
-        "flagged": true,
-        "news": [
-          {
-            "title": "3 numbers explains why Nvidia stock is rising despite no Jensen Huang on the earnings call - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNTZwdUdDSDBpNmVCdFJEWDVXTUJRall1Y2Z5NHpheF9QUm9jaFloU2xmVWZBenBwQm9XZHJ1LXhlaWlnRW0zQ0ppVTVTVHAxYnRSZnoxNUxpXzJ0QmpwTFVDYW9HdDFMb241Z3VTTmJSRDJHZDhLZWhxY3Bxb2s0RDBXRHA0cTN1SW15dmd4YVpGaTB4UkRxTEVMUVBYb3JDLTdqbHhYZDl5UEZlMjhLeXNXWlhsMmNfc1NYOHlkc0FXV256V1U4VVRMVV90b0J1X3Y4bm42c2FfV3haaFY5bUVTUWxjR2xyb2c?oc=5"
-          },
-          {
-            "title": "Futures Climb As Nvidia Earnings Boost AI Trade \u2014 BABA, INTC, ASTS, CAPR In Focus - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1paem5zZWJDaS1aRVRCN1lMa21oTEozZEVDS3o2MERDbTRuWG5HcmlaSXhqNnA1a0FzRzNUcHZyc085N0RKcmZZdkhWN09GZmZ3WUs1cVZhSG00ZEFSanlpMTEtUl9Ib1BRb1d4UE1kQUFhaXV6d3ZmeFFiNS1tam1yNUxEYWdJbkI4bEMxVm9jOGRIM1BRY3AyVVdEcGlIYXc?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Is One of the Best Deals on Offer With 1 Big Catch - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9td0NBTERZZTlYUl9Wb1VQcURvejRzNk41ZGk3bWdNU1ktQmdHNEFaUWV3WlNiWEFINUNqMTZTQTdHWjNmLU1uYlBhTlhDbzRNZFg4bll6YjFqZjdDeld2b2tEVFR5YlZEREw5OHUzS0hrYmlTVUE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.38,
-        "weekAgoPrice": 1.5199999809265137,
-        "percentChange": -9.21,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.0,
-        "weekAgoPrice": 1.100000023841858,
-        "percentChange": -9.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.340000033378601,
-        "percentChange": -6.72,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6600000262260437,
-        "percentChange": 13.64,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-18T12:16:04.224079Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2684,6 +2599,41 @@
           {
             "title": "Nvidia Just Raised Its Supply Commitments to $390 Billion, Mostly for Memory. Micron Is the Memory Stock I'd Buy. - The Motley Fool",
             "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcUxGZ2xYWjFVd1dyT0V3bkdPVHZ2U2gzUzZUUzRPd2RqRXcxemNKem9zbnplNGwzQWY4SENsdXF3dUlIMU9Dc185WmJXdmo3eVk2UzhLT2JPR3hwdUlpa3AzVE5hZEktR0lfY0xaVjZuZUVqamF0M0tDbmhTVVpjUHU1bXZnRzQtdXI2YWh2Zm1wRDlPSFpvRDJObTRUbnJ4ZGNDR3J5SmNoVC0zTmc1QXBfdTR1TExLNno3RXJ5eU8waVNCaDIwNnhkZWJrcHR6dExKemJVQmsxb0VCdEtBUUhqY2Q0STNrdVpr?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -6.21,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-20T10:16:12.044092Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 145.98,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -12.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Is Nvidia\u2019s $81 Billion Receivables Pile A Risk? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNjB2WnFHZDJQU1VUaTg4TUhYQmhYWnFqdVJ1ZF9yYTd2WjlWbVB4OW1HRjlGYnoxaUpIaDlQYzFfWXRNMGNzcXlIT0RvWDVzajJoSVRDNTE3eFotSWczRmFoRmI3UUF5cG9nSkFJT1VBcFJqX0wzZG1fZnRyV2tQMjlRdTdFRTM4bmd3cUVlM2NSSVFoa0I1SE8tR3g5bUtNMXA0Y2tqQmEzZnM?oc=5"
+          },
+          {
+            "title": "Should You Sell Nvidia Stock For A Tax Loss? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRG9yYjBGWVVIVkxDcVhwLVFfU2p0dHQ1anBjckVnSUs0dEFHcnNyQzlyTnJqQTNfcWsyOENqSVlTbTF2Y2ZPZkJESUFnRGI5TUVZMEtnRmZXZ3BSUy1maEhmX0lzOHpnTXFiNkR3WXN2eUZnc2pfNGJHa3h0Y2xCNWxjZC01b3MwTXNGaDAyQmFhLW80ODdxWnNuWThRWlNKVXNpRW9GYw?oc=5"
+          },
+          {
+            "title": "Nvidia Has Lost More Than the Market Value of 495 S&P 500 Companies in 6 Weeks -- and Its Downtrend May Be Just Beginning - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLXluMnZ0UDNwUHIyNTVDTGw5cGszYkQtZmlBSE1FcXFLZ3JaLV9WdFZDZ1k0UTZNT0dEd1NOUUlyWFFSNVZxWkVzdEJiUEtxQWtxZjlXSkY5bjgwclMzdGFFb000aWNPOVpiT2hTSDIxWnNGbmo2QkZnSzQxdWRZVDRyVDQwX19XSWFiOW0xbUwtLUJRdkpZZlhOeXMwM09SU0U5V091bUhQQzFwOEtCU1VPRU92Qmd0M2xJYVVLUEhpWFpV?oc=5"
           }
         ]
       },
