@@ -1,77 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-18T06:15:51.254932Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 506.24,
-        "weekAgoPrice": 533.1599731445312,
-        "percentChange": -5.05,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 155.46,
-        "weekAgoPrice": 168.88999938964844,
-        "percentChange": -7.95,
-        "flagged": true,
-        "news": [
-          {
-            "title": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1hUb0ZMNTdVdlRaU3NVMXlUODNRZmhzZjVNRFVocktEWXJ4ZkF5eTVmVXBQcXRMOWFpdHZMQ2hxeUE1OER5TkpmRTlLV0JBdGV5RWVDVTl2TWtZamNmMXBTV2Y4eTVXdFpBdmZNSlFtZklNQnBLWHNDU251eElyd191OGs4ajktX2NvRVpNQ1M1cDNEU0ZzYnpWMmpnQ1E1d3NuUzhMSXZfdEowVWN6QWZldW0?oc=5"
-          },
-          {
-            "title": "Michael Burry Passed On Nvidia Calls Before Earnings \u2014 Here\u2019s What Caught His Eye At Alibaba, Netflix And JD - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWEx3ZUwwVzNVYnhXUjNNdC02WWdnNElUcklFa3ZsNnZGTmZrZkVMeWcwQXdTaW5GdFp0VTlIVUpYb2IwWmRKMjFpQTJqVmNZRVdUdnFlQ28zQzloUW9xTjFxcUhsb2pfU1pKMExHYTRJYldwdkRvUzZfR1ZIa19oNk42RDlMdVppNjliclc1LWZNSF83YWptNXI3Rzl0dzQ?oc=5"
-          },
-          {
-            "title": "\u2018Not the Nvidia I Know\u2019: Jim Cramer Questions Employee Morale; Colette Kress Has \u2018High Confidence\u2019 Staff Still \u2018Enjoy\u2019 Their Work - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQTBjaGJrNGxnN09WVTVFV3BJTTRuUExMalBnUzhwWkpSSkxKbkhZeF96Y2lqSXJFbGlxb25wTmczOWlaZTRaVDY3Z0NuNjVyRUl3QlRRMDlUWmhjalFFRzJEMzJPdlI4OGtIQlpCaGk3Q2VTaFlETkN5TWFvNUVQaEJtTDd4MXF3Yk1Ea2JkSmpTQy1iWXc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.37,
-        "weekAgoPrice": 1.5199999809265137,
-        "percentChange": -9.87,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.03,
-        "weekAgoPrice": 1.100000023841858,
-        "percentChange": -6.36,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.27,
-        "weekAgoPrice": 1.340000033378601,
-        "percentChange": -5.22,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.755,
-        "weekAgoPrice": 0.6600000262260437,
-        "percentChange": 14.39,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-18T07:16:03.341334Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2909,6 +2837,41 @@
             "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
           }
         ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-20T05:16:17.569493Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 145.98,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -12.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVDA Stock Down 40% From October Peak Amid China Spying Crisis: California Begins Probe Into Chip Sales - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcGFEcVVtVlZRa1Ztb2lLeXpXcXJsdXF3VW80WnQ4bWQ5bW9aWFhGZXgySGV2enlZMlFCdHJXV1MwVW5QQUNlNEdKTDU4dXBsU2l0MTk3VkRwcU5mbmctRkt0NU5GS2tvSDRxTF9WUlYxNTR5TXN3ZVEzVjVQcmxJcFRoZlQ3Q2VrVnJqaUdGX3pqczYtTnc?oc=5"
+          },
+          {
+            "title": "Nvidia Just Raised Its Supply Commitments to $390 Billion, Mostly for Memory. Micron Is the Memory Stock I'd Buy. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcUxGZ2xYWjFVd1dyT0V3bkdPVHZ2U2gzUzZUUzRPd2RqRXcxemNKem9zbnplNGwzQWY4SENsdXF3dUlIMU9Dc185WmJXdmo3eVk2UzhLT2JPR3hwdUlpa3AzVE5hZEktR0lfY0xaVjZuZUVqamF0M0tDbmhTVVpjUHU1bXZnRzQtdXI2YWh2Zm1wRDlPSFpvRDJObTRUbnJ4ZGNDR3J5SmNoVC0zTmc1QXBfdTR1TExLNno3RXJ5eU8waVNCaDIwNnhkZWJrcHR6dExKemJVQmsxb0VCdEtBUUhqY2Q0STNrdVpr?oc=5"
+          },
+          {
+            "title": "Why Did NVDA, NIO, ONDS Stocks Tumble To 52-Week Lows Today? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMDVEX2ctNHNIVHJzWndjWVVuU29ndDBuU3ZLQXhVdmVacmxaMGVVcF9CWWRZYXBpYm1YT3JVRDRER3g2Vjl5a1JLb3J0RjByMm1ER2RjWGFLT0Y4R1N4MnNyYXhNVHJXcVpGc2F2anZ0UGtSTkN5RVhtd2VhT0txZW1kSkZiS2IxQWQ1a0RIOA?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -6.21,
+        "flagged": true,
+        "news": []
       }
     ]
   }
