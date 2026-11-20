@@ -1,73 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-18T23:16:11.173546Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 150.96,
-        "weekAgoPrice": 173.72999572753906,
-        "percentChange": -13.11,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stock market today: Anthropic IPO in spotlight, Nvidia stock extends decline - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUXF4elZiRmtpU0hWaElPNjVGbHBuMkxPaDJCSzlMREtmUWs5dThVN3RCRUJWR2R6dEhGaGtibWY5bnRrMFpnRVRlb2hEazc0ekVOQjBVMkY4RVQ1U1pMYWNYdFdKQTN5a2tRM0hfeGVTNXJVeW1talprVGRjRllJZ0xxQzVtV09ZZmpDcGZIU3U3X2VZMXZCcWZDYXBGY2FrUkY1NXlwblRTamJpeHA4Rl9yOUJ6RlU2QkZXSm1PV2dBRF9vSjd5eTBjRTZmLUFBdlpCclVya2Zfdw?oc=5"
-          },
-          {
-            "title": "Arm CEO Rene Haas Reportedly Approached By Recruitment Agency Hired By Nvidia Board - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1BodzZ1VXJQR29CYVg4TmVEVU1BZXRoMkczWUtvQnFmOE03clBub0x0OFBEcmtROUVfWkdDUUZPQ1dEck9VNmNBZmF1dDJBMjdyak5namlaek5YUlp5Sk44OU9jdHJzVml0bjNVQUo3SEFtYTFVMy1BVWFvT0lFZFlUTFhfbXhtUURiN3N3S3FhM1JTTW56Zg?oc=5"
-          },
-          {
-            "title": "Inside Nvidia's all-hands meeting, executives confront the elephant in the room: Jensen Huang - Business Insider",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1k3SzVCTXpPMDZWMWNqMTRjTWxYSUxoSW9SY0dheENNanZ5c0pPdzQ3Q1NQVGFHMXd5ZkZ0aVBsM2ViX1gzcVZWQmNNTnJQREhJS3BzSGlCYk1WellXeVMyZDJGSDc1bjBEWXBOTlY3Ql90ZGFndHZsZkNOdnVRUVRzd0w5c200UG5rQXppUmJiZVNVSkVIc3pwX3pVSHA4R21KSVJn?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.38,
-        "weekAgoPrice": 1.5199999809265137,
-        "percentChange": -9.21,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.0,
-        "weekAgoPrice": 1.100000023841858,
-        "percentChange": -9.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.340000033378601,
-        "percentChange": -6.72,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
-          },
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6600000262260437,
-        "percentChange": 13.64,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-19T00:15:49.058888Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2576,6 +2508,95 @@
           {
             "title": "Nvidia: Strong Buy Despite A Leadership Crisis (NASDAQ:NVDA) - Seeking Alpha",
             "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkZSSzdxNmJZUDRDUlVpZlUzQmRZOGtPUGxFeWU5cHJTbVdSNEprVF9iWkZaQ1hwSzdIVXcwWEwzNzhmc3NENi1sMmwzb09jdEkyVFhmb3plZEJMQkpFcUV2azF6UkY5ZmxtdjFxVmU3NjlfQUU5V3FIVjJjV3piM0lEN0d4X2RaOEZqWExjMA?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.16,
+        "weekAgoPrice": 1.25,
+        "percentChange": -7.2,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.4800000190734863,
+        "percentChange": -8.11,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 0.995,
+        "weekAgoPrice": 1.0499999523162842,
+        "percentChange": -5.24,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.25,
+        "weekAgoPrice": 1.350000023841858,
+        "percentChange": -7.41,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+          },
+          {
+            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-20T21:16:30.926979Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 484.52,
+        "weekAgoPrice": 523.8800048828125,
+        "percentChange": -7.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AMD Is Down 26% and Intel Is Down 42%. Which AI Stock Is Worth Buying on the Dip? - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYmJ0bUJaYmVVNnNYSDR0Mi1YSzlQd0NfY29odThtVFgtZ3h3SmpEZzl1QjItSUhvT243d0xuWUdoQTQ3VWhLMzI1ZnVXZWExMWU0Rkp1Z2FZTFdYM2NMVkVWMzFxTi1GV1Qza0MtYkdXd2o5VGFMc2RuZnhQaW9HYjlhQnNpQWxhYVR1dHFlZnVaVWdDaDhHQjIxalZMUHBidnJBT1B3T0VPSVlJc2xSU01BM0dPdlhVSlZaVUFyOFpRRUM5ZzVndjZ3QWVlazl3OGdNdWJsdzJBZnpZVmM3amJhWUpEaWJmNlQ3RWJPT3lwT0p3a0hv?oc=5"
+          },
+          {
+            "title": "How Microsoft\u2019s (MSFT) Valuation Crashed From 75x to 10x \u2013 Even as Earnings Kept Growing - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdmtjd3Z4UGFpS2c5OUNDX3FkMlFzNGo1WVROYThDcmVIZlRjRXBmbGluTmlrNERVNTRqYXk3UHpXZUxLM0lmUGttbV9rQVpKR3YyUnFMcXo0RV9iam9IRzFnTTk3cTV6dC12a2FDZmoyUEhJR09EUDBlUmIyS19zUVljQW45SnB3RUQtVE9ZLTEwWlVzaEx5cXJxbld4LWFrQmpV?oc=5"
+          },
+          {
+            "title": "Stock Market: Trade TSLA, NVDA, MSFT & More | MEXC - MEXC",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5SllmcW4wUDktYmNfb2Q3am1Mb1VITnRDMmFWM3k0S2I3Qjg0aUQzejlDblpGQk5LaUpYY0lRVHdIUVJFQWJJZXoxQld1bHIzaVUzRg?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 125.53,
+        "weekAgoPrice": 162.85000610351562,
+        "percentChange": -22.92,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock market today: Dow and S&P 500 enter correction, Nasdaq sinks 5% to erase 2026 gains as AI trade melts down - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUExMEVRMDV4d0UzTmhxMENqY1ZOWFlrUDdIX2pDVFNfdWxIb3lLUUthalFJQ3lGUG4wS05CeldYdTZ1ZEVrWkd4YmoyWmpnVTlXN2tad3UzeTV0WDVPRThQMklDQ3pXOE55d2NTWldWQ0dYWW9aWDVFV3JHbzhxWU1fUHM4THBTdWF6b3JjeHZZT3ppNk8xUW5tend0SFZBelV0LWxoNk5RWTJBUzNEVHdHVEFFWHF6a2VQLVdMVUg0Q0Ez?oc=5"
+          },
+          {
+            "title": "Closing Bell panel assesses sharp selloff as Nvidia, AI stocks tumble - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1g0UXZ5OXJuVHpnN1lqWUk1OURVWVRkdDZRemFXcS1hNk1GdTNQcHE1dDdyb0NxbDc4R0hTTDlFMG1IdnJWbThPSGNqTzVVWXJxR09Lamh6WGZaSWZvVm12X05zdGpaek1zZVRWcWhEYk1sM0lEblZjNURGOTVWdXVmaXdnMW5RWkdZY1dwTV9hdTcwTGVWWlY4UmNocWhGaUk5UHE0SWJxUTFiZUtSNQ?oc=5"
+          },
+          {
+            "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting - Decrypt",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWY0ZEx3alh5MHBSXzFLb29FTzhwaER6OF9iOW5tem5FRXJUclZma0hjMDctREdfcmxERUd3dGFuZnJxeGxaNXF4eXhKclNCci00aGMwd3RkaDV1MjNGX3dVNVBPR0UwUGdLbF8yaTA2MXg4cURkYk1oeUtxTjJRa1VuQnBqQQ?oc=5"
           }
         ]
       },
