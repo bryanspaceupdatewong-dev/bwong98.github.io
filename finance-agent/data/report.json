@@ -1,15 +1,19 @@
 {
-  "generatedAt": "2026-11-20T17:16:13.619858Z",
+  "generatedAt": "2026-11-20T18:15:44.661642Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 489.03,
+      "currentPrice": 488.27,
       "weekAgoPrice": 523.8800048828125,
-      "percentChange": -6.65,
+      "percentChange": -6.8,
       "flagged": true,
       "news": [
+        {
+          "title": "Microsoft Stock (NASDAQ:MSFT) Slips Despite New Team-Up Effort with Danaher - TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHlvdmY3MUJzeWl1LVJ0ODdrQ1pLQ0t4Y2k2T0MwX3pyTzBfYXFra2RPOWIxT1FiQkUxdWpTMGg5UUx6aU9id3hrVldqS21qQUY1cDVGWWtzd19TTlhJX1Z0WEEwZERseUJZVUtlMC1UeG5uZHR6Wl9XUXRielFockQzVjdOM3MxbFlYYndCa3lwRV9TRm41N1FvNVhXOXUyWWotUg?oc=5"
+        },
         {
           "title": "Why Microsoft\u2019s Full-Stack AI Strategy Could Pay Off: Analyst - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDhVY3hHTl9PRlkzeW10VmFRSTJpZFNic0V4V1d1a2xlcVFRS1pWNVl6MzRCb2VxVTVRX3hhZUQ5dmZKVkszcEt3S2stWHVCakxiUE5kcGR2RVFBOGRNRG9yZXJWLTlDOXg2U05QcEdLTlYxUWlCSDB3djhlcXZaVG9XZ3ZQSm9fazU3NFBuSklvU01BQUxOazgxZkg3bllMV0xlUHBLT0dIbFlkMU1aRWt3?oc=5"
@@ -17,20 +21,29 @@
         {
           "title": "Microsoft\u2019s Outages Barely Dent The Buy Case, But Watch The Move To Usage Billing (MSFT) - Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTVZXaDZKRXpXWWtxZW9FeE80dHpGM1NfT2pwTW1YYmZxazgycGNDREZhQTdLT01OeUpDMGZqRTFiZEVaMkViOE1JUjU0MVVlWVQ0d3NnWDk0TzFPSkk4aU0xVGJrMFV5N2pLWGJHd25fVnNwekJwTDdBTGllMGxyN1oxVGVVQmJ2Z3JhSG1obmdDV0ZpVW1WVXZNOW1nZ2xNSndUQ0Zva3QzYWpXUlpQYWs2RmQxbXVUWXJiQQ?oc=5"
-        },
-        {
-          "title": "New Buy Rating for Microsoft (MSFT), the Technology Giant - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcllITFdRQy1wY0NxVWxIXzQxdUczaDdXeDdyU1NwcWQzdzB4LTlUajhjUS1HQVhZM29Dek1mVGlpczUwZXZYY1F2dVB4aFZMN0lHV2FoWERYRVdmakRWMlI1Q1VvV1BvTWJTODFzc3F2aHNzY0Y1U1Z1MjZfeE1LZlU2d3R6YVcxRXhoeFlLcEwtdzlQOTZUdzNjbHBKT1BiYy1mSzZBc2NtOUN0dzctQTkwYXoxTFk3UklOT1lKRkdWMTVIVDN5OVE4ZnlxN2ZvdmZXemV3?oc=5"
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 135.44,
+      "currentPrice": 135.23,
       "weekAgoPrice": 162.85000610351562,
-      "percentChange": -16.83,
+      "percentChange": -16.96,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "NVIDIA Is Down 37% in a Month. Can NVDA Stock Get Back to $200? - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNkdNSmhOWTNyRUc1NnRDTTJOZFRkVGRRMTM3M0h6cGs2Mnk2SXV5WjdpWUJfUlRIaElnQXdmYTdCSVZQdzJQbjFpcGduSEJjeGIzSzlTbm9naTkxdTRKQ04weHVNWEtubEhBT0VyLTUxV21tbTVqTGVCQkJPbkhmcENQMTNzSkg4VXc3am9ieEZFMzFBUWF3ZVRxM25xYWZxN3BuaXZB?oc=5"
+        },
+        {
+          "title": "NVIDIA\u2019s (NVDA) Strategic Investment in Ohio Data Center: Securing Future Growth - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0NpSnV3UHBFdml4OFhuY3NpVGhIcE9IVGIya3ppZXpuWmN6VlU2Q003anRHcnM1Z042V2lNX1NmVEFfOHYyV3BrVU5UQTN3TjJuTFlzd1JzSWtOakhsSk14VUhwbWIxSUV4cmxiNDVQYnhZNzR5YzlJMXdqMDdDbjZxdGRjWThGem0tYVR2akhRcFBOamlranVkWGdWZmNpaU0w?oc=5"
+        },
+        {
+          "title": "Stock Market Dives To New Lows Despite Nvidia Earnings, Anthropic IPO: Weekly Review - Investor's Business Daily",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOFcwdEJJOEpPWVFTZHIxRUtyakdGbElWOGtHWnZ3NS1BdXM1eXVrejlTU1QwcExwTTIzb3JFRGxJZDZPVnlkR1FnTVpuazNtbFA5MFdRMGd0TFZUNHNjdF9xTEU4MUxwVk5BQ2tpcnRCNUZ1Tmg0c2xLbWpRWDdZRm90eXJQMUhDT1pqWjZudlR2WVRwUE9ZTg?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
