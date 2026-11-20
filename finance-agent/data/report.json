@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-20T18:15:44.661642Z",
+  "generatedAt": "2026-11-20T19:15:59.277435Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 488.27,
+      "currentPrice": 488.91,
       "weekAgoPrice": 523.8800048828125,
-      "percentChange": -6.8,
+      "percentChange": -6.68,
       "flagged": true,
       "news": [
         {
-          "title": "Microsoft Stock (NASDAQ:MSFT) Slips Despite New Team-Up Effort with Danaher - TipRanks",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHlvdmY3MUJzeWl1LVJ0ODdrQ1pLQ0t4Y2k2T0MwX3pyTzBfYXFra2RPOWIxT1FiQkUxdWpTMGg5UUx6aU9id3hrVldqS21qQUY1cDVGWWtzd19TTlhJX1Z0WEEwZERseUJZVUtlMC1UeG5uZHR6Wl9XUXRielFockQzVjdOM3MxbFlYYndCa3lwRV9TRm41N1FvNVhXOXUyWWotUg?oc=5"
+          "title": "How Microsoft\u2019s (MSFT) Valuation Crashed From 75x to 10x \u2013 Even as Earnings Kept Growing - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdmtjd3Z4UGFpS2c5OUNDX3FkMlFzNGo1WVROYThDcmVIZlRjRXBmbGluTmlrNERVNTRqYXk3UHpXZUxLM0lmUGttbV9rQVpKR3YyUnFMcXo0RV9iam9IRzFnTTk3cTV6dC12a2FDZmoyUEhJR09EUDBlUmIyS19zUVljQW45SnB3RUQtVE9ZLTEwWlVzaEx5cXJxbld4LWFrQmpV?oc=5"
         },
         {
-          "title": "Why Microsoft\u2019s Full-Stack AI Strategy Could Pay Off: Analyst - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDhVY3hHTl9PRlkzeW10VmFRSTJpZFNic0V4V1d1a2xlcVFRS1pWNVl6MzRCb2VxVTVRX3hhZUQ5dmZKVkszcEt3S2stWHVCakxiUE5kcGR2RVFBOGRNRG9yZXJWLTlDOXg2U05QcEdLTlYxUWlCSDB3djhlcXZaVG9XZ3ZQSm9fazU3NFBuSklvU01BQUxOazgxZkg3bllMV0xlUHBLT0dIbFlkMU1aRWt3?oc=5"
+          "title": "Microsoft (MSFT) and Its Rivals Are Making a Huge AI Bet \u2013 Here\u2019s What Investors Should Know - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZkJwODVzRnptNlFrc3UtMlA0NUN2bkVNYnNDcGQ3MDBNRzdVbnJPT0Q1c21xNndPMUY5eVA4NzVCUW1fdkx3bGJUMnFUdTV6cjNPUkY4RWpCMXpsNHZjQVp0bHd6RVFmMEpxcGkyNEtNSWJZTklOdVd1Z1RwaWlJX3N1emMxQ0FYUjRaeHlzcXozeFV5bXgzbzZMUERoQQ?oc=5"
         },
         {
-          "title": "Microsoft\u2019s Outages Barely Dent The Buy Case, But Watch The Move To Usage Billing (MSFT) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTVZXaDZKRXpXWWtxZW9FeE80dHpGM1NfT2pwTW1YYmZxazgycGNDREZhQTdLT01OeUpDMGZqRTFiZEVaMkViOE1JUjU0MVVlWVQ0d3NnWDk0TzFPSkk4aU0xVGJrMFV5N2pLWGJHd25fVnNwekJwTDdBTGllMGxyN1oxVGVVQmJ2Z3JhSG1obmdDV0ZpVW1WVXZNOW1nZ2xNSndUQ0Zva3QzYWpXUlpQYWs2RmQxbXVUWXJiQQ?oc=5"
+          "title": "Microsoft Stocks Fall 1.97% as Anthropic Debut Spotlights $47.2 Billion Azure Pact - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qa2d3UkRERTFja1Vzc21RTm14cU1XQXJfMG1MVUxyUW1WZnRieEo5VjB0VTNRSzBJeVVkeGlvRmtmYTk3ZnB3NEN5Xzh3Ql9YZkpKMFprNkROV2xzR05xZ0twWWR1TDNfYUE?oc=5"
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 135.23,
+      "currentPrice": 132.59,
       "weekAgoPrice": 162.85000610351562,
-      "percentChange": -16.96,
+      "percentChange": -18.58,
       "flagged": true,
       "news": [
         {
@@ -36,12 +36,12 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNkdNSmhOWTNyRUc1NnRDTTJOZFRkVGRRMTM3M0h6cGs2Mnk2SXV5WjdpWUJfUlRIaElnQXdmYTdCSVZQdzJQbjFpcGduSEJjeGIzSzlTbm9naTkxdTRKQ04weHVNWEtubEhBT0VyLTUxV21tbTVqTGVCQkJPbkhmcENQMTNzSkg4VXc3am9ieEZFMzFBUWF3ZVRxM25xYWZxN3BuaXZB?oc=5"
         },
         {
-          "title": "NVIDIA\u2019s (NVDA) Strategic Investment in Ohio Data Center: Securing Future Growth - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0NpSnV3UHBFdml4OFhuY3NpVGhIcE9IVGIya3ppZXpuWmN6VlU2Q003anRHcnM1Z042V2lNX1NmVEFfOHYyV3BrVU5UQTN3TjJuTFlzd1JzSWtOakhsSk14VUhwbWIxSUV4cmxiNDVQYnhZNzR5YzlJMXdqMDdDbjZxdGRjWThGem0tYVR2akhRcFBOamlranVkWGdWZmNpaU0w?oc=5"
+          "title": "Why Is Nvidia Stock Down Today? Shares Fall 7% as Anthropic IPO Fails to Revive the AI Trade - Around Prague",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaU9mQWt5bnE4TVg0V1lMTkR4OEY0MzM4QXZ1bG1Kc0pqS0xnS2RSd0dQMDVSa2RDZGxLYjY1UlZFQVVTdEFaQ0tHQ3ZrSTJvNUtkWDBEUlZjcU9kd0IyWlFuRWViRExLSUtmdUZLMkZfcVZiNU1ONUlSYnZqcjJXMXdBd2E5emI4eU1XenlhSE9oSFZjWVQtaUpJT2V0ZTRKMXhOVDZZZzlLZWM2cE9aRjNB?oc=5"
         },
         {
-          "title": "Stock Market Dives To New Lows Despite Nvidia Earnings, Anthropic IPO: Weekly Review - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOFcwdEJJOEpPWVFTZHIxRUtyakdGbElWOGtHWnZ3NS1BdXM1eXVrejlTU1QwcExwTTIzb3JFRGxJZDZPVnlkR1FnTVpuazNtbFA5MFdRMGd0TFZUNHNjdF9xTEU4MUxwVk5BQ2tpcnRCNUZ1Tmg0c2xLbWpRWDdZRm90eXJQMUhDT1pqWjZudlR2WVRwUE9ZTg?oc=5"
+          "title": "Why Nvidia Stock Is Down Today - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZZ1RKcUw2QV8tVG9vNnFXam8xcmRhLVBTQVJwd01rbkxOd012WTdDdkVrdjc0OGU3UDlZRmJuTjB6MWxuVWNOWTA0Z2FhOVhpQ1Rmb2syeHFjQnN2YTR6TzFqSFJyZFQzS1lwZmp0Y1FobXRHSVJaR19XNEhTZw?oc=5"
         }
       ]
     },
