@@ -1,77 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-18T14:16:05.471905Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 506.24,
-        "weekAgoPrice": 533.1599731445312,
-        "percentChange": -5.05,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 155.46,
-        "weekAgoPrice": 168.88999938964844,
-        "percentChange": -7.95,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA Corporation (NVDA) Stock Forecasts - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblpaZUd3dV9vZlUxQUJVNms4NENoYkttTWJnMXNsYjhfM1RFVFV5R3RkaC1Sd0ZESVU1RDg3M1JlWmFPOGdINlpCc05maExwVmtLdEhGZDJLMlZBUHI1aXl0bkxMbEFJd19IOVF5VTlaRzkwd3RFS0owLXY3WDc3b3dROXdScFFSWlE?oc=5"
-          },
-          {
-            "title": "TradeXYZ leads NVDA perpetual open interest at $222.1M on Hyperliquid - Crypto Briefing",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMnM4SERGeTRlRXktNXMwenMzcEYwdm8zUVY3ckdsb1dIRHVlajkzeVIwSzdSRGowRG96SzFKZHhETk5wWl92N0tFY0l2Z25reUV6dzNoOXQtc01qV1Vrb3gxa2RQVk84dmU1YnJvMW0xUnRzLXotWVhaTEpmV0Nya1dudw?oc=5"
-          },
-          {
-            "title": "Stock Market Today: Dow Falls As Fed Official Calls For Larger Hike; Nvidia Shares Jump On Earnings (Live Coverage) - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXBraTU4T2FpajlyR1NvUy10anpSNi0weU02QkhIbU01NGVsNHc0dU9ENHVaaTlWblBSMHdFWXR0WmFCdFpCS2YzRlR1YzgtOE1BUUw0Mlo2c3p4RjVDcDE3bm5uYUNxdHY4SnlfbnlLMWVrTk1MWUY2bzAxUVhsMTc0dHBHQXZDWUxMRDZLRk0tcGE3aVFsVEN2d2RMTUJ1MUt3R3J4akcyTzlqelBIX2F6MHVNeVFsMWktSFM1T1RXM2ozQkpJekMta00xZw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.38,
-        "weekAgoPrice": 1.5199999809265137,
-        "percentChange": -9.21,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.0,
-        "weekAgoPrice": 1.100000023841858,
-        "percentChange": -9.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.340000033378601,
-        "percentChange": -6.72,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6600000262260437,
-        "percentChange": 13.64,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-18T15:16:20.774494Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2534,6 +2462,41 @@
           {
             "title": "Nvidia Stock Hits New 52-Week Low: Buy the Dip or Stay Away? - Benzinga",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOblpIYV9aLTNjOEpOMUFtQ0tQeG9QS2tUSzM4cGk2WnNkeWNTLUFzY1hJc2poQktwaGtBcndJbW1YWVBGZUxwYlZWeGJHaEZvTXZ1TV9XWjN6Tmp3U1o1QTBHbGNqWTNDSF84ZG5fUWx6ekl0NW5Ib1BlNldGdTJsZEZFWWI5OHJUcVZhYUJJZHE1bS1WaXlhb3dHQ1hoUGJ4M1NmaVBlR09MZGw2QnNVNA?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -6.21,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-20T13:16:01.107001Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 145.98,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -12.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "The Stock Market Has Problems Even Anthropic Can\u2019t Solve - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFE2Zl8xYVVyMlFBdWR2OUlsV3htU0htTlRGQVg3N2NVQkg5aGF3NG9DZ0pQUi1zeVowVUJPbG5Ib3lfazRUeFNhdEwxc0dlT1B3a3JaZWd1cjRLRWxKMTNtWldpOXVBWHRyaVAzcm94el9pY05lNVVQWnRmVFNSeQ?oc=5"
+          },
+          {
+            "title": "Nasdaq Futures Slide, Anthropic Shares Reverse IPO Gains \u2014 LITE, IREN, SNDK, NVDA In Focus - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVl3Mk1wX0tMYnc3QjVEbjRXREhGdHF6ejNzTmgzQkhaS1U0RWhoaVdCeUh6aWNEREpUU3FuVzR6Rl9Ga0JWaUlodzlSZW5odjZXUTk4VkFLT0pLdGtLZHZra1JLblNDek5FM2FTZGVqd3pmNXNnMWJhYzRfY21iM1BlS1dtek16enFxdk5sZHUxN3pLSlpEMFFENTkxdlVvZE14bw?oc=5"
+          },
+          {
+            "title": "3 Warren Buffett Rules That Make Nvidia Stock a Buy at Today's Price - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZFM3U3FXRUl4Qy1JNEtfZEl3aVRKRjJHTU5GdlRyOEVlTHljR25hOEF4MnNVWGlOdzhhLXNoVlA3X3FJNUlZTG1pSXExSk1aSWdQUDBCaHloQ2ZHTmZ3UEFlU3NoU0E4WEcwbmdZS3NVS0RnYk9Sb0pOeU42bXB2SVI5RndfZE5SVUlmOGY0TW5aRlBJYm5uNHY3WEhNTXVjbk1JTmJZS1ZaZ1h3YnZ5U01maVlnUDhMNTBwX0QtSTI5YU1lXzRGcVY0ZTVjV2lUR0w4RXVUOVZXZXd4U3hQcHFHNlA1bDNiNzEw?oc=5"
           }
         ]
       },
