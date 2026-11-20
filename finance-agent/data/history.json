@@ -1,90 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-18T09:15:48.872602Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 506.24,
-        "weekAgoPrice": 533.1599731445312,
-        "percentChange": -5.05,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft: The Market Is Rewarding Financial Discipline, Not AI Monetization (NASDAQ:MSFT) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2ZkeWlmRWZsZm5KMDhVLVBTdWpZYllDS2lHcldmVDJEY3VqclR4aXp2dmRYQVB3NHVoRTV1SjBMUXdhVFlubnFnNHZTdjVFVlE0TS11aHE0cXR4U3JycHgzdFdYQmJWMGNUc3R1YjlKSlBtMkNhamZGWEJIeDdWX25oZHJ3dXVIaHpsUFBEczRPSXE5V3JEcU1xTHJ4NWhpU1dSSDlIajNBZ09id25WcXhkR1FMdw?oc=5"
-          },
-          {
-            "title": "Microsoft Stock Hits Seven-Week Low: Is a Bigger Drop Coming? - BeInCrypto",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MNUlzT3liQ3N6bGx5RjJsLU5mNk5LdUFCVE8tNk1HMzBCbVlZa0F3Rzg5S3VSZjF5UlVLN2xSYXFqbS1ZX0oyS3BsbUVKOVliTXEzYVRsZTk2ZFk3bFpOc1ZXNGk3ckUtTkc5RGF3?oc=5"
-          },
-          {
-            "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT00tV0lrRWN1RWtUNV9XcXpjRktjSklPRTJVT0F1OFNWUzdsYW01Qm1KXzdSYTJKOUFuM1MwSHVaQUJnWDJxRUcwVHZtX1dudjFoVVRmX05iSUkwVUdjVGNiYzdwMFpyZkNOSGtqZVpEeFdLUnZOLXh1MUFYQkJMeTB2cjMzQkVXQlBzWG9tTGVON016MWdJMmd2QlRhQ1g4dHg5NFlDR1lkdFY1YnBBUVRiWXpZTWNNUmZMNUhDZHRFN1k3dmZWQjR3?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 155.46,
-        "weekAgoPrice": 168.88999938964844,
-        "percentChange": -7.95,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVIDIA Corporation $NVDA Stock: Cornerstone National Bank & Trust Co Raises Stake - MarketBeat",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWW1BcjJmWGlseVk5aUlRRXRvZVZVbldtMVhTYUo2TXFobnB2Z3BBa0NRcERnV3dfSllZQUdJWV9fSHJyZmtlRGhRTnhWWVI3Y20xYm44cnZrX3dyYUh4b1lBQVBFTFZFa1UyWHJkcW81RldOSjVpc1RwNEpCdVNyUF9ZdDFYWFNyV0ZnYlJBYWc5SVhsNktZWFljQ0plMjF3Uzc5NVVJcHRadlNmellmLTNJZnlGQTdZaU5OVEJ3LUV4blJnZ3NTTG1SQ3dZNnpZUmZ4Ug?oc=5"
-          },
-          {
-            "title": "CoreWeave's CEO Isn't Panicking About Nvidia Losing Jensen Huang - Business Insider",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORzZsT3RzT1lDeU9PZWlrclVrdWozUnJTZXpMeG9iU2h5STZ2c2d4a3JrVDFyMDVITDBFd0VLQngzd2tWa0l6TzhObnRLbGpJNHUwdmVBRDREb041czdKUnp1QkxXWklxU2xiWWtBZ0tnbkJISzl0MVJoSXhRN2tkdVBkaGlqaWgxalBQYnZ2WXV3N2JhYWJvN09uRkI1eTZ2bWc?oc=5"
-          },
-          {
-            "title": "Can Anthropic\u2019s IPO Burn NVDA Stock Bears? Jim Cramer Thinks So \u2014 Jeff Bezos Weighs In On Jensen Huang\u2019s Successor - Stocktwits",
-            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTBpaDhLNnE0SzRhWlprMjBfcWlXclA5Z2F4dkNaWHVvdmt4Z2dmZEFKM2lmeFFsNmd3bHI0QlRSS1dzb2hBbG1xLWF5OVhUV3IzcjJvanF2UllQR3IzU0tRdEhKcnFJQTVhSFhmNENTRWNQQzJoYlhYdF95czlNSWpybDgyWjdtUEF4UHRXZDF1c2tfSGQ4VndWLTdfVmY1eno2ZjYxcEFRTFdVdnE3R2hrR19fVS1RWTV1ZFI2VFloRFlSdXUzblFkRWQ2Y2R0RnhEbmE5Vzl2T2tGWWVCQ2dySQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.38,
-        "weekAgoPrice": 1.5199999809265137,
-        "percentChange": -9.21,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.0,
-        "weekAgoPrice": 1.100000023841858,
-        "percentChange": -9.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.340000033378601,
-        "percentChange": -6.72,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6600000262260437,
-        "percentChange": 13.64,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-18T10:15:38.965757Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2771,6 +2686,62 @@
           {
             "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-20T08:16:31.067240Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 145.98,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -12.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "NVIDIA Corporation $NVDA Stock Position Reduced by Axxcess Wealth Management LLC - MarketBeat",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcTJjd2htUEJUSEY0Q1ZZTnNNMzJQbWp6Q2c4VC0wSnZZU2lzODUyQVh0TS01WURpWlF5SnBBQUFMbFVDb2drcGIybmFsRVgtSXp1b1R4c0JhVG55VWtOVzZ4aE5rYzFEYXRNRGYxeHJWNEZLamd3ZUNoTTVmdTdwQU1pNFJ4TE9oM2dlMEswSHUtc3g2NmdYQzVvamNNa2ttT0tleGRWSzJ5OW1xR1BJNVdxZE41WHpET1NEa2ZWM3p6ajY1SkVqSV9ndy1xT2pQb0NvT3BZSQ?oc=5"
+          },
+          {
+            "title": "Cathie Wood\u2019s ARK Invest Loads Up $90M In Anthropic Shares, Dumps Nvidia As China Chip Sale Woes Deepen - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUk3VHlKRmRIemRWN2ttNjkwWk9FZjhURnE1a3BkYlRzamZpNkQyVWZsaS1nSWhrVHFCREwyTFZaZUxGa3QtNlkxZ3RaQmRvMlc1LVM2YWU0UVp2SkZhUUptVHdTdFhrQklwQVMxbGgyX2NDMWJxb3JwN0Y3RFU4MVVndXFiRE44RDB6M0FiMEF3WlNhdEVGSw?oc=5"
+          },
+          {
+            "title": "NVDA Stock Down 40% From October Peak Amid China Spying Crisis: California Begins Probe Into Chip Sales - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcGFEcVVtVlZRa1Ztb2lLeXpXcXJsdXF3VW80WnQ4bWQ5bW9aWFhGZXgySGV2enlZMlFCdHJXV1MwVW5QQUNlNEdKTDU4dXBsU2l0MTk3VkRwcU5mbmctRkt0NU5GS2tvSDRxTF9WUlYxNTR5TXN3ZVEzVjVQcmxJcFRoZlQ3Q2VrVnJqaUdGX3pqczYtTnc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.15,
+        "weekAgoPrice": 1.2200000286102295,
+        "percentChange": -5.74,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.35,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -6.9,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.235,
+        "weekAgoPrice": 0.25,
+        "percentChange": -6.0,
+        "flagged": true,
+        "news": [
+          {
+            "title": "0397.KL Interactive Stock Chart | 5ER Stock - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rd1QtZHNLcG1Fd05ra25NeWx2QmtLOUI4VzJfUEtuRE1FU0FHLUR5Mm5vdzdFc0hKRXlQSHRNSks0dzdwS1h0TU1BTFBZWkh3?oc=5"
           }
         ]
       }
