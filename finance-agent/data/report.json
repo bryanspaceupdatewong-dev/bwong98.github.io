@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T06:16:08.205185Z",
+  "generatedAt": "2026-11-20T07:16:08.546943Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -17,26 +17,13 @@
       "weekAgoPrice": 166.19000244140625,
       "percentChange": -12.16,
       "flagged": true,
-      "news": [
-        {
-          "title": "\u2018Bright Red Flags\u2019: Nvidia Subpoenaed By California, Attorney General Also Probing Jensen Huang\u2019s \u2018Actions\u2019 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUFBYc3pmY1Ntd0syclVxNzUxUXJaNlNzejdLanA3b1JOUGpjdHphTFR1cW5oMXY0czlvd2Y1d3FQZFBtREZ2NHZfMWYxcUVIQmljcjVGN0hWeVpxOHB5ZkFtMEFWeGJwalVad0I0WG9aWGdUUzMwMkxEbXBBekxDSDZBTkVHZEZLa0JjSHJSQUhfbzFMN0kyV3g0TjF6MXFH?oc=5"
-        },
-        {
-          "title": "Nvidia Just Raised Its Supply Commitments to $390 Billion, Mostly for Memory. Micron Is the Memory Stock I'd Buy. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcUxGZ2xYWjFVd1dyT0V3bkdPVHZ2U2gzUzZUUzRPd2RqRXcxemNKem9zbnplNGwzQWY4SENsdXF3dUlIMU9Dc185WmJXdmo3eVk2UzhLT2JPR3hwdUlpa3AzVE5hZEktR0lfY0xaVjZuZUVqamF0M0tDbmhTVVpjUHU1bXZnRzQtdXI2YWh2Zm1wRDlPSFpvRDJObTRUbnJ4ZGNDR3J5SmNoVC0zTmc1QXBfdTR1TExLNno3RXJ5eU8waVNCaDIwNnhkZWJrcHR6dExKemJVQmsxb0VCdEtBUUhqY2Q0STNrdVpr?oc=5"
-        },
-        {
-          "title": "Michael Burry Says He Tried to Warn Investors About AI Stocks - NVIDIA (NASDAQ:NVDA) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXlyaHRBWXZSMS1ROFB2QTlCMEFnYXhZYkwyWFZlMUo3UWNSOWlCQnp4MnRJM25nRXIwZ2dnU2dIalZjUDFhOEF5RGtEcXdzNldEVmNVckUxdTJnbmdWb0VTMEJ4WDlKZW03QTAyemZDWWpYOXF5SDFhdEh5VkZ4YkozVGlzSWstVHBYZjk0Ym5sb3FpSFltZDhZTGJKYlFUYTVDUXBKV2J4ajZuMzI0QWpNUUxuc1RMaDNONUtFZjhhSmoxWkRn?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.49,
+      "currentPrice": 4.48,
       "weekAgoPrice": 4.539999961853027,
-      "percentChange": -1.1,
+      "percentChange": -1.32,
       "flagged": false,
       "news": []
     },
@@ -58,9 +45,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.36,
+      "currentPrice": 1.35,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -6.21,
+      "percentChange": -6.9,
       "flagged": true,
       "news": []
     },
@@ -74,9 +61,9 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.01,
+      "currentPrice": 1.0,
       "weekAgoPrice": 1.0299999713897705,
-      "percentChange": -1.94,
+      "percentChange": -2.91,
       "flagged": false,
       "news": []
     },
@@ -90,11 +77,20 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.25,
+      "currentPrice": 1.24,
       "weekAgoPrice": 1.309999942779541,
-      "percentChange": -4.58,
-      "flagged": false,
-      "news": []
+      "percentChange": -5.34,
+      "flagged": true,
+      "news": [
+        {
+          "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+        },
+        {
+          "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5341.KL",
@@ -105,5 +101,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 2
+  "flaggedCount": 3
 }

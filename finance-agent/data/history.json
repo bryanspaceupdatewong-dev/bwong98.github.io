@@ -1,90 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-18T08:16:05.108156Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 506.24,
-        "weekAgoPrice": 533.1599731445312,
-        "percentChange": -5.05,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft: The Market Is Rewarding Financial Discipline, Not AI Monetization (NASDAQ:MSFT) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2ZkeWlmRWZsZm5KMDhVLVBTdWpZYllDS2lHcldmVDJEY3VqclR4aXp2dmRYQVB3NHVoRTV1SjBMUXdhVFlubnFnNHZTdjVFVlE0TS11aHE0cXR4U3JycHgzdFdYQmJWMGNUc3R1YjlKSlBtMkNhamZGWEJIeDdWX25oZHJ3dXVIaHpsUFBEczRPSXE5V3JEcU1xTHJ4NWhpU1dSSDlIajNBZ09id25WcXhkR1FMdw?oc=5"
-          },
-          {
-            "title": "Microsoft Stock Hits Seven-Week Low: Is a Bigger Drop Coming? - BeInCrypto",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MNUlzT3liQ3N6bGx5RjJsLU5mNk5LdUFCVE8tNk1HMzBCbVlZa0F3Rzg5S3VSZjF5UlVLN2xSYXFqbS1ZX0oyS3BsbUVKOVliTXEzYVRsZTk2ZFk3bFpOc1ZXNGk3ckUtTkc5RGF3?oc=5"
-          },
-          {
-            "title": "Microsoft: Anthropic Is Moving Into Its Most Profitable Territory (NASDAQ:MSFT) - Seeking Alpha",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT00tV0lrRWN1RWtUNV9XcXpjRktjSklPRTJVT0F1OFNWUzdsYW01Qm1KXzdSYTJKOUFuM1MwSHVaQUJnWDJxRUcwVHZtX1dudjFoVVRmX05iSUkwVUdjVGNiYzdwMFpyZkNOSGtqZVpEeFdLUnZOLXh1MUFYQkJMeTB2cjMzQkVXQlBzWG9tTGVON016MWdJMmd2QlRhQ1g4dHg5NFlDR1lkdFY1YnBBUVRiWXpZTWNNUmZMNUhDZHRFN1k3dmZWQjR3?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 155.46,
-        "weekAgoPrice": 168.88999938964844,
-        "percentChange": -7.95,
-        "flagged": true,
-        "news": [
-          {
-            "title": "CoreWeave's CEO Isn't Panicking About Nvidia Losing Jensen Huang - Business Insider",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORzZsT3RzT1lDeU9PZWlrclVrdWozUnJTZXpMeG9iU2h5STZ2c2d4a3JrVDFyMDVITDBFd0VLQngzd2tWa0l6TzhObnRLbGpJNHUwdmVBRDREb041czdKUnp1QkxXWklxU2xiWWtBZ0tnbkJISzl0MVJoSXhRN2tkdVBkaGlqaWgxalBQYnZ2WXV3N2JhYWJvN09uRkI1eTZ2bWc?oc=5"
-          },
-          {
-            "title": "Jim Cramer Asked Nvidia\u2019s Interim CEO the Uncomfortable Question - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRkRQZVN1X0xfdkNtNkV2ekNsRlJoX2JRemtCa3dCd0NjU3Yxc1VxX2pLc1FqRnhHb24xS25kbXhIYkE1Nk1aOWE2SldKV3QwRlIzaTJzMndrX2x2SzR6enBtMC1pTGtwd2IwbzRWSkx0dklPV0FGcExCZFVfck5wOFdpM2Z0RDhfcDlPd2drNlpqT3pqNUl0dW1SQ28?oc=5"
-          },
-          {
-            "title": "Morning Bid: Jensen Huang's last hurrah, and a nervy future for Nvidia - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUkhVeHlSOHlwY3dfOWVqSnVzNmhhcmtGWHk4SkdYQVlXSmxHdmtUVnBDMEpKbG5YQVpSVGJnbERVQUJPSElNbUh3Y3VTcURWQ2MyVlVKenZCRmtDVk9vcVlTSmJGbmdROVF6LUNORzd0UUI0TWo4M2JOSXFfRmlkZV9nYw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.38,
-        "weekAgoPrice": 1.5199999809265137,
-        "percentChange": -9.21,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.02,
-        "weekAgoPrice": 1.100000023841858,
-        "percentChange": -7.27,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.26,
-        "weekAgoPrice": 1.340000033378601,
-        "percentChange": -5.97,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6600000262260437,
-        "percentChange": 13.64,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-18T09:15:48.872602Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2819,6 +2734,45 @@
         "percentChange": -6.21,
         "flagged": true,
         "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-20T07:16:08.546943Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 145.98,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -12.16,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.35,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -6.9,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.24,
+        "weekAgoPrice": 1.309999942779541,
+        "percentChange": -5.34,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+          },
+          {
+            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+          }
+        ]
       }
     ]
   }
