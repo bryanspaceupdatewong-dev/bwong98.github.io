@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:16:31.067240Z",
+  "generatedAt": "2026-11-20T09:16:04.213340Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,48 +19,48 @@
       "flagged": true,
       "news": [
         {
-          "title": "NVIDIA Corporation $NVDA Stock Position Reduced by Axxcess Wealth Management LLC - MarketBeat",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcTJjd2htUEJUSEY0Q1ZZTnNNMzJQbWp6Q2c4VC0wSnZZU2lzODUyQVh0TS01WURpWlF5SnBBQUFMbFVDb2drcGIybmFsRVgtSXp1b1R4c0JhVG55VWtOVzZ4aE5rYzFEYXRNRGYxeHJWNEZLamd3ZUNoTTVmdTdwQU1pNFJ4TE9oM2dlMEswSHUtc3g2NmdYQzVvamNNa2ttT0tleGRWSzJ5OW1xR1BJNVdxZE41WHpET1NEa2ZWM3p6ajY1SkVqSV9ndy1xT2pQb0NvT3BZSQ?oc=5"
-        },
-        {
           "title": "Cathie Wood\u2019s ARK Invest Loads Up $90M In Anthropic Shares, Dumps Nvidia As China Chip Sale Woes Deepen - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUk3VHlKRmRIemRWN2ttNjkwWk9FZjhURnE1a3BkYlRzamZpNkQyVWZsaS1nSWhrVHFCREwyTFZaZUxGa3QtNlkxZ3RaQmRvMlc1LVM2YWU0UVp2SkZhUUptVHdTdFhrQklwQVMxbGgyX2NDMWJxb3JwN0Y3RFU4MVVndXFiRE44RDB6M0FiMEF3WlNhdEVGSw?oc=5"
         },
         {
           "title": "NVDA Stock Down 40% From October Peak Amid China Spying Crisis: California Begins Probe Into Chip Sales - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcGFEcVVtVlZRa1Ztb2lLeXpXcXJsdXF3VW80WnQ4bWQ5bW9aWFhGZXgySGV2enlZMlFCdHJXV1MwVW5QQUNlNEdKTDU4dXBsU2l0MTk3VkRwcU5mbmctRkt0NU5GS2tvSDRxTF9WUlYxNTR5TXN3ZVEzVjVQcmxJcFRoZlQ3Q2VrVnJqaUdGX3pqczYtTnc?oc=5"
+        },
+        {
+          "title": "Nvidia Just Raised Its Supply Commitments to $390 Billion, Mostly for Memory. Micron Is the Memory Stock I'd Buy. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcUxGZ2xYWjFVd1dyT0V3bkdPVHZ2U2gzUzZUUzRPd2RqRXcxemNKem9zbnplNGwzQWY4SENsdXF3dUlIMU9Dc185WmJXdmo3eVk2UzhLT2JPR3hwdUlpa3AzVE5hZEktR0lfY0xaVjZuZUVqamF0M0tDbmhTVVpjUHU1bXZnRzQtdXI2YWh2Zm1wRDlPSFpvRDJObTRUbnJ4ZGNDR3J5SmNoVC0zTmc1QXBfdTR1TExLNno3RXJ5eU8waVNCaDIwNnhkZWJrcHR6dExKemJVQmsxb0VCdEtBUUhqY2Q0STNrdVpr?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.48,
+      "currentPrice": 4.49,
       "weekAgoPrice": 4.539999961853027,
-      "percentChange": -1.32,
+      "percentChange": -1.1,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.66,
+      "currentPrice": 7.65,
       "weekAgoPrice": 7.730000019073486,
-      "percentChange": -0.91,
+      "percentChange": -1.03,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.15,
+      "currentPrice": 1.16,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": -5.74,
-      "flagged": true,
+      "percentChange": -4.92,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.35,
+      "currentPrice": 1.36,
       "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -6.9,
+      "percentChange": -6.21,
       "flagged": true,
       "news": []
     },
@@ -74,24 +74,19 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 0.99,
+      "currentPrice": 0.995,
       "weekAgoPrice": 1.0299999713897705,
-      "percentChange": -3.88,
+      "percentChange": -3.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.235,
+      "currentPrice": 0.24,
       "weekAgoPrice": 0.25,
-      "percentChange": -6.0,
-      "flagged": true,
-      "news": [
-        {
-          "title": "0397.KL Interactive Stock Chart | 5ER Stock - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rd1QtZHNLcG1Fd05ra25NeWx2QmtLOUI4VzJfUEtuRE1FU0FHLUR5Mm5vdzdFc0hKRXlQSHRNSks0dzdwS1h0TU1BTFBZWkh3?oc=5"
-        }
-      ]
+      "percentChange": -4.0,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5352.KL",
@@ -103,12 +98,12 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.71,
+      "currentPrice": 0.715,
       "weekAgoPrice": 0.7200000286102295,
-      "percentChange": -1.39,
+      "percentChange": -0.69,
       "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 2
 }
