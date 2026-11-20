@@ -1,90 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-18T13:15:56.041557Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 506.24,
-        "weekAgoPrice": 533.1599731445312,
-        "percentChange": -5.05,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft Stock Loses Key Level Amid Global Outage; Is Microsoft A Buy Now? - Investor's Business Daily",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1ItRk5Ubm9qeE13bU4yVjRfeFZ2MVZUMlQ2Y0VGeC0ydDFqMk5YRUtUeFE3RHc5Y2YtYWFXRjNTRzdIWWh1eTItdnFsQmROZy1CblRIMDE3SGZ3NlpEX1QwUzFEUHpMQUl0SElwRWs1ajRQMG1CMXJNd1N4VGFIbnljdzdmbnBJeW42WmJR?oc=5"
-          },
-          {
-            "title": "Microsoft Stock (MSFT) Forecast \u2013 Mizuho Stays Bullish on Strong Revenue Growth Prospects - TipRanks",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDdfSDlXLWdfRXBMam9ibGRHY3F4dFpuZkNaTWt3Y3M2dUNDTElGOXNsaWM3UjZZNTlEcUxURVYzLVNneWJmSkdnM1VrcVB6ZlVjS0w4RGpKMWRwaWhNOWRha0VzM2I4YXJKanFPQVdGMmdMVDNqanBJX1lVeWZXblpySmpyZUt0bzMtWHoyODMxbjNqWjVUM2Y4YWVWNnNUZE5ZMF9qejZ4WTlsREVJN2FIWWdUQQ?oc=5"
-          },
-          {
-            "title": "Prediction: Colette Kress Is More Vital to Nvidia\u2019s Future Than Her Interim CEO Title Implies - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRlU1NzZBTXZ0ai1IWHFDNlduN1dSMzNCcDZGdTRBSk1tcVlQMDJrdHlkVUt3bkhwRkFBbmsxUUNwV1BqRC1kelYxT0k4M25sdDMyVUZqSnN2VHd2aWxWSkFqQU5GQWFVUUlyQzNDc3BoY0NKY0ZVZlE3X2dWaHMtdzFLejFPeGFGTUhsWUdVdHFJclU1aFFwQl82S29BUXJCRnhHcF9lbXlqUGUtaEhNZU1UQTBjQ2V1bXYwWGlFVU5Mb1pvcVFhdGVoemJ3TnMyQkFMSmhmdWxOQjY2dEkyNXJkRVJjTVlsaDM0WGo5dTE0NmpFM1V4c2JIeXpmUVEzTHMxZDNIZw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 155.46,
-        "weekAgoPrice": 168.88999938964844,
-        "percentChange": -7.95,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Export Decision Reportedly Draws Democrats\u2019 Question Of Whether Lutnick Decisions \u2018May Have Been Improperly Influenced\u2019 - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdldmNVhTZjZRRXMwNm5hbG9ER3RHZ3NydjI0TkZ0VkJQYi1IN29FeWcwWHphTnBWN2phVmJFUWpwc01kcnhjYUgtYmhyTm9XRzBWX2V5WE9Xc0toV2NFZDF6N2JYNU5mVGdiajU4QnBaQTRIU3lHQjJTMGN4dm4wR2MyRFJ6dnZxMmlGMEctX1h2akZpX1Ayb296UGZHLUFLTkpEVi04cw?oc=5"
-          },
-          {
-            "title": "Why Huang's Exit May Not Sink Nvidia Stock - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczMteVdmSmxHalVxWGk3TjhiUmhjMld2Z1pBVHFUSnlxYXEwbkFpR2YwR0Vhcm1OeFh6ZTJZX0Z0djI5WnAtdE1lNGdNQ0daOWpxTHczZWxvRkpkdzk3djNJZlEyT1ptd2pHdDhqUkx3dlRmUy1mV3l5WmY0dEo1MWtOeWVYWWNVYmVpa2t6UG1SUQ?oc=5"
-          },
-          {
-            "title": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1hUb0ZMNTdVdlRaU3NVMXlUODNRZmhzZjVNRFVocktEWXJ4ZkF5eTVmVXBQcXRMOWFpdHZMQ2hxeUE1OER5TkpmRTlLV0JBdGV5RWVDVTl2TWtZamNmMXBTV2Y4eTVXdFpBdmZNSlFtZklNQnBLWHNDU251eElyd191OGs4ajktX2NvRVpNQ1M1cDNEU0ZzYnpWMmpnQ1E1d3NuUzhMSXZfdEowVWN6QWZldW0?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.38,
-        "weekAgoPrice": 1.5199999809265137,
-        "percentChange": -9.21,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5296.KL",
-        "currentPrice": 1.0,
-        "weekAgoPrice": 1.100000023841858,
-        "percentChange": -9.09,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.25,
-        "weekAgoPrice": 1.340000033378601,
-        "percentChange": -6.72,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6600000262260437,
-        "percentChange": 13.64,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-18T14:16:05.471905Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2584,6 +2499,41 @@
           {
             "title": "Is Nvidia\u2019s $81 Billion Receivables Pile A Risk? - Trefis",
             "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNjB2WnFHZDJQU1VUaTg4TUhYQmhYWnFqdVJ1ZF9yYTd2WjlWbVB4OW1HRjlGYnoxaUpIaDlQYzFfWXRNMGNzcXlIT0RvWDVzajJoSVRDNTE3eFotSWczRmFoRmI3UUF5cG9nSkFJT1VBcFJqX0wzZG1fZnRyV2tQMjlRdTdFRTM4bmd3cUVlM2NSSVFoa0I1SE8tR3g5bUtNMXA0Y2tqQmEzZnM?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -6.21,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-20T12:15:54.865713Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 145.98,
+        "weekAgoPrice": 166.19000244140625,
+        "percentChange": -12.16,
+        "flagged": true,
+        "news": [
+          {
+            "title": "3 Warren Buffett Rules That Make Nvidia Stock a Buy at Today's Price - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZFM3U3FXRUl4Qy1JNEtfZEl3aVRKRjJHTU5GdlRyOEVlTHljR25hOEF4MnNVWGlOdzhhLXNoVlA3X3FJNUlZTG1pSXExSk1aSWdQUDBCaHloQ2ZHTmZ3UEFlU3NoU0E4WEcwbmdZS3NVS0RnYk9Sb0pOeU42bXB2SVI5RndfZE5SVUlmOGY0TW5aRlBJYm5uNHY3WEhNTXVjbk1JTmJZS1ZaZ1h3YnZ5U01maVlnUDhMNTBwX0QtSTI5YU1lXzRGcVY0ZTVjV2lUR0w4RXVUOVZXZXd4U3hQcHFHNlA1bDNiNzEw?oc=5"
+          },
+          {
+            "title": "The post earnings slide in Nvidia stock is getting uglier by the day - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYVo0b1dObGhWclp0S0JnV095MjVJVEx3QW1hQ3FIdk9VZ3NNZWt2cHp3YnVqbm9EVFJ1UXFlOG1YRmpNdV9CSEFTQ2Z1b0FfdGpaMFJjNVRxZEl5bDJzQ21oLTM1NnNkdHV2LXRvd3p5UjRnQktpanhIcHFPM3FONTlUZTZOU3lqME9rbEdXNVBlcER0WDZNSUxGOWkxaDhDRXI1YUFfcmFvWjliZDQ4UnhVeTNNVUpyN2Z6RUVMRkM4Q2lTdkJsYjBKajM?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Hits New 52-Week Low: Buy the Dip or Stay Away? - Benzinga",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOblpIYV9aLTNjOEpOMUFtQ0tQeG9QS2tUSzM4cGk2WnNkeWNTLUFzY1hJc2poQktwaGtBcndJbW1YWVBGZUxwYlZWeGJHaEZvTXZ1TV9XWjN6Tmp3U1o1QTBHbGNqWTNDSF84ZG5fUWx6ekl0NW5Ib1BlNldGdTJsZEZFWWI5OHJUcVZhYUJJZHE1bS1WaXlhb3dHQ1hoUGJ4M1NmaVBlR09MZGw2QnNVNA?oc=5"
           }
         ]
       },
