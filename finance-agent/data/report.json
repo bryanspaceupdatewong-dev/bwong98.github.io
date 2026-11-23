@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T10:16:18.817721Z",
+  "generatedAt": "2026-11-23T11:16:41.584125Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -11,16 +11,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Buy alert: 3 stocks most likely to make big gains after Friday sell-off - Finbold",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV28xVkxKNXFjVV9rSzREbDZLcTFySUM0OEFwVndaMmZ2bTMzMElvbXJSdzFFS2xWcTZhWkE3eWNrcnVnMkZxOExrVnBabi1OR2VyS1JvdlBNdWVqTW11TUVwZjl6bHlFNDZCTVFIRnl4LW1EbzMwOXFTUDllOFBlQ01zMUZpN3UxcTJia3NfYno2LS1DVXc?oc=5"
+        },
+        {
           "title": "The S&P 500 Just Had Its Worst Week in 18 Months. Is This a Buying Opportunity? - The Globe and Mail",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTTl1SEZQdnJxZVlKQ19Kc0JtRWNzSEJzX2RzSDM5ZmxZYnJGM0VfN3Q4R3RFZHdqTzJhUzBRd29TQnlmVU01cy1sb0xHM1NpOG1jNUhDLXJ6dTZmckJrOE5QbUhHU2JCZUdWS1N4YjJGZHlwRHVxX2IzQndkVExnS3JUSE55cG54LVZVTkRvQ0Vra0M1U09Kc3ZvODFmRlkwNzZ4UHJjZVItR2p4VVZ5bzZVeWZURkZMNzRZNVZ3S0RsdHljT0tKcGlteTF3OE9tWWtselljNWpSQkk5em9hRXR5UlNpaW9PZDFWcFJtYVh3U193dlE?oc=5"
         },
         {
           "title": "Is Microsoft Stock Stronger Than It Looks? - Trefis",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTN0N1hHMGNON3J1ZFRlaGhhZXA4WnZWWlBRRXU2cG9Sd2J5TmVYMGlWSnJ4TWExU0JJaWN3d3RhM0Rja0RkbmhmQkhLMkhkTlFka3p1TFNUUUhQdTRBNWhJMmhYTmY2QU9PZDJybmtoZWEwVDYzY3BDMWMwRUM3Uy1YQ3Rjck10M1dzaWxzRVNQZ05VQ014V2JiTkJqTWZMSURocA?oc=5"
-        },
-        {
-          "title": "MSFT (NASDAQ:MSFT) Seven-Week Low Puts Long-Term Moving Average Support to the Test - Kalkine Media",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY192ZWZ2aTV5SkdQVW9tNFhyMjc3d3hMQi11MVlnd3FDdnFLOTdRTzZwSW9sWGw5bHhlVlVJNzFwSlBwS0VqNXdDQTlSRjdqdUNsbjVIQkR6eDRubmhucHJvdl95M2hMUGRMZ2hkXzE1ajJKa09fYlNTd2VtcDdfdEc4WmZ1enRqWU9vbTBMc0hnVmlMN2ZIYXNnRlU3akRoRkR3eGtoZkRWUkx6eU12QmlpNnBNYTNRYVFPVlg5SjRVZElSOUtnaW1objVKYk0?oc=5"
         }
       ]
     },
@@ -32,16 +32,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq futures surge amid relief rally - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUF4ZHJTbG4xaUNuOFQtMG1BYmFBbVAxNnBFLXBCRXhxc1gwN2VDLVI3NjhmSlRmWmRGeWFlSzE5LTNSS080QWJRZWo5N3p4d05yZXB5X1JmZkxWMUxjUU9MTFA0Y0w0cnlrOERaVDNFQmYtTjZzTjNLS2tLb253enBNdUU2RVRuMHk2WnpiWGVtNGxQaUlTT21MUk0xSUc1OU0xWFZpdFc3cjJELUE?oc=5"
+          "title": "Shopify CEO Calls Jensen Huang\u2019s Nvidia Exit a \u2018Choreographed\u2019 Takedown, Says It Is \u2018Too Organized\u2019 \u2014 War - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcEM2dkF1dlpjMTVLM3I0R0RZUTg3aFZ0eG9jWTBONV96VEc5aGctV2N2aXBzUzNmaXJ3WDU2VHNzdW9oY1djODY3VW1WLTQwcThkeGFWMFphT0JZemxwaFRYTTVwZVdPdGFMX1paak1PcUZPQVR2a3A3Sk1VcjFaSzZnUGQ5d3l1clp4Y1p0MkRzbkg3ZnpfdHNuczI2aHVoSnpmSXp2UWNhSzdtSTNOdlBweEVrRDRTemwxQ0FCVmxhRUhEUWM5eE9MLUNPSTAtMzdQVWloQmZ1cXB6OE1tZlBFWnFORkIzNEgxdmVtVkpFTVFUd0E5cFphalRLeXgzUGEzQ2FMbWZxM3lMRnlfX2ozTU4?oc=5"
         },
         {
-          "title": "Nvidia vs. SpaceX: Here's Which Stock I'd Put $1,000 Towards Right Now - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN05GaFptM2hyZThaYkRFZW9JNkNDakFqdFZOeDhNdV90cHZla0tKNk1hVjlINXk5Tkd4VTlfZVlQSUVZM2ZOUnlOSE0xemFHOUZmdzlkN2I5QnBoYk9UYkd1czZGRXZOTVZ0RGFDRTlrbjJZQVR2RWdOcXlTclRUU3B3czNQRG1ZWV9pWlY1YlIzaWhMdE1IN2hES29BZmVmRG55RHVYWDZiR3ExM1ZnN1AtMA?oc=5"
+          "title": "Stocks to Watch: Anthropic, Nvidia, Zscaler - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUjM5M05TbUotVnpGU0dleVhCem4xeC1UMmZVVjNGODBEYldtY1FKcm5oV2MyQ0pybWx2YXFFMVVYVHJpVm8yTUVGOU0xU1Npb0x3Z3c3UGVmdmZMX3REc1dDN2dWVDQ5VXM0OWpXc2pUTzVSUlR6Y1YxV2FBZnczekMtMFlNamlkTFhIajhuaUl1NjMybWZlOG5wSjl0MUF4bHNLc2hoMmFVN2ZfRVRFVVdxWWhaQllvVVVndkZNYlkzT1NIX0w0aWI2NEJmQjZaT1lDRkpJNWRXaHlCcGZKNQ?oc=5"
         },
         {
-          "title": "What Sent NVIDIA Stock Lower On Friday? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDRYQU91eE9Rak5HdkN0S2dnQzM2TXpUTS1EZklyYUNDcFczZjRBdkFjRFk4LW4zZG9zQ3JyQ3ZnR0RVR0xPVzhCUUYta0pZVF9QUWc4bEN2OEZFNndlVW1uYW1fNTJtTktfeEYwT0ppZzhNc0hSNW5GcXhRcnZ3Z3VhdVN1MDFoUHRMMW1IU1c0XzVXb0hDc1NEb3JKSWFE?oc=5"
+          "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJVmhYR3dCSjgwTWZWTGJGUGE1S0NKbkxQUDhzODNkU2lSRFU3dk5LeENVUjI0RS0zYnJ6LWFCMFZZaEpUWmdzSUFwQzRzOFM4VWNpSU9JTHo2c3o5U3NXcUpkNEdoSFdtbkdoatIBckFVX3lxTE9TTG1paDhMMG81cTlpOHdVOVRUMmVhTnRMOXR2MFd3ZHBvY3BTX1d6NVBZOVV4cDdVQ1dfRUs5YW95cmpieTdNZzlkWmFqUVNUR05EOGQ0SEk5a1RMZDdBaU1VdGlkdXN1cXFCM2RwN1d4QQ?oc=5"
         }
       ]
     },
