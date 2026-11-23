@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-19T03:15:40.687700Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 150.96,
-        "weekAgoPrice": 173.72999572753906,
-        "percentChange": -13.11,
-        "flagged": true,
-        "news": [
-          {
-            "title": "\u2018Nothing Wrong With NVDA Or AI Trade\u2019: Kenny Polcari Says Fed\u2019s Inflation Concerns Are The Bigger Market Risk - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmk3OExJZE10OUFFYjVVZjBZcF9CMEd0SkV6TEcxZzZUWjdFRUlrcjNKTlFkb1BBREFkMVdVNW4yVFpSYnl0VGFucG1iZjhkUlVEdm9CMTF5LVhjRENpX0RNZm1hRHhmTTJoTjloVktFbl9zdHhpYTdSeXBfTmR0RDBJUnQ1UGp4ZmRLVk5NWlNRX1FGN1FV?oc=5"
-          },
-          {
-            "title": "Nvidia Moves Up Raises and Stock Grants After Jensen Huang Exit - Mitrade",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2tsQ05tYkdyX2hiVE9odTZsOTZHVHNtLVRVN1NYbTd5V2VlT3hQRjZkVTVNNFdKcGpsRm84MVpCS2MyYTJoQU9OMWdtcFJQTS1zUkVOMnFlUHhBeGdmQ2dqaVdQN2JDejg3QnlNczdlTjhxalhoY2JncndMbWRHSHpiV3V4bGFRSGo1ajZGd3FLVTg?oc=5"
-          },
-          {
-            "title": "Elon Musk Says Nvidia Made a \u2018Mistake\u2019 by Parting Ways With Jensen Huang: Calls Ex-CEO \u2018Michael Jordan Perhaps at His Peak Level\u2019 - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc1J0M0l0OVQ3UUxpWUZzUFBsY0lPYllJeUNDanp6aHUzWHVSeFNLODJRNTl1VmlUMHBNRGQtdjZ4WFhvbV9pbk1teUV4NjFsRmVyVmtneV9NZWFoTEotVXVaRFhKaEJDZmpseklva1AxaTMyZVZfY25uanZxVEJtNTBncTJaSjZFVTl5d3htYUNfM1BZQWc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.37,
-        "weekAgoPrice": 1.4800000190734863,
-        "percentChange": -7.43,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.745,
-        "weekAgoPrice": 0.6949999928474426,
-        "percentChange": 7.19,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-19T04:16:20.064541Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2669,6 +2626,62 @@
           {
             "title": "Nvidia\u2019s Stock Slide Deepens After Report of SEC Accounting Probe - Barron's",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5INVNuU2E4Z3Bsa0FYa0RqbHNYM3ZlS1lZV3BlODA2Q2F2ejlxMllHQnl2YzhmMm5IeW5RdU9tUzhGUUdlVTJtMUozbkJYZGZOMFpnMmRaWWxpRDY0OVF3a1JiTVBrZmNWMkJsTVotRERzWUZvQVNV?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.36,
+        "weekAgoPrice": 1.4500000476837158,
+        "percentChange": -6.21,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-23T00:15:51.706053Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 484.52,
+        "weekAgoPrice": 523.8800048828125,
+        "percentChange": -7.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Billionaire Tech Investor Philippe Laffont Just Loaded Up on These 4 AI Stocks - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUnJLV3dQSk5vTWJ1Mld1TF80cUgybjB5TWl1em14OUVKX0RaMWdOdWJUaEhjeGs2VFpTNEs3VW9vWFpaQ084dUdNNV96NEdXamFwczlVbGFvZmZvM1Z6VEFBTFVySmRmMEROUWlZejBRSGh3bi1vbjBCMm1ZNTZ6SDItQWdVZDNkd0NuUXVYajFkcXBWdlk0S09lT3hNTHBZdkRLWXZKMm5Pb3pqZThjWWF2eFBRejh2S0xBeklfN3FPYlhCUWkzVC1ZUDRHU2xQTFVsdWVUQkRVVE50X1lxZ2NENnNOWnVNd256bGp3aVlqeDRRcjBQUw?oc=5"
+          },
+          {
+            "title": "Microsoft shares fell 9% from record but historically rebound with 30% gains a year later. - Pluang",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV19hZEZhX1BRenBsVmRFVmpDMHhESWlfTHlaMk9pVGctU2k5TTdLakQtU2ExZWQxd0o5QWpaQ3hiaTZUNnZnOFJwZTFkSkhMUkQ0V0I2dGRxOGJJX096WFJQTk9wamt4TmZ2OUh5eXUtUWU0UnBEZXY3WEMzZk1ISTQwcWh1WVB4VTAzVQ?oc=5"
+          },
+          {
+            "title": "What Makes Microsoft (NASDAQ:MSFT) A Focus Amid Market Uncertainty? - Kalkine Media",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3U1R09FZFA4ZGZRVDhNM0EyWmZjSXZfUG5uc2hFZzBxemY4aFpmS3pldWdrYXhUZUp2RUJiRkVCSVhrc0NFN1dvUFdNMDNzYjdNN1NvbFdGLTFSMEtjNGhScFY1Zk85NXZaRU5YbWtHU3pjX050cVoybGgxcUJKblU1dTNzSkZvM3ZRb0UtdlEtNFAwRmNfdVd0dHpuQmlPSHU0Yi15MXh2amc?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 125.53,
+        "weekAgoPrice": 162.85000610351562,
+        "percentChange": -22.92,
+        "flagged": true,
+        "news": [
+          {
+            "title": "AMD vs. Nvidia Stock After Jensen Huang\u2019s Exit: 1 Trades at Nearly 4x the Other\u2019s Earnings Multiple. Here\u2019s the AI Chip Stock I\u2019d Buy Now. - Barchart.com",
+            "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTWY1TFdsWFJ4OFBwbUMyNnA5cG9RbWN4c2hzeS1qakcteXdsNmNINlJ2SkFlcG9Pdi1EWndBREgxWThsY1BaWGdDRGZ0T3ZxQWp6cHJ3dXFLa3JzT2EwX0tDY3M3WmdxTE9YQXBNOVFSbl9xWFFvMDZ3dml2V1l3dlNVRFZFRUpqQ1pORlBWd3A2dlJUUmduMlNXYlRaZy1NaWs2djJ1MFhSbXNfbUVNTGdjR0xsdnJ2WUIxN0RvOHNsM1BZN0NuWkdtaWtwX2FZdWhwaUVhUU1XYjZMaVI3R2VCQWJmdlRjRE93OE9rSGVyblNZdERGaWxxTUpaUU5CWXRSSg?oc=5"
+          },
+          {
+            "title": "U.S. Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang. Should You Buy Nvidia Stock Before Nov. 25? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamN6WXVZdTI1R195OXJ3VlJWa0VmNWVmXzlqNFNEQThvSm1uWmQ5akpWWW85a1ZMdHpJWXhsWFV1NVFFcTJZQ1YwdWZrRnhJXzhUU0lBdTJNbmVaN2d3RkpjT2JDRUZhUzRwTUVOYzN4RUxvSEhkb0ZtczBwZVhQTUZOLS0tVHY5ZGJsTkl5X0VuZkJNLWVyTEIwMXZVbzNw?oc=5"
+          },
+          {
+            "title": "U.S. Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang. Should You Buy Nvidia Stock Before Nov. 25? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUEVKRkVqR0szTXRkd3d2TUdIc09Iczc0VFZQdkRFU2xIWGVNSWJRMXRKVlVyM1hBb3E3amtoaWo4Y0c2VFozQ2VpQ3V3VWJiR29ySUVSU1hnYTBDMTZSVDNUNkh4QVlwdG12ZU5ZOFBSRlB6Y0NHbDVDRDVTeWJhdUlHY3djRUVvejlESnhZV0IxTGgwMU5vM00zWkdRMmc1NzVkTGI2cExaMFpSZnNmeVFpakNIaDF6bmJMcXFIWEUzckRkTVZJc3pKdWVLazNzdWdXcEhDYXZBQmxTZEZKVTRlNG1tSDBCSkg4Sm5qRHBQcWJvSFVfY0syV1R6cHhsVEFTTkNpYzVtdFR2SGc?oc=5"
           }
         ]
       },
