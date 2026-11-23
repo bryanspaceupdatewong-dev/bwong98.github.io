@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:15:55.855589Z",
+  "generatedAt": "2026-11-23T14:15:55.673083Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -11,16 +11,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "3 Best Tech Stocks To Buy Now For 2027 - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwMEtwekVqWVVfOHA5UHl6bU9Vb2k0eEIxTGdyNmJ5d1FrM3lubzRpS1drX3pZV1pSU2JrNU8zVDhQdXRwWklIWHpoMlFiQUxxa21sVEQyM2hudFN3OXA5dEdsRmt4ZTE1VDUzSVN1dzd2SXFLLTJIb3ktNGs?oc=5"
-        },
-        {
           "title": "Weekly Recap: Azure revenue growth and Maia 300 AI chip unveiling - TradingView",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTJLNGZUM2ZLZEV3d3JWZEM2Z1pqYzRkM0E1bWdpNjJHcVhraEQyTU9vNTZ2T1RzNlF4UWs5aUVCNU9jN3R2NmhQN1ptM2JiQXJtRFl2SmExekh0bG5JZzV0eTVFODJZancxRUxUcF82RDhRRE9mTk5YS3dNZWhsS0F4aWc0MlN3YnFYZDBoNnlLMDg2NktSZ2pPU3gxYXVkajM3bmNqRmY0dTB4ZHJpbDh4dlF1ZVBNRlNpd1p6cV94Z29H?oc=5"
         },
         {
-          "title": "Buy alert: 3 stocks most likely to make big gains after Friday sell-off - Finbold",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV28xVkxKNXFjVV9rSzREbDZLcTFySUM0OEFwVndaMmZ2bTMzMElvbXJSdzFFS2xWcTZhWkE3eWNrcnVnMkZxOExrVnBabi1OR2VyS1JvdlBNdWVqTW11TUVwZjl6bHlFNDZCTVFIRnl4LW1EbzMwOXFTUDllOFBlQ01zMUZpN3UxcTJia3NfYno2LS1DVXc?oc=5"
+          "title": "The S&P 500 Just Had Its Worst Week in 18 Months. Is This a Buying Opportunity? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTTl1SEZQdnJxZVlKQ19Kc0JtRWNzSEJzX2RzSDM5ZmxZYnJGM0VfN3Q4R3RFZHdqTzJhUzBRd29TQnlmVU01cy1sb0xHM1NpOG1jNUhDLXJ6dTZmckJrOE5QbUhHU2JCZUdWS1N4YjJGZHlwRHVxX2IzQndkVExnS3JUSE55cG54LVZVTkRvQ0Vra0M1U09Kc3ZvODFmRlkwNzZ4UHJjZVItR2p4VVZ5bzZVeWZURkZMNzRZNVZ3S0RsdHljT0tKcGlteTF3OE9tWWtselljNWpSQkk5em9hRXR5UlNpaW9PZDFWcFJtYVh3U193dlE?oc=5"
+        },
+        {
+          "title": "Is Microsoft Stock Stronger Than It Looks? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTN0N1hHMGNON3J1ZFRlaGhhZXA4WnZWWlBRRXU2cG9Sd2J5TmVYMGlWSnJ4TWExU0JJaWN3d3RhM0Rja0RkbmhmQkhLMkhkTlFka3p1TFNUUUhQdTRBNWhJMmhYTmY2QU9PZDJybmtoZWEwVDYzY3BDMWMwRUM3Uy1YQ3Rjck10M1dzaWxzRVNQZ05VQ014V2JiTkJqTWZMSURocA?oc=5"
         }
       ]
     },
@@ -32,16 +32,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "The Stock Market Rebound Is Here for a Good Time\u2014Not a Long Time - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2xrTE1GVmFMbXM5VHhqX01PN1A4OHJhLTktcmswbm9RTHBnUXBmbmFneGw5b0ZXUGZoSDFrakFOZG1MbXRzQUkzcDhfaEJicGItMVNEaDhBWlRvYVlMNEZJLVoycjNKaHl2SGhkUkM2eVZ2Q2dQM01nUWhkTmZfRA?oc=5"
+          "title": "Nvidia reinstates Jensen Huang as CEO, stock rockets more than 30% - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNF94ZEhDb1FOUjN2WWR4bkppV3ZpYTFSTWFwN3kwZUJ1a2g5YkpUcmlUWWpIU1dTdjNmRHVSeDRXaDdsZGtIZHRndk4tUFVwM0ZKcDZXUEFxX28xRlhsSU5XZ2VnMnBESWMzSUI3TEpFcnZEM2pRUXFwcUF0Rk15RGlTT2tVaGJwM29QTTlpVEFjTi1GNWxtY0pSN1J1MFJ5Q1RiWDdpSDZVSFRWVHpUNHl6RTI1OVUtT05IenMxbEJxUQ?oc=5"
         },
         {
-          "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang - MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNTE3UTJiTDJBdGEteFJpU1RwQjQ3NW56dVJyc2ZXcTd0M0V5b3hfMDZEdnEzaW9GNmJjV25iYl9Gb01jallBT2VMaDgxWndBdnU4WERzcXo5TEpKTU1EUGJXTTRxWFoyZ0dmSUJFenZrdG81ZWNkN0pXNmo5SDhWOHFuRkYyMHZjWmlDck1nS2toS0dhMnlmRWhWRFIyU2gyZ0lIaktGVEVjMDRoMkFzcWVyRkt4blFjRVpCOHNsb2s?oc=5"
+          "title": "NVDA: NVIDIA Corporation filed SEC Form 8-K: Leadership Update, Financial Statements and Exhibits - Quantisnow",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTRTLTVQMFdRTGZyVzlYak5ZTnJOOEdZNGE0QjVBVE9BelpZU3BFLW5ZcjNHY2U4R0JjMDg1cThzSGRncTdMN3pid1VJblRaei1PRDVkRmtLNGEyTkt2eXludkZ3M2NJMnYxSUhYVUoyUFdKVkYxQVpELTQ3NXl5d1VZbHhGaXUxUjdHMmJET08tUjB3MEJEMUtfTWlGeTNocnJITjJpbmE0ejRVc2NhbmdCTzhPUjlMTm44?oc=5"
         },
         {
-          "title": "Where Will Nvidia Stock Be in 1 Year? Wall Street's Answer Might Surprise You. - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDNtZkpIbmpYenhvQnRwR1gyQndDaFZtOHJPUVJHREdkaXdhVkZxZEtyajB6SUdPOS13ZmZYTUdhRFFGcDF0TFp1eFpzQkhHQzdCVWFqTG15bHFlei1yZXF1dUxPX2hYMDhGVVZIRmNPU25sM2Y2QXN2X0xfMVYtUGgteGNwMl9KX2lOTzJvZ19lX1pn?oc=5"
+          "title": "Nvidia, Broadcom, and AMD roar higher as chip stocks rebound from worst week since 2001 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYUFrVFV3UmgxTVhmTUZmRVJ2VnZUOXF5cWN0MEdzSklTZUVYSUd1bXVQZGJSVUJSWHlPNzBlNGkwQjVRSThRV01hSld0N2F2dnU4SmxYY1MxNlVRYk5EWUg0SktCWVhJSElxbjlMTzB1V2xUeUlGc0ZGYUpuV1MxWE1qdzU0RkIxaE5Tb283WHRBTnlFMC1SQy1pWGhnRTZRTmdaTko2YUt5djRJbTBBUTdINEwtZHhiWWVqcElMTXJfaFJpd3E5QnRxazFRQ2xrQmc?oc=5"
         }
       ]
     },
