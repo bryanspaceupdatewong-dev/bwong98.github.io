@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:15:55.082013Z",
+  "generatedAt": "2026-11-23T09:16:04.875728Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -9,20 +9,7 @@
       "weekAgoPrice": 523.8800048828125,
       "percentChange": -7.51,
       "flagged": true,
-      "news": [
-        {
-          "title": "MSFT (NASDAQ:MSFT) Seven-Week Low Puts Long-Term Moving Average Support to the Test - Kalkine Media",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY192ZWZ2aTV5SkdQVW9tNFhyMjc3d3hMQi11MVlnd3FDdnFLOTdRTzZwSW9sWGw5bHhlVlVJNzFwSlBwS0VqNXdDQTlSRjdqdUNsbjVIQkR6eDRubmhucHJvdl95M2hMUGRMZ2hkXzE1ajJKa09fYlNTd2VtcDdfdEc4WmZ1enRqWU9vbTBMc0hnVmlMN2ZIYXNnRlU3akRoRkR3eGtoZkRWUkx6eU12QmlpNnBNYTNRYVFPVlg5SjRVZElSOUtnaW1objVKYk0?oc=5"
-        },
-        {
-          "title": "Microsoft (MSFT) Stock Price Prediction: Earnings strength meets a still-fragile technical setup - blockchain.news",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVhDMExnajllcmhsSjVnN29wVUphb3o4X2p1dXRtYkVreDJNSTVBOFVfRm1ka2xoWldWNXJvR291T1VCZ2lBSHFWdGpyQi1zbzkwcXdZUTBOSUdBZ09Xam5kM3M4ZGtQcFM1U0oyaXhXSDd3LURRNUlEdGFQS1NXZHNHN2NVVkN5UG94QnJLakNtQXFnSFctMmV2dHh1YXZI?oc=5"
-        },
-        {
-          "title": "Trading (MSFT) With Integrated Risk Controls (MSFT:CA) - Stock Traders Daily",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaTY2ZEFzbEpiODBYeFp1NjNKQ1dfbzJ3TkVkV2c2MzR5RkpVRFhQRWtNRC10N2o1UTdkbDVkS2x3SUpMWDVhUG51Wk9NYkllTGFyNVkxaXVNLWZRMGlqREs2LTJ4Zkl1eDVBblh3NFZtdEROYzdCb0MzUkF3QXZ0akhBSTVkaUNJaEhxcmZyX3lhS2VKaGFrZXQ2QVgyeDBWWUE?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "NVDA",
@@ -32,40 +19,40 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia (NVDA) Stock Looks Below Fair Value After Recent Turmoil - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbUpxbnpVNGpTNThJa3dsbWR4R3cyQ3hWbVFydFJ6bW10dldabWVTU3hPMGRoZlFhczNXZWgzbHppOVBIZzNKb1VTNWZ0dFd3S3lHdTJFRkdJOUo2N0FIQ1I3VnVPLVdwSWdmS1NsbWVmVW9WVXdrOFI5TnV2a1JFb0dfVWRjUWxMMUhwT0FQdUdRMEFvVFBjTjZR?oc=5"
+          "title": "Nvidia vs. SpaceX: Here's Which Stock I'd Put $1,000 Towards Right Now - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWRRam1ZLTZnOV9NSkU2eVpFQjNHa0xwOW1fYWpxbEMwWkFXZGlnZjlYSmRteVZra2VSVlE3aVJIdzM3XzNHeEZrN2pqanI1blFtTlNRcjF6TnJxc01HNTZDWlo1cDAyR1hCdkVKc1h6LWdIOUt0SWpLaWllOU9tYWRPejU3OGlKYkpGTndXOVJGNFNVRVBKOQ?oc=5"
         },
         {
-          "title": "Nvidia News Has Investors Rethinking These U.S. AI Chip Stocks - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0NQWU5NdWFiQTl5cHdmNW9YRlpiVy03b0ZDdHhaQWFHMlRSLWFfeWZoYmM0bHVGVDdvTnRmQ203NW1GSEdZXzVDSk42c21ON0hHaVZodU9tY0JYa0hBWEFOWFFqdm9md01LZkM2Vkp0LU5HUjlqZjJsRTdVZG0tTFlrV3ZqdmxvSE9CejBfNU1NSnpqYnNEMWlWZ3ZQZVk?oc=5"
+          "title": "Nvidia vs. SpaceX: Here's Which Stock I'd Put $1,000 Towards Right Now - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN05GaFptM2hyZThaYkRFZW9JNkNDakFqdFZOeDhNdV90cHZla0tKNk1hVjlINXk5Tkd4VTlfZVlQSUVZM2ZOUnlOSE0xemFHOUZmdzlkN2I5QnBoYk9UYkd1czZGRXZOTVZ0RGFDRTlrbjJZQVR2RWdOcXlTclRUU3B3czNQRG1ZWV9pWlY1YlIzaWhMdE1IN2hES29BZmVmRG55RHVYWDZiR3ExM1ZnN1AtMA?oc=5"
         },
         {
-          "title": "Verizon Cut Its Buying In 2002. Can Nvidia\u2019s Buyers Stop Now? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRXBPeTZZSWFERTg0cmxxa25rMGllZHZSVDQ3SHMyU2VaUGpDaTctMTV4cHVDdkhzTm0xeGhsdzl3RHgtYnJTOXBWVHdmbjRMRmswMUhlYkh0NUpvRnNzWTgwdXpXVHJEcUJyYWwwOXJkc2xVNlJpcVNoVHIxS3hkNVhwNjdablNpNkZDMmpwR3BBT01JRVUyRXZISmYyNi15emFySEpBZXZlS3dFM1lmX3RYY2xWakp6QTlsVA?oc=5"
+          "title": "What Sent NVIDIA Stock Lower On Friday? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDRYQU91eE9Rak5HdkN0S2dnQzM2TXpUTS1EZklyYUNDcFczZjRBdkFjRFk4LW4zZG9zQ3JyQ3ZnR0RVR0xPVzhCUUYta0pZVF9QUWc4bEN2OEZFNndlVW1uYW1fNTJtTktfeEYwT0ppZzhNc0hSNW5GcXhRcnZ3Z3VhdVN1MDFoUHRMMW1IU1c0XzVXb0hDc1NEb3JKSWFE?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.52,
+      "currentPrice": 4.5,
       "weekAgoPrice": 4.550000190734863,
-      "percentChange": -0.66,
+      "percentChange": -1.1,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.67,
+      "currentPrice": 7.68,
       "weekAgoPrice": 7.590000152587891,
-      "percentChange": 1.05,
+      "percentChange": 1.19,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.15,
+      "currentPrice": 1.14,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": -5.74,
+      "percentChange": -6.56,
       "flagged": true,
       "news": []
     },
@@ -99,7 +86,12 @@
       "weekAgoPrice": 0.25,
       "percentChange": -10.0,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5352.KL",
