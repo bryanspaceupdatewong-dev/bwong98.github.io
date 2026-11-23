@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T22:15:47.559734Z",
+  "generatedAt": "2026-11-23T23:16:37.308785Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Stocks making the biggest moves after hours: Zoom, Hewlett Packard Enterprise, Agilent & more - CNBC",
+          "title": "Stocks making the biggest moves Monday: Zoom, Hewlett Packard Enterprise, Agilent & more - CNBC",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVBOMTAxQW1BaE9lVmJjMDJ3dFgta0pfS3pUcFA4UEVjR1dGTnZOWUQwc09pQUlOeURWR1RqWEZ0OWlGYmpyUlM3eVFFcmxkVEx3SjFWNm9udXJuMUNNNXdmRUw3RVZjN3hJRTdLc3IxMTJzQVFwWk1YeVl0UExqLTZRVG7SAYoBQVVfeXFMUHpQdG4wa1JHdm85UkkxSkNrWXd1VlFMSkhEVWlBZ2pJNm92bXE4RG5EWG5yT2hzQXZzSjZHdHNGZWlITjZWczJBT2JOOWpBbzBiLVdKT3NpT3FSZVQ1bTVyWWc1X0l1SWZBMkt6dWFZTVB6cmZHRC0wWnRrZ0xLWmdNSWZUZVZHc1p3?oc=5"
         },
         {
-          "title": "Nvidia live updates: Nvidia stock climbs more than 31% as board reinstates Jensen Huang as CEO - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWh4SkxkZkVEYVE0bHF3bzR2azhpV1pRbVJVSzJ2dHYyTEFwcFNFNFlLb25Qa0NnekRUTUlOcXd3SDBfZlJsdDVtOFNTd0VQS0RCWC1WaWZJdURybFFnZFRCM2h1SHA2RXNpWjQzLXNNMURST3dULWp4QVBKMVkycGVmeXN1eXJCWEZkaXg5YmVaTlp2SlpfM0pidU1ZaVExbGxKZXc4VG1vLVZDQTVYSTF3R2RGalo0LWVvcmtzdzVscHl0OEpsUF9RQU1wM0MyRHhQcEQ2ZEg?oc=5"
+          "title": "Stocks surge in best day since 2025, adding trillions in value after Jensen Huang returns to Nvidia - NBC News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTWR5WHAwZmExU2UyZkd2d0w4UWxCcXh0X1hJajU4alplUUVUdGM5bk52dDRoazNfamJfbWdQRGhEVExVeFAtZldhcmxYOTlaMmJKTkNQN2Yza1dNS0dfZkhQZTRTTGZudGI1d0JNbWR3SWJzN1hRYWxxWktYS2hNaFR3ajgzQ3FRUlJLVjE5d0cwVnc?oc=5"
         },
         {
-          "title": "Bets Against Nvidia Stock Lost $11.3 Billion on Monday. The Wild Swings Are Just Starting. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HX1JJUGdfTEQxWnd0Nmw0U2l0T1BCVTljd3N5NWs1Slc1Wlc1b2tPemFfWXVpNHg4XzA1S050OThlZktCVzJscXlVZGRFSV85cmI5SnNpZEtlSHRLcE53Ymx2NDRsai1Pd09vcU1aR25Wd0hFNXVN?oc=5"
+          "title": "\u2018I Fell Off My Chair.\u2019 Investors Marvel as Huang\u2019s Return Sends Stocks Rocketing. - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNmRUU280U212czQ5Tl9Nb0RjYXoteDBQOUNXNExXVUNjT0JQcGRGWjhtcm04SlF4UzViLVU3MURlSV91T2FEUDc2ZXNwX3dqOGtxeVZxd2hKdWZOM0hEN1daeFA5UC1GN3ROS2FWZWlzNVBHR3B0M3kxUkZuRDVCZkVKdTJZQWp1Z1BYcERhUk5mRzVMSjVzRVZCb0JuM3lwM2JHQ2xuX1dSZGRPV1NqWFgwR0RfODJ4VTZjUg?oc=5"
         }
       ]
     },
@@ -62,7 +62,12 @@
       "weekAgoPrice": 1.4299999475479126,
       "percentChange": -7.69,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Malayan Banking Berhad (1155.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ManV0aURjWlBjaEp3MXhFbi03a21DdDVJVlFDTlR5NHJNV21DNnhBUWxqQzhLQUlRa2VtSlF3ZDVZalBqU3EzSXdJQXpaSkhMdzhqYjd3?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5271.KL",
