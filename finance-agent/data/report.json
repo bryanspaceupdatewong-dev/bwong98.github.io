@@ -1,36 +1,23 @@
 {
-  "generatedAt": "2026-11-23T16:16:37.061027Z",
+  "generatedAt": "2026-11-23T17:16:01.543393Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 498.71,
+      "currentPrice": 499.79,
       "weekAgoPrice": 517.989990234375,
-      "percentChange": -3.72,
+      "percentChange": -3.51,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 166.55,
+      "currentPrice": 166.63,
       "weekAgoPrice": 156.13999938964844,
-      "percentChange": 6.67,
+      "percentChange": 6.72,
       "flagged": true,
-      "news": [
-        {
-          "title": "Nvidia Stock Eyes Best Day on Record After Huang's Return - Schaeffer's Investment Research",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE02cWljaTNNQ25zQmhFUmFPM0Fmc0dRSjhreFNrZGVfV0hsQmk0TGlTNWhBbGVEWmQwcTlORG94Q3RGall1TGNPTXljMEhyc28yemJDWnV3bGdmcFkzOUVFVkdLdGxuZGJacWRqQzFwS1U3bnU3Y1JVci0tSHZRckN6bWdjU0U0bTVMWmp4UF9XTTVxQVplRzZ5eVRKZ3h0QUF1V0pRM1NVSUVJV2dlVnVMbDg3dw?oc=5"
-        },
-        {
-          "title": "5 things to consider as Nvidia restores Jensen Huang as the company's leader - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQW5hN25aQlFRM1RvY3RTdXpkTlhrNXVmVm90dDVWejNPd1ZrOV9XNXVUNkxSRk52ZEpLZ2RMdUczRUNvQXQyUWI0a25rcU5BUG94OHRCMWN1Vi14SGVCMGg2Sjlwc1lNV2hLNVliZkxwa0g5WVp6Sm9aRmVSY1BYVkV6S2g0c3VSQm1YY2wtUENDWDlwYlc3eUM1MUthWUdjLU9iVnFxaXdaTzhaWmlJNjl3RVo5S0p3MjNNSTlIZ2FfUmNuX01MNHBXRy1hY19BQzlrUUpn?oc=5"
-        },
-        {
-          "title": "Nvidia Stock Skyrockets After Jensen Huang's Reinstatement - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHQxdEJSUUJ4bjhWbk9TeHV3VllqMnJJdlNRZHB3U0JTa0oxcm52b255aHJ2Y1lMUWNCMHloR05JT1VHVmx4VnhUVHRnUDgxa05VdWtjSkxjaS1nN2oweHlVaGZMYWpXVi1UWTBHMl9sZ3VlYmxIWE1kR2NNb0piWHN3UHo1aVRfc3p0c1l6MWctSHNBbDg4d1hGdGRMWm5JT3hPTWhkLVFndU9DcWQ2WDZxMjhuMVJlTmc?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "1295.KL",
@@ -94,20 +81,7 @@
       "weekAgoPrice": 1.309999942779541,
       "percentChange": -6.11,
       "flagged": true,
-      "news": [
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-        },
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-        },
-        {
-          "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5341.KL",
