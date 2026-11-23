@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T03:16:25.912459Z",
+  "generatedAt": "2026-11-23T04:16:22.746825Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -32,16 +32,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says \u2018Bears Feel Validated,\u2019 But There\u2019s No Stopping The AI Wave - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWVsV09aaUtCWVhraDVzNVlWQlRILTEtMEN0ZDdpVXFBZ2s5b3hnZTlxRFFvYmhZVzNlVnpqa2JwY3A4RDBMT3V6cnd5YXVuZW9RMFh1Zk55OXVXNlBpQ1NvREg1bjJ2dUtPZ3gxZnhQVVg4TDBmcGpDd0pSZHVVSV9lYmdha09yOFRGb0tLOA?oc=5"
+          "title": "Taiwan uncertainty could put U.S. tech stocks like Apple and Nvidia at risk: PM - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTJfaHd4Zm9NQVJDVlFGYVY2YzJYQ1dLa1ltRmNXdE1pT1BSRFFNVkZJNXZTT2IxM2JoUDh0dGZtUlJ5eFR4cGhyaTUzSWI0WU5zdVV2THhKNkk0bENScFRDNl9zNjFsYWRSb2tGQ2s2TnhfT1hyZmtuaHBxTGJCNWN5bE5kTF9CdlBrM3hfYmlfZzkwV19Qc2ZYR2IxWUNQbFAw?oc=5"
         },
         {
-          "title": "Bessent Softens on Jensen Huang. Can Nvidia Stock Finally Catch a Break? - Mitrade",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTk9HS29QekViTDg0enZIbThyU05sQm4zZ2FHZFJBSS1HaUhXbHpsRlp6VkJFRE5kYk1GZGhna2hpOUhTSTJVSFROMUNPRGlxZXlxLXFlVXdjU0hwLWgtd25kREw3cWExZ2tnaHlQWTFMa19mUy1CUzFKa3hsQ1U5RUdiVGlDUFpIWmhORl9fSFdBZ1U?oc=5"
+          "title": "Nvidia Stock (NVDA) Falls 14.0% on Reports of SEC Probe (Nov 20) - Gotrade",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZng1aU9pd1VfREZxRHpvaUFnaGZjeklYTWFIdHdkN0l5QVlmVm93aXpQMzVsbVE0MU5FQTZMNUhQNE8zWDlmcE9OMzRSblg1NjBtYWVaUmlzczdwLVFKRE5selJvZk12Zm9LUXlsTmRlcUtOWFBXMmpfeUxKeTdkQw?oc=5"
         },
         {
-          "title": "Nvidia suffers worst weekly slump since 2008 as shares plunge 23% amid chip-smuggling allegations - Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHZNQ2JJREUycVB6VmVGZHFkdWZPMlFqRjFPcEQtNFlSY2lwVl9MZTJYcXNwcGJsd1RFT1phTDQ0b1FBbGR1aFkwby1TdDBIU21Db0IyZGhOMk4zUURSc295ZzB0c0Q3cHhQMDg2b1MzcW1oZHBtQ1lpcXI4bnFMTlk2cFpLZFlSa0E?oc=5"
+          "title": "Michael Burry Jokes About Joining Nvidia, Lululemon Boards - NVIDIA (NASDAQ:NVDA) - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWEZQOU5neEtoVjcyYl9DMEIzc1R5WmdoRFF1Wlloa3BoQkw1bFRwaWxTOG5wTGhXUWF2MnJ3OGppeUFoN0lmM3VtdHVibVdwTVdhOU5nYnVJR2xoOUlNcWMxdldKM0NrUmV2OUNlcThaU1FZUDRTLVpCVy05T2dnYVM5ZXhtSm9wcXBGWEpCU3hOelMwSFUxS3Utc3dMNWtaRVg5SzZqLVBMRnBQVk91cnFVUEI3YkRIWmRoZERhcEhUMXVFMENsM004YS0xZU0?oc=5"
         }
       ]
     },
@@ -71,9 +71,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.31,
+      "currentPrice": 1.32,
       "weekAgoPrice": 1.4299999475479126,
-      "percentChange": -8.39,
+      "percentChange": -7.69,
       "flagged": true,
       "news": []
     },
@@ -95,9 +95,9 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.225,
+      "currentPrice": 0.23,
       "weekAgoPrice": 0.25,
-      "percentChange": -10.0,
+      "percentChange": -8.0,
       "flagged": true,
       "news": [
         {
@@ -129,9 +129,9 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.695,
+      "currentPrice": 0.685,
       "weekAgoPrice": 0.75,
-      "percentChange": -7.33,
+      "percentChange": -8.67,
       "flagged": true,
       "news": []
     }
