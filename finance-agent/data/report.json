@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T02:16:23.915888Z",
+  "generatedAt": "2026-11-23T03:16:25.912459Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -32,16 +32,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia: Crisis Prices Won't Last (Rating Upgrade) (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbC1nNWxqaUtsZ3oyOVFoOFJQd0ozS0VvZ1FWZmVmRTNPdm1sZXhCUk9fYTNPdkxXTk9mMGtEX3FqSzM2TXY1dUdLa1hUZ21MOEpBbU5XekQ5U1IyeE5RYWo4WlNJTHNDVERLOFdVLTJ4X2V5X19CV3VDOW90RkJWZ3VGbVFQNTNXaXZoMy1qUQ?oc=5"
+          "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says \u2018Bears Feel Validated,\u2019 But There\u2019s No Stopping The AI Wave - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWVsV09aaUtCWVhraDVzNVlWQlRILTEtMEN0ZDdpVXFBZ2s5b3hnZTlxRFFvYmhZVzNlVnpqa2JwY3A4RDBMT3V6cnd5YXVuZW9RMFh1Zk55OXVXNlBpQ1NvREg1bjJ2dUtPZ3gxZnhQVVg4TDBmcGpDd0pSZHVVSV9lYmdha09yOFRGb0tLOA?oc=5"
         },
         {
-          "title": "Nvidia Just Lost Nearly Half Its Value. A 62-Year-Old With $1 Million in an S&P 500 Index Fund Owns About $50,000 of It Without Buying a Share - 24/7 Wall St.",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNG1Id1c3d3VEUEppX1dVam1LMFowR01QUjE4bjhLSTV5VU5UdVlkbzdFLUl2ZFB5RnVNRURHczJwLXRZRFlzMkp1cmRsNlN3LUVhN28xd2VvY1pMUkVGUWRoRTF1ZnBNVDNUTmtzemU2YVl1clhVZU1BZWZERjBXRm11RnpaUGFWc1lIS3RTY1V3LXQwak5yMTJHNlJzb1FsZFJ6dmZXZWhXMjc0S19LN2lSZml0RmxzVGFHU29JMEF5U2ZPSmtZMlFuQTVEa2ZmSUdWVXU3aXhCTEx4aFZhQk1UalhNcEM3dzZQUEdhYlpzT2xycXk2VTh2YmpqQWdWTl9HTHY2cE02TlpJWlE?oc=5"
+          "title": "Bessent Softens on Jensen Huang. Can Nvidia Stock Finally Catch a Break? - Mitrade",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTk9HS29QekViTDg0enZIbThyU05sQm4zZ2FHZFJBSS1HaUhXbHpsRlp6VkJFRE5kYk1GZGhna2hpOUhTSTJVSFROMUNPRGlxZXlxLXFlVXdjU0hwLWgtd25kREw3cWExZ2tnaHlQWTFMa19mUy1CUzFKa3hsQ1U5RUdiVGlDUFpIWmhORl9fSFdBZ1U?oc=5"
         },
         {
-          "title": "Bessent Softens on Jensen Huang. Can Nvidia Stock Finally Catch a Break? - BeInCrypto",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xZktlbXhfcGx5MUJTWGpmZG55THFycmcyYWdRVkViMDVqMjZSbmt5ODdSakpEaFFPeXd3M2E2eHR5bDFRbzhEb25ZY0IxOEFLV21KSy0xanJlamd1VmQ1UWQ5ZmpZTGR1aFR1QmZPNndVNGs?oc=5"
+          "title": "Nvidia suffers worst weekly slump since 2008 as shares plunge 23% amid chip-smuggling allegations - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHZNQ2JJREUycVB6VmVGZHFkdWZPMlFqRjFPcEQtNFlSY2lwVl9MZTJYcXNwcGJsd1RFT1phTDQ0b1FBbGR1aFkwby1TdDBIU21Db0IyZGhOMk4zUURSc295ZzB0c0Q3cHhQMDg2b1MzcW1oZHBtQ1lpcXI4bnFMTlk2cFpLZFlSa0E?oc=5"
         }
       ]
     },
@@ -55,33 +55,33 @@
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.65,
+      "currentPrice": 7.68,
       "weekAgoPrice": 7.590000152587891,
-      "percentChange": 0.79,
+      "percentChange": 1.19,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.15,
+      "currentPrice": 1.14,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": -5.74,
+      "percentChange": -6.56,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.32,
+      "currentPrice": 1.31,
       "weekAgoPrice": 1.4299999475479126,
-      "percentChange": -7.69,
+      "percentChange": -8.39,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.41,
+      "currentPrice": 1.4,
       "weekAgoPrice": 1.4299999475479126,
-      "percentChange": -1.4,
+      "percentChange": -2.1,
       "flagged": false,
       "news": []
     },
