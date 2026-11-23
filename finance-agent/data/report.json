@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-23T19:16:21.583145Z",
+  "generatedAt": "2026-11-23T20:16:07.218870Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 496.6,
+      "currentPrice": 498.305,
       "weekAgoPrice": 517.989990234375,
-      "percentChange": -4.13,
+      "percentChange": -3.8,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 164.44,
+      "currentPrice": 165.9,
       "weekAgoPrice": 156.13999938964844,
-      "percentChange": 5.32,
+      "percentChange": 6.25,
       "flagged": true,
       "news": [
         {
-          "title": "Jensen Huang reinstated as Nvidia CEO after Trump calls in to board meeting - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEh6QTZFYnYwckh0TDFqV2ExekUtZ1VodWtvZGk4ci1MZFhObzhLM1V4Mms3RXBhcnZYMXRMcjFGUU5JNFhmMTZFUnZadGMyY3F3azJOc1UwUWtTWEFCMEMwZUEtODl4MmItQjdIOGNmMlI5aE1UX3puUVlwWjZoZ0dtNjNid28?oc=5"
+          "title": "Nvidia live updates: Jensen Huang reinstated as CEO; Trump says he 'convinced' board - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWh4SkxkZkVEYVE0bHF3bzR2azhpV1pRbVJVSzJ2dHYyTEFwcFNFNFlLb25Qa0NnekRUTUlOcXd3SDBfZlJsdDVtOFNTd0VQS0RCWC1WaWZJdURybFFnZFRCM2h1SHA2RXNpWjQzLXNNMURST3dULWp4QVBKMVkycGVmeXN1eXJCWEZkaXg5YmVaTlp2SlpfM0pidU1ZaVExbGxKZXc4VG1vLVZDQTVYSTF3R2RGalo0LWVvcmtzdzVscHl0OEpsUF9RQU1wM0MyRHhQcEQ2ZEg?oc=5"
         },
         {
-          "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5"
+          "title": "Why Anthropic\u2019s Stock Is Sitting Out Nvidia\u2019s Big Rally - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kOGZLdkZ3eG5sMjNFekMxWEI4QTNUWC1QcmRWblNXSGVUMkxiVUo2RU85c05sM2RENlJ3elFvZ1htRWV6V0lYM3Nhc1FpV3BwRVZoU19hZmtJRjBRUjNHVkZQMmM1cGNxSjB4RllEY2JlOGhlLVppcjVsdUFCM1U?oc=5"
         },
         {
-          "title": "NVDA Stock Alert: What to Know as Nvidia Reinstates Jensen Huang as CEO - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakctMDFncVNNcktHVlRnT0RCWERSM0psSWptUmt4VXRJR0tBdlFTZVVOeE0zTUszcWhHVm5XNXQ2WE1Uei1wVFYwWno3dWhlUUlnLXpCcDJWbUNFOVZzZ1hfS1dRaTJaUHhraW8wX0FmZlpHbXpfSkRqLVQ5dEQ0RDdOYzU0aDZudzNhWi12ZUVqck5LdzJaX3VuNENpdGZvWi0xMHo3UVRjOEcwUk9HWExBUEI?oc=5"
+          "title": "Nvidia surge: What investors should do with the stock and the AI trade now - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uZWtBWk05Z2I0ZmRRLTdjRDYyTHJURXdFWTlSOHZ6aDR2R2xDeDk1S2xOUGJmYXdFbDg2dG5oVDJYN1h1VjhncmZIY0xWZGxhMlFlNms1TGFsRlQ0Z0pHZm5hSjFESnAzaXBRcDc2ZHlnVVJWRFJwNi1IY9IBgAFBVV95cUxNd19EVE9ZXzlHUDZUc3hSX1I5SnVEODhhT0Noa29RTHBhV0l2RnlheXhCRWdqRW5BbTc0SGxLblYwZTBfQVVub1d4eGdaWjZKM1BhRlUwTk43RnFpUWdEWTU5VzM2d1J0ODdHeGRGdlkyMW8xYlNJbG5MWUZRU003aA?oc=5"
         }
       ]
     },
