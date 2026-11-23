@@ -1,69 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-19T13:16:36.010056Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 150.96,
-        "weekAgoPrice": 173.72999572753906,
-        "percentChange": -13.11,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Why Nvidia Stock Isn\u2019t Getting the Full-Throttle Anthropic Boost - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0V3d1ZlZG04SEFmUFJDc1lRZDRWMkZMMkVULVc2SlZqMmI2VUlfUW9sWS1UOFAydWxxdDBVZDZVU2FRODNxMUtTdGdKSnh1Z0tnOF90VDNzMThFUkk2dFE0Y0ZwenFLSWl5TFNKUDhod1pOU0VHT2lEbE0tUUtKN3hQNjk?oc=5"
-          },
-          {
-            "title": "Stock Futures Climb Ahead Of Anthropic's Nasdaq Debut \u2014 NVDA, BABA, TTWO, SLS Stocks In Focus - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUU3Q21qQlRnUlRQN0tBa0lKSGZFbU1IYlJhXzN6WUZ3dklzaXpMNzhUZVZmUnozR3pCM016d0dKalhZZGowbG9EekY1T1U0MC1MY2FFRF9yelNldm5kQ3Y1d2o2WFdPR2x3bkNxWktSdThRd0ZzMkh3cU44TXJuaXFDVXIxV244MkphWXJib0RZZlVFUnNsNUxuNzh1UWlYM01z?oc=5"
-          },
-          {
-            "title": "NVDA's \u2018Black Eye Moment\u2019: Dan Ives Says Losing Jensen Huang Is a \u2018Dream Scenario for China,\u2019 But Won\u2019t Stop $4 Trillion AI Spending Theme - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZS13UzNka09BTkV6TVRReUhhX2JlaUhIcDNUdjlWSHQ1ZnNoWjktQkthS1BUOF8wOU81Q0dVbGdSQmZVRUVxSGtaa3dONWowUW8xOTFsX3hDQlJJd2ZVelRkLV9iSXp4RjFQZ0VhZHVNNkR1M1dCQ2t3dFg2LTZwRUViRFZaUS00Z1BuZEpMLWdtb1pR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.37,
-        "weekAgoPrice": 1.4800000190734863,
-        "percentChange": -7.43,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.28,
-        "weekAgoPrice": 1.350000023841858,
-        "percentChange": -5.19,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-          },
-          {
-            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
-          },
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.75,
-        "weekAgoPrice": 0.6949999928474426,
-        "percentChange": 7.91,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-19T14:16:11.019138Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3088,6 +3024,112 @@
           {
             "title": "Nvidia vs. SpaceX: Here's Which Stock I'd Put $1,000 Towards Right Now - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWRRam1ZLTZnOV9NSkU2eVpFQjNHa0xwOW1fYWpxbEMwWkFXZGlnZjlYSmRteVZra2VSVlE3aVJIdzM3XzNHeEZrN2pqanI1blFtTlNRcjF6TnJxc01HNTZDWlo1cDAyR1hCdkVKc1h6LWdIOUt0SWpLaWllOU9tYWRPejU3OGlKYkpGTndXOVJGNFNVRVBKOQ?oc=5"
+          },
+          {
+            "title": "Nvidia vs. SpaceX: Here's Which Stock I'd Put $1,000 Towards Right Now - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN05GaFptM2hyZThaYkRFZW9JNkNDakFqdFZOeDhNdV90cHZla0tKNk1hVjlINXk5Tkd4VTlfZVlQSUVZM2ZOUnlOSE0xemFHOUZmdzlkN2I5QnBoYk9UYkd1czZGRXZOTVZ0RGFDRTlrbjJZQVR2RWdOcXlTclRUU3B3czNQRG1ZWV9pWlY1YlIzaWhMdE1IN2hES29BZmVmRG55RHVYWDZiR3ExM1ZnN1AtMA?oc=5"
+          },
+          {
+            "title": "What Sent NVIDIA Stock Lower On Friday? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDRYQU91eE9Rak5HdkN0S2dnQzM2TXpUTS1EZklyYUNDcFczZjRBdkFjRFk4LW4zZG9zQ3JyQ3ZnR0RVR0xPVzhCUUYta0pZVF9QUWc4bEN2OEZFNndlVW1uYW1fNTJtTktfeEYwT0ppZzhNc0hSNW5GcXhRcnZ3Z3VhdVN1MDFoUHRMMW1IU1c0XzVXb0hDc1NEb3JKSWFE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.14,
+        "weekAgoPrice": 1.2200000286102295,
+        "percentChange": -6.56,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.32,
+        "weekAgoPrice": 1.4299999475479126,
+        "percentChange": -7.69,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.225,
+        "weekAgoPrice": 0.25,
+        "percentChange": -10.0,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.23,
+        "weekAgoPrice": 1.3600000143051147,
+        "percentChange": -9.56,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+          },
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          },
+          {
+            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.685,
+        "weekAgoPrice": 0.75,
+        "percentChange": -8.67,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-23T10:16:18.817721Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 484.52,
+        "weekAgoPrice": 523.8800048828125,
+        "percentChange": -7.51,
+        "flagged": true,
+        "news": [
+          {
+            "title": "The S&P 500 Just Had Its Worst Week in 18 Months. Is This a Buying Opportunity? - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTTl1SEZQdnJxZVlKQ19Kc0JtRWNzSEJzX2RzSDM5ZmxZYnJGM0VfN3Q4R3RFZHdqTzJhUzBRd29TQnlmVU01cy1sb0xHM1NpOG1jNUhDLXJ6dTZmckJrOE5QbUhHU2JCZUdWS1N4YjJGZHlwRHVxX2IzQndkVExnS3JUSE55cG54LVZVTkRvQ0Vra0M1U09Kc3ZvODFmRlkwNzZ4UHJjZVItR2p4VVZ5bzZVeWZURkZMNzRZNVZ3S0RsdHljT0tKcGlteTF3OE9tWWtselljNWpSQkk5em9hRXR5UlNpaW9PZDFWcFJtYVh3U193dlE?oc=5"
+          },
+          {
+            "title": "Is Microsoft Stock Stronger Than It Looks? - Trefis",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTN0N1hHMGNON3J1ZFRlaGhhZXA4WnZWWlBRRXU2cG9Sd2J5TmVYMGlWSnJ4TWExU0JJaWN3d3RhM0Rja0RkbmhmQkhLMkhkTlFka3p1TFNUUUhQdTRBNWhJMmhYTmY2QU9PZDJybmtoZWEwVDYzY3BDMWMwRUM3Uy1YQ3Rjck10M1dzaWxzRVNQZ05VQ014V2JiTkJqTWZMSURocA?oc=5"
+          },
+          {
+            "title": "MSFT (NASDAQ:MSFT) Seven-Week Low Puts Long-Term Moving Average Support to the Test - Kalkine Media",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY192ZWZ2aTV5SkdQVW9tNFhyMjc3d3hMQi11MVlnd3FDdnFLOTdRTzZwSW9sWGw5bHhlVlVJNzFwSlBwS0VqNXdDQTlSRjdqdUNsbjVIQkR6eDRubmhucHJvdl95M2hMUGRMZ2hkXzE1ajJKa09fYlNTd2VtcDdfdEc4WmZ1enRqWU9vbTBMc0hnVmlMN2ZIYXNnRlU3akRoRkR3eGtoZkRWUkx6eU12QmlpNnBNYTNRYVFPVlg5SjRVZElSOUtnaW1objVKYk0?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 125.53,
+        "weekAgoPrice": 162.85000610351562,
+        "percentChange": -22.92,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock market today: Dow, S&P 500, Nasdaq futures surge amid relief rally - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUF4ZHJTbG4xaUNuOFQtMG1BYmFBbVAxNnBFLXBCRXhxc1gwN2VDLVI3NjhmSlRmWmRGeWFlSzE5LTNSS080QWJRZWo5N3p4d05yZXB5X1JmZkxWMUxjUU9MTFA0Y0w0cnlrOERaVDNFQmYtTjZzTjNLS2tLb253enBNdUU2RVRuMHk2WnpiWGVtNGxQaUlTT21MUk0xSUc1OU0xWFZpdFc3cjJELUE?oc=5"
           },
           {
             "title": "Nvidia vs. SpaceX: Here's Which Stock I'd Put $1,000 Towards Right Now - The Motley Fool",
