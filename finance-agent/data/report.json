@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T01:16:20.640437Z",
+  "generatedAt": "2026-11-23T02:16:23.915888Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -11,16 +11,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Billionaire Tech Investor Philippe Laffont Just Loaded Up on These 4 AI Stocks - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUnJLV3dQSk5vTWJ1Mld1TF80cUgybjB5TWl1em14OUVKX0RaMWdOdWJUaEhjeGs2VFpTNEs3VW9vWFpaQ084dUdNNV96NEdXamFwczlVbGFvZmZvM1Z6VEFBTFVySmRmMEROUWlZejBRSGh3bi1vbjBCMm1ZNTZ6SDItQWdVZDNkd0NuUXVYajFkcXBWdlk0S09lT3hNTHBZdkRLWXZKMm5Pb3pqZThjWWF2eFBRejh2S0xBeklfN3FPYlhCUWkzVC1ZUDRHU2xQTFVsdWVUQkRVVE50X1lxZ2NENnNOWnVNd256bGp3aVlqeDRRcjBQUw?oc=5"
-        },
-        {
           "title": "Microsoft shares fell 9% from record but historically rebound with 30% gains a year later. - Pluang",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV19hZEZhX1BRenBsVmRFVmpDMHhESWlfTHlaMk9pVGctU2k5TTdLakQtU2ExZWQxd0o5QWpaQ3hiaTZUNnZnOFJwZTFkSkhMUkQ0V0I2dGRxOGJJX096WFJQTk9wamt4TmZ2OUh5eXUtUWU0UnBEZXY3WEMzZk1ISTQwcWh1WVB4VTAzVQ?oc=5"
         },
         {
           "title": "What Makes Microsoft (NASDAQ:MSFT) A Focus Amid Market Uncertainty? - Kalkine Media",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3U1R09FZFA4ZGZRVDhNM0EyWmZjSXZfUG5uc2hFZzBxemY4aFpmS3pldWdrYXhUZUp2RUJiRkVCSVhrc0NFN1dvUFdNMDNzYjdNN1NvbFdGLTFSMEtjNGhScFY1Zk85NXZaRU5YbWtHU3pjX050cVoybGgxcUJKblU1dTNzSkZvM3ZRb0UtdlEtNFAwRmNfdVd0dHpuQmlPSHU0Yi15MXh2amc?oc=5"
+        },
+        {
+          "title": "Microsoft Stock Gave Back 8% Within 2 Weeks of Its Record. Here's How Past Quick Pullbacks Like This Played Out. - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdVJFYkZXSFNpSVBPaWpaZzNJYm44RWs2MjNrbjV6dlBmX2tzU0FFT3ZSX1NoOXZFRVFqcTgyeU5DSzVReU8yQmpWTVMydFdtVjJ2Z21tNXNkaEhrQlU5ai15M2xmTVRfc1VlY2RPZ0hrMlBLR0hweFNHQlc5aFBNRjhQU1lWTlM3amZCYTdyQ04zYlA3dmdkbkhKbnFXLXp3cUxtbHRfQlo5UmdDV2VGbC1KcVZ5cm45NURLR2V1MldKaU1yRDVyeEdHOXZEZVIzWU95ZXJKMEUwQm55RUQ2b1Z3aUI2dnM?oc=5"
         }
       ]
     },
@@ -32,32 +32,32 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia: Crisis Prices Won't Last (Rating Upgrade) (NASDAQ:NVDA) - Seeking Alpha",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbC1nNWxqaUtsZ3oyOVFoOFJQd0ozS0VvZ1FWZmVmRTNPdm1sZXhCUk9fYTNPdkxXTk9mMGtEX3FqSzM2TXY1dUdLa1hUZ21MOEpBbU5XekQ5U1IyeE5RYWo4WlNJTHNDVERLOFdVLTJ4X2V5X19CV3VDOW90RkJWZ3VGbVFQNTNXaXZoMy1qUQ?oc=5"
+        },
+        {
           "title": "Nvidia Just Lost Nearly Half Its Value. A 62-Year-Old With $1 Million in an S&P 500 Index Fund Owns About $50,000 of It Without Buying a Share - 24/7 Wall St.",
           "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNG1Id1c3d3VEUEppX1dVam1LMFowR01QUjE4bjhLSTV5VU5UdVlkbzdFLUl2ZFB5RnVNRURHczJwLXRZRFlzMkp1cmRsNlN3LUVhN28xd2VvY1pMUkVGUWRoRTF1ZnBNVDNUTmtzemU2YVl1clhVZU1BZWZERjBXRm11RnpaUGFWc1lIS3RTY1V3LXQwak5yMTJHNlJzb1FsZFJ6dmZXZWhXMjc0S19LN2lSZml0RmxzVGFHU29JMEF5U2ZPSmtZMlFuQTVEa2ZmSUdWVXU3aXhCTEx4aFZhQk1UalhNcEM3dzZQUEdhYlpzT2xycXk2VTh2YmpqQWdWTl9HTHY2cE02TlpJWlE?oc=5"
         },
         {
-          "title": "AMD vs. Nvidia Stock After Jensen Huang\u2019s Exit: 1 Trades at Nearly 4x the Other\u2019s Earnings Multiple. Here\u2019s the AI Chip Stock I\u2019d Buy Now. - Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTWY1TFdsWFJ4OFBwbUMyNnA5cG9RbWN4c2hzeS1qakcteXdsNmNINlJ2SkFlcG9Pdi1EWndBREgxWThsY1BaWGdDRGZ0T3ZxQWp6cHJ3dXFLa3JzT2EwX0tDY3M3WmdxTE9YQXBNOVFSbl9xWFFvMDZ3dml2V1l3dlNVRFZFRUpqQ1pORlBWd3A2dlJUUmduMlNXYlRaZy1NaWs2djJ1MFhSbXNfbUVNTGdjR0xsdnJ2WUIxN0RvOHNsM1BZN0NuWkdtaWtwX2FZdWhwaUVhUU1XYjZMaVI3R2VCQWJmdlRjRE93OE9rSGVyblNZdERGaWxxTUpaUU5CWXRSSg?oc=5"
-        },
-        {
-          "title": "U.S. Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang. Should You Buy Nvidia Stock Before Nov. 25? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamN6WXVZdTI1R195OXJ3VlJWa0VmNWVmXzlqNFNEQThvSm1uWmQ5akpWWW85a1ZMdHpJWXhsWFV1NVFFcTJZQ1YwdWZrRnhJXzhUU0lBdTJNbmVaN2d3RkpjT2JDRUZhUzRwTUVOYzN4RUxvSEhkb0ZtczBwZVhQTUZOLS0tVHY5ZGJsTkl5X0VuZkJNLWVyTEIwMXZVbzNw?oc=5"
+          "title": "Bessent Softens on Jensen Huang. Can Nvidia Stock Finally Catch a Break? - BeInCrypto",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xZktlbXhfcGx5MUJTWGpmZG55THFycmcyYWdRVkViMDVqMjZSbmt5ODdSakpEaFFPeXd3M2E2eHR5bDFRbzhEb25ZY0IxOEFLV21KSy0xanJlamd1VmQ1UWQ5ZmpZTGR1aFR1QmZPNndVNGs?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.47,
+      "currentPrice": 4.51,
       "weekAgoPrice": 4.550000190734863,
-      "percentChange": -1.76,
+      "percentChange": -0.88,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.62,
+      "currentPrice": 7.65,
       "weekAgoPrice": 7.590000152587891,
-      "percentChange": 0.4,
+      "percentChange": 0.79,
       "flagged": false,
       "news": []
     },
@@ -71,9 +71,9 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.35,
+      "currentPrice": 1.32,
       "weekAgoPrice": 1.4299999475479126,
-      "percentChange": -5.59,
+      "percentChange": -7.69,
       "flagged": true,
       "news": []
     },
@@ -87,25 +87,30 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.0,
+      "currentPrice": 1.01,
       "weekAgoPrice": 1.0499999523162842,
-      "percentChange": -4.76,
+      "percentChange": -3.81,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.24,
+      "currentPrice": 0.225,
       "weekAgoPrice": 0.25,
-      "percentChange": -4.0,
-      "flagged": false,
-      "news": []
+      "percentChange": -10.0,
+      "flagged": true,
+      "news": [
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.21,
+      "currentPrice": 1.22,
       "weekAgoPrice": 1.3600000143051147,
-      "percentChange": -11.03,
+      "percentChange": -10.29,
       "flagged": true,
       "news": [
         {
@@ -124,12 +129,12 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.715,
-      "weekAgoPrice": 0.7200000286102295,
-      "percentChange": -0.69,
-      "flagged": false,
+      "currentPrice": 0.695,
+      "weekAgoPrice": 0.75,
+      "percentChange": -7.33,
+      "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 5
+  "flaggedCount": 7
 }
