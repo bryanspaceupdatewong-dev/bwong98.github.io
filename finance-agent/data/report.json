@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-23T18:16:00.947554Z",
+  "generatedAt": "2026-11-23T19:16:21.583145Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 497.495,
+      "currentPrice": 496.6,
       "weekAgoPrice": 517.989990234375,
-      "percentChange": -3.96,
+      "percentChange": -4.13,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 164.475,
+      "currentPrice": 164.44,
       "weekAgoPrice": 156.13999938964844,
-      "percentChange": 5.34,
+      "percentChange": 5.32,
       "flagged": true,
       "news": [
         {
-          "title": "Stock Market Today: Dow Surges As Trump Says This On Huang's Nvidia Return; AI Plays Rocket (Live Coverage) - Investor's Business Daily",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFRJSUJYanAyQ3Z1TzEwdDRnM084bjRZUTJNYlpHMDFZVk9zZzJ1d2NjSVUtcHpGWFpaVEppMzR6N203ZFVyRVRJQlpKSDY3TGMzMkUzMVVZRlFsUl9EdXdvY3FIbVEyVF9lcmdiNWdicl9McXU2NUNFMjIta0RmbEVkQ01nUXZ2NzRZYXJfTExSVVlNRE93SEN6ZFJ5N2Z1NXotbVZWQjNKMVlyYzRpdnNVRQ?oc=5"
-        },
-        {
-          "title": "Jensen Huang returns as Nvidia CEO - NBC News",
+          "title": "Jensen Huang reinstated as Nvidia CEO after Trump calls in to board meeting - NBC News",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEh6QTZFYnYwckh0TDFqV2ExekUtZ1VodWtvZGk4ci1MZFhObzhLM1V4Mms3RXBhcnZYMXRMcjFGUU5JNFhmMTZFUnZadGMyY3F3azJOc1UwUWtTWEFCMEMwZUEtODl4MmItQjdIOGNmMlI5aE1UX3puUVlwWjZoZ0dtNjNid28?oc=5"
         },
         {
-          "title": "Nvidia: The Trade Of A Lifetime (NASDAQ:NVDA) - Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkVUNrWUVEME1SR09kb1hxYzE5SlFzS3JFOGFTaFFhM2lYblZnd0x1b2dpVjFvMEJsdHNGNXdGSm5pZmM4ZlZ6cTNOWXNZeDB2eEFPWUlBcC05eW9HS2o2LU9PYlM2MHkySXdUZkU2QlhLMG5PWG1VS0VIOA?oc=5"
+          "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5"
+        },
+        {
+          "title": "NVDA Stock Alert: What to Know as Nvidia Reinstates Jensen Huang as CEO - Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakctMDFncVNNcktHVlRnT0RCWERSM0psSWptUmt4VXRJR0tBdlFTZVVOeE0zTUszcWhHVm5XNXQ2WE1Uei1wVFYwWno3dWhlUUlnLXpCcDJWbUNFOVZzZ1hfS1dRaTJaUHhraW8wX0FmZlpHbXpfSkRqLVQ5dEQ0RDdOYzU0aDZudzNhWi12ZUVqck5LdzJaX3VuNENpdGZvWi0xMHo3UVRjOEcwUk9HWExBUEI?oc=5"
         }
       ]
     },
