@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T06:16:50.257752Z",
+  "generatedAt": "2026-11-23T07:16:31.753033Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -32,48 +32,48 @@
       "flagged": true,
       "news": [
         {
-          "title": "Reported SEC Probe: Could Nvidia Stock Fall To $92? - Trefis",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0gzWTBGeE9sT2V5ZTZJSkhnT0JLY1FYTWIyWXhHWTF0N2hHUHNNWVY4bXd1NmdxQTZadUFDSTNWNDlibnhkV1VoaWU5bE16cUwzaW4zUFNka3ByeTM1dHhJNVlfbTRuWGZfZTdwNm1xNkUxTFBpaUFDYm1GWUFCMm52aGllR2NHOHYwdDhLMnBtVUdia0d4QmJYYjBNdV9JQlJROFVBdE1wdVY1akE?oc=5"
+          "title": "Verizon Cut Its Buying In 2002. Can Nvidia\u2019s Buyers Stop Now? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRXBPeTZZSWFERTg0cmxxa25rMGllZHZSVDQ3SHMyU2VaUGpDaTctMTV4cHVDdkhzTm0xeGhsdzl3RHgtYnJTOXBWVHdmbjRMRmswMUhlYkh0NUpvRnNzWTgwdXpXVHJEcUJyYWwwOXJkc2xVNlJpcVNoVHIxS3hkNVhwNjdablNpNkZDMmpwR3BBT01JRVUyRXZISmYyNi15emFySEpBZXZlS3dFM1lmX3RYY2xWakp6QTlsVA?oc=5"
         },
         {
-          "title": "Trump urges Nvidia board to rehire Jensen Huang - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1U1QkE2OXk1TzdOX1BDSDhES0p1czVuS1lvN2JCSktxdzE3djh6UFBlQWRJM0Y4a3JmTHEyQTJMc3ZiZmhoYThJUGNIX0NaTFlXMUYyempKdzFOT3daNUJzR0lzV0l1cXp6OTBYRTRIWU1qVUVQZHQ0clNFVE1TOUh4WDVwVzRxNVh4WndTSUVqOWlkNmRz?oc=5"
+          "title": "Is Your AI Stock Healthy? Five Questions That Tell You - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2tzSjQ1dXdLVGJSVkJ6T2RSSVA3aTF4MHYxQXVBZ0tycEs2TWtHU1F6NjJWZ2JkVldBX3JpS3dESkd2cFBPbXVlSEl3d2RYa3VlR1Q5bTZkb2ZnWDBfNjNnVi12U0RPbGFCRjJ3Q2pwcmZNMlZTMlJETDBzU3Zmc1BkMTVIOGoyd3BJekhUdEI5OVZkUXl0dXhlQzgtZHRTMllFQ2JKRGRTaHZQRG1sakUzcmw?oc=5"
         },
         {
-          "title": "Trump Throws His Weight Behind Jensen Huang\u2019s Return As Nvidia CEO: \u2018It Would Be The Best Thing For The Company\u2019 - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3RoMVZ0S2xHdlloUXo3WVdJVmVqLVUzSlZCQ3I4WjR4dUxzZjVyTzYxdFg5QVVWeW9EQllDbFlkTkhpby1EdGRSNjByQXB1elZ4SGV0b255czdkTHRfcE4xTC1HR3ZoWGJxcUM4Q19JeExoVjlQQWQwRVdIRDlwX3RmQ1ItZTVUU3hncDhvaXE4UzZGWlhfT1dDeUxaME0?oc=5"
+          "title": "Nvidia Stock At $125: Where\u2019s The Floor? - Trefis",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHhyaWlKa2NYRzlwSzlCTEVTakpkVURZTC1hX2VaUV8zU1Nfa3gtRDBfdUNyT2lfanoxNFhWaGFRT2tra0FlWUpna3E0NFdGNDJVMWF3bWJTTFJsakcyTlR5cXJpakpSR0NrOW5keWl1clhNbmxFblBsTXRBT3lNLTZpcDdrRjRpSlgyRTZieDVHYmVwNENBby05d3pHOUk?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.52,
+      "currentPrice": 4.53,
       "weekAgoPrice": 4.550000190734863,
-      "percentChange": -0.66,
+      "percentChange": -0.44,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.68,
+      "currentPrice": 7.67,
       "weekAgoPrice": 7.590000152587891,
-      "percentChange": 1.19,
+      "percentChange": 1.05,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.14,
+      "currentPrice": 1.13,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": -6.56,
+      "percentChange": -7.38,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.33,
+      "currentPrice": 1.32,
       "weekAgoPrice": 1.4299999475479126,
-      "percentChange": -6.99,
+      "percentChange": -7.69,
       "flagged": true,
       "news": []
     },
@@ -108,18 +108,18 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.22,
+      "currentPrice": 1.2,
       "weekAgoPrice": 1.3600000143051147,
-      "percentChange": -10.29,
+      "percentChange": -11.76,
       "flagged": true,
       "news": [
         {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-        },
-        {
           "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+        },
+        {
+          "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
         },
         {
           "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
