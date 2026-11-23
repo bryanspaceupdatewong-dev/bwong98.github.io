@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T00:15:51.706053Z",
+  "generatedAt": "2026-11-23T01:16:20.640437Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -32,64 +32,64 @@
       "flagged": true,
       "news": [
         {
+          "title": "Nvidia Just Lost Nearly Half Its Value. A 62-Year-Old With $1 Million in an S&P 500 Index Fund Owns About $50,000 of It Without Buying a Share - 24/7 Wall St.",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNG1Id1c3d3VEUEppX1dVam1LMFowR01QUjE4bjhLSTV5VU5UdVlkbzdFLUl2ZFB5RnVNRURHczJwLXRZRFlzMkp1cmRsNlN3LUVhN28xd2VvY1pMUkVGUWRoRTF1ZnBNVDNUTmtzemU2YVl1clhVZU1BZWZERjBXRm11RnpaUGFWc1lIS3RTY1V3LXQwak5yMTJHNlJzb1FsZFJ6dmZXZWhXMjc0S19LN2lSZml0RmxzVGFHU29JMEF5U2ZPSmtZMlFuQTVEa2ZmSUdWVXU3aXhCTEx4aFZhQk1UalhNcEM3dzZQUEdhYlpzT2xycXk2VTh2YmpqQWdWTl9HTHY2cE02TlpJWlE?oc=5"
+        },
+        {
           "title": "AMD vs. Nvidia Stock After Jensen Huang\u2019s Exit: 1 Trades at Nearly 4x the Other\u2019s Earnings Multiple. Here\u2019s the AI Chip Stock I\u2019d Buy Now. - Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTWY1TFdsWFJ4OFBwbUMyNnA5cG9RbWN4c2hzeS1qakcteXdsNmNINlJ2SkFlcG9Pdi1EWndBREgxWThsY1BaWGdDRGZ0T3ZxQWp6cHJ3dXFLa3JzT2EwX0tDY3M3WmdxTE9YQXBNOVFSbl9xWFFvMDZ3dml2V1l3dlNVRFZFRUpqQ1pORlBWd3A2dlJUUmduMlNXYlRaZy1NaWs2djJ1MFhSbXNfbUVNTGdjR0xsdnJ2WUIxN0RvOHNsM1BZN0NuWkdtaWtwX2FZdWhwaUVhUU1XYjZMaVI3R2VCQWJmdlRjRE93OE9rSGVyblNZdERGaWxxTUpaUU5CWXRSSg?oc=5"
         },
         {
           "title": "U.S. Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang. Should You Buy Nvidia Stock Before Nov. 25? - Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamN6WXVZdTI1R195OXJ3VlJWa0VmNWVmXzlqNFNEQThvSm1uWmQ5akpWWW85a1ZMdHpJWXhsWFV1NVFFcTJZQ1YwdWZrRnhJXzhUU0lBdTJNbmVaN2d3RkpjT2JDRUZhUzRwTUVOYzN4RUxvSEhkb0ZtczBwZVhQTUZOLS0tVHY5ZGJsTkl5X0VuZkJNLWVyTEIwMXZVbzNw?oc=5"
-        },
-        {
-          "title": "U.S. Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang. Should You Buy Nvidia Stock Before Nov. 25? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUEVKRkVqR0szTXRkd3d2TUdIc09Iczc0VFZQdkRFU2xIWGVNSWJRMXRKVlVyM1hBb3E3amtoaWo4Y0c2VFozQ2VpQ3V3VWJiR29ySUVSU1hnYTBDMTZSVDNUNkh4QVlwdG12ZU5ZOFBSRlB6Y0NHbDVDRDVTeWJhdUlHY3djRUVvejlESnhZV0IxTGgwMU5vM00zWkdRMmc1NzVkTGI2cExaMFpSZnNmeVFpakNIaDF6bmJMcXFIWEUzckRkTVZJc3pKdWVLazNzdWdXcEhDYXZBQmxTZEZKVTRlNG1tSDBCSkg4Sm5qRHBQcWJvSFVfY0syV1R6cHhsVEFTTkNpYzVtdFR2SGc?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.49,
-      "weekAgoPrice": 4.539999961853027,
-      "percentChange": -1.1,
+      "currentPrice": 4.47,
+      "weekAgoPrice": 4.550000190734863,
+      "percentChange": -1.76,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.65,
-      "weekAgoPrice": 7.730000019073486,
-      "percentChange": -1.03,
+      "currentPrice": 7.62,
+      "weekAgoPrice": 7.590000152587891,
+      "percentChange": 0.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.16,
+      "currentPrice": 1.15,
       "weekAgoPrice": 1.2200000286102295,
-      "percentChange": -4.92,
-      "flagged": false,
+      "percentChange": -5.74,
+      "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.36,
-      "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -6.21,
+      "currentPrice": 1.35,
+      "weekAgoPrice": 1.4299999475479126,
+      "percentChange": -5.59,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.42,
-      "weekAgoPrice": 1.4500000476837158,
-      "percentChange": -2.07,
+      "currentPrice": 1.41,
+      "weekAgoPrice": 1.4299999475479126,
+      "percentChange": -1.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 0.995,
-      "weekAgoPrice": 1.0299999713897705,
-      "percentChange": -3.4,
+      "currentPrice": 1.0,
+      "weekAgoPrice": 1.0499999523162842,
+      "percentChange": -4.76,
       "flagged": false,
       "news": []
     },
@@ -103,11 +103,24 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.25,
-      "weekAgoPrice": 1.309999942779541,
-      "percentChange": -4.58,
-      "flagged": false,
-      "news": []
+      "currentPrice": 1.21,
+      "weekAgoPrice": 1.3600000143051147,
+      "percentChange": -11.03,
+      "flagged": true,
+      "news": [
+        {
+          "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+        },
+        {
+          "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+        },
+        {
+          "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5341.KL",
@@ -118,5 +131,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 5
 }
