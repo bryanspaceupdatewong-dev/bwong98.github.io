@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-11-23T15:16:26.321101Z",
+  "generatedAt": "2026-11-23T16:16:37.061027Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 504.415,
+      "currentPrice": 498.71,
       "weekAgoPrice": 517.989990234375,
-      "percentChange": -2.62,
+      "percentChange": -3.72,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 166.82,
+      "currentPrice": 166.55,
       "weekAgoPrice": 156.13999938964844,
-      "percentChange": 6.84,
+      "percentChange": 6.67,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Stock Surges Over 32% on Jensen Huang\u2019s Reinstatement as CEO - Yahoo Finance UK",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdmpCRkc3dDFHV0dPSGtRNXRRVEx2WFI5TmZ1LTYzSmhRd1BQN0hqWUM5RzJfek1NT1NGQ3lLSWRqRHhVSHY4cEVRWXZpZ2drUlVTM19aTlgyT0llQlM1TV9OM0ZjLWxrdUVVRkFscWxtZ1l6MXFpVlRnOXBzbUxBOGRR?oc=5"
+          "title": "Nvidia Stock Eyes Best Day on Record After Huang's Return - Schaeffer's Investment Research",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE02cWljaTNNQ25zQmhFUmFPM0Fmc0dRSjhreFNrZGVfV0hsQmk0TGlTNWhBbGVEWmQwcTlORG94Q3RGall1TGNPTXljMEhyc28yemJDWnV3bGdmcFkzOUVFVkdLdGxuZGJacWRqQzFwS1U3bnU3Y1JVci0tSHZRckN6bWdjU0U0bTVMWmp4UF9XTTVxQVplRzZ5eVRKZ3h0QUF1V0pRM1NVSUVJV2dlVnVMbDg3dw?oc=5"
         },
         {
-          "title": "3 Best Tech Stocks To Buy Now For 2027 - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwMEtwekVqWVVfOHA5UHl6bU9Vb2k0eEIxTGdyNmJ5d1FrM3lubzRpS1drX3pZV1pSU2JrNU8zVDhQdXRwWklIWHpoMlFiQUxxa21sVEQyM2hudFN3OXA5dEdsRmt4ZTE1VDUzSVN1dzd2SXFLLTJIb3ktNGs?oc=5"
+          "title": "5 things to consider as Nvidia restores Jensen Huang as the company's leader - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQW5hN25aQlFRM1RvY3RTdXpkTlhrNXVmVm90dDVWejNPd1ZrOV9XNXVUNkxSRk52ZEpLZ2RMdUczRUNvQXQyUWI0a25rcU5BUG94OHRCMWN1Vi14SGVCMGg2Sjlwc1lNV2hLNVliZkxwa0g5WVp6Sm9aRmVSY1BYVkV6S2g0c3VSQm1YY2wtUENDWDlwYlc3eUM1MUthWUdjLU9iVnFxaXdaTzhaWmlJNjl3RVo5S0p3MjNNSTlIZ2FfUmNuX01MNHBXRy1hY19BQzlrUUpn?oc=5"
         },
         {
-          "title": "Dow Jumps Over 1,300 Points, Nasdaq Surges Nearly 7% As Jensen Huang\u2019s Return Lifts Market Sentiment - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0k2bF8tZndFOHZ1NUpUZlk0dnFZOE5lbHhycy0tUmZPVnN3RUFtd05UTFRjUHJmOG5yT0RiSHcxZ1lwWDJzVFNXQWtGcjBvQ251NG1tRUZpVEFLUklvY1B0MVFRRGJyVHMtUVNVcmZHMUR2LVJ1QkR4YWhMdWlxUzl3Zl9ydW9RZ0J3X0N3?oc=5"
+          "title": "Nvidia Stock Skyrockets After Jensen Huang's Reinstatement - Benzinga",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHQxdEJSUUJ4bjhWbk9TeHV3VllqMnJJdlNRZHB3U0JTa0oxcm52b255aHJ2Y1lMUWNCMHloR05JT1VHVmx4VnhUVHRnUDgxa05VdWtjSkxjaS1nN2oweHlVaGZMYWpXVi1UWTBHMl9sZ3VlYmxIWE1kR2NNb0piWHN3UHo1aVRfc3p0c1l6MWctSHNBbDg4d1hGdGRMWm5JT3hPTWhkLVFndU9DcWQ2WDZxMjhuMVJlTmc?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.5,
-      "weekAgoPrice": 4.550000190734863,
-      "percentChange": -1.1,
+      "weekAgoPrice": 4.539999961853027,
+      "percentChange": -0.88,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
       "currentPrice": 7.68,
-      "weekAgoPrice": 7.590000152587891,
-      "percentChange": 1.19,
+      "weekAgoPrice": 7.730000019073486,
+      "percentChange": -0.65,
       "flagged": false,
       "news": []
     },
@@ -59,24 +59,24 @@
     {
       "ticker": "3182.KL",
       "currentPrice": 1.32,
-      "weekAgoPrice": 1.4299999475479126,
-      "percentChange": -7.69,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": -8.97,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
       "currentPrice": 1.41,
-      "weekAgoPrice": 1.4299999475479126,
-      "percentChange": -1.4,
+      "weekAgoPrice": 1.4500000476837158,
+      "percentChange": -2.76,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
       "currentPrice": 1.01,
-      "weekAgoPrice": 1.0499999523162842,
-      "percentChange": -3.81,
+      "weekAgoPrice": 1.0299999713897705,
+      "percentChange": -1.94,
       "flagged": false,
       "news": []
     },
@@ -86,18 +86,13 @@
       "weekAgoPrice": 0.25,
       "percentChange": -10.0,
       "flagged": true,
-      "news": [
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5352.KL",
       "currentPrice": 1.23,
-      "weekAgoPrice": 1.3600000143051147,
-      "percentChange": -9.56,
+      "weekAgoPrice": 1.309999942779541,
+      "percentChange": -6.11,
       "flagged": true,
       "news": [
         {
@@ -117,11 +112,11 @@
     {
       "ticker": "5341.KL",
       "currentPrice": 0.685,
-      "weekAgoPrice": 0.75,
-      "percentChange": -8.67,
-      "flagged": true,
+      "weekAgoPrice": 0.7200000286102295,
+      "percentChange": -4.86,
+      "flagged": false,
       "news": []
     }
   ],
-  "flaggedCount": 6
+  "flaggedCount": 5
 }
