@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T04:16:22.746825Z",
+  "generatedAt": "2026-11-23T05:16:11.998577Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -11,16 +11,16 @@
       "flagged": true,
       "news": [
         {
+          "title": "Trading (MSFT) With Integrated Risk Controls (MSFT:CA) - Stock Traders Daily",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaTY2ZEFzbEpiODBYeFp1NjNKQ1dfbzJ3TkVkV2c2MzR5RkpVRFhQRWtNRC10N2o1UTdkbDVkS2x3SUpMWDVhUG51Wk9NYkllTGFyNVkxaXVNLWZRMGlqREs2LTJ4Zkl1eDVBblh3NFZtdEROYzdCb0MzUkF3QXZ0akhBSTVkaUNJaEhxcmZyX3lhS2VKaGFrZXQ2QVgyeDBWWUE?oc=5"
+        },
+        {
           "title": "Microsoft shares fell 9% from record but historically rebound with 30% gains a year later. - Pluang",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV19hZEZhX1BRenBsVmRFVmpDMHhESWlfTHlaMk9pVGctU2k5TTdLakQtU2ExZWQxd0o5QWpaQ3hiaTZUNnZnOFJwZTFkSkhMUkQ0V0I2dGRxOGJJX096WFJQTk9wamt4TmZ2OUh5eXUtUWU0UnBEZXY3WEMzZk1ISTQwcWh1WVB4VTAzVQ?oc=5"
         },
         {
           "title": "What Makes Microsoft (NASDAQ:MSFT) A Focus Amid Market Uncertainty? - Kalkine Media",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3U1R09FZFA4ZGZRVDhNM0EyWmZjSXZfUG5uc2hFZzBxemY4aFpmS3pldWdrYXhUZUp2RUJiRkVCSVhrc0NFN1dvUFdNMDNzYjdNN1NvbFdGLTFSMEtjNGhScFY1Zk85NXZaRU5YbWtHU3pjX050cVoybGgxcUJKblU1dTNzSkZvM3ZRb0UtdlEtNFAwRmNfdVd0dHpuQmlPSHU0Yi15MXh2amc?oc=5"
-        },
-        {
-          "title": "Microsoft Stock Gave Back 8% Within 2 Weeks of Its Record. Here's How Past Quick Pullbacks Like This Played Out. - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdVJFYkZXSFNpSVBPaWpaZzNJYm44RWs2MjNrbjV6dlBmX2tzU0FFT3ZSX1NoOXZFRVFqcTgyeU5DSzVReU8yQmpWTVMydFdtVjJ2Z21tNXNkaEhrQlU5ai15M2xmTVRfc1VlY2RPZ0hrMlBLR0hweFNHQlc5aFBNRjhQU1lWTlM3amZCYTdyQ04zYlA3dmdkbkhKbnFXLXp3cUxtbHRfQlo5UmdDV2VGbC1KcVZ5cm45NURLR2V1MldKaU1yRDVyeEdHOXZEZVIzWU95ZXJKMEUwQm55RUQ2b1Z3aUI2dnM?oc=5"
         }
       ]
     },
@@ -32,24 +32,24 @@
       "flagged": true,
       "news": [
         {
+          "title": "Trump Throws His Weight Behind Jensen Huang\u2019s Return As Nvidia CEO: \u2018It Would Be The Best Thing For The Company\u2019 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS3RoMVZ0S2xHdlloUXo3WVdJVmVqLVUzSlZCQ3I4WjR4dUxzZjVyTzYxdFg5QVVWeW9EQllDbFlkTkhpby1EdGRSNjByQXB1elZ4SGV0b255czdkTHRfcE4xTC1HR3ZoWGJxcUM4Q19JeExoVjlQQWQwRVdIRDlwX3RmQ1ItZTVUU3hncDhvaXE4UzZGWlhfT1dDeUxaME0?oc=5"
+        },
+        {
           "title": "Taiwan uncertainty could put U.S. tech stocks like Apple and Nvidia at risk: PM - CNBC",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTJfaHd4Zm9NQVJDVlFGYVY2YzJYQ1dLa1ltRmNXdE1pT1BSRFFNVkZJNXZTT2IxM2JoUDh0dGZtUlJ5eFR4cGhyaTUzSWI0WU5zdVV2THhKNkk0bENScFRDNl9zNjFsYWRSb2tGQ2s2TnhfT1hyZmtuaHBxTGJCNWN5bE5kTF9CdlBrM3hfYmlfZzkwV19Qc2ZYR2IxWUNQbFAw?oc=5"
         },
         {
           "title": "Nvidia Stock (NVDA) Falls 14.0% on Reports of SEC Probe (Nov 20) - Gotrade",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZng1aU9pd1VfREZxRHpvaUFnaGZjeklYTWFIdHdkN0l5QVlmVm93aXpQMzVsbVE0MU5FQTZMNUhQNE8zWDlmcE9OMzRSblg1NjBtYWVaUmlzczdwLVFKRE5selJvZk12Zm9LUXlsTmRlcUtOWFBXMmpfeUxKeTdkQw?oc=5"
-        },
-        {
-          "title": "Michael Burry Jokes About Joining Nvidia, Lululemon Boards - NVIDIA (NASDAQ:NVDA) - Benzinga",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWEZQOU5neEtoVjcyYl9DMEIzc1R5WmdoRFF1Wlloa3BoQkw1bFRwaWxTOG5wTGhXUWF2MnJ3OGppeUFoN0lmM3VtdHVibVdwTVdhOU5nYnVJR2xoOUlNcWMxdldKM0NrUmV2OUNlcThaU1FZUDRTLVpCVy05T2dnYVM5ZXhtSm9wcXBGWEpCU3hOelMwSFUxS3Utc3dMNWtaRVg5SzZqLVBMRnBQVk91cnFVUEI3YkRIWmRoZERhcEhUMXVFMENsM004YS0xZU0?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.51,
+      "currentPrice": 4.52,
       "weekAgoPrice": 4.550000190734863,
-      "percentChange": -0.88,
+      "percentChange": -0.66,
       "flagged": false,
       "news": []
     },
@@ -71,25 +71,25 @@
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.32,
+      "currentPrice": 1.33,
       "weekAgoPrice": 1.4299999475479126,
-      "percentChange": -7.69,
+      "percentChange": -6.99,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.4,
+      "currentPrice": 1.41,
       "weekAgoPrice": 1.4299999475479126,
-      "percentChange": -2.1,
+      "percentChange": -1.4,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.01,
+      "currentPrice": 1.02,
       "weekAgoPrice": 1.0499999523162842,
-      "percentChange": -3.81,
+      "percentChange": -2.86,
       "flagged": false,
       "news": []
     },
@@ -129,9 +129,9 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.685,
+      "currentPrice": 0.67,
       "weekAgoPrice": 0.75,
-      "percentChange": -8.67,
+      "percentChange": -10.67,
       "flagged": true,
       "news": []
     }
