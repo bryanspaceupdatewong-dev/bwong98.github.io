@@ -1,36 +1,23 @@
 {
-  "generatedAt": "2026-11-24T14:16:43.681613Z",
+  "generatedAt": "2026-11-24T15:08:33.616211Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 492.5,
-      "weekAgoPrice": 517.989990234375,
-      "percentChange": -4.92,
+      "currentPrice": 491.99,
+      "weekAgoPrice": 506.239990234375,
+      "percentChange": -2.81,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 165.05,
-      "weekAgoPrice": 156.13999938964844,
-      "percentChange": 5.71,
-      "flagged": true,
-      "news": [
-        {
-          "title": "Nvidia live updates: Nvidia stock falls 5% following huge rally after board reinstated Jensen Huang as CEO - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWh4SkxkZkVEYVE0bHF3bzR2azhpV1pRbVJVSzJ2dHYyTEFwcFNFNFlLb25Qa0NnekRUTUlOcXd3SDBfZlJsdDVtOFNTd0VQS0RCWC1WaWZJdURybFFnZFRCM2h1SHA2RXNpWjQzLXNNMURST3dULWp4QVBKMVkycGVmeXN1eXJCWEZkaXg5YmVaTlp2SlpfM0pidU1ZaVExbGxKZXc4VG1vLVZDQTVYSTF3R2RGalo0LWVvcmtzdzVscHl0OEpsUF9RQU1wM0MyRHhQcEQ2ZEg?oc=5"
-        },
-        {
-          "title": "Nvidia Stock Is Falling Again. Why the Jensen Jubilation Is Already Fading. - Barron's",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2eG8tdTlDV1hsNU4tQ2JMRzROTWRubTAwLVd5MWxKcVR0WEFUTGlDMk1UWDZodWZxanVGbU05S1NVZTFNaE1VaGc2b0dkUXhmeGtTTVVPbjFWRl9QSGRjVjRPNExTRGpCRjVyazA5M1EzTVI1dkE?oc=5"
-        },
-        {
-          "title": "Nvidia Stock Rally Shines A Light On US Retail Brokerage Platforms - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzJBVHcyZ3pJZk5Pc002UUtvanBWVF9aYlRxTmlEOW1UbUliRjU0VDkzQkNrQ3A4NGUtWlNIU1MzZTJhcEdsU2RORV9PeW0yYVpZOTFvSmQtc3JXNDZMc1pKbVUxblFFd3VzbVd6VXo4aUlDam4yNkZ1b2hJRGFOVm0zM1RoTkFkaC1tb2pfb1RFdkpGTk9INzQxYjc?oc=5"
-        }
-      ]
+      "currentPrice": 153.651,
+      "weekAgoPrice": 155.4600067138672,
+      "percentChange": -1.16,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "1295.KL",
@@ -105,5 +92,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 2
 }
