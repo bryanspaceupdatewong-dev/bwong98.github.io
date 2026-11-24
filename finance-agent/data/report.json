@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:16:36.642719Z",
+  "generatedAt": "2026-11-24T06:16:06.168628Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia Corp. (NVDA) Has Made Investors a Fortune \u2014 Is Now Time to Book Profits? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM1hLcnE1c2J5MGtkT2tBUUhrc2dIMVBNUmRCVEVqb3pVcGdzU2kxaE5qcXVIUTBPcml1Z216azh6NzdlWVVScjcyRG9oU0xwenVVZ0VwZFhKOTdkQXd5R0ZERkdSbExmcUxYaG5MMmR1RENRWkVDOFJ3ZHprOU5BOEg5TDBPRFR4UkpPLXQ2VjA1c3N3cVdseEtzVk0?oc=5"
+          "title": "Live Updates: Huang\u2019s Return to Nvidia Sparks Stock Rally and Lawmaker Skepticism - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnQ0LTNaSmJtV2pfeHlCZmVqWDM1QXU0TkZZcnYxS1JpTGozTVR2dVhfM013NUp2VWdoMmdFWjZtR0tUenJlOURYNGFtcmZwZjJrd2VnSjUxVnFoZk90bWhrV3d3NzNkTTlyNjM3NzZXaXZLUEdEWlV4ZGdEeUZQY0xZbzBnZUYz?oc=5"
+        },
+        {
+          "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5"
         },
         {
           "title": "Markets soar as Huang returns as Nvidia CEO - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5"
-        },
-        {
-          "title": "Live Updates: Huang\u2019s Return to Nvidia Sparks Stock Rally and Lawmaker Skepticism - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnQ0LTNaSmJtV2pfeHlCZmVqWDM1QXU0TkZZcnYxS1JpTGozTVR2dVhfM013NUp2VWdoMmdFWjZtR0tUenJlOURYNGFtcmZwZjJrd2VnSjUxVnFoZk90bWhrV3d3NzNkTTlyNjM3NzZXaXZLUEdEWlV4ZGdEeUZQY0xZbzBnZUYz?oc=5"
         }
       ]
     },
