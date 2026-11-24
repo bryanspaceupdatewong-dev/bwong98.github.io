@@ -1,61 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-23T00:15:51.706053Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 484.52,
-        "weekAgoPrice": 523.8800048828125,
-        "percentChange": -7.51,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Billionaire Tech Investor Philippe Laffont Just Loaded Up on These 4 AI Stocks - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUnJLV3dQSk5vTWJ1Mld1TF80cUgybjB5TWl1em14OUVKX0RaMWdOdWJUaEhjeGs2VFpTNEs3VW9vWFpaQ084dUdNNV96NEdXamFwczlVbGFvZmZvM1Z6VEFBTFVySmRmMEROUWlZejBRSGh3bi1vbjBCMm1ZNTZ6SDItQWdVZDNkd0NuUXVYajFkcXBWdlk0S09lT3hNTHBZdkRLWXZKMm5Pb3pqZThjWWF2eFBRejh2S0xBeklfN3FPYlhCUWkzVC1ZUDRHU2xQTFVsdWVUQkRVVE50X1lxZ2NENnNOWnVNd256bGp3aVlqeDRRcjBQUw?oc=5"
-          },
-          {
-            "title": "Microsoft shares fell 9% from record but historically rebound with 30% gains a year later. - Pluang",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV19hZEZhX1BRenBsVmRFVmpDMHhESWlfTHlaMk9pVGctU2k5TTdLakQtU2ExZWQxd0o5QWpaQ3hiaTZUNnZnOFJwZTFkSkhMUkQ0V0I2dGRxOGJJX096WFJQTk9wamt4TmZ2OUh5eXUtUWU0UnBEZXY3WEMzZk1ISTQwcWh1WVB4VTAzVQ?oc=5"
-          },
-          {
-            "title": "What Makes Microsoft (NASDAQ:MSFT) A Focus Amid Market Uncertainty? - Kalkine Media",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3U1R09FZFA4ZGZRVDhNM0EyWmZjSXZfUG5uc2hFZzBxemY4aFpmS3pldWdrYXhUZUp2RUJiRkVCSVhrc0NFN1dvUFdNMDNzYjdNN1NvbFdGLTFSMEtjNGhScFY1Zk85NXZaRU5YbWtHU3pjX050cVoybGgxcUJKblU1dTNzSkZvM3ZRb0UtdlEtNFAwRmNfdVd0dHpuQmlPSHU0Yi15MXh2amc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 125.53,
-        "weekAgoPrice": 162.85000610351562,
-        "percentChange": -22.92,
-        "flagged": true,
-        "news": [
-          {
-            "title": "AMD vs. Nvidia Stock After Jensen Huang\u2019s Exit: 1 Trades at Nearly 4x the Other\u2019s Earnings Multiple. Here\u2019s the AI Chip Stock I\u2019d Buy Now. - Barchart.com",
-            "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTWY1TFdsWFJ4OFBwbUMyNnA5cG9RbWN4c2hzeS1qakcteXdsNmNINlJ2SkFlcG9Pdi1EWndBREgxWThsY1BaWGdDRGZ0T3ZxQWp6cHJ3dXFLa3JzT2EwX0tDY3M3WmdxTE9YQXBNOVFSbl9xWFFvMDZ3dml2V1l3dlNVRFZFRUpqQ1pORlBWd3A2dlJUUmduMlNXYlRaZy1NaWs2djJ1MFhSbXNfbUVNTGdjR0xsdnJ2WUIxN0RvOHNsM1BZN0NuWkdtaWtwX2FZdWhwaUVhUU1XYjZMaVI3R2VCQWJmdlRjRE93OE9rSGVyblNZdERGaWxxTUpaUU5CWXRSSg?oc=5"
-          },
-          {
-            "title": "U.S. Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang. Should You Buy Nvidia Stock Before Nov. 25? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamN6WXVZdTI1R195OXJ3VlJWa0VmNWVmXzlqNFNEQThvSm1uWmQ5akpWWW85a1ZMdHpJWXhsWFV1NVFFcTJZQ1YwdWZrRnhJXzhUU0lBdTJNbmVaN2d3RkpjT2JDRUZhUzRwTUVOYzN4RUxvSEhkb0ZtczBwZVhQTUZOLS0tVHY5ZGJsTkl5X0VuZkJNLWVyTEIwMXZVbzNw?oc=5"
-          },
-          {
-            "title": "U.S. Treasury Secretary Scott Bessent Just Delivered Great News to Former Nvidia CEO Jensen Huang. Should You Buy Nvidia Stock Before Nov. 25? - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUEVKRkVqR0szTXRkd3d2TUdIc09Iczc0VFZQdkRFU2xIWGVNSWJRMXRKVlVyM1hBb3E3amtoaWo4Y0c2VFozQ2VpQ3V3VWJiR29ySUVSU1hnYTBDMTZSVDNUNkh4QVlwdG12ZU5ZOFBSRlB6Y0NHbDVDRDVTeWJhdUlHY3djRUVvejlESnhZV0IxTGgwMU5vM00zWkdRMmc1NzVkTGI2cExaMFpSZnNmeVFpakNIaDF6bmJMcXFIWEUzckRkTVZJc3pKdWVLazNzdWdXcEhDYXZBQmxTZEZKVTRlNG1tSDBCSkg4Sm5qRHBQcWJvSFVfY0syV1R6cHhsVEFTTkNpYzVtdFR2SGc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.36,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -6.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-23T01:16:20.640437Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3451,6 +3395,28 @@
   },
   {
     "generatedAt": "2026-11-24T22:15:49.198790Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.14,
+        "weekAgoPrice": 1.2100000381469727,
+        "percentChange": -5.79,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.67,
+        "weekAgoPrice": 0.7400000095367432,
+        "percentChange": -9.46,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-24T23:16:09.582248Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
