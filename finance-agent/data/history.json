@@ -1,57 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-20T04:16:19.086248Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 145.98,
-        "weekAgoPrice": 166.19000244140625,
-        "percentChange": -12.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Why Did NVDA, NIO, ONDS Stocks Tumble To 52-Week Lows Today? - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMDVEX2ctNHNIVHJzWndjWVVuU29ndDBuU3ZLQXhVdmVacmxaMGVVcF9CWWRZYXBpYm1YT3JVRDRER3g2Vjl5a1JLb3J0RjByMm1ER2RjWGFLT0Y4R1N4MnNyYXhNVHJXcVpGc2F2anZ0UGtSTkN5RVhtd2VhT0txZW1kSkZiS2IxQWQ1a0RIOA?oc=5"
-          },
-          {
-            "title": "Michael Burry Says He Tried to Warn Investors About AI Stocks - NVIDIA (NASDAQ:NVDA) - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXlyaHRBWXZSMS1ROFB2QTlCMEFnYXhZYkwyWFZlMUo3UWNSOWlCQnp4MnRJM25nRXIwZ2dnU2dIalZjUDFhOEF5RGtEcXdzNldEVmNVckUxdTJnbmdWb0VTMEJ4WDlKZW03QTAyemZDWWpYOXF5SDFhdEh5VkZ4YkozVGlzSWstVHBYZjk0Ym5sb3FpSFltZDhZTGJKYlFUYTVDUXBKV2J4ajZuMzI0QWpNUUxuc1RMaDNONUtFZjhhSmoxWkRn?oc=5"
-          },
-          {
-            "title": "Why Nvidia's sell-off could be a buying opportunity (with a catch) - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2VjaXpVcGM0N3puRHB0b0JRcGJvTDh1TjhqS0NlUlRJU3daMlFPdm5XZWxxaktIQk9FYVpYVU01RER3UVJERXRFT1NCb1l0YmxFemJOTm9BTUxad2txY2hCWjA3bUFhOVE2TmhtTTJlcGNuWDlkaXJTS0NhejN4Vllid1ItdEkwamxBMWplOHVmWlBlS3c?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.35,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -6.9,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.24,
-        "weekAgoPrice": 1.309999942779541,
-        "percentChange": -5.34,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-          },
-          {
-            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-20T05:16:17.569493Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3674,6 +3622,54 @@
         "currentPrice": 0.68,
         "weekAgoPrice": 0.7400000095367432,
         "percentChange": -8.11,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-24T03:15:39.414989Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 165.05,
+        "weekAgoPrice": 156.13999938964844,
+        "percentChange": 5.71,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Live Updates: Huang\u2019s Return to Nvidia Sparks Stock Rally and Lawmaker Skepticism - The New York Times",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnQ0LTNaSmJtV2pfeHlCZmVqWDM1QXU0TkZZcnYxS1JpTGozTVR2dVhfM013NUp2VWdoMmdFWjZtR0tUenJlOURYNGFtcmZwZjJrd2VnSjUxVnFoZk90bWhrV3d3NzNkTTlyNjM3NzZXaXZLUEdEWlV4ZGdEeUZQY0xZbzBnZUYz?oc=5"
+          },
+          {
+            "title": "Jensen Huang\u2019s Return As Nvidia CEO Sparks AI Stock Rally, But Congressional Probes Loom \u2013 And Analysts See Risks Ahead - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTncwRERMVndYZHd5cTJtTTRhUHR0ZkpGQVg1T3RvNnNyY2tvOHpVUC1QY3J4TWk4RHAta2NFM3ZsbWVQazJEdEVRV0xWTGZMVndBYzFFaU11VGxWVlFJdGN2NjZzYmV6Y0NGVGo5dFNMYnJKRXBjQ2t6a3pnRG1kVkpPdU1DZkItRm1aVFNlMXJ4Y25HcVRZNXJR?oc=5"
+          },
+          {
+            "title": "Markets soar as Huang returns as Nvidia CEO - The Washington Post",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.225,
+        "weekAgoPrice": 0.23999999463558197,
+        "percentChange": -6.25,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.675,
+        "weekAgoPrice": 0.7400000095367432,
+        "percentChange": -8.78,
         "flagged": true,
         "news": []
       }
