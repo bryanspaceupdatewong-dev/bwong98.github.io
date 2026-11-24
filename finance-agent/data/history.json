@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-20T13:27:28.188376Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 145.98,
-        "weekAgoPrice": 166.19000244140625,
-        "percentChange": -12.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Will Jensen Huang\u2019s Exit Break NVDA Stock\u2019s Momentum? - Forbes",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXc1V2dRWWRnVm9FOHNUVG5YMFpGUnJoZGd3ZHJYcExEU0ltcGh0NDlBMmhhZzBabTVNSTIxZmFGb0d5TVBsUmZadUZfc0xmZDc2NjJlQ19JNWJaRTJaSjZMSHJsMFo4Mnk0ZmtWZHN6LThQOUJjcGVJLUZiR3EtUkZLMmhfbTBGcXo2ajh1OEtldFdXbW1KcFk1Q01hTFRfQllxaGwtb055UFlQaGc?oc=5"
-          },
-          {
-            "title": "The Stock Market Has Problems Even Anthropic Can\u2019t Solve - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFE2Zl8xYVVyMlFBdWR2OUlsV3htU0htTlRGQVg3N2NVQkg5aGF3NG9DZ0pQUi1zeVowVUJPbG5Ib3lfazRUeFNhdEwxc0dlT1B3a3JaZWd1cjRLRWxKMTNtWldpOXVBWHRyaVAzcm94el9pY05lNVVQWnRmVFNSeQ?oc=5"
-          },
-          {
-            "title": "Nasdaq Futures Slide, Anthropic Shares Reverse IPO Gains \u2014 LITE, IREN, SNDK, NVDA In Focus - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVl3Mk1wX0tMYnc3QjVEbjRXREhGdHF6ejNzTmgzQkhaS1U0RWhoaVdCeUh6aWNEREpUU3FuVzR6Rl9Ga0JWaUlodzlSZW5odjZXUTk4VkFLT0pLdGtLZHZra1JLblNDek5FM2FTZGVqd3pmNXNnMWJhYzRfY21iM1BlS1dtek16enFxdk5sZHUxN3pLSlpEMFFENTkxdlVvZE14bw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.36,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -6.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-20T14:16:10.753471Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3713,6 +3678,49 @@
           {
             "title": "Nvidia Could Generate $741 Billion in Revenue Next Year. Here\u2019s What That Means for the Stock. - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWXBuQWthU1JTVmZOR3JiM2tNNDd5d3NNMlFZeENRRUJ6aHhodDlITXVGSzNIWGhNSHhrSndWMXZESHNUdW9ELTNEeWoxekljSHNEMnNkaUpHc196NXVlTWxnZ09QSFdKNHloNktUdmIzR3ZEZE9uRG5TazFadTV2NEI0TWNwWTdlVFh5QVcwZHRLQW5fQ0MtUU80d29JdnM?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.14,
+        "weekAgoPrice": 1.2100000381469727,
+        "percentChange": -5.79,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.67,
+        "weekAgoPrice": 0.7400000095367432,
+        "percentChange": -9.46,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-24T12:16:38.072680Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 165.05,
+        "weekAgoPrice": 156.13999938964844,
+        "percentChange": 5.71,
+        "flagged": true,
+        "news": [
+          {
+            "title": "How Jensen Huang's return to Nvidia made the world trillions richer - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWF9YMFNHSHZxbS12OXBKeUY5LWdfSTRPTUcwWVNsYWpTcUNBVTFjVzVQRlNPWXVxb1dYY2VFV0szRE9OLVZ1bWxfSklENnBTdFFheHpWRGJPTl9qRl9odkNJcU8tWjZyMjh3UF84XzA0X3p2dUlNWDhDV29QQldpR2tkSVNqaC1FSl9YX0dibldGcmhjNlh6S0Q0eW1IQQ?oc=5"
+          },
+          {
+            "title": "Nvidia stock falls 5% premarket; Goldman says Huang\u2019s return not a clearing event - Investing.com",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSDZPSElSRU1zZy01RFBybzVMd1BpRHNNbVN1Q1o1UlVHN2dSWERNdTJRQ2RqZkJKOEJVd1RROU5DVmFHZTNsS1dnRHdJMUZTd1kteEFUSTZneHpXX00yRDFZM1VtTG1kRExfTEJHLU00ZmstU3lNdENCa05lNG9KQ252dXFvRXJYXy05VzVVeTVpd3dCYWVkWTM4Z2RJWUE1OFV0Y1Z3LWlqN2JSaWhRdThRT2hVZjE2eHFEUFZxLU9BYWdx?oc=5"
+          },
+          {
+            "title": "Nvidia, Anthropic, Intel, HPE, Sanofi, and More Stocks That Explain Today\u2019s Market - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZRTRaZW5hTGIxY0lPci1LcHZIa09rUW9WZDktay0yVG4zMlBVSVdLZy1TN3RjNFdtci1nVk5rb2tuTkVCbS1SQldkNm9EMS1BZ3daRUVDY2c1Zk5XVzR2dWxQR0w?oc=5"
           }
         ]
       },
