@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:15:55.213100Z",
+  "generatedAt": "2026-11-24T10:16:32.202818Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -17,7 +17,20 @@
       "weekAgoPrice": 156.13999938964844,
       "percentChange": 5.71,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "Jensen Huang is back as Nvidia CEO after 12 days \u2014 Steve Jobs needed 12 years, Sam Altman less than a week - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUXo0NUxHc05haUxwRmtPNWNMX2I0NEdwcWZ0QzhOR1FGUE9WZ21nY3dkU1VxTkNjc2xnMmEzVjVjQ1hLTHpVcmxwN0Z5MVJsR3Q3MGdkcmc3dDE5ME42eHFydUxqa0NzdENJTTRMcEFraUJJWC1EUkVfQ255dDA1dXZXbVpHbzFxSjdfSlRjLTBDbkxCRjB2VWMxYm9IbU1uNzBRMmlGZXh1QTMxTTE4LUNOZ29GaExBSV90XzRTMWpIUHkzRkJodjlfcFlXVXJBWmRYVFdOLWV1cVNTN2JtdE55MGh3TjJ4ZDRBQTZXQ05HNjg?oc=5"
+        },
+        {
+          "title": "Nvidia stock falls after epic rally on Jensen Huang's return as CEO - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2VuMWM0TmxDX1JHckNONUktS3M3eFVSbDVJeWQ0bWZsUFlhWTZ6dkZWSi1lUTlZUjVnamk5OTQ4bTBBc2ViWHJzekF0cTlWSlo0blR1ZkU2RDNYVU5QbnJOaDcwZVlmWlljTHEwRV9wQ2pfdG9nNG1icTZvcnBwalZFZGRCa3Q0dTNvQ2dWcVdzTnlGcHZEajN4ME5URDNTTV9RODhxSWQzdlBTZUZDZTF1ZkExektQMVhibk5PdFoyMEJfMmtIYnZR?oc=5"
+        },
+        {
+          "title": "Jensen Huang Is Back at Nvidia, but Bettors Are Already Wagering on His Exit and Divorce - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQektTTUtOVDFZZDlzeldodVk5dkhXZy1YUi1Xbkx3dW9saGduU0h6TEd0MmtRb0lTeUdzWmJ4cVlRZmNfY0NzdVFQbnViUHJnd0V1T3NZTDF3eHFMSFdZWVU4QUlkMldwYUszeTBSYl9Cbm5kVG1GSUY1VnVOQ2IxRDJocmNuRVdweTlDX2NOMjlQMWo0b19lT1d1dHdidw?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
