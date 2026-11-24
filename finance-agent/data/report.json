@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-24T17:16:21.008658Z",
+  "generatedAt": "2026-11-24T18:16:14.375551Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 499.365,
+      "currentPrice": 498.24,
       "weekAgoPrice": 506.239990234375,
-      "percentChange": -1.36,
+      "percentChange": -1.58,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 153.31,
+      "currentPrice": 153.28,
       "weekAgoPrice": 155.4600067138672,
-      "percentChange": -1.38,
+      "percentChange": -1.4,
       "flagged": false,
       "news": []
     },
@@ -87,10 +87,6 @@
       "percentChange": -7.35,
       "flagged": true,
       "news": [
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-        },
         {
           "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
