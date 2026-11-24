@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-24T19:16:19.135614Z",
+  "generatedAt": "2026-11-24T20:15:43.177184Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 495.3,
+      "currentPrice": 493.74,
       "weekAgoPrice": 506.239990234375,
-      "percentChange": -2.16,
+      "percentChange": -2.47,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 153.315,
+      "currentPrice": 152.83,
       "weekAgoPrice": 155.4600067138672,
-      "percentChange": -1.38,
+      "percentChange": -1.69,
       "flagged": false,
       "news": []
     },
@@ -49,12 +49,7 @@
       "weekAgoPrice": 1.4299999475479126,
       "percentChange": -6.29,
       "flagged": true,
-      "news": [
-        {
-          "title": "Malayan Banking Berhad (1155.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ManV0aURjWlBjaEp3MXhFbi03a21DdDVJVlFDTlR5NHJNV21DNnhBUWxqQzhLQUlRa2VtSlF3ZDVZalBqU3EzSXdJQXpaSkhMdzhqYjd3?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5271.KL",
