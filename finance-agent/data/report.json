@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T06:16:06.168628Z",
+  "generatedAt": "2026-11-24T07:15:56.570920Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,24 +19,24 @@
       "flagged": true,
       "news": [
         {
-          "title": "Live Updates: Huang\u2019s Return to Nvidia Sparks Stock Rally and Lawmaker Skepticism - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnQ0LTNaSmJtV2pfeHlCZmVqWDM1QXU0TkZZcnYxS1JpTGozTVR2dVhfM013NUp2VWdoMmdFWjZtR0tUenJlOURYNGFtcmZwZjJrd2VnSjUxVnFoZk90bWhrV3d3NzNkTTlyNjM3NzZXaXZLUEdEWlV4ZGdEeUZQY0xZbzBnZUYz?oc=5"
+          "title": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Qzd6R1BVMkNsU2hwVWc4OElya24tNzEwcjFjd1NyVkczM2dDTHk2WnNzdkxlR2huZW1IcTgtMDBTUVU3WWxZNW1PeFQyaHgwdGl3LTlaVjV1cEtWa0JSQmNuQ3hnQmViVG5XYndIVEFaRFVEUzJ30gF8QVVfeXFMTWJnbFVGZ0NXUU1Xb04xRi1tMnlKazVMVWxSOUpYSWtBV2dHVHZycUpyUk1XX24zQ2o4bHFEVDEyaklmcktGaTFvMHlualhDckJrZ25tMDB5VnEzbTRYQmhEOThhNDZSWWtMSDYya2ZHckRQLUtEZGl0Tmp2TQ?oc=5"
         },
         {
-          "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5"
+          "title": "Stock futures rise as traders see whether Nvidia can extend rally from Jensen Huang\u2019s return: Live updates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11bVhzTUlmU0hLLW0wRklRekw2eURvelhVMlZ3YThhUm5kNkctUE81eHlyNkRVQkRqTkc1enU3TWZZT0RKY2I1YWNTTmVpaDZkdlJYRGtqYkhFSGViT2NQN1A2MEVxNXEwbkNRMXlaejlRbzhtY2g40gF8QVVfeXFMTzg5Wkp0R2RYWWl3cUFWVjR1MzhPYlcwbzBsTGFFZVN0Z1QybjdvcThKTzBSd2NoOG51TU1JbkpKbUoyaWYtMGVGN2JKMWFkOWc2X3ZFODBBT3VBYkhzTmN3ZXNNTnlfUE5hRlZlM3pEaUgycEtwbWdNNlhuVw?oc=5"
         },
         {
-          "title": "Markets soar as Huang returns as Nvidia CEO - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5"
+          "title": "Nvidia Stock Just Had Its Best Day in Over a Decade. I'd Still Buy It Now. - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWp1Q1VCcGQ5b3N6VWtvVmZNOWhLSlg1NE56d3ZqTGQ1R3lnVHRrVkZ1aXlLVzBfMUc0aDFPSjZ1NGx5Q1R6YnB4aEZnbXN0cDZTSVdpS0x5eE4wZUp1aTJjaWFURUtZMEE3QXpWTGt4YmNpYm00T0dXTFdNc09DZ0xvcHFKcDN5TC1tQjAzOXV3bG45QlE?oc=5"
         }
       ]
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.53,
+      "currentPrice": 4.55,
       "weekAgoPrice": 4.559999942779541,
-      "percentChange": -0.66,
+      "percentChange": -0.22,
       "flagged": false,
       "news": []
     },
@@ -66,17 +66,17 @@
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.41,
+      "currentPrice": 1.42,
       "weekAgoPrice": 1.4199999570846558,
-      "percentChange": -0.7,
+      "percentChange": 0.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.01,
+      "currentPrice": 1.0,
       "weekAgoPrice": 1.0399999618530273,
-      "percentChange": -2.88,
+      "percentChange": -3.85,
       "flagged": false,
       "news": []
     },
@@ -103,9 +103,9 @@
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.68,
+      "currentPrice": 0.675,
       "weekAgoPrice": 0.7400000095367432,
-      "percentChange": -8.11,
+      "percentChange": -8.78,
       "flagged": true,
       "news": []
     }
