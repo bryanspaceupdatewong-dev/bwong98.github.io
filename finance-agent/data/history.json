@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-20T13:16:01.107001Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 145.98,
-        "weekAgoPrice": 166.19000244140625,
-        "percentChange": -12.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "The Stock Market Has Problems Even Anthropic Can\u2019t Solve - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFE2Zl8xYVVyMlFBdWR2OUlsV3htU0htTlRGQVg3N2NVQkg5aGF3NG9DZ0pQUi1zeVowVUJPbG5Ib3lfazRUeFNhdEwxc0dlT1B3a3JaZWd1cjRLRWxKMTNtWldpOXVBWHRyaVAzcm94el9pY05lNVVQWnRmVFNSeQ?oc=5"
-          },
-          {
-            "title": "Nasdaq Futures Slide, Anthropic Shares Reverse IPO Gains \u2014 LITE, IREN, SNDK, NVDA In Focus - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVl3Mk1wX0tMYnc3QjVEbjRXREhGdHF6ejNzTmgzQkhaS1U0RWhoaVdCeUh6aWNEREpUU3FuVzR6Rl9Ga0JWaUlodzlSZW5odjZXUTk4VkFLT0pLdGtLZHZra1JLblNDek5FM2FTZGVqd3pmNXNnMWJhYzRfY21iM1BlS1dtek16enFxdk5sZHUxN3pLSlpEMFFENTkxdlVvZE14bw?oc=5"
-          },
-          {
-            "title": "3 Warren Buffett Rules That Make Nvidia Stock a Buy at Today's Price - The Globe and Mail",
-            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZFM3U3FXRUl4Qy1JNEtfZEl3aVRKRjJHTU5GdlRyOEVlTHljR25hOEF4MnNVWGlOdzhhLXNoVlA3X3FJNUlZTG1pSXExSk1aSWdQUDBCaHloQ2ZHTmZ3UEFlU3NoU0E4WEcwbmdZS3NVS0RnYk9Sb0pOeU42bXB2SVI5RndfZE5SVUlmOGY0TW5aRlBJYm5uNHY3WEhNTXVjbk1JTmJZS1ZaZ1h3YnZ5U01maVlnUDhMNTBwX0QtSTI5YU1lXzRGcVY0ZTVjV2lUR0w4RXVUOVZXZXd4U3hQcHFHNlA1bDNiNzEw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.36,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -6.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-20T13:27:28.188376Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3705,6 +3670,49 @@
           {
             "title": "Jensen Huang Is Back at Nvidia, but Bettors Are Already Wagering on His Exit and Divorce - Yahoo Finance",
             "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQektTTUtOVDFZZDlzeldodVk5dkhXZy1YUi1Xbkx3dW9saGduU0h6TEd0MmtRb0lTeUdzWmJ4cVlRZmNfY0NzdVFQbnViUHJnd0V1T3NZTDF3eHFMSFdZWVU4QUlkMldwYUszeTBSYl9Cbm5kVG1GSUY1VnVOQ2IxRDJocmNuRVdweTlDX2NOMjlQMWo0b19lT1d1dHdidw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.14,
+        "weekAgoPrice": 1.2100000381469727,
+        "percentChange": -5.79,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.67,
+        "weekAgoPrice": 0.7400000095367432,
+        "percentChange": -9.46,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-24T11:15:55.472480Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 165.05,
+        "weekAgoPrice": 156.13999938964844,
+        "percentChange": 5.71,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as investors test Nvidia-fueled rally - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEVTdjZiYWhZN3lMbUp1OHJCbkVaMEF1N2FuejJqeUZMS0tPdlFKNlJGQjJHRmxYUGxfc1RaUkdCSEhscHJNeTI4OVhkU096YnBXcjFUVVVKUmNYdGVHTzRjaWV6a01nWFlGM0FHOExGQUVHeW5EQlZmM1NFcl9CLVIwUnY1dE5rdGtXUDZYTHF0U3BjUGlGaGctZkFDWHJOUVROdHJpVWU3aXhsUHd4bl8zYVU4dElkV1E?oc=5"
+          },
+          {
+            "title": "Nvidia CEO Jensen Huang Is Back, and Stock Investors Just Got More Great News About the AI Chip Giant - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTN5ZkJwUVhHZjRoQVZHN3dSa1Y5T09zdzNqYXZlNUpEa05iN1p6WThXS3hGX09McUFLb3l0Sy1POVZuYzRBTERwblZnNDVSNkVOUVZNQi1GenRJbzBrWGVXNzBmaVVVVHJ5b2UxVjg0Qmw2ZWRabUJPb2lVWGhPSldzVjBVM2pzREJZR0ZGel9kMU4zWkExaA?oc=5"
+          },
+          {
+            "title": "Nvidia Could Generate $741 Billion in Revenue Next Year. Here\u2019s What That Means for the Stock. - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWXBuQWthU1JTVmZOR3JiM2tNNDd5d3NNMlFZeENRRUJ6aHhodDlITXVGSzNIWGhNSHhrSndWMXZESHNUdW9ELTNEeWoxekljSHNEMnNkaUpHc196NXVlTWxnZ09QSFdKNHloNktUdmIzR3ZEZE9uRG5TazFadTV2NEI0TWNwWTdlVFh5QVcwZHRLQW5fQ0MtUU80d29JdnM?oc=5"
           }
         ]
       },
