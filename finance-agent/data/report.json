@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:16:37.308785Z",
+  "generatedAt": "2026-11-24T00:16:21.627008Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -19,16 +19,16 @@
       "flagged": true,
       "news": [
         {
-          "title": "Stocks making the biggest moves Monday: Zoom, Hewlett Packard Enterprise, Agilent & more - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVBOMTAxQW1BaE9lVmJjMDJ3dFgta0pfS3pUcFA4UEVjR1dGTnZOWUQwc09pQUlOeURWR1RqWEZ0OWlGYmpyUlM3eVFFcmxkVEx3SjFWNm9udXJuMUNNNXdmRUw3RVZjN3hJRTdLc3IxMTJzQVFwWk1YeVl0UExqLTZRVG7SAYoBQVVfeXFMUHpQdG4wa1JHdm85UkkxSkNrWXd1VlFMSkhEVWlBZ2pJNm92bXE4RG5EWG5yT2hzQXZzSjZHdHNGZWlITjZWczJBT2JOOWpBbzBiLVdKT3NpT3FSZVQ1bTVyWWc1X0l1SWZBMkt6dWFZTVB6cmZHRC0wWnRrZ0xLWmdNSWZUZVZHc1p3?oc=5"
+          "title": "Nvidia's Stock Surges More Than 30% on Jensen Huang's Return. Will It Get Back to $200? - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUFYSGdaSDRfU3FIOFFOaFpZS3I0UWNPRFdRcmJyb3NMdVFUaWE4aDBIMUdtUV9LTXFfMzVQTTFlMm9ZWVZ3NzRpQkllZzdGbFBGT2NLTWtFN1JjN2ZLWFdBMjMxVEl0UmdzcDh2bEtFaUZ5MnVJZ0lxYWE3c3J6MnJBTmk5WWJFS0Z2RjFleXU3T2NZZC04MQ?oc=5"
         },
         {
-          "title": "Stocks surge in best day since 2025, adding trillions in value after Jensen Huang returns to Nvidia - NBC News",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTWR5WHAwZmExU2UyZkd2d0w4UWxCcXh0X1hJajU4alplUUVUdGM5bk52dDRoazNfamJfbWdQRGhEVExVeFAtZldhcmxYOTlaMmJKTkNQN2Yza1dNS0dfZkhQZTRTTGZudGI1d0JNbWR3SWJzN1hRYWxxWktYS2hNaFR3ajgzQ3FRUlJLVjE5d0cwVnc?oc=5"
+          "title": "Markets soar as Huang returns as Nvidia CEO - The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5"
         },
         {
-          "title": "\u2018I Fell Off My Chair.\u2019 Investors Marvel as Huang\u2019s Return Sends Stocks Rocketing. - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNmRUU280U212czQ5Tl9Nb0RjYXoteDBQOUNXNExXVUNjT0JQcGRGWjhtcm04SlF4UzViLVU3MURlSV91T2FEUDc2ZXNwX3dqOGtxeVZxd2hKdWZOM0hEN1daeFA5UC1GN3ROS2FWZWlzNVBHR3B0M3kxUkZuRDVCZkVKdTJZQWp1Z1BYcERhUk5mRzVMSjVzRVZCb0JuM3lwM2JHQ2xuX1dSZGRPV1NqWFgwR0RfODJ4VTZjUg?oc=5"
+          "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDlVU2VRdnRlNnhCclpLeGFWdzRRS0NKQWpDcWNFYnBvVVpRTWowd2V0eGFNVU5ndElhLXR6SFVUUnVYQTlHTnZId3F2dGt2UWFiNDgtYUVLd0Q0ejZoS0NCTnhEaUtxczJPMDMtanhHODkzeG05Qm1lYWNkT0JqTmI5dnXSAYoBQVVfeXFMTzFzUEhwd2QzS3htT0FwNzU5NnlTbGF6WTdYbENqX2lLbkZHWUMtMmpOM2hEdVI2a3E0c3ZuQUNiWFB4Y1NkckhBeWVlWXlaM0JzeEtxZTlIdmdWOXhXeFo5UHpWNnVoQS16UE52YmRZVnlTdUN4ZWl6Wkg1c1dhRDdnR0lBUzNCZ09n?oc=5"
         }
       ]
     },
@@ -62,12 +62,7 @@
       "weekAgoPrice": 1.4299999475479126,
       "percentChange": -7.69,
       "flagged": true,
-      "news": [
-        {
-          "title": "Malayan Banking Berhad (1155.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ManV0aURjWlBjaEp3MXhFbi03a21DdDVJVlFDTlR5NHJNV21DNnhBUWxqQzhLQUlRa2VtSlF3ZDVZalBqU3EzSXdJQXpaSkhMdzhqYjd3?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5271.KL",

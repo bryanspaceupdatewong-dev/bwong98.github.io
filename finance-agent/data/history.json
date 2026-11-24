@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-20T02:15:54.273225Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 145.98,
-        "weekAgoPrice": 173.72999572753906,
-        "percentChange": -15.97,
-        "flagged": true,
-        "news": [
-          {
-            "title": "1 Unstoppable Stock to Buy Before It Joins NVDA and AAPL in the $1 Trillion Club - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmxZUTZVZndtUFl3QkI1ZFdXV2tvWDBhNnlFR0hTZnVvMmFESl93X25RN3VUWGNiWkg0Zmc2TzEtSkVNM3N0bk14MmxBRkJ2MHBMNUQ5VjVkcmhtZmczekM3dko0ckhnb2xtNU5wc09MLUctekdxaElWU0VJZmw3Y1RYVnpBU0I5aU04WlN4Y0ZnLTBpZUFINFNB?oc=5"
-          },
-          {
-            "title": "1 Unstoppable Stock to Buy Before It Joins NVDA and AAPL in the $1 Trillion Club - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVYwUXVYXzJRbm5VcEtwTUZNakFrV1FpeTJQNWpDRDZVQjZZM3RYb0prOGxzNFVCajFqZTlIR3ZOWlQ3cnp3Yk5CVDNfUks3WU1kQ2VxOHkyQlAwUWQ0NG1hRjBpRU1wWkNwc1ZKaXExN2xFQlpwVzlSMjBFSGZMSHExR0NGbU5Na3BlR2VjRy1oRWY1dGNjUU9hQ05MM0F6SjBUM25UN1BXWktmOHdYMGM1REwxU0tGWGJpdGxTbw?oc=5"
-          },
-          {
-            "title": "AMD stock plunges after short-seller says the chip maker has its own China problems - Business Insider",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbW0tRzZBUlk0UFA3dmpTQ1Z5WFBrTy1LZ2d0dnd4bWRvSWRfeGgzbzc1ZDBYbkxTNXFKcThsRWZJMUNqdkNaTHhNbUxGNDJmYk53OFZ4SXZzSlptY0xrVXlRVjRqZnZQVjYzVjlOYXBGc0tkaHFaLWRrY21ybGFJUjE1YUtDR1Q3OVlGT2Jn?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.36,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -6.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-20T03:15:44.901980Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3566,6 +3531,91 @@
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ManV0aURjWlBjaEp3MXhFbi03a21DdDVJVlFDTlR5NHJNV21DNnhBUWxqQzhLQUlRa2VtSlF3ZDVZalBqU3EzSXdJQXpaSkhMdzhqYjd3?oc=5"
           }
         ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.225,
+        "weekAgoPrice": 0.25,
+        "percentChange": -10.0,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5352.KL",
+        "currentPrice": 1.23,
+        "weekAgoPrice": 1.3600000143051147,
+        "percentChange": -9.56,
+        "flagged": true,
+        "news": [
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
+          },
+          {
+            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
+          },
+          {
+            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.685,
+        "weekAgoPrice": 0.75,
+        "percentChange": -8.67,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-24T00:16:21.627008Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 165.05,
+        "weekAgoPrice": 156.13999938964844,
+        "percentChange": 5.71,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia's Stock Surges More Than 30% on Jensen Huang's Return. Will It Get Back to $200? - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUFYSGdaSDRfU3FIOFFOaFpZS3I0UWNPRFdRcmJyb3NMdVFUaWE4aDBIMUdtUV9LTXFfMzVQTTFlMm9ZWVZ3NzRpQkllZzdGbFBGT2NLTWtFN1JjN2ZLWFdBMjMxVEl0UmdzcDh2bEtFaUZ5MnVJZ0lxYWE3c3J6MnJBTmk5WWJFS0Z2RjFleXU3T2NZZC04MQ?oc=5"
+          },
+          {
+            "title": "Markets soar as Huang returns as Nvidia CEO - The Washington Post",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5"
+          },
+          {
+            "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDlVU2VRdnRlNnhCclpLeGFWdzRRS0NKQWpDcWNFYnBvVVpRTWowd2V0eGFNVU5ndElhLXR6SFVUUnVYQTlHTnZId3F2dGt2UWFiNDgtYUVLd0Q0ejZoS0NCTnhEaUtxczJPMDMtanhHODkzeG05Qm1lYWNkT0JqTmI5dnXSAYoBQVVfeXFMTzFzUEhwd2QzS3htT0FwNzU5NnlTbGF6WTdYbENqX2lLbkZHWUMtMmpOM2hEdVI2a3E0c3ZuQUNiWFB4Y1NkckhBeWVlWXlaM0JzeEtxZTlIdmdWOXhXeFo5UHpWNnVoQS16UE52YmRZVnlTdUN4ZWl6Wkg1c1dhRDdnR0lBUzNCZ09n?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.14,
+        "weekAgoPrice": 1.2200000286102295,
+        "percentChange": -6.56,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "3182.KL",
+        "currentPrice": 1.32,
+        "weekAgoPrice": 1.4299999475479126,
+        "percentChange": -7.69,
+        "flagged": true,
+        "news": []
       },
       {
         "ticker": "0397.KL",
