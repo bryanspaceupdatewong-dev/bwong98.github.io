@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-20T14:16:10.753471Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 145.98,
-        "weekAgoPrice": 166.19000244140625,
-        "percentChange": -12.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHB0U3N0WnlCMjZCUFZ3QlNZSEhXZnVVbUdMSElkZTJ3TkszdTFxQnlpMkpZV05ZajNXM0VJYXlDM293OEdkUWl4RHVTZXRvSG1rQnJMWVJrMEp3a00zSm9VbTF6eHByZmpwNGMxcFlEQ3ZFSDQwU0FpNHlzV2xDRndWMnVzdDUzbkdDamxKX2FZeWNBbTJBamg2SVFwamZWdEh1elZ3?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Falls 40% From Its High. Why There\u2019s Hope. - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5INVNuU2E4Z3Bsa0FYa0RqbHNYM3ZlS1lZV3BlODA2Q2F2ejlxMllHQnl2YzhmMm5IeW5RdU9tUzhGUUdlVTJtMUozbkJYZGZOMFpnMmRaWWxpRDY0OVF3a1JiTVBrZmNWMkJsTVotRERzWUZvQVNV?oc=5"
-          },
-          {
-            "title": "Prediction: Nvidia Will Hit a New All-Time High in 2027 (Hint: Watch This Metric) - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQVpsY2dCd1RhaWNHTUN5Z1didS1sZEtPWEh5RkNZVXpTdDdDYTN2MmxqZHpiLTdkWFhERmFFekN0SS1xd0U3aFBqUWFGTmoxX0ZPWlc0aS1uQ2dScUM4ZHdpS3o4T09uVW5kZHhFVFBkbTQ2a3JybC0yOXFJSE5UOWlKQ29nSEtvY1lMVXBqOTNhN3hvZ1dWQTI2amQzR2JKUlBud2FqeGUwMUU3dWtxNjgydTlYdUotUU9JRA?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.36,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -6.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-20T15:16:34.738811Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3721,6 +3686,49 @@
           {
             "title": "Nvidia, Anthropic, Intel, HPE, Sanofi, and More Stocks That Explain Today\u2019s Market - Barron's",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZRTRaZW5hTGIxY0lPci1LcHZIa09rUW9WZDktay0yVG4zMlBVSVdLZy1TN3RjNFdtci1nVk5rb2tuTkVCbS1SQldkNm9EMS1BZ3daRUVDY2c1Zk5XVzR2dWxQR0w?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.14,
+        "weekAgoPrice": 1.2100000381469727,
+        "percentChange": -5.79,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.67,
+        "weekAgoPrice": 0.7400000095367432,
+        "percentChange": -9.46,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-24T13:16:12.031768Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 165.05,
+        "weekAgoPrice": 156.13999938964844,
+        "percentChange": 5.71,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Stocks making the biggest moves premarket: Nvidia, Anthropic, Best Buy & more - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1pxbG5jdUhaYk5vZU8yQ0hNMk1LZzJhVDctUW9XVlZOSHNheVJFNGhIdjlJQ0RmRldwLUplZXB0c2ctMXNBcXhUSlN2YWFMYkZOS2t5YUlpZmtyZDRxQmEtWDBRRkR0LWpiQ21rSnQ4TzBUd1JxNGhHQi1LN19mcVYtbWjSAYoBQVVfeXFMTXF1dDNTUmF2N3ZvWTBYdmE3NmI2SDRPSC10TGoyUm9ENjJPVjFMZXZKNi12MEdVdHFVOWhJVldPY2FNeWJMSngyZ0VoUHN0Z1BTeHM5UE82OXd4MVZ0WGhTb1cycU42YnNHYXMxX0VVVXNtY3BuSE45RFlaei11ZFhfdUI3eFdqUjln?oc=5"
+          },
+          {
+            "title": "Nvidia Faces an SEC Probe, According to Press Reports. Should You Still Buy the Stock? - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekZJZWhYRUMwOFNPWVpzbkJKQkU4b3dYTUgtemxFMWFtMzYwWWwyZ21pb2MzS2dqTFNNWnM4RUNKVzBDQjMyQzFjZ18xRVJBRFRkS0YxVXlCRnFrcEc2ZUVQQWhibkF4NjcxdVNuUDRNTV9kRDBETHZvd2tCWmJxbEplbDZJWmJpUjlfMC0wUDk1TnlOZGxSc1k2SFltRDZSajgzMkJRYm0yRURxQ0dIcFh0T09zaVB6LU1lN1Z5QXpfZVRs?oc=5"
+          },
+          {
+            "title": "Dan Ives Calls Jensen Huang's Return To Nvidia The Start of \u2018AI Godfather Part 2,\u2019 But Warns Of More \u2018Noise\u2019 Ahead - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdF9yLXBCTWVXeHVXanI4V3d0OGI4T2d3T09YelBxeWhVT3RiX0JzQWtqZE9uN1FaQ3REZTJDck1OQm9XcHdJakpibWhPdXAzdWpfT3d4RFZjenE1TzNKRm5RWTJycm81eW10VDRDMzBBLUNLRG1KT3JxOS1TOHhCVHZtQXRfTU9LVEUxR0VmVEtpdjZlTEVOQg?oc=5"
           }
         ]
       },
