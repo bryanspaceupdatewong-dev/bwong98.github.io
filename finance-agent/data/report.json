@@ -1,67 +1,67 @@
 {
-  "generatedAt": "2026-11-24T00:16:21.627008Z",
+  "generatedAt": "2026-11-24T01:15:40.032966Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
       "currentPrice": 492.5,
-      "weekAgoPrice": 517.989990234375,
-      "percentChange": -4.92,
-      "flagged": false,
-      "news": []
-    },
-    {
-      "ticker": "NVDA",
-      "currentPrice": 165.05,
-      "weekAgoPrice": 156.13999938964844,
-      "percentChange": 5.71,
+      "weekAgoPrice": 523.8800048828125,
+      "percentChange": -5.99,
       "flagged": true,
       "news": [
         {
-          "title": "Nvidia's Stock Surges More Than 30% on Jensen Huang's Return. Will It Get Back to $200? - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUFYSGdaSDRfU3FIOFFOaFpZS3I0UWNPRFdRcmJyb3NMdVFUaWE4aDBIMUdtUV9LTXFfMzVQTTFlMm9ZWVZ3NzRpQkllZzdGbFBGT2NLTWtFN1JjN2ZLWFdBMjMxVEl0UmdzcDh2bEtFaUZ5MnVJZ0lxYWE3c3J6MnJBTmk5WWJFS0Z2RjFleXU3T2NZZC04MQ?oc=5"
+          "title": "What Microsoft (MSFT)'s Enterprise AI Partnerships Mean For Shareholders - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVY1c1libERfeFdXazhSbjdCblNEWHZfWGRiVlFPVFdDUWFMLUtjaEFudTU1LTZLOFRTM2Q2TVAyczdOcVZzbUJYTHE4UVBRdUkwOURqbTZtYlE3eVIxRVNPbU9JcWVVNER5UHdlVURGWWFsQnM3eF9vZ2c4VnhpUWlBWm5xZkYwY1UtMFZUdF83OXFGMVQzbmV5cTJkYUlkRDF5SGZ3WkE?oc=5"
         },
         {
-          "title": "Markets soar as Huang returns as Nvidia CEO - The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5"
+          "title": "3 Top-Rated Stocks From the Topsy-Turvy Tech Sector - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTkFPY3BkRDgyNWNRY1I4NUZkOGp5OXY3dmRSdUNiNzNqeG5wR21IamlaYXIxM19seVJGUkZWV0FIekQ2dVNzeXdBcXlYb1BUR252REpnNzlHbTFfazZSVkVpLWFWNGNScGVZTmU0ZWVXXzU2ZnVXYm02aVRZYkxrTm45N3FJT2lIdVRtLWt4cGY1Q3RPUlhteXBlckJua3ZZR0JqM0twaDRjeURPZTZLNWZRaDV3b0haSXRmQjNwVTVYRWRaZ1BWbmtHelRMeHB4NUE?oc=5"
         },
         {
-          "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDlVU2VRdnRlNnhCclpLeGFWdzRRS0NKQWpDcWNFYnBvVVpRTWowd2V0eGFNVU5ndElhLXR6SFVUUnVYQTlHTnZId3F2dGt2UWFiNDgtYUVLd0Q0ejZoS0NCTnhEaUtxczJPMDMtanhHODkzeG05Qm1lYWNkT0JqTmI5dnXSAYoBQVVfeXFMTzFzUEhwd2QzS3htT0FwNzU5NnlTbGF6WTdYbENqX2lLbkZHWUMtMmpOM2hEdVI2a3E0c3ZuQUNiWFB4Y1NkckhBeWVlWXlaM0JzeEtxZTlIdmdWOXhXeFo5UHpWNnVoQS16UE52YmRZVnlTdUN4ZWl6Wkg1c1dhRDdnR0lBUzNCZ09n?oc=5"
+          "title": "Microsoft Stocks Rise 3.9% With a Perfect GF Score as OpenAI Contingency Plans Surface - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObFpkbk0xR1lORUU1SDV3TlI1VFBubXNsNl9tNjc2dEI4WDBaUWFqaTU1MDFxNlNqeC1XRXIzTllaMVROZE1OOXhqRXVSQXM4VFcwRExIcXAzem5uaHlrT2hRSDV6NlRianNfSDNKQzY3Rk5jMEhCOWx1YzZvZWUzUzFqa2oyck5zejg4RlFFeHlYRHo5cG1RQzZDWmlsbjhibGl1a0o2YVg3QzJBWFZ0ZkZTSFA3UjU2WlBUeWF1d25CVjFOVmJzaW9Eb19ZeEdyREs0VlFZY2dFUHBRTmc?oc=5"
         }
       ]
     },
     {
+      "ticker": "NVDA",
+      "currentPrice": 165.05,
+      "weekAgoPrice": 162.85000610351562,
+      "percentChange": 1.35,
+      "flagged": false,
+      "news": []
+    },
+    {
       "ticker": "1295.KL",
-      "currentPrice": 4.5,
-      "weekAgoPrice": 4.550000190734863,
-      "percentChange": -1.1,
+      "currentPrice": 4.53,
+      "weekAgoPrice": 4.559999942779541,
+      "percentChange": -0.66,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.68,
-      "weekAgoPrice": 7.590000152587891,
-      "percentChange": 1.19,
+      "currentPrice": 7.61,
+      "weekAgoPrice": 7.630000114440918,
+      "percentChange": -0.26,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.14,
-      "weekAgoPrice": 1.2200000286102295,
-      "percentChange": -6.56,
-      "flagged": true,
+      "currentPrice": 1.15,
+      "weekAgoPrice": 1.2100000381469727,
+      "percentChange": -4.96,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.32,
-      "weekAgoPrice": 1.4299999475479126,
-      "percentChange": -7.69,
-      "flagged": true,
+      "currentPrice": 1.35,
+      "weekAgoPrice": 1.399999976158142,
+      "percentChange": -3.57,
+      "flagged": false,
       "news": []
     },
     {
@@ -74,17 +74,17 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.01,
-      "weekAgoPrice": 1.0499999523162842,
-      "percentChange": -3.81,
+      "currentPrice": 1.03,
+      "weekAgoPrice": 1.0399999618530273,
+      "percentChange": -0.96,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.225,
-      "weekAgoPrice": 0.25,
-      "percentChange": -10.0,
+      "weekAgoPrice": 0.23999999463558197,
+      "percentChange": -6.25,
       "flagged": true,
       "news": [
         {
@@ -95,24 +95,11 @@
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.23,
-      "weekAgoPrice": 1.3600000143051147,
-      "percentChange": -9.56,
-      "flagged": true,
-      "news": [
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-        },
-        {
-          "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-        },
-        {
-          "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
-        }
-      ]
+      "currentPrice": 1.27,
+      "weekAgoPrice": 1.2799999713897705,
+      "percentChange": -0.78,
+      "flagged": false,
+      "news": []
     },
     {
       "ticker": "5341.KL",
@@ -123,5 +110,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 6
+  "flaggedCount": 3
 }
