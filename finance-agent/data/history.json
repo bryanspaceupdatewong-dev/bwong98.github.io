@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-20T06:16:08.205185Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 145.98,
-        "weekAgoPrice": 166.19000244140625,
-        "percentChange": -12.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "\u2018Bright Red Flags\u2019: Nvidia Subpoenaed By California, Attorney General Also Probing Jensen Huang\u2019s \u2018Actions\u2019 - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUFBYc3pmY1Ntd0syclVxNzUxUXJaNlNzejdLanA3b1JOUGpjdHphTFR1cW5oMXY0czlvd2Y1d3FQZFBtREZ2NHZfMWYxcUVIQmljcjVGN0hWeVpxOHB5ZkFtMEFWeGJwalVad0I0WG9aWGdUUzMwMkxEbXBBekxDSDZBTkVHZEZLa0JjSHJSQUhfbzFMN0kyV3g0TjF6MXFH?oc=5"
-          },
-          {
-            "title": "Nvidia Just Raised Its Supply Commitments to $390 Billion, Mostly for Memory. Micron Is the Memory Stock I'd Buy. - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcUxGZ2xYWjFVd1dyT0V3bkdPVHZ2U2gzUzZUUzRPd2RqRXcxemNKem9zbnplNGwzQWY4SENsdXF3dUlIMU9Dc185WmJXdmo3eVk2UzhLT2JPR3hwdUlpa3AzVE5hZEktR0lfY0xaVjZuZUVqamF0M0tDbmhTVVpjUHU1bXZnRzQtdXI2YWh2Zm1wRDlPSFpvRDJObTRUbnJ4ZGNDR3J5SmNoVC0zTmc1QXBfdTR1TExLNno3RXJ5eU8waVNCaDIwNnhkZWJrcHR6dExKemJVQmsxb0VCdEtBUUhqY2Q0STNrdVpr?oc=5"
-          },
-          {
-            "title": "Michael Burry Says He Tried to Warn Investors About AI Stocks - NVIDIA (NASDAQ:NVDA) - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXlyaHRBWXZSMS1ROFB2QTlCMEFnYXhZYkwyWFZlMUo3UWNSOWlCQnp4MnRJM25nRXIwZ2dnU2dIalZjUDFhOEF5RGtEcXdzNldEVmNVckUxdTJnbmdWb0VTMEJ4WDlKZW03QTAyemZDWWpYOXF5SDFhdEh5VkZ4YkozVGlzSWstVHBYZjk0Ym5sb3FpSFltZDhZTGJKYlFUYTVDUXBKV2J4ajZuMzI0QWpNUUxuc1RMaDNONUtFZjhhSmoxWkRn?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.36,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -6.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-20T07:16:08.546943Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3642,6 +3607,54 @@
   },
   {
     "generatedAt": "2026-11-24T04:13:05.734104Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 165.05,
+        "weekAgoPrice": 156.13999938964844,
+        "percentChange": 5.71,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Markets soar as Huang returns as Nvidia CEO - The Washington Post",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5"
+          },
+          {
+            "title": "Live Updates: Huang\u2019s Return to Nvidia Sparks Stock Rally and Lawmaker Skepticism - The New York Times",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnQ0LTNaSmJtV2pfeHlCZmVqWDM1QXU0TkZZcnYxS1JpTGozTVR2dVhfM013NUp2VWdoMmdFWjZtR0tUenJlOURYNGFtcmZwZjJrd2VnSjUxVnFoZk90bWhrV3d3NzNkTTlyNjM3NzZXaXZLUEdEWlV4ZGdEeUZQY0xZbzBnZUYz?oc=5"
+          },
+          {
+            "title": "Jensen Huang\u2019s Return As Nvidia CEO Sparks AI Stock Rally, But Congressional Probes Loom \u2013 And Analysts See Risks Ahead - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTncwRERMVndYZHd5cTJtTTRhUHR0ZkpGQVg1T3RvNnNyY2tvOHpVUC1QY3J4TWk4RHAta2NFM3ZsbWVQazJEdEVRV0xWTGZMVndBYzFFaU11VGxWVlFJdGN2NjZzYmV6Y0NGVGo5dFNMYnJKRXBjQ2t6a3pnRG1kVkpPdU1DZkItRm1aVFNlMXJ4Y25HcVRZNXJR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.225,
+        "weekAgoPrice": 0.23999999463558197,
+        "percentChange": -6.25,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.68,
+        "weekAgoPrice": 0.7400000095367432,
+        "percentChange": -8.11,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-24T04:16:02.245197Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
