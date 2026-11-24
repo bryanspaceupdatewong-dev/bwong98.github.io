@@ -1,40 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-20T10:16:12.044092Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 145.98,
-        "weekAgoPrice": 166.19000244140625,
-        "percentChange": -12.16,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Is Nvidia\u2019s $81 Billion Receivables Pile A Risk? - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNjB2WnFHZDJQU1VUaTg4TUhYQmhYWnFqdVJ1ZF9yYTd2WjlWbVB4OW1HRjlGYnoxaUpIaDlQYzFfWXRNMGNzcXlIT0RvWDVzajJoSVRDNTE3eFotSWczRmFoRmI3UUF5cG9nSkFJT1VBcFJqX0wzZG1fZnRyV2tQMjlRdTdFRTM4bmd3cUVlM2NSSVFoa0I1SE8tR3g5bUtNMXA0Y2tqQmEzZnM?oc=5"
-          },
-          {
-            "title": "Should You Sell Nvidia Stock For A Tax Loss? - Trefis",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRG9yYjBGWVVIVkxDcVhwLVFfU2p0dHQ1anBjckVnSUs0dEFHcnNyQzlyTnJqQTNfcWsyOENqSVlTbTF2Y2ZPZkJESUFnRGI5TUVZMEtnRmZXZ3BSUy1maEhmX0lzOHpnTXFiNkR3WXN2eUZnc2pfNGJHa3h0Y2xCNWxjZC01b3MwTXNGaDAyQmFhLW80ODdxWnNuWThRWlNKVXNpRW9GYw?oc=5"
-          },
-          {
-            "title": "Nvidia Has Lost More Than the Market Value of 495 S&P 500 Companies in 6 Weeks -- and Its Downtrend May Be Just Beginning - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLXluMnZ0UDNwUHIyNTVDTGw5cGszYkQtZmlBSE1FcXFLZ3JaLV9WdFZDZ1k0UTZNT0dEd1NOUUlyWFFSNVZxWkVzdEJiUEtxQWtxZjlXSkY5bjgwclMzdGFFb000aWNPOVpiT2hTSDIxWnNGbmo2QkZnSzQxdWRZVDRyVDQwX19XSWFiOW0xbUwtLUJRdkpZZlhOeXMwM09SU0U5V091bUhQQzFwOEtCU1VPRU92Qmd0M2xJYVVLUEhpWFpV?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.36,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -6.21,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-20T11:16:11.447765Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3710,6 +3675,49 @@
         "currentPrice": 0.675,
         "weekAgoPrice": 0.7400000095367432,
         "percentChange": -8.78,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-24T08:16:11.781477Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "NVDA",
+        "currentPrice": 165.05,
+        "weekAgoPrice": 156.13999938964844,
+        "percentChange": 5.71,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Nvidia Stock Just Had Its Best Day in Over a Decade. I'd Still Buy It Now. - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWp1Q1VCcGQ5b3N6VWtvVmZNOWhLSlg1NE56d3ZqTGQ1R3lnVHRrVkZ1aXlLVzBfMUc0aDFPSjZ1NGx5Q1R6YnB4aEZnbXN0cDZTSVdpS0x5eE4wZUp1aTJjaWFURUtZMEE3QXpWTGt4YmNpYm00T0dXTFdNc09DZ0xvcHFKcDN5TC1tQjAzOXV3bG45QlE?oc=5"
+          },
+          {
+            "title": "Markets soar as Huang returns as Nvidia CEO - The Washington Post",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Just Had Its Best Day in Over a Decade. I'd Still Buy It Now. - The Motley Fool",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0o2cnRUSGh4V3JJakJ2YlI5NzJlZzRadkdUS3FqQ0F4Sk9yamRKSlRIeU5PM3F0bVNNT0JnbktENzJ5aTBVN0Y3MEpCdHhHQmh2WW1EWHBqcXVJdkViT2VhZFNvenlFZ0dIbVE4czREQWRWSkVEakYwVEdCT1VBakhFQ1d3QjBEUFBUdTBIV1J1Q1lqcnFRUHNEQ3BJVTZwQTRNZGU0Umg0cnN4dWtzLUlKQ1RDdw?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.14,
+        "weekAgoPrice": 1.2100000381469727,
+        "percentChange": -5.79,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.67,
+        "weekAgoPrice": 0.7400000095367432,
+        "percentChange": -9.46,
         "flagged": true,
         "news": []
       }
