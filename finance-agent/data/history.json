@@ -1,111 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-23T13:15:55.855589Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 484.52,
-        "weekAgoPrice": 523.8800048828125,
-        "percentChange": -7.51,
-        "flagged": true,
-        "news": [
-          {
-            "title": "3 Best Tech Stocks To Buy Now For 2027 - Forbes",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwMEtwekVqWVVfOHA5UHl6bU9Vb2k0eEIxTGdyNmJ5d1FrM3lubzRpS1drX3pZV1pSU2JrNU8zVDhQdXRwWklIWHpoMlFiQUxxa21sVEQyM2hudFN3OXA5dEdsRmt4ZTE1VDUzSVN1dzd2SXFLLTJIb3ktNGs?oc=5"
-          },
-          {
-            "title": "Weekly Recap: Azure revenue growth and Maia 300 AI chip unveiling - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTJLNGZUM2ZLZEV3d3JWZEM2Z1pqYzRkM0E1bWdpNjJHcVhraEQyTU9vNTZ2T1RzNlF4UWs5aUVCNU9jN3R2NmhQN1ptM2JiQXJtRFl2SmExekh0bG5JZzV0eTVFODJZancxRUxUcF82RDhRRE9mTk5YS3dNZWhsS0F4aWc0MlN3YnFYZDBoNnlLMDg2NktSZ2pPU3gxYXVkajM3bmNqRmY0dTB4ZHJpbDh4dlF1ZVBNRlNpd1p6cV94Z29H?oc=5"
-          },
-          {
-            "title": "Buy alert: 3 stocks most likely to make big gains after Friday sell-off - Finbold",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV28xVkxKNXFjVV9rSzREbDZLcTFySUM0OEFwVndaMmZ2bTMzMElvbXJSdzFFS2xWcTZhWkE3eWNrcnVnMkZxOExrVnBabi1OR2VyS1JvdlBNdWVqTW11TUVwZjl6bHlFNDZCTVFIRnl4LW1EbzMwOXFTUDllOFBlQ01zMUZpN3UxcTJia3NfYno2LS1DVXc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 125.53,
-        "weekAgoPrice": 162.85000610351562,
-        "percentChange": -22.92,
-        "flagged": true,
-        "news": [
-          {
-            "title": "The Stock Market Rebound Is Here for a Good Time\u2014Not a Long Time - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2xrTE1GVmFMbXM5VHhqX01PN1A4OHJhLTktcmswbm9RTHBnUXBmbmFneGw5b0ZXUGZoSDFrakFOZG1MbXRzQUkzcDhfaEJicGItMVNEaDhBWlRvYVlMNEZJLVoycjNKaHl2SGhkUkM2eVZ2Q2dQM01nUWhkTmZfRA?oc=5"
-          },
-          {
-            "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang - MarketWatch",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNTE3UTJiTDJBdGEteFJpU1RwQjQ3NW56dVJyc2ZXcTd0M0V5b3hfMDZEdnEzaW9GNmJjV25iYl9Gb01jallBT2VMaDgxWndBdnU4WERzcXo5TEpKTU1EUGJXTTRxWFoyZ0dmSUJFenZrdG81ZWNkN0pXNmo5SDhWOHFuRkYyMHZjWmlDck1nS2toS0dhMnlmRWhWRFIyU2gyZ0lIaktGVEVjMDRoMkFzcWVyRkt4blFjRVpCOHNsb2s?oc=5"
-          },
-          {
-            "title": "Where Will Nvidia Stock Be in 1 Year? Wall Street's Answer Might Surprise You. - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDNtZkpIbmpYenhvQnRwR1gyQndDaFZtOHJPUVJHREdkaXdhVkZxZEtyajB6SUdPOS13ZmZYTUdhRFFGcDF0TFp1eFpzQkhHQzdCVWFqTG15bHFlei1yZXF1dUxPX2hYMDhGVVZIRmNPU25sM2Y2QXN2X0xfMVYtUGgteGNwMl9KX2lOTzJvZ19lX1pn?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2200000286102295,
-        "percentChange": -6.56,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.32,
-        "weekAgoPrice": 1.4299999475479126,
-        "percentChange": -7.69,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.225,
-        "weekAgoPrice": 0.25,
-        "percentChange": -10.0,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.3600000143051147,
-        "percentChange": -9.56,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-          },
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          },
-          {
-            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.685,
-        "weekAgoPrice": 0.75,
-        "percentChange": -8.67,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-23T14:15:55.673083Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2494,6 +2388,41 @@
   },
   {
     "generatedAt": "2026-11-25T11:16:21.699062Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.13,
+        "weekAgoPrice": 1.2100000381469727,
+        "percentChange": -6.61,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.22,
+        "weekAgoPrice": 0.25,
+        "percentChange": -12.0,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.68,
+        "weekAgoPrice": 0.75,
+        "percentChange": -9.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-25T12:15:53.181458Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
