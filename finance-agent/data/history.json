@@ -1,111 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-23T03:16:25.912459Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "MSFT",
-        "currentPrice": 484.52,
-        "weekAgoPrice": 523.8800048828125,
-        "percentChange": -7.51,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Microsoft shares fell 9% from record but historically rebound with 30% gains a year later. - Pluang",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV19hZEZhX1BRenBsVmRFVmpDMHhESWlfTHlaMk9pVGctU2k5TTdLakQtU2ExZWQxd0o5QWpaQ3hiaTZUNnZnOFJwZTFkSkhMUkQ0V0I2dGRxOGJJX096WFJQTk9wamt4TmZ2OUh5eXUtUWU0UnBEZXY3WEMzZk1ISTQwcWh1WVB4VTAzVQ?oc=5"
-          },
-          {
-            "title": "What Makes Microsoft (NASDAQ:MSFT) A Focus Amid Market Uncertainty? - Kalkine Media",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3U1R09FZFA4ZGZRVDhNM0EyWmZjSXZfUG5uc2hFZzBxemY4aFpmS3pldWdrYXhUZUp2RUJiRkVCSVhrc0NFN1dvUFdNMDNzYjdNN1NvbFdGLTFSMEtjNGhScFY1Zk85NXZaRU5YbWtHU3pjX050cVoybGgxcUJKblU1dTNzSkZvM3ZRb0UtdlEtNFAwRmNfdVd0dHpuQmlPSHU0Yi15MXh2amc?oc=5"
-          },
-          {
-            "title": "Microsoft Stock Gave Back 8% Within 2 Weeks of Its Record. Here's How Past Quick Pullbacks Like This Played Out. - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdVJFYkZXSFNpSVBPaWpaZzNJYm44RWs2MjNrbjV6dlBmX2tzU0FFT3ZSX1NoOXZFRVFqcTgyeU5DSzVReU8yQmpWTVMydFdtVjJ2Z21tNXNkaEhrQlU5ai15M2xmTVRfc1VlY2RPZ0hrMlBLR0hweFNHQlc5aFBNRjhQU1lWTlM3amZCYTdyQ04zYlA3dmdkbkhKbnFXLXp3cUxtbHRfQlo5UmdDV2VGbC1KcVZ5cm45NURLR2V1MldKaU1yRDVyeEdHOXZEZVIzWU95ZXJKMEUwQm55RUQ2b1Z3aUI2dnM?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "NVDA",
-        "currentPrice": 125.53,
-        "weekAgoPrice": 162.85000610351562,
-        "percentChange": -22.92,
-        "flagged": true,
-        "news": [
-          {
-            "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says \u2018Bears Feel Validated,\u2019 But There\u2019s No Stopping The AI Wave - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWVsV09aaUtCWVhraDVzNVlWQlRILTEtMEN0ZDdpVXFBZ2s5b3hnZTlxRFFvYmhZVzNlVnpqa2JwY3A4RDBMT3V6cnd5YXVuZW9RMFh1Zk55OXVXNlBpQ1NvREg1bjJ2dUtPZ3gxZnhQVVg4TDBmcGpDd0pSZHVVSV9lYmdha09yOFRGb0tLOA?oc=5"
-          },
-          {
-            "title": "Bessent Softens on Jensen Huang. Can Nvidia Stock Finally Catch a Break? - Mitrade",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTk9HS29QekViTDg0enZIbThyU05sQm4zZ2FHZFJBSS1HaUhXbHpsRlp6VkJFRE5kYk1GZGhna2hpOUhTSTJVSFROMUNPRGlxZXlxLXFlVXdjU0hwLWgtd25kREw3cWExZ2tnaHlQWTFMa19mUy1CUzFKa3hsQ1U5RUdiVGlDUFpIWmhORl9fSFdBZ1U?oc=5"
-          },
-          {
-            "title": "Nvidia suffers worst weekly slump since 2008 as shares plunge 23% amid chip-smuggling allegations - Yahoo Finance Australia",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHZNQ2JJREUycVB6VmVGZHFkdWZPMlFqRjFPcEQtNFlSY2lwVl9MZTJYcXNwcGJsd1RFT1phTDQ0b1FBbGR1aFkwby1TdDBIU21Db0IyZGhOMk4zUURSc295ZzB0c0Q3cHhQMDg2b1MzcW1oZHBtQ1lpcXI4bnFMTlk2cFpLZFlSa0E?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2200000286102295,
-        "percentChange": -6.56,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.31,
-        "weekAgoPrice": 1.4299999475479126,
-        "percentChange": -8.39,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.225,
-        "weekAgoPrice": 0.25,
-        "percentChange": -10.0,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.22,
-        "weekAgoPrice": 1.3600000143051147,
-        "percentChange": -10.29,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-          },
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          },
-          {
-            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.695,
-        "weekAgoPrice": 0.75,
-        "percentChange": -7.33,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-23T04:16:22.746825Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -3270,6 +3164,28 @@
   },
   {
     "generatedAt": "2026-11-25T00:15:42.735459Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.14,
+        "weekAgoPrice": 1.2100000381469727,
+        "percentChange": -5.79,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.67,
+        "weekAgoPrice": 0.7400000095367432,
+        "percentChange": -9.46,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-25T01:15:56.909969Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
