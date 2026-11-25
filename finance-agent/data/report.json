@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T07:16:12.678334Z",
+  "generatedAt": "2026-11-25T08:16:30.280660Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,41 +21,41 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.55,
+      "currentPrice": 4.57,
       "weekAgoPrice": 4.5,
-      "percentChange": 1.11,
+      "percentChange": 1.56,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.7,
+      "currentPrice": 7.71,
       "weekAgoPrice": 7.630000114440918,
-      "percentChange": 0.92,
+      "percentChange": 1.05,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.12,
+      "currentPrice": 1.13,
       "weekAgoPrice": 1.2100000381469727,
-      "percentChange": -7.44,
+      "percentChange": -6.61,
       "flagged": true,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.34,
+      "currentPrice": 1.35,
       "weekAgoPrice": 1.3799999952316284,
-      "percentChange": -2.9,
+      "percentChange": -2.17,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5271.KL",
-      "currentPrice": 1.38,
+      "currentPrice": 1.39,
       "weekAgoPrice": 1.4199999570846558,
-      "percentChange": -2.82,
+      "percentChange": -2.11,
       "flagged": false,
       "news": []
     },
@@ -69,13 +69,13 @@
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.225,
+      "currentPrice": 0.22,
       "weekAgoPrice": 0.25,
-      "percentChange": -10.0,
+      "percentChange": -12.0,
       "flagged": true,
       "news": [
         {
-          "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo! Finance Canada",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
         }
       ]
