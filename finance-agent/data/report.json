@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-11-25T14:16:25.167895Z",
+  "generatedAt": "2026-11-25T15:16:41.894736Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 496.13,
-      "weekAgoPrice": 506.239990234375,
-      "percentChange": -2.0,
-      "flagged": false,
-      "news": []
+      "currentPrice": 482.164,
+      "weekAgoPrice": 508.2900085449219,
+      "percentChange": -5.14,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Is Microsoft Stock Worth Owning as AI Capex Weighs on Free Cash Flow? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR0x2VnVVa1dQQWFkZno3SDhORXY3WXV6aDZ6NmNvd2oydXJRVTd4UGZ5eGx6am5JS3I1aGZScWhWY2dIUXcyVWNCLUdlNkN1VG9UdEVTWnhWV2Q5bjlmWnZ5amVJMjZIUHJHZkpfUTF0NHdBNENOR3JSUER0RmYzdGtRcDJ5LVJvNTR4dGtweno5cVpmekc0S1R5SEx3WGdXU0FNVkZMNkEyTlk0NkQ2cjJHVVVHM1pyVExGeGVPQ0IxMkNRWHZUZ0QzRXI0NTBKR041alp2cUtyd2NYakN1c0twSmdGbkxD?oc=5"
+        },
+        {
+          "title": "Microsoft Corp Stock (MSFT) Opened Down by 3.53% on Nov 25: Key Drivers Unveiled - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhhQmotWUtRbTF5ajZ2R0ZUbFplWlZETHRpSTVkRmpqTTFiR1lRRWxDbmh5RXgzLUN1Nm9mWEc5TlZObVJEQlIxNTVmMGs1SDF5dkJfTmpHOFZGN1BSWnJhV3ZuYmx4VVhTQl9VRlBtUF90MDNVbVNhWlFLMWt2V0pCTWVYWFQxTFJj?oc=5"
+        },
+        {
+          "title": "Microsoft Declares \u2018Code Red\u2019 After Recent Outage - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3ZJV01hcVVRTmpKMU1Va3pZUFFaMG1wdE9USXlRYnEzNjZ5SGViVjZGejdwVUVGWVIwOWpTdTdqVFp4X01zNDc2YURWanB2RHFQcGFLc0xmcHJ4YWVPYzBmQmZhWENSWjBFOWI4QUdoRjY0QmdhenpzYWU1S0p2amgwZHpEVDZGeWF5Q2VXWU5TTWNXQjg5WnNhY2J3b3ZwVVVvcDlOc05tM2tibUxNVjRsZTlSODRod3liTTFRcDViSkZWb0lpT0VEdmI?oc=5"
+        }
+      ]
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 155.38,
-      "weekAgoPrice": 155.4600067138672,
-      "percentChange": -0.05,
+      "currentPrice": 143.956,
+      "weekAgoPrice": 150.9600067138672,
+      "percentChange": -4.64,
       "flagged": false,
       "news": []
     },
@@ -97,5 +110,5 @@
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 4
 }

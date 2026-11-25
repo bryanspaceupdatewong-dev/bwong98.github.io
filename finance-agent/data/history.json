@@ -1,77 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-23T16:16:37.061027Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 166.55,
-        "weekAgoPrice": 156.13999938964844,
-        "percentChange": 6.67,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia Stock Eyes Best Day on Record After Huang's Return - Schaeffer's Investment Research",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE02cWljaTNNQ25zQmhFUmFPM0Fmc0dRSjhreFNrZGVfV0hsQmk0TGlTNWhBbGVEWmQwcTlORG94Q3RGall1TGNPTXljMEhyc28yemJDWnV3bGdmcFkzOUVFVkdLdGxuZGJacWRqQzFwS1U3bnU3Y1JVci0tSHZRckN6bWdjU0U0bTVMWmp4UF9XTTVxQVplRzZ5eVRKZ3h0QUF1V0pRM1NVSUVJV2dlVnVMbDg3dw?oc=5"
-          },
-          {
-            "title": "5 things to consider as Nvidia restores Jensen Huang as the company's leader - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQW5hN25aQlFRM1RvY3RTdXpkTlhrNXVmVm90dDVWejNPd1ZrOV9XNXVUNkxSRk52ZEpLZ2RMdUczRUNvQXQyUWI0a25rcU5BUG94OHRCMWN1Vi14SGVCMGg2Sjlwc1lNV2hLNVliZkxwa0g5WVp6Sm9aRmVSY1BYVkV6S2g0c3VSQm1YY2wtUENDWDlwYlc3eUM1MUthWUdjLU9iVnFxaXdaTzhaWmlJNjl3RVo5S0p3MjNNSTlIZ2FfUmNuX01MNHBXRy1hY19BQzlrUUpn?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Skyrockets After Jensen Huang's Reinstatement - Benzinga",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHQxdEJSUUJ4bjhWbk9TeHV3VllqMnJJdlNRZHB3U0JTa0oxcm52b255aHJ2Y1lMUWNCMHloR05JT1VHVmx4VnhUVHRnUDgxa05VdWtjSkxjaS1nN2oweHlVaGZMYWpXVi1UWTBHMl9sZ3VlYmxIWE1kR2NNb0piWHN3UHo1aVRfc3p0c1l6MWctSHNBbDg4d1hGdGRMWm5JT3hPTWhkLVFndU9DcWQ2WDZxMjhuMVJlTmc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2200000286102295,
-        "percentChange": -6.56,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.32,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -8.97,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.225,
-        "weekAgoPrice": 0.25,
-        "percentChange": -10.0,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.309999942779541,
-        "percentChange": -6.11,
-        "flagged": true,
-        "news": [
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) stock price, news, quote and history - Yahoo Finance Singapore",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUo4MGdRUVNkUTBKU3hPelQ1aXp2Q1R0a0RNMWpoOGJGUHlyeGZWM1Q1NHNkdmFROHdleEs0Ri1GdEVsTXUtaW5yLTB1VnFPQVFsSWFB?oc=5"
-          },
-          {
-            "title": "MTT Shipping and Logistics Berhad (5352.KL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdzUyLTBTeFRyaUhDYy1ZTV9nV2JwTC10OU5VQTBocHhBcXhLRngwQ1FrTkFWOUNLc0hGWlZ0OGx2b0NaWGpMT0J2Q0VSaHctNFdpU2JR?oc=5"
-          },
-          {
-            "title": "Asia Pacific Logistics Stocks Gaining Attention As Trade Routes Shift - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQl9obTRaQi1jY0dFRlBpYWQ1REFsWkRwaWtuUWtodkdMMjZVa3N2OUlSNmlLRHdyX0o5eWZFNGZvTmFpR2UyZklLcXdIb1F4d1pRSk5rN0FET3FQM0daS3RaX1Z0RHoxQ2Y5ZDJmSjBSWkxyNTRTLU13aGtHUkprSFlSWFJMR2JvamIzQXVBOW42b25oemI2OU9DWmVsNDlna3RfTQ?oc=5"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-23T17:16:01.543393Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2304,6 +2232,62 @@
     "generatedAt": "2026-11-25T14:16:25.167895Z",
     "thresholdPercent": 5.0,
     "flagged": [
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.13,
+        "weekAgoPrice": 1.2100000381469727,
+        "percentChange": -6.61,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.22,
+        "weekAgoPrice": 0.25,
+        "percentChange": -12.0,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.68,
+        "weekAgoPrice": 0.75,
+        "percentChange": -9.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-25T15:16:41.894736Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 482.164,
+        "weekAgoPrice": 508.2900085449219,
+        "percentChange": -5.14,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Is Microsoft Stock Worth Owning as AI Capex Weighs on Free Cash Flow? - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR0x2VnVVa1dQQWFkZno3SDhORXY3WXV6aDZ6NmNvd2oydXJRVTd4UGZ5eGx6am5JS3I1aGZScWhWY2dIUXcyVWNCLUdlNkN1VG9UdEVTWnhWV2Q5bjlmWnZ5amVJMjZIUHJHZkpfUTF0NHdBNENOR3JSUER0RmYzdGtRcDJ5LVJvNTR4dGtweno5cVpmekc0S1R5SEx3WGdXU0FNVkZMNkEyTlk0NkQ2cjJHVVVHM1pyVExGeGVPQ0IxMkNRWHZUZ0QzRXI0NTBKR041alp2cUtyd2NYakN1c0twSmdGbkxD?oc=5"
+          },
+          {
+            "title": "Microsoft Corp Stock (MSFT) Opened Down by 3.53% on Nov 25: Key Drivers Unveiled - TradingKey",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhhQmotWUtRbTF5ajZ2R0ZUbFplWlZETHRpSTVkRmpqTTFiR1lRRWxDbmh5RXgzLUN1Nm9mWEc5TlZObVJEQlIxNTVmMGs1SDF5dkJfTmpHOFZGN1BSWnJhV3ZuYmx4VVhTQl9VRlBtUF90MDNVbVNhWlFLMWt2V0pCTWVYWFQxTFJj?oc=5"
+          },
+          {
+            "title": "Microsoft Declares \u2018Code Red\u2019 After Recent Outage - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3ZJV01hcVVRTmpKMU1Va3pZUFFaMG1wdE9USXlRYnEzNjZ5SGViVjZGejdwVUVGWVIwOWpTdTdqVFp4X01zNDc2YURWanB2RHFQcGFLc0xmcHJ4YWVPYzBmQmZhWENSWjBFOWI4QUdoRjY0QmdhenpzYWU1S0p2amgwZHpEVDZGeWF5Q2VXWU5TTWNXQjg5WnNhY2J3b3ZwVVVvcDlOc05tM2tibUxNVjRsZTlSODRod3liTTFRcDViSkZWb0lpT0VEdmI?oc=5"
+          }
+        ]
+      },
       {
         "ticker": "4715.KL",
         "currentPrice": 1.13,
