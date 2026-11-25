@@ -1,51 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-23T17:16:01.543393Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 166.63,
-        "weekAgoPrice": 156.13999938964844,
-        "percentChange": 6.72,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2200000286102295,
-        "percentChange": -6.56,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "3182.KL",
-        "currentPrice": 1.32,
-        "weekAgoPrice": 1.4500000476837158,
-        "percentChange": -8.97,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.225,
-        "weekAgoPrice": 0.25,
-        "percentChange": -10.0,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5352.KL",
-        "currentPrice": 1.23,
-        "weekAgoPrice": 1.309999942779541,
-        "percentChange": -6.11,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-23T18:16:00.947554Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -2314,6 +2268,83 @@
         "currentPrice": 0.68,
         "weekAgoPrice": 0.75,
         "percentChange": -9.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-25T16:16:04.961333Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "MSFT",
+        "currentPrice": 479.16,
+        "weekAgoPrice": 508.2900085449219,
+        "percentChange": -5.73,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Microsoft Stocks Fall 2.53% as Hyperscalers Join AI Selloff - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlNuenNyci02QTQtcEFiaTFad2ZGUTFiWXdqaE90d183SVRCVF9iWFBHRFRsd2lvejgtb3JiYTRTdFpuZ0M5NzFUeEJ6ZEpkNUlmcTE1ZlhkU3hVYURhSFR0SkxfSFJpSHFuQmxudjQwdUdvR0RiTVJOYmNVVkcyZmxnZ1U0dWNYUGM1cjBmcnhITkxVRWVldEthT2JxS3Jxd1FRNkI3eEh4NkZrQ19iV0J3U1NRMHdXVmc?oc=5"
+          },
+          {
+            "title": "Microsoft (MSFT) Stock: Code Red Sets a One-Hour Clock for Global Fixes - Blockonomi",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzUxcXVaNjM4bWFWX2ZtazhONkNuYUcwZWRCcWxBUWo4UndOU1B4b0pLY0pheTJUcDVzYUgzMlZ3V2J5UVNJVmlkaUk4T29YZDRIVE9TTmQyd0U4UDVCeFNmVVRiYVpvZkp3QXM3bzlnclZ4U29hMUlZX215OE9qTFRFeTd3cVN4WndrWGpONk54R2c0b0Nz?oc=5"
+          },
+          {
+            "title": "Is Microsoft Stock Worth Owning as AI Capex Weighs on Free Cash Flow? - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR0x2VnVVa1dQQWFkZno3SDhORXY3WXV6aDZ6NmNvd2oydXJRVTd4UGZ5eGx6am5JS3I1aGZScWhWY2dIUXcyVWNCLUdlNkN1VG9UdEVTWnhWV2Q5bjlmWnZ5amVJMjZIUHJHZkpfUTF0NHdBNENOR3JSUER0RmYzdGtRcDJ5LVJvNTR4dGtweno5cVpmekc0S1R5SEx3WGdXU0FNVkZMNkEyTlk0NkQ2cjJHVVVHM1pyVExGeGVPQ0IxMkNRWHZUZ0QzRXI0NTBKR041alp2cUtyd2NYakN1c0twSmdGbkxD?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "NVDA",
+        "currentPrice": 141.758,
+        "weekAgoPrice": 150.9600067138672,
+        "percentChange": -6.1,
+        "flagged": true,
+        "news": [
+          {
+            "title": "Why Nvidia Stock Continues to Fall After the Jensen Huang Pop - The Globe and Mail",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOE01bzBVX2JqSEd1OE9Jc2dqNmI5NWp1ZG5zd3hGWHFGb19WakQ4YWRlLU5nWmR1Tm9MeWg1X3RPUy1HNFhNN1lzWloyTWd4bEhfeUpCajRuQXJTQlBuZ2tTcXRBazlQRDFLZDFHTTJLNWtvX2tyVnBoaGZJS3VkcXNTVTRnU1BnNHZYX0RmVVZDVS1oNkRjV2xySWJDWDB1VlVBY1NPclhROXl4ZFc3VUQ3N1N1LWFBYTNHTy1hX3g1YUI3NDdGMmlUM0lNVV9Zekd0empsWm1zaTlfMjZjRVdn?oc=5"
+          },
+          {
+            "title": "Stock market today: Dow, S&P 500, Nasdaq sink on hot inflation, new Trump tariffs as chip rout continues - Yahoo Finance",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUEhyLTdac1NBTVdPT1QyLUJKck4wUUJkNjlXQWFHTG1peDJyeDRqNklFSkVpek9JbmEyQ0gya1R6dGZicmpfbkFIS1BjR3lDeGhFMmpIYU90ajhxZ2lwYW5sLW93TmdZcXR3Q2p3akUxc1JBRVRmbEpVQW5LM3pDaXhNZWx6a0txT19rUTQ3R2xVejJWQkh0TzdSRmlOY0lDa05oNklJOE1fVV9CY1FuRXJMNHJrVG8zQzdTX0pjYmNwanNhd0VJcTVkRQ?oc=5"
+          },
+          {
+            "title": "Nvidia Stock Keeps Falling. It\u2019s Obvious Jensen Was Not the Only Problem. - Barron's",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qNE95d05EdUt4VmhtanBHWXZjaEZhUktJLXRZaUNqejRZWk1lRW5lRUdUbFhMOGM5OUZBVUNYOVAwZTk0LURzQ3RSZHJTU29QT3dGdWhyTjdaMzJUcUdFaUFMMktvUkx3aWE4LTRvUnYtN3NYZHU0TTJR?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "4715.KL",
+        "currentPrice": 1.13,
+        "weekAgoPrice": 1.2100000381469727,
+        "percentChange": -6.61,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.22,
+        "weekAgoPrice": 0.23999999463558197,
+        "percentChange": -8.33,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.68,
+        "weekAgoPrice": 0.7400000095367432,
+        "percentChange": -8.11,
         "flagged": true,
         "news": []
       }

@@ -1,42 +1,55 @@
 {
-  "generatedAt": "2026-11-25T15:16:41.894736Z",
+  "generatedAt": "2026-11-25T16:16:04.961333Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 482.164,
+      "currentPrice": 479.16,
       "weekAgoPrice": 508.2900085449219,
-      "percentChange": -5.14,
+      "percentChange": -5.73,
       "flagged": true,
       "news": [
         {
+          "title": "Microsoft Stocks Fall 2.53% as Hyperscalers Join AI Selloff - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlNuenNyci02QTQtcEFiaTFad2ZGUTFiWXdqaE90d183SVRCVF9iWFBHRFRsd2lvejgtb3JiYTRTdFpuZ0M5NzFUeEJ6ZEpkNUlmcTE1ZlhkU3hVYURhSFR0SkxfSFJpSHFuQmxudjQwdUdvR0RiTVJOYmNVVkcyZmxnZ1U0dWNYUGM1cjBmcnhITkxVRWVldEthT2JxS3Jxd1FRNkI3eEh4NkZrQ19iV0J3U1NRMHdXVmc?oc=5"
+        },
+        {
+          "title": "Microsoft (MSFT) Stock: Code Red Sets a One-Hour Clock for Global Fixes - Blockonomi",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzUxcXVaNjM4bWFWX2ZtazhONkNuYUcwZWRCcWxBUWo4UndOU1B4b0pLY0pheTJUcDVzYUgzMlZ3V2J5UVNJVmlkaUk4T29YZDRIVE9TTmQyd0U4UDVCeFNmVVRiYVpvZkp3QXM3bzlnclZ4U29hMUlZX215OE9qTFRFeTd3cVN4WndrWGpONk54R2c0b0Nz?oc=5"
+        },
+        {
           "title": "Is Microsoft Stock Worth Owning as AI Capex Weighs on Free Cash Flow? - The Globe and Mail",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR0x2VnVVa1dQQWFkZno3SDhORXY3WXV6aDZ6NmNvd2oydXJRVTd4UGZ5eGx6am5JS3I1aGZScWhWY2dIUXcyVWNCLUdlNkN1VG9UdEVTWnhWV2Q5bjlmWnZ5amVJMjZIUHJHZkpfUTF0NHdBNENOR3JSUER0RmYzdGtRcDJ5LVJvNTR4dGtweno5cVpmekc0S1R5SEx3WGdXU0FNVkZMNkEyTlk0NkQ2cjJHVVVHM1pyVExGeGVPQ0IxMkNRWHZUZ0QzRXI0NTBKR041alp2cUtyd2NYakN1c0twSmdGbkxD?oc=5"
-        },
-        {
-          "title": "Microsoft Corp Stock (MSFT) Opened Down by 3.53% on Nov 25: Key Drivers Unveiled - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhhQmotWUtRbTF5ajZ2R0ZUbFplWlZETHRpSTVkRmpqTTFiR1lRRWxDbmh5RXgzLUN1Nm9mWEc5TlZObVJEQlIxNTVmMGs1SDF5dkJfTmpHOFZGN1BSWnJhV3ZuYmx4VVhTQl9VRlBtUF90MDNVbVNhWlFLMWt2V0pCTWVYWFQxTFJj?oc=5"
-        },
-        {
-          "title": "Microsoft Declares \u2018Code Red\u2019 After Recent Outage - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3ZJV01hcVVRTmpKMU1Va3pZUFFaMG1wdE9USXlRYnEzNjZ5SGViVjZGejdwVUVGWVIwOWpTdTdqVFp4X01zNDc2YURWanB2RHFQcGFLc0xmcHJ4YWVPYzBmQmZhWENSWjBFOWI4QUdoRjY0QmdhenpzYWU1S0p2amgwZHpEVDZGeWF5Q2VXWU5TTWNXQjg5WnNhY2J3b3ZwVVVvcDlOc05tM2tibUxNVjRsZTlSODRod3liTTFRcDViSkZWb0lpT0VEdmI?oc=5"
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 143.956,
+      "currentPrice": 141.758,
       "weekAgoPrice": 150.9600067138672,
-      "percentChange": -4.64,
-      "flagged": false,
-      "news": []
+      "percentChange": -6.1,
+      "flagged": true,
+      "news": [
+        {
+          "title": "Why Nvidia Stock Continues to Fall After the Jensen Huang Pop - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOE01bzBVX2JqSEd1OE9Jc2dqNmI5NWp1ZG5zd3hGWHFGb19WakQ4YWRlLU5nWmR1Tm9MeWg1X3RPUy1HNFhNN1lzWloyTWd4bEhfeUpCajRuQXJTQlBuZ2tTcXRBazlQRDFLZDFHTTJLNWtvX2tyVnBoaGZJS3VkcXNTVTRnU1BnNHZYX0RmVVZDVS1oNkRjV2xySWJDWDB1VlVBY1NPclhROXl4ZFc3VUQ3N1N1LWFBYTNHTy1hX3g1YUI3NDdGMmlUM0lNVV9Zekd0empsWm1zaTlfMjZjRVdn?oc=5"
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq sink on hot inflation, new Trump tariffs as chip rout continues - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUEhyLTdac1NBTVdPT1QyLUJKck4wUUJkNjlXQWFHTG1peDJyeDRqNklFSkVpek9JbmEyQ0gya1R6dGZicmpfbkFIS1BjR3lDeGhFMmpIYU90ajhxZ2lwYW5sLW93TmdZcXR3Q2p3akUxc1JBRVRmbEpVQW5LM3pDaXhNZWx6a0txT19rUTQ3R2xVejJWQkh0TzdSRmlOY0lDa05oNklJOE1fVV9CY1FuRXJMNHJrVG8zQzdTX0pjYmNwanNhd0VJcTVkRQ?oc=5"
+        },
+        {
+          "title": "Nvidia Stock Keeps Falling. It\u2019s Obvious Jensen Was Not the Only Problem. - Barron's",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qNE95d05EdUt4VmhtanBHWXZjaEZhUktJLXRZaUNqejRZWk1lRW5lRUdUbFhMOGM5OUZBVUNYOVAwZTk0LURzQ3RSZHJTU29QT3dGdWhyTjdaMzJUcUdFaUFMMktvUkx3aWE4LTRvUnYtN3NYZHU0TTJR?oc=5"
+        }
+      ]
     },
     {
       "ticker": "1295.KL",
       "currentPrice": 4.55,
-      "weekAgoPrice": 4.5,
-      "percentChange": 1.11,
+      "weekAgoPrice": 4.559999942779541,
+      "percentChange": -0.22,
       "flagged": false,
       "news": []
     },
@@ -59,8 +72,8 @@
     {
       "ticker": "3182.KL",
       "currentPrice": 1.34,
-      "weekAgoPrice": 1.3799999952316284,
-      "percentChange": -2.9,
+      "weekAgoPrice": 1.399999976158142,
+      "percentChange": -4.29,
       "flagged": false,
       "news": []
     },
@@ -75,16 +88,16 @@
     {
       "ticker": "5296.KL",
       "currentPrice": 1.03,
-      "weekAgoPrice": 1.0,
-      "percentChange": 3.0,
+      "weekAgoPrice": 1.0399999618530273,
+      "percentChange": -0.96,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
       "currentPrice": 0.22,
-      "weekAgoPrice": 0.25,
-      "percentChange": -12.0,
+      "weekAgoPrice": 0.23999999463558197,
+      "percentChange": -8.33,
       "flagged": true,
       "news": [
         {
@@ -96,19 +109,19 @@
     {
       "ticker": "5352.KL",
       "currentPrice": 1.31,
-      "weekAgoPrice": 1.25,
-      "percentChange": 4.8,
+      "weekAgoPrice": 1.2799999713897705,
+      "percentChange": 2.34,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
       "currentPrice": 0.68,
-      "weekAgoPrice": 0.75,
-      "percentChange": -9.33,
+      "weekAgoPrice": 0.7400000095367432,
+      "percentChange": -8.11,
       "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 4
+  "flaggedCount": 5
 }
