@@ -1,53 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-24T07:15:56.570920Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 165.05,
-        "weekAgoPrice": 156.13999938964844,
-        "percentChange": 5.71,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Qzd6R1BVMkNsU2hwVWc4OElya24tNzEwcjFjd1NyVkczM2dDTHk2WnNzdkxlR2huZW1IcTgtMDBTUVU3WWxZNW1PeFQyaHgwdGl3LTlaVjV1cEtWa0JSQmNuQ3hnQmViVG5XYndIVEFaRFVEUzJ30gF8QVVfeXFMTWJnbFVGZ0NXUU1Xb04xRi1tMnlKazVMVWxSOUpYSWtBV2dHVHZycUpyUk1XX24zQ2o4bHFEVDEyaklmcktGaTFvMHlualhDckJrZ25tMDB5VnEzbTRYQmhEOThhNDZSWWtMSDYya2ZHckRQLUtEZGl0Tmp2TQ?oc=5"
-          },
-          {
-            "title": "Stock futures rise as traders see whether Nvidia can extend rally from Jensen Huang\u2019s return: Live updates - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11bVhzTUlmU0hLLW0wRklRekw2eURvelhVMlZ3YThhUm5kNkctUE81eHlyNkRVQkRqTkc1enU3TWZZT0RKY2I1YWNTTmVpaDZkdlJYRGtqYkhFSGViT2NQN1A2MEVxNXEwbkNRMXlaejlRbzhtY2g40gF8QVVfeXFMTzg5Wkp0R2RYWWl3cUFWVjR1MzhPYlcwbzBsTGFFZVN0Z1QybjdvcThKTzBSd2NoOG51TU1JbkpKbUoyaWYtMGVGN2JKMWFkOWc2X3ZFODBBT3VBYkhzTmN3ZXNNTnlfUE5hRlZlM3pEaUgycEtwbWdNNlhuVw?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Just Had Its Best Day in Over a Decade. I'd Still Buy It Now. - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWp1Q1VCcGQ5b3N6VWtvVmZNOWhLSlg1NE56d3ZqTGQ1R3lnVHRrVkZ1aXlLVzBfMUc0aDFPSjZ1NGx5Q1R6YnB4aEZnbXN0cDZTSVdpS0x5eE4wZUp1aTJjaWFURUtZMEE3QXpWTGt4YmNpYm00T0dXTFdNc09DZ0xvcHFKcDN5TC1tQjAzOXV3bG45QlE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.225,
-        "weekAgoPrice": 0.23999999463558197,
-        "percentChange": -6.25,
-        "flagged": true,
-        "news": [
-          {
-            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.675,
-        "weekAgoPrice": 0.7400000095367432,
-        "percentChange": -8.78,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-24T08:16:11.781477Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1889,6 +1841,33 @@
         "currentPrice": 0.675,
         "weekAgoPrice": 0.75,
         "percentChange": -10.0,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-26T05:15:36.813873Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.22,
+        "weekAgoPrice": 0.23999999463558197,
+        "percentChange": -8.33,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.67,
+        "weekAgoPrice": 0.75,
+        "percentChange": -10.67,
         "flagged": true,
         "news": []
       }
