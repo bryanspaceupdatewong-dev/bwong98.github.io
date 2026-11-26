@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:15:55.655448Z",
+  "generatedAt": "2026-11-26T00:16:03.520636Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -73,12 +73,7 @@
       "weekAgoPrice": 0.25,
       "percentChange": -12.0,
       "flagged": true,
-      "news": [
-        {
-          "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo! Finance Canada",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
-        }
-      ]
+      "news": []
     },
     {
       "ticker": "5352.KL",
