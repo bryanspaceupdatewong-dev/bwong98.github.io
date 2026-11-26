@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-24T14:16:43.681613Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 165.05,
-        "weekAgoPrice": 156.13999938964844,
-        "percentChange": 5.71,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Nvidia live updates: Nvidia stock falls 5% following huge rally after board reinstated Jensen Huang as CEO - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWh4SkxkZkVEYVE0bHF3bzR2azhpV1pRbVJVSzJ2dHYyTEFwcFNFNFlLb25Qa0NnekRUTUlOcXd3SDBfZlJsdDVtOFNTd0VQS0RCWC1WaWZJdURybFFnZFRCM2h1SHA2RXNpWjQzLXNNMURST3dULWp4QVBKMVkycGVmeXN1eXJCWEZkaXg5YmVaTlp2SlpfM0pidU1ZaVExbGxKZXc4VG1vLVZDQTVYSTF3R2RGalo0LWVvcmtzdzVscHl0OEpsUF9RQU1wM0MyRHhQcEQ2ZEg?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Is Falling Again. Why the Jensen Jubilation Is Already Fading. - Barron's",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2eG8tdTlDV1hsNU4tQ2JMRzROTWRubTAwLVd5MWxKcVR0WEFUTGlDMk1UWDZodWZxanVGbU05S1NVZTFNaE1VaGc2b0dkUXhmeGtTTVVPbjFWRl9QSGRjVjRPNExTRGpCRjVyazA5M1EzTVI1dkE?oc=5"
-          },
-          {
-            "title": "Nvidia Stock Rally Shines A Light On US Retail Brokerage Platforms - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzJBVHcyZ3pJZk5Pc002UUtvanBWVF9aYlRxTmlEOW1UbUliRjU0VDkzQkNrQ3A4NGUtWlNIU1MzZTJhcEdsU2RORV9PeW0yYVpZOTFvSmQtc3JXNDZMc1pKbVUxblFFd3VzbVd6VXo4aUlDam4yNkZ1b2hJRGFOVm0zM1RoTkFkaC1tb2pfb1RFdkpGTk9INzQxYjc?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2100000381469727,
-        "percentChange": -5.79,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.67,
-        "weekAgoPrice": 0.7400000095367432,
-        "percentChange": -9.46,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-24T15:08:33.616211Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1765,6 +1722,33 @@
   },
   {
     "generatedAt": "2026-11-26T11:16:01.099968Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.23999999463558197,
+        "percentChange": -10.42,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.665,
+        "weekAgoPrice": 0.75,
+        "percentChange": -11.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-26T11:20:13.944305Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
