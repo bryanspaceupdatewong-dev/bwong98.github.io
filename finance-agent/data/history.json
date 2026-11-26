@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-24T10:16:32.202818Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 165.05,
-        "weekAgoPrice": 156.13999938964844,
-        "percentChange": 5.71,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Jensen Huang is back as Nvidia CEO after 12 days \u2014 Steve Jobs needed 12 years, Sam Altman less than a week - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUXo0NUxHc05haUxwRmtPNWNMX2I0NEdwcWZ0QzhOR1FGUE9WZ21nY3dkU1VxTkNjc2xnMmEzVjVjQ1hLTHpVcmxwN0Z5MVJsR3Q3MGdkcmc3dDE5ME42eHFydUxqa0NzdENJTTRMcEFraUJJWC1EUkVfQ255dDA1dXZXbVpHbzFxSjdfSlRjLTBDbkxCRjB2VWMxYm9IbU1uNzBRMmlGZXh1QTMxTTE4LUNOZ29GaExBSV90XzRTMWpIUHkzRkJodjlfcFlXVXJBWmRYVFdOLWV1cVNTN2JtdE55MGh3TjJ4ZDRBQTZXQ05HNjg?oc=5"
-          },
-          {
-            "title": "Nvidia stock falls after epic rally on Jensen Huang's return as CEO - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2VuMWM0TmxDX1JHckNONUktS3M3eFVSbDVJeWQ0bWZsUFlhWTZ6dkZWSi1lUTlZUjVnamk5OTQ4bTBBc2ViWHJzekF0cTlWSlo0blR1ZkU2RDNYVU5QbnJOaDcwZVlmWlljTHEwRV9wQ2pfdG9nNG1icTZvcnBwalZFZGRCa3Q0dTNvQ2dWcVdzTnlGcHZEajN4ME5URDNTTV9RODhxSWQzdlBTZUZDZTF1ZkExektQMVhibk5PdFoyMEJfMmtIYnZR?oc=5"
-          },
-          {
-            "title": "Jensen Huang Is Back at Nvidia, but Bettors Are Already Wagering on His Exit and Divorce - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQektTTUtOVDFZZDlzeldodVk5dkhXZy1YUi1Xbkx3dW9saGduU0h6TEd0MmtRb0lTeUdzWmJ4cVlRZmNfY0NzdVFQbnViUHJnd0V1T3NZTDF3eHFMSFdZWVU4QUlkMldwYUszeTBSYl9Cbm5kVG1GSUY1VnVOQ2IxRDJocmNuRVdweTlDX2NOMjlQMWo0b19lT1d1dHdidw?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2100000381469727,
-        "percentChange": -5.79,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.67,
-        "weekAgoPrice": 0.7400000095367432,
-        "percentChange": -9.46,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-24T11:15:55.472480Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1849,6 +1806,33 @@
         "currentPrice": 0.66,
         "weekAgoPrice": 0.75,
         "percentChange": -12.0,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-26T08:15:59.984426Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.23999999463558197,
+        "percentChange": -10.42,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.655,
+        "weekAgoPrice": 0.75,
+        "percentChange": -12.67,
         "flagged": true,
         "news": []
       }
