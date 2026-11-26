@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-24T13:16:12.031768Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 165.05,
-        "weekAgoPrice": 156.13999938964844,
-        "percentChange": 5.71,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stocks making the biggest moves premarket: Nvidia, Anthropic, Best Buy & more - CNBC",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1pxbG5jdUhaYk5vZU8yQ0hNMk1LZzJhVDctUW9XVlZOSHNheVJFNGhIdjlJQ0RmRldwLUplZXB0c2ctMXNBcXhUSlN2YWFMYkZOS2t5YUlpZmtyZDRxQmEtWDBRRkR0LWpiQ21rSnQ4TzBUd1JxNGhHQi1LN19mcVYtbWjSAYoBQVVfeXFMTXF1dDNTUmF2N3ZvWTBYdmE3NmI2SDRPSC10TGoyUm9ENjJPVjFMZXZKNi12MEdVdHFVOWhJVldPY2FNeWJMSngyZ0VoUHN0Z1BTeHM5UE82OXd4MVZ0WGhTb1cycU42YnNHYXMxX0VVVXNtY3BuSE45RFlaei11ZFhfdUI3eFdqUjln?oc=5"
-          },
-          {
-            "title": "Nvidia Faces an SEC Probe, According to Press Reports. Should You Still Buy the Stock? - The Motley Fool",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekZJZWhYRUMwOFNPWVpzbkJKQkU4b3dYTUgtemxFMWFtMzYwWWwyZ21pb2MzS2dqTFNNWnM4RUNKVzBDQjMyQzFjZ18xRVJBRFRkS0YxVXlCRnFrcEc2ZUVQQWhibkF4NjcxdVNuUDRNTV9kRDBETHZvd2tCWmJxbEplbDZJWmJpUjlfMC0wUDk1TnlOZGxSc1k2SFltRDZSajgzMkJRYm0yRURxQ0dIcFh0T09zaVB6LU1lN1Z5QXpfZVRs?oc=5"
-          },
-          {
-            "title": "Dan Ives Calls Jensen Huang's Return To Nvidia The Start of \u2018AI Godfather Part 2,\u2019 But Warns Of More \u2018Noise\u2019 Ahead - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdF9yLXBCTWVXeHVXanI4V3d0OGI4T2d3T09YelBxeWhVT3RiX0JzQWtqZE9uN1FaQ3REZTJDck1OQm9XcHdJakpibWhPdXAzdWpfT3d4RFZjenE1TzNKRm5RWTJycm81eW10VDRDMzBBLUNLRG1KT3JxOS1TOHhCVHZtQXRfTU9LVEUxR0VmVEtpdjZlTEVOQg?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2100000381469727,
-        "percentChange": -5.79,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.67,
-        "weekAgoPrice": 0.7400000095367432,
-        "percentChange": -9.46,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-24T14:16:43.681613Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1781,6 +1738,33 @@
   },
   {
     "generatedAt": "2026-11-26T10:16:07.527457Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.23999999463558197,
+        "percentChange": -10.42,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.665,
+        "weekAgoPrice": 0.75,
+        "percentChange": -11.33,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-26T11:16:01.099968Z",
     "thresholdPercent": 5.0,
     "flagged": [
       {
