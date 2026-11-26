@@ -1,48 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-24T11:15:55.472480Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "NVDA",
-        "currentPrice": 165.05,
-        "weekAgoPrice": 156.13999938964844,
-        "percentChange": 5.71,
-        "flagged": true,
-        "news": [
-          {
-            "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as investors test Nvidia-fueled rally - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEVTdjZiYWhZN3lMbUp1OHJCbkVaMEF1N2FuejJqeUZMS0tPdlFKNlJGQjJHRmxYUGxfc1RaUkdCSEhscHJNeTI4OVhkU096YnBXcjFUVVVKUmNYdGVHTzRjaWV6a01nWFlGM0FHOExGQUVHeW5EQlZmM1NFcl9CLVIwUnY1dE5rdGtXUDZYTHF0U3BjUGlGaGctZkFDWHJOUVROdHJpVWU3aXhsUHd4bl8zYVU4dElkV1E?oc=5"
-          },
-          {
-            "title": "Nvidia CEO Jensen Huang Is Back, and Stock Investors Just Got More Great News About the AI Chip Giant - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTN5ZkJwUVhHZjRoQVZHN3dSa1Y5T09zdzNqYXZlNUpEa05iN1p6WThXS3hGX09McUFLb3l0Sy1POVZuYzRBTERwblZnNDVSNkVOUVZNQi1GenRJbzBrWGVXNzBmaVVVVHJ5b2UxVjg0Qmw2ZWRabUJPb2lVWGhPSldzVjBVM2pzREJZR0ZGel9kMU4zWkExaA?oc=5"
-          },
-          {
-            "title": "Nvidia Could Generate $741 Billion in Revenue Next Year. Here\u2019s What That Means for the Stock. - Yahoo Finance",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWXBuQWthU1JTVmZOR3JiM2tNNDd5d3NNMlFZeENRRUJ6aHhodDlITXVGSzNIWGhNSHhrSndWMXZESHNUdW9ELTNEeWoxekljSHNEMnNkaUpHc196NXVlTWxnZ09QSFdKNHloNktUdmIzR3ZEZE9uRG5TazFadTV2NEI0TWNwWTdlVFh5QVcwZHRLQW5fQ0MtUU80d29JdnM?oc=5"
-          }
-        ]
-      },
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.14,
-        "weekAgoPrice": 1.2100000381469727,
-        "percentChange": -5.79,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.67,
-        "weekAgoPrice": 0.7400000095367432,
-        "percentChange": -9.46,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-24T12:16:38.072680Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1833,6 +1790,33 @@
         "currentPrice": 0.655,
         "weekAgoPrice": 0.75,
         "percentChange": -12.67,
+        "flagged": true,
+        "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-26T09:16:24.621145Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.215,
+        "weekAgoPrice": 0.23999999463558197,
+        "percentChange": -10.42,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+          }
+        ]
+      },
+      {
+        "ticker": "5341.KL",
+        "currentPrice": 0.665,
+        "weekAgoPrice": 0.75,
+        "percentChange": -11.33,
         "flagged": true,
         "news": []
       }
