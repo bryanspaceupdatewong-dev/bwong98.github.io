@@ -1,35 +1,5 @@
 [
   {
-    "generatedAt": "2026-11-26T00:16:03.520636Z",
-    "thresholdPercent": 5.0,
-    "flagged": [
-      {
-        "ticker": "4715.KL",
-        "currentPrice": 1.13,
-        "weekAgoPrice": 1.2100000381469727,
-        "percentChange": -6.61,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "0397.KL",
-        "currentPrice": 0.22,
-        "weekAgoPrice": 0.25,
-        "percentChange": -12.0,
-        "flagged": true,
-        "news": []
-      },
-      {
-        "ticker": "5341.KL",
-        "currentPrice": 0.68,
-        "weekAgoPrice": 0.75,
-        "percentChange": -9.33,
-        "flagged": true,
-        "news": []
-      }
-    ]
-  },
-  {
     "generatedAt": "2026-11-26T01:15:39.204918Z",
     "thresholdPercent": 5.0,
     "flagged": [
@@ -1510,6 +1480,33 @@
         "percentChange": -9.33,
         "flagged": true,
         "news": []
+      }
+    ]
+  },
+  {
+    "generatedAt": "2026-11-27T22:15:59.289746Z",
+    "thresholdPercent": 5.0,
+    "flagged": [
+      {
+        "ticker": "5296.KL",
+        "currentPrice": 1.05,
+        "weekAgoPrice": 0.9950000047683716,
+        "percentChange": 5.53,
+        "flagged": true,
+        "news": []
+      },
+      {
+        "ticker": "0397.KL",
+        "currentPrice": 0.225,
+        "weekAgoPrice": 0.23999999463558197,
+        "percentChange": -6.25,
+        "flagged": true,
+        "news": [
+          {
+            "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo! Finance Canada",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+          }
+        ]
       }
     ]
   }
