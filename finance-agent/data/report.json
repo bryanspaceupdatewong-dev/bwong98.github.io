@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:16:31.163993Z",
+  "generatedAt": "2026-11-27T08:15:45.545648Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
@@ -21,33 +21,33 @@
     },
     {
       "ticker": "1295.KL",
-      "currentPrice": 4.65,
+      "currentPrice": 4.67,
       "weekAgoPrice": 4.489999771118164,
-      "percentChange": 3.56,
+      "percentChange": 4.01,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "1066.KL",
-      "currentPrice": 7.59,
+      "currentPrice": 7.69,
       "weekAgoPrice": 7.650000095367432,
-      "percentChange": -0.78,
+      "percentChange": 0.52,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "4715.KL",
-      "currentPrice": 1.1,
+      "currentPrice": 1.11,
       "weekAgoPrice": 1.159999966621399,
-      "percentChange": -5.17,
-      "flagged": true,
+      "percentChange": -4.31,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "3182.KL",
-      "currentPrice": 1.3,
+      "currentPrice": 1.31,
       "weekAgoPrice": 1.3600000143051147,
-      "percentChange": -4.41,
+      "percentChange": -3.68,
       "flagged": false,
       "news": []
     },
@@ -61,36 +61,41 @@
     },
     {
       "ticker": "5296.KL",
-      "currentPrice": 1.05,
+      "currentPrice": 1.04,
       "weekAgoPrice": 0.9950000047683716,
-      "percentChange": 5.53,
-      "flagged": true,
+      "percentChange": 4.52,
+      "flagged": false,
       "news": []
     },
     {
       "ticker": "0397.KL",
-      "currentPrice": 0.22,
+      "currentPrice": 0.225,
       "weekAgoPrice": 0.23999999463558197,
-      "percentChange": -8.33,
+      "percentChange": -6.25,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5352.KL",
-      "currentPrice": 1.31,
+      "currentPrice": 1.3,
       "weekAgoPrice": 1.25,
-      "percentChange": 4.8,
+      "percentChange": 4.0,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "5341.KL",
-      "currentPrice": 0.68,
+      "currentPrice": 0.655,
       "weekAgoPrice": 0.7149999737739563,
-      "percentChange": -4.9,
-      "flagged": false,
+      "percentChange": -8.39,
+      "flagged": true,
       "news": []
     }
   ],
-  "flaggedCount": 3
+  "flaggedCount": 2
 }
