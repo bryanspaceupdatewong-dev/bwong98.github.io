@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-27T17:15:51.086110Z",
+  "generatedAt": "2026-11-27T18:17:45.245439Z",
   "interval": "hourly",
   "thresholdPercent": 5.0,
   "results": [
     {
       "ticker": "MSFT",
-      "currentPrice": 490.87,
+      "currentPrice": 492.85,
       "weekAgoPrice": 498.29998779296875,
-      "percentChange": -1.49,
+      "percentChange": -1.09,
       "flagged": false,
       "news": []
     },
     {
       "ticker": "NVDA",
-      "currentPrice": 149.07,
+      "currentPrice": 150.49,
       "weekAgoPrice": 145.97999572753906,
-      "percentChange": 2.12,
+      "percentChange": 3.09,
       "flagged": false,
       "news": []
     },
@@ -73,7 +73,12 @@
       "weekAgoPrice": 0.23999999463558197,
       "percentChange": -6.25,
       "flagged": true,
-      "news": []
+      "news": [
+        {
+          "title": "5E Resources Holdings Berhad (0397.KL) Interactive Stock Chart - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fZGNyNWIzZlI4Ri1Sd09aM19JeHc0YmVudHFTTE9wMDdEQWlIT0ZxTlpucFRjZGc5eVVwTmJ2QkxSaXhmbDBiNktFMm9ISTFmZXRWQWpfNzRhbVVjUUE?oc=5"
+        }
+      ]
     },
     {
       "ticker": "5352.KL",
